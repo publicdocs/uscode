@@ -17,7 +17,7 @@
 
     The Secretary of State, in consultation with the Administrator, shall seek effective international action and cooperation to insure protection of the marine environment, and may, for this purpose, formulate, present, or support specific proposals in the United Nations and other component international organizations for the development of appropriate international rules and regulations in support of the policy of this Act.
 
-([Pub. L. 92–532, title I, § 109][/us/pl/92/532/s109], Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 109, Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/532/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs109
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1060
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 

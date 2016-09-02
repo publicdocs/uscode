@@ -31,7 +31,7 @@
 
         Regulations under subsection (a) of this section may provide procedures for making reports and communications between a military department and the Administration.
 
-([Pub. L. 107–372, title II, § 253][/us/pl/107/372/s253], Dec. 19, 2002, [116 Stat. 3091][/us/stat/116/3091].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 253, Dec. 19, 2002, [116 Stat. 3091][/us/stat/116/3091].)
 
  __Prior Provisions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs253
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3091
 [/us/usc/t33/s858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs858
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

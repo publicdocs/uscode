@@ -17,7 +17,7 @@
 
     There is hereby created, subject to the direction and supervision of the Secretary of Transportation, a body corporate to be known as the Saint Lawrence Seaway Development Corporation (hereinafter referred to as the “Corporation”).
 
-([May 13, 1954, ch. 201, § 1][/us/act/1954-05-13/ch201/s1], [68 Stat. 93][/us/stat/68/93]; [Pub. L. 89–670, § 8(g)(1)][/us/pl/89/670/s8/g/1], Oct. 15, 1966, [80 Stat. 943][/us/stat/80/943].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 1, [68 Stat. 93][/us/stat/68/93]; [Pub. L. 89–670][/us/pl/89/670], § 8(g)(1), Oct. 15, 1966, [80 Stat. 943][/us/stat/80/943].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@ Section 11 of act May 13, 1954, provided:
 
  __Administrator To Report Directly to Secretary of Transportation__ 
 
-    [Pub. L. 89–670, § 8(g)(2)][/us/pl/89/670/s8/g/2], which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act ([Pub. L. 89–670][/us/pl/89/670]), was repealed by [Pub. L. 97–449, § 7(b)][/us/pl/97/449/s7/b], Jan. 12, 1983, [96 Stat. 2444][/us/stat/96/2444], except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+    [Pub. L. 89–670][/us/pl/89/670], § 8(g)(2), which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act ([Pub. L. 89–670][/us/pl/89/670]), was repealed by [Pub. L. 97–449][/us/pl/97/449], § 7(b), Jan. 12, 1983, [96 Stat. 2444][/us/stat/96/2444], except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
  __Executive Order No. 10534__ 
 
@@ -48,17 +48,17 @@ Section 11 of act May 13, 1954, provided:
 ----------
 ----------
 
-[/us/act/1954-05-13/ch201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs1
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F93
-[/us/pl/89/670/s8/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs8%2Fg%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F943
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/usc/t31/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs846
-[/us/pl/89/670/s8/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs8%2Fg%2F2
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
-[/us/pl/97/449/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs7%2Fb
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2444
 
 

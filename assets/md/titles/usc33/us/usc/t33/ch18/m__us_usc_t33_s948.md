@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s944.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945...947.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
 
 ## § 948. Laws inapplicable
 
     Nothing in sections 4283, 4284, 4285, 4286, or 4289 of the Revised Statutes, as amended, nor in section 18 of the Act entitled “An act to remove certain burdens on the American merchant marine and encourage the American foreign carrying trade, and for other purposes,” approved June 26, 1884, as amended, shall be held to limit the amount for which recovery may be had (1) in any suit at law or in admiralty where an employer has failed to secure compensation as required by this chapter, or (2) in any proceeding for compensation, any addition to compensation, or any civil penalty.
 
-([Mar. 4, 1927, ch. 509, § 48][/us/act/1927-03-04/ch509/s48], [44 Stat. 1446][/us/stat/44/1446].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 48, [44 Stat. 1446][/us/stat/44/1446].)
 
  __References in Text__ 
 
@@ -27,12 +27,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s944.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
+[Previous](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s945...947.md) | [Next](./../../../..//us/usc/t33/ch18/m__us_usc_t33_s948a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs948)
 
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs48
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1446
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509

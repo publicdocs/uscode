@@ -53,21 +53,21 @@
 
         In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
 
-([Pub. L. 110–69, title IV, § 4002][/us/pl/110/69/s4002], Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600]; [Pub. L. 111–358, title III, § 302][/us/pl/111/358/s302], Jan. 4, 2011, [124 Stat. 3997][/us/stat/124/3997].)
+([Pub. L. 110–69, title IV][/us/pl/110/69/tIV], § 4002, Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600]; [Pub. L. 111–358, title III][/us/pl/111/358/tIII], § 302, Jan. 4, 2011, [124 Stat. 3997][/us/stat/124/3997].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–358, § 302(1)][/us/pl/111/358/s302/1], substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
+    2011—Subsec. (a). [Pub. L. 111–358][/us/pl/111/358], § 302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
 
-    Subsec. (b). [Pub. L. 111–358, § 302(3)][/us/pl/111/358/s302/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 111–358][/us/pl/111/358], § 302(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 111–358, § 302(4)][/us/pl/111/358/s302/4], substituted “maintain” for “develop”.
+    Subsec. (c). [Pub. L. 111–358][/us/pl/111/358], § 302(4), substituted “maintain” for “develop”.
 
-    [Pub. L. 111–358, § 302(2)][/us/pl/111/358/s302/2], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 111–358][/us/pl/111/358], § 302(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 111–358, § 302(2)][/us/pl/111/358/s302/2], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 111–358][/us/pl/111/358], § 302(2), redesignated subsec. (c) as (d).
 
-    Subsec. (e). [Pub. L. 111–358, § 302(5)][/us/pl/111/358/s302/5], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–358][/us/pl/111/358], § 302(5), added subsec. (e).
 
 ----------
 
@@ -77,15 +77,15 @@
 ----------
 
 [/us/usc/t20/s1232a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232a
-[/us/pl/110/69/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs4002
+[/us/pl/110/69/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIV
 [/us/stat/121/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F600
-[/us/pl/111/358/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302
+[/us/pl/111/358/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIII
 [/us/stat/124/3997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3997
-[/us/pl/111/358/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F1
-[/us/pl/111/358/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F3
-[/us/pl/111/358/s302/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F4
-[/us/pl/111/358/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F2
-[/us/pl/111/358/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F2
-[/us/pl/111/358/s302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302%2F5
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 
 

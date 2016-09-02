@@ -27,7 +27,7 @@
 
         The estimated Federal and non-Federal costs of water resources projects authorized to be carried out by the Secretary before, on, or after November 8, 2007, are for informational purposes only and shall not be interpreted as affecting the cost-sharing responsibilities established by law.
 
-([Pub. L. 110–114, title II, § 2008][/us/pl/110/114/s2008], Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2008, Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2008
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1073
 [/us/pl/110/114/s2003/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff%2F3
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b

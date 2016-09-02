@@ -35,7 +35,7 @@
 
         (2) the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
 
-([Pub. L. 100–688, title IV, § 4108][/us/pl/100/688/s4108], Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4108, Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4108
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4158
 
 

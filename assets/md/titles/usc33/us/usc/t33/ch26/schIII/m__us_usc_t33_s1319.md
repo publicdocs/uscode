@@ -225,41 +225,41 @@
 
             Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of this section for issuance and enforcement of orders by the Administrator.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 309, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 859][/us/stat/86/859]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 54(b), 55, 56, 67(c)(2), Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], 1592, 1606; [Pub. L. 100–4, title III][/us/pl/100/4], §§ 312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, [101 Stat. 42][/us/stat/101/42], 45, 46; [Pub. L. 101–380, title IV, § 4301(c)][/us/pl/101/380/s4301/c], Aug. 18, 1990, [104 Stat. 537][/us/stat/104/537].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 309, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 859][/us/stat/86/859]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 54(b), 55, 56, 67(c)(2), Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], 1592, 1606; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], §§ 312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, [101 Stat. 42][/us/stat/101/42], 45, 46; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4301(c), Aug. 18, 1990, [104 Stat. 537][/us/stat/104/537].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
     1990—Subsec. (c)(1)(A), (2)(A), (3)(A). [Pub. L. 101–380][/us/pl/101/380] inserted “1321(b)(3),” after “1318,”.
 
-    1987—Subsec. (c). [Pub. L. 100–4, § 312][/us/pl/100/4/s312], amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
+    1987—Subsec. (c). [Pub. L. 100–4][/us/pl/100/4], § 312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
 
-    Subsec. (d). [Pub. L. 100–4, § 313(a)(1)][/us/pl/100/4/s313/a/1], inserted “, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title,” after second reference to “State,”.
+    Subsec. (d). [Pub. L. 100–4][/us/pl/100/4], § 313(a)(1), inserted “, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title,” after second reference to “State,”.
 
-    [Pub. L. 100–4, § 313(b)(1)][/us/pl/100/4/s313/b/1], substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”.
+    [Pub. L. 100–4][/us/pl/100/4], § 313(b)(1), substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”.
 
-    [Pub. L. 100–4, § 313(c)][/us/pl/100/4/s313/c], inserted at end “In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.”
+    [Pub. L. 100–4][/us/pl/100/4], § 313(c), inserted at end “In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.”
 
-    Subsec. (g). [Pub. L. 100–4, § 314(a)][/us/pl/100/4/s314/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–4][/us/pl/100/4], § 314(a), added subsec. (g).
 
     1977—Subsec. (a)(1). [Pub. L. 95–217][/us/pl/95/217], §§ 55(a), 67(c)(2)(A), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and “1342 or 1344 of this title” for “1342 of this title”.
 
-    Subsec. (a)(2). [Pub. L. 95–217, § 56(a)][/us/pl/95/217/s56/a], substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
+    Subsec. (a)(2). [Pub. L. 95–217][/us/pl/95/217], § 56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
 
     Subsec. (a)(3). [Pub. L. 95–217][/us/pl/95/217], §§ 55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under [section 1344 of this title][/us/usc/t33/s1344] by a State” after “in a permit issued under [section 1342 of this title][/us/usc/t33/s1342] by him or by a State”.
 
-    Subsec. (a)(4). [Pub. L. 95–217, § 56(b)][/us/pl/95/217/s56/b], struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
+    Subsec. (a)(4). [Pub. L. 95–217][/us/pl/95/217], § 56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
 
-    Subsec. (a)(5), (6). [Pub. L. 95–217, § 56(c)][/us/pl/95/217/s56/c], added pars. (5) and (6).
+    Subsec. (a)(5), (6). [Pub. L. 95–217][/us/pl/95/217], § 56(c), added pars. (5) and (6).
 
-    Subsec. (c)(1). [Pub. L. 95–217, § 67(c)(2)(C)][/us/pl/95/217/s67/c/2/C], substituted “by a State or in a permit issued under [section 1344 of this title][/us/usc/t33/s1344] by a State, shall be punished” for “by a State, shall be punished”.
+    Subsec. (c)(1). [Pub. L. 95–217][/us/pl/95/217], § 67(c)(2)(C), substituted “by a State or in a permit issued under [section 1344 of this title][/us/usc/t33/s1344] by a State, shall be punished” for “by a State, shall be punished”.
 
     Subsec. (d). [Pub. L. 95–217][/us/pl/95/217], §§ 55(c), 67(c)(2)(D), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under [section 1344 of this title][/us/usc/t33/s1344] by a State,” after “permit issued under [section 1342 of this title][/us/usc/t33/s1342] by the Administrator, or by a State,”.
 
-    Subsec. (f). [Pub. L. 95–217, § 54(b)][/us/pl/95/217/s54/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–217][/us/pl/95/217], § 54(b), added subsec. (f).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -267,7 +267,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 100–4, title III, § 313(a)(2)][/us/pl/100/4/s313/a/2], Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 313(a)(2), Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45], provided that: 
 
 > “No State shall be required before July 1, 1988, to modify a permit program approved or submitted under section 402 of the Federal Water Pollution Control Act \[[33 U.S.C. 1342][/us/usc/t33/s1342]\] as a result of the amendment made by paragraph (1) \[amending this section\].”
 
@@ -277,13 +277,13 @@
 
  __Increased Penalties Not Required Under State Programs__ 
 
-[Pub. L. 100–4, title III, § 313(b)(2)][/us/pl/100/4/s313/b/2], Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 313(b)(2), Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45], provided that: 
 
 > “The Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] shall not be construed as requiring a State to have a civil penalty for violations described in section 309(d) of such Act \[[33 U.S.C. 1319(d)][/us/usc/t33/s1319/d]\] which has the same monetary amount as the civil penalty established by such section, as amended by paragraph (1) \[amending this section\]. Nothing in this paragraph shall affect the Administrator’s authority to establish or adjust by regulation a minimum acceptable State civil penalty.”
 
  __Actions by Surgeon General Relating to Interstate Pollution__ 
 
-    [Act July 9, 1956, ch. 518, § 5][/us/act/1956-07-09/ch518/s5], [70 Stat. 507][/us/stat/70/507], provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
+    [Act July 9, 1956, ch. 518][/us/act/1956-07-09/ch518], § 5, [70 Stat. 507][/us/stat/70/507], provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
 
 ----------
 
@@ -328,52 +328,52 @@
 [/us/usc/t33/s1365/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1365%2Fb%2F1%2FA
 [/us/usc/t33/s1365/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1365%2Fa%2F1
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F859
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1591
-[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F42
-[/us/pl/101/380/s4301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4301%2Fc
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F537
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
-[/us/pl/100/4/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs312
-[/us/pl/100/4/s313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fa%2F1
-[/us/pl/100/4/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fb%2F1
-[/us/pl/100/4/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fc
-[/us/pl/100/4/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs314%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/95/217/s56/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs56%2Fa
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
-[/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/95/217/s56/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs56%2Fb
-[/us/pl/95/217/s56/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs56%2Fc
-[/us/pl/95/217/s67/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fc%2F2%2FC
-[/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/95/217/s54/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fb
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
+[/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/100/4/s313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fa%2F2
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F45
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
 [/us/pl/101/380/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4304
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
-[/us/pl/100/4/s313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fb%2F2
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F45
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t33/s1319/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fd
-[/us/act/1956-07-09/ch518/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch518%2Fs5
+[/us/act/1956-07-09/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch518
 [/us/stat/70/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F507
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/stat/62/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1155

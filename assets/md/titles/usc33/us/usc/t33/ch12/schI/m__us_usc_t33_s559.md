@@ -17,7 +17,7 @@
 
     Amounts paid after August 8, 1917, by private parties or other agencies for rental of plant owned by the Government in connection with the prosecution of river and harbor works shall be deposited in each case to the credit of the appropriation to which the plant belongs.
 
-([Aug. 8, 1917, ch. 49, § 13][/us/act/1917-08-08/ch49/s13], [40 Stat. 268][/us/stat/40/268].)
+([Aug. 8, 1917, ch. 49][/us/act/1917-08-08/ch49], § 13, [40 Stat. 268][/us/stat/40/268].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1917-08-08/ch49/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49%2Fs13
+[/us/act/1917-08-08/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49
 [/us/stat/40/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F268
 
 

@@ -21,7 +21,7 @@
 
     Reports by Board of Engineers for Rivers and Harbors—In the consideration of all works and projects relating to flood control which may be submitted to the Board of Engineers for Rivers and Harbors for consideration and recommendation, said board shall, in addition to any other matters upon which it may be required to report, state its opinion as to (a) what Federal interest, if any, is involved in the proposed improvement; (b) what share of the expense, if any, should be borne by the United States; and (c) the advisability of adopting the project.
 
-([Mar. 1, 1917, ch. 144, § 3][/us/act/1917-03-01/ch144/s3], [39 Stat. 950][/us/stat/39/950]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 103–437, § 12(c)][/us/pl/103/437/s12/c], Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
+([Mar. 1, 1917, ch. 144][/us/act/1917-03-01/ch144], § 3, [39 Stat. 950][/us/stat/39/950]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 103–437][/us/pl/103/437], § 12(c), Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities__ 
 
@@ -54,16 +54,16 @@
 ----------
 ----------
 
-[/us/act/1917-03-01/ch144/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-01%2Fch144%2Fs3
+[/us/act/1917-03-01/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-01%2Fch144
 [/us/stat/39/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F950
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/pl/103/437/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs12%2Fc
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4590
 [/us/usc/t33/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs643
 [/us/usc/t33/s702h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702h
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

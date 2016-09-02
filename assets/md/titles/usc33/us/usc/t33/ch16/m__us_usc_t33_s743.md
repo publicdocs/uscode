@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s736.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s741 _us_usc_t33_s742.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
 
 ## § 743. Lighthouse districts
 
     The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Rico, and the naval station in Cuba shall be arranged into not exceeding nineteen lighthouse districts.
 
-([June 17, 1910, ch. 301, § 11][/us/act/1910-06-17/ch301/s11], [36 Stat. 538][/us/stat/36/538]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
+([June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 11, [36 Stat. 538][/us/stat/36/538]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158].)
 
  __Codification__ 
 
@@ -35,12 +35,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s736.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s741 _us_usc_t33_s742.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743)
 
 ----------
 ----------
 
-[/us/act/1910-06-17/ch301/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs11
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F538
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

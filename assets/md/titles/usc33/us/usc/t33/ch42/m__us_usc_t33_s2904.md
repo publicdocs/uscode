@@ -89,7 +89,7 @@
 
         (2) to provide advice and recommendations to the Council on proposed estuary habitat restoration projects, including advice on the scientific merit, technical merit, and feasibility of a project.
 
-([Pub. L. 106–457, title I, § 105][/us/pl/106/457/s105], Nov. 7, 2000, [114 Stat. 1962][/us/stat/114/1962]; [Pub. L. 110–114, title V, § 5017(d)][/us/pl/110/114/s5017/d], Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 105, Nov. 7, 2000, [114 Stat. 1962][/us/stat/114/1962]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(d), Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
 
  __Amendments__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t33/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2905
 [/us/usc/t33/s2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2906
 [/us/usc/t33/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2905
-[/us/pl/106/457/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs105
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1962
-[/us/pl/110/114/s5017/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fd
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1198
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 

@@ -17,7 +17,7 @@
 
     For the purposes of [section 403 of this title][/us/usc/t33/s403] the following bodies of water are declared nonnavigable: Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake George, New York.
 
-([Pub. L. 94–587, § 162][/us/pl/94/587/s162], Oct. 22, 1976, [90 Stat. 2934][/us/stat/90/2934].)
+([Pub. L. 94–587][/us/pl/94/587], § 162, Oct. 22, 1976, [90 Stat. 2934][/us/stat/90/2934].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
-[/us/pl/94/587/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs162
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2934
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
 [/us/act/1899-03-03/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fs10

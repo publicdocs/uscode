@@ -73,7 +73,7 @@
 
             For purposes of this subsection, the term “toxic pollutant” means those toxic pollutants referred to in section 1311(b)(2)(C) and 1311(b)(2)(D) of this title and such other pollutants as the Secretary, in consultation with the Administrator of the Environmental Protection Agency, determines are appropriate based on their effects on human health and the environment.
 
-([Pub. L. 91–611, title I, § 123][/us/pl/91/611/s123], Dec. 31, 1970, [84 Stat. 1823][/us/stat/84/1823]; [Pub. L. 93–251, title I, § 23][/us/pl/93/251/s23], Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 100–676, § 24][/us/pl/100/676/s24], Nov. 17, 1988, [102 Stat. 4027][/us/stat/102/4027].)
+([Pub. L. 91–611, title I][/us/pl/91/611/tI], § 123, Dec. 31, 1970, [84 Stat. 1823][/us/stat/84/1823]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 23, Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 100–676][/us/pl/100/676], § 24, Nov. 17, 1988, [102 Stat. 4027][/us/stat/102/4027].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
     The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
  __Codification__ 
 
@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    1988—Subsec. (j). [Pub. L. 100–676, § 24(a)][/us/pl/100/676/s24/a], added subsec. (j).
+    1988—Subsec. (j). [Pub. L. 100–676][/us/pl/100/676], § 24(a), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 100–676, § 24(b)][/us/pl/100/676/s24/b], added subsec. (k).
+    Subsec. (k). [Pub. L. 100–676][/us/pl/100/676], § 24(b), added subsec. (k).
 
     1974—Subsec. (d). [Pub. L. 93–251][/us/pl/93/251] inserted provision for waiver of payments in event of a written agreement before occurrence of findings.
 
  __Great Lakes Confined Disposal Facilities__ 
 
-[Pub. L. 104–303, title V, § 513][/us/pl/104/303/s513], Oct. 12, 1996, [110 Stat. 3762][/us/stat/110/3762], provided that:
+[Pub. L. 104–303, title V][/us/pl/104/303/tV], § 513, Oct. 12, 1996, [110 Stat. 3762][/us/stat/110/3762], provided that:
 
 >     “(a)  __Assessment__  __.—__ 
 
@@ -127,25 +127,25 @@
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/91/611/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs123
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1823
-[/us/pl/93/251/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs23
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F20
-[/us/pl/100/676/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs24
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4027
 [/us/usc/t33/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1171
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t33/s1165a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1165a
-[/us/pl/100/676/s24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs24%2Fa
-[/us/pl/100/676/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs24%2Fb
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
-[/us/pl/104/303/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs513
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3762
 [/us/usc/t33/s1293a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1293a
 

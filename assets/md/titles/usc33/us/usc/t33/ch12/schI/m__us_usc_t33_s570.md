@@ -17,7 +17,7 @@
 
     Any amounts collected from defaulting contractors or their sureties under contracts entered into in connection with river and harbor or flood-control work prosecuted by the Engineer Department, whether collected in cash or by deduction from amounts otherwise due such contractors, hereafter shall be credited in each case to the appropriation under which the contract was made.
 
-([Aug. 30, 1935, ch. 831, § 8][/us/act/1935-08-30/ch831/s8], [49 Stat. 1048][/us/stat/49/1048].)
+([Aug. 30, 1935, ch. 831][/us/act/1935-08-30/ch831], § 8, [49 Stat. 1048][/us/stat/49/1048].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-30/ch831/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831%2Fs8
+[/us/act/1935-08-30/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831
 [/us/stat/49/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1048
 
 

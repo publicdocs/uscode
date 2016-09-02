@@ -55,7 +55,7 @@
 
         (2) The provisions of this section, with the exception of paragraph (1) of subsection (b) of this section, shall not be applied under the authority of subchapter I of chapter 81 of title 5.
 
-([Mar. 4, 1927, ch. 509, § 41][/us/act/1927-03-04/ch509/s41], [44 Stat. 1444][/us/stat/44/1444]; [Pub. L. 85–742, § 1][/us/pl/85/742/s1], Aug. 23, 1958, [72 Stat. 835][/us/stat/72/835]; [Pub. L. 97–375, title I, § 110(b)][/us/pl/97/375/s110/b], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 41, [44 Stat. 1444][/us/stat/44/1444]; [Pub. L. 85–742][/us/pl/85/742], § 1, Aug. 23, 1958, [72 Stat. 835][/us/stat/72/835]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 110(b), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
  __Codification__ 
 
-    In subsec. (b)(5), “subsections (b) to (f) of [section 6507 of title 41][/us/usc/t41/s6507]” substituted for “[section 5 of the Act of June 30, 1936][/us/act/1936-06-30/s5] (ch. 881, [49 Stat. 2036][/us/stat/49/2036]), as amended,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(5), “subsections (b) to (f) of [section 6507 of title 41][/us/usc/t41/s6507]” substituted for “[section 5 of the Act of June 30, 1936][/us/act/1936-06-30/s5] (ch. 881, [49 Stat. 2036][/us/stat/49/2036]), as amended,” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (d) “[section 552 of title 5][/us/usc/t5/s552]” substituted for “section 3 of the Administrative Procedure Act (ch. 324, [60 Stat. 237][/us/stat/60/237]), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, [39 Stat. 742][/us/stat/39/742]), as amended”, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
+    In subsec. (d) “[section 552 of title 5][/us/usc/t5/s552]” substituted for “section 3 of the Administrative Procedure Act (ch. 324, [60 Stat. 237][/us/stat/60/237]), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, [39 Stat. 742][/us/stat/39/742]), as amended”, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
 
 As originally enacted, subsec. (e) contained the phrase “, together with the District Court for the Territory of Alaska,” following “the United States district courts”. The phrase has been deleted as superfluous in view of [Pub. L. 85–508][/us/pl/85/508], July 7, 1958, [72 Stat. 339][/us/stat/72/339] (set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions) which admitted Alaska into the union and enacted [section 81A of Title 28][/us/usc/t28/s81A], Judiciary and Judicial Procedure, constituting Alaska as one judicial district and in view of [section 132 of Title 28][/us/usc/t28/s132] which provides that: 
 
@@ -89,7 +89,7 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 
  __“Secretary” Defined__ 
 
-[Pub. L. 85–742, § 2][/us/pl/85/742/s2], Aug. 23, 1958, [72 Stat. 837][/us/stat/72/837], provided that: 
+[Pub. L. 85–742][/us/pl/85/742], § 2, Aug. 23, 1958, [72 Stat. 837][/us/stat/72/837], provided that: 
 
 > “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[to this section\] means the Secretary of Labor.”
 
@@ -113,11 +113,11 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 [/us/stat/45/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F600
 [/us/stat/55/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F622
 [/us/usc/t42/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1651
-[/us/act/1927-03-04/ch509/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs41
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1444
-[/us/pl/85/742/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742%2Fs1
+[/us/pl/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742
 [/us/stat/72/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F835
-[/us/pl/97/375/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs110%2Fb
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F500
@@ -130,12 +130,12 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 [/us/usc/t41/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6507
 [/us/act/1936-06-30/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fs5
 [/us/stat/49/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2036
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
@@ -144,7 +144,7 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 [/us/usc/t28/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742
-[/us/pl/85/742/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742%2Fs2
+[/us/pl/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742
 [/us/stat/72/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F837
 
 

@@ -19,7 +19,7 @@
 
     (b) Hearings before a deputy commissioner or Board shall be open to the public and shall be stenographically reported, and the deputy commissioners or Board, subject to the approval of the Secretary, are authorized to contract for the reporting of such hearings. The Secretary shall by regulation provide for the preparation of a record of the hearings and other proceedings before the deputy commissioners or Board.
 
-([Mar. 4, 1927, ch. 509, § 23][/us/act/1927-03-04/ch509/s23], [44 Stat. 1437][/us/stat/44/1437]; [Pub. L. 92–576, § 15(e)][/us/pl/92/576/s15/e], Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262]; [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 23, [44 Stat. 1437][/us/stat/44/1437]; [Pub. L. 92–576][/us/pl/92/576], § 15(e), Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262]; [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs23
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1437
-[/us/pl/92/576/s15/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs15%2Fe
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1262
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902

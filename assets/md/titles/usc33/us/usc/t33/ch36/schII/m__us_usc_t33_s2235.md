@@ -17,7 +17,7 @@
 
     Any navigation project for a harbor or inland harbor authorized by this subchapter or any other provision of law enacted before, on, or after November 17, 1986, may be constructed in usable increments.
 
-([Pub. L. 99–662, title II, § 207][/us/pl/99/662/s207], Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 207, Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs207
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4102
 
 

@@ -71,7 +71,7 @@
 
             In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2012.
 
-([Pub. L. 104–303, title V, § 516][/us/pl/104/303/s516], Oct. 12, 1996, [110 Stat. 3763][/us/stat/110/3763]; [Pub. L. 106–541, title V, § 505][/us/pl/106/541/s505], Dec. 11, 2000, [114 Stat. 2645][/us/stat/114/2645]; [Pub. L. 110–114, title V, § 5013][/us/pl/110/114/s5013], Nov. 8, 2007, [121 Stat. 1195][/us/stat/121/1195].)
+([Pub. L. 104–303, title V][/us/pl/104/303/tV], § 516, Oct. 12, 1996, [110 Stat. 3763][/us/stat/110/3763]; [Pub. L. 106–541, title V][/us/pl/106/541/tV], § 505, Dec. 11, 2000, [114 Stat. 2645][/us/stat/114/2645]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5013, Nov. 8, 2007, [121 Stat. 1195][/us/stat/121/1195].)
 
  __Codification__ 
 
@@ -81,13 +81,13 @@
 
     2007—Subsec. (g)(2). [Pub. L. 110–114][/us/pl/110/114] substituted “through 2012” for “through 2006”.
 
-    2000—Subsec. (e)(3). [Pub. L. 106–541, § 505(1)][/us/pl/106/541/s505/1], added par. (3).
+    2000—Subsec. (e)(3). [Pub. L. 106–541][/us/pl/106/541], § 505(1), added par. (3).
 
-    Subsec. (g). [Pub. L. 106–541, § 505(2)][/us/pl/106/541/s505/2], designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+    Subsec. (g). [Pub. L. 106–541][/us/pl/106/541], § 505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
  __New York-New Jersey Harbor, New York and New Jersey__ 
 
-[Pub. L. 106–53, title V, § 540][/us/pl/106/53/s540], Aug. 17, 1999, [113 Stat. 350][/us/stat/113/350], provided that:
+[Pub. L. 106–53, title V][/us/pl/106/53/tV], § 540, Aug. 17, 1999, [113 Stat. 350][/us/stat/113/350], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -108,16 +108,16 @@
 ----------
 ----------
 
-[/us/pl/104/303/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs516
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3763
-[/us/pl/106/541/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs505
+[/us/pl/106/541/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtV
 [/us/stat/114/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2645
-[/us/pl/110/114/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5013
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1195
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
-[/us/pl/106/541/s505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs505%2F1
-[/us/pl/106/541/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs505%2F2
-[/us/pl/106/53/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs540
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F350
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

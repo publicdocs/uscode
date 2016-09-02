@@ -39,7 +39,7 @@
 
         Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may have been entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 511, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 893][/us/stat/86/893]; amended [Pub. L. 93–243, § 3][/us/pl/93/243/s3], Jan. 2, 1974, [87 Stat. 1069][/us/stat/87/1069].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 511, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 893][/us/stat/86/893]; amended [Pub. L. 93–243][/us/pl/93/243], § 3, Jan. 2, 1974, [87 Stat. 1069][/us/stat/87/1069].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t33/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1341
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F893
-[/us/pl/93/243/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F243%2Fs3
+[/us/pl/93/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F243
 [/us/stat/87/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1069
 [/us/act/1899-03-03/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425
 [/us/stat/30/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1121

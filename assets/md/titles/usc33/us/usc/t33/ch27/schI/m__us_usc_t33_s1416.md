@@ -63,7 +63,7 @@
 
         Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
 
-([Pub. L. 92–532, title I, § 106][/us/pl/92/532/s106], Oct. 23, 1972, [86 Stat. 1058][/us/stat/86/1058]; [Pub. L. 96–572, § 4][/us/pl/96/572/s4], Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; [Pub. L. 99–499, title I, § 127(d)][/us/pl/99/499/s127/d], Oct. 17, 1986, [100 Stat. 1693][/us/stat/100/1693]; [Pub. L. 101–596, title II, § 203][/us/pl/101/596/s203], Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; [Pub. L. 102–580, title V, § 505][/us/pl/102/580/s505], Oct. 31, 1992, [106 Stat. 4867][/us/stat/106/4867].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 106, Oct. 23, 1972, [86 Stat. 1058][/us/stat/86/1058]; [Pub. L. 96–572][/us/pl/96/572], § 4, Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 127(d), Oct. 17, 1986, [100 Stat. 1693][/us/stat/100/1693]; [Pub. L. 101–596, title II][/us/pl/101/596/tII], § 203, Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; [Pub. L. 102–580, title V][/us/pl/102/580/tV], § 505, Oct. 31, 1992, [106 Stat. 4867][/us/stat/106/4867].)
 
  __References in Text__ 
 
@@ -100,15 +100,15 @@
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
 [/us/usc/t16/s661–666c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661%E2%80%93666c
 [/us/usc/t33/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fa
-[/us/pl/92/532/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs106
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1058
-[/us/pl/96/572/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572%2Fs4
+[/us/pl/96/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572
 [/us/stat/94/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3345
-[/us/pl/99/499/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fd
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1693
-[/us/pl/101/596/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs203
+[/us/pl/101/596/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtII
 [/us/stat/104/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3006
-[/us/pl/102/580/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs505
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4867
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/pl/92/532/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs110%2Fa

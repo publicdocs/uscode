@@ -17,7 +17,7 @@
 
     The United States shall provide the drainage made necessary by the construction of floodway levees included in the modified project.
 
-([June 15, 1936, ch. 548, § 6][/us/act/1936-06-15/ch548/s6], [49 Stat. 1510][/us/stat/49/1510].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 6, [49 Stat. 1510][/us/stat/49/1510].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch548/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs6
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1510
 
 

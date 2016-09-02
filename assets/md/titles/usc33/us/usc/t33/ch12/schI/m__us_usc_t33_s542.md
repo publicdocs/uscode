@@ -17,7 +17,7 @@
 
     All reports on examinations and surveys authorized by law shall be reviewed by the Board of Engineers for Rivers and Harbors as provided for in [section 541 of this title][/us/usc/t33/s541], and all special reports ordered by Congress shall, in the discretion of the Chief of Engineers, be reviewed in like manner by said board; and the said board shall also, on request by resolution of the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, submitted to the Chief of Engineers, examine and review the report of any examination or survey made pursuant to any Act or resolution of Congress, and report thereon through the Chief of Engineers, United States Army, who shall submit his conclusions thereon as in other cases: Provided, That in no case shall the board, in its report thus called for by committee resolution, extend the scope of the project contemplated in the original report upon which its examination and review has been requested, or in the provision of law authorizing the original examination or survey.
 
-([Mar. 4, 1913, ch. 144, § 4][/us/act/1913-03-04/ch144/s4], [37 Stat. 826][/us/stat/37/826]; [Pub. L. 103–437, § 12(b)][/us/pl/103/437/s12/b], Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
+([Mar. 4, 1913, ch. 144][/us/act/1913-03-04/ch144], § 4, [37 Stat. 826][/us/stat/37/826]; [Pub. L. 103–437][/us/pl/103/437], § 12(b), Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
 
  __Codification__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541
-[/us/act/1913-03-04/ch144/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144%2Fs4
+[/us/act/1913-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144
 [/us/stat/37/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F826
-[/us/pl/103/437/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs12%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4590
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

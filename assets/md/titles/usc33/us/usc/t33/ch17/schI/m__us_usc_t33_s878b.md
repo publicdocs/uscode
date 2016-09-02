@@ -17,7 +17,7 @@
 
     On and after March 11, 2009, the Secretary of Commerce is permitted to prescribe and enforce standards or regulations affecting safety and health in the context of scientific and occupational diving within the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 111–8, div. B, title I, § 106][/us/pl/111/8/s106], Mar. 11, 2009, [123 Stat. 568][/us/stat/123/568].)
+([Pub. L. 111–8, div. B, title I][/us/pl/111/8/dB/tI], § 106, Mar. 11, 2009, [123 Stat. 568][/us/stat/123/568].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 110–161, div. B, title I, § 110][/us/pl/110/161/s110], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].
+    [Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 110, Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].
 
 ----------
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/111/8/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs106
+[/us/pl/111/8/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdB%2FtI
 [/us/stat/123/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F568
-[/us/pl/110/161/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs110
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1893
 
 

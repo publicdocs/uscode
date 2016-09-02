@@ -19,7 +19,7 @@
 
     The sum of $5,000,000 is authorized to be used out of the appropriation authorized in [section 702a of this title][/us/usc/t33/s702a], in addition to amounts authorized in the River and Harbor Act of January 21, 1927 \[ch. 47, [44 Stat. 1010][/us/stat/44/1010]\], to be expended under the direction of the Secretary of the Army and the supervision of the Chief of Engineers for the preparation of the flood-control projects authorized to be submitted to Congress under this section: Provided further, That the flood surveys herein provided for shall be made simultaneously with the flood-control work on the Mississippi River provided for in sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title: And provided further, That the President shall proceed to ascertain through the Secretary of Agriculture and such other agencies as he may deem proper, the extent to and manner in which the floods in the Mississippi Valley may be controlled by proper forestry practice.
 
-([May 15, 1928, ch. 569, § 10][/us/act/1928-05-15/ch569/s10], [45 Stat. 538][/us/stat/45/538]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([May 15, 1928, ch. 569][/us/act/1928-05-15/ch569], § 10, [45 Stat. 538][/us/stat/45/538]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Transfer of Functions__ 
 
@@ -45,14 +45,14 @@
 [/us/stat/44/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1010
 [/us/usc/t33/s702a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a
 [/us/stat/44/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1010
-[/us/act/1928-05-15/ch569/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569%2Fs10
+[/us/act/1928-05-15/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569
 [/us/stat/45/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F538
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/stat/44/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1010
 [/us/act/1928-05-15/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569
 [/us/stat/45/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F534
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

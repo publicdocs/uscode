@@ -51,7 +51,7 @@
 
         (3) For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 102, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 817][/us/stat/86/817]; amended [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 95–217, § 5(b)][/us/pl/95/217/s5/b], Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567]; [Pub. L. 104–66, title II, § 2021(a)][/us/pl/104/66/s2021/a], Dec. 21, 1995, [109 Stat. 726][/us/stat/109/726].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 102, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 817][/us/stat/86/817]; amended [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 95–217][/us/pl/95/217], § 5(b), Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(a), Dec. 21, 1995, [109 Stat. 726][/us/stat/109/726].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Transfer of Functions__ 
 
-    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
+    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
 
  __Executive Order No. 10014__ 
 
@@ -77,18 +77,18 @@
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
 [/us/usc/t33/s1313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313%2Fe
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F817
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
-[/us/pl/95/217/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs5%2Fb
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1567
-[/us/pl/104/66/s2021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fa
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F726
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t33/s1251/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251%2Fg
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/usc/t42/s7172/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FA
 

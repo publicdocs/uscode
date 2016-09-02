@@ -205,7 +205,7 @@
 
             Nothing in this subsection shall be construed to affect the Secretary’s authority under section 903(c). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 99–662, title I, § 103][/us/pl/99/662/s103], Nov. 17, 1986, [100 Stat. 4084][/us/stat/100/4084]; [Pub. L. 101–640, title III, § 305(a)][/us/pl/101/640/s305/a], Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635]; [Pub. L. 102–580, title II, § 201(a)][/us/pl/102/580/s201/a], title III, § 333(b)(2), Oct. 31, 1992, [106 Stat. 4825][/us/stat/106/4825], 4852; [Pub. L. 104–303, title II][/us/pl/104/303], §§ 202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, [110 Stat. 3673][/us/stat/110/3673], 3681; [Pub. L. 106–53, title II][/us/pl/106/53], §§ 215(a), 219(c), Aug. 17, 1999, [113 Stat. 292][/us/stat/113/292], 295; [Pub. L. 106–109, § 5][/us/pl/106/109/s5], Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495]; [Pub. L. 106–541, title II, § 204][/us/pl/106/541/s204], Dec. 11, 2000, [114 Stat. 2589][/us/stat/114/2589]; [Pub. L. 110–114, title II][/us/pl/110/114], §§ 2001, 2019(a), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1078.)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 103, Nov. 17, 1986, [100 Stat. 4084][/us/stat/100/4084]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 305(a), Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635]; [Pub. L. 102–580, title II][/us/pl/102/580/tII], § 201(a), title III, § 333(b)(2), Oct. 31, 1992, [106 Stat. 4825][/us/stat/106/4825], 4852; [Pub. L. 104–303, title II][/us/pl/104/303/tII], §§ 202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, [110 Stat. 3673][/us/stat/110/3673], 3681; [Pub. L. 106–53, title II][/us/pl/106/53/tII], §§ 215(a), 219(c), Aug. 17, 1999, [113 Stat. 292][/us/stat/113/292], 295; [Pub. L. 106–109][/us/pl/106/109], § 5, Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 204, Dec. 11, 2000, [114 Stat. 2589][/us/stat/114/2589]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], §§ 2001, 2019(a), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1078.)
 
  __References in Text__ 
 
@@ -225,33 +225,33 @@
 
  __Amendments__ 
 
-    2007—Subsec. (m)(2). [Pub. L. 110–114, § 2019(a)][/us/pl/110/114/s2019/a], substituted “December 31, 2007” for “180 days after December 11, 2000”.
+    2007—Subsec. (m)(2). [Pub. L. 110–114][/us/pl/110/114], § 2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
 
-    Subsec. (n). [Pub. L. 110–114, § 2001][/us/pl/110/114/s2001], added subsec. (n).
+    Subsec. (n). [Pub. L. 110–114][/us/pl/110/114], § 2001, added subsec. (n).
 
-    2000—Subsec. (m)(1), (2). [Pub. L. 106–541, § 204(1)][/us/pl/106/541/s204/1], added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
+    2000—Subsec. (m)(1), (2). [Pub. L. 106–541][/us/pl/106/541], § 204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
 
-    Subsec. (m)(3)(B), (C). [Pub. L. 106–541, § 204(2)][/us/pl/106/541/s204/2], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
+    Subsec. (m)(3)(B), (C). [Pub. L. 106–541][/us/pl/106/541], § 204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
 
-    1999—Subsec. (b). [Pub. L. 106–53, § 219(c)(1)][/us/pl/106/53/s219/c/1], which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+    1999—Subsec. (b). [Pub. L. 106–53][/us/pl/106/53], § 219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
-    Subsec. (b)(2). [Pub. L. 106–53, § 219(c)(2)][/us/pl/106/53/s219/c/2], added par. (2).
+    Subsec. (b)(2). [Pub. L. 106–53][/us/pl/106/53], § 219(c)(2), added par. (2).
 
-    Subsec. (d). [Pub. L. 106–53, § 215(a)][/us/pl/106/53/s215/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (d). [Pub. L. 106–53][/us/pl/106/53], § 215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     Subsec. (d)(2)(A). [Pub. L. 106–109][/us/pl/106/109] substituted “except for a project for which a District Engineer’s Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
 
-    1996—Subsecs. (a)(2), (b). [Pub. L. 104–303, § 202(a)(1)(A)][/us/pl/104/303/s202/a/1/A], substituted “35 percent” for “25 percent” wherever appearing.
+    1996—Subsecs. (a)(2), (b). [Pub. L. 104–303][/us/pl/104/303], § 202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
 
-    Subsec. (c)(7). [Pub. L. 104–303, § 210(a)][/us/pl/104/303/s210/a], added par. (7).
+    Subsec. (c)(7). [Pub. L. 104–303][/us/pl/104/303], § 210(a), added par. (7).
 
-    Subsec. (e)(1). [Pub. L. 104–303, § 202(a)(2)][/us/pl/104/303/s202/a/2], inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
+    Subsec. (e)(1). [Pub. L. 104–303][/us/pl/104/303], § 202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
 
-    Subsec. (m). [Pub. L. 104–303, § 202(b)(1)][/us/pl/104/303/s202/b/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+    Subsec. (m). [Pub. L. 104–303][/us/pl/104/303], § 202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
 
-    1992—Subsec. (i). [Pub. L. 102–580, § 333(b)(2)][/us/pl/102/580/s333/b/2], substituted “Except as provided under [section 2283(c) of this title][/us/usc/t33/s2283/c], the non-Federal” for “The non-Federal”.
+    1992—Subsec. (i). [Pub. L. 102–580][/us/pl/102/580], § 333(b)(2), substituted “Except as provided under [section 2283(c) of this title][/us/usc/t33/s2283/c], the non-Federal” for “The non-Federal”.
 
-    Subsec. (m). [Pub. L. 102–580, § 201(a)][/us/pl/102/580/s201/a], amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
+    Subsec. (m). [Pub. L. 102–580][/us/pl/102/580], § 201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
 
     “(1) General rule.—Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
 
@@ -267,11 +267,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–303, title II, § 202(a)(1)(B)][/us/pl/104/303/s202/a/1/B], Oct. 12, 1996, [110 Stat. 3673][/us/stat/110/3673], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(a)(1)(B), Oct. 12, 1996, [110 Stat. 3673][/us/stat/110/3673], provided that: 
 
 > “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
 
-[Pub. L. 104–303, title II, § 202(b)(2)][/us/pl/104/303/s202/b/2], Oct. 12, 1996, [110 Stat. 3674][/us/stat/110/3674], provided that:
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(b)(2), Oct. 12, 1996, [110 Stat. 3674][/us/stat/110/3674], provided that:
 
 >     “(A)  __Generally__  __.—__ 
 
@@ -287,19 +287,19 @@
 
     \[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see [section 2003(f)(2) of Pub. L. 110–114][/us/pl/110/114/s2003/f/2], set out as a note under [section 1962d–5b of Title 42][/us/usc/t42/s1962d–5b], The Public Health and Welfare.\]
 
-[Pub. L. 104–303, title II, § 210(b)][/us/pl/104/303/s210/b], Oct. 12, 1996, [110 Stat. 3681][/us/stat/110/3681], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 210(b), Oct. 12, 1996, [110 Stat. 3681][/us/stat/110/3681], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
 
  __Continuation of Existing Regulations__ 
 
-[Pub. L. 101–640, title III, § 305(b)][/us/pl/101/640/s305/b], Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635], provided that: 
+[Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 305(b), Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635], provided that: 
 
 > “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[[33 U.S.C. 2213(m)][/us/usc/t33/s2213/m]\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
 
  __Reports to Congress__ 
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 401][/us/stat/101/401], provided that: 
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 401][/us/stat/101/401], provided that: 
 
 > “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of [section 103 of Public Law 99–662][/us/pl/99/662/s103] \[[33 U.S.C. 2213(m)][/us/usc/t33/s2213/m]\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of [section 103 of Public Law 99–662][/us/pl/99/662/s103].”
 
@@ -321,21 +321,21 @@
 [/us/usc/t33/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2216
 [/us/usc/t33/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211
 [/us/usc/t33/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2216
-[/us/pl/99/662/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs103
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4084
-[/us/pl/101/640/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs305%2Fa
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4635
-[/us/pl/102/580/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs201%2Fa
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4825
-[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3673
-[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F292
-[/us/pl/106/109/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109%2Fs5
+[/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/stat/113/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1495
-[/us/pl/106/541/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs204
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2589
-[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1067
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
@@ -356,34 +356,34 @@
 [/us/stat/55/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F638
 [/us/pl/99/662/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs903%2Fc
 [/us/stat/100/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4184
-[/us/pl/110/114/s2019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2019%2Fa
-[/us/pl/110/114/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2001
-[/us/pl/106/541/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs204%2F1
-[/us/pl/106/541/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs204%2F2
-[/us/pl/106/53/s219/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fc%2F1
-[/us/pl/106/53/s219/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fc%2F2
-[/us/pl/106/53/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs215%2Fa
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
-[/us/pl/104/303/s202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fa%2F1%2FA
-[/us/pl/104/303/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs210%2Fa
-[/us/pl/104/303/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fa%2F2
-[/us/pl/104/303/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fb%2F1
-[/us/pl/102/580/s333/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs333%2Fb%2F2
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/usc/t33/s2283/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283%2Fc
-[/us/pl/102/580/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs201%2Fa
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
-[/us/pl/104/303/s202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fa%2F1%2FB
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3673
-[/us/pl/104/303/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fb%2F2
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3674
 [/us/pl/110/114/s2003/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff%2F2
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/104/303/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs210%2Fb
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3681
-[/us/pl/101/640/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs305%2Fb
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4635
 [/us/usc/t33/s2213/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213%2Fm
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F401
 [/us/pl/99/662/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs103
 [/us/usc/t33/s2213/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213%2Fm

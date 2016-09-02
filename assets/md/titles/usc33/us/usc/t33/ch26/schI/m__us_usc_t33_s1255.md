@@ -75,7 +75,7 @@
 
         The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to [section 1282(a)(2) of this title][/us/usc/t33/s1282/a/2]. Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 105, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 825][/us/stat/86/825]; amended [Pub. L. 93–592, § 2][/us/pl/93/592/s2], Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 95–217][/us/pl/95/217], §§ 8, 9, Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 105, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 825][/us/stat/86/825]; amended [Pub. L. 93–592][/us/pl/93/592], § 2, Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 95–217][/us/pl/95/217], §§ 8, 9, Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568].)
 
  __Amendments__ 
 
@@ -101,9 +101,9 @@
 [/us/usc/t33/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1263
 [/us/usc/t33/s1282/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1282%2Fa%2F2
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F825
-[/us/pl/93/592/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592%2Fs2
+[/us/pl/93/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592
 [/us/stat/88/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1925
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1568

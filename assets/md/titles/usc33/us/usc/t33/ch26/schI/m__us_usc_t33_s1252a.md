@@ -17,7 +17,7 @@
 
     In the case of any reservoir project authorized for construction by the Corps of Engineers, Bureau of Reclamation, or other Federal agency when the Administrator of the Environmental Protection Agency determines pursuant to [section 1252(b) of this title][/us/usc/t33/s1252/b] that any storage in such project for regulation of streamflow for water quality is not needed, or is needed in a different amount, such project may be modified accordingly by the head of the appropriate agency, and any storage no longer required for water quality may be utilized for other authorized purposes of the project when, in the opinion of the head of such agency, such use is justified. Any such modification of a project where the benefits attributable to water quality are 15 per centum or more but not greater than 25 per centum of the total project benefits shall take effect only upon the adoption of resolutions approving such modification by the appropriate committees of the Senate and House of Representatives. The provisions of the section shall not apply to any project where the benefits attributable to water quality exceed 25 per centum of the total project benefits.
 
-([Pub. L. 93–251, title I, § 65][/us/pl/93/251/s65], Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 65, Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s1252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1252%2Fb
-[/us/pl/93/251/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs65
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F30
 
 

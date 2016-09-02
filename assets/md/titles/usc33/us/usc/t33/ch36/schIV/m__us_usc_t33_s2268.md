@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated $2,500,000 to carry out this section for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.
 
-([Pub. L. 102–580, title IV, § 402][/us/pl/102/580/s402], Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862].)
+([Pub. L. 102–580, title IV][/us/pl/102/580/tIV], § 402, Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/580/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs402
+[/us/pl/102/580/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIV
 [/us/stat/106/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4862
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

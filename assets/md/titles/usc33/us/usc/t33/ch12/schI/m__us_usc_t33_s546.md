@@ -17,7 +17,7 @@
 
     The surveys of navigable streams shall include such stream-flow measurements and other investigations of the watersheds as may be necessary for preparation of plans of improvement and a proper consideration of all uses of the stream affecting navigation, and whenever necessary similar investigations may be made in connection with all navigable streams under improvement. Whenever permission for the construction of dams in navigable streams is granted, or is under consideration by Congress, such surveys and investigations of the sections of the streams affected may be made as are necessary to secure conformity with rational plans for the improvement of the streams for navigation.
 
-([June 25, 1910, ch. 382, § 3][/us/act/1910-06-25/ch382/s3], [36 Stat. 669][/us/stat/36/669].)
+([June 25, 1910, ch. 382][/us/act/1910-06-25/ch382], § 3, [36 Stat. 669][/us/stat/36/669].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1910-06-25/ch382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch382%2Fs3
+[/us/act/1910-06-25/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch382
 [/us/stat/36/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F669
 [/us/usc/t33/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs545
 [/us/act/1906-06-21/ch3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-21%2Fch3508

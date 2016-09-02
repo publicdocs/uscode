@@ -41,7 +41,7 @@
 
         For the purpose of this section, the term “village” shall mean an incorporated or unincorporated community with a population of ten to six hundred people living within a two-mile radius. The term “sanitation services” shall mean water supply, sewage disposal, solid waste disposal and other services necessary to maintain generally accepted standards of personal hygiene and public health.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 113, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 832][/us/stat/86/832]; amended [Pub. L. 95–217, § 11][/us/pl/95/217/s11], Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 113, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 832][/us/stat/86/832]; amended [Pub. L. 95–217][/us/pl/95/217], § 11, Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    1977—Subsec. (d). [Pub. L. 95–217, § 11(b)][/us/pl/95/217/s11/b], authorized additional appropriations of not to exceed $200,000 for the fiscal year ending Sept. 30, 1978, and $220,000, for the fiscal year ending Sept. 30, 1979, to carry out this section.
+    1977—Subsec. (d). [Pub. L. 95–217][/us/pl/95/217], § 11(b), authorized additional appropriations of not to exceed $200,000 for the fiscal year ending Sept. 30, 1978, and $220,000, for the fiscal year ending Sept. 30, 1979, to carry out this section.
 
-    Subsecs. (e) to (g). [Pub. L. 95–217, § 11(a)][/us/pl/95/217/s11/a], added subsecs. (e), (f), and (g).
+    Subsecs. (e) to (g). [Pub. L. 95–217][/us/pl/95/217], § 11(a), added subsecs. (e), (f), and (g).
 
  __Change of Name__ 
 
@@ -65,7 +65,7 @@
 
  __Corps Capability Study, Alaska__ 
 
-[Pub. L. 104–303, title IV, § 401][/us/pl/104/303/s401], Oct. 12, 1996, [110 Stat. 3740][/us/stat/110/3740], provided that: 
+[Pub. L. 104–303, title IV][/us/pl/104/303/tIV], § 401, Oct. 12, 1996, [110 Stat. 3740][/us/stat/110/3740], provided that: 
 
 > “Not later than 18 months after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall report to Congress on the advisability and capability of the Corps of Engineers to implement rural sanitation projects for rural and Native villages in Alaska.”
 
@@ -78,23 +78,23 @@
 
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F832
-[/us/pl/95/217/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs11
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1568
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/217/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs11%2Fb
-[/us/pl/95/217/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs11%2Fa
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/104/303/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs401
+[/us/pl/104/303/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtIV
 [/us/stat/110/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3740
 
 

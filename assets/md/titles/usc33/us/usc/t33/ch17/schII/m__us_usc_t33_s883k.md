@@ -17,7 +17,7 @@
 
     For fiscal year 1990 and hereafter funds appropriated under this heading shall be available for acquisition of land for facilities.
 
-([Pub. L. 101–162, title I][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 992][/us/stat/103/992].)
+([Pub. L. 101–162, title I][/us/pl/101/162/tI], Nov. 21, 1989, [103 Stat. 992][/us/stat/103/992].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtI
 [/us/stat/103/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F992
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 

@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a) of this section, an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.
 
-([Pub. L. 107–372, title II, § 225][/us/pl/107/372/s225], Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 225, Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs225
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3085
 [/us/usc/t33/s853f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853f
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

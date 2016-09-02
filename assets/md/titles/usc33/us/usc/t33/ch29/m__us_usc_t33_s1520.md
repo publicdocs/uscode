@@ -21,7 +21,7 @@
 
     (b) __, (c) Omitted__ 
 
-([Pub. L. 93–627, § 21][/us/pl/93/627/s21], Jan. 3, 1975, [88 Stat. 2146][/us/stat/88/2146]; [Pub. L. 107–295, title I, § 106(a)(3)][/us/pl/107/295/s106/a/3], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086].)
+([Pub. L. 93–627][/us/pl/93/627], § 21, Jan. 3, 1975, [88 Stat. 2146][/us/stat/88/2146]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(a)(3), Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/93/627/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs21
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2146
-[/us/pl/107/295/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fa%2F3
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 

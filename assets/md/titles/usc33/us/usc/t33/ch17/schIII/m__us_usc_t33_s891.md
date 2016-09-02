@@ -27,7 +27,7 @@
 
     (5) “UNOLS” means University-National Oceanographic Laboratory System.
 
-([Pub. L. 102–567, title VI, § 602][/us/pl/102/567/s602], Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 602, Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
 
  __Short Title__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s891b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs891b
-[/us/pl/102/567/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs602
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4299
 [/us/pl/102/567/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs601
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851

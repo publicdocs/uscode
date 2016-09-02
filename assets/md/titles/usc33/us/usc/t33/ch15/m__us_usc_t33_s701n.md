@@ -91,7 +91,7 @@
 
                     (II) repair or rebuilding described in clause (i) if, in the normal course of usage, the structure becomes structurally unsound and is no longer fit to provide the level of protection for which the structure was designed.
 
-([Aug. 18, 1941, ch. 377, § 5][/us/act/1941-08-18/ch377/s5], [55 Stat. 650][/us/stat/55/650]; [July 24, 1946, ch. 596, § 12][/us/act/1946-07-24/ch596/s12], [60 Stat. 652][/us/stat/60/652]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 206, [62 Stat. 1182][/us/stat/62/1182]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 210, [64 Stat. 183][/us/stat/64/183]; [June 28, 1955, ch. 194][/us/act/1955-06-28/ch194], [69 Stat. 186][/us/stat/69/186]; [Pub. L. 87–874, title II, § 206][/us/pl/87/874/s206], Oct. 23, 1962, [76 Stat. 1194][/us/stat/76/1194]; [Pub. L. 93–251, title I, § 82][/us/pl/93/251/s82], Mar. 7, 1974, [88 Stat. 34][/us/stat/88/34]; [Pub. L. 95–51, § 2][/us/pl/95/51/s2], June 20, 1977, [91 Stat. 233][/us/stat/91/233]; [Pub. L. 99–662, title IX, § 917][/us/pl/99/662/s917], Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192]; [Pub. L. 100–45, § 9][/us/pl/100/45/s9], May 27, 1987, [101 Stat. 323][/us/stat/101/323]; [Pub. L. 100–707, title I, § 109(m)][/us/pl/100/707/s109/m], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–640, title III, § 302][/us/pl/101/640/s302], Nov. 28, 1990, [104 Stat. 4633][/us/stat/104/4633]; [Pub. L. 104–303, title II, § 202(e)][/us/pl/104/303/s202/e], (f), Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675]; [Pub. L. 113–121, title III, § 3029(a)][/us/pl/113/121/s3029/a], June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
+([Aug. 18, 1941, ch. 377][/us/act/1941-08-18/ch377], § 5, [55 Stat. 650][/us/stat/55/650]; [July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], § 12, [60 Stat. 652][/us/stat/60/652]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 206, [62 Stat. 1182][/us/stat/62/1182]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 210, [64 Stat. 183][/us/stat/64/183]; [June 28, 1955, ch. 194][/us/act/1955-06-28/ch194], [69 Stat. 186][/us/stat/69/186]; [Pub. L. 87–874, title II][/us/pl/87/874/tII], § 206, Oct. 23, 1962, [76 Stat. 1194][/us/stat/76/1194]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 82, Mar. 7, 1974, [88 Stat. 34][/us/stat/88/34]; [Pub. L. 95–51][/us/pl/95/51], § 2, June 20, 1977, [91 Stat. 233][/us/stat/91/233]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 917, Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192]; [Pub. L. 100–45][/us/pl/100/45], § 9, May 27, 1987, [101 Stat. 323][/us/stat/101/323]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(m), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 302, Nov. 28, 1990, [104 Stat. 4633][/us/stat/104/4633]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(e), (f), Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3029(a), June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 
     2014—Subsec. (a)(1). [Pub. L. 113–121][/us/pl/113/121] inserted “and subject to the condition that the Chief of Engineers may include modifications to the structure or project” after “work for flood control” and substituted “structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor” for “structure damaged or destroyed by wind, wave, or water action of other than an ordinary nature when in the discretion of the Chief of Engineers such repair and restoration is warranted for the adequate functioning of the structure for hurricane or shore protection”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–303, § 202(e)][/us/pl/104/303/s202/e], in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
+    1996—Subsec. (a)(1). [Pub. L. 104–303][/us/pl/104/303], § 202(e), in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
 
-    Subsec. (c). [Pub. L. 104–303, § 202(f)][/us/pl/104/303/s202/f], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–303][/us/pl/104/303], § 202(f), added subsec. (c).
 
     1990—Subsec. (a)(1). [Pub. L. 101–640][/us/pl/101/640] substituted “preparation for emergency response to any natural disaster” for “flood emergency preparation” and inserted provision permitting the emergency fund to be used for emergency dredging for restoration of authorized depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters.
 
@@ -129,7 +129,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -137,13 +137,13 @@
 
  __Systemwide Improvement Framework__ 
 
-[Pub. L. 113–121, title III, § 3011][/us/pl/113/121/s3011], June 10, 2014, [128 Stat. 1284][/us/stat/128/1284], provided that: 
+[Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3011, June 10, 2014, [128 Stat. 1284][/us/stat/128/1284], provided that: 
 
 > “A levee system shall remain eligible for rehabilitation assistance under the authority provided by [section 5 of the Act of August 18, 1941][/us/act/1941-08-18/s5] ([33 U.S.C. 701n][/us/usc/t33/s701n]) as long as the levee system sponsor continues to make satisfactory progress, as determined by the Secretary \[of the Army\], on an approved systemwide improvement framework or letter of intent.”
 
  __Vegetation Management Guidelines__ 
 
-[Pub. L. 113–121, title III, § 3013][/us/pl/113/121/s3013], June 10, 2014, [128 Stat. 1284][/us/stat/128/1284], provided that:
+[Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3013, June 10, 2014, [128 Stat. 1284][/us/stat/128/1284], provided that:
 
 >     “(a)  __Definition of Guidelines__  __.—__ 
 
@@ -311,7 +311,7 @@
 
 >         Beginning on the date on which the revisions to the guidelines are adopted in accordance with subsection (f), the Secretary shall reconsider, on request of an affected entity, any previous action of the Corps of Engineers in which the outcome was affected by the former guidelines.”
 
-[Pub. L. 104–303, title II, § 202(g)][/us/pl/104/303/s202/g], Oct. 12, 1996, [110 Stat. 3676][/us/stat/110/3676], provided that:
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(g), Oct. 12, 1996, [110 Stat. 3676][/us/stat/110/3676], provided that:
 
 >     “(1)  __Review__  __.—__ 
 
@@ -334,9 +334,9 @@
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t15/s636/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F2
-[/us/act/1941-08-18/ch377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377%2Fs5
+[/us/act/1941-08-18/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377
 [/us/stat/55/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F650
-[/us/act/1946-07-24/ch596/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596%2Fs12
+[/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F652
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
@@ -346,30 +346,30 @@
 [/us/stat/64/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F183
 [/us/act/1955-06-28/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch194
 [/us/stat/69/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F186
-[/us/pl/87/874/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs206
+[/us/pl/87/874/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2FtII
 [/us/stat/76/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1194
-[/us/pl/93/251/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs82
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F34
-[/us/pl/95/51/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F51%2Fs2
+[/us/pl/95/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F51
 [/us/stat/91/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F233
-[/us/pl/99/662/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs917
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4192
-[/us/pl/100/45/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45%2Fs9
+[/us/pl/100/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45
 [/us/stat/101/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F323
-[/us/pl/100/707/s109/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fm
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
-[/us/pl/101/640/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs302
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4633
-[/us/pl/104/303/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fe
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3675
-[/us/pl/113/121/s3029/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3029%2Fa
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1305
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/104/303/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fe
-[/us/pl/104/303/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Ff
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/100/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45
@@ -377,20 +377,20 @@
 [/us/pl/95/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F51
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/113/121/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3011
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1284
 [/us/act/1941-08-18/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fs5
 [/us/usc/t33/s701n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n
-[/us/pl/113/121/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3013
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1284
 [/us/act/1941-08-18/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fs5%2Fc
 [/us/usc/t33/s701n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n%2Fc
-[/us/pl/104/303/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fg
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3676
 [/us/usc/t33/s701n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n
 

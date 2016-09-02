@@ -25,7 +25,7 @@
 
         The authorization made by this section shall be in addition to any other authorizations for planning, engineering, and design of water resources development projects and shall not be construed as a limitation on any other such authorization.
 
-([Pub. L. 99–662, title IX, § 910][/us/pl/99/662/s910], Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 910, Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t33/s701–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701%E2%80%931
-[/us/pl/99/662/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs910
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4189
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

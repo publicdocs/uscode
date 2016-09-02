@@ -17,7 +17,7 @@
 
     On the request of a non-Federal interest, the Secretary shall provide to the non-Federal interest a detailed accounting of the Federal expenses associated with a water resources project.
 
-([Pub. L. 113–121, title I, § 1012(a)][/us/pl/113/121/s1012/a], June 10, 2014, [128 Stat. 1218][/us/stat/128/1218].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1012(a), June 10, 2014, [128 Stat. 1218][/us/stat/128/1218].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1012%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1218
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

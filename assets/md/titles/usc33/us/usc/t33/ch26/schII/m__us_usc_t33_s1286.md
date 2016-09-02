@@ -49,7 +49,7 @@
 
         (2) In determining the allotment for any fiscal year under this subchapter, any treatment works project constructed in accordance with this section and without the aid of Federal funds shall not be considered completed until an application under the provisions of this subsection with respect to such project has been approved by the Administrator, or the availability of funds from which this project is eligible for reimbursement has expired, whichever first occurs.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 206, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 838][/us/stat/86/838]; amended [Pub. L. 93–207, § 1(2)][/us/pl/93/207/s1/2], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217, § 29(a)][/us/pl/95/217/s29/a], Dec. 27, 1977, [91 Stat. 1576][/us/stat/91/1576]; [Pub. L. 96–483, § 5][/us/pl/96/483/s5], Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 206, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 838][/us/stat/86/838]; amended [Pub. L. 93–207][/us/pl/93/207], § 1(2), Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217][/us/pl/95/217], § 29(a), Dec. 27, 1977, [91 Stat. 1576][/us/stat/91/1576]; [Pub. L. 96–483][/us/pl/96/483], § 5, Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361].)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
  __Application for Assistance for Publicly Owned Treatment Works Where Grants Were Made Before__  __July 2, 1972__  __, and on Which Construction Was Initiated Before__  __July 1, 1973__ 
 
-    [Pub. L. 95–217, § 29(b)][/us/pl/95/217/s29/b], Dec. 27, 1977, [91 Stat. 1576][/us/stat/91/1576], provided that applications for assistance for publicly owned treatment works for which a grant was made under this chapter before July 1, 1972, and on which construction was initiated before July 1, 1973, be filed not later than the ninetieth day after Dec. 27, 1977.
+    [Pub. L. 95–217][/us/pl/95/217], § 29(b), Dec. 27, 1977, [91 Stat. 1576][/us/stat/91/1576], provided that applications for assistance for publicly owned treatment works for which a grant was made under this chapter before July 1, 1972, and on which construction was initiated before July 1, 1973, be filed not later than the ninetieth day after Dec. 27, 1977.
 
  __Application for Assistance__ 
 
-    [Pub. L. 93–207, § 2][/us/pl/93/207/s2], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906], provided that notwithstanding the requirements of subsec. (c) of this section, applications for assistance under this section could have been filed with the Administrator until Jan. 31, 1974.
+    [Pub. L. 93–207][/us/pl/93/207], § 2, Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906], provided that notwithstanding the requirements of subsec. (c) of this section, applications for assistance under this section could have been filed with the Administrator until Jan. 31, 1974.
 
  __Allocation of Construction Grants Appropriated for the Year Ending__  __June 30, 1973__  __; Interim Payments; Limitations__ 
 
-[Pub. L. 93–207, § 3][/us/pl/93/207/s3], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906], provided that: 
+[Pub. L. 93–207][/us/pl/93/207], § 3, Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906], provided that: 
 
 > “Funds available for reimbursement under [Public Law 92–399][/us/pl/92/399] \[making appropriations for Agriculture-Environmental and Consumer Protection Programs for the fiscal year ending June 30, 1973\] shall be allocated in accordance with subsection (d) of section 206 of the Federal Water Pollution Control Act ([86 Stat. 838][/us/stat/86/838]) \[subsec. (d) of this section\], pro rata among all projects eligible under subsection (a) of such section 206 \[subsec. (a) of this section\] for which applications have been submitted and approved by the Administrator pursuant to such Act \[this chapter\]. Notwithstanding the provisions of subsection (d) of such section 206, (1) the Administrator is authorized to make interim payments to each such project for which an application has been approved on the basis of estimates of maximum pro rata entitlement of all applicants under section 206(a) and (2) for the purpose of determining allocation of sums available under [Public Law 92–399][/us/pl/92/399], the unpaid balance of reimbursement due such projects shall be computed as of January 31, 1974. Upon completion by the Administrator of his audit and approval of all projects for which an application has been filed under subsection (a) of such section 206, the Administrator shall, within the limits of appropriated funds, allocate to each such qualified project the amount remaining, if any, of its total entitlement. Amounts allocated to projects which are later determined to be in excess of entitlement shall be available for reallocation, until expended, to other qualified projects under subsection (a) of such section 206. In no event, however, shall any payments exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project.”
 
@@ -93,13 +93,13 @@
 [/us/usc/t33/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1158
 [/us/usc/t33/s1281/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281%2Fg
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F838
-[/us/pl/93/207/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F2
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
-[/us/pl/95/217/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs29%2Fa
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1576
-[/us/pl/96/483/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs5
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 [/us/usc/t33/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1158
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
@@ -119,11 +119,11 @@
 [/us/usc/t33/s1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1283
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
-[/us/pl/95/217/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs29%2Fb
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1576
-[/us/pl/93/207/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs2
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
-[/us/pl/93/207/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs3
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
 [/us/pl/92/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F399
 [/us/stat/86/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F838

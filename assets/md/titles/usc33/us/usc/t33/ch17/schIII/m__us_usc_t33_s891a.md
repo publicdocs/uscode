@@ -17,7 +17,7 @@
 
     The Secretary is authorized to implement, subject to the requirements of this subchapter, a 15-year program to replace and modernize the NOAA fleet.
 
-([Pub. L. 102–567, title VI, § 603][/us/pl/102/567/s603], Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 603, Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs603
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4300
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 

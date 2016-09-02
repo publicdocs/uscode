@@ -63,7 +63,7 @@
 
         thence along the southwestern boundary line of tract numbered 3420 north 46 degrees 15 minutes west, 460 feet to the beginning point.
 
-([Pub. L. 99–662, title XI, § 1127][/us/pl/99/662/s1127], Nov. 17, 1986, [100 Stat. 4245][/us/stat/100/4245].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1127, Nov. 17, 1986, [100 Stat. 4245][/us/stat/100/4245].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1127
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4245
 
 

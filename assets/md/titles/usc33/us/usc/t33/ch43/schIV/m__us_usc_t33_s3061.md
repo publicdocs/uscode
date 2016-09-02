@@ -41,7 +41,7 @@
 
         An officer of the Administration transferred under this section, shall, while under the jurisdiction of a military department, have proper military status and shall be subject to the laws, regulations, and orders for the government of the Army, Navy, or Air Force, as the case may be, insofar as the same may be applicable to persons whose retention permanently in the military service of the United States is not contemplated by law.
 
-([Pub. L. 107–372, title II, § 251][/us/pl/107/372/s251], Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 251, Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
 
  __Prior Provisions__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs251
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3090
 [/us/usc/t33/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs855
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

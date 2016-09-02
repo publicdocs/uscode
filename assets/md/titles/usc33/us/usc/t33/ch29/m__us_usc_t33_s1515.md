@@ -53,7 +53,7 @@
 
         Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement or to seek any other relief.
 
-([Pub. L. 93–627, § 16][/us/pl/93/627/s16], Jan. 3, 1975, [88 Stat. 2140][/us/stat/88/2140].)
+([Pub. L. 93–627][/us/pl/93/627], § 16, Jan. 3, 1975, [88 Stat. 2140][/us/stat/88/2140].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/93/627/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs16
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2140
 
 

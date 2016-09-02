@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5247 derived from acts [June 23, 1866, ch. 138, § 1][/us/act/1866-06-23/ch138/s1], [14 Stat. 73][/us/stat/14/73]; [Mar. 2, 1867, ch. 144, § 2][/us/act/1867-03-02/ch144/s2], [14 Stat. 421][/us/stat/14/421].
+    R.S. § 5247 derived from acts [June 23, 1866, ch. 138][/us/act/1866-06-23/ch138], § 1, [14 Stat. 73][/us/stat/14/73]; [Mar. 2, 1867, ch. 144][/us/act/1867-03-02/ch144], § 2, [14 Stat. 421][/us/stat/14/421].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1866-06-23/ch138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-06-23%2Fch138%2Fs1
+[/us/act/1866-06-23/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-06-23%2Fch138
 [/us/stat/14/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F73
-[/us/act/1867-03-02/ch144/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch144%2Fs2
+[/us/act/1867-03-02/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch144
 [/us/stat/14/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F421
 
 

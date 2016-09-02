@@ -199,21 +199,21 @@
 
                 If the State provides additional subsidization to a municipality or intermunicipal, interstate, or State agency under this subsection that meets the criteria under paragraph (1)(A), the State shall take the criteria set forth in [section 1382(b)(5) of this title][/us/usc/t33/s1382/b/5] into consideration.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 603, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 23][/us/stat/101/23]; amended [Pub. L. 113–121, title V, § 5003][/us/pl/113/121/s5003], June 10, 2014, [128 Stat. 1323][/us/stat/128/1323].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 603, as added [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 212(a), Feb. 4, 1987, [101 Stat. 23][/us/stat/101/23]; amended [Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5003, June 10, 2014, [128 Stat. 1323][/us/stat/128/1323].)
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–121, § 5003(1)][/us/pl/113/121/s5003/1], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in [section 1292 of this title][/us/usc/t33/s1292]), (2) for the implementation of a management program established under [section 1329 of this title][/us/usc/t33/s1329], and (3) for development and implementation of a conservation and management plan under [section 1330 of this title][/us/usc/t33/s1330]. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.”
+    2014—Subsec. (c). [Pub. L. 113–121][/us/pl/113/121], § 5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in [section 1292 of this title][/us/usc/t33/s1292]), (2) for the implementation of a management program established under [section 1329 of this title][/us/usc/t33/s1329], and (3) for development and implementation of a conservation and management plan under [section 1330 of this title][/us/usc/t33/s1330]. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.”
 
-    Subsec. (d)(1)(A). [Pub. L. 113–121, § 5003(2)(A)(i)][/us/pl/113/121/s5003/2/A/i], substituted “the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan” for “20 years”.
+    Subsec. (d)(1)(A). [Pub. L. 113–121][/us/pl/113/121], § 5003(2)(A)(i), substituted “the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan” for “20 years”.
 
-    Subsec. (d)(1)(B). [Pub. L. 113–121, § 5003(2)(A)(ii)][/us/pl/113/121/s5003/2/A/ii], substituted “upon the expiration of the term of the loan” for “not later than 20 years after project completion”.
+    Subsec. (d)(1)(B). [Pub. L. 113–121][/us/pl/113/121], § 5003(2)(A)(ii), substituted “upon the expiration of the term of the loan” for “not later than 20 years after project completion”.
 
-    Subsec. (d)(1)(E). [Pub. L. 113–121, § 5003(2)(A)(iii)][/us/pl/113/121/s5003/2/A/iii]–(v), added subpar. (E).
+    Subsec. (d)(1)(E). [Pub. L. 113–121][/us/pl/113/121], § 5003(2)(A)(iii)–(v), added subpar. (E).
 
-    Subsec. (d)(7). [Pub. L. 113–121, § 5003(2)(B)][/us/pl/113/121/s5003/2/B], inserted “, $400,000 per year, or ⅕ percent per year of the current valuation of the fund, whichever amount is greatest, plus the amount of any fees collected by the State for such purpose regardless of the source” before period at end.
+    Subsec. (d)(7). [Pub. L. 113–121][/us/pl/113/121], § 5003(2)(B), inserted “, $400,000 per year, or ⅕ percent per year of the current valuation of the fund, whichever amount is greatest, plus the amount of any fees collected by the State for such purpose regardless of the source” before period at end.
 
-    Subsec. (i). [Pub. L. 113–121, § 5003(3)][/us/pl/113/121/s5003/3], added subsec. (i).
+    Subsec. (i). [Pub. L. 113–121][/us/pl/113/121], § 5003(3), added subsec. (i).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -236,19 +236,19 @@
 [/us/usc/t42/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3161
 [/us/usc/t33/s1382/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1382%2Fb%2F5
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F23
-[/us/pl/113/121/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1323
-[/us/pl/113/121/s5003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F1
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
-[/us/pl/113/121/s5003/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F2%2FA%2Fi
-[/us/pl/113/121/s5003/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F2%2FA%2Fii
-[/us/pl/113/121/s5003/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F2%2FA%2Fiii
-[/us/pl/113/121/s5003/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F2%2FB
-[/us/pl/113/121/s5003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5003%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5006
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381

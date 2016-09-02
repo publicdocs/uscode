@@ -71,7 +71,7 @@
 
         Any sums allotted under subsection (b) of this section in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 106, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 827][/us/stat/86/827]; amended [Pub. L. 93–592, § 3][/us/pl/93/592/s3], Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 94–273, § 3(20)][/us/pl/94/273/s3/20], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 95–217, § 4(c)][/us/pl/95/217/s4/c], Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566]; [Pub. L. 96–483, § 1(b)][/us/pl/96/483/s1/b], Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I, § 101(b)][/us/pl/100/4/s101/b], Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 106, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 827][/us/stat/86/827]; amended [Pub. L. 93–592][/us/pl/93/592], § 3, Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 94–273][/us/pl/94/273], § 3(20), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 95–217][/us/pl/95/217], § 4(c), Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566]; [Pub. L. 96–483][/us/pl/96/483], § 1(b), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 101(b), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9].)
 
  __Amendments__ 
 
@@ -96,17 +96,17 @@
 [/us/usc/t33/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1364
 [/us/usc/t33/s1319/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fa%2F2
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F827
-[/us/pl/93/592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592%2Fs3
+[/us/pl/93/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592
 [/us/stat/88/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1925
-[/us/pl/94/273/s3/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs3%2F20
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/95/217/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs4%2Fc
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
-[/us/pl/96/483/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Fb
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2360
-[/us/pl/100/4/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fb
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F9
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483

@@ -87,11 +87,11 @@
 
         Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing recommended funding levels for grants under this section. The recommended funding levels shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 221, as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–225.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 221, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 112(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–225.)
 
  __Information on CSOS and SSOS__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–227, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 112(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–227, provided that:
 
 >     “(1)  __Report to congress__  __.—__ 
 
@@ -120,9 +120,9 @@
 [/us/usc/t33/s1383/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fh
 [/us/usc/t33/s1375/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1375%2Fb%2F1
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

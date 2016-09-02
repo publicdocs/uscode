@@ -37,7 +37,7 @@
 
             The Secretary may accept and expend additional funds from Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
 
-([Pub. L. 104–303, title II, § 234][/us/pl/104/303/s234], Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704]; [Pub. L. 106–541, title II, § 207][/us/pl/106/541/s207], Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590]; [Pub. L. 110–114, title II, § 2030][/us/pl/110/114/s2030], Nov. 8, 2007, [121 Stat. 1081][/us/stat/121/1081]; [Pub. L. 113–121, title I, § 1029][/us/pl/113/121/s1029], June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 234, Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 207, Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2030, Nov. 8, 2007, [121 Stat. 1081][/us/stat/121/1081]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1029, June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
 
  __Codification__ 
 
@@ -45,25 +45,25 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–121, § 1029(1)][/us/pl/113/121/s1029/1], substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,”.
+    2014—Subsec. (a). [Pub. L. 113–121][/us/pl/113/121], § 1029(1), substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,”.
 
-    Subsec. (b). [Pub. L. 113–121, § 1029(2)][/us/pl/113/121/s1029/2], inserted “or foreign governments” after “organizations”.
+    Subsec. (b). [Pub. L. 113–121][/us/pl/113/121], § 1029(2), inserted “or foreign governments” after “organizations”.
 
-    Subsec. (c). [Pub. L. 113–121, § 1029(3)][/us/pl/113/121/s1029/3], inserted “and restoration” after “protection”.
+    Subsec. (c). [Pub. L. 113–121][/us/pl/113/121], § 1029(3), inserted “and restoration” after “protection”.
 
-    Subsec. (d). [Pub. L. 113–121, § 1029(4)][/us/pl/113/121/s1029/4], designated first and second sentences as pars. (1) and (2), respectively, inserted headings, and substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,” in par. (2).
+    Subsec. (d). [Pub. L. 113–121][/us/pl/113/121], § 1029(4), designated first and second sentences as pars. (1) and (2), respectively, inserted headings, and substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,” in par. (2).
 
-    2007—Subsec. (a). [Pub. L. 110–114, § 2030(1)][/us/pl/110/114/s2030/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
+    2007—Subsec. (a). [Pub. L. 110–114][/us/pl/110/114], § 2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
 
-    Subsec. (b). [Pub. L. 110–114, § 2030(2)][/us/pl/110/114/s2030/2], substituted “Department of State” for “Secretary of State”.
+    Subsec. (b). [Pub. L. 110–114][/us/pl/110/114], § 2030(2), substituted “Department of State” for “Secretary of State”.
 
-    Subsec. (d). [Pub. L. 110–114, § 2030(3)][/us/pl/110/114/s2030/3], substituted “$1,000,000 for fiscal year 2008” for “$250,000 for fiscal year 2001” and “, international organizations, or foreign governments” for “or international organizations”.
+    Subsec. (d). [Pub. L. 110–114][/us/pl/110/114], § 2030(3), substituted “$1,000,000 for fiscal year 2008” for “$250,000 for fiscal year 2001” and “, international organizations, or foreign governments” for “or international organizations”.
 
     2000—Subsec. (d). [Pub. L. 106–541][/us/pl/106/541] substituted “There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter.” for “There is authorized to be appropriated $1,000,000 to carry out this section.” and inserted “out” after “carry” in second sentence.
 
  __National Recreation Reservation Service__ 
 
-[Pub. L. 106–541, title II, § 206][/us/pl/106/541/s206], Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590], provided that: 
+[Pub. L. 106–541, title II][/us/pl/106/541/tII], § 206, Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590], provided that: 
 
 > “Notwithstanding section 611 of the Treasury and General Government Appropriations Act, 1999 ([112 Stat. 2681–515][/us/stat/112/2681-515]), the Secretary \[of the Army\] may—
 
@@ -82,23 +82,23 @@
 ----------
 ----------
 
-[/us/pl/104/303/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs234
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3704
-[/us/pl/106/541/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs207
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2590
-[/us/pl/110/114/s2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2030
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1081
-[/us/pl/113/121/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1029
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1230
-[/us/pl/113/121/s1029/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1029%2F1
-[/us/pl/113/121/s1029/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1029%2F2
-[/us/pl/113/121/s1029/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1029%2F3
-[/us/pl/113/121/s1029/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1029%2F4
-[/us/pl/110/114/s2030/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2030%2F1
-[/us/pl/110/114/s2030/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2030%2F2
-[/us/pl/110/114/s2030/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2030%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
-[/us/pl/106/541/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs206
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2590
 [/us/stat/112/2681-515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-515
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2

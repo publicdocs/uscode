@@ -245,7 +245,7 @@
 
         There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 117, as added [Pub. L. 100–4, title I, § 103][/us/pl/100/4/s103], Feb. 4, 1987, [101 Stat. 10][/us/stat/101/10]; amended [Pub. L. 106–457, title II, § 203][/us/pl/106/457/s203], Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 117, as added [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 103, Feb. 4, 1987, [101 Stat. 10][/us/stat/101/10]; amended [Pub. L. 106–457, title II][/us/pl/106/457/tII], § 203, Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967].)
 
  __Codification__ 
 
@@ -461,7 +461,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 106–457, title II, § 202][/us/pl/106/457/s202], Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that:
+[Pub. L. 106–457, title II][/us/pl/106/457/tII], § 202, Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -487,7 +487,7 @@
 
  __Nutrient Loading Resulting From Dredged Material Disposal__ 
 
-[Pub. L. 106–53, title IV, § 457][/us/pl/106/53/s457], Aug. 17, 1999, [113 Stat. 332][/us/stat/113/332], provided that:
+[Pub. L. 106–53, title IV][/us/pl/106/53/tIV], § 457, Aug. 17, 1999, [113 Stat. 332][/us/stat/113/332], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -672,9 +672,9 @@ Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent perm
 
 [/us/usc/t33/s1251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251%2Fa
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs103
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F10
-[/us/pl/106/457/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs203
+[/us/pl/106/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtII
 [/us/stat/114/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1967
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
@@ -682,10 +682,10 @@ Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent perm
 [/us/stat/128/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2967
 [/us/usc/t33/s1267/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267%2Fa
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
-[/us/pl/106/457/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs202
+[/us/pl/106/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtII
 [/us/stat/114/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1967
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/106/53/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs457
+[/us/pl/106/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtIV
 [/us/stat/113/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F332
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 

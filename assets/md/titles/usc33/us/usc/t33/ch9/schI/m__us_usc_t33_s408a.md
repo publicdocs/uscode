@@ -85,7 +85,7 @@
 
             (B) the current status of such applications.
 
-([Pub. L. 113–121, title I, § 1007][/us/pl/113/121/s1007], June 10, 2014, [128 Stat. 1214][/us/stat/128/1214].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1007, June 10, 2014, [128 Stat. 1214][/us/stat/128/1214].)
 
  __“Secretary” Defined__ 
 
@@ -100,7 +100,7 @@
 
 [/us/act/1899-03-03/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fs14
 [/us/usc/t33/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs408
-[/us/pl/113/121/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1007
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1214
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -23,21 +23,21 @@
 
     (c) Such other subjects as may be properly connected with such project: Provided, That in the investigation and study of these questions consideration shall be given only to their bearing upon the improvement of navigation, to the possibility and desirability of their being coordinated in a logical and proper manner with improvements for navigation to lessen the cost of such improvements and to compensate the Government for expenditures made in the interest of navigation, and to their relation to the development and regulation of commerce: Provided further, That the investigation and study of these questions may, upon review by the Board of Engineers for Rivers and Harbors when called for as provided by law, be extended to any work of improvement under way and to any locality the examination and survey of which has heretofore been, or may hereafter be, authorized by Congress.
 
-([Mar. 4, 1913, ch. 144, § 3][/us/act/1913-03-04/ch144/s3], [37 Stat. 825][/us/stat/37/825]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([Mar. 4, 1913, ch. 144][/us/act/1913-03-04/ch144], § 3, [37 Stat. 825][/us/stat/37/825]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Codification__ 
 
-    This section and the second paragraph of [section 556 of this title][/us/usc/t33/s556] are from section 3 of act Mar. 4, 1913, popularly known as the “Rivers and Harbors Appropriation Act of 1913”. That section superseded similar provisions of [act June 25, 1910, ch. 382, § 3][/us/act/1910-06-25/ch382/s3], [36 Stat. 668][/us/stat/36/668], for reports, investigations on review by the board of Engineers and for the printing of reports.
+    This section and the second paragraph of [section 556 of this title][/us/usc/t33/s556] are from section 3 of act Mar. 4, 1913, popularly known as the “Rivers and Harbors Appropriation Act of 1913”. That section superseded similar provisions of [act June 25, 1910, ch. 382][/us/act/1910-06-25/ch382], § 3, [36 Stat. 668][/us/stat/36/668], for reports, investigations on review by the board of Engineers and for the printing of reports.
 
  __Prior Provisions__ 
 
-Provision for report of examinations of river and harbor improvements appeared in R.S. § 231, repealed by [act Mar. 3, 1933, ch. 202, § 1][/us/act/1933-03-03/ch202/s1], [47 Stat. 1428][/us/stat/47/1428], and read as follows: 
+Provision for report of examinations of river and harbor improvements appeared in R.S. § 231, repealed by [act Mar. 3, 1933, ch. 202][/us/act/1933-03-03/ch202], § 1, [47 Stat. 1428][/us/stat/47/1428], and read as follows: 
 
 > “The Secretary of War shall cause to be prepared and submitted to Congress, in connection with the reports of examinations and surveys of rivers and harbors hereafter made by order of Congress, full statements of all existing facts tending to show to what extent the general commerce of the country will be promoted by the several works of improvements contemplated by such examinations and surveys, to the end that public moneys shall not be applied excepting where such improvements shall tend to subserve the general commercial and navigation interests of the United States.”
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities__ 
 
@@ -53,7 +53,7 @@ Provision for report of examinations of river and harbor improvements appeared i
 
  __Preliminary Examinations and Surveys of Great Lakes__ 
 
-    The Secretary of War was directed to cause preliminary examinations and surveys to be made of the harbors and connecting waters of the Great Lakes with a view to determining what additional improvements would be necessary to permit those waterways to accommodate vessels to pass through the Welland Canal when enlarged by the Dominion of Canada, including report as to the character and draft of vessels which might be expected to use the canal when so enlarged, by a provision of the Rivers and Harbors Appropriation Act of 1916, [act July 27, 1916, ch. 260, § 2][/us/act/1916-07-27/ch260/s2], [39 Stat. 411][/us/stat/39/411], omitted from the Code as special and temporary.
+    The Secretary of War was directed to cause preliminary examinations and surveys to be made of the harbors and connecting waters of the Great Lakes with a view to determining what additional improvements would be necessary to permit those waterways to accommodate vessels to pass through the Welland Canal when enlarged by the Dominion of Canada, including report as to the character and draft of vessels which might be expected to use the canal when so enlarged, by a provision of the Rivers and Harbors Appropriation Act of 1916, [act July 27, 1916, ch. 260][/us/act/1916-07-27/ch260], § 2, [39 Stat. 411][/us/stat/39/411], omitted from the Code as special and temporary.
 
 ----------
 
@@ -62,16 +62,16 @@ Provision for report of examinations of river and harbor improvements appeared i
 ----------
 ----------
 
-[/us/act/1913-03-04/ch144/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144%2Fs3
+[/us/act/1913-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144
 [/us/stat/37/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F825
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t33/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs556
-[/us/act/1910-06-25/ch382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch382%2Fs3
+[/us/act/1910-06-25/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch382
 [/us/stat/36/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F668
-[/us/act/1933-03-03/ch202/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch202%2Fs1
+[/us/act/1933-03-03/ch202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch202
 [/us/stat/47/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1428
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
@@ -79,7 +79,7 @@ Provision for report of examinations of river and harbor improvements appeared i
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541
 [/us/act/1916-08-29/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch417
 [/us/stat/39/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F556
-[/us/act/1916-07-27/ch260/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260%2Fs2
+[/us/act/1916-07-27/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260
 [/us/stat/39/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F411
 
 

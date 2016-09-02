@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary to fulfill the purposes of this chapter and support activities identified in the annual coordinated System budget developed by the Interagency Ocean Observation Committee and submitted to the Congress.
 
-([Pub. L. 111–11, title XII, § 12311][/us/pl/111/11/s12311], Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12311, Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12311
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1436
 
 

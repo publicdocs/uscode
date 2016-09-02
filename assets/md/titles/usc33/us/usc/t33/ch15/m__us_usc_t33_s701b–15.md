@@ -27,7 +27,7 @@
 
         If the Secretary carries out a locally preferred plan under subsection (a), the Federal share of the cost of the project shall be not greater than the share as provided by law for elements of the national economic development plan.
 
-([Pub. L. 113–121, title I, § 1036][/us/pl/113/121/s1036], June 10, 2014, [128 Stat. 1234][/us/stat/128/1234].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1036, June 10, 2014, [128 Stat. 1234][/us/stat/128/1234].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1036
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1234
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/stat/128/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1193

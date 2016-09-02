@@ -35,7 +35,7 @@
 
             (A) for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph, effluent limitations for categories and classes of point sources, other than publicly owned treatment works, which (i) shall require application of the best available technology economically achievable for such category or class, which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to [section 1314(b)(2) of this title][/us/usc/t33/s1314/b/2], which such effluent limitations shall require the elimination of discharges of all pollutants if the Administrator finds, on the basis of information available to him (including information developed pursuant to [section 1325 of this title][/us/usc/t33/s1325]), that such elimination is technologically and economically achievable for a category or class of point sources as determined in accordance with regulations issued by the Administrator pursuant to [section 1314(b)(2) of this title][/us/usc/t33/s1314/b/2], or (ii) in the case of the introduction of a pollutant into a publicly owned treatment works which meets the requirements of subparagraph (B) of this paragraph, shall require compliance with any applicable pretreatment requirements and any other requirement under [section 1317 of this title][/us/usc/t33/s1317];
 
-            (B) Repealed. [Pub. L. 97–117, § 21(b)][/us/pl/97/117/s21/b], Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632].
+            (B) Repealed. [Pub. L. 97–117][/us/pl/97/117], § 21(b), Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632].
 
             (C) with respect to all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives compliance with effluent limitations in accordance with subparagraph (A) of this paragraph as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989;
 
@@ -345,7 +345,7 @@
 
             Nothing in this subsection shall affect the application of the Surface Mining Control and Reclamation Act of 1977 \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\] to any coal remining operation, including the application of such Act to suspended solids.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 301, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 844][/us/stat/86/844]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 42–47, 53(c), Dec. 27, 1977, [91 Stat. 1582–1586][/us/stat/91/1582-1586], 1590; [Pub. L. 97–117][/us/pl/97/117], §§ 21, 22(a)–(d), Dec. 29, 1981, [95 Stat. 1631][/us/stat/95/1631], 1632; [Pub. L. 97–440][/us/pl/97/440], Jan. 8, 1983, [96 Stat. 2289][/us/stat/96/2289]; [Pub. L. 100–4, title III][/us/pl/100/4], §§ 301(a)–(e), 302(a)–(d), 303(a), (b)(1), (c)–(f), 304(a), 305, 306(a), (b), 307, Feb. 4, 1987, [101 Stat. 29–37][/us/stat/101/29-37]; [Pub. L. 100–688, title III, § 3202(b)][/us/pl/100/688/s3202/b], Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154]; [Pub. L. 103–431, § 2][/us/pl/103/431/s2], Oct. 31, 1994, [108 Stat. 4396][/us/stat/108/4396]; [Pub. L. 104–66, title II, § 2021(b)][/us/pl/104/66/s2021/b], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 301, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 844][/us/stat/86/844]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 42–47, 53(c), Dec. 27, 1977, [91 Stat. 1582–1586][/us/stat/91/1582-1586], 1590; [Pub. L. 97–117][/us/pl/97/117], §§ 21, 22(a)–(d), Dec. 29, 1981, [95 Stat. 1631][/us/stat/95/1631], 1632; [Pub. L. 97–440][/us/pl/97/440], Jan. 8, 1983, [96 Stat. 2289][/us/stat/96/2289]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], §§ 301(a)–(e), 302(a)–(d), 303(a), (b)(1), (c)–(f), 304(a), 305, 306(a), (b), 307, Feb. 4, 1987, [101 Stat. 29–37][/us/stat/101/29-37]; [Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3202(b), Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154]; [Pub. L. 103–431][/us/pl/103/431], § 2, Oct. 31, 1994, [108 Stat. 4396][/us/stat/108/4396]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(b), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727].)
 
  __References in Text__ 
 
@@ -355,79 +355,79 @@
 
     1995—Subsec. (n)(8). [Pub. L. 104–66][/us/pl/104/66] substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure” for “Every 6 months after February 4, 1987, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation”.
 
-    1994—Subsec. (j)(1)(A). [Pub. L. 103–431, § 2(1)][/us/pl/103/431/s2/1], inserted before semicolon at end “, and except as provided in paragraph (5)”.
+    1994—Subsec. (j)(1)(A). [Pub. L. 103–431][/us/pl/103/431], § 2(1), inserted before semicolon at end “, and except as provided in paragraph (5)”.
 
-    Subsec. (j)(5). [Pub. L. 103–431, § 2(2)][/us/pl/103/431/s2/2], added par. (5).
+    Subsec. (j)(5). [Pub. L. 103–431][/us/pl/103/431], § 2(2), added par. (5).
 
     1988—Subsec. (f). [Pub. L. 100–688][/us/pl/100/688] substituted “, any high-level radioactive waste, or any medical waste,” for “or high-level radioactive waste”.
 
-    1987—Subsec. (b)(2)(C). [Pub. L. 100–4, § 301(a)][/us/pl/100/4/s301/a], struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989” after “of this paragraph”.
+    1987—Subsec. (b)(2)(C). [Pub. L. 100–4][/us/pl/100/4], § 301(a), struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989” after “of this paragraph”.
 
-    Subsec. (b)(2)(D). [Pub. L. 100–4, § 301(b)][/us/pl/100/4/s301/b], substituted “as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
+    Subsec. (b)(2)(D). [Pub. L. 100–4][/us/pl/100/4], § 301(b), substituted “as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
 
-    Subsec. (b)(2)(E). [Pub. L. 100–4, § 301(c)][/us/pl/100/4/s301/c], substituted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989, compliance with” for “not later than July 1, 1984,”.
+    Subsec. (b)(2)(E). [Pub. L. 100–4][/us/pl/100/4], § 301(c), substituted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under [section 1314(b) of this title][/us/usc/t33/s1314/b], and in no case later than March 31, 1989, compliance with” for “not later than July 1, 1984,”.
 
-    Subsec. (b)(2)(F). [Pub. L. 100–4, § 301(d)][/us/pl/100/4/s301/d], substituted “as expeditiously as practicable but in no case” for “not” and “and in no case later than March 31, 1989” for “or not later than July 1, 1984, whichever is later, but in no case later than July 1, 1987”.
+    Subsec. (b)(2)(F). [Pub. L. 100–4][/us/pl/100/4], § 301(d), substituted “as expeditiously as practicable but in no case” for “not” and “and in no case later than March 31, 1989” for “or not later than July 1, 1984, whichever is later, but in no case later than July 1, 1987”.
 
-    Subsec. (b)(3). [Pub. L. 100–4, § 301(e)][/us/pl/100/4/s301/e], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–4][/us/pl/100/4], § 301(e), added par. (3).
 
-    Subsec. (g)(1). [Pub. L. 100–4, § 302(a)][/us/pl/100/4/s302/a], substituted par. (1) for introductory provisions of former par. (1) which read as follows: “The Administrator, with the concurrence of the State, shall modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge of any pollutant (other than pollutants identified pursuant to [section 1314(a)(4) of this title][/us/usc/t33/s1314/a/4], toxic pollutants subject to [section 1317(a) of this title][/us/usc/t33/s1317/a], and the thermal component of discharges) from any point source upon a showing by the owner or operator of such point source satisfactory to the Administrator that—”. Subpars (A) to (C) of former par. (1) were redesignated as subpars. (A) to (C) of par. (2).
+    Subsec. (g)(1). [Pub. L. 100–4][/us/pl/100/4], § 302(a), substituted par. (1) for introductory provisions of former par. (1) which read as follows: “The Administrator, with the concurrence of the State, shall modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge of any pollutant (other than pollutants identified pursuant to [section 1314(a)(4) of this title][/us/usc/t33/s1314/a/4], toxic pollutants subject to [section 1317(a) of this title][/us/usc/t33/s1317/a], and the thermal component of discharges) from any point source upon a showing by the owner or operator of such point source satisfactory to the Administrator that—”. Subpars (A) to (C) of former par. (1) were redesignated as subpars. (A) to (C) of par. (2).
 
-    Subsec. (g)(2). [Pub. L. 100–4, § 302(a)][/us/pl/100/4/s302/a], (d)(2), inserted introductory provisions of par. (2), and by so doing, redesignated subpars. (A) to (C) of former par. (1) as subpars. (A) to (C) of par. (2), realigned such subpars. with subpar. (A) of par. (4), and redesignated former par. (2) as (3).
+    Subsec. (g)(2). [Pub. L. 100–4][/us/pl/100/4], § 302(a), (d)(2), inserted introductory provisions of par. (2), and by so doing, redesignated subpars. (A) to (C) of former par. (1) as subpars. (A) to (C) of par. (2), realigned such subpars. with subpar. (A) of par. (4), and redesignated former par. (2) as (3).
 
-    Subsec. (g)(3). [Pub. L. 100–4, § 302(a)][/us/pl/100/4/s302/a], (d)(1), redesignated former par. (2) as (3), inserted heading, and aligned par. (3) with par. (4).
+    Subsec. (g)(3). [Pub. L. 100–4][/us/pl/100/4], § 302(a), (d)(1), redesignated former par. (2) as (3), inserted heading, and aligned par. (3) with par. (4).
 
-    Subsec. (g)(4), (5). [Pub. L. 100–4, § 302(b)][/us/pl/100/4/s302/b], added pars. (4) and (5).
+    Subsec. (g)(4), (5). [Pub. L. 100–4][/us/pl/100/4], § 302(b), added pars. (4) and (5).
 
-    Subsec. (h). [Pub. L. 100–4, § 303(d)(2)][/us/pl/100/4/s303/d/2], (e), in closing provisions, inserted provision defining “primary or equivalent treatment” for purposes of par. (9) and provisions placing limitations on issuance of permits for discharge of pollutant into marine waters and saline estuarine waters and prohibiting issuance of permit for discharge of pollutant into New York Bight Apex.
+    Subsec. (h). [Pub. L. 100–4][/us/pl/100/4], § 303(d)(2), (e), in closing provisions, inserted provision defining “primary or equivalent treatment” for purposes of par. (9) and provisions placing limitations on issuance of permits for discharge of pollutant into marine waters and saline estuarine waters and prohibiting issuance of permit for discharge of pollutant into New York Bight Apex.
 
-    Subsec. (h)(2). [Pub. L. 100–4, § 303(a)][/us/pl/100/4/s303/a], substituted “the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources,” for “such modified requirements will not interfere”.
+    Subsec. (h)(2). [Pub. L. 100–4][/us/pl/100/4], § 303(a), substituted “the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources,” for “such modified requirements will not interfere”.
 
-    Subsec. (h)(3). [Pub. L. 100–4, § 303(b)(1)][/us/pl/100/4/s303/b/1], inserted “, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge” before semicolon at end.
+    Subsec. (h)(3). [Pub. L. 100–4][/us/pl/100/4], § 303(b)(1), inserted “, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge” before semicolon at end.
 
-    Subsec. (h)(6) to (9). [Pub. L. 100–4, § 303(c)][/us/pl/100/4/s303/c], (d)(1), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, substituted semicolon for period at end of par. (8), and added par. (9).
+    Subsec. (h)(6) to (9). [Pub. L. 100–4][/us/pl/100/4], § 303(c), (d)(1), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, substituted semicolon for period at end of par. (8), and added par. (9).
 
-    Subsec. (i)(1). [Pub. L. 100–4, § 304(a)][/us/pl/100/4/s304/a], substituted “February 4, 1987” for “December 27, 1977”.
+    Subsec. (i)(1). [Pub. L. 100–4][/us/pl/100/4], § 304(a), substituted “February 4, 1987” for “December 27, 1977”.
 
-    Subsec. (j)(1)(A). [Pub. L. 100–4, § 303(f)][/us/pl/100/4/s303/f], inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h) of this section, may apply for a modification of subsection (h) of this section in its own right not later than 30 days after February 4, 1987”.
+    Subsec. (j)(1)(A). [Pub. L. 100–4][/us/pl/100/4], § 303(f), inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h) of this section, may apply for a modification of subsection (h) of this section in its own right not later than 30 days after February 4, 1987”.
 
-    Subsec. (j)(2). [Pub. L. 100–4, § 302(c)(1)][/us/pl/100/4/s302/c/1], substituted “Subject to paragraph (3) of this section, any” for “Any”.
+    Subsec. (j)(2). [Pub. L. 100–4][/us/pl/100/4], § 302(c)(1), substituted “Subject to paragraph (3) of this section, any” for “Any”.
 
-    Subsec. (j)(3), (4). [Pub. L. 100–4, § 302(c)(2)][/us/pl/100/4/s302/c/2], added pars. (3) and (4).
+    Subsec. (j)(3), (4). [Pub. L. 100–4][/us/pl/100/4], § 302(c)(2), added pars. (3) and (4).
 
-    Subsec. (k). [Pub. L. 100–4, § 305][/us/pl/100/4/s305], substituted “two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection” for “July 1, 1987” and inserted “or (b)(2)(E)” after “(b)(2)(A)” in two places.
+    Subsec. (k). [Pub. L. 100–4][/us/pl/100/4], § 305, substituted “two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection” for “July 1, 1987” and inserted “or (b)(2)(E)” after “(b)(2)(A)” in two places.
 
-    Subsec. (l). [Pub. L. 100–4, § 306(b)][/us/pl/100/4/s306/b], substituted “Other than as provided in subsection (n) of this section, the” for “The”.
+    Subsec. (l). [Pub. L. 100–4][/us/pl/100/4], § 306(b), substituted “Other than as provided in subsection (n) of this section, the” for “The”.
 
-    Subsecs. (n), (o). [Pub. L. 100–4, § 306(a)][/us/pl/100/4/s306/a], added subsecs. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 100–4][/us/pl/100/4], § 306(a), added subsecs. (n) and (o).
 
-    Subsec. (p). [Pub. L. 100–4, § 307][/us/pl/100/4/s307], added subsec. (p).
+    Subsec. (p). [Pub. L. 100–4][/us/pl/100/4], § 307, added subsec. (p).
 
     1983—Subsec. (m). [Pub. L. 97–440][/us/pl/97/440] added subsec. (m).
 
-    1981—Subsec. (b)(2)(B). [Pub. L. 97–117, § 21(b)][/us/pl/97/117/s21/b], struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in [section 1281(g)(2)(A) of this title][/us/usc/t33/s1281/g/2/A] be achieved.
+    1981—Subsec. (b)(2)(B). [Pub. L. 97–117][/us/pl/97/117], § 21(b), struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in [section 1281(g)(2)(A) of this title][/us/usc/t33/s1281/g/2/A] be achieved.
 
-    Subsec. (h). [Pub. L. 97–117, § 22(a)][/us/pl/97/117/s22/a] to (c), struck out in provision preceding par. (1) “in an existing discharge” after “discharge of any pollutant”, struck out par. (8), which required the applicant to demonstrate to the satisfaction of the Administrator that any funds available to the owner of such treatment works under subchapter II of this chapter be used to achieve the degree of effluent reduction required by section 1281(b) and (g)(2)(A) of this title or to carry out the requirements of this subsection, and inserted in provision following par. (7) a further provision that a municipality which applies secondary treatment be eligible to receive a permit which modifies the requirements of subsec. (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters and that no permit issued under this subsection authorize the discharge of sewage sludge into marine waters.
+    Subsec. (h). [Pub. L. 97–117][/us/pl/97/117], § 22(a) to (c), struck out in provision preceding par. (1) “in an existing discharge” after “discharge of any pollutant”, struck out par. (8), which required the applicant to demonstrate to the satisfaction of the Administrator that any funds available to the owner of such treatment works under subchapter II of this chapter be used to achieve the degree of effluent reduction required by section 1281(b) and (g)(2)(A) of this title or to carry out the requirements of this subsection, and inserted in provision following par. (7) a further provision that a municipality which applies secondary treatment be eligible to receive a permit which modifies the requirements of subsec. (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters and that no permit issued under this subsection authorize the discharge of sewage sludge into marine waters.
 
-    Subsec. (i)(1), (2)(B). [Pub. L. 97–117, § 21(a)][/us/pl/97/117/s21/a], substituted “July 1, 1988,” for “July 1, 1983,” wherever appearing. Par. (2)(B) contained a reference to “July 1, 1983;” which was changed to “July 1, 1988;” as the probable intent of Congress in that reference to July 1, 1983, was to the outside date for compliance for a point source other than a publicly owned treatment works and subpar. (B) allows a time extension for such a point source up to the date granted in an extension for a publicly owned treatment works, which date was extended to July 1, 1988, by [Pub. L. 97–117][/us/pl/97/117].
+    Subsec. (i)(1), (2)(B). [Pub. L. 97–117][/us/pl/97/117], § 21(a), substituted “July 1, 1988,” for “July 1, 1983,” wherever appearing. Par. (2)(B) contained a reference to “July 1, 1983;” which was changed to “July 1, 1988;” as the probable intent of Congress in that reference to July 1, 1983, was to the outside date for compliance for a point source other than a publicly owned treatment works and subpar. (B) allows a time extension for such a point source up to the date granted in an extension for a publicly owned treatment works, which date was extended to July 1, 1988, by [Pub. L. 97–117][/us/pl/97/117].
 
-    Subsec. (j)(1)(A). [Pub. L. 97–117, § 22(d)][/us/pl/97/117/s22/d], substituted “that the 365th day which begins after December 29, 1981” for “than 270 days after December 27, 1977”.
+    Subsec. (j)(1)(A). [Pub. L. 97–117][/us/pl/97/117], § 22(d), substituted “that the 365th day which begins after December 29, 1981” for “than 270 days after December 27, 1977”.
 
-    1977—Subsec. (b)(2)(A). [Pub. L. 95–217, § 42(b)][/us/pl/95/217/s42/b], substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
+    1977—Subsec. (b)(2)(A). [Pub. L. 95–217][/us/pl/95/217], § 42(b), substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
 
-    Subsec. (b)(2)(C) to (F). [Pub. L. 95–217, § 42(a)][/us/pl/95/217/s42/a], added subpars. (C) to (F).
+    Subsec. (b)(2)(C) to (F). [Pub. L. 95–217][/us/pl/95/217], § 42(a), added subpars. (C) to (F).
 
-    Subsec. (g). [Pub. L. 95–217, § 43][/us/pl/95/217/s43], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–217][/us/pl/95/217], § 43, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 95–217, § 44][/us/pl/95/217/s44], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–217][/us/pl/95/217], § 44, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 95–217, § 45][/us/pl/95/217/s45], added subsec. (i).
+    Subsec. (i). [Pub. L. 95–217][/us/pl/95/217], § 45, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 95–217, § 46][/us/pl/95/217/s46], added subsec. (j).
+    Subsec. (j). [Pub. L. 95–217][/us/pl/95/217], § 46, added subsec. (j).
 
-    Subsec. (k). [Pub. L. 95–217, § 47][/us/pl/95/217/s47], added subsec. (k).
+    Subsec. (k). [Pub. L. 95–217][/us/pl/95/217], § 47, added subsec. (k).
 
-    Subsec. (l). [Pub. L. 95–217, § 53(c)][/us/pl/95/217/s53/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–217][/us/pl/95/217], § 53(c), added subsec. (l).
 
  __Change of Name__ 
 
@@ -435,7 +435,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–4, title III, § 302(e)][/us/pl/100/4/s302/e], Feb. 4, 1987, [101 Stat. 32][/us/stat/101/32], provided that:
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 302(e), Feb. 4, 1987, [101 Stat. 32][/us/stat/101/32], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -445,27 +445,27 @@
 
 >     The amendments made by this section shall not affect any application for a modification with respect to the discharge of ammonia, chlorine, color, iron, or total phenols (4AAP) under section 301(g) of the Federal Water Pollution Control Act pending on the date of the enactment of this Act; except that the Administrator must approve or disapprove such application not later than 365 days after the date of such enactment.”
 
-[Pub. L. 100–4, title III, § 303(b)(2)][/us/pl/100/4/s303/b/2], Feb. 4, 1987, [101 Stat. 33][/us/stat/101/33], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 303(b)(2), Feb. 4, 1987, [101 Stat. 33][/us/stat/101/33], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall only apply to modifications and renewals of modifications which are tentatively or finally approved after the date of the enactment of this Act \[Feb. 4, 1987\].”
 
-[Pub. L. 100–4, title III, § 303(g)][/us/pl/100/4/s303/g], Feb. 4, 1987, [101 Stat. 34][/us/stat/101/34], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 303(g), Feb. 4, 1987, [101 Stat. 34][/us/stat/101/34], provided that: 
 
 > “The amendments made by subsections (a), (c), (d), and (e) of this section \[amending this section\] shall not apply to an application for a permit under section 301(h) of the Federal Water Pollution Control Act \[[33 U.S.C. 1311(h)][/us/usc/t33/s1311/h]\] which has been tentatively or finally approved by the Administrator before the date of the enactment of this Act \[Feb. 4, 1987\]; except that such amendments shall apply to all renewals of such permits after such date of enactment.”
 
-[Pub. L. 100–4, title III, § 304(b)][/us/pl/100/4/s304/b], Feb. 4, 1987, [101 Stat. 34][/us/stat/101/34], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 304(b), Feb. 4, 1987, [101 Stat. 34][/us/stat/101/34], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply to those treatment works which are subject to a compliance schedule established before the date of the enactment of this Act \[Feb. 4, 1987\] by a court order or a final administrative order.”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–117, § 22(e)][/us/pl/97/117/s22/e], Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632], provided that: 
+[Pub. L. 97–117][/us/pl/97/117], § 22(e), Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 29, 1981\], except that no applicant, other than the city of Avalon, California, who applies after the date of enactment of this Act for a permit pursuant to subsection (h) of section 301 of the Federal Water Pollution Control Act \[[33 U.S.C. 1311(h)][/us/usc/t33/s1311/h]\] which modifies the requirements of subsection (b)(1)(B) of section 301 of such Act \[[33 U.S.C. 1311(b)(1)(B)][/us/usc/t33/s1311/b/1/B]\] shall receive such permit during the one-year period which begins on the date of enactment of this Act.”
 
  __Regulations__ 
 
-[Pub. L. 100–4, title III, § 301(f)][/us/pl/100/4/s301/f], Feb. 4, 1987, [101 Stat. 30][/us/stat/101/30], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 301(f), Feb. 4, 1987, [101 Stat. 30][/us/stat/101/30], provided that: 
 
 > “The Administrator shall promulgate final regulations establishing effluent limitations in accordance with sections 301(b)(2)(A) and 307(b)(1) of the Federal Water Pollution Control Act \[[33 U.S.C. 1311(b)(2)(A)][/us/usc/t33/s1311/b/2/A], 1317(b)(1)\] for all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives which are discharged from the categories of point sources in accordance with the following table:
 
@@ -527,7 +527,7 @@
 
  __Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption From Federal Water Pollution Control Requirements; Conditions__ 
 
-[Pub. L. 98–67, title II, § 214(g)][/us/pl/98/67/s214/g], Aug. 5, 1983, [97 Stat. 393][/us/stat/97/393], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–67, title II][/us/pl/98/67/tII], § 214(g), Aug. 5, 1983, [97 Stat. 393][/us/stat/97/393], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Any discharge from a point source in the United States Virgin Islands in existence on the date of the enactment of this subsection \[Aug. 5, 1983\] which discharge is attributable to the manufacture of rum (as defined in paragraphs (3) of section 7652(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[[26 U.S.C. 7652(c)(3)][/us/usc/t26/s7652/c/3]\] shall not be subject to the requirements of section 301 (other than toxic pollutant discharges), section 306 or section 403 of the Federal Water Pollution Control Act \[[33 U.S.C. 1311][/us/usc/t33/s1311], 1316, 1343\] if—
 
@@ -537,7 +537,7 @@
 
  __Certain Municipal Compliance Deadlines Unaffected; Exception__ 
 
-[Pub. L. 97–117, § 21(a)][/us/pl/97/117/s21/a], Dec. 29, 1981, [95 Stat. 1631][/us/stat/95/1631], provided in part that: 
+[Pub. L. 97–117][/us/pl/97/117], § 21(a), Dec. 29, 1981, [95 Stat. 1631][/us/stat/95/1631], provided in part that: 
 
 > “The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[[33 U.S.C. 1311(b)(1)(B)][/us/usc/t33/s1311/b/1/B], (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[[Pub. L. 97–117][/us/pl/97/117], see Short Title of 1981 Amendment note set out under [section 1251 of this title][/us/usc/t33/s1251]\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
 
@@ -561,7 +561,7 @@
 [/us/usc/t33/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1325
 [/us/usc/t33/s1314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb%2F2
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
-[/us/pl/97/117/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs21%2Fb
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1632
 [/us/usc/t33/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
@@ -605,7 +605,7 @@
 [/us/usc/t33/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F844
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1582-1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1582-1586
@@ -613,79 +613,79 @@
 [/us/stat/95/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1631
 [/us/pl/97/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F440
 [/us/stat/96/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2289
-[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/29-37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F29-37
-[/us/pl/100/688/s3202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3202%2Fb
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4154
-[/us/pl/103/431/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431%2Fs2
+[/us/pl/103/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431
 [/us/stat/108/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4396
-[/us/pl/104/66/s2021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fb
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/103/431/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431%2Fs2%2F1
-[/us/pl/103/431/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431%2Fs2%2F2
+[/us/pl/103/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431
+[/us/pl/103/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431
 [/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
-[/us/pl/100/4/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb
-[/us/pl/100/4/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb
-[/us/pl/100/4/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Fc
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb
-[/us/pl/100/4/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Fd
-[/us/pl/100/4/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Fe
-[/us/pl/100/4/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1314/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa%2F4
 [/us/usc/t33/s1317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317%2Fa
-[/us/pl/100/4/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fa
-[/us/pl/100/4/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fa
-[/us/pl/100/4/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fb
-[/us/pl/100/4/s303/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fd%2F2
-[/us/pl/100/4/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fa
-[/us/pl/100/4/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fb%2F1
-[/us/pl/100/4/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fc
-[/us/pl/100/4/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs304%2Fa
-[/us/pl/100/4/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Ff
-[/us/pl/100/4/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fc%2F1
-[/us/pl/100/4/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fc%2F2
-[/us/pl/100/4/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs305
-[/us/pl/100/4/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs306%2Fb
-[/us/pl/100/4/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs306%2Fa
-[/us/pl/100/4/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs307
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/97/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F440
-[/us/pl/97/117/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs21%2Fb
-[/us/usc/t33/s1281/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281%2Fg%2F2%2FA
-[/us/pl/97/117/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs22%2Fa
-[/us/pl/97/117/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs21%2Fa
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
-[/us/pl/97/117/s22/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs22%2Fd
-[/us/pl/95/217/s42/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs42%2Fb
-[/us/pl/95/217/s42/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs42%2Fa
-[/us/pl/95/217/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs43
-[/us/pl/95/217/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs44
-[/us/pl/95/217/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs45
-[/us/pl/95/217/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs46
-[/us/pl/95/217/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs47
-[/us/pl/95/217/s53/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs53%2Fc
+[/us/usc/t33/s1281/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281%2Fg%2F2%2FA
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/4/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs302%2Fe
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F32
 [/us/usc/t33/s1311/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fg
-[/us/pl/100/4/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fb%2F2
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F33
-[/us/pl/100/4/s303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs303%2Fg
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F34
 [/us/usc/t33/s1311/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fh
-[/us/pl/100/4/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs304%2Fb
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F34
-[/us/pl/97/117/s22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs22%2Fe
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1632
 [/us/usc/t33/s1311/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fh
 [/us/usc/t33/s1311/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb%2F1%2FB
-[/us/pl/100/4/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs301%2Ff
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F30
 [/us/usc/t33/s1311/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb%2F2%2FA
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
@@ -694,13 +694,13 @@
 [/us/usc/t33/s1342/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fa%2F1%2FB
 [/us/pl/100/4/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs306%2Fc
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/98/67/s214/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs214%2Fg
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F393
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s7652/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7652%2Fc%2F3
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
-[/us/pl/97/117/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs21%2Fa
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1631
 [/us/usc/t33/s1311/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb%2F1%2FB
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117

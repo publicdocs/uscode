@@ -17,7 +17,7 @@
 
     The President shall consult with the affected trustees designated under [section 2706 of this title][/us/usc/t33/s2706] on the appropriate removal action to be taken in connection with any discharge of oil. For the purposes of the National Contingency Plan, removal with respect to any discharge shall be considered completed when so determined by the President in consultation with the Governor or Governors of the affected States. However, this determination shall not preclude additional removal actions under applicable State law.
 
-([Pub. L. 101–380, title I, § 1011][/us/pl/101/380/s1011], Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1011, Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498].)
 
  __Delegation of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2706
-[/us/pl/101/380/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1011
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F498
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 

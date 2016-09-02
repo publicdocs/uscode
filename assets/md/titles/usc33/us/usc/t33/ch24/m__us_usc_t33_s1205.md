@@ -17,7 +17,7 @@
 
     Whenever radiotelephone capability is required by this chapter, a vessel’s radiotelephone equipment shall be maintained in effective operating condition. If the radiotelephone equipment carried aboard a vessel ceases to operate, the master shall exercise due diligence to restore it or cause it to be restored to effective operating condition at the earliest practicable time. The failure of a vessel’s radiotelephone equipment shall not, in itself, constitute a violation of this chapter, nor shall it obligate the master of any vessel to moor or anchor his vessel; however, the loss of radiotelephone capability shall be given consideration in the navigation of the vessel.
 
-([Pub. L. 92–63, § 6][/us/pl/92/63/s6], Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
+([Pub. L. 92–63][/us/pl/92/63], § 6, Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs6
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F165
 
 

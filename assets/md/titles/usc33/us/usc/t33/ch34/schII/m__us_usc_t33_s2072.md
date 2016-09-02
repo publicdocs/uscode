@@ -33,15 +33,15 @@
 
         (2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
-([Pub. L. 96–591, § 4][/us/pl/96/591/s4], Dec. 24, 1980, [94 Stat. 3433][/us/stat/94/3433]; [Pub. L. 104–324, title III, § 312(c)][/us/pl/104/324/s312/c], Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920].)
+([Pub. L. 96–591][/us/pl/96/591], § 4, Dec. 24, 1980, [94 Stat. 3433][/us/stat/94/3433]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 312(c), Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920].)
 
  __References in Text__ 
 
-    Rule 1, referred to in pars. (a) and (b), was classified to [section 2001 of this title][/us/usc/t33/s2001], prior to repeal by [Pub. L. 108–293, title III, § 303(a)][/us/pl/108/293/s303/a], (c), Aug. 9, 2004, [118 Stat. 1042][/us/stat/118/1042], effective May 17, 2010.
+    Rule 1, referred to in pars. (a) and (b), was classified to [section 2001 of this title][/us/usc/t33/s2001], prior to repeal by [Pub. L. 108–293, title III][/us/pl/108/293/tIII], § 303(a), (c), Aug. 9, 2004, [118 Stat. 1042][/us/stat/118/1042], effective May 17, 2010.
 
  __Codification__ 
 
-    In subsec. (d)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (d)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/96/591/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs4
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/stat/94/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3433
-[/us/pl/104/324/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs312%2Fc
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3920
 [/us/usc/t33/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2001
-[/us/pl/108/293/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs303%2Fa
+[/us/pl/108/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIII
 [/us/stat/118/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1042
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

@@ -363,7 +363,7 @@
 
             With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
-([Pub. L. 101–380, title V, § 5002][/us/pl/101/380/s5002], Aug. 18, 1990, [104 Stat. 544][/us/stat/104/544]; [Pub. L. 109–241, title IX, § 902][/us/pl/109/241/s902](l)(2), July 11, 2006, [120 Stat. 568][/us/stat/120/568]; [Pub. L. 113–281, title III, § 318][/us/pl/113/281/s318], Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5002, Aug. 18, 1990, [104 Stat. 544][/us/stat/104/544]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(l)(2), July 11, 2006, [120 Stat. 568][/us/stat/120/568]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 318, Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051].)
 
  __Amendments__ 
 
@@ -415,11 +415,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/101/380/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5002
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F544
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F568
-[/us/pl/113/281/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs318
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3051
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241

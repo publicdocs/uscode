@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4661 derived from [act Mar. 3, 1821, ch. 52, § 3][/us/act/1821-03-03/ch52/s3], [3 Stat. 644][/us/stat/3/644].
+    R.S. § 4661 derived from [act Mar. 3, 1821, ch. 52][/us/act/1821-03-03/ch52], § 3, [3 Stat. 644][/us/stat/3/644].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1821-03-03/ch52/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1821-03-03%2Fch52%2Fs3
+[/us/act/1821-03-03/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1821-03-03%2Fch52
 [/us/stat/3/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F644
 
 

@@ -17,7 +17,7 @@
 
     In planning and implementing any navigation project (including maintenance thereof) on the Great Lakes and adjacent waters, the Secretary shall consult and cooperate with concerned States in selecting disposal areas for dredged material which is suitable for beach nourishment.
 
-([Pub. L. 99–662, title XI, § 1154][/us/pl/99/662/s1154], Nov. 17, 1986, [100 Stat. 4256][/us/stat/100/4256].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1154, Nov. 17, 1986, [100 Stat. 4256][/us/stat/100/4256].)
 
  __“Secretary” Defined__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1154
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4256
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

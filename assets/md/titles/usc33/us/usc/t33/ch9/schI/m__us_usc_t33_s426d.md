@@ -17,7 +17,7 @@
 
     Any expenses incident and necessary in the undertaking of the general investigations authorized by sections 426a to 426d of this title may be paid from funds appropriated prior to or after July 31, 1945, for examinations, surveys, and contingencies for rivers and harbors.
 
-([July 31, 1945, ch. 334, § 4][/us/act/1945-07-31/ch334/s4], [59 Stat. 508][/us/stat/59/508].)
+([July 31, 1945, ch. 334][/us/act/1945-07-31/ch334], § 4, [59 Stat. 508][/us/stat/59/508].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch334/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch334%2Fs4
+[/us/act/1945-07-31/ch334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch334
 [/us/stat/59/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F508
 
 

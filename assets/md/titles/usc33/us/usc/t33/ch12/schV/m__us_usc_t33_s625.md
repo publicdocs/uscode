@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t33/ch12/schV/m__us_usc_t33_s624.md) | [Next](./../../../../..//us/usc/t33/ch12/schV/m__us_usc_t33_s626.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs625)
 
-## § 625. Repealed. [Oct. 31, 1951, ch. 654, § 1(58)][/us/act/1951-10-31/ch654/s1/58], [65 Stat. 703][/us/stat/65/703]
+## § 625. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(58), [65 Stat. 703][/us/stat/65/703]
 
-    Section, acts [Sept. 19, 1890, ch. 907, § 2][/us/act/1890-09-19/ch907/s2], [26 Stat. 452][/us/stat/26/452]; [July 25, 1912, ch. 253, § 8][/us/act/1912-07-25/ch253/s8], [37 Stat. 233][/us/stat/37/233], related to combining several projects in one contract.
+    Section, acts [Sept. 19, 1890, ch. 907][/us/act/1890-09-19/ch907], § 2, [26 Stat. 452][/us/stat/26/452]; [July 25, 1912, ch. 253][/us/act/1912-07-25/ch253], § 8, [37 Stat. 233][/us/stat/37/233], related to combining several projects in one contract.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F58
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F703
-[/us/act/1890-09-19/ch907/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907%2Fs2
+[/us/act/1890-09-19/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907
 [/us/stat/26/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F452
-[/us/act/1912-07-25/ch253/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253%2Fs8
+[/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F233
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall not require, under [section 460d of title 16][/us/usc/t16/s460d], and the Federal Water Project Recreation Act \[[16 U.S.C. 460][/us/usc/t16/s460]l–12 et seq.\], non-Federal interests to assume operation and maintenance of any recreational facility operated by the Secretary at any water resources project as a condition to the construction of new recreational facilities at such project or any other water resources project.
 
-([Pub. L. 99–662, title IX, § 927][/us/pl/99/662/s927], Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 927, Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s460d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460d
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/99/662/s927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs927
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4195
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F213

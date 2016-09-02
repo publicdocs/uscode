@@ -27,7 +27,7 @@
 
         Rights extended to members of the uniformed services in this section are extended to their surviving spouses and to such others as are designated by the Secretary concerned.
 
-([Pub. L. 107–372, title II, § 264][/us/pl/107/372/s264], Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 264, Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs264
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3093
 [/us/usc/t33/s857–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%934
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

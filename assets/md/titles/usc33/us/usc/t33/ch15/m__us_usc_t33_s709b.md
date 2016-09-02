@@ -17,7 +17,7 @@
 
     The Secretary, the Administrator of the Federal Emergency Management Agency, and the Administrator of the Soil Conservation Service shall take necessary actions, including the posting and distribution of information and the preparation and distribution of educational materials and programs, to ensure that information relating to flood hazard areas is generally available to the public.
 
-([Pub. L. 99–662, title IX, § 944][/us/pl/99/662/s944], Nov. 17, 1986, [100 Stat. 4200][/us/stat/100/4200]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 944, Nov. 17, 1986, [100 Stat. 4200][/us/stat/100/4200]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Change of Name__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/99/662/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs944
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4200
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313

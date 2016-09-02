@@ -33,7 +33,7 @@
 
         Any bridge (except a bridge to which subsection (b) of this section applies) the construction, reconstruction, or alteration of which was required by an order of the Secretary issued prior to July 1, 1939, and was not begun before such date, shall be subject to the provisions of this subchapter as though such order had not been issued, and compliance with the provisions of this subchapter and with such orders as may be issued thereunder shall be considered to constitute compliance with such order issued prior to July 1, 1939, and with the provisions of law under which it was issued.
 
-([June 21, 1940, ch. 409, § 12][/us/act/1940-06-21/ch409/s12], [54 Stat. 501][/us/stat/54/501].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 12, [54 Stat. 501][/us/stat/54/501].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t33/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs494
 [/us/usc/t33/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs502
 [/us/usc/t33/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs515
-[/us/act/1940-06-21/ch409/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs12
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F501
 
 

@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated $3,000,000 to carry out this section.
 
-([Pub. L. 110–114, title V, § 5024][/us/pl/110/114/s5024], Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203].)
+([Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5024, Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s5024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5024
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1203
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

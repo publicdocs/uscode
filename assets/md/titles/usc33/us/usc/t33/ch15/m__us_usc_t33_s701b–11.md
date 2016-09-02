@@ -23,11 +23,11 @@
 
         Where a nonstructural alternative is recommended, non-Federal participation shall be comparable to the value of lands, easements, and rights-of-way which would have been required of non-Federal interests under [section 701c of this title][/us/usc/t33/s701c], for structural protection measures, but in no event shall exceed 20 per centum of the project costs.
 
-([Pub. L. 93–251, title I, § 73][/us/pl/93/251/s73], Mar. 7, 1974, [88 Stat. 32][/us/stat/88/32].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 73, Mar. 7, 1974, [88 Stat. 32][/us/stat/88/32].)
 
  __Nonstructural Flood Control Policy__ 
 
-[Pub. L. 104–303, title II, § 202(d)][/us/pl/104/303/s202/d], Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675], provided that:
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(d), Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675], provided that:
 
 >     “(1)  __Review__  __.—__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t33/s701c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701c
-[/us/pl/93/251/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs73
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F32
-[/us/pl/104/303/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fd
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3675
 
 

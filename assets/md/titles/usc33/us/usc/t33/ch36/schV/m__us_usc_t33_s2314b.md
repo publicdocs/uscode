@@ -41,7 +41,7 @@
 
         (3) promote the use of advanced modeling technologies.
 
-([Pub. L. 113–121, title I, § 1034][/us/pl/113/121/s1034], June 10, 2014, [128 Stat. 1234][/us/stat/128/1234].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1034, June 10, 2014, [128 Stat. 1234][/us/stat/128/1234].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1034
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1234
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

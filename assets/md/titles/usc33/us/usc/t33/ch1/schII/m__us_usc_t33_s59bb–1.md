@@ -33,7 +33,7 @@
 
         If, 20 years from December 11, 2000, any area or part thereof described in subsection (a) of this section is not occupied by permanent structures in accordance with the requirements set out in subsection (c) of this section, or if work in connection with any activity permitted in subsection (c) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-([Pub. L. 106–541, title III, § 346][/us/pl/106/541/s346], Dec. 11, 2000, [114 Stat. 2614][/us/stat/114/2614].)
+([Pub. L. 106–541, title III][/us/pl/106/541/tIII], § 346, Dec. 11, 2000, [114 Stat. 2614][/us/stat/114/2614].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/106/541/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs346
+[/us/pl/106/541/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtIII
 [/us/stat/114/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2614
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

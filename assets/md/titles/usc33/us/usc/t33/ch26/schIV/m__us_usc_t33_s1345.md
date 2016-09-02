@@ -107,13 +107,13 @@
 
             For the purposes of carrying out the scientific studies, demonstration projects, and public information and education projects authorized in this section, there is authorized to be appropriated for fiscal years beginning after September 30, 1986, not to exceed $5,000,000.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 405, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 884][/us/stat/86/884]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 54(d), 68, Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], 1606; [Pub. L. 100–4, title IV, § 406(a)][/us/pl/100/4/s406/a]–(c), (f), Feb. 4, 1987, [101 Stat. 71][/us/stat/101/71], 72, 74.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 405, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 884][/us/stat/86/884]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 54(d), 68, Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], 1606; [Pub. L. 100–4, title IV][/us/pl/100/4/tIV], § 406(a)–(c), (f), Feb. 4, 1987, [101 Stat. 71][/us/stat/101/71], 72, 74.)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
     The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is [Pub. L. 92–532][/us/pl/92/532], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], as amended, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title][/us/usc/t33/s1401] and Tables.
 
@@ -121,25 +121,25 @@
 
  __Amendments__ 
 
-    1987—Subsec. (d). [Pub. L. 100–4, § 406(a)][/us/pl/100/4/s406/a], designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
+    1987—Subsec. (d). [Pub. L. 100–4][/us/pl/100/4], § 406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
 
-    [Pub. L. 100–4, § 406(f)][/us/pl/100/4/s406/f], inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
+    [Pub. L. 100–4][/us/pl/100/4], § 406(f), inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
 
-    Subsec. (e). [Pub. L. 100–4, § 406(b)][/us/pl/100/4/s406/b], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines.”
+    Subsec. (e). [Pub. L. 100–4][/us/pl/100/4], § 406(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines.”
 
-    Subsecs. (f), (g). [Pub. L. 100–4, § 406(c)][/us/pl/100/4/s406/c], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 100–4][/us/pl/100/4], § 406(c), added subsecs. (f) and (g).
 
-    1977—Subsec. (a). [Pub. L. 95–217, § 68(a)][/us/pl/95/217/s68/a], substituted “under [section 1342 of this title][/us/usc/t33/s1342]” for “under this section”.
+    1977—Subsec. (a). [Pub. L. 95–217][/us/pl/95/217], § 68(a), substituted “under [section 1342 of this title][/us/usc/t33/s1342]” for “under this section”.
 
     Subsec. (b). [Pub. L. 95–217][/us/pl/95/217], §§ 54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and [section 1342 of this title][/us/usc/t33/s1342]” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under [section 1342 of this title][/us/usc/t33/s1342]”.
 
     Subsec. (c). [Pub. L. 95–217][/us/pl/95/217], §§ 54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with [section 1342 of this title][/us/usc/t33/s1342]” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
 
-    Subsecs. (d), (e). [Pub. L. 95–217, § 54(d)(3)][/us/pl/95/217/s54/d/3], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 95–217][/us/pl/95/217], § 54(d)(3), added subsecs. (d) and (e).
 
  __Removal Credits__ 
 
-[Pub. L. 100–4, title IV, § 406(e)][/us/pl/100/4/s406/e], Feb. 4, 1987, [101 Stat. 73][/us/stat/101/73], provided that: 
+[Pub. L. 100–4, title IV][/us/pl/100/4/tIV], § 406(e), Feb. 4, 1987, [101 Stat. 73][/us/stat/101/73], provided that: 
 
 > “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[[33 U.S.C. 1345(d)][/us/usc/t33/s1345/d]\] is stayed until August 31, 1987, with respect to—
 
@@ -170,18 +170,18 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F884
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1591
-[/us/pl/100/4/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fa
+[/us/pl/100/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIV
 [/us/stat/101/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F71
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
@@ -190,19 +190,19 @@
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/100/4/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fa
-[/us/pl/100/4/s406/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Ff
-[/us/pl/100/4/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fb
-[/us/pl/100/4/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fc
-[/us/pl/95/217/s68/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs68%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/95/217/s54/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fd%2F3
-[/us/pl/100/4/s406/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fe
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/100/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIV
 [/us/stat/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F73
 [/us/usc/t33/s1345/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1345%2Fd
 [/us/usc/t33/s1317/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317%2Fb%2F1

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s765.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s770.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs766)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s765.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s767...769.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs766)
 
 ## § 766. Restoration to active duty after retirement for disability
 
     Any officer or employee retired under [section 765 of this title][/us/usc/t33/s765] may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which he may be retired under [section 763 of this title][/us/usc/t33/s763] be reexamined by a medical officer of the United States upon the request of the Secretary of Transportation.
 
-([Mar. 4, 1925, ch. 523, § 2][/us/act/1925-03-04/ch523/s2], [43 Stat. 1262][/us/stat/43/1262]; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
+([Mar. 4, 1925, ch. 523][/us/act/1925-03-04/ch523], § 2, [43 Stat. 1262][/us/stat/43/1262]; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
 
  __Transfer of Functions__ 
 
@@ -25,51 +25,22 @@
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-§§ 767 to 769. __Repealed.__  __[__  __Aug. 4, 1949, ch. 393, § 20__  __][/us/act/1949-08-04/ch393/s20]__  __,__  __[__  __63 Stat. 561__  __][/us/stat/63/561]__ 
-
-    Section 767, acts [Mar. 3, 1915, ch. 81, § 7][/us/act/1915-03-03/ch81/s7], [38 Stat. 928][/us/stat/38/928]; [June 20, 1918, ch. 103, § 7][/us/act/1918-06-20/ch103/s7], [40 Stat. 608][/us/stat/40/608], related to administration of oaths to employees of Lighthouse Service.
-
-    Section 768, acts [Aug. 24, 1912, ch. 355, § 8][/us/act/1912-08-24/ch355/s8], [37 Stat. 487][/us/stat/37/487]; [Mar. 3, 1915, ch. 81, § 7][/us/act/1915-03-03/ch81/s7], [38 Stat. 928][/us/stat/38/928]; [June 20, 1918, ch. 103, § 7][/us/act/1918-06-20/ch103/s7], [40 Stat. 608][/us/stat/40/608]; [June 6, 1939, ch. 185][/us/act/1939-06-06/ch185], [53 Stat. 810][/us/stat/53/810], related to oaths to expense accounts.
-
-    Section 769, [act Feb. 25, 1929, ch. 313, § 3][/us/act/1929-02-25/ch313/s3], [45 Stat. 1262][/us/stat/45/1262], related to aids to navigation in Panama. See [section 81 of Title 14][/us/usc/t14/s81], Coast Guard.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
-
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s765.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s770.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs766)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s765.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s767...769.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs766)
 
 ----------
 ----------
 
 [/us/usc/t33/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs765
 [/us/usc/t33/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763
-[/us/act/1925-03-04/ch523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch523%2Fs2
+[/us/act/1925-03-04/ch523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch523
 [/us/stat/43/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1262
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
-[/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/act/1915-03-03/ch81/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch81%2Fs7
-[/us/stat/38/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F928
-[/us/act/1918-06-20/ch103/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs7
-[/us/stat/40/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F608
-[/us/act/1912-08-24/ch355/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355%2Fs8
-[/us/stat/37/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F487
-[/us/act/1915-03-03/ch81/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch81%2Fs7
-[/us/stat/38/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F928
-[/us/act/1918-06-20/ch103/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs7
-[/us/stat/40/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F608
-[/us/act/1939-06-06/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-06%2Fch185
-[/us/stat/53/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F810
-[/us/act/1929-02-25/ch313/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-25%2Fch313%2Fs3
-[/us/stat/45/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1262
-[/us/usc/t14/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs81
 
 

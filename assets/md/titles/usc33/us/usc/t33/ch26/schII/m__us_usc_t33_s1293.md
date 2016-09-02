@@ -37,7 +37,7 @@
 
         The Administrator, in determining whether there is a reasonable assurance of repayment, may require a commitment which would apply to such repayment. Such commitment may include, but not be limited to, any funds received by such grantee from the amounts appropriated under [section 1286 of this title][/us/usc/t33/s1286].
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 213, as added [Pub. L. 94–558][/us/pl/94/558], Oct. 19, 1976, [90 Stat. 2639][/us/stat/90/2639]; amended [Pub. L. 96–483, § 2(e)][/us/pl/96/483/s2/e], Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 213, as added [Pub. L. 94–558][/us/pl/94/558], Oct. 19, 1976, [90 Stat. 2639][/us/stat/90/2639]; amended [Pub. L. 96–483][/us/pl/96/483], § 2(e), Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/pl/94/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F558
 [/us/stat/90/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2639
-[/us/pl/96/483/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fe
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/usc/t33/s1284/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1284%2Fb%2F3

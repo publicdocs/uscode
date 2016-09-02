@@ -23,13 +23,13 @@
 
     (3) to carry out [section 3303a(h) of this title][/us/usc/t33/s3303a/h], $30,000,000 for each of fiscal years 2015 through 2019.
 
-([Pub. L. 110–114, title IX, § 9008][/us/pl/110/114/s9008], formerly § 9006, Nov. 8, 2007, [121 Stat. 1291][/us/stat/121/1291]; renumbered § 9008 and amended [Pub. L. 113–121, title III, § 3016(e)(1)][/us/pl/113/121/s3016/e/1], (f), June 10, 2014, [128 Stat. 1293][/us/stat/128/1293], 1300.)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9008, formerly § 9006, Nov. 8, 2007, [121 Stat. 1291][/us/stat/121/1291]; renumbered § 9008 and amended [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(e)(1), (f), June 10, 2014, [128 Stat. 1293][/us/stat/128/1293], 1300.)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–121, § 3016(f)(2)][/us/pl/113/121/s3016/f/2], substituted “Secretary—” for “Secretary to carry out this chapter $20,000,000 for each of fiscal years 2008 through 2013.” and added pars. (1) to (3).
+    2014—[Pub. L. 113–121][/us/pl/113/121], § 3016(f)(2), substituted “Secretary—” for “Secretary to carry out this chapter $20,000,000 for each of fiscal years 2008 through 2013.” and added pars. (1) to (3).
 
-    [Pub. L. 113–121, § 3016(f)(1)][/us/pl/113/121/s3016/f/1], which directed the substitution of “is” for “are”, could not be executed because “are” does not appear in text.
+    [Pub. L. 113–121][/us/pl/113/121], § 3016(f)(1), which directed the substitution of “is” for “are”, could not be executed because “are” does not appear in text.
 
  __“Secretary” Defined__ 
 
@@ -44,12 +44,12 @@
 
 [/us/usc/t33/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3303
 [/us/usc/t33/s3303a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3303a%2Fh
-[/us/pl/110/114/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9008
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1291
-[/us/pl/113/121/s3016/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fe%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1293
-[/us/pl/113/121/s3016/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Ff%2F2
-[/us/pl/113/121/s3016/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Ff%2F1
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467j.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k...467m.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
 
 ## § 467n. Recovery of dam modification costs required for safety purposes
 
@@ -25,7 +25,7 @@
 
     (b) Nothing in this section affects the authority of the Secretary to perform work pursuant to [Public Law 84–99][/us/pl/84/99], as amended ([33 U.S.C. 701n][/us/usc/t33/s701n]) or cost sharing for such work.
 
-([Pub. L. 99–662, title XII, § 1203][/us/pl/99/662/s1203], Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263].)
+([Pub. L. 99–662, title XII][/us/pl/99/662/tXII], § 1203, Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467j.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
+[Previous](./../../../../..//us/usc/t33/ch9/schVII/m__us_usc_t33_s467k...467m.md) | [Next](./../../../../..//us/usc/t33/ch10/m__us_usc_t33_ch10.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467n)
 
 ----------
 ----------
@@ -51,7 +51,7 @@
 [/us/pl/98/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F404
 [/us/pl/84/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F84%2F99
 [/us/usc/t33/s701n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n
-[/us/pl/99/662/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1203
+[/us/pl/99/662/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXII
 [/us/stat/100/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4263
 [/us/pl/98/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F404
 [/us/pl/98/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F404

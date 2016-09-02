@@ -31,7 +31,7 @@
 
         If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-([Pub. L. 102–580, title III, § 335][/us/pl/102/580/s335], Oct. 31, 1992, [106 Stat. 4853][/us/stat/106/4853].)
+([Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 335, Oct. 31, 1992, [106 Stat. 4853][/us/stat/106/4853].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/102/580/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs335
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4853
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

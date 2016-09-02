@@ -23,7 +23,7 @@
 
         The declaration must contain a clear statement that the antifouling system on the vessel complies with the Convention. The Secretary may prescribe the form and other requirements of the declaration.
 
-([Pub. L. 111–281, title X, § 1022][/us/pl/111/281/s1022], Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1022, Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1022
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3026
 
 

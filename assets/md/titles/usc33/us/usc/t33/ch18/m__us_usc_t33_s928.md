@@ -35,7 +35,7 @@
 
         A person who receives a fee, gratuity, or other consideration on account of services rendered as a representative of a claimant, unless the consideration is approved by the deputy commissioner, administrative law judge, Board, or court, or who makes it a business to solicit employment for a lawyer, or for himself, with respect to a claim or award for compensation under this chapter, shall, upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or be imprisoned for not more than one year, or both.
 
-([Mar. 4, 1927, ch. 509, § 28][/us/act/1927-03-04/ch509/s28], [44 Stat. 1438][/us/stat/44/1438]; [Pub. L. 92–576, § 13][/us/pl/92/576/s13], Oct. 27, 1972, [86 Stat. 1259][/us/stat/86/1259]; [Pub. L. 98–426, § 17][/us/pl/98/426/s17], Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 28, [44 Stat. 1438][/us/stat/44/1438]; [Pub. L. 92–576][/us/pl/92/576], § 13, Oct. 27, 1972, [86 Stat. 1259][/us/stat/86/1259]; [Pub. L. 98–426][/us/pl/98/426], § 17, Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650].)
 
  __Amendments__ 
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t33/s907/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs907%2Fe
-[/us/act/1927-03-04/ch509/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs28
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1438
-[/us/pl/92/576/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs13
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1259
-[/us/pl/98/426/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs17
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1650
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576

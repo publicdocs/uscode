@@ -33,7 +33,7 @@
 
             The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (7) or (9) of [section 3905 of this title][/us/usc/t33/s3905].
 
-([Pub. L. 113–121, title V, § 5023][/us/pl/113/121/s5023], June 10, 2014, [128 Stat. 1333][/us/stat/128/1333].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5023, June 10, 2014, [128 Stat. 1333][/us/stat/128/1333].)
 
  __“Secretary” Defined__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t33/s3905/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905%2F1
 [/us/usc/t33/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905
 [/us/usc/t33/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905
-[/us/pl/113/121/s5023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5023
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1333
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

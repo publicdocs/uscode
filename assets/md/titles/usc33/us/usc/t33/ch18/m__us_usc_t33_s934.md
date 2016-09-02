@@ -17,7 +17,7 @@
 
     Every employer who has secured compensation under the provisions of this chapter shall keep posted in a conspicuous place or places in and about his place or places of business typewritten or printed notices, in accordance with a form prescribed by the Secretary, stating that such employer has secured the payment of compensation in accordance with the provisions of this chapter. Such notices shall contain the name and address of the carrier, if any, with whom the employer has secured payment of compensation and the date of the expiration of the policy.
 
-([Mar. 4, 1927, ch. 509, § 34][/us/act/1927-03-04/ch509/s34], [44 Stat. 1441][/us/stat/44/1441]; [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 34, [44 Stat. 1441][/us/stat/44/1441]; [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs34
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1441
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902

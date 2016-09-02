@@ -57,31 +57,31 @@
 
         (3) Notwithstanding subsection (b) and paragraph (2) of this subsection, the Administrator shall have all of the authorities of the Secretary, as specified in subsection (b) of this section, for the purposes of enforcing regulations 17 and 18 of Annex VI to the Convention to the extent that shoreside violations are the subject of the action and in any other matter referred to the Administrator by the Secretary.
 
-([Pub. L. 96–478, § 8][/us/pl/96/478/s8], Oct. 21, 1980, [94 Stat. 2300][/us/stat/94/2300]; [Pub. L. 100–220, title II, § 2104][/us/pl/100/220/s2104], Dec. 29, 1987, [101 Stat. 1462][/us/stat/101/1462]; [Pub. L. 101–225, title II, § 201(2)][/us/pl/101/225/s201/2], (3), Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–227, title II, § 201(e)][/us/pl/104/227/s201/e], Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280, § 8][/us/pl/110/280/s8], July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
+([Pub. L. 96–478][/us/pl/96/478], § 8, Oct. 21, 1980, [94 Stat. 2300][/us/stat/94/2300]; [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2104, Dec. 29, 1987, [101 Stat. 1462][/us/stat/101/1462]; [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 201(2), (3), Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 201(e), Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280][/us/pl/110/280], § 8, July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
 
  __Amendments__ 
 
     2008—Subsec. (f). [Pub. L. 110–280][/us/pl/110/280] amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
 
-    1996—Subsec. (a). [Pub. L. 104–227, § 201(e)(1)][/us/pl/104/227/s201/e/1], (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
+    1996—Subsec. (a). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
 
-    Subsec. (b). [Pub. L. 104–227, § 201(e)(3)][/us/pl/104/227/s201/e/3], inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
+    Subsec. (b). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
-    Subsec. (c)(1). [Pub. L. 104–227, § 201(e)(4)][/us/pl/104/227/s201/e/4], inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
+    Subsec. (c)(1). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(4), inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
 
-    Subsec. (c)(2). [Pub. L. 104–227, § 201(e)(5)][/us/pl/104/227/s201/e/5], (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
+    Subsec. (c)(2). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(5), (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
 
-    Subsec. (d)(1). [Pub. L. 104–227, § 201(e)(8)][/us/pl/104/227/s201/e/8], inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
+    Subsec. (d)(1). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(8), inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
 
-    Subsec. (e)(1). [Pub. L. 104–227, § 201(e)(9)][/us/pl/104/227/s201/e/9], inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
+    Subsec. (e)(1). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(9), inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
 
-    Subsec. (e)(2). [Pub. L. 104–227, § 201(e)(10)][/us/pl/104/227/s201/e/10], inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
+    Subsec. (e)(2). [Pub. L. 104–227][/us/pl/104/227], § 201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
 
     1989—Subsecs. (c)(1), (e)(2). [Pub. L. 101–225][/us/pl/101/225] inserted “or of this chapter”.
 
-    1987—Subsec. (c). [Pub. L. 100–220, § 2104(a)][/us/pl/100/220/s2104/a], added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
+    1987—Subsec. (c). [Pub. L. 100–220][/us/pl/100/220], § 2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
 
-    Subsecs. (d) to (f). [Pub. L. 100–220, § 2104(b)][/us/pl/100/220/s2104/b], added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+    Subsecs. (d) to (f). [Pub. L. 100–220][/us/pl/100/220], § 2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
  __Effective Date of 1987 Amendment__ 
 
@@ -99,27 +99,27 @@
 [/us/usc/t33/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1908
 [/us/usc/t33/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1908
 [/us/usc/t33/s1902/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1902%2Fa%2F5
-[/us/pl/96/478/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs8
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2300
-[/us/pl/100/220/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2104
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1462
-[/us/pl/101/225/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs201%2F2
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1910
-[/us/pl/104/227/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3043
-[/us/pl/110/280/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs8
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2614
 [/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
-[/us/pl/104/227/s201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F1
-[/us/pl/104/227/s201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F3
-[/us/pl/104/227/s201/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F4
-[/us/pl/104/227/s201/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F5
-[/us/pl/104/227/s201/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F8
-[/us/pl/104/227/s201/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F9
-[/us/pl/104/227/s201/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fe%2F10
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
-[/us/pl/100/220/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2104%2Fa
-[/us/pl/100/220/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2104%2Fb
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2002%2Fa
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901

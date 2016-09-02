@@ -43,7 +43,7 @@
 
         The Institute shall publish and make available to any person on request the results of all research, educational, and demonstration projects conducted by the Institute. The Institute shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Park Service, the United States Fish and Wildlife Service, and the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 101–380, title V, § 5008][/us/pl/101/380/s5008], as added [Pub. L. 106–246, div. B, title II, § 2204(1)][/us/pl/106/246/s2204/1], July 13, 2000, [114 Stat. 546][/us/stat/114/546]; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(1)(A), (B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238, 2763A–239.)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5008, as added [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2204(1), July 13, 2000, [114 Stat. 546][/us/stat/114/546]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(1)(A), (B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238, 2763A–239.)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
+    2000—Subsec. (c). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(1)(B)\], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under [Public Law 105–83][/us/pl/105/83] may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(1)(B)\], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under [Public Law 105–83][/us/pl/105/83] may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
 
 ----------
 
@@ -65,18 +65,18 @@
 ----------
 
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
-[/us/pl/101/380/s5008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5008
-[/us/pl/106/246/s2204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2204%2F1
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F546
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/stat/111/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1543
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 
 

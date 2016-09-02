@@ -337,7 +337,7 @@
 
             (B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “chapter I”. </sup></sup>  of the National Flood Insurance Act of 1968 ([42 U.S.C. 4011][/us/usc/t42/s4011] et seq.).
 
-([Pub. L. 110–114, title IX, § 9005][/us/pl/110/114/s9005], as added [Pub. L. 113–121, title III, § 3016(e)(2)][/us/pl/113/121/s3016/e/2], June 10, 2014, [128 Stat. 1293][/us/stat/128/1293].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9005, as added [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(e)(2), June 10, 2014, [128 Stat. 1293][/us/stat/128/1293].)
 
  __References in Text__ 
 
@@ -353,7 +353,7 @@
 
  __Rehabilitation of Existing Levees__ 
 
-[Pub. L. 113–121, title III, § 3017][/us/pl/113/121/s3017], June 10, 2014, [128 Stat. 1300][/us/stat/128/1300], provided that:
+[Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3017, June 10, 2014, [128 Stat. 1300][/us/stat/128/1300], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -408,8 +408,8 @@
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/stat/126/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F942
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
-[/us/pl/110/114/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9005
-[/us/pl/113/121/s3016/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fe%2F2
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1293
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -422,7 +422,7 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/110/114/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9005
 [/us/usc/t33/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3304
-[/us/pl/113/121/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3017
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1300
 [/us/usc/t33/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d

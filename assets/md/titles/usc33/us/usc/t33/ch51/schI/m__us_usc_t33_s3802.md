@@ -55,7 +55,7 @@
 
                 Subparagraph (A) shall not apply to combat-related vessels.
 
-([Pub. L. 111–281, title X, § 1012][/us/pl/111/281/s1012], Oct. 15, 2010, [124 Stat. 3024][/us/stat/124/3024].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1012, Oct. 15, 2010, [124 Stat. 3024][/us/stat/124/3024].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1012
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3024
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

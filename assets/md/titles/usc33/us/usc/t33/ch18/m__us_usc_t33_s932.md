@@ -25,17 +25,17 @@
 
     (b) In granting authorization to any carrier to insure payment of compensation under this chapter the Secretary may take into consideration the recommendation of any State authority having supervision over carriers or over workmen’s compensation, and may authorize any carrier to insure the payment of compensation under this chapter in a limited territory. Any marine protection and indemnity mutual insurance corporation or association, authorized to write insurance against liability for loss or damage from personal injury and death, and for other losses and damages, incidental to or in respect of the ownership, operation, or chartering of vessels on a mutual assessment plan, shall be deemed a qualified carrier to insure compensation under this chapter. The Secretary may suspend or revoke any such authorization for good cause shown after a hearing at which the carrier shall be entitled to be heard in person or by counsel and to present evidence. No suspension or revocation shall affect the liability of any carrier already incurred.
 
-([Mar. 4, 1927, ch. 509, § 32][/us/act/1927-03-04/ch509/s32], [44 Stat. 1439][/us/stat/44/1439]; [Pub. L. 98–426][/us/pl/98/426], §§ 20, 27(a)(2), Sept. 28, 1984, [98 Stat. 1652][/us/stat/98/1652], 1654.)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 32, [44 Stat. 1439][/us/stat/44/1439]; [Pub. L. 98–426][/us/pl/98/426], §§ 20, 27(a)(2), Sept. 28, 1984, [98 Stat. 1652][/us/stat/98/1652], 1654.)
 
  __Amendments__ 
 
-    1984—Subsec. (a)(1). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    1984—Subsec. (a)(1). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    Subsec. (a)(2). [Pub. L. 98–426, § 20][/us/pl/98/426/s20], inserted “based on the employer’s financial condition, the employer’s previous record of payments, and other relevant factors,” after “in an amount determined by the commission,”.
+    Subsec. (a)(2). [Pub. L. 98–426][/us/pl/98/426], § 20, inserted “based on the employer’s financial condition, the employer’s previous record of payments, and other relevant factors,” after “in an amount determined by the commission,”.
 
-    [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    Subsec. (b). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    Subsec. (b). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs32
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1439
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1652
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs20
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1

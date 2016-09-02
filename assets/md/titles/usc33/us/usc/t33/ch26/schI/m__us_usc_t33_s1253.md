@@ -19,7 +19,7 @@
 
     (b) The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for (1) cooperative effort and mutual assistance for the prevention and control of pollution and the enforcement of their respective laws relating thereto, and (2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements and compacts. No such agreement or compact shall be binding or obligatory upon any State a party thereto unless and until it has been approved by the Congress.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 103, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 818][/us/stat/86/818].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 103, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 818][/us/stat/86/818].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F818
 
 

@@ -83,7 +83,7 @@
 
             Any use of funds pursuant to this subsection shall be carried out through the execution of a cooperative agreement, which shall contain such terms and conditions as the Secretary determines to be necessary in the public interest.
 
-([Pub. L. 113–121, title I, § 1047][/us/pl/113/121/s1047], June 10, 2014, [128 Stat. 1255][/us/stat/128/1255].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1047, June 10, 2014, [128 Stat. 1255][/us/stat/128/1255].)
 
  __Codification__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1047
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1255
 [/us/pl/113/121/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1047
 [/us/pl/113/121/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1047

@@ -35,7 +35,7 @@
 
         On October 31 of each year, the Under Secretary shall report to the Congress the specific programs that the National Oceanic and Atmospheric Administration and the Environmental Protection Agency carried out pursuant to this subchapter in the previous fiscal year, specifically listing the amount of funds allocated to those specific programs in the previous fiscal year.
 
-([Pub. L. 92–532, title II, § 204][/us/pl/92/532/s204], formerly § 205, as added [Pub. L. 96–572, § 5][/us/pl/96/572/s5], Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; renumbered § 204 and amended [Pub. L. 99–272, title VI, § 6065][/us/pl/99/272/s6065], Apr. 7, 1986, [100 Stat. 132][/us/stat/100/132]; [Pub. L. 100–627, title I, § 102][/us/pl/100/627/s102], Nov. 7, 1988, [102 Stat. 3213][/us/stat/102/3213].)
+([Pub. L. 92–532, title II][/us/pl/92/532/tII], § 204, formerly § 205, as added [Pub. L. 96–572][/us/pl/96/572], § 5, Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; renumbered § 204 and amended [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6065, Apr. 7, 1986, [100 Stat. 132][/us/stat/100/132]; [Pub. L. 100–627, title I][/us/pl/100/627/tI], § 102, Nov. 7, 1988, [102 Stat. 3213][/us/stat/102/3213].)
 
  __Prior Provisions__ 
 
@@ -58,12 +58,12 @@
 [/us/usc/t33/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1442
 [/us/usc/t16/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs665
 [/us/usc/t33/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1443
-[/us/pl/92/532/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs204
-[/us/pl/96/572/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572%2Fs5
+[/us/pl/92/532/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtII
+[/us/pl/96/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572
 [/us/stat/94/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3345
-[/us/pl/99/272/s6065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6065
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F132
-[/us/pl/100/627/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs102
+[/us/pl/100/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtI
 [/us/stat/102/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3213
 [/us/pl/92/532/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs204
 [/us/usc/t33/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1445

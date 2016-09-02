@@ -17,7 +17,7 @@
 
     No bridge shall at any time unreasonably obstruct the free navigation of any navigable waters of the United States.
 
-([June 21, 1940, ch. 409, § 2][/us/act/1940-06-21/ch409/s2], [54 Stat. 498][/us/stat/54/498].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 2, [54 Stat. 498][/us/stat/54/498].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-21/ch409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs2
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F498
 
 

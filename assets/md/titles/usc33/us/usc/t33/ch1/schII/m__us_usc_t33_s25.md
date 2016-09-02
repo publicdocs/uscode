@@ -17,7 +17,7 @@
 
     The Cache River in the State of Arkansas is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States. This provision shall become void after one year from July 27, 1916, unless within said period the Legislature of Arkansas shall pass an act expressly approving this declaration. The right of the Congress to alter, amend, or repeal this section is expressly reserved.
 
-([July 27, 1916, ch. 260, § 1][/us/act/1916-07-27/ch260/s1], [39 Stat. 399][/us/stat/39/399].)
+([July 27, 1916, ch. 260][/us/act/1916-07-27/ch260], § 1, [39 Stat. 399][/us/stat/39/399].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1916-07-27/ch260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260%2Fs1
+[/us/act/1916-07-27/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260
 [/us/stat/39/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F399
 
 

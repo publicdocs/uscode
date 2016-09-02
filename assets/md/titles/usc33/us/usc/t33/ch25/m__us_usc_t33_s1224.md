@@ -41,7 +41,7 @@
 
     (b) at the earliest possible time, consult with and receive and consider the views of representatives of the maritime community, ports and harbor authorities or associations, environmental groups, and other parties who may be affected by the proposed actions.
 
-([Pub. L. 92–340, § 5][/us/pl/92/340/s5], formerly title I, § 104, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1474][/us/stat/92/1474]; [Pub. L. 107–295, title IV, § 443(2)][/us/pl/107/295/s443/2], Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132].)
+([Pub. L. 92–340][/us/pl/92/340], § 5, formerly title I, § 104, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1474][/us/stat/92/1474]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 443(2), Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132].)
 
  __Amendments__ 
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t33/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1223
-[/us/pl/92/340/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs5
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F427
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1474
-[/us/pl/107/295/s443/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs443%2F2
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2132
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474

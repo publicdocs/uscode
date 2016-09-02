@@ -31,11 +31,11 @@
 
     (3) authorize activities to promote basic and applied research to develop, test, and deploy innovations and improvements in coastal and ocean observation technologies, modeling systems, and other scientific and technological capabilities to improve our conceptual understanding of weather and climate, ocean-atmosphere dynamics, global climate change, physical, chemical, and biological dynamics of the ocean, coastal and Great Lakes environments, and to conserve healthy and restore degraded coastal ecosystems.
 
-([Pub. L. 111–11, title XII, § 12302][/us/pl/111/11/s12302], Mar. 30, 2009, [123 Stat. 1427][/us/stat/123/1427].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12302, Mar. 30, 2009, [123 Stat. 1427][/us/stat/123/1427].)
 
  __Short Title__ 
 
-[Pub. L. 111–11, title XII, § 12301][/us/pl/111/11/s12301], Mar. 30, 2009, [123 Stat. 1427][/us/stat/123/1427], provided that: 
+[Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12301, Mar. 30, 2009, [123 Stat. 1427][/us/stat/123/1427], provided that: 
 
 > “This subtitle \[subtitle C (§§ 12301–12312) of title XII of [Pub. L. 111–11][/us/pl/111/11], enacting this chapter\] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12302
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1427
-[/us/pl/111/11/s12301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12301
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1427
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

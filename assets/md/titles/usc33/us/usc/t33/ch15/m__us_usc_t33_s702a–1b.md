@@ -17,7 +17,7 @@
 
     The project for flood control of the Lower Mississippi River adopted by sections 642a, 702a to 702a–1a, 702a–2 to 702d, and 702e to 702h, 702i to 702m, and 704 of this title is modified and, as modified, is authorized and adopted.
 
-([Aug. 18, 1941, ch. 377, § 3][/us/act/1941-08-18/ch377/s3], [55 Stat. 642][/us/stat/55/642].)
+([Aug. 18, 1941, ch. 377][/us/act/1941-08-18/ch377], § 3, [55 Stat. 642][/us/stat/55/642].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1941-08-18/ch377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377%2Fs3
+[/us/act/1941-08-18/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377
 [/us/stat/55/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F642
 
 

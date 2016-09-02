@@ -27,15 +27,15 @@
 
         Following consultation with the Secretary, the Secretary of State may make a declaration that the United States does not accept an amendment proposed pursuant to Article VI of the MARPOL Protocol.
 
-([Pub. L. 96–478, § 10][/us/pl/96/478/s10], Oct. 21, 1980, [94 Stat. 2302][/us/stat/94/2302]; [Pub. L. 100–220, title II, § 2106][/us/pl/100/220/s2106], Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 110–280, § 9][/us/pl/110/280/s9], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
+([Pub. L. 96–478][/us/pl/96/478], § 10, Oct. 21, 1980, [94 Stat. 2302][/us/stat/94/2302]; [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2106, Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 110–280][/us/pl/110/280], § 9, July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
 
  __Amendments__ 
 
     2008—Subsec. (b). [Pub. L. 110–280][/us/pl/110/280] substituted “Annex I, II, V, or VI” for “Annex I, II, or V” and inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
 
-    1987—Subsec. (a). [Pub. L. 100–220, § 2106(1)][/us/pl/100/220/s2106/1], substituted “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
+    1987—Subsec. (a). [Pub. L. 100–220][/us/pl/100/220], § 2106(1), substituted “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
 
-    Subsec. (b). [Pub. L. 100–220, § 2106(2)][/us/pl/100/220/s2106/2], substituted “Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention” for “Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol,” and “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
+    Subsec. (b). [Pub. L. 100–220][/us/pl/100/220], § 2106(2), substituted “Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention” for “Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol,” and “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
 
  __Effective Date of 1987 Amendment__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/96/478/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs10
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2302
-[/us/pl/100/220/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2106
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1463
-[/us/pl/110/280/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs9
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2615
 [/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
-[/us/pl/100/220/s2106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2106%2F1
-[/us/pl/100/220/s2106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2106%2F2
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2002%2Fa
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901

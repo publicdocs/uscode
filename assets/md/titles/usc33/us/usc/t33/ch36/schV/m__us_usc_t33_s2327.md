@@ -45,7 +45,7 @@
 
     Such term does not include routine or deferred maintenance. The dollar amounts referred to in paragraphs (1) and (2) shall be adjusted annually according to the economic assumption published each year as guidance in the Annual Program and Budget Request for Civil Works Activities of the Corps of Engineers.
 
-([Pub. L. 102–580, title II, § 205][/us/pl/102/580/s205], Oct. 31, 1992, [106 Stat. 4827][/us/stat/106/4827]; [Pub. L. 113–121, title II, § 2006(a)(4)][/us/pl/113/121/s2006/a/4], June 10, 2014, [128 Stat. 1268][/us/stat/128/1268].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 205, Oct. 31, 1992, [106 Stat. 4827][/us/stat/106/4827]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2006(a)(4), June 10, 2014, [128 Stat. 1268][/us/stat/128/1268].)
 
  __Codification__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/102/580/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs205
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4827
-[/us/pl/113/121/s2006/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2006%2Fa%2F4
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1268
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 

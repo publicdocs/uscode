@@ -23,7 +23,7 @@
 
         In operating and maintaining Federal channels and harbors of, and the connecting channels between, the Great Lakes, the Secretary shall conduct such dredging as is necessary to ensure minimal operation depths consistent with the original authorized depths of the channels and harbors when water levels in the Great Lakes are, or are forecast to be, below the International Great Lakes Datum of 1985.
 
-([Pub. L. 106–541, title III, § 343][/us/pl/106/541/s343], Dec. 11, 2000, [114 Stat. 2613][/us/stat/114/2613].)
+([Pub. L. 106–541, title III][/us/pl/106/541/tIII], § 343, Dec. 11, 2000, [114 Stat. 2613][/us/stat/114/2613].)
 
  __“Secretary” Defined__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/541/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs343
+[/us/pl/106/541/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtIII
 [/us/stat/114/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2613
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

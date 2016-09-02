@@ -31,7 +31,7 @@
 
         This section applies to projects for waste treatment and management for which no treatment works including a facilities plan for such project have received Federal financial assistance for the preparation of construction plans and specifications under this chapter before December 29, 1981.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 218, as added [Pub. L. 97–117, § 19][/us/pl/97/117/s19], Dec. 29, 1981, [95 Stat. 1630][/us/stat/95/1630].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 218, as added [Pub. L. 97–117][/us/pl/97/117], § 19, Dec. 29, 1981, [95 Stat. 1630][/us/stat/95/1630].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/97/117/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs19
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1630
 
 

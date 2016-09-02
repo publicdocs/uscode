@@ -53,7 +53,7 @@
 
     (7) “waste source” means a facility or vessel from which municipal or commercial waste is loaded onto a vessel, including any rolling stock or motor vehicles from which that waste is directly loaded.
 
-([Pub. L. 100–688, title IV, § 4101][/us/pl/100/688/s4101], Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4101, Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
     The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is [Pub. L. 92–532][/us/pl/92/532], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], as amended. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title][/us/usc/t33/s1401] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in par. (3)(E), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in par. (3)(E), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
     The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is [act Mar. 3, 1899, ch. 425][/us/act/1899-03-03/ch425], [30 Stat. 1151][/us/stat/30/1151], as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
  __Short Title__ 
 
-[Pub. L. 100–688, title IV, § 4001][/us/pl/100/688/s4001], Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154], provided that: 
+[Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4001, Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Shore Protection Act of 1988’.”
 
@@ -88,19 +88,19 @@
 [/us/usc/t33/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1411
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/100/688/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4101
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4154
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/act/1899-03-03/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425
 [/us/stat/30/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1151
-[/us/pl/100/688/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4001
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4154
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

@@ -17,7 +17,7 @@
 
     Little River, from Big Lake in Mississippi County to Marked Tree in Poinsett County, Arkansas, is declared to be not a navigable waterway of the United States within the meaning of the laws enacted by Congress for the protection of such waterways.
 
-([Mar. 2, 1919, ch. 95, § 4][/us/act/1919-03-02/ch95/s4], [40 Stat. 1287][/us/stat/40/1287].)
+([Mar. 2, 1919, ch. 95][/us/act/1919-03-02/ch95], § 4, [40 Stat. 1287][/us/stat/40/1287].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1919-03-02/ch95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95%2Fs4
+[/us/act/1919-03-02/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95
 [/us/stat/40/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1287
 
 

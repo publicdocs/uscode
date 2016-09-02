@@ -57,7 +57,7 @@
 
         Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2020.
 
-([Pub. L. 96–380][/us/pl/96/380], Oct. 6, 1980, [94 Stat. 1521][/us/stat/94/1521]; [Pub. L. 97–322, title I, § 118(d)][/us/pl/97/322/s118/d], Oct. 15, 1982, [96 Stat. 1587][/us/stat/96/1587]; [Pub. L. 98–557, § 16(a)][/us/pl/98/557/s16/a], Oct. 30, 1984, [98 Stat. 2866][/us/stat/98/2866]; [Pub. L. 101–225, title I, § 105(b)][/us/pl/101/225/s105/b], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–324, title III, § 304(c)][/us/pl/104/324/s304/c], Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title III, § 336][/us/pl/107/295/s336], Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105]; [Pub. L. 108–293, title IV, § 418(g)][/us/pl/108/293/s418/g], Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 111–281, title VI, § 621(e)][/us/pl/111/281/s621/e], Oct. 15, 2010, [124 Stat. 2976][/us/stat/124/2976].)
+([Pub. L. 96–380][/us/pl/96/380], Oct. 6, 1980, [94 Stat. 1521][/us/stat/94/1521]; [Pub. L. 97–322, title I][/us/pl/97/322/tI], § 118(d), Oct. 15, 1982, [96 Stat. 1587][/us/stat/96/1587]; [Pub. L. 98–557][/us/pl/98/557], § 16(a), Oct. 30, 1984, [98 Stat. 2866][/us/stat/98/2866]; [Pub. L. 101–225, title I][/us/pl/101/225/tI], § 105(b), Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 304(c), Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 336, Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 418(g), Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 621(e), Oct. 15, 2010, [124 Stat. 2976][/us/stat/124/2976].)
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–281, § 621(e)(1)][/us/pl/111/281/s621/e/1], added subsec. (a) and struck out former subsec. (a) which established the Towing Safety Advisory Committee and its membership requirements.
+    2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 621(e)(1), added subsec. (a) and struck out former subsec. (a) which established the Towing Safety Advisory Committee and its membership requirements.
 
-    Subsec. (e). [Pub. L. 111–281, § 621(e)(2)][/us/pl/111/281/s621/e/2], substituted “September 30, 2020” for “September 30, 2010”.
+    Subsec. (e). [Pub. L. 111–281][/us/pl/111/281], § 621(e)(2), substituted “September 30, 2020” for “September 30, 2010”.
 
     2004—Subsec. (e). [Pub. L. 108–293][/us/pl/108/293] substituted “September 30, 2010” for “September 30, 2005”.
 
@@ -79,11 +79,11 @@
 
     1984—Subsec. (e). [Pub. L. 98–557][/us/pl/98/557] substituted “on September 30, 1990” for “five years from the date of enactment of this Act”.
 
-    1982—Subsec. (b). [Pub. L. 97–322, § 118(d)(1)][/us/pl/97/322/s118/d/1], required the Secretary, not less often than once a year, to publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+    1982—Subsec. (b). [Pub. L. 97–322][/us/pl/97/322], § 118(d)(1), required the Secretary, not less often than once a year, to publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
 
-    Subsec. (c). [Pub. L. 97–322, § 118(d)(2)][/us/pl/97/322/s118/d/2], authorized the Committee to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
+    Subsec. (c). [Pub. L. 97–322][/us/pl/97/322], § 118(d)(2), authorized the Committee to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
 
-    Subsec. (d). [Pub. L. 97–322, § 118(d)(3)][/us/pl/97/322/s118/d/3], inserted introductory provisions respecting compensation and travel expenses of members of the Committee.
+    Subsec. (d). [Pub. L. 97–322][/us/pl/97/322], § 118(d)(3), inserted introductory provisions respecting compensation and travel expenses of members of the Committee.
 
  __Transfer of Functions__ 
 
@@ -99,30 +99,30 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/96/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F380
 [/us/stat/94/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1521
-[/us/pl/97/322/s118/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs118%2Fd
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1587
-[/us/pl/98/557/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs16%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2866
-[/us/pl/101/225/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs105%2Fb
+[/us/pl/101/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtI
 [/us/stat/103/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1910
-[/us/pl/104/324/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs304%2Fc
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3917
-[/us/pl/107/295/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs336
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2105
-[/us/pl/108/293/s418/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs418%2Fg
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1049
-[/us/pl/111/281/s621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs621%2Fe
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2976
-[/us/pl/111/281/s621/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs621%2Fe%2F1
-[/us/pl/111/281/s621/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs621%2Fe%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/97/322/s118/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs118%2Fd%2F1
-[/us/pl/97/322/s118/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs118%2Fd%2F2
-[/us/pl/97/322/s118/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs118%2Fd%2F3
+[/us/pl/97/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322
+[/us/pl/97/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322
+[/us/pl/97/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

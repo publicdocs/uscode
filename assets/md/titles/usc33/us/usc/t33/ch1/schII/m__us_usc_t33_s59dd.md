@@ -65,7 +65,7 @@
 
         If, 20 years from December 18, 1991, any area or part thereof described in subsection (d) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (e) of this section, or if work in connection with any activity permitted in subsection (e) of this section is not commenced within 5 years after issuance of such permit, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-([Pub. L. 102–240, title I, § 1079][/us/pl/102/240/s1079], Dec. 18, 1991, [105 Stat. 2017][/us/stat/105/2017].)
+([Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1079, Dec. 18, 1991, [105 Stat. 2017][/us/stat/105/2017].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 1079 of Pub. L. 102–240][/us/pl/102/240/s1079]. Subsections (a), (b), and (c) of [section 1079 of Pub. L. 102–240][/us/pl/102/240/s1079] provided for deauthorization of a portion of a project for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, [Pub. L. 99–662, title II][/us/pl/99/662], Nov. 17, 1986, [100 Stat. 4095][/us/stat/100/4095], which is not classified to the Code.
+    Section is comprised of [section 1079 of Pub. L. 102–240][/us/pl/102/240/s1079]. Subsections (a), (b), and (c) of [section 1079 of Pub. L. 102–240][/us/pl/102/240/s1079] provided for deauthorization of a portion of a project for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, [Pub. L. 99–662, title II][/us/pl/99/662/tII], Nov. 17, 1986, [100 Stat. 4095][/us/stat/100/4095], which is not classified to the Code.
 
 ----------
 
@@ -84,14 +84,14 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/102/240/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1079
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2017
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/102/240/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1079
 [/us/pl/102/240/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1079
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4095
 
 

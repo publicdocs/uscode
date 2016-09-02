@@ -209,7 +209,7 @@
 
         Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional information coordination entities and other elements of the System.
 
-([Pub. L. 111–11, title XII, § 12304][/us/pl/111/11/s12304], Mar. 30, 2009, [123 Stat. 1429][/us/stat/123/1429].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12304, Mar. 30, 2009, [123 Stat. 1429][/us/stat/123/1429].)
 
  __References in Text__ 
 
@@ -225,7 +225,7 @@
 [/us/usc/t33/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3601
 [/us/usc/t33/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3601
 [/us/usc/t18/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fa
-[/us/pl/111/11/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12304
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1429
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 

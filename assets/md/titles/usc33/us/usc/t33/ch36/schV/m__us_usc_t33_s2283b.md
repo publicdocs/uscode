@@ -41,7 +41,7 @@
 
             The non-Federal interest shall contribute 100 percent of the costs of operation, maintenance, replacement, repair, and rehabilitation of the measures carried out under this section.
 
-([Pub. L. 113–121, title I, § 1028][/us/pl/113/121/s1028], June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1028, June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1028
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1230
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

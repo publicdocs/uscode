@@ -35,7 +35,7 @@
 
         Upon receipt of the compliance report under subsection (b) of this section, the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships \[[33 U.S.C. 1902(b)(1)(A)][/us/usc/t33/s1902/b/1/A]\], as may be appropriate with respect to the requirements of Annex V to the Convention.
 
-([Pub. L. 100–220, title II, § 2201][/us/pl/100/220/s2201], Dec. 29, 1987, [101 Stat. 1464][/us/stat/101/1464]; [Pub. L. 104–66, title I, § 1121(c)][/us/pl/104/66/s1121/c], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–324, title VIII, § 802(a)][/us/pl/104/324/s802/a], Oct. 19, 1996, [110 Stat. 3944][/us/stat/110/3944].)
+([Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2201, Dec. 29, 1987, [101 Stat. 1464][/us/stat/101/1464]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(c), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–324, title VIII][/us/pl/104/324/tVIII], § 802(a), Oct. 19, 1996, [110 Stat. 3944][/us/stat/110/3944].)
 
  __References in Text__ 
 
@@ -70,11 +70,11 @@
 [/us/usc/t33/s1902/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1902%2Fb%2F1%2FA
 [/us/usc/t33/s1902/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1902%2Fb%2F2%2FA
 [/us/usc/t33/s1902/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1902%2Fb%2F1%2FA
-[/us/pl/100/220/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2201
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1464
-[/us/pl/104/66/s1121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/104/324/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs802%2Fa
+[/us/pl/104/324/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVIII
 [/us/stat/110/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3944
 [/us/pl/100/220/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2002
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901

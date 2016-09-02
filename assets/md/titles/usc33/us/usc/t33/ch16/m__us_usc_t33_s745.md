@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s744.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s745a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs745)
 
-## § 745. Repealed. [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]
+## § 745. Repealed. [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561]
 
-    Section, R.S. § 4673; [act June 20, 1918, ch. 103, § 8][/us/act/1918-06-20/ch103/s8], [40 Stat. 609][/us/stat/40/609], related to salaries of keepers of lighthouses.
+    Section, R.S. § 4673; [act June 20, 1918, ch. 103][/us/act/1918-06-20/ch103], § 8, [40 Stat. 609][/us/stat/40/609], related to salaries of keepers of lighthouses.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/act/1918-06-20/ch103/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs8
+[/us/act/1918-06-20/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103
 [/us/stat/40/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F609
 
 

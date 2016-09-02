@@ -43,7 +43,7 @@
 
         In conducting the Program, the Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this chapter on such terms as the Secretary considers appropriate.
 
-([Pub. L. 111–11, title XII, § 12406][/us/pl/111/11/s12406], Mar. 30, 2009, [123 Stat. 1440][/us/stat/123/1440].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12406, Mar. 30, 2009, [123 Stat. 1440][/us/stat/123/1440].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t33/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3704
 [/us/usc/t10/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7901
-[/us/pl/111/11/s12406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12406
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1440
 
 

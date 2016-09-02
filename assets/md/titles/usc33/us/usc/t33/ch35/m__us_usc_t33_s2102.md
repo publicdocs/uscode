@@ -27,7 +27,7 @@
 
     (5) be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
 
-([Pub. L. 98–623, title II, § 203][/us/pl/98/623/s203], Nov. 8, 1984, [98 Stat. 3395][/us/stat/98/3395].)
+([Pub. L. 98–623, title II][/us/pl/98/623/tII], § 203, Nov. 8, 1984, [98 Stat. 3395][/us/stat/98/3395].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs203
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3395
 
 

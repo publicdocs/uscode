@@ -23,7 +23,7 @@
 
     (3) the effects observed from any monitoring and assessment programs relating to antifouling systems.
 
-([Pub. L. 111–281, title X, § 1025][/us/pl/111/281/s1025], Oct. 15, 2010, [124 Stat. 3027][/us/stat/124/3027].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1025, Oct. 15, 2010, [124 Stat. 3027][/us/stat/124/3027].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1025
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3027
 
 

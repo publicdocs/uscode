@@ -23,7 +23,7 @@
 
     (3) otherwise supersede any State, local, or tribal law (including any regulation) applicable to the construction or operation of the project.
 
-([Pub. L. 113–121, title V, § 5031][/us/pl/113/121/s5031], June 10, 2014, [128 Stat. 1342][/us/stat/128/1342].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5031, June 10, 2014, [128 Stat. 1342][/us/stat/128/1342].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5031
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1342
 
 

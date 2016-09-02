@@ -57,7 +57,7 @@
 
         The provisions of this section shall not apply to any project, or separable element thereof, for which a final report of the Chief of Engineers has been forwarded to the Secretary before the last day of the 6-month period beginning on the date on which regulations are issued pursuant to subsection (a) of this section but not later than July 1, 1993.
 
-([Pub. L. 101–640, title III, § 308][/us/pl/101/640/s308], Nov. 28, 1990, [104 Stat. 4638][/us/stat/104/4638]; [Pub. L. 106–53, title II, § 219(a)][/us/pl/106/53/s219/a], Aug. 17, 1999, [113 Stat. 294][/us/stat/113/294].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 308, Nov. 28, 1990, [104 Stat. 4638][/us/stat/104/4638]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 219(a), Aug. 17, 1999, [113 Stat. 294][/us/stat/113/294].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–53, § 219(a)(1)][/us/pl/106/53/s219/a/1], inserted “Exclusion of elements from” before “benefit-cost” in heading.
+    1999—Subsec. (a). [Pub. L. 106–53][/us/pl/106/53], § 219(a)(1), inserted “Exclusion of elements from” before “benefit-cost” in heading.
 
-    Subsecs. (b) to (d). [Pub. L. 106–53, § 219(a)(2)][/us/pl/106/53/s219/a/2], (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+    Subsecs. (b) to (d). [Pub. L. 106–53][/us/pl/106/53], § 219(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 106–53, § 219(a)(2)][/us/pl/106/53/s219/a/2], (4), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–53][/us/pl/106/53], § 219(a)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 106–53, § 219(a)(2)][/us/pl/106/53/s219/a/2], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 106–53][/us/pl/106/53], § 219(a)(2), redesignated subsec. (e) as (f).
 
  __Change of Name__ 
 
@@ -89,7 +89,7 @@
 
  __Reevaluation of Flood Control Projects__ 
 
-[Pub. L. 106–53, title II, § 219(b)][/us/pl/106/53/s219/b], Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295], provided that: 
+[Pub. L. 106–53, title II][/us/pl/106/53/tII], § 219(b), Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295], provided that: 
 
 > “At the request of a non-Federal interest for a flood control project, the Secretary shall conduct a reevaluation of a project authorized before the date of enactment of this Act \[Aug. 17, 1999\] to consider nonstructural alternatives in light of the amendments made by subsection (a) \[amending this section\].”
 
@@ -105,22 +105,22 @@
 ----------
 
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/101/640/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs308
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4638
-[/us/pl/106/53/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fa
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F294
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/106/53/s219/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fa%2F1
-[/us/pl/106/53/s219/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fa%2F2
-[/us/pl/106/53/s219/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fa%2F2
-[/us/pl/106/53/s219/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fa%2F2
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/53/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs219%2Fb
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F295
 [/us/pl/101/640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

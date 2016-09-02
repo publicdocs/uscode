@@ -71,7 +71,7 @@
 
         The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
 
-([Pub. L. 105–384, title III, § 305][/us/pl/105/384/s305], Nov. 13, 1998, [112 Stat. 3456][/us/stat/112/3456]; [Pub. L. 105–383, title IV, § 432(c)][/us/pl/105/383/s432/c], Nov. 13, 1998, [112 Stat. 3445][/us/stat/112/3445]; [Pub. L. 107–372, title I, § 105][/us/pl/107/372/s105], Dec. 19, 2002, [116 Stat. 3080][/us/stat/116/3080]; [Pub. L. 110–386, § 4][/us/pl/110/386/s4], Oct. 10, 2008, [122 Stat. 4107][/us/stat/122/4107].)
+([Pub. L. 105–384, title III][/us/pl/105/384/tIII], § 305, Nov. 13, 1998, [112 Stat. 3456][/us/stat/112/3456]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 432(c), Nov. 13, 1998, [112 Stat. 3445][/us/stat/112/3445]; [Pub. L. 107–372, title I][/us/pl/107/372/tI], § 105, Dec. 19, 2002, [116 Stat. 3080][/us/stat/116/3080]; [Pub. L. 110–386][/us/pl/110/386], § 4, Oct. 10, 2008, [122 Stat. 4107][/us/stat/122/4107].)
 
  __References in Text__ 
 
@@ -95,11 +95,11 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–383, title IV, § 432(a)][/us/pl/105/383/s432/a], Nov. 13, 1998, [112 Stat. 3444][/us/stat/112/3444], provided that: 
+[Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 432(a), Nov. 13, 1998, [112 Stat. 3444][/us/stat/112/3444], provided that: 
 
 > “Subsections (b) and (c) \[amending this section and [section 892d of this title][/us/usc/t33/s892d]\] shall take effect immediately after the later of—
 
->     “(1) the enactment of the Hydrographic Services Improvement Act of 1998 \[[Pub. L. 105–384, title III][/us/pl/105/384], Nov. 13, 1998\]; or
+>     “(1) the enactment of the Hydrographic Services Improvement Act of 1998 \[[Pub. L. 105–384, title III][/us/pl/105/384/tIII], Nov. 13, 1998\]; or
 
 >     “(2) the enactment of this Act \[Nov. 13, 1998\].”
 
@@ -112,13 +112,13 @@
 
 [/us/usc/t33/s892a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892a
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/105/384/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs305
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 [/us/stat/112/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3456
-[/us/pl/105/383/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs432%2Fc
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3445
-[/us/pl/107/372/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs105
+[/us/pl/107/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtI
 [/us/stat/116/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3080
-[/us/pl/110/386/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs4
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/stat/122/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4107
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
@@ -126,9 +126,9 @@
 [/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
-[/us/pl/105/383/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs432%2Fa
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3444
 [/us/usc/t33/s892d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892d
-[/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 
 

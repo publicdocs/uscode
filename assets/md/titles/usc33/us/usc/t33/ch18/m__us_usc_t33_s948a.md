@@ -17,7 +17,7 @@
 
     It shall be unlawful for any employer or his duly authorized agent to discharge or in any other manner discriminate against an employee as to his employment because such employee has claimed or attempted to claim compensation from such employer, or because he has testified or is about to testify in a proceeding under this chapter. The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section. Any employer who violates this section shall be liable to a penalty of not less than $1,000 or more than $5,000, as may be determined by the deputy commissioner. All such penalties shall be paid to the deputy commissioner for deposit in the special fund as described in [section 944 of this title][/us/usc/t33/s944], and if not paid may be recovered in a civil action brought in the appropriate United States district court. Any employee so discriminated against shall be restored to his employment and shall be compensated by his employer for any loss of wages arising out of such discrimination: Provided, That if such employee shall cease to be qualified to perform the duties of his employment, he shall not be entitled to such restoration and compensation. The employer alone and not his carrier shall be liable for such penalties and payments. Any provision in an insurance policy undertaking to relieve the employer from the liability for such penalties and payments shall be void.
 
-([Mar. 4, 1927, ch. 509, § 49][/us/act/1927-03-04/ch509/s49], as added [Pub. L. 92–576, § 19][/us/pl/92/576/s19], Oct. 27, 1972, [86 Stat. 1263][/us/stat/86/1263]; amended [Pub. L. 98–426, § 26][/us/pl/98/426/s26], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 49, as added [Pub. L. 92–576][/us/pl/92/576], § 19, Oct. 27, 1972, [86 Stat. 1263][/us/stat/86/1263]; amended [Pub. L. 98–426][/us/pl/98/426], § 26, Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -39,10 +39,10 @@
 ----------
 
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
-[/us/act/1927-03-04/ch509/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs49
-[/us/pl/92/576/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs19
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1263
-[/us/pl/98/426/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs26
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

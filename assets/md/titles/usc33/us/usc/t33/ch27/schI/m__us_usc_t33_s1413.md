@@ -59,15 +59,15 @@
 
         In connection with Federal projects involving dredged material, the Secretary may, in lieu of the permit procedure, issue regulations which will require the application to such projects of the same criteria, other factors to be evaluated, the same procedures, and the same requirements which apply to the issuance of permits under subsections (a), (b), (c), and (d) of this section and section 1414(a) and (d) of this title.
 
-([Pub. L. 92–532, title I, § 103][/us/pl/92/532/s103], Oct. 23, 1972, [86 Stat. 1055][/us/stat/86/1055]; [Pub. L. 102–580, title V][/us/pl/102/580], §§ 504, 506(b), Oct. 31, 1992, [106 Stat. 4866][/us/stat/106/4866], 4869.)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 103, Oct. 23, 1972, [86 Stat. 1055][/us/stat/86/1055]; [Pub. L. 102–580, title V][/us/pl/102/580/tV], §§ 504, 506(b), Oct. 31, 1992, [106 Stat. 4866][/us/stat/106/4866], 4869.)
 
  __Amendments__ 
 
-    1992—Subsec. (b). [Pub. L. 102–580, § 506(b)][/us/pl/102/580/s506/b], inserted “maximum” before “extent feasible” and inserted three sentences at end.
+    1992—Subsec. (b). [Pub. L. 102–580][/us/pl/102/580], § 506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
 
-    Subsec. (c). [Pub. L. 102–580, § 504(a)][/us/pl/102/580/s504/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title][/us/usc/t33/s1412/a] relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title][/us/usc/t33/s1412/c] relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d) of this section, the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
+    Subsec. (c). [Pub. L. 102–580][/us/pl/102/580], § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title][/us/usc/t33/s1412/a] relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title][/us/usc/t33/s1412/c] relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d) of this section, the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
 
-    Subsec. (e). [Pub. L. 102–580, § 504(b)][/us/pl/102/580/s504/b], inserted before period at end “and section 1414(a) and (d) of this title”.
+    Subsec. (e). [Pub. L. 102–580][/us/pl/102/580], § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
 
 ----------
 
@@ -83,14 +83,14 @@
 [/us/usc/t33/s1412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fc
 [/us/usc/t33/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fa
 [/us/usc/t33/s1412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fc
-[/us/pl/92/532/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs103
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1055
-[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4866
-[/us/pl/102/580/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs506%2Fb
-[/us/pl/102/580/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs504%2Fa
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/usc/t33/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fa
 [/us/usc/t33/s1412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fc
-[/us/pl/102/580/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs504%2Fb
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 
 

@@ -23,7 +23,7 @@
 
     the surviving spouse, so long as the surviving spouse does not marry, shall be paid $100 per month by the Secretary of Transportation.
 
-([Aug. 19, 1950, ch. 761, § 2][/us/act/1950-08-19/ch761/s2], [64 Stat. 466][/us/stat/64/466]; [Pub. L. 85–351, § 1][/us/pl/85/351/s1], Mar. 28, 1958, [72 Stat. 49][/us/stat/72/49]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 90–163, § 1][/us/pl/90/163/s1], Nov. 29, 1967, [81 Stat. 518][/us/stat/81/518]; [Pub. L. 90–167, § 1(b)][/us/pl/90/167/s1/b], Nov. 29, 1967, [81 Stat. 520][/us/stat/81/520]; [Pub. L. 98–557, § 15(b)(2)][/us/pl/98/557/s15/b/2], Oct. 30, 1984, [98 Stat. 2866][/us/stat/98/2866].)
+([Aug. 19, 1950, ch. 761][/us/act/1950-08-19/ch761], § 2, [64 Stat. 466][/us/stat/64/466]; [Pub. L. 85–351][/us/pl/85/351], § 1, Mar. 28, 1958, [72 Stat. 49][/us/stat/72/49]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 90–163][/us/pl/90/163], § 1, Nov. 29, 1967, [81 Stat. 518][/us/stat/81/518]; [Pub. L. 90–167][/us/pl/90/167], § 1(b), Nov. 29, 1967, [81 Stat. 520][/us/stat/81/520]; [Pub. L. 98–557][/us/pl/98/557], § 15(b)(2), Oct. 30, 1984, [98 Stat. 2866][/us/stat/98/2866].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
     Amendment by [Pub. L. 90–167][/us/pl/90/167] effective for any period subsequent to the first day of the first month following Nov. 29, 1967, see [section 2 of Pub. L. 90–167][/us/pl/90/167/s2], set out as a note under [section 771 of this title][/us/usc/t33/s771].
 
-    [Pub. L. 90–163, § 1][/us/pl/90/163/s1], Nov. 29, 1967, [81 Stat. 518][/us/stat/81/518], provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
+    [Pub. L. 90–163][/us/pl/90/163], § 1, Nov. 29, 1967, [81 Stat. 518][/us/stat/81/518], provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
 
  __Effective Date of 1958 Amendment__ 
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/act/1950-08-19/ch761/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761%2Fs2
+[/us/act/1950-08-19/ch761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761
 [/us/stat/64/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F466
-[/us/pl/85/351/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F351%2Fs1
+[/us/pl/85/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F351
 [/us/stat/72/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F49
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
-[/us/pl/90/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F163%2Fs1
+[/us/pl/90/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F163
 [/us/stat/81/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F518
-[/us/pl/90/167/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F167%2Fs1%2Fb
+[/us/pl/90/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F167
 [/us/stat/81/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F520
-[/us/pl/98/557/s15/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fb%2F2
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2866
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/90/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F167
@@ -81,7 +81,7 @@
 [/us/pl/90/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F167
 [/us/pl/90/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F167%2Fs2
 [/us/usc/t33/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs771
-[/us/pl/90/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F163%2Fs1
+[/us/pl/90/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F163
 [/us/stat/81/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F518
 [/us/pl/85/351/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F351%2Fs2
 [/us/usc/t33/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs771

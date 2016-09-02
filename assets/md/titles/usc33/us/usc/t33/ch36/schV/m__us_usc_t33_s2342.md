@@ -35,7 +35,7 @@
 
         There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal year.
 
-([Pub. L. 110–114, title II, § 2017][/us/pl/110/114/s2017], Nov. 8, 2007, [121 Stat. 1077][/us/stat/121/1077].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2017, Nov. 8, 2007, [121 Stat. 1077][/us/stat/121/1077].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
-[/us/pl/110/114/s2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2017
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1077
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -31,7 +31,7 @@
 
         Amounts in the Fund shall be available, without further appropriation and without fiscal year limitation, to carry out [section 2738(b) of this title][/us/usc/t33/s2738/b], in an annual amount not to exceed $5,000,000 of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under [section 2738(b)(2) of this title][/us/usc/t33/s2738/b/2]: Provided, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[[2 U.S.C. 901(b)(2)(A)][/us/usc/t2/s901/b/2/A]\]: Provided further, That the entire amount shall be available only to the extent an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, is transmitted by the President to the Congress.
 
-([Pub. L. 101–380, title V, § 5006][/us/pl/101/380/s5006], Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554]; [Pub. L. 104–324, title XI, § 1102(b)][/us/pl/104/324/s1102/b], Oct. 19, 1996, [110 Stat. 3965][/us/stat/110/3965]; [Pub. L. 106–246, div. B, title II, § 2204(2)][/us/pl/106/246/s2204/2], July 13, 2000, [114 Stat. 547][/us/stat/114/547]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(1)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239; [Pub. L. 108–293, title VII, § 704][/us/pl/108/293/s704], Aug. 9, 2004, [118 Stat. 1075][/us/stat/118/1075]; [Pub. L. 109–58, title III, § 389(2)][/us/pl/109/58/s389/2], Aug. 8, 2005, [119 Stat. 747][/us/stat/119/747]; [Pub. L. 109–59, title IV, § 4413][/us/pl/109/59/s4413], Aug. 10, 2005, [119 Stat. 1779][/us/stat/119/1779]; [Pub. L. 109–241, title IX, § 901(j)][/us/pl/109/241/s901/j], July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5006, Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1102(b), Oct. 19, 1996, [110 Stat. 3965][/us/stat/110/3965]; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2204(2), July 13, 2000, [114 Stat. 547][/us/stat/114/547]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(1)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 704, Aug. 9, 2004, [118 Stat. 1075][/us/stat/118/1075]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 389(2), Aug. 8, 2005, [119 Stat. 747][/us/stat/119/747]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4413, Aug. 10, 2005, [119 Stat. 1779][/us/stat/119/1779]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(j), July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
 
  __References in Text__ 
 
@@ -53,17 +53,17 @@
 
     [Pub. L. 106–246][/us/pl/106/246] added subsec. (c) relating to section 2738.
 
-    1996—Subsec. (a). [Pub. L. 104–324, § 1102(b)(1)][/us/pl/104/324/s1102/b/1]–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out [section 2731 of this title][/us/usc/t33/s2731] in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out [section 2731 of this title][/us/usc/t33/s2731] as follows:
+    1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out [section 2731 of this title][/us/usc/t33/s2731] in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out [section 2731 of this title][/us/usc/t33/s2731] as follows:
 
     “(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
 
     “(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1).”
 
-    Subsecs. (b), (c). [Pub. L. 104–324, § 1102(b)(4)][/us/pl/104/324/s1102/b/4], added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
+    Subsecs. (b), (c). [Pub. L. 104–324][/us/pl/104/324], § 1102(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
 
  __Investment Amount__ 
 
-[Pub. L. 112–213, title VII, § 710][/us/pl/112/213/s710], Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that: 
+[Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 710, Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 ([33 U.S.C. 2736(b)][/us/usc/t33/s2736/b]) by $12,851,340.”
 
@@ -80,21 +80,21 @@
 [/us/usc/t33/s2738/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2738%2Fb
 [/us/usc/t33/s2738/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2738%2Fb%2F2
 [/us/usc/t2/s901/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fb%2F2%2FA
-[/us/pl/101/380/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5006
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F554
-[/us/pl/104/324/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1102%2Fb
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3965
-[/us/pl/106/246/s2204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2204%2F2
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F547
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/293/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs704
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1075
-[/us/pl/109/58/s389/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs389%2F2
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F747
-[/us/pl/109/59/s4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4413
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
-[/us/pl/109/241/s901/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fj
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/pl/101/380/s8102/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs8102%2Fa%2F2%2FB%2Fii
 [/us/stat/104/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F565
@@ -115,11 +115,11 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t33/s2738/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2738%2Fb%2F2
 [/us/pl/106/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246
-[/us/pl/104/324/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1102%2Fb%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2731
 [/us/usc/t33/s2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2731
-[/us/pl/104/324/s1102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1102%2Fb%2F4
-[/us/pl/112/213/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs710
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1581
 [/us/usc/t33/s2736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2736%2Fb
 

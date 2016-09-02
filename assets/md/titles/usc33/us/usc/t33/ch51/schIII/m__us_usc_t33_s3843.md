@@ -45,7 +45,7 @@
 
         Consistent with [section 3803 of this title][/us/usc/t33/s3803], whenever any organotin or other substance or system regulated under the Convention is found by the Administrator and there is reason to believe that a manufacturer, seller, distributor, or user has violated or is in violation of any provision of this chapter, or that such organotin or other substance or system regulated under the Convention has been or is intended to be manufactured, distributed, sold, or used in violation of this chapter, the Administrator may issue a stop manufacture, sale, use, or removal order to any person that owns, controls, or has custody of such organotin or other substance or system regulated under the Convention. After receipt of that order the person may not manufacture, sell, distribute, use, or remove the organotin or other substance or system regulated under the Convention described in the order except in accordance with the order.
 
-([Pub. L. 111–281, title X, § 1033][/us/pl/111/281/s1033], Oct. 15, 2010, [124 Stat. 3028][/us/stat/124/3028].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1033, Oct. 15, 2010, [124 Stat. 3028][/us/stat/124/3028].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t33/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3803
-[/us/pl/111/281/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1033
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3028
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

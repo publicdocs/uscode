@@ -93,7 +93,7 @@
 
         The Under Secretary, in coordination and consultation with the individuals and entities under subsection (d), shall periodically review and revise the Action Strategy prepared under this section, as necessary.
 
-([Pub. L. 105–383, title VI, § 603B][/us/pl/105/383/s603B], as added [Pub. L. 113–124, § 5][/us/pl/113/124/s5], June 30, 2014, [128 Stat. 1382][/us/stat/128/1382].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 603B, as added [Pub. L. 113–124][/us/pl/113/124], § 5, June 30, 2014, [128 Stat. 1382][/us/stat/128/1382].)
 
 ----------
 
@@ -103,8 +103,8 @@
 ----------
 
 [/us/usc/t33/s4001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001%2Fe
-[/us/pl/105/383/s603B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs603B
-[/us/pl/113/124/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs5
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1382
 
 

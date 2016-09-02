@@ -21,7 +21,7 @@
 
     (2) the area bounded by the East Atchafalaya Basin Protection Levee, the Mississippi River Levee, and Bayou Lafourche and extending from Morganza, Louisiana, to the Gulf of Mexico, insofar as such area is affected by the flood waters of the Mississippi River.
 
-([Pub. L. 102–580, title III, § 301][/us/pl/102/580/s301], Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838].)
+([Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 301, Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t33/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs641
-[/us/pl/102/580/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs301
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4838
 [/us/usc/t33/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs641
 [/us/act/1879-06-28/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-06-28%2Fch43

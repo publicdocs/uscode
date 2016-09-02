@@ -15,11 +15,13 @@
 
 ## § 517. Payment of share of United States
 
-    Following service of the order requiring alteration of the bridge, the Secretary of Transportation may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of Transportation may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of Transportation.
+    Following service of the order requiring alteration of the bridge, the Secretary of the department in which the Coast Guard is operating may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of the department in which the Coast Guard is operating may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of the department in which the Coast Guard is operating.
 
-([June 21, 1940, ch. 409, § 7][/us/act/1940-06-21/ch409/s7], [54 Stat. 499][/us/stat/54/499]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; [Pub. L. 85–640, § 1(d)][/us/pl/85/640/s1/d], Aug. 14, 1958, [72 Stat. 596][/us/stat/72/596]; [Pub. L. 91–605, title I, § 118][/us/pl/91/605/s118], Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725]; [Pub. L. 97–449, § 2(d)(1)][/us/pl/97/449/s2/d/1], Jan. 12, 1983, [96 Stat. 2440][/us/stat/96/2440].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 7, [54 Stat. 499][/us/stat/54/499]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; [Pub. L. 85–640][/us/pl/85/640], § 1(d), Aug. 14, 1958, [72 Stat. 596][/us/stat/72/596]; [Pub. L. 91–605, title I][/us/pl/91/605/tI], § 118, Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725]; [Pub. L. 97–449][/us/pl/97/449], § 2(d)(1), Jan. 12, 1983, [96 Stat. 2440][/us/stat/96/2440]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(b)(4)(C), Feb. 8, 2016, [130 Stat. 55][/us/stat/130/55].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–120][/us/pl/114/120] substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation” wherever appearing.
 
     1983—[Pub. L. 97–449][/us/pl/97/449] substituted “Secretary of Transportation” for “Secretary of War” wherever appearing, which substitution had previously been made by [Pub. L. 91–605][/us/pl/91/605]. See, also, Transfer of Functions note below.
 
@@ -40,15 +42,18 @@
 ----------
 ----------
 
-[/us/act/1940-06-21/ch409/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs7
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F499
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
-[/us/pl/85/640/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F640%2Fs1%2Fd
+[/us/pl/85/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F640
 [/us/stat/72/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F596
-[/us/pl/91/605/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs118
+[/us/pl/91/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtI
 [/us/stat/84/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1725
-[/us/pl/97/449/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fd%2F1
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2440
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F55
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605

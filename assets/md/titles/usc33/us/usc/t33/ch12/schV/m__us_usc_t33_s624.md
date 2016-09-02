@@ -31,7 +31,7 @@
 
         In determining a fair and reasonable estimated cost of doing work by private contract under subsection (a)(2) of this section, the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen’s compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
 
-([Mar. 2, 1919, ch. 95, § 8][/us/act/1919-03-02/ch95/s8], [40 Stat. 1290][/us/stat/40/1290]; [Pub. L. 95–269, § 2][/us/pl/95/269/s2], Apr. 26, 1978, [92 Stat. 219][/us/stat/92/219].)
+([Mar. 2, 1919, ch. 95][/us/act/1919-03-02/ch95], § 8, [40 Stat. 1290][/us/stat/40/1290]; [Pub. L. 95–269][/us/pl/95/269], § 2, Apr. 26, 1978, [92 Stat. 219][/us/stat/92/219].)
 
  __Codification__ 
 
@@ -43,11 +43,11 @@
 
  __Compensation for Increased Costs__ 
 
-    Provision for payment to contractors to compensate for loss occasioned by increased cost of materials during the war with Germany was made by section 10 of act Mar. 2, 1919, and [act June 5, 1920, ch. 252, § 5][/us/act/1920-06-05/ch252/s5], [41 Stat. 1014][/us/stat/41/1014].
+    Provision for payment to contractors to compensate for loss occasioned by increased cost of materials during the war with Germany was made by section 10 of act Mar. 2, 1919, and [act June 5, 1920, ch. 252][/us/act/1920-06-05/ch252], § 5, [41 Stat. 1014][/us/stat/41/1014].
 
  __Repeal of Limitation on Costs__ 
 
-    A provision for limitation on the costs of projects made by section 1 of act Mar. 2, 1919, was repealed by [act June 5, 1920, ch. 252, § 3][/us/act/1920-06-05/ch252/s3], [41 Stat. 1013][/us/stat/41/1013].
+    A provision for limitation on the costs of projects made by section 1 of act Mar. 2, 1919, was repealed by [act June 5, 1920, ch. 252][/us/act/1920-06-05/ch252], § 3, [41 Stat. 1013][/us/stat/41/1013].
 
 ----------
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/act/1919-03-02/ch95/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95%2Fs8
+[/us/act/1919-03-02/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95
 [/us/stat/40/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1290
-[/us/pl/95/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269%2Fs2
+[/us/pl/95/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269
 [/us/stat/92/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F219
 [/us/pl/95/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269
-[/us/act/1920-06-05/ch252/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252%2Fs5
+[/us/act/1920-06-05/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252
 [/us/stat/41/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1014
-[/us/act/1920-06-05/ch252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252%2Fs3
+[/us/act/1920-06-05/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252
 [/us/stat/41/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1013
 
 

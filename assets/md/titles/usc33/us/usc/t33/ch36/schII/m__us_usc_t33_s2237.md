@@ -17,7 +17,7 @@
 
     Any non-Federal interest shall provide the United States the information necessary for military readiness planning and harbor, inland harbor, and national security, including information necessary to obtain national security clearances for individuals employed in critical harbor and inland harbor positions.
 
-([Pub. L. 99–662, title II, § 209][/us/pl/99/662/s209], Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 209, Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs209
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4106
 
 

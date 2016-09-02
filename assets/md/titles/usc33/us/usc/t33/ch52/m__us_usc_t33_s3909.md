@@ -51,11 +51,11 @@
 
         Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372][/us/usc/t33/s1372]) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\].
 
-([Pub. L. 113–121, title V, § 5030][/us/pl/113/121/s5030], June 10, 2014, [128 Stat. 1341][/us/stat/128/1341].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5030, June 10, 2014, [128 Stat. 1341][/us/stat/128/1341].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (e), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (e), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
  __“Secretary” Defined__ 
 
@@ -70,10 +70,10 @@
 
 [/us/usc/t33/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1372
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/113/121/s5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5030
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1341
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2

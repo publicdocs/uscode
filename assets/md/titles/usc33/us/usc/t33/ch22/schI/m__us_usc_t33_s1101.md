@@ -37,11 +37,11 @@
 
         (8) The cooperation by the United States with other nations and groups of nations and international organizations in marine science activities when such cooperation is in the national interest.
 
-([Pub. L. 89–454, title I, § 2][/us/pl/89/454/s2], June 17, 1966, [80 Stat. 203][/us/stat/80/203].)
+([Pub. L. 89–454, title I][/us/pl/89/454/tI], § 2, June 17, 1966, [80 Stat. 203][/us/stat/80/203].)
 
  __Short Title__ 
 
-[Section 1 of title I of Pub. L. 89–454][/us/pl/89/454/s1], as renumbered and amended by [Pub. L. 89–688, § 2(a)][/us/pl/89/688/s2/a], Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001], provided that: 
+[Section 1 of title I of Pub. L. 89–454][/us/pl/89/454/tI/s1], as renumbered and amended by [Pub. L. 89–688][/us/pl/89/688], § 2(a), Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Marine Resources and Engineering Development Act of 1966’.”
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/89/454/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs2
+[/us/pl/89/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtI
 [/us/stat/80/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F203
-[/us/pl/89/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs1
-[/us/pl/89/688/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688%2Fs2%2Fa
+[/us/pl/89/454/tI/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtI%2Fs1
+[/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 [/us/stat/80/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1001
 
 

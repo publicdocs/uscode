@@ -29,13 +29,13 @@
 
         The Administrator of the Environmental Protection Agency may coordinate the report under this section with other reporting requirements under the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.).
 
-([Pub. L. 106–284, § 7][/us/pl/106/284/s7], Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876].)
+([Pub. L. 106–284][/us/pl/106/284], § 7, Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876].)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (a)(2), is [Pub. L. 106–284][/us/pl/106/284], Oct. 10, 2000, [114 Stat. 870][/us/stat/114/870], known as the Beaches Environmental Assessment and Coastal Health Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
  __Codification__ 
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/106/284/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs7
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F876
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F870
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 

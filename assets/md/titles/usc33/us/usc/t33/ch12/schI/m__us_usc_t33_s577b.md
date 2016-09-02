@@ -17,7 +17,7 @@
 
     The cost of operation and maintenance of the general navigation features of small boat harbor projects shall be borne by the United States. This section shall apply to any such project authorized (A) under section 201 of the Flood Control Act of 1965 \[[42 U.S.C. 1962d–5][/us/usc/t42/s1962d–5]\], (B) under section 107 of the River and Harbor Act of 1960 \[[33 U.S.C. 577][/us/usc/t33/s577]\], (C) between January 1, 1970, and December 31, 1970, under authority of this Act, and to projects heretofore authorized in accordance with the policy set forth in the preceding sentence and to such projects authorized in this Act or which are hereafter authorized.
 
-([Pub. L. 91–611, title I, § 103][/us/pl/91/611/s103], Dec. 31, 1970, [84 Stat. 1819][/us/stat/84/1819]; [Pub. L. 93–251, § 6][/us/pl/93/251/s6], Mar. 7, 1974, [88 Stat. 15][/us/stat/88/15].)
+([Pub. L. 91–611, title I][/us/pl/91/611/tI], § 103, Dec. 31, 1970, [84 Stat. 1819][/us/stat/84/1819]; [Pub. L. 93–251][/us/pl/93/251], § 6, Mar. 7, 1974, [88 Stat. 15][/us/stat/88/15].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t42/s1962d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935
 [/us/usc/t33/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs577
-[/us/pl/91/611/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs103
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1819
-[/us/pl/93/251/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs6
+[/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/stat/88/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F15
 [/us/pl/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611
 [/us/stat/84/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1818

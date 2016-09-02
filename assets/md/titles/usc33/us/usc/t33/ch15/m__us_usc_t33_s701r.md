@@ -17,7 +17,7 @@
 
     The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $20,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year.
 
-([July 24, 1946, ch. 596, § 14][/us/act/1946-07-24/ch596/s14], [60 Stat. 653][/us/stat/60/653]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 93–251, title I, § 27][/us/pl/93/251/s27], Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 99–662, title IX, § 915(c)][/us/pl/99/662/s915/c], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II, § 219][/us/pl/104/303/s219], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 110–114, title II, § 2023][/us/pl/110/114/s2023], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(i)][/us/pl/113/121/s1030/i], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], § 14, [60 Stat. 653][/us/stat/60/653]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 27, Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 915(c), Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 219, Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2023, Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(i), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -46,26 +46,26 @@
 ----------
 ----------
 
-[/us/act/1946-07-24/ch596/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596%2Fs14
+[/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F653
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/pl/93/251/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs27
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F20
-[/us/pl/99/662/s915/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fc
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/104/303/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs219
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3696
-[/us/pl/110/114/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2023
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
-[/us/pl/113/121/s1030/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fi
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

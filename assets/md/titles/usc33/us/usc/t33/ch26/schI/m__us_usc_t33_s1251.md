@@ -57,85 +57,85 @@
 
         It is the policy of Congress that the authority of each State to allocate quantities of water within its jurisdiction shall not be superseded, abrogated or otherwise impaired by this chapter. It is the further policy of Congress that nothing in this chapter shall be construed to supersede or abrogate rights to quantities of water which have been established by any State. Federal agencies shall co-operate with State and local agencies to develop comprehensive solutions to prevent, reduce and eliminate pollution in concert with programs for managing water resources.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 101, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 5(a), 26(b), Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567], 1575; [Pub. L. 100–4, title III, § 316(b)][/us/pl/100/4/s316/b], Feb. 4, 1987, [101 Stat. 60][/us/stat/101/60].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 101, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 5(a), 26(b), Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567], 1575; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 316(b), Feb. 4, 1987, [101 Stat. 60][/us/stat/101/60].)
 
  __Amendments__ 
 
     1987—Subsec. (a)(7). [Pub. L. 100–4][/us/pl/100/4] added par. (7).
 
-    1977—Subsec. (b). [Pub. L. 95–217, § 26(b)][/us/pl/95/217/s26/b], inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
+    1977—Subsec. (b). [Pub. L. 95–217][/us/pl/95/217], § 26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
-    Subsec. (g). [Pub. L. 95–217, § 5(a)][/us/pl/95/217/s5/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–217][/us/pl/95/217], § 5(a), added subsec. (g).
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–365, § 1][/us/pl/110/365/s1], Oct. 8, 2008, [122 Stat. 4021][/us/stat/122/4021], provided that: 
+[Pub. L. 110–365][/us/pl/110/365], § 1, Oct. 8, 2008, [122 Stat. 4021][/us/stat/122/4021], provided that: 
 
 > “This Act \[amending sections 1268 and 1271a of this title\] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
 
-[Pub. L. 110–288, § 1][/us/pl/110/288/s1], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650], provided that: 
+[Pub. L. 110–288][/us/pl/110/288], § 1, July 29, 2008, [122 Stat. 2650][/us/stat/122/2650], provided that: 
 
 > “This Act \[amending sections 1322, 1342, and 1362 of this title\] may be cited as the ‘Clean Boating Act of 2008’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–303, § 1(a)][/us/pl/107/303/s1/a], Nov. 27, 2002, [116 Stat. 2355][/us/stat/116/2355], provided that: 
+[Pub. L. 107–303][/us/pl/107/303], § 1(a), Nov. 27, 2002, [116 Stat. 2355][/us/stat/116/2355], provided that: 
 
 > “This Act \[enacting [section 1271a of this title][/us/usc/t33/s1271a], amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, [section 1254 of this title][/us/usc/t33/s1254], and [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and repealing provisions set out as a note under [section 50 of Title 20][/us/usc/t20/s50], Education\] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
 
-[Pub. L. 107–303, title I, § 101][/us/pl/107/303/s101], Nov. 27, 2002, [116 Stat. 2355][/us/stat/116/2355], provided that: 
+[Pub. L. 107–303, title I][/us/pl/107/303/tI], § 101, Nov. 27, 2002, [116 Stat. 2355][/us/stat/116/2355], provided that: 
 
 > “This title \[enacting [section 1271a of this title][/us/usc/t33/s1271a] and amending [section 1268 of this title][/us/usc/t33/s1268]\] may be cited as the ‘Great Lakes Legacy Act of 2002’.”
 
-[Pub. L. 107–303, title II, § 201][/us/pl/107/303/s201], Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358], provided that: 
+[Pub. L. 107–303, title II][/us/pl/107/303/tII], § 201, Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358], provided that: 
 
 > “This title \[amending [section 1270 of this title][/us/usc/t33/s1270]\] may be cited as the ‘Daniel Patrick Moynihan Lake Champlain Basin Program Act of 2002’.”
 
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–457, title II, § 201][/us/pl/106/457/s201], Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that: 
+[Pub. L. 106–457, title II][/us/pl/106/457/tII], § 201, Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that: 
 
 > “This title \[amending [section 1267 of this title][/us/usc/t33/s1267] and enacting provisions set out as a note under [section 1267 of this title][/us/usc/t33/s1267]\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
 
-[Pub. L. 106–457, title IV, § 401][/us/pl/106/457/s401], Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973], provided that: 
+[Pub. L. 106–457, title IV][/us/pl/106/457/tIV], § 401, Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973], provided that: 
 
 > “This title \[amending [section 1269 of this title][/us/usc/t33/s1269]\] may be cited as the ‘Long Island Sound Restoration Act’.”
 
-[Pub. L. 106–457, title V, § 501][/us/pl/106/457/s501], Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973], provided that: 
+[Pub. L. 106–457, title V][/us/pl/106/457/tV], § 501, Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973], provided that: 
 
 > “This title \[enacting [section 1273 of this title][/us/usc/t33/s1273]\] may be cited as the ‘Lake Pontchartrain Basin Restoration Act of 2000’.”
 
-[Pub. L. 106–457, title VI, § 601][/us/pl/106/457/s601], Nov. 7, 2000, [114 Stat. 1975][/us/stat/114/1975], provided that: 
+[Pub. L. 106–457, title VI][/us/pl/106/457/tVI], § 601, Nov. 7, 2000, [114 Stat. 1975][/us/stat/114/1975], provided that: 
 
 > “This title \[enacting [section 1300 of this title][/us/usc/t33/s1300]\] may be cited as the ‘Alternative Water Sources Act of 2000’.”
 
-[Pub. L. 106–284, § 1][/us/pl/106/284/s1], Oct. 10, 2000, [114 Stat. 870][/us/stat/114/870], provided that: 
+[Pub. L. 106–284][/us/pl/106/284], § 1, Oct. 10, 2000, [114 Stat. 870][/us/stat/114/870], provided that: 
 
 > “This Act \[enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the ‘Beaches Environmental Assessment and Coastal Health Act of 2000’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–431, § 1][/us/pl/103/431/s1], Oct. 31, 1994, [108 Stat. 4396][/us/stat/108/4396], provided that: 
+[Pub. L. 103–431][/us/pl/103/431], § 1, Oct. 31, 1994, [108 Stat. 4396][/us/stat/108/4396], provided that: 
 
 > “This Act \[amending [section 1311 of this title][/us/usc/t33/s1311]\] may be cited as the ‘Ocean Pollution Reduction Act’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–596, § 1][/us/pl/101/596/s1], Nov. 16, 1990, [104 Stat. 3000][/us/stat/104/3000], provided that: 
+[Pub. L. 101–596][/us/pl/101/596], § 1, Nov. 16, 1990, [104 Stat. 3000][/us/stat/104/3000], provided that: 
 
 > “This Act \[enacting sections 1269 and 1270 of this title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and [section 1270 of this title][/us/usc/t33/s1270]\] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
 
-[Pub. L. 101–596, title II, § 201][/us/pl/101/596/s201], Nov. 16, 1990, [104 Stat. 3004][/us/stat/104/3004], provided that: 
+[Pub. L. 101–596, title II][/us/pl/101/596/tII], § 201, Nov. 16, 1990, [104 Stat. 3004][/us/stat/104/3004], provided that: 
 
 > “This part \[probably means title, enacting [section 1269 of this title][/us/usc/t33/s1269] and amending [section 1416 of this title][/us/usc/t33/s1416]\] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
 
-[Pub. L. 101–596, title III, § 301][/us/pl/101/596/s301], Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006], provided that: 
+[Pub. L. 101–596, title III][/us/pl/101/596/tIII], § 301, Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006], provided that: 
 
 > “This title \[enacting [section 1270 of this title][/us/usc/t33/s1270], amending [section 1324 of this title][/us/usc/t33/s1324], and enacting provisions set out as a note under [section 1270 of this title][/us/usc/t33/s1270]\] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–653, title X, § 1001][/us/pl/100/653/s1001], Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835], provided that: 
+[Pub. L. 100–653, title X][/us/pl/100/653/tX], § 1001, Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835], provided that: 
 
 > “This title \[amending [section 1330 of this title][/us/usc/t33/s1330] and enacting provisions set out as notes under [section 1330 of this title][/us/usc/t33/s1330]\] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
 
@@ -147,7 +147,7 @@
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–117, § 1][/us/pl/97/117/s1], Dec. 29, 1981, [95 Stat. 1623][/us/stat/95/1623], provided that: 
+[Pub. L. 97–117][/us/pl/97/117], § 1, Dec. 29, 1981, [95 Stat. 1623][/us/stat/95/1623], provided that: 
 
 > “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
@@ -163,13 +163,13 @@
 
 > “That this Act \[enacting this chapter, amending [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
 
-Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, as added Oct. 18, 1972, [Pub. L. 92–500, § 2][/us/pl/92/500/s2], [86 Stat. 896][/us/stat/86/896], and amended Dec. 27, 1977, [Pub. L. 95–217, § 2][/us/pl/95/217/s2], [91 Stat. 1566][/us/stat/91/1566], and renumbered § 519, Feb. 4, 1987, [Pub. L. 100–4, title V, § 506][/us/pl/100/4/s506], [101 Stat. 76][/us/stat/101/76], provided that: 
+Section 519, formerly section 518, of [Act June 30, 1948, ch. 758, title V][/us/act/1948-06-30/ch758/tV], as added Oct. 18, 1972, [Pub. L. 92–500][/us/pl/92/500], § 2, [86 Stat. 896][/us/stat/86/896], and amended Dec. 27, 1977, [Pub. L. 95–217][/us/pl/95/217], § 2, [91 Stat. 1566][/us/stat/91/1566], and renumbered § 519, Feb. 4, 1987, [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 506, [101 Stat. 76][/us/stat/101/76], provided that: 
 
 > “This Act \[this chapter\] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
 
  __Savings Provision__ 
 
-[Pub. L. 92–500, § 4][/us/pl/92/500/s4], Oct. 18, 1972, [86 Stat. 896][/us/stat/86/896], provided that:
+[Pub. L. 92–500][/us/pl/92/500], § 4, Oct. 18, 1972, [86 Stat. 896][/us/stat/86/896], provided that:
 
 >     “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
@@ -179,13 +179,13 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
  __Separability__ 
 
-[Act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 512, as added by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 894][/us/stat/86/894], provided that: 
+[Act June 30, 1948, ch. 758, title V][/us/act/1948-06-30/ch758/tV], § 512, as added by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 894][/us/stat/86/894], provided that: 
 
 > “If any provision of this Act \[this chapter\], or the application of any provision of this Act \[this chapter\] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act \[this chapter\], shall not be affected thereby.”
 
  __National Shellfish Indicator Program__ 
 
-[Pub. L. 102–567, title III, § 308][/us/pl/102/567/s308], Oct. 29, 1992, [106 Stat. 4286][/us/stat/106/4286]; as amended by [Pub. L. 105–362, title II, § 201(b)][/us/pl/105/362/s201/b], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
+[Pub. L. 102–567, title III][/us/pl/102/567/tIII], § 308, Oct. 29, 1992, [106 Stat. 4286][/us/stat/106/4286]; as amended by [Pub. L. 105–362, title II][/us/pl/105/362/tII], § 201(b), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
 
 >     “(a)  __Establishment of a Research Program__  __.—__ 
 
@@ -277,7 +277,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
  __Seafood Processing Study; Submittal of Results to Congress not Later Than__  __January 1, 1979__ 
 
-    [Pub. L. 95–217, § 74][/us/pl/95/217/s74], Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
+    [Pub. L. 95–217][/us/pl/95/217], § 74, Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
 
  __Standards__ 
 
@@ -285,11 +285,11 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
  __Oversight Study__ 
 
-    [Pub. L. 92–500, § 5][/us/pl/92/500/s5], Oct. 18, 1972, [86 Stat. 897][/us/stat/86/897], authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
+    [Pub. L. 92–500][/us/pl/92/500], § 5, Oct. 18, 1972, [86 Stat. 897][/us/stat/86/897], authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
 
  __International Trade Study__ 
 
-[Pub. L. 92–500, § 6][/us/pl/92/500/s6], Oct. 18, 1972, [86 Stat. 897][/us/stat/86/897], provided that:
+[Pub. L. 92–500][/us/pl/92/500], § 6, Oct. 18, 1972, [86 Stat. 897][/us/stat/86/897], provided that:
 
 >     “(a)
 
@@ -317,21 +317,21 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
  __International Agreements__ 
 
-[Pub. L. 92–500, § 7][/us/pl/92/500/s7], Oct. 18, 1972, [86 Stat. 898][/us/stat/86/898], provided that: 
+[Pub. L. 92–500][/us/pl/92/500], § 7, Oct. 18, 1972, [86 Stat. 898][/us/stat/86/898], provided that: 
 
 > “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
 
  __National Policies and Goal Study__ 
 
-    [Pub. L. 92–500, § 10][/us/pl/92/500/s10], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+    [Pub. L. 92–500][/us/pl/92/500], § 10, Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
  __Efficiency Study__ 
 
-    [Pub. L. 92–500, § 11][/us/pl/92/500/s11], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+    [Pub. L. 92–500][/us/pl/92/500], § 11, Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
  __Sex Discrimination__ 
 
-[Pub. L. 92–500, § 13][/us/pl/92/500/s13], Oct. 18, 1972, [86 Stat. 903][/us/stat/86/903], provided that: 
+[Pub. L. 92–500][/us/pl/92/500], § 13, Oct. 18, 1972, [86 Stat. 903][/us/stat/86/903], provided that: 
 
 > “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under [section 1281 of this title][/us/usc/t33/s1281]\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
 
@@ -357,7 +357,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
  __Definition of “Administrator”__ 
 
-[Pub. L. 100–4, § 1(d)][/us/pl/100/4/s1/d], Feb. 4, 1987, [101 Stat. 8][/us/stat/101/8], provided that: 
+[Pub. L. 100–4][/us/pl/100/4], § 1(d), Feb. 4, 1987, [101 Stat. 8][/us/stat/101/8], provided that: 
 
 > “For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 
@@ -369,108 +369,108 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1567
-[/us/pl/100/4/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs316%2Fb
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F60
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/95/217/s26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs26%2Fb
-[/us/pl/95/217/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs5%2Fa
-[/us/pl/110/365/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365%2Fs1
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365
 [/us/stat/122/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4021
-[/us/pl/110/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288%2Fs1
+[/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/stat/122/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2650
-[/us/pl/107/303/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs1%2Fa
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/stat/116/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2355
 [/us/usc/t33/s1271a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1271a
 [/us/usc/t33/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1254
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t20/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs50
-[/us/pl/107/303/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs101
+[/us/pl/107/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtI
 [/us/stat/116/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2355
 [/us/usc/t33/s1271a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1271a
 [/us/usc/t33/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1268
-[/us/pl/107/303/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs201
+[/us/pl/107/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtII
 [/us/stat/116/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2358
 [/us/usc/t33/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270
-[/us/pl/106/457/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs201
+[/us/pl/106/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtII
 [/us/stat/114/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1967
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
-[/us/pl/106/457/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs401
+[/us/pl/106/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIV
 [/us/stat/114/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1973
 [/us/usc/t33/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269
-[/us/pl/106/457/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs501
+[/us/pl/106/457/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtV
 [/us/stat/114/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1973
 [/us/usc/t33/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1273
-[/us/pl/106/457/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs601
+[/us/pl/106/457/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVI
 [/us/stat/114/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1975
 [/us/usc/t33/s1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1300
-[/us/pl/106/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs1
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F870
-[/us/pl/103/431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431%2Fs1
+[/us/pl/103/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F431
 [/us/stat/108/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4396
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
-[/us/pl/101/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs1
+[/us/pl/101/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596
 [/us/stat/104/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3000
 [/us/usc/t33/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270
-[/us/pl/101/596/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs201
+[/us/pl/101/596/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtII
 [/us/stat/104/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3004
 [/us/usc/t33/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269
 [/us/usc/t33/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1416
-[/us/pl/101/596/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs301
+[/us/pl/101/596/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtIII
 [/us/stat/104/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3006
 [/us/usc/t33/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270
 [/us/usc/t33/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1324
 [/us/usc/t33/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270
-[/us/pl/100/653/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs1001
+[/us/pl/100/653/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtX
 [/us/stat/102/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3835
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
 [/us/pl/100/4/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs1%2Fa
 [/us/usc/t42/s1962d–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9320
-[/us/pl/97/117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs1
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1623
 [/us/pl/95/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs1
 [/us/pl/92/500/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs1
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/act/1948-06-30/ch758/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758%2FtV
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F896
-[/us/pl/95/217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs2
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
-[/us/pl/100/4/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs506
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F76
-[/us/pl/92/500/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs4
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F896
 [/us/usc/t33/s1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1282
-[/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/act/1948-06-30/ch758/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758%2FtV
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F894
-[/us/pl/102/567/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs308
+[/us/pl/102/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIII
 [/us/stat/106/4286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4286
-[/us/pl/105/362/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs201%2Fb
+[/us/pl/105/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtII
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/98/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F210
 [/us/stat/97/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1409
 [/us/pl/100/4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs2
-[/us/pl/95/217/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs74
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1609
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/92/500/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs5
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F897
-[/us/pl/92/500/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs6
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F897
-[/us/pl/92/500/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs7
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F898
-[/us/pl/92/500/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs10
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
-[/us/pl/92/500/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs11
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
-[/us/pl/92/500/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs13
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F903
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
@@ -479,7 +479,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F898
-[/us/pl/100/4/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs1%2Fd
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/stat/101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F8
 
 

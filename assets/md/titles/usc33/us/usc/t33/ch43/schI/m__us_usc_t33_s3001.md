@@ -17,11 +17,11 @@
 
     There shall be in the National Oceanic and Atmospheric Administration a commissioned officer corps.
 
-([Pub. L. 107–372, title II, § 211][/us/pl/107/372/s211], Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 211, Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082].)
 
  __Short Title__ 
 
-[Pub. L. 107–372, title II, § 201][/us/pl/107/372/s201], Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082], provided that: 
+[Pub. L. 107–372, title II][/us/pl/107/372/tII], § 201, Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082], provided that: 
 
 > “This title \[enacting this chapter, amending [section 1406 of Title 10][/us/usc/t10/s1406], Armed Services, and [section 2396 of Title 22][/us/usc/t22/s2396], Foreign Relations and Intercourse, repealing sections 853a to 853l, 853o, 853p to 853r, 853t to 854, 855, 856 to 857–5, 858, 864, and 874 of this title, amending provisions set out as a note under [section 1293 of Title 10][/us/usc/t10/s1293], and repealing provisions set out as notes under sections 853a and 857–1 of this title and [section 101 of Title 38][/us/usc/t38/s101], Veterans’ Benefits\] may be cited as the ‘National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/107/372/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs211
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3082
-[/us/pl/107/372/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs201
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3082
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406
 [/us/usc/t22/s2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396

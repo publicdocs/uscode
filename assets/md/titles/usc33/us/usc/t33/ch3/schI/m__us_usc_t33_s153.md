@@ -17,7 +17,7 @@
 
     The master of the towing vessel shall be liable to the suspension or revocation of his license for any willful violation of regulations issued pursuant to [section 152 of this title][/us/usc/t33/s152] in the manner prescribed for incompetency, misconduct, or unskillfulness.
 
-([May 28, 1908, ch. 212, § 15][/us/act/1908-05-28/ch212/s15], [35 Stat. 429][/us/stat/35/429].)
+([May 28, 1908, ch. 212][/us/act/1908-05-28/ch212], § 15, [35 Stat. 429][/us/stat/35/429].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs152
-[/us/act/1908-05-28/ch212/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212%2Fs15
+[/us/act/1908-05-28/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212
 [/us/stat/35/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F429
 [/us/act/1897-06-07/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch4
 [/us/stat/30/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F96

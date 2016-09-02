@@ -43,11 +43,11 @@
 
         Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
 
-([Pub. L. 92–340, § 7][/us/pl/92/340/s7], as added [Pub. L. 99–399, title IX, § 906][/us/pl/99/399/s906], Aug. 27, 1986, [100 Stat. 890][/us/stat/100/890]; amended [Pub. L. 104–324, title III, § 302][/us/pl/104/324/s302], Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title I, § 107(a)][/us/pl/107/295/s107/a], Nov. 25, 2002, [116 Stat. 2088][/us/stat/116/2088].)
+([Pub. L. 92–340][/us/pl/92/340], § 7, as added [Pub. L. 99–399, title IX][/us/pl/99/399/tIX], § 906, Aug. 27, 1986, [100 Stat. 890][/us/stat/100/890]; amended [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 302, Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 107(a), Nov. 25, 2002, [116 Stat. 2088][/us/stat/116/2088].)
 
  __Prior Provisions__ 
 
-    A prior section 1226, [Pub. L. 92–340, § 7][/us/pl/92/340/s7], formerly title I, § 106, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered § 7 and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1475][/us/stat/92/1475], related to requirement respecting federally licensed pilots on any foreign or domestic self-propelled vessel engaged in the foreign trade when operating in the navigable waters of the United States in areas, etc., where a pilot is not otherwise required by State law, prior to repeal by [Pub. L. 98–557, § 29(g)][/us/pl/98/557/s29/g], Oct. 30, 1984, [98 Stat. 2875][/us/stat/98/2875].
+    A prior section 1226, [Pub. L. 92–340][/us/pl/92/340], § 7, formerly title I, § 106, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered § 7 and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1475][/us/stat/92/1475], related to requirement respecting federally licensed pilots on any foreign or domestic self-propelled vessel engaged in the foreign trade when operating in the navigable waters of the United States in areas, etc., where a pilot is not otherwise required by State law, prior to repeal by [Pub. L. 98–557][/us/pl/98/557], § 29(g), Oct. 30, 1984, [98 Stat. 2875][/us/stat/98/2875].
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Report on Use of Non-Coast Guard Personnel__ 
 
-[Pub. L. 107–295, title I, § 107(b)][/us/pl/107/295/s107/b], Nov. 25, 2002, [116 Stat. 2088][/us/stat/116/2088], provided that: 
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 107(b), Nov. 25, 2002, [116 Stat. 2088][/us/stat/116/2088], provided that: 
 
 > “The Secretary of the department in which the Coast Guard is operating shall evaluate and report to the Congress on—
 
@@ -79,23 +79,23 @@
 ----------
 
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/92/340/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs7
-[/us/pl/99/399/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs906
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/99/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIX
 [/us/stat/100/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F890
-[/us/pl/104/324/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs302
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3917
-[/us/pl/107/295/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs107%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2088
-[/us/pl/92/340/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs7
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F427
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1475
-[/us/pl/98/557/s29/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fg
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2875
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs107%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2088
 [/us/usc/t33/s1226/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1226%2Fb%2F3
 

@@ -43,7 +43,7 @@
 
         Upon the request of a State water pollution control agency, personnel of the Environmental Protection Agency may be detailed to such agency for the purpose of carrying out the provisions of this chapter.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 501, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 885][/us/stat/86/885]; amended [Pub. L. 100–4, title V, § 501][/us/pl/100/4/s501], Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 501, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 885][/us/stat/86/885]; amended [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 501, Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Applicability of Spill Prevention, Control, and Countermeasure Rule__ 
 
-[Pub. L. 113–121, title I, § 1049][/us/pl/113/121/s1049], June 10, 2014, [128 Stat. 1257][/us/stat/128/1257], provided that:
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1049, June 10, 2014, [128 Stat. 1257][/us/stat/128/1257], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -159,11 +159,11 @@
 
  __Environmental Court Feasibility Study__ 
 
-    [Pub. L. 92–500, § 9][/us/pl/92/500/s9], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
+    [Pub. L. 92–500][/us/pl/92/500], § 9, Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
 
  __Transfer of Public Health Service Officers__ 
 
-    [Pub. L. 89–234, § 2(b)][/us/pl/89/234/s2/b]–(k), Oct. 2, 1965, [79 Stat. 904][/us/stat/79/904], 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after the establishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
+    [Pub. L. 89–234][/us/pl/89/234], § 2(b)–(k), Oct. 2, 1965, [79 Stat. 904][/us/stat/79/904], 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after the establishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
 
 ----------
 
@@ -173,16 +173,16 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F885
-[/us/pl/100/4/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs501
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F75
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/113/121/s1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1049
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1257
-[/us/pl/92/500/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs9
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
-[/us/pl/89/234/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F234%2Fs2%2Fb
+[/us/pl/89/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F234
 [/us/stat/79/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F904
 
 

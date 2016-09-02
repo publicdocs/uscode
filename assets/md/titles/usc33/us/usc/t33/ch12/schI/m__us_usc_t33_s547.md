@@ -17,7 +17,7 @@
 
     Every report submitted to Congress in pursuance of any provision of law for a survey, in addition to other information which the Congress has directed shall be given, shall contain a statement of special or local benefit which will accrue to localities affected by such improvement and a statement of general or national benefits, with recommendations as to what local cooperation should be required, if any, on account of such special or local benefit.
 
-([June 5, 1920, ch. 252, § 2][/us/act/1920-06-05/ch252/s2], [41 Stat. 1010][/us/stat/41/1010].)
+([June 5, 1920, ch. 252][/us/act/1920-06-05/ch252], § 2, [41 Stat. 1010][/us/stat/41/1010].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252%2Fs2
+[/us/act/1920-06-05/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252
 [/us/stat/41/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1010
 
 

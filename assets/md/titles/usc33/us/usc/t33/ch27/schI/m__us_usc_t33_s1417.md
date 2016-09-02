@@ -27,7 +27,7 @@
 
         The Secretary of the department in which the Coast Guard is operating shall conduct surveillance and other appropriate enforcement activity to prevent unlawful transportation of material for dumping, or unlawful dumping. Such enforcement activity shall include, but not be limited to, enforcement of regulations issued by him pursuant to [section 1418 of this title][/us/usc/t33/s1418], relating to safe transportation, handling, carriage, storage, and stowage. The Secretary of the Department in which the Coast Guard is operating shall supply to the Administrator and to the Attorney General, as appropriate, such information of enforcement activities and such evidentiary material assembled as they may require in carrying out their duties relative to penalty assessments, criminal prosecutions, or other actions involving litigation pursuant to the provisions of this subchapter.
 
-([Pub. L. 92–532, title I, § 107][/us/pl/92/532/s107], Oct. 23, 1972, [86 Stat. 1059][/us/stat/86/1059].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 107, Oct. 23, 1972, [86 Stat. 1059][/us/stat/86/1059].)
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1418
-[/us/pl/92/532/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs107
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1059
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

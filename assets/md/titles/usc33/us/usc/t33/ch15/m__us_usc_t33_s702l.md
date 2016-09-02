@@ -17,7 +17,7 @@
 
     All laws or parts of laws inconsistent with sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, and 702k of this title, are repealed.
 
-([May 15, 1928, ch. 569, § 12][/us/act/1928-05-15/ch569/s12], [45 Stat. 539][/us/stat/45/539].)
+([May 15, 1928, ch. 569][/us/act/1928-05-15/ch569], § 12, [45 Stat. 539][/us/stat/45/539].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-05-15/ch569/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569%2Fs12
+[/us/act/1928-05-15/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569
 [/us/stat/45/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F539
 
 

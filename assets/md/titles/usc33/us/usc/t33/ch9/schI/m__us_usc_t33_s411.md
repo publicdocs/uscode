@@ -17,7 +17,7 @@
 
     Every person and every corporation that shall violate, or that shall knowingly aid, abet, authorize, or instigate a violation of the provisions of sections 407, 408, 409, 414, and 415 of this title shall be guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of up to $25,000 per day, or by imprisonment (in the case of a natural person) for not less than thirty days nor more than one year, or by both such fine and imprisonment, in the discretion of the court, one-half of said fine to be paid to the person or persons giving information which shall lead to conviction.
 
-([Mar. 3, 1899, ch. 425, § 16][/us/act/1899-03-03/ch425/s16], [30 Stat. 1153][/us/stat/30/1153]; [Pub. L. 104–303, title II, § 218(a)][/us/pl/104/303/s218/a], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696].)
+([Mar. 3, 1899, ch. 425][/us/act/1899-03-03/ch425], § 16, [30 Stat. 1153][/us/stat/30/1153]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 218(a), Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1899-03-03/ch425/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425%2Fs16
+[/us/act/1899-03-03/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425
 [/us/stat/30/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1153
-[/us/pl/104/303/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs218%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3696
 [/us/usc/t33/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs412
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5251 derived from [act Mar. 3, 1811, ch. 46, § 12][/us/act/1811-03-03/ch46/s12], [2 Stat. 606][/us/stat/2/606].
+    R.S. § 5251 derived from [act Mar. 3, 1811, ch. 46][/us/act/1811-03-03/ch46], § 12, [2 Stat. 606][/us/stat/2/606].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1811-03-03/ch46/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-03-03%2Fch46%2Fs12
+[/us/act/1811-03-03/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-03-03%2Fch46
 [/us/stat/2/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F606
 
 

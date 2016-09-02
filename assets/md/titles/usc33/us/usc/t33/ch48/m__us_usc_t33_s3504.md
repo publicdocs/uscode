@@ -55,7 +55,7 @@
 
         The Administrator shall continue developing a strategy for expanding contracting with non-governmental entities to minimize duplication and take maximum advantage of nongovernmental capabilities in fulfilling the Administration’s mapping and charting responsibilities. Within 120 days after March 30, 2009, the Administrator shall transmit a report describing the strategy developed under this subsection to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
 
-([Pub. L. 111–11, title XII, § 12205][/us/pl/111/11/s12205], Mar. 30, 2009, [123 Stat. 1424][/us/stat/123/1424].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12205, Mar. 30, 2009, [123 Stat. 1424][/us/stat/123/1424].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12205
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1424
 
 

@@ -27,7 +27,7 @@
 
         No grant shall be made under this subchapter from funds authorized for any fiscal year during the period beginning October 1, 1977, and ending September 30, 1990, for treatment works for control of pollutant discharges from separate storm sewer systems.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 211, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 843][/us/stat/86/843]; amended [Pub. L. 95–217, § 36][/us/pl/95/217/s36], Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581]; [Pub. L. 97–117, § 2(b)][/us/pl/97/117/s2/b], Dec. 29, 1981, [95 Stat. 1623][/us/stat/95/1623]; [Pub. L. 100–4, title II, § 206(d)][/us/pl/100/4/s206/d], Feb. 4, 1987, [101 Stat. 20][/us/stat/101/20].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 211, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 843][/us/stat/86/843]; amended [Pub. L. 95–217][/us/pl/95/217], § 36, Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581]; [Pub. L. 97–117][/us/pl/97/117], § 2(b), Dec. 29, 1981, [95 Stat. 1623][/us/stat/95/1623]; [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 206(d), Feb. 4, 1987, [101 Stat. 20][/us/stat/101/20].)
 
  __Amendments__ 
 
@@ -46,13 +46,13 @@
 
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F843
-[/us/pl/95/217/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs36
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1581
-[/us/pl/97/117/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs2%2Fb
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1623
-[/us/pl/100/4/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs206%2Fd
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F20
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117

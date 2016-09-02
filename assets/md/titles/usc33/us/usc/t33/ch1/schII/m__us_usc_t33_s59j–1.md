@@ -47,7 +47,7 @@
 
         If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5)) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire.
 
-([Pub. L. 100–676, § 38][/us/pl/100/676/s38], Nov. 17, 1988, [102 Stat. 4032][/us/stat/102/4032]; [Pub. L. 110–114, title III, § 3181(g)][/us/pl/110/114/s3181/g], Nov. 8, 2007, [121 Stat. 1162][/us/stat/121/1162].)
+([Pub. L. 100–676][/us/pl/100/676], § 38, Nov. 17, 1988, [102 Stat. 4032][/us/stat/102/4032]; [Pub. L. 110–114, title III][/us/pl/110/114/tIII], § 3181(g), Nov. 8, 2007, [121 Stat. 1162][/us/stat/121/1162].)
 
  __References in Text__ 
 
@@ -74,9 +74,9 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/100/676/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs38
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4032
-[/us/pl/110/114/s3181/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs3181%2Fg
+[/us/pl/110/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIII
 [/us/stat/121/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1162
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

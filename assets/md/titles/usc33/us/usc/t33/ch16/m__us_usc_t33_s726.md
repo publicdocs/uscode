@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s725.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s727.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs726)
 
-## § 726. Repealed. [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]
+## § 726. Repealed. [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561]
 
     Section, [act Mar. 4, 1913, ch. 168][/us/act/1913-03-04/ch168], [37 Stat. 1018][/us/stat/37/1018], related to procurement of supplies and equipment for special works of Lighthouse Service. See [section 649 of Title 14][/us/usc/t14/s649], Coast Guard.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
 [/us/act/1913-03-04/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch168
 [/us/stat/37/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F1018

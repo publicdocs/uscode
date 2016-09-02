@@ -17,7 +17,7 @@
 
     After the Eudora Floodway shall have been constructed and is ready for operation, the fuse-plug levees now at the head of the Boeuf and Tensas Basins shall be constructed to the 1914 grade and the 1928 section. The fuse-plug levees at the head of the Atchafalaya Basin on the west side shall be constructed to the 1914 grade and the 1928 section. The fuse-plug levees at the head of the Atchafalaya Basin on the east side of the Atchafalaya River shall be constructed to the 1914 grade and 1928 section, and, after the Morganza Floodway has been completed, shall be raised to the 1928 grade as provided in [section 702a–3 of this title][/us/usc/t33/s702a–3]. Thereafter those stretches of said levees which are left as fuse-plug levees shall be reconstructed and maintained as herein provided, subject to the provisions of [section 702a–3 of this title][/us/usc/t33/s702a–3]. Any funds appropriated under authority of sections 702g–1 and 702k–1 of this title may be expended for this purpose.
 
-([June 15, 1936, ch. 548, § 10][/us/act/1936-06-15/ch548/s10], [49 Stat. 1511][/us/stat/49/1511].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 10, [49 Stat. 1511][/us/stat/49/1511].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t33/s702a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a%E2%80%933
 [/us/usc/t33/s702a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a%E2%80%933
-[/us/act/1936-06-15/ch548/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs10
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1511
 [/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1508

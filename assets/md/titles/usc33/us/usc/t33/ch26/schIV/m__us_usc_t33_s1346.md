@@ -185,7 +185,7 @@
 
         There is authorized to be appropriated for making grants under subsection (b) of this section, including implementation of monitoring and notification programs by the Administrator under subsection (h) of this section, $30,000,000 for each of fiscal years 2001 through 2005.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 406, as added [Pub. L. 106–284, § 4][/us/pl/106/284/s4], Oct. 10, 2000, [114 Stat. 872][/us/stat/114/872].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 406, as added [Pub. L. 106–284][/us/pl/106/284], § 4, Oct. 10, 2000, [114 Stat. 872][/us/stat/114/872].)
 
 ----------
 
@@ -195,7 +195,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/106/284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs4
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F872
 
 

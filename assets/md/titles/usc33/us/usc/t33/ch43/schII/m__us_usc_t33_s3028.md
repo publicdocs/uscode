@@ -65,7 +65,7 @@
 
         (2) creates a vacancy on the active list.
 
-([Pub. L. 107–372, title II, § 228][/us/pl/107/372/s228], Dec. 19, 2002, [116 Stat. 3086][/us/stat/116/3086]; [Pub. L. 112–166, § 2(gg)(2)][/us/pl/112/166/s2/gg/2], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 228, Dec. 19, 2002, [116 Stat. 3086][/us/stat/116/3086]; [Pub. L. 112–166][/us/pl/112/166], § 2(gg)(2), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __Prior Provisions__ 
 
@@ -81,7 +81,7 @@
 
  __Appointment of Commissioned Officers__ 
 
-[Pub. L. 98–498, title III, § 320(c)(2)][/us/pl/98/498/s320/c/2], Oct. 19, 1984, [98 Stat. 2309][/us/stat/98/2309], provided that: 
+[Pub. L. 98–498, title III][/us/pl/98/498/tIII], § 320(c)(2), Oct. 19, 1984, [98 Stat. 2309][/us/stat/98/2309], provided that: 
 
 > “After the date of the enactment of this Act \[Oct. 19, 1984\], no appointment of a commissioned officer may be made under section 2(d) or 2(f) of Reorganization Plan Numbered 4 of 1970 ([84 Stat. 2090][/us/stat/84/2090], 5 U.S.C. App.).”
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/107/372/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs228
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3086
-[/us/pl/112/166/s2/gg/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fgg%2F2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/usc/t33/s853u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853u
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
@@ -102,7 +102,7 @@
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
-[/us/pl/98/498/s320/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs320%2Fc%2F2
+[/us/pl/98/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIII
 [/us/stat/98/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2309
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 

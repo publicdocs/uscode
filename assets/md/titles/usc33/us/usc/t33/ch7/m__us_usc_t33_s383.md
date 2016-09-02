@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4295 derived from acts [Mar. 3, 1819, ch. 77, § 3][/us/act/1819-03-03/ch77/s3], [3 Stat. 513][/us/stat/3/513]; [Jan. 30, 1823, ch. 7][/us/act/1823-01-30/ch7], [3 Stat. 721][/us/stat/3/721].
+    R.S. § 4295 derived from acts [Mar. 3, 1819, ch. 77][/us/act/1819-03-03/ch77], § 3, [3 Stat. 513][/us/stat/3/513]; [Jan. 30, 1823, ch. 7][/us/act/1823-01-30/ch7], [3 Stat. 721][/us/stat/3/721].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1819-03-03/ch77/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1819-03-03%2Fch77%2Fs3
+[/us/act/1819-03-03/ch77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1819-03-03%2Fch77
 [/us/stat/3/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F513
 [/us/act/1823-01-30/ch7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1823-01-30%2Fch7
 [/us/stat/3/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F721

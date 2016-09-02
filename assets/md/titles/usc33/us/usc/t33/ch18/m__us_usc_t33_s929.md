@@ -17,11 +17,11 @@
 
     Every employer shall keep a record in respect of any injury to an employee. Such record shall contain such information of disease, other disability, or death in respect of such injury as the Secretary may by regulation require, and shall be available to inspection by the Secretary or by any State authority at such times and under such conditions as the Secretary may by regulation prescribe.
 
-([Mar. 4, 1927, ch. 509, § 29][/us/act/1927-03-04/ch509/s29], [44 Stat. 1438][/us/stat/44/1438]; [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 29, [44 Stat. 1438][/us/stat/44/1438]; [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    1984—[Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs29
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1438
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1

@@ -17,7 +17,7 @@
 
     The provisions of sections 593 to 595 of this title relating to river and harbor improvements are made applicable to works of flood control heretofore or hereafter authorized.
 
-([Aug. 18, 1941, ch. 377, § 6][/us/act/1941-08-18/ch377/s6], [55 Stat. 650][/us/stat/55/650]; [Oct. 31, 1951, ch. 654, § 3(6)][/us/act/1951-10-31/ch654/s3/6], [65 Stat. 708][/us/stat/65/708].)
+([Aug. 18, 1941, ch. 377][/us/act/1941-08-18/ch377], § 6, [55 Stat. 650][/us/stat/55/650]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 3(6), [65 Stat. 708][/us/stat/65/708].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1941-08-18/ch377/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377%2Fs6
+[/us/act/1941-08-18/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377
 [/us/stat/55/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F650
-[/us/act/1951-10-31/ch654/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs3%2F6
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F708
 
 

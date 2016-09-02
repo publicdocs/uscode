@@ -17,7 +17,7 @@
 
     The portion of the Union Canal, also known as the Union Ship Canal, an appendage of the Buffalo Outer Harbor, located in the City of Buffalo, State of New York, is declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525], et seq.) from a point two hundred feet west of Fuhrmann Boulevard east to its terminus.
 
-([Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 332\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–384.)
+([Pub. L. 100–202][/us/pl/100/202], § 101(l) \[title III, § 332\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–384.)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
-[/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-358
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847

@@ -27,7 +27,7 @@
 
         A responsible party who is entitled to a limitation of liability may assert a claim under [section 2713 of this title][/us/usc/t33/s2713] only to the extent that the sum of the removal costs and damages incurred by the responsible party plus the amounts paid by the responsible party, or by the guarantor on behalf of the responsible party, for claims asserted under [section 2713 of this title][/us/usc/t33/s2713] exceeds the amount to which the total of the liability under [section 2702 of this title][/us/usc/t33/s2702] and removal costs and damages incurred by, or on behalf of, the responsible party is limited under [section 2704 of this title][/us/usc/t33/s2704].
 
-([Pub. L. 101–380, title I, § 1008][/us/pl/101/380/s1008], Aug. 18, 1990, [104 Stat. 497][/us/stat/104/497].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1008, Aug. 18, 1990, [104 Stat. 497][/us/stat/104/497].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t33/s2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2713
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
 [/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
-[/us/pl/101/380/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1008
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F497
 
 

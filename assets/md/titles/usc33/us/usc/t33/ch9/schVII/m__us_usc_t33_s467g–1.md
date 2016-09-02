@@ -17,7 +17,7 @@
 
     At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.
 
-([Pub. L. 92–367, § 10][/us/pl/92/367/s10], as added [Pub. L. 107–310, § 5(2)][/us/pl/107/310/s5/2], Dec. 2, 2002, [116 Stat. 2453][/us/stat/116/2453]; amended [Pub. L. 113–121, title III, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
+([Pub. L. 92–367][/us/pl/92/367], § 10, as added [Pub. L. 107–310][/us/pl/107/310], § 5(2), Dec. 2, 2002, [116 Stat. 2453][/us/stat/116/2453]; amended [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3001(a)(1), June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
 
  __Prior Provisions__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/92/367/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs10
-[/us/pl/107/310/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs5%2F2
+[/us/pl/92/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367
+[/us/pl/107/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310
 [/us/stat/116/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2453
-[/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1282
 [/us/pl/92/367/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs10
 [/us/usc/t33/s467h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467h

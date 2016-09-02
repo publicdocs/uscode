@@ -17,7 +17,7 @@
 
     This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act.”
 
-([Mar. 4, 1927, ch. 509, § 1][/us/act/1927-03-04/ch509/s1], [44 Stat. 1424][/us/stat/44/1424]; [Pub. L. 98–426, § 27(d)(1)][/us/pl/98/426/s27/d/1], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 1, [44 Stat. 1424][/us/stat/44/1424]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(1), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–426, § 28(a)][/us/pl/98/426/s28/a]–(g), Sept. 28, 1984, [98 Stat. 1655][/us/stat/98/1655], provided that:
+[Pub. L. 98–426][/us/pl/98/426], § 28(a)–(g), Sept. 28, 1984, [98 Stat. 1655][/us/stat/98/1655], provided that:
 
 >     “(a) Except as otherwise provided in this section, the amendments made by this Act \[enacting [section 942 of this title][/us/usc/t33/s942], amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and [section 932 of Title 30][/us/usc/t30/s932], Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and [section 907 of this title][/us/usc/t33/s907]\] shall be effective on the date of enactment of this Act \[Sept. 28, 1984\] and shall apply both with respect to claims filed after such date and to claims pending on such date.
 
@@ -53,25 +53,25 @@
 
  __Effective Date__ 
 
-Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, [Pub. L. 92–576, § 19][/us/pl/92/576/s19], [86 Stat. 1263][/us/stat/86/1263], provided that: 
+Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, [Pub. L. 92–576][/us/pl/92/576], § 19, [86 Stat. 1263][/us/stat/86/1263], provided that: 
 
-> “Sections 39 to 48, 50 to 52 \[50 to 52, formerly 49 to 51, renumbered [Pub. L. 92–576, § 19][/us/pl/92/576/s19]\], inclusive \[sections 939 to 948, 949, and 950 of this title\], shall become effective upon the passage of this Act \[Mar. 4, 1927\], and the remainder of this Act shall become effective on July 1, 1927.”
+> “Sections 39 to 48, 50 to 52 \[50 to 52, formerly 49 to 51, renumbered [Pub. L. 92–576][/us/pl/92/576], § 19\], inclusive \[sections 939 to 948, 949, and 950 of this title\], shall become effective upon the passage of this Act \[Mar. 4, 1927\], and the remainder of this Act shall become effective on July 1, 1927.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–426, § 1(a)][/us/pl/98/426/s1/a], Sept. 28, 1984, [98 Stat. 1639][/us/stat/98/1639], provided that: 
+[Pub. L. 98–426][/us/pl/98/426], § 1(a), Sept. 28, 1984, [98 Stat. 1639][/us/stat/98/1639], provided that: 
 
 > “this Act \[enacting [section 942 of this title][/us/usc/t33/s942], amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and [section 932 of Title 30][/us/usc/t30/s932], Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and [section 907 of this title][/us/usc/t33/s907]\] may be cited as the ‘Longshore and Harbor Workers’ Compensation Act Amendments of 1984’.”
 
  __Short Title of 1972 Amendment__ 
 
-[Pub. L. 92–576, § 1][/us/pl/92/576/s1], Oct. 27, 1972, [86 Stat. 1251][/us/stat/86/1251], provided: 
+[Pub. L. 92–576][/us/pl/92/576], § 1, Oct. 27, 1972, [86 Stat. 1251][/us/stat/86/1251], provided: 
 
 > “That this Act \[enacting section 948a, amending sections 902, 903, 905 to 910, 912 to 914, 917, 919, 921, 921a, 923, 927, 928, 933, 935, 939, 940, and 944 of this title, and enacting and amending provisions set out as notes under this section and [section 902 of this title][/us/usc/t33/s902]\] may be cited as the ‘Longshoremen’s and Harbor Workers’ Compensation Act Amendments of 1972’.”
 
  __References to Longshoremen’s and Harbor Workers’ Compensation Act__ 
 
-[Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654], provided that: 
+[Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654], provided that: 
 
 > “Reference in any other statute, regulation, order, or other document to the Longshoremen’s and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
 
@@ -82,12 +82,12 @@ Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, [Pu
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs1
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
-[/us/pl/98/426/s27/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F1
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
-[/us/pl/98/426/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fa
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1655
 [/us/usc/t33/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs942
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
@@ -95,18 +95,18 @@ Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, [Pu
 [/us/usc/t33/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs942
 [/us/usc/t33/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs906
 [/us/usc/t33/s902/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902%2F10
-[/us/pl/92/576/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs19
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1263
-[/us/pl/92/576/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs19
-[/us/pl/98/426/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs1%2Fa
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1639
 [/us/usc/t33/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs942
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
 [/us/usc/t33/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs907
-[/us/pl/92/576/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs1
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1251
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 
 

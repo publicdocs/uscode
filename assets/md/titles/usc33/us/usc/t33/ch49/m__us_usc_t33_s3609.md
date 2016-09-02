@@ -17,7 +17,7 @@
 
     It is the intent of Congress that funding provided to agencies of the Council to implement this chapter shall supplement, and not replace, existing sources of funding for other programs. It is the further intent of Congress that agencies of the Council shall not enter into contracts or agreements for the development or procurement of new Federal assets for the System that are estimated to be in excess of $250,000,000 in life-cycle costs without first providing adequate notice to Congress and opportunity for review and comment.
 
-([Pub. L. 111–11, title XII, § 12310][/us/pl/111/11/s12310], Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12310, Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12310
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1436
 
 

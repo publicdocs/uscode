@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch11/schI/m__us_usc_t33_s502.md) | [Next](./../../../../..//us/usc/t33/ch11/schII/m__us_usc_t33_ch11_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508)
+[Previous](./../../../../..//us/usc/t33/ch11/schI/m__us_usc_t33_s503...507.md) | [Next](./../../../../..//us/usc/t33/ch11/schII/m__us_usc_t33_ch11_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508)
 
 ## § 508. Amount of tolls
 
     Tolls for passage or transit over any bridge constructed under the authority of the Act of March 23, 1906, commonly known as the “Bridge Act of 1906”, the General Bridge Act of 1946 \[[33 U.S.C. 525][/us/usc/t33/s525] et seq.\], and the International Bridge Act of 1972 \[[33 U.S.C. 535][/us/usc/t33/s535] et seq.\] shall be just and reasonable.
 
-([Pub. L. 100–17, title I, § 135(i)][/us/pl/100/17/s135/i], Apr. 2, 1987, [101 Stat. 174][/us/stat/101/174].)
+([Pub. L. 100–17, title I][/us/pl/100/17/tI], § 135(i), Apr. 2, 1987, [101 Stat. 174][/us/stat/101/174].)
 
  __References in Text__ 
 
@@ -29,14 +29,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch11/schI/m__us_usc_t33_s502.md) | [Next](./../../../../..//us/usc/t33/ch11/schII/m__us_usc_t33_ch11_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508)
+[Previous](./../../../../..//us/usc/t33/ch11/schI/m__us_usc_t33_s503...507.md) | [Next](./../../../../..//us/usc/t33/ch11/schII/m__us_usc_t33_ch11_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs508)
 
 ----------
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
 [/us/usc/t33/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs535
-[/us/pl/100/17/s135/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs135%2Fi
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F174
 [/us/act/1906-03-23/ch1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130
 [/us/stat/34/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F84

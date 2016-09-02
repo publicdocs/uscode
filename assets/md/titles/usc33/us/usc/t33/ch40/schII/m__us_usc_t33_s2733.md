@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall within one year after August 18, 1990, install and ensure operation of an automated navigation light on or adjacent to Bligh Reef in Prince William Sound, Alaska, of sufficient power and height to provide long-range warning of the location of Bligh Reef.
 
-([Pub. L. 101–380, title V, § 5003][/us/pl/101/380/s5003], Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5003, Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/380/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5003
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F553
 
 

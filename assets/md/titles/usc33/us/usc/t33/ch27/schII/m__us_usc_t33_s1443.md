@@ -57,7 +57,7 @@
 
         (3) recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.
 
-([Pub. L. 92–532, title II, § 203][/us/pl/92/532/s203], Oct. 23, 1972, [86 Stat. 1061][/us/stat/86/1061]; [Pub. L. 96–381, § 1][/us/pl/96/381/s1], Oct. 6, 1980, [94 Stat. 1523][/us/stat/94/1523]; [Pub. L. 99–272, title VI, § 6063][/us/pl/99/272/s6063], Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131].)
+([Pub. L. 92–532, title II][/us/pl/92/532/tII], § 203, Oct. 23, 1972, [86 Stat. 1061][/us/stat/86/1061]; [Pub. L. 96–381][/us/pl/96/381], § 1, Oct. 6, 1980, [94 Stat. 1523][/us/stat/94/1523]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6063, Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131].)
 
  __Codification__ 
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t33/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1411%2Fb
 [/us/usc/t33/s1412a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412a
-[/us/pl/92/532/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs203
+[/us/pl/92/532/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtII
 [/us/stat/86/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1061
-[/us/pl/96/381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381%2Fs1
+[/us/pl/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381
 [/us/stat/94/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1523
-[/us/pl/99/272/s6063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6063
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F131
 [/us/pl/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

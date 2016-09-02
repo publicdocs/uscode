@@ -35,7 +35,7 @@
 
         Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstrate compliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
 
-([Pub. L. 111–281, title X, § 1021][/us/pl/111/281/s1021], Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1021, Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1021
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3025
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

@@ -23,7 +23,7 @@
 
     (3) The term “harbor of Baltimore” means the tidal waters of the harbor of Baltimore and its adjacent and tributary waters, and so much of Chesapeake Bay and its tributaries as lies within the State of Maryland.
 
-([June 29, 1888, ch. 496, § 7][/us/act/1888-06-29/ch496/s7], as added [Pub. L. 85–802, § 1(8)][/us/pl/85/802/s1/8], Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 7, as added [Pub. L. 85–802][/us/pl/85/802], § 1(8), Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1888-06-29/ch496/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs7
-[/us/pl/85/802/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs1%2F8
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
+[/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/stat/72/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F970
 [/us/pl/85/802/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs2
 [/us/usc/t33/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs441

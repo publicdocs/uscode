@@ -45,7 +45,7 @@
 
         There is authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years beginning after September 30, 1986.
 
-([Pub. L. 94–587, § 202][/us/pl/94/587/s202], Oct. 22, 1976, [90 Stat. 2945][/us/stat/90/2945]; [Pub. L. 99–662, title XI, § 1129(a)][/us/pl/99/662/s1129/a], Nov. 17, 1986, [100 Stat. 4246][/us/stat/100/4246].)
+([Pub. L. 94–587][/us/pl/94/587], § 202, Oct. 22, 1976, [90 Stat. 2945][/us/stat/90/2945]; [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1129(a), Nov. 17, 1986, [100 Stat. 4246][/us/stat/100/4246].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/94/587/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs202
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2945
-[/us/pl/99/662/s1129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1129%2Fa
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4246
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 

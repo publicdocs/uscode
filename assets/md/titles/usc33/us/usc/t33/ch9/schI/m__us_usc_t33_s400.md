@@ -59,7 +59,7 @@
 
         On publication in the Federal Register under paragraphs (2) and (3), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of all information published under those paragraphs.
 
-([Pub. L. 113–121, title I, § 1030(a)][/us/pl/113/121/s1030/a], June 10, 2014, [128 Stat. 1231][/us/stat/128/1231].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(a), June 10, 2014, [128 Stat. 1231][/us/stat/128/1231].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t33/s2326/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2326%2Fe
 [/us/usc/t33/s701b–8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%938a
 [/us/usc/t33/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs610%2Fa
-[/us/pl/113/121/s1030/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1231
 [/us/pl/87/874/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs103
 [/us/stat/76/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1178

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 20, 1918, ch. 103, § 7][/us/act/1918-06-20/ch103/s7], [40 Stat. 608][/us/stat/40/608], related to superintendents of lighthouses and their salaries. The Bureau of Lighthouses and its functions were transferred and consolidated with the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act June 20, 1918, ch. 103][/us/act/1918-06-20/ch103], § 7, [40 Stat. 608][/us/stat/40/608], related to superintendents of lighthouses and their salaries. The Bureau of Lighthouses and its functions were transferred and consolidated with the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432], set out in the Appendix to Title 5, Government Organization and Employees.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1918-06-20/ch103/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs7
+[/us/act/1918-06-20/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103
 [/us/stat/40/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F608
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
 

@@ -633,7 +633,7 @@ SUBCHAPTER II—WATERS DECLARED NONNAVIGABLE: CHANGE OF NAME  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs59" data-uslm-ref="/us/usc/t33/s59">59</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs59l" data-uslm-ref="/us/usc/t33/s59l">59l.</a>  </td>
 
     <td> Nonapplicability of prohibitions and provisions for review and approval concerning wharves and piers.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER II—WATERS DECLARED NONNAVIGABLE: CHANGE OF NAME  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs59" data-uslm-ref="/us/usc/t33/s59">59</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs59o" data-uslm-ref="/us/usc/t33/s59o">59o.</a>  </td>
 
     <td> Hackensack River, Hudson County, New Jersey.  </td>
 

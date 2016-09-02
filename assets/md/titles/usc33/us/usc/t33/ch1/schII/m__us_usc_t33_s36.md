@@ -17,7 +17,7 @@
 
     Mosquito Creek, in Colleton County, South Carolina, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
-([Aug. 8, 1917, ch. 49, § 15][/us/act/1917-08-08/ch49/s15], [40 Stat. 268][/us/stat/40/268].)
+([Aug. 8, 1917, ch. 49][/us/act/1917-08-08/ch49], § 15, [40 Stat. 268][/us/stat/40/268].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-08-08/ch49/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49%2Fs15
+[/us/act/1917-08-08/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49
 [/us/stat/40/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F268
 
 

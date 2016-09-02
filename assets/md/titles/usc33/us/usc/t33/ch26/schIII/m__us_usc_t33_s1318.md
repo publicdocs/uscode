@@ -41,17 +41,17 @@
 
         Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of Congress, to such committee.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 308, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 858][/us/stat/86/858]; amended [Pub. L. 95–217, § 67(c)(1)][/us/pl/95/217/s67/c/1], Dec. 27, 1977, [91 Stat. 1606][/us/stat/91/1606]; [Pub. L. 100–4, title III, § 310][/us/pl/100/4/s310], title IV, § 406(d)(1), Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41], 73.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 308, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 858][/us/stat/86/858]; amended [Pub. L. 95–217][/us/pl/95/217], § 67(c)(1), Dec. 27, 1977, [91 Stat. 1606][/us/stat/91/1606]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 310, title IV, § 406(d)(1), Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41], 73.)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–4, § 406(d)(1)][/us/pl/100/4/s406/d/1], substituted “1345, and 1364” for “and 1364” in cl. (4).
+    1987—Subsec. (a). [Pub. L. 100–4][/us/pl/100/4], § 406(d)(1), substituted “1345, and 1364” for “and 1364” in cl. (4).
 
-    Subsec. (a)(B). [Pub. L. 100–4, § 310(a)(2)][/us/pl/100/4/s310/a/2], inserted “(including an authorized contractor acting as a representative of the Administrator)” after “representative”.
+    Subsec. (a)(B). [Pub. L. 100–4][/us/pl/100/4], § 310(a)(2), inserted “(including an authorized contractor acting as a representative of the Administrator)” after “representative”.
 
-    Subsec. (b). [Pub. L. 100–4, § 310(a)(1)][/us/pl/100/4/s310/a/1], substituted a period and “Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.” for “, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.”
+    Subsec. (b). [Pub. L. 100–4][/us/pl/100/4], § 310(a)(1), substituted a period and “Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.” for “, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.”
 
-    Subsec. (d). [Pub. L. 100–4, § 310(b)][/us/pl/100/4/s310/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–4][/us/pl/100/4], § 310(b), added subsec. (d).
 
     1977—Subsec. (a)(4). [Pub. L. 95–217][/us/pl/95/217] inserted “1344 (relating to State permit programs),” after “sections 1315, 1321, 1342,” in provisions preceding subpar. (A).
 
@@ -64,16 +64,16 @@
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F858
-[/us/pl/95/217/s67/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fc%2F1
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1606
-[/us/pl/100/4/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs310
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F41
-[/us/pl/100/4/s406/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fd%2F1
-[/us/pl/100/4/s310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs310%2Fa%2F2
-[/us/pl/100/4/s310/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs310%2Fa%2F1
-[/us/pl/100/4/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs310%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 
 

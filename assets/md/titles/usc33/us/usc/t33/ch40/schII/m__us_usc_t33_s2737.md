@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, tank vessels that have spilled more than 1,000,000 gallons of oil into the marine environment after March 22, 1989, are prohibited from operating on the navigable waters of Prince William Sound, Alaska.
 
-([Pub. L. 101–380, title V, § 5007][/us/pl/101/380/s5007], Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5007, Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/380/s5007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5007
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F554
 
 

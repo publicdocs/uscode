@@ -31,17 +31,17 @@
 
         Determinations under subsection (b)(3) of this section with respect to a period shall apply to employees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
 
-([Mar. 4, 1927, ch. 509, § 6][/us/act/1927-03-04/ch509/s6], [44 Stat. 1426][/us/stat/44/1426]; [June 24, 1948, ch. 623, § 1][/us/act/1948-06-24/ch623/s1], [62 Stat. 602][/us/stat/62/602]; [July 26, 1956, ch. 735, § 1][/us/act/1956-07-26/ch735/s1], [70 Stat. 654][/us/stat/70/654]; [Pub. L. 87–87, § 1][/us/pl/87/87/s1], July 14, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 92–576][/us/pl/92/576], §§ 4, 5(a), Oct. 27, 1972, [86 Stat. 1252][/us/stat/86/1252]; [Pub. L. 98–426, § 6][/us/pl/98/426/s6], Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 6, [44 Stat. 1426][/us/stat/44/1426]; [June 24, 1948, ch. 623][/us/act/1948-06-24/ch623], § 1, [62 Stat. 602][/us/stat/62/602]; [July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], § 1, [70 Stat. 654][/us/stat/70/654]; [Pub. L. 87–87][/us/pl/87/87], § 1, July 14, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 92–576][/us/pl/92/576], §§ 4, 5(a), Oct. 27, 1972, [86 Stat. 1252][/us/stat/86/1252]; [Pub. L. 98–426][/us/pl/98/426], § 6, Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
 
  __Amendments__ 
 
-    1984—Subsec. (b)(1). [Pub. L. 98–426, § 6(a)][/us/pl/98/426/s6/a], substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
+    1984—Subsec. (b)(1). [Pub. L. 98–426][/us/pl/98/426], § 6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
 
-    Subsecs. (c), (d). [Pub. L. 98–426, § 6(b)][/us/pl/98/426/s6/b], redesignated subsec. (d) as (c) and substituted “under subsection (b)(3) of this section” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 66⅔ per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by [section 5332 of title 5][/us/usc/t5/s5332] and the minimum rate of compensation for such an employee be equal to 66⅔ per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
+    Subsecs. (c), (d). [Pub. L. 98–426][/us/pl/98/426], § 6(b), redesignated subsec. (d) as (c) and substituted “under subsection (b)(3) of this section” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 66⅔ per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by [section 5332 of title 5][/us/usc/t5/s5332] and the minimum rate of compensation for such an employee be equal to 66⅔ per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
 
-    1972—Subsec. (a). [Pub. L. 92–576, § 4][/us/pl/92/576/s4], substituted “fourteen days” for “twenty-eight days”.
+    1972—Subsec. (a). [Pub. L. 92–576][/us/pl/92/576], § 4, substituted “fourteen days” for “twenty-eight days”.
 
-    Subsecs. (b) to (d). [Pub. L. 92–576, § 5(a)][/us/pl/92/576/s5/a] added subsecs. (b) to (d) and struck out former subsec. (b) compensation for disability provisions which prescribed a $70 per week limit, a $18 per week minimum for total disability, and provided that if the employee’s average weekly wages, as computed under [section 910 of this title][/us/usc/t33/s910], were less than $18 per week he should receive as compensation for total disability his average weekly wages.
+    Subsecs. (b) to (d). [Pub. L. 92–576][/us/pl/92/576], § 5(a) added subsecs. (b) to (d) and struck out former subsec. (b) compensation for disability provisions which prescribed a $70 per week limit, a $18 per week minimum for total disability, and provided that if the employee’s average weekly wages, as computed under [section 910 of this title][/us/usc/t33/s910], were less than $18 per week he should receive as compensation for total disability his average weekly wages.
 
     1961—Subsec. (b). [Pub. L. 87–87][/us/pl/87/87] increased limitation on compensation for disability from “$54” to “$70” per week.
 
@@ -61,19 +61,19 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–87, § 4][/us/pl/87/87/s4], July 14, 1961, [75 Stat. 204][/us/stat/75/204], provided that: 
+[Pub. L. 87–87][/us/pl/87/87], § 4, July 14, 1961, [75 Stat. 204][/us/stat/75/204], provided that: 
 
 > “The amendments made by the foregoing provisions of this Act \[amending this section and sections 909 and 914 of this title\] shall become effective as to injuries or death sustained on or after the date of enactment \[July 14, 1961\].”
 
  __Effective Date of 1956 Amendment__ 
 
-[Act July 26, 1956, ch. 735, § 9][/us/act/1956-07-26/ch735/s9], [70 Stat. 656][/us/stat/70/656], provided that: 
+[Act July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], § 9, [70 Stat. 656][/us/stat/70/656], provided that: 
 
 > “The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
 
  __Effective Date of 1948 Amendment__ 
 
-[Act June 24, 1948, ch. 623, § 6][/us/act/1948-06-24/ch623/s6], [62 Stat. 604][/us/stat/62/604], provided that: 
+[Act June 24, 1948, ch. 623][/us/act/1948-06-24/ch623], § 6, [62 Stat. 604][/us/stat/62/604], provided that: 
 
 > “The provisions of this Act \[amending this section and sections 908, 909, 910, and 914 of this title\] shall be applicable only to injuries or deaths occurring on or after the effective date hereof \[June 24, 1948\].”
 
@@ -86,23 +86,23 @@
 
 [/us/usc/t33/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs907
 [/us/usc/t33/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs910
-[/us/act/1927-03-04/ch509/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs6
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1426
-[/us/act/1948-06-24/ch623/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623%2Fs1
+[/us/act/1948-06-24/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623
 [/us/stat/62/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F602
-[/us/act/1956-07-26/ch735/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735%2Fs1
+[/us/act/1956-07-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735
 [/us/stat/70/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F654
-[/us/pl/87/87/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87%2Fs1
+[/us/pl/87/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87
 [/us/stat/75/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F203
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1252
-[/us/pl/98/426/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs6
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1641
-[/us/pl/98/426/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs6%2Fa
-[/us/pl/98/426/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs6%2Fb
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/92/576/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs4
-[/us/pl/92/576/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs5%2Fa
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/usc/t33/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs910
 [/us/pl/87/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87
 [/us/pl/98/426/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs6%2Fa
@@ -112,11 +112,11 @@
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs22
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/87/87/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87%2Fs4
+[/us/pl/87/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87
 [/us/stat/75/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F204
-[/us/act/1956-07-26/ch735/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735%2Fs9
+[/us/act/1956-07-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735
 [/us/stat/70/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F656
-[/us/act/1948-06-24/ch623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623%2Fs6
+[/us/act/1948-06-24/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 
 

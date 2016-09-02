@@ -17,7 +17,7 @@
 
     The Secretary of the Army is authorized to make contracts with States, municipalities, private concerns, or individuals, at such prices and on such terms as he may deem reasonable, for domestic and industrial uses for surplus water that may be available at any reservoir under the control of the Department of the Army: Provided, That no contracts for such water shall adversely affect then existing lawful uses of such water. All moneys received from such contracts shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-([Dec. 22, 1944, ch. 665, § 6][/us/act/1944-12-22/ch665/s6], [58 Stat. 890][/us/stat/58/890]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [May 23, 1952, ch. 328, § 1(a)][/us/act/1952-05-23/ch328/s1/a], [66 Stat. 93][/us/stat/66/93].)
+([Dec. 22, 1944, ch. 665][/us/act/1944-12-22/ch665], § 6, [58 Stat. 890][/us/stat/58/890]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [May 23, 1952, ch. 328][/us/act/1952-05-23/ch328], § 1(a), [66 Stat. 93][/us/stat/66/93].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Repeals__ 
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/act/1944-12-22/ch665/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch665%2Fs6
+[/us/act/1944-12-22/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch665
 [/us/stat/58/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F890
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1952-05-23/ch328/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-23%2Fch328%2Fs1%2Fa
+[/us/act/1952-05-23/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-23%2Fch328
 [/us/stat/66/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F93
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

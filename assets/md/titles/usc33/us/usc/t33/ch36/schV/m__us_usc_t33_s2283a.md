@@ -43,7 +43,7 @@
 
         The Secretary shall make information contained in the status report available to the public, including on the Internet.
 
-([Pub. L. 110–114, title II, § 2036(b)][/us/pl/110/114/s2036/b], Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094]; [Pub. L. 113–121, title I, § 1041][/us/pl/113/121/s1041], June 10, 2014, [128 Stat. 1243][/us/stat/128/1243].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2036(b), Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1041, June 10, 2014, [128 Stat. 1243][/us/stat/128/1243].)
 
  __Codification__ 
 
@@ -67,9 +67,9 @@
 [/us/usc/t33/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283
 [/us/usc/t33/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283
 [/us/usc/t33/s2283/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283%2Fd%2F4%2FB
-[/us/pl/110/114/s2036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fb
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1094
-[/us/pl/113/121/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1041
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1243
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2

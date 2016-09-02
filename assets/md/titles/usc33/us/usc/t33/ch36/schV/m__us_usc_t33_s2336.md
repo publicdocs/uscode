@@ -45,7 +45,7 @@
 
         There is authorized to be appropriated to carry out this section $20,000,000.
 
-([Pub. L. 106–53, title V, § 560][/us/pl/106/53/s560], Aug. 17, 1999, [113 Stat. 354][/us/stat/113/354]; [Pub. L. 108–137, title I, § 118][/us/pl/108/137/s118], Dec. 1, 2003, [117 Stat. 1836][/us/stat/117/1836]; [Pub. L. 110–114, title II, § 2025][/us/pl/110/114/s2025], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079].)
+([Pub. L. 106–53, title V][/us/pl/106/53/tV], § 560, Aug. 17, 1999, [113 Stat. 354][/us/stat/113/354]; [Pub. L. 108–137, title I][/us/pl/108/137/tI], § 118, Dec. 1, 2003, [117 Stat. 1836][/us/stat/117/1836]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2025, Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/106/53/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs560
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F354
-[/us/pl/108/137/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs118
+[/us/pl/108/137/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2FtI
 [/us/stat/117/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1836
-[/us/pl/110/114/s2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2025
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1079
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445

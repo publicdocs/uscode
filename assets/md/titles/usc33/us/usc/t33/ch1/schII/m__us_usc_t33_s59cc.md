@@ -115,7 +115,7 @@
 
         (2) the area surrounding such structure.
 
-([Pub. L. 102–240, title I, § 1078][/us/pl/102/240/s1078], Dec. 18, 1991, [105 Stat. 2015][/us/stat/105/2015].)
+([Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1078, Dec. 18, 1991, [105 Stat. 2015][/us/stat/105/2015].)
 
  __References in Text__ 
 
@@ -130,7 +130,7 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/102/240/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1078
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2015
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

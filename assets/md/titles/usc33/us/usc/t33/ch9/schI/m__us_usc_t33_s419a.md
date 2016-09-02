@@ -17,7 +17,7 @@
 
     The Secretary of the Army, acting through the Chief of Engineers, shall utilize and encourage the utilization of such management practices as he determines appropriate to extend the capacity and useful life of dredged material disposal areas such that the need for new dredged material disposal areas is kept to a minimum. Management practices authorized by this section shall include, but not be limited to, the construction of dikes, consolidation and dewatering of dredged material, and construction of drainage and outflow facilities.
 
-([Pub. L. 94–587, § 148][/us/pl/94/587/s148], Oct. 22, 1976, [90 Stat. 2931][/us/stat/90/2931].)
+([Pub. L. 94–587][/us/pl/94/587], § 148, Oct. 22, 1976, [90 Stat. 2931][/us/stat/90/2931].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/587/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs148
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2931
 
 

@@ -45,21 +45,21 @@
 
         The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
 
-([Pub. L. 92–532, title II, § 202][/us/pl/92/532/s202], Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060]; [Pub. L. 94–62, § 2][/us/pl/94/62/s2], July 25, 1975, [89 Stat. 303][/us/stat/89/303]; [Pub. L. 96–381, § 3][/us/pl/96/381/s3], Oct. 6, 1980, [94 Stat. 1524][/us/stat/94/1524]; [Pub. L. 96–470, title II, § 201(f)][/us/pl/96/470/s201/f], Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242]; [Pub. L. 99–272, title VI, § 6062][/us/pl/99/272/s6062], Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131]; [Pub. L. 100–627, title I, § 101][/us/pl/100/627/s101], Nov. 7, 1988, [102 Stat. 3213][/us/stat/102/3213].)
+([Pub. L. 92–532, title II][/us/pl/92/532/tII], § 202, Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060]; [Pub. L. 94–62][/us/pl/94/62], § 2, July 25, 1975, [89 Stat. 303][/us/stat/89/303]; [Pub. L. 96–381][/us/pl/96/381], § 3, Oct. 6, 1980, [94 Stat. 1524][/us/stat/94/1524]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 201(f), Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6062, Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131]; [Pub. L. 100–627, title I][/us/pl/100/627/tI], § 101, Nov. 7, 1988, [102 Stat. 3213][/us/stat/102/3213].)
 
  __References in Text__ 
 
-    [Section 1703 of this title][/us/usc/t33/s1703], referred to in subsec. (a)(3), was repealed by [Pub. L. 102–567, title II, § 204][/us/pl/102/567/s204], Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282].
+    [Section 1703 of this title][/us/usc/t33/s1703], referred to in subsec. (a)(3), was repealed by [Pub. L. 102–567, title II][/us/pl/102/567/tII], § 204, Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282].
 
  __Amendments__ 
 
     1988—Subsec. (a)(3). [Pub. L. 100–627][/us/pl/100/627] added par. (3).
 
-    1986—Subsec. (a). [Pub. L. 99–272, § 6062(1)][/us/pl/99/272/s6062/1]–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
+    1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 99–272, § 6062(4)][/us/pl/99/272/s6062/4], redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by [section 665 of title 16][/us/usc/t16/s665] on activities of the Department of Commerce under that section.
+    Subsec. (c). [Pub. L. 99–272][/us/pl/99/272], § 6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by [section 665 of title 16][/us/usc/t16/s665] on activities of the Department of Commerce under that section.
 
-    Subsecs. (d), (e). [Pub. L. 99–272, § 6062(4)][/us/pl/99/272/s6062/4], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsecs. (d), (e). [Pub. L. 99–272][/us/pl/99/272], § 6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
     1980—Subsec. (a). [Pub. L. 96–381][/us/pl/96/381] inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
 
@@ -79,26 +79,26 @@
 ----------
 
 [/us/usc/t33/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1443
-[/us/pl/92/532/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs202
+[/us/pl/92/532/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtII
 [/us/stat/86/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1060
-[/us/pl/94/62/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F62%2Fs2
+[/us/pl/94/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F62
 [/us/stat/89/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F303
-[/us/pl/96/381/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381%2Fs3
+[/us/pl/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381
 [/us/stat/94/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1524
-[/us/pl/96/470/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs201%2Ff
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2242
-[/us/pl/99/272/s6062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6062
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F131
-[/us/pl/100/627/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs101
+[/us/pl/100/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtI
 [/us/stat/102/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3213
 [/us/usc/t33/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1703
-[/us/pl/102/567/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs204
+[/us/pl/102/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtII
 [/us/stat/106/4282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4282
 [/us/pl/100/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627
-[/us/pl/99/272/s6062/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6062%2F1
-[/us/pl/99/272/s6062/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6062%2F4
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t16/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs665
-[/us/pl/99/272/s6062/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6062%2F4
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/96/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F381
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/usc/t16/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs665

@@ -23,7 +23,7 @@
 
         Nothing in this chapter limits, denies, amends, modifies, or repeals any rights under existing law, of any State, territory, or possession of the United States, or any political subdivision thereof, to regulate any antifouling system. Compliance with the requirements of a State, territory, or possession of the United States, or political subdivision thereof related to antifouling paint or any other antifouling system does not relieve any person of the obligation to comply with this chapter.
 
-([Pub. L. 111–281, title X, § 1047][/us/pl/111/281/s1047], Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1047, Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1047
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3031
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

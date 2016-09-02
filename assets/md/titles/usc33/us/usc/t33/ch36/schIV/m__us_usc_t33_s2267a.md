@@ -93,15 +93,15 @@
 
                 The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
 
-([Pub. L. 99–662, title VII, § 729][/us/pl/99/662/s729], Nov. 17, 1986, [100 Stat. 4164][/us/stat/100/4164]; [Pub. L. 106–541, title II, § 202][/us/pl/106/541/s202], Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II, § 2010][/us/pl/110/114/s2010], Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 729, Nov. 17, 1986, [100 Stat. 4164][/us/stat/100/4164]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 202, Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2010, Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074].)
 
  __Amendments__ 
 
-    2007—Subsec. (d)(6) to (10). [Pub. L. 110–114, § 2010(1)][/us/pl/110/114/s2010/1], added pars. (6) to (10).
+    2007—Subsec. (d)(6) to (10). [Pub. L. 110–114][/us/pl/110/114], § 2010(1), added pars. (6) to (10).
 
-    Subsec. (f)(1). [Pub. L. 110–114, § 2010(2)][/us/pl/110/114/s2010/2], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.”
+    Subsec. (f)(1). [Pub. L. 110–114][/us/pl/110/114], § 2010(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.”
 
-    Subsec. (g). [Pub. L. 110–114, § 2010(3)][/us/pl/110/114/s2010/3], struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.”
+    Subsec. (g). [Pub. L. 110–114][/us/pl/110/114], § 2010(3), struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.”
 
     2000—[Pub. L. 106–541][/us/pl/106/541] amended section catchline and text generally. Prior to amendment, section read as follows:
 
@@ -118,15 +118,15 @@
 ----------
 ----------
 
-[/us/pl/99/662/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs729
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4164
-[/us/pl/106/541/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs202
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2587
-[/us/pl/110/114/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2010
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1074
-[/us/pl/110/114/s2010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2010%2F1
-[/us/pl/110/114/s2010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2010%2F2
-[/us/pl/110/114/s2010/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2010%2F3
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 
 

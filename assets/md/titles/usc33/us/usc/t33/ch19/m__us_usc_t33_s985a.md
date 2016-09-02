@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any bond issued under [section 985 of this title][/us/usc/t33/s985], is hereby canceled together with the obligation to pay such bond.
 
-([Pub. L. 97–369, title III, § 311][/us/pl/97/369/s311], Dec. 18, 1982, [96 Stat. 1782][/us/stat/96/1782].)
+([Pub. L. 97–369, title III][/us/pl/97/369/tIII], § 311, Dec. 18, 1982, [96 Stat. 1782][/us/stat/96/1782].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t33/s985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs985
-[/us/pl/97/369/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369%2Fs311
+[/us/pl/97/369/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369%2FtIII
 [/us/stat/96/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1782
 [/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F903

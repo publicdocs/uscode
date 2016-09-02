@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter, the term “marine science” shall be deemed to apply to oceanographic and scientific endeavors and disciplines, and engineering and technology in and with relation to the marine environment; and the term “marine environment” shall be deemed to include (a) the oceans, (b) the Continental Shelf of the United States, (c) the Great Lakes, (d) seabed and subsoil of the submarine areas adjacent to the coasts of the United States to the depth of two hundred meters, or beyond that limit, to where the depths of the superjacent waters admit of the exploitation of the natural resources of such areas, (e) the seabed and subsoil of similar submarine areas adjacent to the coasts of islands which comprise United States territory, and (f) the resources thereof.
 
-([Pub. L. 89–454, title I, § 8][/us/pl/89/454/s8], June 17, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 89–688, § 2(b)][/us/pl/89/688/s2/b], Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001].)
+([Pub. L. 89–454, title I][/us/pl/89/454/tI], § 8, June 17, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 89–688][/us/pl/89/688], § 2(b), Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/454/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs8
+[/us/pl/89/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtI
 [/us/stat/80/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F208
-[/us/pl/89/688/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688%2Fs2%2Fb
+[/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 [/us/stat/80/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1001
 [/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 

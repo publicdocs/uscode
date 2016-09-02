@@ -17,7 +17,7 @@
 
     Authorities, requirements, and remedies of this chapter supplement and neither amend nor repeal any other authorities, requirements, or remedies conferred by any other provision of law. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other authority, requirement, or remedy available to the United States or any other person, except as expressly provided in this chapter.
 
-([Pub. L. 96–478, § 15][/us/pl/96/478/s15], Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 110–280, § 11][/us/pl/110/280/s11], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
+([Pub. L. 96–478][/us/pl/96/478], § 15, Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 110–280][/us/pl/110/280], § 11, July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/478/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs15
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2303
-[/us/pl/110/280/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs11
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2615
 [/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 

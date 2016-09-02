@@ -17,7 +17,7 @@
 
     On and after July 24, 1946, for authorized flood protection projects which include alterations of railroad bridges the Chief of Engineers is authorized to include at Federal expense the necessary alterations of railroad bridges and approaches in connection therewith.
 
-([July 24, 1946, ch. 596, § 3][/us/act/1946-07-24/ch596/s3], [60 Stat. 642][/us/stat/60/642].)
+([July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], § 3, [60 Stat. 642][/us/stat/60/642].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-24/ch596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596%2Fs3
+[/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F642
 
 

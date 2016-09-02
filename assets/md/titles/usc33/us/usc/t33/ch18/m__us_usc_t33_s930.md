@@ -39,19 +39,19 @@
 
         Where the employer or the carrier has been given notice, or the employer (or his agent in charge of the business in the place where the injury occurred) or the carrier has knowledge, of any injury or death of an employee and fails, neglects, or refuses to file report thereof as required by the provisions of subsection (a) of this section, the limitations in subsection (a) of [section 913 of this title][/us/usc/t33/s913] shall not begin to run against the claim of the injured employee or his dependents entitled to compensation, or in favor of either the employer or the carrier, until such report shall have been furnished as required by the provisions of subsection (a) of this section.
 
-([Mar. 4, 1927, ch. 509, § 30][/us/act/1927-03-04/ch509/s30], [44 Stat. 1439][/us/stat/44/1439]; [June 25, 1938, ch. 685, § 11][/us/act/1938-06-25/ch685/s11], [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 98–426][/us/pl/98/426], §§ 18, 27(a)(2), Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650], 1654.)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 30, [44 Stat. 1439][/us/stat/44/1439]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 11, [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 98–426][/us/pl/98/426], §§ 18, 27(a)(2), Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650], 1654.)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–426, § 18(a)(1)][/us/pl/98/426/s18/a/1], inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
+    1984—Subsec. (a). [Pub. L. 98–426][/us/pl/98/426], § 18(a)(1), inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
 
-    [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    [Pub. L. 98–426, § 18(a)(2)][/us/pl/98/426/s18/a/2], inserted at end “Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.”
+    [Pub. L. 98–426][/us/pl/98/426], § 18(a)(2), inserted at end “Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.”
 
-    Subsecs. (b), (d). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    Subsecs. (b), (d). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    Subsec. (e). [Pub. L. 98–426, § 18(b)][/us/pl/98/426/s18/b], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal.”
+    Subsec. (e). [Pub. L. 98–426][/us/pl/98/426], § 18(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal.”
 
     1938—Subsec. (f). Act June 25, 1938, added subsec. (f).
 
@@ -67,19 +67,19 @@
 ----------
 
 [/us/usc/t33/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs913
-[/us/act/1927-03-04/ch509/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs30
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1439
-[/us/act/1938-06-25/ch685/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs11
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1167
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1650
-[/us/pl/98/426/s18/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs18%2Fa%2F1
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s18/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs18%2Fa%2F2
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs18%2Fb
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901

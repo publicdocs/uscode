@@ -43,7 +43,7 @@
 
         To carry out interagency activities under [section 3502 of this title][/us/usc/t33/s3502], the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by [section 883e of this title][/us/usc/t33/s883e].
 
-([Pub. L. 111–11, title XII, § 12207][/us/pl/111/11/s12207], Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12207, Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
 
 ----------
 
@@ -56,7 +56,7 @@
 [/us/usc/t33/s3504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3504%2Fc
 [/us/usc/t33/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3502
 [/us/usc/t33/s883e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883e
-[/us/pl/111/11/s12207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12207
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1426
 
 

@@ -27,7 +27,7 @@
 
         Any person who shall receive any compensation, rebate, or reward, or shall enter into any conspiracy, collusion, or agreement, express or implied, with intent to defraud the Corporation or wrongfully and unlawfully to defeat its purposes, shall, on conviction thereof, be fined not more than $5,000 or imprisoned not more than five years, or both.
 
-([May 13, 1954, ch. 201, § 9][/us/act/1954-05-13/ch201/s9], [68 Stat. 96][/us/stat/68/96].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 9, [68 Stat. 96][/us/stat/68/96].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1954-05-13/ch201/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs9
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F96
 
 

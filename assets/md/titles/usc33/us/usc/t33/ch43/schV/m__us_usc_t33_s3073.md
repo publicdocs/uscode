@@ -17,7 +17,7 @@
 
     The Secretary may provide medical and dental care, including care in private facilities, for personnel of the Administration entitled to that care by law or regulation.
 
-([Pub. L. 107–372, title II, § 263][/us/pl/107/372/s263], Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 263, Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs263
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3093
 [/us/usc/t33/s857–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%933%2Fb
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

@@ -21,7 +21,7 @@
 
     (2) relieving an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee.
 
-([Pub. L. 110–114, title IX, § 9007][/us/pl/110/114/s9007], formerly § 9005, Nov. 8, 2007, [121 Stat. 1290][/us/stat/121/1290]; renumbered § 9007, [Pub. L. 113–121, title III, § 3016(e)(1)][/us/pl/113/121/s3016/e/1], June 10, 2014, [128 Stat. 1293][/us/stat/128/1293].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9007, formerly § 9005, Nov. 8, 2007, [121 Stat. 1290][/us/stat/121/1290]; renumbered § 9007, [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(e)(1), June 10, 2014, [128 Stat. 1293][/us/stat/128/1293].)
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/110/114/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9007
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1290
-[/us/pl/113/121/s3016/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fe%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1293
 
 

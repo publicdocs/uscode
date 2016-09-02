@@ -17,7 +17,7 @@
 
     The surveys authorized to be performed under the direction of the Secretary of the Army as well as all duties performed by the Chief of Engineers under the direction of the Secretary of the Army shall be functions of the Engineer Corps, United States Army, and its head, to be administered under the direction of the Secretary of the Army and the supervision of the Chief of Engineers except as otherwise specifically provided by Congress: Provided, That the power and authority conferred by the Flood Control Act of June 28, 1938, and previously conferred, upon the Federal Power Commission shall remain in full force and effect: Provided, That no preliminary examination, survey, project, or estimate for new works other than those designated in this Act or some prior Act or joint resolution shall be made: Provided further, That after the regular or formal reports made as required by law on any examination, survey, project, or work under way or proposed, are submitted, no supplemental or additional report or estimate shall be made unless authorized by law.
 
-([Aug. 11, 1939, ch. 699, § 6][/us/act/1939-08-11/ch699/s6], [53 Stat. 1415][/us/stat/53/1415]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([Aug. 11, 1939, ch. 699][/us/act/1939-08-11/ch699], § 6, [53 Stat. 1415][/us/stat/53/1415]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Transfer of Functions__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-11/ch699/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch699%2Fs6
+[/us/act/1939-08-11/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch699
 [/us/stat/53/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1415
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
@@ -50,7 +50,7 @@
 [/us/stat/52/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1215
 [/us/act/1939-08-11/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch699
 [/us/stat/53/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1414
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

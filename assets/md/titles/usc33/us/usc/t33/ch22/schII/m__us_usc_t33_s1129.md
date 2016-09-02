@@ -23,7 +23,7 @@
 
     (3) shall cooperate with the Administration and duly authorized officials thereof.
 
-([Pub. L. 89–454, title II, § 210][/us/pl/89/454/s210], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1968][/us/stat/90/1968]; amended [Pub. L. 100–220, title III, § 3104(b)(1)(G)][/us/pl/100/220/s3104/b/1/G], Dec. 29, 1987, [101 Stat. 1471][/us/stat/101/1471].)
+([Pub. L. 89–454, title II][/us/pl/89/454/tII], § 210, as added [Pub. L. 94–461][/us/pl/94/461], § 2, Oct. 8, 1976, [90 Stat. 1968][/us/stat/90/1968]; amended [Pub. L. 100–220, title III][/us/pl/100/220/tIII], § 3104(b)(1)(G), Dec. 29, 1987, [101 Stat. 1471][/us/stat/101/1471].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/89/454/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs210
-[/us/pl/94/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs2
+[/us/pl/89/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtII
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1968
-[/us/pl/100/220/s3104/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs3104%2Fb%2F1%2FG
+[/us/pl/100/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIII
 [/us/stat/101/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1471
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 

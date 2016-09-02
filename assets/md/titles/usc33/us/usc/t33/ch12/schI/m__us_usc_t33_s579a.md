@@ -77,7 +77,7 @@
 
         The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.
 
-([Pub. L. 99–662, title X, § 1001][/us/pl/99/662/s1001], Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201]; [Pub. L. 101–640, title I, § 119(a)][/us/pl/101/640/s119/a], Nov. 28, 1990, [104 Stat. 4630][/us/stat/104/4630]; [Pub. L. 104–303, title II, § 228(a)][/us/pl/104/303/s228/a], Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703]; [Pub. L. 106–109, § 8(d)][/us/pl/106/109/s8/d], Nov. 24, 1999, [113 Stat. 1496][/us/stat/113/1496]; [Pub. L. 110–114, title II, § 2046][/us/pl/110/114/s2046], Nov. 8, 2007, [121 Stat. 1105][/us/stat/121/1105]; [Pub. L. 113–121, title VI, § 6001(b)][/us/pl/113/121/s6001/b], June 10, 2014, [128 Stat. 1345][/us/stat/128/1345].)
+([Pub. L. 99–662, title X][/us/pl/99/662/tX], § 1001, Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201]; [Pub. L. 101–640, title I][/us/pl/101/640/tI], § 119(a), Nov. 28, 1990, [104 Stat. 4630][/us/stat/104/4630]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 228(a), Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703]; [Pub. L. 106–109][/us/pl/106/109], § 8(d), Nov. 24, 1999, [113 Stat. 1496][/us/stat/113/1496]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2046, Nov. 8, 2007, [121 Stat. 1105][/us/stat/121/1105]; [Pub. L. 113–121, title VI][/us/pl/113/121/tVI], § 6001(b), June 10, 2014, [128 Stat. 1345][/us/stat/128/1345].)
 
  __References in Text__ 
 
@@ -87,11 +87,11 @@
 
     2014—Subsec. (b)(3), (4). [Pub. L. 113–121][/us/pl/113/121] added pars. (3) and (4).
 
-    2007—Subsec. (b)(2). [Pub. L. 110–114, § 2046(3)][/us/pl/110/114/s2046/3], which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
+    2007—Subsec. (b)(2). [Pub. L. 110–114][/us/pl/110/114], § 2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
 
-    [Pub. L. 110–114, § 2046(2)][/us/pl/110/114/s2046/2], in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
+    [Pub. L. 110–114][/us/pl/110/114], § 2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
 
-    [Pub. L. 110–114, § 2046(1)][/us/pl/110/114/s2046/1], in first sentence, substituted “year” for “two years” and “5” for “7”.
+    [Pub. L. 110–114][/us/pl/110/114], § 2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”.
 
     1999—Subsec. (b)(2). [Pub. L. 106–109][/us/pl/106/109], in first sentence, substituted “Notwithstanding [section 3003 of Public Law 104–66][/us/pl/104/66/s3003] ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734][/us/stat/109/734]), every” for “Every”.
 
@@ -101,7 +101,7 @@
 
  __Project Deauthorizations; Extension of Limitation on Period of Authorization__ 
 
-    [Pub. L. 100–676, § 52(a)][/us/pl/100/676/s52/a], Nov. 17, 1988, [102 Stat. 4044][/us/stat/102/4044], which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by [Pub. L. 100–676][/us/pl/100/676] (see Short Title of 1988 Amendment note set out under [section 2201 of this title][/us/usc/t33/s2201]), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to [Pub. L. 100–676][/us/pl/100/676], except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by [Pub. L. 104–303, title II, § 228(b)(1)][/us/pl/104/303/s228/b/1], Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].
+    [Pub. L. 100–676][/us/pl/100/676], § 52(a), Nov. 17, 1988, [102 Stat. 4044][/us/stat/102/4044], which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by [Pub. L. 100–676][/us/pl/100/676] (see Short Title of 1988 Amendment note set out under [section 2201 of this title][/us/usc/t33/s2201]), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to [Pub. L. 100–676][/us/pl/100/676], except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 228(b)(1), Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].
 
  __“Secretary” Defined__ 
 
@@ -117,37 +117,37 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/99/662/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1001
+[/us/pl/99/662/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtX
 [/us/stat/100/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4201
-[/us/pl/101/640/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs119%2Fa
+[/us/pl/101/640/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtI
 [/us/stat/104/4630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4630
-[/us/pl/104/303/s228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs228%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3703
-[/us/pl/106/109/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109%2Fs8%2Fd
+[/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/stat/113/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1496
-[/us/pl/110/114/s2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2046
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1105
-[/us/pl/113/121/s6001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001%2Fb
+[/us/pl/113/121/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtVI
 [/us/stat/128/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1345
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/110/114/s2046/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2046%2F3
-[/us/pl/110/114/s2046/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2046%2F2
-[/us/pl/110/114/s2046/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2046%2F1
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
-[/us/pl/100/676/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs52%2Fa
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4044
 [/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 [/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
-[/us/pl/104/303/s228/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs228%2Fb%2F1
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3703
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

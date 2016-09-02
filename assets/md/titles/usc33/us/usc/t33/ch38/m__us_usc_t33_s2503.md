@@ -31,7 +31,7 @@
 
         (B) in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
 
-([Pub. L. 100–688, title III, § 3104][/us/pl/100/688/s3104], Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
+([Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3104, Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3104
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4152
 
 

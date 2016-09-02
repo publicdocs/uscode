@@ -29,7 +29,7 @@
 
         If the Secretary determines that immediate suspension of the construction or operation of a deepwater port or any component thereof is necessary to protect public health or safety or to eliminate imminent and substantial danger to the environment, he shall order the licensee to cease or alter such construction or operation pending the completion of a judicial proceeding pursuant to subsection (a) of this section.
 
-([Pub. L. 93–627, § 12][/us/pl/93/627/s12], Jan. 3, 1975, [88 Stat. 2138][/us/stat/88/2138].)
+([Pub. L. 93–627][/us/pl/93/627], § 12, Jan. 3, 1975, [88 Stat. 2138][/us/stat/88/2138].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/93/627/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs12
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2138
 [/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 

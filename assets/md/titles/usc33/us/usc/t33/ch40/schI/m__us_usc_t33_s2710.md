@@ -27,7 +27,7 @@
 
         Nothing in this Act, including the provisions of subsection (b) of this section, bars a cause of action that a responsible party subject to liability under this Act, or a guarantor, has or would have, by reason of subrogation or otherwise, against any person.
 
-([Pub. L. 101–380, title I, § 1010][/us/pl/101/380/s1010], Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1010, Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/380/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1010
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F498
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

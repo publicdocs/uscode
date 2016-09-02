@@ -17,7 +17,7 @@
 
     No payment under sections 771 to 775 of this title shall be assignable, either in law or in equity, or be subject to execution, levy, lien, attachment, garnishment, or other legal process.
 
-([Aug. 19, 1950, ch. 761, § 5][/us/act/1950-08-19/ch761/s5], [64 Stat. 466][/us/stat/64/466].)
+([Aug. 19, 1950, ch. 761][/us/act/1950-08-19/ch761], § 5, [64 Stat. 466][/us/stat/64/466].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-19/ch761/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761%2Fs5
+[/us/act/1950-08-19/ch761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761
 [/us/stat/64/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F466
 
 

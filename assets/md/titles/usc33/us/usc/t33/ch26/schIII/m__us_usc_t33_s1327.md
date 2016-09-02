@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 317, as added Oct. 18, 1972, [Pub. L. 92–500, § 2][/us/pl/92/500/s2], [86 Stat. 877][/us/stat/86/877], authorized Administrator to investigate and study feasibility of alternate methods of financing cost of preventing, controlling, and abating pollution as directed by Water Quality Improvement Act of 1970 and to report to Congress, not later than two years after Oct. 18, 1972, the results of investigation and study accompanied by recommendations for financing these programs for fiscal years beginning after 1976.
+    Section, [act June 30, 1948, ch. 758, title III][/us/act/1948-06-30/ch758/tIII], § 317, as added Oct. 18, 1972, [Pub. L. 92–500][/us/pl/92/500], § 2, [86 Stat. 877][/us/stat/86/877], authorized Administrator to investigate and study feasibility of alternate methods of financing cost of preventing, controlling, and abating pollution as directed by Water Quality Improvement Act of 1970 and to report to Congress, not later than two years after Oct. 18, 1972, the results of investigation and study accompanied by recommendations for financing these programs for fiscal years beginning after 1976.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/act/1948-06-30/ch758/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758%2FtIII
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F877
 
 

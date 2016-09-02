@@ -17,7 +17,7 @@
 
     In time of emergency declared by the President or by the Congress, and in time of war, the President is authorized, in the President’s discretion, to suspend the operation of all or any part of the provisions of law pertaining to promotion of commissioned officers of the Administration.
 
-([Pub. L. 107–372, title II, § 233][/us/pl/107/372/s233], Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 233, Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs233
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3088
 [/us/usc/t33/s853i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853i%2Fb
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

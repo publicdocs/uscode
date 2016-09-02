@@ -33,7 +33,7 @@
 
     (b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-([Pub. L. 93–627, § 2][/us/pl/93/627/s2], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126]; [Pub. L. 104–324, title V, § 502(b)][/us/pl/104/324/s502/b], Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925]; [Pub. L. 107–295, title I, § 106(a)(1)][/us/pl/107/295/s106/a/1], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086].)
+([Pub. L. 93–627][/us/pl/93/627], § 2, Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 502(b), Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(a)(1), Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086].)
 
  __Amendments__ 
 
@@ -43,25 +43,25 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–324, title V, § 501][/us/pl/104/324/s501], Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925], provided that: 
+[Pub. L. 104–324, title V][/us/pl/104/324/tV], § 501, Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925], provided that: 
 
 > “This title \[amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing [section 1506 of this title][/us/usc/t33/s1506], and enacting provisions set out as a note under this section\] may be cited as the ‘Deepwater Port Modernization Act’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–419, § 1][/us/pl/98/419/s1], Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607], provided: 
+[Pub. L. 98–419][/us/pl/98/419], § 1, Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607], provided: 
 
 > “That this Act \[amending sections 1502, 1503, 1504, 1506, 1507, 1517, and 1518 of this title and enacting provisions set out as a note under [section 1518 of this title][/us/usc/t33/s1518]\] may be cited as the ‘Deepwater Port Act Amendments of 1984’.”
 
  __Short Title__ 
 
-[Pub. L. 93–627, § 1][/us/pl/93/627/s1], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], provided: 
+[Pub. L. 93–627][/us/pl/93/627], § 1, Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], provided: 
 
 > “That this Act \[enacting this chapter and amending [section 1333 of Title 43][/us/usc/t43/s1333], Public Lands\] may be cited as the ‘Deepwater Port Act of 1974’.”
 
  __Congressional Purposes for 1996 Amendments__ 
 
-[Pub. L. 104–324, title V, § 502(a)][/us/pl/104/324/s502/a], Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925], provided that: 
+[Pub. L. 104–324, title V][/us/pl/104/324/tV], § 502(a), Oct. 19, 1996, [110 Stat. 3925][/us/stat/110/3925], provided that: 
 
 > “The purposes of this title \[see Short Title of 1996 Amendment note above\] are to—
 
@@ -88,24 +88,24 @@
 ----------
 ----------
 
-[/us/pl/93/627/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs2
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2126
-[/us/pl/104/324/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs502%2Fb
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3925
-[/us/pl/107/295/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fa%2F1
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/104/324/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs501
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3925
 [/us/usc/t33/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1506
-[/us/pl/98/419/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs1
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1607
 [/us/usc/t33/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1518
-[/us/pl/93/627/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs1
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2126
 [/us/usc/t43/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1333
-[/us/pl/104/324/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs502%2Fa
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3925
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509

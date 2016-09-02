@@ -31,17 +31,17 @@
 
         The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
-([Pub. L. 86–645, title II, § 206][/us/pl/86/645/s206], July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 89–298, title II, § 220][/us/pl/89/298/s220], Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089]; [Pub. L. 89–789, title II, § 206][/us/pl/89/789/s206], Nov. 7, 1966, [80 Stat. 1422][/us/stat/80/1422]; [Pub. L. 91–611, title II, § 225][/us/pl/91/611/s225], Dec. 31, 1970, [84 Stat. 1832][/us/stat/84/1832]; [Pub. L. 93–251, title I, § 64][/us/pl/93/251/s64], Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30]; [Pub. L. 101–640, title III, § 321][/us/pl/101/640/s321], Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643]; [Pub. L. 106–53, title II][/us/pl/106/53], §§ 202, 216, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], 293; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 113–121, title I, § 1030(h)][/us/pl/113/121/s1030/h], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([Pub. L. 86–645, title II][/us/pl/86/645/tII], § 206, July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 89–298, title II][/us/pl/89/298/tII], § 220, Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089]; [Pub. L. 89–789, title II][/us/pl/89/789/tII], § 206, Nov. 7, 1966, [80 Stat. 1422][/us/stat/80/1422]; [Pub. L. 91–611, title II][/us/pl/91/611/tII], § 225, Dec. 31, 1970, [84 Stat. 1832][/us/stat/84/1832]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 64, Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 321, Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], §§ 202, 216, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], 293; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(h), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
 
     2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “$50,000,000” for “$15,000,000”.
 
-    1999—Subsec. (b). [Pub. L. 106–53, § 216][/us/pl/106/53/s216], added subsec. (b). Former subsec. (b) redesignated (c).
+    1999—Subsec. (b). [Pub. L. 106–53][/us/pl/106/53], § 216, added subsec. (b). Former subsec. (b) redesignated (c).
 
-    [Pub. L. 106–53, § 202][/us/pl/106/53/s202], inserted before period at end of third sentence “, but the Secretary of the Army may accept funds voluntarily contributed by such entities for the purpose of expanding the scope of the services requested by the entities”.
+    [Pub. L. 106–53][/us/pl/106/53], § 202, inserted before period at end of third sentence “, but the Secretary of the Army may accept funds voluntarily contributed by such entities for the purpose of expanding the scope of the services requested by the entities”.
 
-    Subsecs. (c), (d). [Pub. L. 106–53, § 216(1)][/us/pl/106/53/s216/1], redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (c), (d). [Pub. L. 106–53][/us/pl/106/53], § 216(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
     1990—[Pub. L. 101–640][/us/pl/101/640] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -66,28 +66,28 @@
 ----------
 ----------
 
-[/us/pl/86/645/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645%2Fs206
+[/us/pl/86/645/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645%2FtII
 [/us/stat/74/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F500
-[/us/pl/89/298/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs220
+[/us/pl/89/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtII
 [/us/stat/79/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1089
-[/us/pl/89/789/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F789%2Fs206
+[/us/pl/89/789/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F789%2FtII
 [/us/stat/80/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1422
-[/us/pl/91/611/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs225
+[/us/pl/91/611/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtII
 [/us/stat/84/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1832
-[/us/pl/93/251/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs64
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F30
-[/us/pl/101/640/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs321
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4643
-[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/113/121/s1030/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fh
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/106/53/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs216
-[/us/pl/106/53/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs202
-[/us/pl/106/53/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs216%2F1
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/pl/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611

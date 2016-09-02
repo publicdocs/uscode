@@ -69,7 +69,7 @@
 
             (B) against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent.
 
-([Pub. L. 101–380, title I, § 1017][/us/pl/101/380/s1017], Aug. 18, 1990, [104 Stat. 504][/us/stat/104/504].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1017, Aug. 18, 1990, [104 Stat. 504][/us/stat/104/504].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t33/s2702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F2%2FA
 [/us/usc/t33/s2706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2706%2Fc
 [/us/usc/t33/s2702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F1
-[/us/pl/101/380/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1017
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F504
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

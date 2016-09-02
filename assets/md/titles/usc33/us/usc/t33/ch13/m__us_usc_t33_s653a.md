@@ -23,7 +23,7 @@
 
     (3) the area in the State of Illinois from the confluence of the Mississippi and Ohio Rivers northward to the vicinity of Mississippi River mile 39.5, including the Len Small Drainage and Levee District, insofar as such area is affected by the flood waters of the Mississippi River.
 
-([Pub. L. 104–303, title V, § 517][/us/pl/104/303/s517], Oct. 12, 1996, [110 Stat. 3764][/us/stat/110/3764].)
+([Pub. L. 104–303, title V][/us/pl/104/303/tV], § 517, Oct. 12, 1996, [110 Stat. 3764][/us/stat/110/3764].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t33/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs641
-[/us/pl/104/303/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs517
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3764
 
 

@@ -161,7 +161,7 @@
 
         If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “subsection (a)(2)”. </sup></sup>  of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
 
-([Pub. L. 107–66, title I, § 107][/us/pl/107/66/s107], Nov. 12, 2001, [115 Stat. 494][/us/stat/115/494].)
+([Pub. L. 107–66, title I][/us/pl/107/66/tI], § 107, Nov. 12, 2001, [115 Stat. 494][/us/stat/115/494].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 [/us/stat/30/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1121
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/107/66/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2Fs107
+[/us/pl/107/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2FtI
 [/us/stat/115/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F494
 [/us/act/1899-03-03/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425
 [/us/stat/30/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1121

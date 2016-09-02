@@ -247,7 +247,7 @@
 
         (2) submit to the Committee on Banking, Housing, and Urban Affairs and the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “Committee on”. </sup></sup>  Commerce, Science, and Transportation of the Senate and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings of the Comptroller General with respect to the audit completed under paragraph (1).
 
-([Pub. L. 111–11, title XII, § 12312][/us/pl/111/11/s12312], as added [Pub. L. 112–141, div. F, title II, § 100252][/us/pl/112/141/s100252], July 6, 2012, [126 Stat. 969][/us/stat/126/969].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12312, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100252, July 6, 2012, [126 Stat. 969][/us/stat/126/969].)
 
  __References in Text__ 
 
@@ -264,8 +264,8 @@
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/usc/t42/s4057/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4057%2Fa
 [/us/usc/t42/s4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4057
-[/us/pl/111/11/s12312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12312
-[/us/pl/112/141/s100252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100252
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F969
 [/us/usc/t42/s4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4057
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001

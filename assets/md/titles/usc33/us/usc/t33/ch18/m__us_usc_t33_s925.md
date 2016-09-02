@@ -17,7 +17,7 @@
 
     Witnesses summoned in a proceeding before a deputy commissioner or whose depositions are taken shall receive the same fees and mileage as witnesses in courts of the United States.
 
-([Mar. 4, 1927, ch. 509, § 25][/us/act/1927-03-04/ch509/s25], [44 Stat. 1437][/us/stat/44/1437].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 25, [44 Stat. 1437][/us/stat/44/1437].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs25
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1437
 
 

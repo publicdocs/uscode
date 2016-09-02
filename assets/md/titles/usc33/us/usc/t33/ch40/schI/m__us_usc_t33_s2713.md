@@ -87,7 +87,7 @@
 
             (C) shall be at a low interest rate, as determined by the President.
 
-([Pub. L. 101–380, title I, § 1013][/us/pl/101/380/s1013], Aug. 18, 1990, [104 Stat. 501][/us/stat/104/501]; [Pub. L. 104–324, title XI, § 1142(b)][/us/pl/104/324/s1142/b], Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991]; [Pub. L. 108–293, title VII, § 708(a)][/us/pl/108/293/s708/a], Aug. 9, 2004, [118 Stat. 1077][/us/stat/118/1077].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1013, Aug. 18, 1990, [104 Stat. 501][/us/stat/104/501]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1142(b), Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 708(a), Aug. 9, 2004, [118 Stat. 1077][/us/stat/118/1077].)
 
  __References in Text__ 
 
@@ -117,11 +117,11 @@
 [/us/usc/t33/s2714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2714%2Fb
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
 [/us/usc/t33/s2705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2705%2Fa
-[/us/pl/101/380/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1013
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F501
-[/us/pl/104/324/s1142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fb
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3991
-[/us/pl/108/293/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs708%2Fa
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1077
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

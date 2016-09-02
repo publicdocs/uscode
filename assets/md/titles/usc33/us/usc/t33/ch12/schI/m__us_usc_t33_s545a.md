@@ -17,7 +17,7 @@
 
     For preliminary examinations and surveys authorized in previous river and harbor and flood-control Acts, the Secretary of the Army is directed to cause investigations and reports for navigation and allied purposes to be prepared under the supervision of the Chief of Engineers in the form of survey reports, and that preliminary examination reports shall no longer be required to be prepared.
 
-([Pub. L. 85–500, title I, § 105][/us/pl/85/500/s105], July 3, 1958, [72 Stat. 300][/us/stat/72/300].)
+([Pub. L. 85–500, title I][/us/pl/85/500/tI], § 105, July 3, 1958, [72 Stat. 300][/us/stat/72/300].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/500/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs105
+[/us/pl/85/500/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2FtI
 [/us/stat/72/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F300
 [/us/pl/85/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500
 

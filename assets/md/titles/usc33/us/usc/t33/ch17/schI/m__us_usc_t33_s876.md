@@ -17,7 +17,7 @@
 
     No fee of any kind shall be paid to any officer for the performance of any notarial act authorized by [section 875 of this title][/us/usc/t33/s875]. The signature without seal together with indication of grade of any officer performing any notarial act shall be prima facie evidence of his authority.
 
-([Aug. 3, 1956, ch. 932, § 2][/us/act/1956-08-03/ch932/s2], [70 Stat. 988][/us/stat/70/988].)
+([Aug. 3, 1956, ch. 932][/us/act/1956-08-03/ch932], § 2, [70 Stat. 988][/us/stat/70/988].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs875
-[/us/act/1956-08-03/ch932/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch932%2Fs2
+[/us/act/1956-08-03/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch932
 [/us/stat/70/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F988
 
 

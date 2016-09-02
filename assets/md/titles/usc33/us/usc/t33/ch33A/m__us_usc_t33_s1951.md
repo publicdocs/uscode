@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment, and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
-([Pub. L. 109–449, § 2][/us/pl/109/449/s2], Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333]; [Pub. L. 112–213, title VI, § 603][/us/pl/112/213/s603], Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576].)
+([Pub. L. 109–449][/us/pl/109/449], § 2, Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333]; [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 603, Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–213, title VI, § 601][/us/pl/112/213/s601], Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], provided that: 
+[Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 601, Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], provided that: 
 
 > “This title \[amending this section and sections 1952 to 1956 of this title, transferring [section 1914 of this title][/us/usc/t33/s1914] to [section 1954 of this title][/us/usc/t33/s1954], repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
 
  __Short Title__ 
 
-[Pub. L. 109–449, § 1][/us/pl/109/449/s1], Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333], as amended by [Pub. L. 112–213, title VI, § 602(a)][/us/pl/112/213/s602/a], Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], provided that: 
+[Pub. L. 109–449][/us/pl/109/449], § 1, Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333], as amended by [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 602(a), Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], provided that: 
 
 > “This Act \[enacting and amending this chapter\] may be cited as the ‘Marine Debris Act’.”
 
@@ -48,18 +48,18 @@
 ----------
 ----------
 
-[/us/pl/109/449/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs2
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3333
-[/us/pl/112/213/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs603
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1576
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/112/213/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs601
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1576
 [/us/usc/t33/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1914
 [/us/usc/t33/s1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1954
-[/us/pl/109/449/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs1
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3333
-[/us/pl/112/213/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs602%2Fa
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1576
 
 

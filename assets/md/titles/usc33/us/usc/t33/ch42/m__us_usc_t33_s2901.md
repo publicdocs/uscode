@@ -25,29 +25,29 @@
 
     (4) to develop and enhance monitoring and research capabilities through the use of the environmental technology innovation program associated with the National Estuarine Research Reserve System established by [section 1461 of title 16][/us/usc/t16/s1461] to ensure that estuary habitat restoration efforts are based on sound scientific understanding and innovative technologies.
 
-([Pub. L. 106–457, title I, § 102][/us/pl/106/457/s102], Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958]; [Pub. L. 110–114, title V, § 5017(a)][/us/pl/110/114/s5017/a], Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 102, Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(a), Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
 
  __Amendments__ 
 
-    2007—Par. (1). [Pub. L. 110–114, § 5017(a)(1)][/us/pl/110/114/s5017/a/1], inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
+    2007—Par. (1). [Pub. L. 110–114][/us/pl/110/114], § 5017(a)(1), inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
 
-    Par. (2). [Pub. L. 110–114, § 5017(a)(2)][/us/pl/110/114/s5017/a/2], inserted “and implement” after “to develop”.
+    Par. (2). [Pub. L. 110–114][/us/pl/110/114], § 5017(a)(2), inserted “and implement” after “to develop”.
 
-    Par. (3). [Pub. L. 110–114, § 5017(a)(3)][/us/pl/110/114/s5017/a/3], inserted “through cooperative agreements” after “restoration projects”.
+    Par. (3). [Pub. L. 110–114][/us/pl/110/114], § 5017(a)(3), inserted “through cooperative agreements” after “restoration projects”.
 
  __Short Title__ 
 
-[Pub. L. 106–457, § 1(a)][/us/pl/106/457/s1/a], Nov. 7, 2000, [114 Stat. 1957][/us/stat/114/1957], provided that: 
+[Pub. L. 106–457][/us/pl/106/457], § 1(a), Nov. 7, 2000, [114 Stat. 1957][/us/stat/114/1957], provided that: 
 
 > “This Act \[enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and [section 277d–43 of Title 22][/us/usc/t22/s277d–43]\] may be cited as the ‘Estuaries and Clean Waters Act of 2000’.”
 
-[Pub. L. 106–457, title I, § 101][/us/pl/106/457/s101], Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958], provided that: 
+[Pub. L. 106–457, title I][/us/pl/106/457/tI], § 101, Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Estuary Restoration Act of 2000’.”
 
  __Purchase of American-Made Equipment and Products__ 
 
-[Pub. L. 106–457, title IX, § 901][/us/pl/106/457/s901], Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
+[Pub. L. 106–457, title IX][/us/pl/106/457/tIX], § 901, Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Long-Term Estuary Assessment__ 
 
-[Pub. L. 106–457, title IX, § 902][/us/pl/106/457/s902], Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
+[Pub. L. 106–457, title IX][/us/pl/106/457/tIX], § 902, Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -91,21 +91,21 @@
 ----------
 
 [/us/usc/t16/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1461
-[/us/pl/106/457/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs102
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1958
-[/us/pl/110/114/s5017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fa
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1197
-[/us/pl/110/114/s5017/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fa%2F1
-[/us/pl/110/114/s5017/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fa%2F2
-[/us/pl/110/114/s5017/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fa%2F3
-[/us/pl/106/457/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs1%2Fa
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/stat/114/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1957
 [/us/usc/t22/s277d–43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9343
-[/us/pl/106/457/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs101
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1958
-[/us/pl/106/457/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs901
+[/us/pl/106/457/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIX
 [/us/stat/114/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1981
-[/us/pl/106/457/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs902
+[/us/pl/106/457/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIX
 [/us/stat/114/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1981
 
 

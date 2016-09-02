@@ -39,7 +39,7 @@
 
             Any payments received under paragraph (2) that are in excess of the actual cost of training provided shall be credited as miscellaneous receipts to the Treasury of the United States.
 
-([Pub. L. 110–114, title II, § 2016][/us/pl/110/114/s2016], Nov. 8, 2007, [121 Stat. 1076][/us/stat/121/1076].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2016, Nov. 8, 2007, [121 Stat. 1076][/us/stat/121/1076].)
 
  __“Secretary” Defined__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2016
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1076
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

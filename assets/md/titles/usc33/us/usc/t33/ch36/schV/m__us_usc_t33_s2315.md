@@ -17,7 +17,7 @@
 
     Upon receipt of a request from a non-Federal sponsor of a water resources development project under construction by the Secretary, the Secretary shall provide such sponsor with periodic statements of project expenditures. Such statements shall include an estimate of all Federal and non-Federal funds expended by the Secretary, including overhead expenditures, the purpose for expenditures, and a schedule of anticipated expenditures during the remaining period of construction. Statements shall be provided to the sponsor at intervals of no greater than 6 months.
 
-([Pub. L. 100–676, § 10][/us/pl/100/676/s10], Nov. 17, 1988, [102 Stat. 4024][/us/stat/102/4024].)
+([Pub. L. 100–676][/us/pl/100/676], § 10, Nov. 17, 1988, [102 Stat. 4024][/us/stat/102/4024].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/676/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs10
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4024
 [/us/pl/100/676/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

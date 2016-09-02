@@ -17,7 +17,7 @@
 
     The non-Federal interest for a water resources study or project may use, and the Secretary shall accept, funds provided by a Federal agency under any other Federal program, to satisfy, in whole or in part, the non-Federal share of the cost of the study or project if the Federal agency that provides the funds determines that the funds are authorized to be used to carry out the study or project.
 
-([Pub. L. 110–114, title II, § 2007][/us/pl/110/114/s2007], Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2007, Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2007
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1073
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

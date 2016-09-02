@@ -53,7 +53,7 @@
 
         The term “United States coastal waters” includes the Great Lakes.
 
-([Pub. L. 105–383, title VI, § 608][/us/pl/105/383/s608], as added [Pub. L. 113–124, § 10(a)][/us/pl/113/124/s10/a], June 30, 2014, [128 Stat. 1385][/us/stat/128/1385].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 608, as added [Pub. L. 113–124][/us/pl/113/124], § 10(a), June 30, 2014, [128 Stat. 1385][/us/stat/128/1385].)
 
 ----------
 
@@ -65,8 +65,8 @@
 [/us/usc/t33/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4003
 [/us/usc/t33/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4002
 [/us/usc/t33/s4001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001%2Fa
-[/us/pl/105/383/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs608
-[/us/pl/113/124/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs10%2Fa
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1385
 
 

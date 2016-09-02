@@ -117,7 +117,7 @@
 
         (4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
 
-([Pub. L. 93–627, § 5][/us/pl/93/627/s5], Jan. 3, 1975, [88 Stat. 2131][/us/stat/88/2131]; [Pub. L. 98–419, § 2(f)][/us/pl/98/419/s2/f], Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 104–324, title V, § 505][/us/pl/104/324/s505], Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927]; [Pub. L. 107–295, title I, § 106(c)][/us/pl/107/295/s106/c], (f), (g), Nov. 25, 2002, [116 Stat. 2086–2088][/us/stat/116/2086-2088]; [Pub. L. 109–241, title III, § 304(c)(1)][/us/pl/109/241/s304/c/1], July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 111–281, title IX, § 903(d)][/us/pl/111/281/s903/d], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011].)
+([Pub. L. 93–627][/us/pl/93/627], § 5, Jan. 3, 1975, [88 Stat. 2131][/us/stat/88/2131]; [Pub. L. 98–419][/us/pl/98/419], § 2(f), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 505, Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(c), (f), (g), Nov. 25, 2002, [116 Stat. 2086–2088][/us/stat/116/2086-2088]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 304(c)(1), July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(d), Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011].)
 
  __References in Text__ 
 
@@ -129,13 +129,13 @@
 
     2006—Subsec. (c)(2)(K) to (M). [Pub. L. 109–241][/us/pl/109/241] added subpar. (K) and redesignated former subpars. (K) and (L) as (L) and (M), respectively.
 
-    2002—Subsec. (d)(4). [Pub. L. 107–295, § 106(c)(1)][/us/pl/107/295/s106/c/1], added par. (4).
+    2002—Subsec. (d)(4). [Pub. L. 107–295][/us/pl/107/295], § 106(c)(1), added par. (4).
 
-    Subsec. (f). [Pub. L. 107–295, § 106(f)][/us/pl/107/295/s106/f], substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C], prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under [section 1505 of this title][/us/usc/t33/s1505].”
+    Subsec. (f). [Pub. L. 107–295][/us/pl/107/295], § 106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C], prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under [section 1505 of this title][/us/usc/t33/s1505].”
 
-    Subsec. (h)(2). [Pub. L. 107–295, § 106(g)][/us/pl/107/295/s106/g], inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
+    Subsec. (h)(2). [Pub. L. 107–295][/us/pl/107/295], § 106(g), inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
 
-    Subsec. (i)(4). [Pub. L. 107–295, § 106(c)(2)][/us/pl/107/295/s106/c/2], added par. (4).
+    Subsec. (i)(4). [Pub. L. 107–295][/us/pl/107/295], § 106(c)(2), added par. (4).
 
     1996—Subsec. (c)(3). [Pub. L. 104–324][/us/pl/104/324] added par. (3).
 
@@ -143,7 +143,7 @@
 
  __Regulations__ 
 
-[Pub. L. 107–295, title I, § 106(e)][/us/pl/107/295/s106/e], Nov. 25, 2002, [116 Stat. 2087][/us/stat/116/2087], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(e), Nov. 25, 2002, [116 Stat. 2087][/us/stat/116/2087], provided that:
 
 >     “(1)  __Agency and department expertise and responsibilities__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Information To Be Provided__ 
 
-[Pub. L. 109–241, title III, § 304(c)(2)][/us/pl/109/241/s304/c/2], July 11, 2006, [120 Stat. 527][/us/stat/120/527], provided that: 
+[Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 304(c)(2), July 11, 2006, [120 Stat. 527][/us/stat/120/527], provided that: 
 
 > “When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in section 5(c)(2)(K) of the Deepwater Port Act of 1974 ([33 U.S.C. 1504(c)(2)(K)][/us/usc/t33/s1504/c/2/K]) with respect to vessels reasonably anticipated to be servicing that port.”
 
@@ -176,36 +176,36 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t33/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1505
-[/us/pl/93/627/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs5
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2131
-[/us/pl/98/419/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Ff
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1607
-[/us/pl/104/324/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs505
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3927
-[/us/pl/107/295/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fc
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2086-2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086-2088
-[/us/pl/109/241/s304/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fc%2F1
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
-[/us/pl/111/281/s903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fd
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/107/295/s106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fc%2F1
-[/us/pl/107/295/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Ff
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t33/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1505
-[/us/pl/107/295/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fg
-[/us/pl/107/295/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fc%2F2
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
-[/us/pl/107/295/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fe
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2087
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
-[/us/pl/109/241/s304/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fc%2F2
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
 [/us/usc/t33/s1504/c/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1504%2Fc%2F2%2FK
 

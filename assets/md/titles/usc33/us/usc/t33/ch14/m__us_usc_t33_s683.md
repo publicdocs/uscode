@@ -17,7 +17,7 @@
 
     Upon the construction by the said commission of dams or other works for the detention of debris from hydraulic mines and the issuing of the order provided for by this chapter to any individual, company, or corporation to work any mine or mines by hydraulic process, the individual, company, or corporation operating thereunder working any mine or mines by hydraulic process, the debris from which flows into or is in whole or in part restrained by such dams or other works erected by said commission, shall pay for each cubic yard mined from the natural bank a tax equal to the total capital cost of the dam, reservoir, and rights-of-way divided by the total capacity of the reservoir for the restraint of debris, as determined in each case by the California Debris Commission, which tax shall be paid annually on a date fixed by said commission and in accordance with regulations to be adopted by the Secretary of the Treasury, and the Treasurer of the United States is authorized to receive the same. All sums of money paid into the Treasury under this section shall be set apart and credited to a fund to be known as the “debris fund”, and shall be expended by said commission under the supervision of the Chief of Engineers and direction of the Secretary of the Army, for repayment of any funds advanced by the Federal Government or other agency for the construction of restraining works and settling reservoirs, and for maintenance: Provided, That said commission is authorized to receive and pay into the Treasury from the owner or owners of mines worked by the hydraulic process, to whom permission may have been granted so to work under the provisions thereof, such money advances as may be offered to aid in the construction of such impounding dams, or other restraining works, or settling reservoirs, or sites thereof, as may be deemed necessary by said commission to protect the navigable channels of said river systems, on condition that all moneys so advanced shall be refunded as the said tax is paid into the said debris fund: And provided further, That in no event shall the Government of the United States be held liable to refund same except as directed by this section. The Secretary of the Army is authorized to enter into contracts to supply storage for water and use of outlet facilities from debris storage reservoirs, for domestic and irrigation purposes and power development upon such conditions of delivery, use, and payment as he may approve: Provided, That the moneys received from such contracts shall be deposited to the credit of the reservoir project from which the water is supplied, and the total capital cost of said reservoir, which is to be repaid by tax on mining operations as provided in this section, shall be reduced in the amount so received.
 
-([Mar. 1, 1893, ch. 183, § 23][/us/act/1893-03-01/ch183/s23], [27 Stat. 510][/us/stat/27/510]; [June 19, 1934, ch. 661, § 2][/us/act/1934-06-19/ch661/s2], [48 Stat. 1118][/us/stat/48/1118]; [June 25, 1938, ch. 653][/us/act/1938-06-25/ch653], [52 Stat. 1040][/us/stat/52/1040]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([Mar. 1, 1893, ch. 183][/us/act/1893-03-01/ch183], § 23, [27 Stat. 510][/us/stat/27/510]; [June 19, 1934, ch. 661][/us/act/1934-06-19/ch661], § 2, [48 Stat. 1118][/us/stat/48/1118]; [June 25, 1938, ch. 653][/us/act/1938-06-25/ch653], [52 Stat. 1040][/us/stat/52/1040]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Amendments__ 
 
@@ -27,11 +27,11 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Transfer of Functions__ 
 
-    California Debris Commission abolished and functions transferred to Secretary of the Army by [Pub. L. 99–662, title XI, § 1106][/us/pl/99/662/s1106], Nov. 17, 1986, [100 Stat. 4229][/us/stat/100/4229], set out as a note under [section 661 of this title][/us/usc/t33/s661].
+    California Debris Commission abolished and functions transferred to Secretary of the Army by [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1106, Nov. 17, 1986, [100 Stat. 4229][/us/stat/100/4229], set out as a note under [section 661 of this title][/us/usc/t33/s661].
 
     For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 
@@ -42,19 +42,19 @@
 ----------
 ----------
 
-[/us/act/1893-03-01/ch183/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183%2Fs23
+[/us/act/1893-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183
 [/us/stat/27/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F510
-[/us/act/1934-06-19/ch661/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch661%2Fs2
+[/us/act/1934-06-19/ch661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch661
 [/us/stat/48/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1118
 [/us/act/1938-06-25/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch653
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/99/662/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1106
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4229
 [/us/usc/t33/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs661
 

@@ -29,7 +29,7 @@
 
         (3) recommend appropriate actions to continue to implement or, if necessary, revise the strategy set forth in the Gulf Hypoxia Action Plan 2008.
 
-([Pub. L. 105–383, title VI, § 604][/us/pl/105/383/s604], Nov. 13, 1998, [112 Stat. 3449][/us/stat/112/3449]; [Pub. L. 113–124, § 7][/us/pl/113/124/s7], June 30, 2014, [128 Stat. 1384][/us/stat/128/1384].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 604, Nov. 13, 1998, [112 Stat. 3449][/us/stat/112/3449]; [Pub. L. 113–124][/us/pl/113/124], § 7, June 30, 2014, [128 Stat. 1384][/us/stat/128/1384].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/105/383/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs604
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
 [/us/stat/112/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3449
-[/us/pl/113/124/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs7
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1384
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124

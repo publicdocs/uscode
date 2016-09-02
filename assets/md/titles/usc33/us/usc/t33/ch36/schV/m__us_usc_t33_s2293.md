@@ -23,7 +23,7 @@
 
         The Secretary shall immediately notify the appropriate committees of Congress of any actions taken pursuant to the authorities provided by this section, and cease to exercise such authorities not later than 180 calendar days after the termination of the state of war or national emergency, whichever occurs later.
 
-([Pub. L. 99–662, title IX, § 923][/us/pl/99/662/s923], Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 923, Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/pl/99/662/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs923
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4194
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255

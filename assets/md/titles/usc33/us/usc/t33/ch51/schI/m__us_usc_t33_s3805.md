@@ -17,7 +17,7 @@
 
     The Secretary and the Administrator may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the Convention, this chapter, or any regulations prescribed under this chapter.
 
-([Pub. L. 111–281, title X, § 1015][/us/pl/111/281/s1015], Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1015, Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1015
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3025
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

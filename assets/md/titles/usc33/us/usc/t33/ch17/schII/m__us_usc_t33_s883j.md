@@ -17,7 +17,7 @@
 
     The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as the “Administration”) shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
 
-([Pub. L. 99–272, title VI, § 6082][/us/pl/99/272/s6082], Apr. 7, 1986, [100 Stat. 135][/us/stat/100/135].)
+([Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6082, Apr. 7, 1986, [100 Stat. 135][/us/stat/100/135].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Report on Satellite Oceanography__ 
 
-[Pub. L. 102–567, title I, § 116][/us/pl/102/567/s116], Oct. 29, 1992, [106 Stat. 4279][/us/stat/106/4279], provided that:
+[Pub. L. 102–567, title I][/us/pl/102/567/tI], § 116, Oct. 29, 1992, [106 Stat. 4279][/us/stat/106/4279], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/99/272/s6082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6082
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F135
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/stat/100/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F135
@@ -64,7 +64,7 @@
 [/us/usc/t33/s883e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883e
 [/us/usc/t15/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2905
 [/us/usc/t49/s44721/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44721%2Fc%2F2
-[/us/pl/102/567/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs116
+[/us/pl/102/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtI
 [/us/stat/106/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4279
 
 

@@ -47,7 +47,7 @@
 
         (2) the technical and management experiences of senior employees are documented and transferred before leaving Federal service.
 
-([Pub. L. 111–358, title III, § 303][/us/pl/111/358/s303], Jan. 4, 2011, [124 Stat. 3998][/us/stat/124/3998].)
+([Pub. L. 111–358, title III][/us/pl/111/358/tIII], § 303, Jan. 4, 2011, [124 Stat. 3998][/us/stat/124/3998].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t33/s893a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs893a%2Fb
-[/us/pl/111/358/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs303
+[/us/pl/111/358/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIII
 [/us/stat/124/3998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3998
 [/us/pl/111/358/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs302
 [/us/usc/t33/s893a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs893a

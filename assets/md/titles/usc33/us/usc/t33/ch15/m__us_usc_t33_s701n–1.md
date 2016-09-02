@@ -27,7 +27,7 @@
 
         (ii) how the Secretary has repaired, restored, replaced, or modified each structure, feature, or project or intends to restore the structure, feature, or project to the design level of protection for the structure, feature, or project.
 
-([Pub. L. 113–121, title III, § 3029(c)(1)][/us/pl/113/121/s3029/c/1], June 10, 2014, [128 Stat. 1307][/us/stat/128/1307].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3029(c)(1), June 10, 2014, [128 Stat. 1307][/us/stat/128/1307].)
 
  __“Secretary” Defined__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s701n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n
-[/us/pl/113/121/s3029/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3029%2Fc%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1307
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

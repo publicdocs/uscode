@@ -29,7 +29,7 @@
 
             The Secretary may accept and expend additional funds from other Federal agencies, States, or non-Federal entities for purposes of carrying out this section.
 
-([Pub. L. 104–303, title II, § 212][/us/pl/104/303/s212], Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 212, Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/303/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs212
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3684
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

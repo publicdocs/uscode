@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to amend, restrict, or otherwise limit the application of [section 185(u) of title 30][/us/usc/t30/s185/u].
 
-([Pub. L. 93–627, § 23][/us/pl/93/627/s23], Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147].)
+([Pub. L. 93–627][/us/pl/93/627], § 23, Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t30/s185/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fu
 [/us/usc/t30/s185/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fu
-[/us/pl/93/627/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs23
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2147
 
 

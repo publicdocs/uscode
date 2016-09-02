@@ -17,7 +17,7 @@
 
     Beginning on January 17, 2014, and hereafter, not later than 120 days after the date of the Chief of Engineers Report on a water resource matter, the Assistant Secretary of the Army (Civil Works) shall submit the report to the appropriate authorizing and appropriating committees of the Congress.
 
-([Pub. L. 113–76, div. D, title I, § 104][/us/pl/113/76/s104], Jan. 17, 2014, [128 Stat. 157][/us/stat/128/157].)
+([Pub. L. 113–76, div. D, title I][/us/pl/113/76/dD/tI], § 104, Jan. 17, 2014, [128 Stat. 157][/us/stat/128/157].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/76/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs104
+[/us/pl/113/76/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtI
 [/us/stat/128/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F157
 
 

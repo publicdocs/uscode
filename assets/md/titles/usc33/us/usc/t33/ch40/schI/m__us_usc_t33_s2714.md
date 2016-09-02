@@ -37,7 +37,7 @@
 
         the President shall advertise or otherwise notify potential claimants of the procedures by which claims may be presented to the Fund.
 
-([Pub. L. 101–380, title I, § 1014][/us/pl/101/380/s1014], Aug. 18, 1990, [104 Stat. 501][/us/stat/104/501]; [Pub. L. 104–324, title XI, § 1142(c)][/us/pl/104/324/s1142/c], Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1014, Aug. 18, 1990, [104 Stat. 501][/us/stat/104/501]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1142(c), Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/101/380/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1014
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F501
-[/us/pl/104/324/s1142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fc
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3991
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321

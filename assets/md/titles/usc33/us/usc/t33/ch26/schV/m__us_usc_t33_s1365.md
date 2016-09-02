@@ -71,7 +71,7 @@
 
         A Governor of a State may commence a civil action under subsection (a) of this section, without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 505, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 888][/us/stat/86/888]; amended [Pub. L. 100–4, title III, § 314(c)][/us/pl/100/4/s314/c], title IV, § 406(d)(2), title V, §§ 504, 505(c), Feb. 4, 1987, [101 Stat. 49][/us/stat/101/49], 73, 75, 76.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 505, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 888][/us/stat/86/888]; amended [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 314(c), title IV, § 406(d)(2), title V, §§ 504, 505(c), Feb. 4, 1987, [101 Stat. 49][/us/stat/101/49], 73, 75, 76.)
 
  __References in Text__ 
 
@@ -79,13 +79,13 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–4, § 314(c)][/us/pl/100/4/s314/c], inserted “and [section 1319(g)(6) of this title][/us/usc/t33/s1319/g/6]” after “subsection (b) of this section” in introductory text.
+    1987—Subsec. (a). [Pub. L. 100–4][/us/pl/100/4], § 314(c), inserted “and [section 1319(g)(6) of this title][/us/usc/t33/s1319/g/6]” after “subsection (b) of this section” in introductory text.
 
-    Subsec. (c)(3). [Pub. L. 100–4, § 504][/us/pl/100/4/s504], added par. (3).
+    Subsec. (c)(3). [Pub. L. 100–4][/us/pl/100/4], § 504, added par. (3).
 
-    Subsec. (d). [Pub. L. 100–4, § 505(c)][/us/pl/100/4/s505/c], inserted “prevailing or substantially prevailing” before “party”.
+    Subsec. (d). [Pub. L. 100–4][/us/pl/100/4], § 505(c), inserted “prevailing or substantially prevailing” before “party”.
 
-    Subsec. (f). [Pub. L. 100–4, § 406(d)(2)][/us/pl/100/4/s406/d/2], added cl. (7).
+    Subsec. (f). [Pub. L. 100–4][/us/pl/100/4], § 406(d)(2), added cl. (7).
 
 ----------
 
@@ -104,14 +104,14 @@
 [/us/usc/t33/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1323
 [/us/usc/t33/s1345/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1345%2Fd
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F888
-[/us/pl/100/4/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs314%2Fc
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F49
-[/us/pl/100/4/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs314%2Fc
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1319/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fg%2F6
-[/us/pl/100/4/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs504
-[/us/pl/100/4/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs505%2Fc
-[/us/pl/100/4/s406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs406%2Fd%2F2
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 
 

@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853a" data-uslm-ref="/us/usc/t33/s853a">853a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853" data-uslm-ref="/us/usc/t33/s853">853</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853a" data-uslm-ref="/us/usc/t33/s853a">853a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853o" data-uslm-ref="/us/usc/t33/s853o">853o</a>.  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853" data-uslm-ref="/us/usc/t33/s853">853</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs853o%E2%80%93" data-uslm-ref="/us/usc/t33/s853o–">853o–</a>1.  </td>
 
     <td> Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—SURVEYS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs883" data-uslm-ref="/us/usc/t33/s883">883</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs883l" data-uslm-ref="/us/usc/t33/s883l">883l</a>.  </td>
 
     <td> Contracts for surveying and mapping services.  </td>
 

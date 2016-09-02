@@ -57,7 +57,7 @@
 
         The term “Coast and Geodetic Survey Act” means the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 ([33 U.S.C. 883a][/us/usc/t33/s883a] et seq.).
 
-([Pub. L. 105–384, title III, § 302][/us/pl/105/384/s302], Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454]; [Pub. L. 107–372, title I, § 102][/us/pl/107/372/s102], Dec. 19, 2002, [116 Stat. 3079][/us/stat/116/3079]; [Pub. L. 110–386, § 2][/us/pl/110/386/s2], Oct. 10, 2008, [122 Stat. 4106][/us/stat/122/4106].)
+([Pub. L. 105–384, title III][/us/pl/105/384/tIII], § 302, Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454]; [Pub. L. 107–372, title I][/us/pl/107/372/tI], § 102, Dec. 19, 2002, [116 Stat. 3079][/us/stat/116/3079]; [Pub. L. 110–386][/us/pl/110/386], § 2, Oct. 10, 2008, [122 Stat. 4106][/us/stat/122/4106].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
     2008—Pars. (3) to (5). [Pub. L. 110–386][/us/pl/110/386], which directed the amendment of section “303 of the Hydrographic Services Improvement Act of 1998 ([33 U.S.C. 892][/us/usc/t33/s892])” by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior to amendment, pars. (3) to (5) defined the terms “hydrographic data”, “hydrographic services”, and “Act of 1947”, respectively.
 
-    2002—Par. (3). [Pub. L. 107–372, § 102(1)][/us/pl/107/372/s102/1], inserted “, geospatial, or geomagnetic” after “geodetic”.
+    2002—Par. (3). [Pub. L. 107–372][/us/pl/107/372], § 102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
 
-    Par. (4). [Pub. L. 107–372, § 102(2)][/us/pl/107/372/s102/2], inserted “geospatial, geomagnetic,” after “geodetic,”.
+    Par. (4). [Pub. L. 107–372][/us/pl/107/372], § 102(2), inserted “geospatial, geomagnetic,” after “geodetic,”.
 
  __Short Title__ 
 
@@ -85,11 +85,11 @@
 ----------
 
 [/us/usc/t33/s883a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a
-[/us/pl/105/384/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs302
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
-[/us/pl/107/372/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs102
+[/us/pl/107/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtI
 [/us/stat/116/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3079
-[/us/pl/110/386/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs2
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/stat/122/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4106
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
@@ -98,8 +98,8 @@
 [/us/stat/61/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F787
 [/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/usc/t33/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892
-[/us/pl/107/372/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs102%2F1
-[/us/pl/107/372/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs102%2F2
+[/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
+[/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/pl/105/384/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs301
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
 

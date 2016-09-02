@@ -47,11 +47,11 @@
 
         (10) set forth a timetable for completion and implementation of the plan.
 
-([Pub. L. 111–11, title XII, § 12202][/us/pl/111/11/s12202], Mar. 30, 2009, [123 Stat. 1421][/us/stat/123/1421].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12202, Mar. 30, 2009, [123 Stat. 1421][/us/stat/123/1421].)
 
  __Short Title__ 
 
-[Pub. L. 111–11, title XII, § 12201][/us/pl/111/11/s12201], Mar. 30, 2009, [123 Stat. 1421][/us/stat/123/1421], provided that: 
+[Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12201, Mar. 30, 2009, [123 Stat. 1421][/us/stat/123/1421], provided that: 
 
 > “This subtitle \[subtitle B (§§ 12201–12208) of title XII of [Pub. L. 111–11][/us/pl/111/11], enacting this chapter\] may be cited as the ‘Ocean and Coastal Mapping Integration Act’.”
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12202
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1421
-[/us/pl/111/11/s12201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12201
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1421
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

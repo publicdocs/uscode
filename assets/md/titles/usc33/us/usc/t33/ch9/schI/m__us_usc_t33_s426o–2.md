@@ -27,7 +27,7 @@
 
         In this section, the term “Great Lakes and Connecting Channels” includes Lakes Superior, Huron, Michigan, Erie, and Ontario, all connecting waters between and among such lakes used for commercial navigation, any navigation features in such lakes or waters that are a Federal operation or maintenance responsibility, and areas of the Saint Lawrence River that are operated or maintained by the Federal Government for commercial navigation.
 
-([Pub. L. 110–114, title V, § 5014][/us/pl/110/114/s5014], Nov. 8, 2007, [121 Stat. 1195][/us/stat/121/1195].)
+([Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5014, Nov. 8, 2007, [121 Stat. 1195][/us/stat/121/1195].)
 
  __“Secretary” Defined__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s5014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5014
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1195
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

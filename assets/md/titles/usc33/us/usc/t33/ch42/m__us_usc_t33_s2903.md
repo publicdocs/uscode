@@ -159,25 +159,25 @@
 
                 The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
 
-([Pub. L. 106–457, title I, § 104][/us/pl/106/457/s104], Nov. 7, 2000, [114 Stat. 1960][/us/stat/114/1960]; [Pub. L. 110–114, title V, § 5017(c)][/us/pl/110/114/s5017/c], Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 104, Nov. 7, 2000, [114 Stat. 1960][/us/stat/114/1960]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(c), Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–114, § 5017(c)(1)][/us/pl/110/114/s5017/c/1], inserted “through the award of contracts and cooperative agreements” after “assistance”.
+    2007—Subsec. (a). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
 
-    Subsec. (c)(3)(A). [Pub. L. 110–114, § 5017(c)(2)(A)][/us/pl/110/114/s5017/c/2/A], inserted “or State” after “Federal”.
+    Subsec. (c)(3)(A). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(2)(A), inserted “or State” after “Federal”.
 
-    Subsec. (c)(4)(B). [Pub. L. 110–114, § 5017(c)(2)(B)][/us/pl/110/114/s5017/c/2/B], inserted “or approach” after “technology”.
+    Subsec. (c)(4)(B). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(2)(B), inserted “or approach” after “technology”.
 
-    Subsec. (d)(1). [Pub. L. 110–114, § 5017(c)(3)(A)][/us/pl/110/114/s5017/c/3/A], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (d)(1). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(3)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (d)(2). [Pub. L. 110–114, § 5017(c)(3)(B)][/us/pl/110/114/s5017/c/3/B], inserted “or approach” after “technology”.
+    Subsec. (d)(2). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(3)(B), inserted “or approach” after “technology”.
 
-    Subsec. (d)(3). [Pub. L. 110–114, § 5017(c)(3)(C)][/us/pl/110/114/s5017/c/3/C], inserted “(including monitoring)” after “services”.
+    Subsec. (d)(3). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(3)(C), inserted “(including monitoring)” after “services”.
 
-    Subsec. (f)(1)(B). [Pub. L. 110–114, § 5017(c)(4)][/us/pl/110/114/s5017/c/4], inserted “long-term” before “maintenance”.
+    Subsec. (f)(1)(B). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(4), inserted “long-term” before “maintenance”.
 
-    Subsec. (g). [Pub. L. 110–114, § 5017(c)(5)][/us/pl/110/114/s5017/c/5], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (g). [Pub. L. 110–114][/us/pl/110/114], § 5017(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 ----------
 
@@ -192,17 +192,17 @@
 [/us/usc/t33/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2905
 [/us/usc/t42/s1962d–5b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b%2Fb
 [/us/usc/t33/s2908/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2908%2Fa%2F1
-[/us/pl/106/457/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs104
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1960
-[/us/pl/110/114/s5017/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1197
-[/us/pl/110/114/s5017/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F1
-[/us/pl/110/114/s5017/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F2%2FA
-[/us/pl/110/114/s5017/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F2%2FB
-[/us/pl/110/114/s5017/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F3%2FA
-[/us/pl/110/114/s5017/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F3%2FB
-[/us/pl/110/114/s5017/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F3%2FC
-[/us/pl/110/114/s5017/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F4
-[/us/pl/110/114/s5017/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fc%2F5
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 
 

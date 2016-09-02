@@ -63,21 +63,21 @@
 
             (B) concurs with the proposed extension.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 307, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 856][/us/stat/86/856]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 53(a), (b), 54(a), Dec. 27, 1977, [91 Stat. 1589–1591][/us/stat/91/1589-1591]; [Pub. L. 100–4, title III, § 309(a)][/us/pl/100/4/s309/a], Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 307, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 856][/us/stat/86/856]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 53(a), (b), 54(a), Dec. 27, 1977, [91 Stat. 1589–1591][/us/stat/91/1589-1591]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 309(a), Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41].)
 
  __Amendments__ 
 
     1987—Subsec. (e). [Pub. L. 100–4][/us/pl/100/4] added subsec. (e).
 
-    1977—Subsec. (a)(1). [Pub. L. 95–217, § 53(a)][/us/pl/95/217/s53/a], substituted “On and after December 27, 1977, the list of toxic pollutants or combination of pollutants subject to this chapter shall consist of those toxic pollutants listed in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives, and the Administrator shall publish, not later than the thirtieth day after December 27, 1977, that list” for “The Administrator shall, within ninety days after October 18, 1972, publish (and from time to time thereafter revise) a list which includes any toxic pollutant or combination of such pollutants for which an effluent standard (which may include a prohibition of the discharge of such pollutants or combination of such pollutants) will be established under this section” and inserted provision for the revision of the list and for the finality of the Administrator’s determination except when that determination is arbitrary and capricious.
+    1977—Subsec. (a)(1). [Pub. L. 95–217][/us/pl/95/217], § 53(a), substituted “On and after December 27, 1977, the list of toxic pollutants or combination of pollutants subject to this chapter shall consist of those toxic pollutants listed in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives, and the Administrator shall publish, not later than the thirtieth day after December 27, 1977, that list” for “The Administrator shall, within ninety days after October 18, 1972, publish (and from time to time thereafter revise) a list which includes any toxic pollutant or combination of such pollutants for which an effluent standard (which may include a prohibition of the discharge of such pollutants or combination of such pollutants) will be established under this section” and inserted provision for the revision of the list and for the finality of the Administrator’s determination except when that determination is arbitrary and capricious.
 
-    Subsec. (a)(2). [Pub. L. 95–217, § 53(a)][/us/pl/95/217/s53/a], expanded provisions covering effluent limitations and the establishment of effluent standards (or prohibitions), introduced provisions relating to the application of the best available technology economically achievable for the applicable category or class of point sources established in accordance with sections 1311(b)(2)(A) and 1314(b)(2) of this title, inserted provision that published effluent standards take into account the extent to which effective control is being or may be achieved under other regulatory authority, inserted provision for a sixty day minimum period following publication of proposed effluent standards for written comment, substituted two hundred and seventy days for six months as the period following publication of proposed standards during which period standards (or prohibitions) must be promulgated, and inserted provision for the finality of effluent limitations (or prohibitions) except if, on judicial review, the standard was not based on substantial evidence.
+    Subsec. (a)(2). [Pub. L. 95–217][/us/pl/95/217], § 53(a), expanded provisions covering effluent limitations and the establishment of effluent standards (or prohibitions), introduced provisions relating to the application of the best available technology economically achievable for the applicable category or class of point sources established in accordance with sections 1311(b)(2)(A) and 1314(b)(2) of this title, inserted provision that published effluent standards take into account the extent to which effective control is being or may be achieved under other regulatory authority, inserted provision for a sixty day minimum period following publication of proposed effluent standards for written comment, substituted two hundred and seventy days for six months as the period following publication of proposed standards during which period standards (or prohibitions) must be promulgated, and inserted provision for the finality of effluent limitations (or prohibitions) except if, on judicial review, the standard was not based on substantial evidence.
 
-    Subsec. (a)(3). [Pub. L. 95–217, § 53(a)][/us/pl/95/217/s53/a], struck out provision for the immediate promulgation of revised effluent standards (or prohibitions) for pollutants or combinations of pollutants if, after public hearings, the Administrator found that a modification of such proposed standards (or prohibitions) was justified. See subsec. (a)(2) of this section.
+    Subsec. (a)(3). [Pub. L. 95–217][/us/pl/95/217], § 53(a), struck out provision for the immediate promulgation of revised effluent standards (or prohibitions) for pollutants or combinations of pollutants if, after public hearings, the Administrator found that a modification of such proposed standards (or prohibitions) was justified. See subsec. (a)(2) of this section.
 
-    Subsec. (a)(6). [Pub. L. 95–217, § 53(b)][/us/pl/95/217/s53/b], inserted provision that if the Administrator determines that compliance with effluent standards (or prohibitions) within one year from the date of promulgation is technologically infeasible for a category of sources, the Administrator may establish the effective date of the effluent standard (or prohibition) for that category at the earliest date upon which compliance can be feasibly attained by sources within such category, but in no event more than three years after the date of such promulgation.
+    Subsec. (a)(6). [Pub. L. 95–217][/us/pl/95/217], § 53(b), inserted provision that if the Administrator determines that compliance with effluent standards (or prohibitions) within one year from the date of promulgation is technologically infeasible for a category of sources, the Administrator may establish the effective date of the effluent standard (or prohibition) for that category at the earliest date upon which compliance can be feasibly attained by sources within such category, but in no event more than three years after the date of such promulgation.
 
-    Subsec. (b)(1). [Pub. L. 95–217, § 54(a)][/us/pl/95/217/s54/a], inserted provision that if, in the case of any toxic pollutant under subsection (a) of this section introduced by a source into a publicly owned treatment works, the treatment by the works removes all or any part of the toxic pollutant and the discharge from the works does not violate that effluent limitation or standard which would be applicable to the toxic pollutant if it were discharged by the source other than through a publicly owned treatment works, and does not prevent sludge use or disposal by the works in accordance with [section 1345 of this title][/us/usc/t33/s1345], then the pretreatment requirements for the sources actually discharging the toxic pollutant into the publicly owned treatment works may be revised by the owner or operator of the works to reflect the removal of the toxic pollutant by the works.
+    Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 54(a), inserted provision that if, in the case of any toxic pollutant under subsection (a) of this section introduced by a source into a publicly owned treatment works, the treatment by the works removes all or any part of the toxic pollutant and the discharge from the works does not violate that effluent limitation or standard which would be applicable to the toxic pollutant if it were discharged by the source other than through a publicly owned treatment works, and does not prevent sludge use or disposal by the works in accordance with [section 1345 of this title][/us/usc/t33/s1345], then the pretreatment requirements for the sources actually discharging the toxic pollutant into the publicly owned treatment works may be revised by the owner or operator of the works to reflect the removal of the toxic pollutant by the works.
 
  __Change of Name__ 
 
@@ -85,7 +85,7 @@
 
  __Increase in EPA Employees__ 
 
-[Pub. L. 100–4, title III, § 309(b)][/us/pl/100/4/s309/b], Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41], provided that: 
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 309(b), Feb. 4, 1987, [101 Stat. 41][/us/stat/101/41], provided that: 
 
 > “The Administrator shall take such actions as may be necessary to increase the number of employees of the Environmental Protection Agency in order to effectively implement pretreatment requirements under section 307 of the Federal Water Pollution Control Act \[[33 U.S.C. 1317][/us/usc/t33/s1317]\].”
 
@@ -105,22 +105,22 @@
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1345
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F856
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1589-1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1589-1591
-[/us/pl/100/4/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs309%2Fa
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F41
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/95/217/s53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs53%2Fa
-[/us/pl/95/217/s53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs53%2Fa
-[/us/pl/95/217/s53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs53%2Fa
-[/us/pl/95/217/s53/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs53%2Fb
-[/us/pl/95/217/s54/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fa
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1345
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/4/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs309%2Fb
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F41
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 

@@ -39,13 +39,13 @@
 
         The establishment of effluent limitations under this section shall not operate to delay the application of any effluent limitation established under [section 1311 of this title][/us/usc/t33/s1311].
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 302, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 846][/us/stat/86/846]; amended [Pub. L. 100–4, title III, § 308(e)][/us/pl/100/4/s308/e], Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 302, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 846][/us/stat/86/846]; amended [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 308(e), Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39].)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–4, § 308(e)(2)][/us/pl/100/4/s308/e/2], inserted “or as identified under section 1314(l) of this title” after “Administrator” and “public health,” after “protection of”.
+    1987—Subsec. (a). [Pub. L. 100–4][/us/pl/100/4], § 308(e)(2), inserted “or as identified under section 1314(l) of this title” after “Administrator” and “public health,” after “protection of”.
 
-    Subsec. (b). [Pub. L. 100–4, § 308(e)(1)][/us/pl/100/4/s308/e/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 100–4][/us/pl/100/4], § 308(e)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) Prior to establishment of any effluent limitation pursuant to subsection (a) of this section, the Administrator shall issue notice of intent to establish such limitation and within ninety days of such notice hold a public hearing to determine the relationship of the economic and social costs of achieving any such limitation or limitations, including any economic or social dislocation in the affected community or communities, to the social and economic benefits to be obtained (including the attainment of the objective of this chapter) and to determine whether or not such effluent limitations can be implemented with available technology or other alternative control strategies.
 
@@ -62,11 +62,11 @@
 [/us/usc/t33/s1311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb%2F2
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F846
-[/us/pl/100/4/s308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fe
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F39
-[/us/pl/100/4/s308/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fe%2F2
-[/us/pl/100/4/s308/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fe%2F1
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 
 

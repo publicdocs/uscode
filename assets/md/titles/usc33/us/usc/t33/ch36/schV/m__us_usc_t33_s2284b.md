@@ -17,7 +17,7 @@
 
     In conducting studies of potential water resources projects, the Secretary shall consider measures to preserve and enhance scenic and aesthetic qualities in the vicinity of such projects.
 
-([Pub. L. 104–303, title II, § 232][/us/pl/104/303/s232], Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 232, Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/104/303/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs232
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3704
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

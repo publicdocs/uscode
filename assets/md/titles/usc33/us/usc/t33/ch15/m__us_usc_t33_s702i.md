@@ -17,7 +17,7 @@
 
     The provisions of sections 407, 408, 411, 412, and 413 of this title are made applicable to all lands, waters, easements, and other property and rights acquired or constructed under the provisions of sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title.
 
-([May 15, 1928, ch. 569, § 9][/us/act/1928-05-15/ch569/s9], [45 Stat. 537][/us/stat/45/537].)
+([May 15, 1928, ch. 569][/us/act/1928-05-15/ch569], § 9, [45 Stat. 537][/us/stat/45/537].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-05-15/ch569/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569%2Fs9
+[/us/act/1928-05-15/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-15%2Fch569
 [/us/stat/45/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F537
 
 

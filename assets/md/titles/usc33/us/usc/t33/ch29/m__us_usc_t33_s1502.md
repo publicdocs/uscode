@@ -65,13 +65,13 @@
 
     (19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
-([Pub. L. 93–627, § 3][/us/pl/93/627/s3], Jan. 3, 1975, [88 Stat. 2127][/us/stat/88/2127]; [Pub. L. 98–419, § 2(a)][/us/pl/98/419/s2/a], Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 104–324, title V, § 503][/us/pl/104/324/s503], Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I, § 106(b)][/us/pl/107/295/s106/b], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–58, title III, § 321(b)][/us/pl/109/58/s321/b], Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694]; [Pub. L. 112–213, title III, § 312][/us/pl/112/213/s312], Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
+([Pub. L. 93–627][/us/pl/93/627], § 3, Jan. 3, 1975, [88 Stat. 2127][/us/stat/88/2127]; [Pub. L. 98–419][/us/pl/98/419], § 2(a), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 503, Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(b), Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 321(b), Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 312, Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in par. (9)(D), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
  __Amendments__ 
 
@@ -79,15 +79,15 @@
 
     2005—Par. (13). [Pub. L. 109–58][/us/pl/109/58] inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
 
-    2002—Par. (9). [Pub. L. 107–295, § 106(b)(2)][/us/pl/107/295/s106/b/2], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522], and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
+    2002—Par. (9). [Pub. L. 107–295][/us/pl/107/295], § 106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522], and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
 
-    Pars. (13) to (19). [Pub. L. 107–295, § 106(b)(1)][/us/pl/107/295/s106/b/1], (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
+    Pars. (13) to (19). [Pub. L. 107–295][/us/pl/107/295], § 106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
-    1996—Pars. (3) to (8). [Pub. L. 104–324, § 503(a)][/us/pl/104/324/s503/a], redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
+    1996—Pars. (3) to (8). [Pub. L. 104–324][/us/pl/104/324], § 503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
 
-    Par. (9). [Pub. L. 104–324, § 503(a)(2)][/us/pl/104/324/s503/a/2], (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522], and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522].” Former par. (9) redesignated (8).
+    Par. (9). [Pub. L. 104–324][/us/pl/104/324], § 503(a)(2), (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522], and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title][/us/usc/t33/s1522].” Former par. (9) redesignated (8).
 
-    Pars. (10) to (19). [Pub. L. 104–324, § 503(a)(2)][/us/pl/104/324/s503/a/2], redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
+    Pars. (10) to (19). [Pub. L. 104–324][/us/pl/104/324], § 503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
     1984—Par. (4). [Pub. L. 98–419][/us/pl/98/419] substituted “means an application” for “means any application”, struck out designation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
 
@@ -107,36 +107,36 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t33/s1509/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1509%2Fd
-[/us/pl/93/627/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs3
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2127
-[/us/pl/98/419/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fa
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1607
-[/us/pl/104/324/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs503
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3926
-[/us/pl/107/295/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086
-[/us/pl/109/58/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs321%2Fb
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F694
-[/us/pl/112/213/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs312
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1569
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/107/295/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fb%2F2
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t33/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1522
-[/us/pl/107/295/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fb%2F1
-[/us/pl/104/324/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs503%2Fa
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/104/324/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs503%2Fa%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1522
 [/us/usc/t33/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1522
-[/us/pl/104/324/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs503%2Fa%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

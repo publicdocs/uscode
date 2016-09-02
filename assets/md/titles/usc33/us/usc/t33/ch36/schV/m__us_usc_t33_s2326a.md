@@ -123,7 +123,7 @@
 
                 Any spending authority (as defined in [section 651(c)(2) of title 2][/us/usc/t2/s651/c/2]) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 104–303, title II, § 217][/us/pl/104/303/s217], Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694]; [Pub. L. 110–114, title II, § 2005][/us/pl/110/114/s2005], Nov. 8, 2007, [121 Stat. 1071][/us/stat/121/1071].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 217, Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2005, Nov. 8, 2007, [121 Stat. 1071][/us/stat/121/1071].)
 
  __References in Text__ 
 
@@ -135,13 +135,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c). [Pub. L. 110–114, § 2005(2)][/us/pl/110/114/s2005/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    2007—Subsec. (c). [Pub. L. 110–114][/us/pl/110/114], § 2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–114, § 2005(1)][/us/pl/110/114/s2005/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 110–114][/us/pl/110/114], § 2005(1), redesignated subsec. (c) as (d).
 
-    Subsec. (d)(1). [Pub. L. 110–114, § 2005(3)][/us/pl/110/114/s2005/3], inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
+    Subsec. (d)(1). [Pub. L. 110–114][/us/pl/110/114], § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
 
-    Subsec. (d)(2)(A). [Pub. L. 110–114, § 2005(3)][/us/pl/110/114/s2005/3], inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
+    Subsec. (d)(2)(A). [Pub. L. 110–114][/us/pl/110/114], § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
 
  __“Secretary” Defined__ 
 
@@ -160,17 +160,17 @@
 [/us/usc/t33/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213
 [/us/usc/t33/s2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2326
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/104/303/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs217
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3694
-[/us/pl/110/114/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2005
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1071
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/110/114/s2005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2005%2F2
-[/us/pl/110/114/s2005/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2005%2F1
-[/us/pl/110/114/s2005/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2005%2F3
-[/us/pl/110/114/s2005/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2005%2F3
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

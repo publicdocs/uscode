@@ -17,7 +17,7 @@
 
     In the administration of this Act, hearings and other procedures shall be exempted from the provisions of subchapter II of chapter 5, and chapter 7, of title 5, except as to the requirements of [section 552 of title 5][/us/usc/t5/s552].
 
-([July 16, 1952, ch. 889, § 3][/us/act/1952-07-16/ch889/s3], [66 Stat. 733][/us/stat/66/733].)
+([July 16, 1952, ch. 889][/us/act/1952-07-16/ch889], § 3, [66 Stat. 733][/us/stat/66/733].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
     Section was not enacted as part of [act June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], [54 Stat. 497][/us/stat/54/497], which comprises this subchapter.
 
-    “Subchapter II of chapter 5, and chapter 7, of title 5” and “[section 552 of title 5][/us/usc/t5/s552]” substituted in text for “the Administrative Procedure Act ([60 Stat. 237][/us/stat/60/237])” and “section 3 thereof”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “Subchapter II of chapter 5, and chapter 7, of title 5” and “[section 552 of title 5][/us/usc/t5/s552]” substituted in text for “the Administrative Procedure Act ([60 Stat. 237][/us/stat/60/237])” and “section 3 thereof”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/act/1952-07-16/ch889/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch889%2Fs3
+[/us/act/1952-07-16/ch889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch889
 [/us/stat/66/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F733
 [/us/act/1952-07-16/ch889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch889
 [/us/stat/66/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F732
@@ -45,7 +45,7 @@
 [/us/stat/54/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F497
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 
 

@@ -17,7 +17,7 @@
 
     Any report that is submitted to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or the Secretary of Agriculture acting under [Public Law 83–566][/us/pl/83/566], as amended \[[16 U.S.C. 1001][/us/usc/t16/s1001] et seq.\], which proposes construction of a water impoundment facility, shall include information on the consequences of failure and geologic or design factors which could contribute to the possible failure of such facility.
 
-([Pub. L. 99–662, title XII, § 1202][/us/pl/99/662/s1202], Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263].)
+([Pub. L. 99–662, title XII][/us/pl/99/662/tXII], § 1202, Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/83/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F566
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
-[/us/pl/99/662/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1202
+[/us/pl/99/662/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXII
 [/us/stat/100/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4263
 [/us/pl/83/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F566
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656

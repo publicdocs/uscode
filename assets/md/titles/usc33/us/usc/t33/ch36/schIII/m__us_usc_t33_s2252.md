@@ -81,7 +81,7 @@
 
             (C) applicable principles, procedures, and processes used for military construction projects.
 
-([Pub. L. 113–121, title II, § 2002][/us/pl/113/121/s2002], June 10, 2014, [128 Stat. 1261][/us/stat/128/1261].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2002, June 10, 2014, [128 Stat. 1261][/us/stat/128/1261].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
     Secretary means the Secretary of the Army, see [section 2 of Pub. L. 113–121][/us/pl/113/121/s2], set out as a note under [section 2201 of this title][/us/usc/t33/s2201].
 
-[Pub. L. 113–121, title II, § 2001][/us/pl/113/121/s2001], June 10, 2014, [128 Stat. 1260][/us/stat/128/1260], provided that: 
+[Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2001, June 10, 2014, [128 Stat. 1260][/us/stat/128/1260], provided that: 
 
 > “In this title \[enacting this section and sections 2211a, 2238b, 2238c, 2243, 2253, 2254, and 2255 of this title and amending sections 2211, 2212, 2238, 2242, 2251, 2282a, and 2327 of this title and [section 9505 of Title 26][/us/usc/t26/s9505], Internal Revenue Code\]:
 
@@ -125,7 +125,7 @@
 [/us/usc/t33/s2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2280
 [/us/usc/t33/s2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282
 [/us/usc/t33/s2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282
-[/us/pl/113/121/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2002
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1261
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2002
@@ -133,7 +133,7 @@
 [/us/usc/t33/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2251
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
-[/us/pl/113/121/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2001
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1260
 [/us/usc/t26/s9505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9505
 [/us/usc/t26/s9506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9506%2Fa

@@ -21,7 +21,7 @@
 
     (2) all other vessels when on waters subject to the jurisdiction of the United States.
 
-([Pub. L. 95–75, § 4][/us/pl/95/75/s4], July 27, 1977, [91 Stat. 309][/us/stat/91/309].)
+([Pub. L. 95–75][/us/pl/95/75], § 4, July 27, 1977, [91 Stat. 309][/us/stat/91/309].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t33/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1604
 [/us/usc/t33/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1605
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
-[/us/pl/95/75/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75%2Fs4
+[/us/pl/95/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75
 [/us/stat/91/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F309
 
 

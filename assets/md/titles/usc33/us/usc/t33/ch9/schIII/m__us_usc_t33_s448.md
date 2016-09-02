@@ -17,7 +17,7 @@
 
     Every permit issued in accordance with the provisions of sections 443 to 448 of this title, which may not be taken up by an inspector or deputy inspector, shall be returned within four days after issuance to the office of the supervisor of the harbor; such permit shall bear an indorsement by the master of the towboat, or the person acting in such capacity, stating whether the permit has been used, and, if so, the time and place of dumping. Any person violating the provisions of this section shall be liable to a fine of not more than $500 nor less than $100.
 
-([June 29, 1888, ch. 496, § 3][/us/act/1888-06-29/ch496/s3], [25 Stat. 209][/us/stat/25/209]; [Aug. 18, 1894, ch. 299, § 3][/us/act/1894-08-18/ch299/s3], [28 Stat. 360][/us/stat/28/360]; [May 28, 1908, ch. 212, § 8][/us/act/1908-05-28/ch212/s8], [35 Stat. 428][/us/stat/35/428].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 3, [25 Stat. 209][/us/stat/25/209]; [Aug. 18, 1894, ch. 299][/us/act/1894-08-18/ch299], § 3, [28 Stat. 360][/us/stat/28/360]; [May 28, 1908, ch. 212][/us/act/1908-05-28/ch212], § 8, [35 Stat. 428][/us/stat/35/428].)
 
  __References in Text__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/act/1888-06-29/ch496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs3
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F209
-[/us/act/1894-08-18/ch299/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299%2Fs3
+[/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F360
-[/us/act/1908-05-28/ch212/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212%2Fs8
+[/us/act/1908-05-28/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212
 [/us/stat/35/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F428
 [/us/usc/t33/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs443
 [/us/usc/t33/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs443

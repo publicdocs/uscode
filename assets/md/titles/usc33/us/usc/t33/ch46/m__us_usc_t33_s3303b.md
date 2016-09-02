@@ -63,7 +63,7 @@
 
         (2) development and implementation of a State or tribal levee safety program.
 
-([Pub. L. 110–114, title IX, § 9006][/us/pl/110/114/s9006], as added [Pub. L. 113–121, title III, § 3016(e)(2)][/us/pl/113/121/s3016/e/2], June 10, 2014, [128 Stat. 1299][/us/stat/128/1299].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9006, as added [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(e)(2), June 10, 2014, [128 Stat. 1299][/us/stat/128/1299].)
 
  __Prior Provisions__ 
 
@@ -80,8 +80,8 @@
 ----------
 ----------
 
-[/us/pl/110/114/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9006
-[/us/pl/113/121/s3016/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fe%2F2
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1299
 [/us/pl/110/114/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9006
 [/us/usc/t33/s3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3305

@@ -65,17 +65,17 @@
 
         (2) to conduct a merit review of all proposals for grants and contracts to be awarded under [section 1124 of this title][/us/usc/t33/s1124].
 
-([Pub. L. 89–454, title II, § 207][/us/pl/89/454/s207], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–220, title III, § 3104(b)(1)(E)][/us/pl/100/220/s3104/b/1/E], Dec. 29, 1987, [101 Stat. 1470][/us/stat/101/1470]; [Pub. L. 105–160, § 7][/us/pl/105/160/s7], Mar. 6, 1998, [112 Stat. 24][/us/stat/112/24]; [Pub. L. 107–299, § 8][/us/pl/107/299/s8], Nov. 26, 2002, [116 Stat. 2348][/us/stat/116/2348]; [Pub. L. 110–394][/us/pl/110/394], §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207], 4208; [Pub. L. 113–188, title II, § 201(a)][/us/pl/113/188/s201/a], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
+([Pub. L. 89–454, title II][/us/pl/89/454/tII], § 207, as added [Pub. L. 94–461][/us/pl/94/461], § 2, Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–220, title III][/us/pl/100/220/tIII], § 3104(b)(1)(E), Dec. 29, 1987, [101 Stat. 1470][/us/stat/101/1470]; [Pub. L. 105–160][/us/pl/105/160], § 7, Mar. 6, 1998, [112 Stat. 24][/us/stat/112/24]; [Pub. L. 107–299][/us/pl/107/299], § 8, Nov. 26, 2002, [116 Stat. 2348][/us/stat/116/2348]; [Pub. L. 110–394][/us/pl/110/394], §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207], 4208; [Pub. L. 113–188, title II][/us/pl/113/188/tII], § 201(a), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __Amendments__ 
 
     2014—Subsec. (e). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of section 207 of the National Sea Grant Program Act by striking subsec. (e), was executed to this section, which is section 207 of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) related to annual reports on progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes.
 
-    2008—Subsec. (a)(1)(F). [Pub. L. 110–394, § 9(a)(4)(C)(ii)][/us/pl/110/394/s9/a/4/C/ii], substituted “Board” for “panel”.
+    2008—Subsec. (a)(1)(F). [Pub. L. 110–394][/us/pl/110/394], § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
-    Subsec. (a)(2)(B), (3)(B). [Pub. L. 110–394, § 7][/us/pl/110/394/s7], substituted “extension services” for “advisory services”.
+    Subsec. (a)(2)(B), (3)(B). [Pub. L. 110–394][/us/pl/110/394], § 7, substituted “extension services” for “advisory services”.
 
-    Subsec. (d)(1). [Pub. L. 110–394, § 9(a)(4)(C)(ii)][/us/pl/110/394/s9/a/4/C/ii], substituted “Board” for “panel”.
+    Subsec. (d)(1). [Pub. L. 110–394][/us/pl/110/394], § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
     2002—Subsec. (e). [Pub. L. 107–299][/us/pl/107/299] added subsec. (e).
 
@@ -94,23 +94,23 @@
 [/us/usc/t33/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1124
 [/us/usc/t33/s1123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1123%2Fc
 [/us/usc/t33/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1124
-[/us/pl/89/454/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs207
-[/us/pl/94/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs2
+[/us/pl/89/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtII
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1966
-[/us/pl/100/220/s3104/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs3104%2Fb%2F1%2FE
+[/us/pl/100/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIII
 [/us/stat/101/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1470
-[/us/pl/105/160/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160%2Fs7
+[/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/stat/112/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F24
-[/us/pl/107/299/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299%2Fs8
+[/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
 [/us/stat/116/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2348
 [/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/stat/122/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4207
-[/us/pl/113/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fa
+[/us/pl/113/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/110/394/s9/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs9%2Fa%2F4%2FC%2Fii
-[/us/pl/110/394/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs7
-[/us/pl/110/394/s9/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs9%2Fa%2F4%2FC%2Fii
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
 [/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220

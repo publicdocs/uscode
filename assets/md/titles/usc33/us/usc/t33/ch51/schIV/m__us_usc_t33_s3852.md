@@ -57,7 +57,7 @@
 
         Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person’s penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
 
-([Pub. L. 111–281, title X, § 1042][/us/pl/111/281/s1042], Oct. 15, 2010, [124 Stat. 3030][/us/stat/124/3030].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1042, Oct. 15, 2010, [124 Stat. 3030][/us/stat/124/3030].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/111/281/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1042
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3030
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

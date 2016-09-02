@@ -17,7 +17,7 @@
 
     The Administrator of the National Oceanic and Atmospheric Administration shall, in consultation with the National Science Foundation and other appropriate Federal agencies, establish a coordinated national ocean exploration program within the National Oceanic and Atmospheric Administration that promotes collaboration with other Federal ocean and undersea research and exploration programs. To the extent appropriate, the Administrator shall seek to facilitate coordination of data and information management systems, outreach and education programs to improve public understanding of ocean and coastal resources, and development and transfer of technologies to facilitate ocean and undersea research and exploration.
 
-([Pub. L. 111–11, title XII, § 12002][/us/pl/111/11/s12002], Mar. 30, 2009, [123 Stat. 1417][/us/stat/123/1417].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12002, Mar. 30, 2009, [123 Stat. 1417][/us/stat/123/1417].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12002
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1417
 
 

@@ -11,28 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s878b.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch17%2FschII)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s878b.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881...883.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch17%2FschII)
 
 ### SUBCHAPTER II—SURVEYS
 
-§§ 881 to 883. __Repealed.__  __[__  __Aug. 6, 1947, ch. 504, § 10(2)__  __][/us/act/1947-08-06/ch504/s10/2]__  __–(5),__  __[__  __61 Stat. 788__  __][/us/stat/61/788]__ 
-
-    Section 881, R.S. § 4681, related to authority of the President to order surveys of coasts of the United States. See [section 883a of this title][/us/usc/t33/s883a].
-
-    Section 882, R.S. § 4682, related to additional authority to order surveys beyond twenty-league limit. See [section 883a of this title][/us/usc/t33/s883a].
-
-    Section 883, R.S. §§ 4683, 4684, related to mode of conducting surveys generally. See sections 883a and 883b of this title.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s878b.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch17%2FschII)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s878b.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881...883.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch17%2FschII)
 
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs10%2F2
-[/us/stat/61/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F788
-[/us/usc/t33/s883a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a
-[/us/usc/t33/s883a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a
 
 

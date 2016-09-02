@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1417][/us/stat/41/1417], related to privilege granted employees of continuing service after retirement and which was limited to a ten year period after Mar. 4, 1921.
+    Section, [act Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1417][/us/stat/41/1417], related to privilege granted employees of continuing service after retirement and which was limited to a ten year period after Mar. 4, 1921.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1417
 
 

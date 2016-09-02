@@ -17,7 +17,7 @@
 
     The Oil Spill Liability Trust Fund shall be available to the Secretary for actions taken under sections 1474 and 1476 of this title.
 
-([Pub. L. 93–248, § 17][/us/pl/93/248/s17], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 101–380, title II, § 2001][/us/pl/101/380/s2001], Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506].)
+([Pub. L. 93–248][/us/pl/93/248], § 17, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2001, Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/248/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs17
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/101/380/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2001
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F506
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t33/s1321/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fk

@@ -33,7 +33,7 @@
 
         (B) Departments and agencies of the United States are encouraged, to the extent consistent with efficient administration, to enter into arrangements with institutions of higher education for the full-time, part-time, or temporary employment, whether in the competitive or excepted service, of students enrolled in programs set forth in applications approved under paragraph (1).
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 110, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 830][/us/stat/86/830].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 110, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 830][/us/stat/86/830].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t33/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1261
 [/us/usc/t33/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1259
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F830
 
 

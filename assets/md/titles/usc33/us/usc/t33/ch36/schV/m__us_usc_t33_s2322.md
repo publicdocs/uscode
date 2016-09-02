@@ -17,7 +17,7 @@
 
     For purposes of Federal participation in water resource development projects which are to be carried out by the Secretary, benefits which are to be provided to a facility owned by a State (including the District of Columbia and a territory or possession of the United States), county, municipality, or other public entity shall not be treated as benefits to be provided a single owner or single entity. The Secretary shall not treat such a facility as a single owner or single entity for any purpose.
 
-([Pub. L. 101–640, title III, § 317][/us/pl/101/640/s317], Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 317, Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/640/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs317
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4641
 [/us/pl/101/640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

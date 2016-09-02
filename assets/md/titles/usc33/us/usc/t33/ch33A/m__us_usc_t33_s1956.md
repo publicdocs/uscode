@@ -53,19 +53,19 @@
 
         (D) any other territory or possession of the United States, or separate sovereign in free association with the United States, that is impacted by marine debris within its seaward boundaries.
 
-([Pub. L. 109–449, § 7][/us/pl/109/449/s7], Dec. 22, 2006, [120 Stat. 3338][/us/stat/120/3338]; [Pub. L. 112–213, title VI, § 608][/us/pl/112/213/s608], Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
+([Pub. L. 109–449][/us/pl/109/449], § 7, Dec. 22, 2006, [120 Stat. 3338][/us/stat/120/3338]; [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 608, Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
 
  __Amendments__ 
 
-    2012—Par. (2). [Pub. L. 112–213, § 608(1)][/us/pl/112/213/s608/1], substituted “[section 1954 of this title][/us/usc/t33/s1954]” for “[section 1914 of this title][/us/usc/t33/s1914]”.
+    2012—Par. (2). [Pub. L. 112–213][/us/pl/112/213], § 608(1), substituted “[section 1954 of this title][/us/usc/t33/s1954]” for “[section 1914 of this title][/us/usc/t33/s1914]”.
 
-    Par. (3). [Pub. L. 112–213, § 608(2)][/us/pl/112/213/s608/2], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
+    Par. (3). [Pub. L. 112–213][/us/pl/112/213], § 608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
 
-    Par. (5). [Pub. L. 112–213, § 608(3)][/us/pl/112/213/s608/3]–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
+    Par. (5). [Pub. L. 112–213][/us/pl/112/213], § 608(3)–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
 
-    Par. (6). [Pub. L. 112–213, § 608(6)][/us/pl/112/213/s608/6], added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
+    Par. (6). [Pub. L. 112–213][/us/pl/112/213], § 608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
 
-    Pars. (7), (8). [Pub. L. 112–213, § 608(7)][/us/pl/112/213/s608/7], redesignated par. (8) as (7). Former par. (7) redesignated (5).
+    Pars. (7), (8). [Pub. L. 112–213][/us/pl/112/213], § 608(7), redesignated par. (8) as (7). Former par. (7) redesignated (5).
 
 ----------
 
@@ -77,16 +77,16 @@
 [/us/usc/t33/s1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1954
 [/us/usc/t33/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901%2Fa
 [/us/usc/t33/s1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1952
-[/us/pl/109/449/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs7
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3338
-[/us/pl/112/213/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1578
-[/us/pl/112/213/s608/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608%2F1
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/usc/t33/s1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1954
 [/us/usc/t33/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1914
-[/us/pl/112/213/s608/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608%2F2
-[/us/pl/112/213/s608/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608%2F3
-[/us/pl/112/213/s608/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608%2F6
-[/us/pl/112/213/s608/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs608%2F7
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 
 

@@ -67,11 +67,11 @@
 
             (C) any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
 
-([Pub. L. 113–121, title V, § 5034][/us/pl/113/121/s5034], June 10, 2014, [128 Stat. 1343][/us/stat/128/1343].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5034, June 10, 2014, [128 Stat. 1343][/us/stat/128/1343].)
 
  __References in Text__ 
 
-    [Section 3907(a)(5) of this title][/us/usc/t33/s3907/a/5], referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title][/us/usc/t33/s3907/a/6] was redesignated as 3907(a)(5), by [Pub. L. 114–94, div. A, title I, § 1445][/us/pl/114/94/s1445], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437]. As amended, section 3907(a)(5) no longer relates to limitation.
+    [Section 3907(a)(5) of this title][/us/usc/t33/s3907/a/5], referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title][/us/usc/t33/s3907/a/6] was redesignated as 3907(a)(5), by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1445, Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437]. As amended, section 3907(a)(5) no longer relates to limitation.
 
  __“Secretary” Defined__ 
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/113/121/s5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5034
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1343
 [/us/usc/t33/s3907/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F5
 [/us/usc/t33/s3907/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F6
-[/us/pl/114/94/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1445
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

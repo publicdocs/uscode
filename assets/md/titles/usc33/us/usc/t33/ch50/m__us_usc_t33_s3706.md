@@ -33,7 +33,7 @@
 
         The Director shall encourage coordination of the Foundation’s ocean acidification activities with such activities of other nations and international organizations.
 
-([Pub. L. 111–11, title XII, § 12407][/us/pl/111/11/s12407], Mar. 30, 2009, [123 Stat. 1441][/us/stat/123/1441].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12407, Mar. 30, 2009, [123 Stat. 1441][/us/stat/123/1441].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t33/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3704
-[/us/pl/111/11/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12407
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1441
 
 

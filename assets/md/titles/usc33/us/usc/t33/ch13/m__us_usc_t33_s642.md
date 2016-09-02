@@ -17,7 +17,7 @@
 
     The President of the United States shall appoint seven commissioners, three of whom shall be selected from the Engineer Corps of the Army, one from the National Ocean Survey, and three from civil life, two of whom shall be civil engineers. And any vacancy which may occur in the commission shall in like manner be filled by the President of the United States; and he shall designate one of the commissioners appointed from the Engineer Corps of the Army to be president of the commission. The commissioners appointed under sections 641 to 644, 646, and 647 of this title, except those appointed from civil life, shall remain in office subject to removal by the President of the United States. Each commissioner appointed from civil life after November 7, 1966, shall be appointed for a term of nine years.
 
-([June 28, 1879, ch. 43, § 2][/us/act/1879-06-28/ch43/s2], [21 Stat. 37][/us/stat/21/37]; [Pub. L. 89–789, title II, § 208][/us/pl/89/789/s208], Nov. 7, 1966, [80 Stat. 1423][/us/stat/80/1423]; [Pub. L. 112–166, § 2(y)][/us/pl/112/166/s2/y], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([June 28, 1879, ch. 43][/us/act/1879-06-28/ch43], § 2, [21 Stat. 37][/us/stat/21/37]; [Pub. L. 89–789, title II][/us/pl/89/789/tII], § 208, Nov. 7, 1966, [80 Stat. 1423][/us/stat/80/1423]; [Pub. L. 112–166][/us/pl/112/166], § 2(y), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1879-06-28/ch43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-06-28%2Fch43%2Fs2
+[/us/act/1879-06-28/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-06-28%2Fch43
 [/us/stat/21/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F37
-[/us/pl/89/789/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F789%2Fs208
+[/us/pl/89/789/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F789%2FtII
 [/us/stat/80/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1423
-[/us/pl/112/166/s2/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fy
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/89/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F789

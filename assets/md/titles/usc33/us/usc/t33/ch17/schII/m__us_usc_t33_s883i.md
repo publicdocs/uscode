@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such funds as may be necessary to acquire, construct, maintain, and operate ships, stations, equipment, and facilities and for such other expenditures, including personal services at the seat of government and elsewhere and including the erection of temporary observatory buildings and lease of sites therefor, as may be necessary for the conduct of the activities herein authorized.
 
-([Aug. 6, 1947, ch. 504, § 9][/us/act/1947-08-06/ch504/s9], [61 Stat. 788][/us/stat/61/788].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 9, [61 Stat. 788][/us/stat/61/788].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs9
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F788
 [/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F787

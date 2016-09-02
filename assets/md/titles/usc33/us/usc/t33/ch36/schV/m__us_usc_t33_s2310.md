@@ -23,7 +23,7 @@
 
         The Secretary shall adjust the dollar amount specified in subsection (a) for inflation for the period beginning on November 17, 1986, and ending on June 10, 2014.
 
-([Pub. L. 99–662, title XI, § 1156][/us/pl/99/662/s1156], Nov. 17, 1986, [100 Stat. 4256][/us/stat/100/4256]; [Pub. L. 113–121, title I, § 1032][/us/pl/113/121/s1032], June 10, 2014, [128 Stat. 1233][/us/stat/128/1233].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1156, Nov. 17, 1986, [100 Stat. 4256][/us/stat/100/4256]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1032, June 10, 2014, [128 Stat. 1233][/us/stat/128/1233].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1156
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4256
-[/us/pl/113/121/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1032
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1233
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

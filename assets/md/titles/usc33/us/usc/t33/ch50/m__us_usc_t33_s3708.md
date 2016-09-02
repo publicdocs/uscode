@@ -39,7 +39,7 @@
 
         (4) $15,000,000 for fiscal year 2012.
 
-([Pub. L. 111–11, title XII, § 12409][/us/pl/111/11/s12409], Mar. 30, 2009, [123 Stat. 1441][/us/stat/123/1441].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12409, Mar. 30, 2009, [123 Stat. 1441][/us/stat/123/1441].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12409
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1441
 
 

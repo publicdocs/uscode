@@ -43,7 +43,7 @@
 
     (7) “United States” means the States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
 
-([Pub. L. 93–248, § 2][/us/pl/93/248/s2], Feb. 5, 1974, [88 Stat. 8][/us/stat/88/8]; [Pub. L. 95–302, § 1(1)][/us/pl/95/302/s1/1], June 26, 1978, [92 Stat. 344][/us/stat/92/344].)
+([Pub. L. 93–248][/us/pl/93/248], § 2, Feb. 5, 1974, [88 Stat. 8][/us/stat/88/8]; [Pub. L. 95–302][/us/pl/95/302], § 1(1), June 26, 1978, [92 Stat. 344][/us/stat/92/344].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Short Title__ 
 
-[Pub. L. 93–248, § 1][/us/pl/93/248/s1], Feb. 5, 1974, [88 Stat. 8][/us/stat/88/8], provided: 
+[Pub. L. 93–248][/us/pl/93/248], § 1, Feb. 5, 1974, [88 Stat. 8][/us/stat/88/8], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Intervention on the High Seas Act’.”
 
@@ -79,16 +79,16 @@
 ----------
 
 [/us/usc/t33/s1473/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1473%2Fa
-[/us/pl/93/248/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs2
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F8
-[/us/pl/95/302/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F1
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F344
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs2
 [/us/usc/t33/s1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1487
-[/us/pl/93/248/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs1
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F8
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

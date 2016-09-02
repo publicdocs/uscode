@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t33/ch12/schV/m__us_usc_t33_s622.md) | [Next](./../../../../..//us/usc/t33/ch12/schV/m__us_usc_t33_s624.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs623)
 
-## § 623. Repealed. [Oct. 31, 1951, ch. 654, § 1(57)][/us/act/1951-10-31/ch654/s1/57], [65 Stat. 703][/us/stat/65/703]
+## § 623. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(57), [65 Stat. 703][/us/stat/65/703]
 
-    Section, [act Aug. 11, 1888, ch. 860, § 3][/us/act/1888-08-11/ch860/s3], [25 Stat. 423][/us/stat/25/423], related to letting of contracts to lowest responsible bidder.
+    Section, [act Aug. 11, 1888, ch. 860][/us/act/1888-08-11/ch860], § 3, [25 Stat. 423][/us/stat/25/423], related to letting of contracts to lowest responsible bidder.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F57
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F703
-[/us/act/1888-08-11/ch860/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-11%2Fch860%2Fs3
+[/us/act/1888-08-11/ch860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-11%2Fch860
 [/us/stat/25/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F423
 
 

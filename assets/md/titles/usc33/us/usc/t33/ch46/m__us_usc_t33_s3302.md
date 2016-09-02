@@ -119,7 +119,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
 
-([Pub. L. 110–114, title IX, § 9003][/us/pl/110/114/s9003], Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288]; [Pub. L. 110–274, § 1][/us/pl/110/274/s1], July 15, 2008, [122 Stat. 2493][/us/stat/122/2493]; [Pub. L. 113–121, title III, § 3016(c)][/us/pl/113/121/s3016/c], June 10, 2014, [128 Stat. 1291][/us/stat/128/1291].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9003, Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288]; [Pub. L. 110–274][/us/pl/110/274], § 1, July 15, 2008, [122 Stat. 2493][/us/stat/122/2493]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(c), June 10, 2014, [128 Stat. 1291][/us/stat/128/1291].)
 
  __References in Text__ 
 
@@ -127,13 +127,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–121, § 3016(c)(1)][/us/pl/113/121/s3016/c/1], added par. (1), redesignated par. (3) as (2), inserted “voting” after “14” in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
+    2014—Subsec. (b). [Pub. L. 113–121][/us/pl/113/121], § 3016(c)(1), added par. (1), redesignated par. (3) as (2), inserted “voting” after “14” in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) The Secretary (or the Secretary’s designee), who shall serve as the chairperson of the Committee.
 
     “(2) The Administrator of the Federal Emergency Management Agency (or the Administrator’s designee).”
 
-    Subsecs. (c) to (h). [Pub. L. 113–121, § 3016(c)(2)][/us/pl/113/121/s3016/c/2], (3), added subsecs. (c) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (c) to (f) which related to duties, purposes, compensation of members, and travel expenses, respectively.
+    Subsecs. (c) to (h). [Pub. L. 113–121][/us/pl/113/121], § 3016(c)(2), (3), added subsecs. (c) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (c) to (f) which related to duties, purposes, compensation of members, and travel expenses, respectively.
 
     2008—Subsec. (f). [Pub. L. 110–274][/us/pl/110/274] substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
 
@@ -149,16 +149,16 @@
 ----------
 
 [/us/usc/t33/s3303b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3303b
-[/us/pl/110/114/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9003
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1288
-[/us/pl/110/274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F274%2Fs1
+[/us/pl/110/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F274
 [/us/stat/122/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2493
-[/us/pl/113/121/s3016/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fc
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1291
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/113/121/s3016/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fc%2F1
-[/us/pl/113/121/s3016/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fc%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F274
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

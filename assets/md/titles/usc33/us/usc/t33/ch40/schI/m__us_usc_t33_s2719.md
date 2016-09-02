@@ -17,7 +17,7 @@
 
     A State may enforce, on the navigable waters of the State, the requirements for evidence of financial responsibility under [section 2716 of this title][/us/usc/t33/s2716].
 
-([Pub. L. 101–380, title I, § 1019][/us/pl/101/380/s1019], Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1019, Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
-[/us/pl/101/380/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1019
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F506
 
 

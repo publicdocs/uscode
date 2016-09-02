@@ -115,25 +115,25 @@
 
         (3) the Secretary does not find that the project or separable element is no longer feasible.
 
-([Pub. L. 99–662, title II, § 204][/us/pl/99/662/s204], Nov. 17, 1986, [100 Stat. 4099][/us/stat/100/4099]; [Pub. L. 101–640, title III, § 303][/us/pl/101/640/s303], Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 113–121, title I, § 1014(b)(1)][/us/pl/113/121/s1014/b/1], June 10, 2014, [128 Stat. 1220][/us/stat/128/1220].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 204, Nov. 17, 1986, [100 Stat. 4099][/us/stat/100/4099]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 303, Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1014(b)(1), June 10, 2014, [128 Stat. 1220][/us/stat/128/1220].)
 
  __Amendments__ 
 
     2014—[Pub. L. 113–121][/us/pl/113/121] amended section generally. Prior to amendment, section related to construction of projects by non-Federal interests.
 
-    1990—Subsec. (c). [Pub. L. 101–640, § 303(a)][/us/pl/101/640/s303/a], inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to [section 577 of this title][/us/usc/t33/s577] or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
+    1990—Subsec. (c). [Pub. L. 101–640][/us/pl/101/640], § 303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to [section 577 of this title][/us/usc/t33/s577] or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
 
-    Subsec. (e). [Pub. L. 101–640, § 303(b)(1)][/us/pl/101/640/s303/b/1], redesignated subsec. (e), relating to operation and maintenance, as (f).
+    Subsec. (e). [Pub. L. 101–640][/us/pl/101/640], § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
 
-    Subsec. (e)(1). [Pub. L. 101–640, § 303(b)(2)][/us/pl/101/640/s303/b/2], (3), in introductory provisions inserted “including any small navigation project approved pursuant to [section 577 of this title][/us/usc/t33/s577],” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
+    Subsec. (e)(1). [Pub. L. 101–640][/us/pl/101/640], § 303(b)(2), (3), in introductory provisions inserted “including any small navigation project approved pursuant to [section 577 of this title][/us/usc/t33/s577],” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
 
-    Subsec. (f). [Pub. L. 101–640, § 303(b)(1)][/us/pl/101/640/s303/b/1], redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 101–640][/us/pl/101/640], § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 101–640, § 303(b)(1)][/us/pl/101/640/s303/b/1], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 101–640][/us/pl/101/640], § 303(b)(1), redesignated subsec. (f) as (g).
 
  __Savings Provision__ 
 
-[Pub. L. 113–121, title I, § 1014(d)][/us/pl/113/121/s1014/d], June 10, 2014, [128 Stat. 1222][/us/stat/128/1222], provided that: 
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1014(d), June 10, 2014, [128 Stat. 1222][/us/stat/128/1222], provided that: 
 
 > “Nothing in this section \[amending this section and [section 2231 of this title][/us/usc/t33/s2231], repealing sections 426i–1 and 701b–13 of this title, and repealing provisions set out as a note under this section\] may be construed to affect an agreement in effect on the date of enactment of this Act \[June 10, 2014\], or an agreement that is finalized between the Corps of Engineers and a non-Federal interest on or before December 31, 2014, under any of the following sections (as such sections were in effect on the day before such date of enactment):
 
@@ -145,13 +145,13 @@
 
  __Operation and Maintenance of Certain Projects__ 
 
-[Pub. L. 113–121, title I, § 1016][/us/pl/113/121/s1016], June 10, 2014, [128 Stat. 1223][/us/stat/128/1223], provided that: 
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1016, June 10, 2014, [128 Stat. 1223][/us/stat/128/1223], provided that: 
 
 > “The Secretary \[of the Army\] may assume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 ([33 U.S.C. 2211(b)][/us/usc/t33/s2211/b]) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 ([33 U.S.C. 2232(f)][/us/usc/t33/s2232/f]) are met.”
 
  __Demonstration of Construction of Federal Project by Non-Federal Interests__ 
 
-    [Pub. L. 101–640, title IV, § 404][/us/pl/101/640/s404], Nov. 28, 1990, [104 Stat. 4646][/us/stat/104/4646], which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by [Pub. L. 113–121, title I, § 1014(c)(1)][/us/pl/113/121/s1014/c/1], June 10, 2014, [128 Stat. 1222][/us/stat/128/1222].
+    [Pub. L. 101–640, title IV][/us/pl/101/640/tIV], § 404, Nov. 28, 1990, [104 Stat. 4646][/us/stat/104/4646], which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1014(c)(1), June 10, 2014, [128 Stat. 1222][/us/stat/128/1222].
 
 ----------
 
@@ -166,33 +166,33 @@
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
 [/us/usc/t33/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2223
 [/us/usc/t33/s2211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211%2Fb
-[/us/pl/99/662/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs204
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4099
-[/us/pl/101/640/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4634
-[/us/pl/113/121/s1014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fb%2F1
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1220
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/101/640/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fa
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/usc/t33/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs577
-[/us/pl/101/640/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fb%2F1
-[/us/pl/101/640/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fb%2F2
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/usc/t33/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs577
-[/us/pl/101/640/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fb%2F1
-[/us/pl/101/640/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fb%2F1
-[/us/pl/113/121/s1014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fd
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1222
 [/us/usc/t33/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2231
 [/us/usc/t33/s2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2232
 [/us/usc/t33/s426i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426i%E2%80%931
 [/us/usc/t33/s701b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9313
-[/us/pl/113/121/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1016
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1223
 [/us/usc/t33/s2211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211%2Fb
 [/us/usc/t33/s2232/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2232%2Ff
-[/us/pl/101/640/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs404
+[/us/pl/101/640/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIV
 [/us/stat/104/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4646
-[/us/pl/113/121/s1014/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fc%2F1
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1222
 
 

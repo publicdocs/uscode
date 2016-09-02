@@ -51,7 +51,7 @@
 
         (8) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Subsidies and Countervailing Measures referred to in [section 3511(d)(12) of title 19][/us/usc/t19/s3511/d/12], or any other export subsidy prohibited by that agreement.
 
-([Pub. L. 102–567, title VI, § 607][/us/pl/102/567/s607], Oct. 29, 1992, [106 Stat. 4302][/us/stat/106/4302]; [Pub. L. 106–36, title I, § 1002(f)][/us/pl/106/36/s1002/f], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 607, Oct. 29, 1992, [106 Stat. 4302][/us/stat/106/4302]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(f), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Fisheries Research Vessel Procurement__ 
 
-[Pub. L. 106–450, title IV, § 401][/us/pl/106/450/s401], Nov. 7, 2000, [114 Stat. 1945][/us/stat/114/1945], provided that: 
+[Pub. L. 106–450, title IV][/us/pl/106/450/tIV], § 401, Nov. 7, 2000, [114 Stat. 1945][/us/stat/114/1945], provided that: 
 
 > “Notwithstanding [section 644 of title 15][/us/usc/t15/s644], United States Code, and section 19.502–2 of title 48, Code of Federal Regulations, the Secretary of Commerce shall seek to procure Fisheries Research Vessels through full and open competition from responsible United States shipbuilding companies irrespective of size.”
 
@@ -71,13 +71,13 @@
 ----------
 
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/102/567/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs607
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4302
-[/us/pl/106/36/s1002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Ff
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/106/450/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs401
+[/us/pl/106/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtIV
 [/us/stat/114/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1945
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 

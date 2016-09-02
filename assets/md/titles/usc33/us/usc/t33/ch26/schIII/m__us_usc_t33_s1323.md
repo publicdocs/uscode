@@ -45,7 +45,7 @@
 
                 Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government, as described in subsection (a), shall not be obligated to pay or reimburse any fee, charge, or assessment described in paragraph (1), except to the extent and in an amount provided in advance by any appropriations Act to pay or reimburse the fee, charge, or assessment.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 313, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 60, 61(a), Dec. 27, 1977, [91 Stat. 1597][/us/stat/91/1597], 1598; [Pub. L. 111–378, § 1][/us/pl/111/378/s1], Jan. 4, 2011, [124 Stat. 4128][/us/stat/124/4128].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 313, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 60, 61(a), Dec. 27, 1977, [91 Stat. 1597][/us/stat/91/1597], 1598; [Pub. L. 111–378][/us/pl/111/378], § 1, Jan. 4, 2011, [124 Stat. 4128][/us/stat/124/4128].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
     1977—Subsec. (a). [Pub. L. 95–217][/us/pl/95/217], §§ 60, 61(a), designated existing provisions as subsec. (a) and inserted provisions making officers, agents, or employees of Federal departments, agencies, or instrumentalities subject to Federal, State, interstate, and local requirements, administrative authority, process, and sanctions respecting the control and abatement of water pollution in the same manner and to the same extent as non-governmental entities, including the payment of reasonable service charges, inserted provisions covering Federal employee liability, and inserted provisions relating to military source exemptions and the issuance of regulations covering those exemptions.
 
-    Subsec. (b). [Pub. L. 95–217, § 60][/us/pl/95/217/s60], added subsec. (b).
+    Subsec. (b). [Pub. L. 95–217][/us/pl/95/217], § 60, added subsec. (b).
 
  __Transfer of Functions__ 
 
@@ -61,7 +61,7 @@
 
  __Marine Guidance Systems__ 
 
-[Pub. L. 105–383, title IV, § 425(b)][/us/pl/105/383/s425/b], Nov. 13, 1998, [112 Stat. 3441][/us/stat/112/3441], provided that: 
+[Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 425(b), Nov. 13, 1998, [112 Stat. 3441][/us/stat/112/3441], provided that: 
 
 > “The Secretary of Transportation shall, within 12 months after the date of the enactment of this Act \[Nov. 13, 1998\], evaluate and report to the Congress on the suitability of marine sector laser lighting, cold cathode lighting, and ultraviolet enhanced vision technologies for use in guiding marine vessels and traffic.”
 
@@ -87,17 +87,17 @@
 [/us/usc/t33/s1314/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fd%2F3
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F875
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1597
-[/us/pl/111/378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F378%2Fs1
+[/us/pl/111/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F378
 [/us/stat/124/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4128
 [/us/pl/111/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F378
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/95/217/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs60
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/383/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs425%2Fb
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3441
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

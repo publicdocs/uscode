@@ -245,7 +245,7 @@
 
     (44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(vi)][/us/usc/t42/s9601/20/G/vi]).
 
-([Pub. L. 101–380, title I, § 1001][/us/pl/101/380/s1001], Aug. 18, 1990, [104 Stat. 486][/us/stat/104/486]; [Pub. L. 105–383, title III, § 307(a)][/us/pl/105/383/s307/a], Nov. 13, 1998, [112 Stat. 3421][/us/stat/112/3421]; [Pub. L. 108–293, title VII, § 703(a)][/us/pl/108/293/s703/a], (b), Aug. 9, 2004, [118 Stat. 1069][/us/stat/118/1069], 1071; [Pub. L. 111–281, title VII, § 713][/us/pl/111/281/s713], Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1001, Aug. 18, 1990, [104 Stat. 486][/us/stat/104/486]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 307(a), Nov. 13, 1998, [112 Stat. 3421][/us/stat/112/3421]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 703(a), (b), Aug. 9, 2004, [118 Stat. 1069][/us/stat/118/1069], 1071; [Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 713, Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988].)
 
  __References in Text__ 
 
@@ -263,39 +263,39 @@
 
     2010—Par. (32)(A). [Pub. L. 111–281][/us/pl/111/281] inserted “In the case of a vessel, the term ‘responsible party’ also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in [section 3703a(b)(3) of title 46][/us/usc/t46/s3703a/b/3]).” after “chartering the vessel.”
 
-    2004—Par. (26). [Pub. L. 108–293, § 703(a)][/us/pl/108/293/s703/a], amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
+    2004—Par. (26). [Pub. L. 108–293][/us/pl/108/293], § 703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
 
-    Pars. (38) to (44). [Pub. L. 108–293, § 703(b)][/us/pl/108/293/s703/b], added pars. (38) to (44).
+    Pars. (38) to (44). [Pub. L. 108–293][/us/pl/108/293], § 703(b), added pars. (38) to (44).
 
     1998—Par. (23). [Pub. L. 105–383][/us/pl/105/383] amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9601][/us/usc/t42/s9601]) and which is subject to the provisions of that Act;”.
 
  __Effective Date__ 
 
-[Pub. L. 101–380, title I, § 1020][/us/pl/101/380/s1020], Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506], provided that: 
+[Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1020, Aug. 18, 1990, [104 Stat. 506][/us/stat/104/506], provided that: 
 
 > “This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\].”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–241, title VI, § 601][/us/pl/109/241/s601], July 11, 2006, [120 Stat. 553][/us/stat/120/553], provided that: 
+[Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 601, July 11, 2006, [120 Stat. 553][/us/stat/120/553], provided that: 
 
 > “This title \[enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under [section 2704 of this title][/us/usc/t33/s2704]\] may be cited as the ‘Delaware River Protection Act of 2006’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–55, § 1][/us/pl/104/55/s1], Nov. 20, 1995, [109 Stat. 546][/us/stat/109/546], provided that: 
+[Pub. L. 104–55][/us/pl/104/55], § 1, Nov. 20, 1995, [109 Stat. 546][/us/stat/109/546], provided that: 
 
 > “This Act \[enacting [section 2720 of this title][/us/usc/t33/s2720] and amending sections 2704 and 2716 of this title\] may be cited as the ‘Edible Oil Regulatory Reform Act’.”
 
  __Short Title of 1990 Amendments__ 
 
-[Pub. L. 101–537, title II, § 2001][/us/pl/101/537/s2001], Nov. 8, 1990, [104 Stat. 2375][/us/stat/104/2375], and [Pub. L. 101–646, title IV, § 4001][/us/pl/101/646/s4001], Nov. 29, 1990, [104 Stat. 4788][/us/stat/104/4788], as amended by [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
+[Pub. L. 101–537, title II][/us/pl/101/537/tII], § 2001, Nov. 8, 1990, [104 Stat. 2375][/us/stat/104/2375], and [Pub. L. 101–646, title IV][/us/pl/101/646/tIV], § 4001, Nov. 29, 1990, [104 Stat. 4788][/us/stat/104/4788], as amended by [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
 
 > “This title \[amending [section 2761 of this title][/us/usc/t33/s2761]\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
 
  __Short Title__ 
 
-[Pub. L. 101–380, § 1][/us/pl/101/380/s1], Aug. 18, 1990, [104 Stat. 484][/us/stat/104/484], provided that: 
+[Pub. L. 101–380][/us/pl/101/380], § 1, Aug. 18, 1990, [104 Stat. 484][/us/stat/104/484], provided that: 
 
 > “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, [section 3145 of Title 16][/us/usc/t16/s3145], Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing [section 1517 of this title][/us/usc/t33/s1517] and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, [section 92 of Title 14][/us/usc/t14/s92], Coast Guard, [section 9509 of Title 26][/us/usc/t26/s9509], sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under [section 401 of Title 23][/us/usc/t23/s401], Highways, and repealing provisions set out as a note under [section 1811 of Title 43][/us/usc/t43/s1811]\] may be cited as the ‘Oil Pollution Act of 1990’.”
 
@@ -334,13 +334,13 @@
 [/us/usc/t42/s9601/20/G/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F20%2FG%2Fiv
 [/us/usc/t42/s9601/20/G/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F20%2FG%2Fv
 [/us/usc/t42/s9601/20/G/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F20%2FG%2Fvi
-[/us/pl/101/380/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1001
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F486
-[/us/pl/105/383/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs307%2Fa
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3421
-[/us/pl/108/293/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs703%2Fa
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1069
-[/us/pl/111/281/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs713
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2988
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
@@ -356,26 +356,26 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s3703a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3703a%2Fb%2F3
-[/us/pl/108/293/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs703%2Fa
-[/us/pl/108/293/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs703%2Fb
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F506
-[/us/pl/109/241/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs601
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F553
 [/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
-[/us/pl/104/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55%2Fs1
+[/us/pl/104/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55
 [/us/stat/109/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F546
 [/us/usc/t33/s2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2720
-[/us/pl/101/537/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs2001
+[/us/pl/101/537/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtII
 [/us/stat/104/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2375
-[/us/pl/101/646/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4001
+[/us/pl/101/646/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIV
 [/us/stat/104/4788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4788
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/usc/t33/s2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2761
-[/us/pl/101/380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t16/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3145
 [/us/usc/t33/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1517

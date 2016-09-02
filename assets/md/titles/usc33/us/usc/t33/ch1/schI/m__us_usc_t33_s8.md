@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5244 derived from [act May 23, 1828, ch. 75, § 7][/us/act/1828-05-23/ch75/s7], [4 Stat. 290][/us/stat/4/290].
+    R.S. § 5244 derived from [act May 23, 1828, ch. 75][/us/act/1828-05-23/ch75], § 7, [4 Stat. 290][/us/stat/4/290].
 
     Another R.S. 5244 is classified to [section 43 of Title 12][/us/usc/t12/s43], Banks and Banking.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1828-05-23/ch75/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1828-05-23%2Fch75%2Fs7
+[/us/act/1828-05-23/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1828-05-23%2Fch75
 [/us/stat/4/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F290
 [/us/usc/t12/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs43
 

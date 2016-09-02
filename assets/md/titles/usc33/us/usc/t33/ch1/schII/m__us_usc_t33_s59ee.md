@@ -17,7 +17,7 @@
 
     For purposes of bridge administration, the Sacramento River Barge Canal, which connects the Sacramento Deep Water Ship Channel with the Sacramento River in West Sacramento, Yolo County, California, is declared to not be navigable waters of the United States for purposes of the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.) from the eastern boundary of the Port of Sacramento to a point 1,200 feet east of the William G. Stone Lock.
 
-([Pub. L. 102–241, § 34][/us/pl/102/241/s34], Dec. 19, 1991, [105 Stat. 2223][/us/stat/105/2223].)
+([Pub. L. 102–241][/us/pl/102/241], § 34, Dec. 19, 1991, [105 Stat. 2223][/us/stat/105/2223].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
-[/us/pl/102/241/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs34
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2223
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847

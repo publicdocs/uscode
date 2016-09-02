@@ -77,7 +77,7 @@
 
             (C) an assessment of the impact of the authority under this section on other water resources projects.
 
-([Pub. L. 113–121, title I, § 1020][/us/pl/113/121/s1020], June 10, 2014, [128 Stat. 1227][/us/stat/128/1227].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1020, June 10, 2014, [128 Stat. 1227][/us/stat/128/1227].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/113/121/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1020
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1227
 [/us/pl/113/121/s1018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2

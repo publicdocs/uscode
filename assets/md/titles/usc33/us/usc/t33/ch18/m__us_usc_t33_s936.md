@@ -19,7 +19,7 @@
 
     (b) No contract or policy of insurance issued by a carrier under this chapter shall be canceled prior to the date specified in such contract or policy for its expiration until at least thirty days have elapsed after a notice of cancellation has been sent to the deputy commissioner and to the employer in accordance with the provisions of subsection (c) of [section 912 of this title][/us/usc/t33/s912].
 
-([Mar. 4, 1927, ch. 509, § 36][/us/act/1927-03-04/ch509/s36], [44 Stat. 1441][/us/stat/44/1441].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 36, [44 Stat. 1441][/us/stat/44/1441].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t33/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs935
 [/us/usc/t33/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs912
-[/us/act/1927-03-04/ch509/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs36
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1441
 
 

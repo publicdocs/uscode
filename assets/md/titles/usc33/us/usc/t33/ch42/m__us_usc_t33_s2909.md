@@ -31,13 +31,13 @@
 
         Federal agencies may cooperate in carrying out scientific and other programs necessary to carry out this chapter, and may provide facilities and personnel, for the purpose of assisting the Council in carrying out its duties under this chapter.
 
-([Pub. L. 106–457, title I, § 110][/us/pl/106/457/s110], Nov. 7, 2000, [114 Stat. 1966][/us/stat/114/1966]; [Pub. L. 110–114, title V, § 5017(h)][/us/pl/110/114/s5017/h], Nov. 8, 2007, [121 Stat. 1199][/us/stat/121/1199].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 110, Nov. 7, 2000, [114 Stat. 1966][/us/stat/114/1966]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(h), Nov. 8, 2007, [121 Stat. 1199][/us/stat/121/1199].)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 110–114, § 5017(h)(1)][/us/pl/110/114/s5017/h/1], inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
+    2007—Subsec. (b)(1). [Pub. L. 110–114][/us/pl/110/114], § 5017(h)(1), inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
 
-    Subsecs. (d), (e). [Pub. L. 110–114, § 5017(h)(2)][/us/pl/110/114/s5017/h/2], struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.
+    Subsecs. (d), (e). [Pub. L. 110–114][/us/pl/110/114], § 5017(h)(2), struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/106/457/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs110
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1966
-[/us/pl/110/114/s5017/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fh
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1199
-[/us/pl/110/114/s5017/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fh%2F1
-[/us/pl/110/114/s5017/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fh%2F2
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 
 

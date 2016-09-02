@@ -27,7 +27,7 @@
 
         For the purposes of this section, the term “United States” includes the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other Commonwealth, territory, or possession of the United States.
 
-([Feb. 19, 1895, ch. 102, § 2][/us/act/1895-02-19/ch102/s2], [28 Stat. 672][/us/stat/28/672]; [Pub. L. 96–324, § 1][/us/pl/96/324/s1], Aug. 8, 1980, [94 Stat. 1020][/us/stat/94/1020]; [Pub. L. 96–376, § 13][/us/pl/96/376/s13], Oct. 3, 1980, [94 Stat. 1511][/us/stat/94/1511]; [Pub. L. 96–591, § 9][/us/pl/96/591/s9], Dec. 24, 1980, [94 Stat. 3436][/us/stat/94/3436].)
+([Feb. 19, 1895, ch. 102][/us/act/1895-02-19/ch102], § 2, [28 Stat. 672][/us/stat/28/672]; [Pub. L. 96–324][/us/pl/96/324], § 1, Aug. 8, 1980, [94 Stat. 1020][/us/stat/94/1020]; [Pub. L. 96–376][/us/pl/96/376], § 13, Oct. 3, 1980, [94 Stat. 1511][/us/stat/94/1511]; [Pub. L. 96–591][/us/pl/96/591], § 9, Dec. 24, 1980, [94 Stat. 3436][/us/stat/94/3436].)
 
  __References in Text__ 
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/act/1895-02-19/ch102/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-19%2Fch102%2Fs2
+[/us/act/1895-02-19/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-19%2Fch102
 [/us/stat/28/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F672
-[/us/pl/96/324/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F324%2Fs1
+[/us/pl/96/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F324
 [/us/stat/94/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1020
-[/us/pl/96/376/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376%2Fs13
+[/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376
 [/us/stat/94/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1511
-[/us/pl/96/591/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs9
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/stat/94/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3436
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/act/1897-06-07/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-07%2Fch4

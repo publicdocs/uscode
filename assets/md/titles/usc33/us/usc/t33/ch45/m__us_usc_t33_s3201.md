@@ -21,7 +21,7 @@
 
     (2) The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 109–424, § 2][/us/pl/109/424/s2], Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902]; [Pub. L. 109–479, title VIII, § 802][/us/pl/109/479/s802], Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653].)
+([Pub. L. 109–424][/us/pl/109/424], § 2, Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 802, Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653].)
 
  __Codification__ 
 
@@ -29,11 +29,11 @@
 
  __Short Title__ 
 
-[Pub. L. 109–479, title VIII, § 801][/us/pl/109/479/s801], Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653], provided that: 
+[Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 801, Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Tsunami Warning and Education Act’.”
 
-[Pub. L. 109–424, § 1][/us/pl/109/424/s1], Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902], provided that: 
+[Pub. L. 109–424][/us/pl/109/424], § 1, Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Tsunami Warning and Education Act’.”
 
@@ -44,16 +44,16 @@
 ----------
 ----------
 
-[/us/pl/109/424/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs2
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2902
-[/us/pl/109/479/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs802
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3653
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/109/479/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs802
-[/us/pl/109/479/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs801
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3653
-[/us/pl/109/424/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs1
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2902
 
 

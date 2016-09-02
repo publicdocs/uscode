@@ -19,7 +19,7 @@
 
     Any regulations prescribed by the Secretary of the Army in pursuance of this section may be enforced as provided in [section 413 of this title][/us/usc/t33/s413], the provisions whereof are made applicable to the said regulations.
 
-([Aug. 18, 1894, ch. 299, § 4][/us/act/1894-08-18/ch299/s4], [28 Stat. 362][/us/stat/28/362]; [June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], §§ 6, 11, [32 Stat. 374][/us/stat/32/374]; [Aug. 8, 1917, ch. 49, § 7][/us/act/1917-08-08/ch49/s7], [40 Stat. 266][/us/stat/40/266]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([Aug. 18, 1894, ch. 299][/us/act/1894-08-18/ch299], § 4, [28 Stat. 362][/us/stat/28/362]; [June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], §§ 6, 11, [32 Stat. 374][/us/stat/32/374]; [Aug. 8, 1917, ch. 49][/us/act/1917-08-08/ch49], § 7, [40 Stat. 266][/us/stat/40/266]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Rules and Regulations__ 
 
@@ -49,16 +49,16 @@
 ----------
 
 [/us/usc/t33/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs413
-[/us/act/1894-08-18/ch299/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299%2Fs4
+[/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F362
 [/us/act/1902-06-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079
 [/us/stat/32/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F374
-[/us/act/1917-08-08/ch49/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49%2Fs7
+[/us/act/1917-08-08/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49
 [/us/stat/40/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F266
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t33/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs499
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

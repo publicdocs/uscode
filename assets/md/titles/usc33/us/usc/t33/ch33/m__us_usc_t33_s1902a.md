@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901][/us/usc/t33/s1901] et seq.) that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
 
-([Pub. L. 107–295, title II, § 204][/us/pl/107/295/s204], Nov. 25, 2002, [116 Stat. 2094][/us/stat/116/2094].)
+([Pub. L. 107–295, title II][/us/pl/107/295/tII], § 204, Nov. 25, 2002, [116 Stat. 2094][/us/stat/116/2094].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
-[/us/pl/107/295/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs204
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2094
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2297

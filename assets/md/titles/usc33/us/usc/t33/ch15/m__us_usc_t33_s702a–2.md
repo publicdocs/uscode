@@ -17,7 +17,7 @@
 
     The Boeuf Floodway, authorized by the provisions adopted in [section 702a of this title][/us/usc/t33/s702a], shall be abandoned as soon as the Eudora Floodway, provided for in Flood Control Committee Document Numbered 1, Seventy-fourth Congress, first session, is in operative condition and the back protection levee recommended in said document, extending north from the head of the Eudora Floodway, shall have been constructed.
 
-([June 15, 1936, ch. 548, § 2][/us/act/1936-06-15/ch548/s2], [49 Stat. 1509][/us/stat/49/1509].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 2, [49 Stat. 1509][/us/stat/49/1509].)
 
  __Abandonment and Repeal of Projects__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s702a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a
-[/us/act/1936-06-15/ch548/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs2
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1509
 [/us/usc/t33/s702a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a%E2%80%9312
 

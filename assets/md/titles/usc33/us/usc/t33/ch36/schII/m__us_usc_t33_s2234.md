@@ -17,7 +17,7 @@
 
     Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Saint Lawrence Seaway Development Corporation.
 
-([Pub. L. 99–662, title II, § 206][/us/pl/99/662/s206], Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 206, Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs206
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4102
 
 

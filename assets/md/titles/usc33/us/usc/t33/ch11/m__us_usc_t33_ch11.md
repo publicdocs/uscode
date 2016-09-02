@@ -403,7 +403,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535c" data-uslm-ref="/us/usc/t33/s535c">535c.</a>  </td>
 
-    <td> Secretary of Transportation’s approval; commencement and completion requirements; extension of time limits.  </td>
+    <td> Approval of Secretary; commencement and completion requirements; extension of time limits.  </td>
 
   </tr>
 
@@ -443,7 +443,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs535h" data-uslm-ref="/us/usc/t33/s535h">535h.</a>  </td>
 
-    <td> Report of Secretary of Transportation’s approval during fiscal year.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -459,7 +459,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
  __Bridge Permits__ 
 
-[Pub. L. 112–213, title VII, § 712(a)][/us/pl/112/213/s712/a], Dec. 20, 2012, [126 Stat. 1582][/us/stat/126/1582], provided that:
+[Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 712(a), Dec. 20, 2012, [126 Stat. 1582][/us/stat/126/1582], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -476,7 +476,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 ----------
 ----------
 
-[/us/pl/112/213/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs712%2Fa
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1582
 [/us/act/1899-03-03/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fs9
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401

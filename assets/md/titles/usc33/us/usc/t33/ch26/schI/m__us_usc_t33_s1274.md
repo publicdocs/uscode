@@ -51,19 +51,19 @@
 
         Not later than October 1, 2015, the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 122, formerly § 121, as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–225; renumbered § 122, [Pub. L. 109–392, § 2][/us/pl/109/392/s2], Dec. 12, 2006, [120 Stat. 2703][/us/stat/120/2703]; amended [Pub. L. 113–121, title V, § 5011][/us/pl/113/121/s5011], June 10, 2014, [128 Stat. 1327][/us/stat/128/1327].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 122, formerly § 121, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 112(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–225; renumbered § 122, [Pub. L. 109–392][/us/pl/109/392], § 2, Dec. 12, 2006, [120 Stat. 2703][/us/stat/120/2703]; amended [Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5011, June 10, 2014, [128 Stat. 1327][/us/stat/128/1327].)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–121, § 5011(1)][/us/pl/113/121/s5011/1], struck out “Wet weather” before “Watershed” in section catchline.
+    2014—[Pub. L. 113–121][/us/pl/113/121], § 5011(1), struck out “Wet weather” before “Watershed” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–121, § 5011(2)(A)][/us/pl/113/121/s5011/2/A], in introductory provisions, substituted “to a municipality or municipal entity” for “for treatment works” and struck out “of wet weather discharge control” after “the following areas”.
+    Subsec. (a). [Pub. L. 113–121][/us/pl/113/121], § 5011(2)(A), in introductory provisions, substituted “to a municipality or municipal entity” for “for treatment works” and struck out “of wet weather discharge control” after “the following areas”.
 
-    Subsec. (a)(2). [Pub. L. 113–121, § 5011(2)(B)][/us/pl/113/121/s5011/2/B], substituted “to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite” for “in reducing such pollutants from stormwater discharges”.
+    Subsec. (a)(2). [Pub. L. 113–121][/us/pl/113/121], § 5011(2)(B), substituted “to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite” for “in reducing such pollutants from stormwater discharges”.
 
-    Subsec. (a)(3) to (6). [Pub. L. 113–121, § 5011(2)(C)][/us/pl/113/121/s5011/2/C], added pars. (3) to (6).
+    Subsec. (a)(3) to (6). [Pub. L. 113–121][/us/pl/113/121], § 5011(2)(C), added pars. (3) to (6).
 
-    Subsecs. (c), (d). [Pub. L. 113–121, § 5011(3)][/us/pl/113/121/s5011/3]–(5), redesignated subsec. (d) as (c), substituted “October 1, 2015,” for “5 years after December 21, 2000,”, and struck out former subsec. (c) which authorized appropriations to carry out this section.
+    Subsecs. (c), (d). [Pub. L. 113–121][/us/pl/113/121], § 5011(3)–(5), redesignated subsec. (d) as (c), substituted “October 1, 2015,” for “5 years after December 21, 2000,”, and struck out former subsec. (c) which authorized appropriations to carry out this section.
 
 ----------
 
@@ -73,16 +73,16 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/392/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F392%2Fs2
+[/us/pl/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F392
 [/us/stat/120/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2703
-[/us/pl/113/121/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1327
-[/us/pl/113/121/s5011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011%2F1
-[/us/pl/113/121/s5011/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011%2F2%2FA
-[/us/pl/113/121/s5011/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011%2F2%2FB
-[/us/pl/113/121/s5011/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011%2F2%2FC
-[/us/pl/113/121/s5011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5011%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 
 

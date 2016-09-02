@@ -27,7 +27,7 @@
 
         For purposes of carrying out this section the Secretary may accept contributions of funds, materials, and services from non-Federal public and private entities. Any funds received by the Secretary under this section shall be deposited into the account in the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out the purposes of this section.
 
-([Pub. L. 102–580, title II, § 225][/us/pl/102/580/s225], Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838]; [Pub. L. 104–303, title II, § 236(b)][/us/pl/104/303/s236/b], Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 225, Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 236(b), Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Recreation Partnership Initiative__ 
 
-[Pub. L. 104–303, title V, § 519][/us/pl/104/303/s519], Oct. 12, 1996, [110 Stat. 3765][/us/stat/110/3765], as amended by [Pub. L. 106–53, title III, § 350(a)][/us/pl/106/53/s350/a], Aug. 17, 1999, [113 Stat. 310][/us/stat/113/310], provided that:
+[Pub. L. 104–303, title V][/us/pl/104/303/tV], § 519, Oct. 12, 1996, [110 Stat. 3765][/us/stat/110/3765], as amended by [Pub. L. 106–53, title III][/us/pl/106/53/tIII], § 350(a), Aug. 17, 1999, [113 Stat. 310][/us/stat/113/310], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -78,14 +78,14 @@
 ----------
 ----------
 
-[/us/pl/102/580/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs225
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4838
-[/us/pl/104/303/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs236%2Fb
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3705
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
-[/us/pl/104/303/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs519
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3765
-[/us/pl/106/53/s350/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs350%2Fa
+[/us/pl/106/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtIII
 [/us/stat/113/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F310
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

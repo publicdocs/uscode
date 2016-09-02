@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s750.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs752b)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s751...752a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s753 _us_usc_t33_s754.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs752b)
 
 ## § 752b. Omitted
 
@@ -19,19 +19,9 @@
 
     Section, [act June 15, 1938, ch. 398][/us/act/1938-06-15/ch398], [52 Stat. 692][/us/stat/52/692], related to disposal of materials to the Boys Scouts of America. See [section 641 of Title 14][/us/usc/t14/s641], Coast Guard.
 
-§§ 753, 754. __Repealed.__  __[__  __Aug. 4, 1949, ch. 393, § 20__  __][/us/act/1949-08-04/ch393/s20]__  __,__  __[__  __63 Stat. 561__  __][/us/stat/63/561]__ 
-
-    Section 753, [act June 20, 1918, ch. 103, § 4][/us/act/1918-06-20/ch103/s4], [40 Stat. 608][/us/stat/40/608], related to sale of publications of Lighthouse Service. See sections 1705, 1708 of Title 44, Public Printing and Documents.
-
-    Section 754, acts [July 27, 1912, ch. 255, § 2][/us/act/1912-07-27/ch255/s2], [37 Stat. 239][/us/stat/37/239]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], related to sale of clothing to employees. See [section 485 of Title 14][/us/usc/t14/s485], Coast Guard.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
-
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s750.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs752b)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s751...752a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s753 _us_usc_t33_s754.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs752b)
 
 ----------
 ----------
@@ -39,14 +29,5 @@
 [/us/act/1938-06-15/ch398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-15%2Fch398
 [/us/stat/52/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F692
 [/us/usc/t14/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs641
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
-[/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/act/1918-06-20/ch103/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs4
-[/us/stat/40/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F608
-[/us/act/1912-07-27/ch255/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-27%2Fch255%2Fs2
-[/us/stat/37/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F239
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
-[/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
-[/us/usc/t14/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs485
 
 

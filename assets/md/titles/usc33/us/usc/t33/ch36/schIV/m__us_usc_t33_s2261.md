@@ -17,7 +17,7 @@
 
     The Secretary is hereby authorized and directed to make studies in cooperation with the Secretary of the Interior and the governments of the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the purposes of providing plans for the development, utilization, and conservation of water and related land resources of such jurisdiction, at a total cost of $2,000,000 for each of the five studies. Such studies shall include appropriate consideration of the needs for flood protection, wise use of flood plain lands, navigation facilities, hydroelectric power generation, regional water supply and waste water management facilities systems, general recreation facilities, enhancement and control of water quality, enhancement and conservation of fish and wildlife, and other measures for environmental enhancement, economic and human resources development. Such studies shall be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies. Any funds made available under this section for a study for any such jurisdiction which is not needed for such study shall be available to the Secretary to construct authorized water resources projects in such jurisdiction and to implement the findings of such study with appropriate cost sharing as provided in this Act.
 
-([Pub. L. 99–662, title VII, § 702][/us/pl/99/662/s702], Nov. 17, 1986, [100 Stat. 4156][/us/stat/100/4156].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 702, Nov. 17, 1986, [100 Stat. 4156][/us/stat/100/4156].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs702
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4156
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

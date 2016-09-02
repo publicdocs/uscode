@@ -17,7 +17,7 @@
 
     Notwithstanding sections 3851, 3852, 3853, and 3855 of this title, if a violation of the Convention is committed by a vessel registered in or of the nationality of a country that is a party to the Convention, or by a vessel operated under the authority of a country that is a party to the Convention, the Secretary, acting in coordination with the Secretary of State, may refer the matter to the government of the country of the vessel’s registry or nationality, or under whose authority the vessel is operating, for appropriate action, rather than taking the actions otherwise required or authorized by this subchapter.
 
-([Pub. L. 111–281, title X, § 1046][/us/pl/111/281/s1046], Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1046, Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1046
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3031
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3029

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s558.md) | [Next](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s558b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs558a)
 
-## § 558a. Repealed. [Oct. 31, 1951, ch. 654, § 1(56)][/us/act/1951-10-31/ch654/s1/56], [65 Stat. 703][/us/stat/65/703]
+## § 558a. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(56), [65 Stat. 703][/us/stat/65/703]
 
-    Section, [act Aug. 30, 1935, ch. 831, § 7][/us/act/1935-08-30/ch831/s7], [49 Stat. 1048][/us/stat/49/1048], related to sale of property no longer needed for improvement of canals, rivers and harbors.
+    Section, [act Aug. 30, 1935, ch. 831][/us/act/1935-08-30/ch831], § 7, [49 Stat. 1048][/us/stat/49/1048], related to sale of property no longer needed for improvement of canals, rivers and harbors.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F56
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F703
-[/us/act/1935-08-30/ch831/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831%2Fs7
+[/us/act/1935-08-30/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831
 [/us/stat/49/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1048
 
 

@@ -39,7 +39,7 @@
 
         Notwithstanding any provision of the Natural Gas Act ([15 U.S.C. 717][/us/usc/t15/s717] et seq.), any regulation or rule issued thereunder, or [section 1518 of this title][/us/usc/t33/s1518] as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
 
-([Pub. L. 93–627, § 8][/us/pl/93/627/s8], Jan. 3, 1975, [88 Stat. 2136][/us/stat/88/2136]; [Pub. L. 98–419, § 3(a)][/us/pl/98/419/s3/a], Sept. 25, 1984, [98 Stat. 1608][/us/stat/98/1608]; [Pub. L. 104–324, title V, § 507][/us/pl/104/324/s507], Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927]; [Pub. L. 107–295, title I, § 106(d)][/us/pl/107/295/s106/d], Nov. 25, 2002, [116 Stat. 2087][/us/stat/116/2087].)
+([Pub. L. 93–627][/us/pl/93/627], § 8, Jan. 3, 1975, [88 Stat. 2136][/us/stat/88/2136]; [Pub. L. 98–419][/us/pl/98/419], § 3(a), Sept. 25, 1984, [98 Stat. 1608][/us/stat/98/1608]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 507, Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(d), Nov. 25, 2002, [116 Stat. 2087][/us/stat/116/2087].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
     2002—Subsecs. (d), (e). [Pub. L. 107–295][/us/pl/107/295] added subsecs. (d) and (e).
 
-    1996—Subsec. (a). [Pub. L. 104–324, § 507(a)][/us/pl/104/324/s507/a], inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
+    1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
 
-    Subsec. (b). [Pub. L. 104–324, § 507(b)][/us/pl/104/324/s507/b], substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
+    Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 507(b), substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
 
     1984—Subsec. (a). [Pub. L. 98–419][/us/pl/98/419] substituted provision that a deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49 except as provided by subsec. (b), for provision that such port and such facilities were subject to regulations as a common carrier in accordance with the Interstate Commerce Act, as amended, for purposes of chapter 39 of title 18 and former sections 1 to 27 of title 49.
 
@@ -70,13 +70,13 @@
 
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t33/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1518
-[/us/pl/93/627/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs8
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2136
-[/us/pl/98/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs3%2Fa
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1608
-[/us/pl/104/324/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs507
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3927
-[/us/pl/107/295/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fd
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2087
 [/us/act/1887-02-04/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-04%2Fch104
 [/us/stat/24/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F379
@@ -85,8 +85,8 @@
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/pl/104/324/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs507%2Fa
-[/us/pl/104/324/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs507%2Fb
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419

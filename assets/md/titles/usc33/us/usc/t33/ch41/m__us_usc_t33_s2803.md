@@ -181,11 +181,11 @@
 
             Within 1 year after submission of the Strategy under paragraph (1), the Administrator and the Under Secretary shall enter into a Memorandum of Understanding with appropriate Federal agencies necessary to effect the coordination of Federal coastal monitoring programs. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities where possible.
 
-([Pub. L. 92–532, title V, § 503][/us/pl/92/532/s503], as added [Pub. L. 102–567, title V, § 501][/us/pl/102/567/s501], Oct. 29, 1992, [106 Stat. 4294][/us/stat/106/4294].)
+([Pub. L. 92–532, title V][/us/pl/92/532/tV], § 503, as added [Pub. L. 102–567, title V][/us/pl/102/567/tV], § 501, Oct. 29, 1992, [106 Stat. 4294][/us/stat/106/4294].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (b)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]. Title III of the Act is classified generally to subchapter III (§ 1311 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (b)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]. Title III of the Act is classified generally to subchapter III (§ 1311 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
     Title IV of this Act, referred to in subsec. (d)(3)(B), is title IV of [Pub. L. 92–532][/us/pl/92/532] which is classified generally to chapter 32A (§ 1447 et seq.) of Title 16, Conservation.
 
@@ -207,11 +207,11 @@
 [/us/usc/t33/s1342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fa%2F2
 [/us/usc/t33/s1342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fa%2F2
 [/us/usc/t16/s1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447
-[/us/pl/92/532/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs503
-[/us/pl/102/567/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs501
+[/us/pl/92/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtV
+[/us/pl/102/567/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtV
 [/us/stat/106/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4294
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532

@@ -65,15 +65,15 @@
 
         (14) a contract to be carried out using funds directly made available by a capitalization grant under this subchapter for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services shall be negotiated in the same manner as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent State qualifications-based requirement (as determined by the Governor of the State).
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 602, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 22][/us/stat/101/22]; amended [Pub. L. 113–121, title V, § 5002][/us/pl/113/121/s5002], June 10, 2014, [128 Stat. 1322][/us/stat/128/1322].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 602, as added [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 212(a), Feb. 4, 1987, [101 Stat. 22][/us/stat/101/22]; amended [Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5002, June 10, 2014, [128 Stat. 1322][/us/stat/128/1322].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(6). [Pub. L. 113–121, § 5002(1)][/us/pl/113/121/s5002/1], substituted “eligible under this chapter” for “eligible under [section 1383(c)(1) of this title][/us/usc/t33/s1383/c/1]”, “with assistance made available by a State water pollution control revolving fund authorized under this subchapter, or [section 1285(m) of this title][/us/usc/t33/s1285/m], or both,” for “before fiscal year 1995 with funds directly made available by capitalization grants under this subchapter and [section 1285(m) of this title][/us/usc/t33/s1285/m]”, and “sections 1371(c)(1)” for “sections 1281(b), 1281(g)(1), 1281(g)(2), 1281(g)(3), 1281(g)(5), 1281(g)(6), 1281(n)(1), 1281(o), 1284(a)(1), 1284(a)(2), 1284(b)(1), 1284(d)(2), 1291, 1298, 1371(c)(1),”.
+    2014—Subsec. (b)(6). [Pub. L. 113–121][/us/pl/113/121], § 5002(1), substituted “eligible under this chapter” for “eligible under [section 1383(c)(1) of this title][/us/usc/t33/s1383/c/1]”, “with assistance made available by a State water pollution control revolving fund authorized under this subchapter, or [section 1285(m) of this title][/us/usc/t33/s1285/m], or both,” for “before fiscal year 1995 with funds directly made available by capitalization grants under this subchapter and [section 1285(m) of this title][/us/usc/t33/s1285/m]”, and “sections 1371(c)(1)” for “sections 1281(b), 1281(g)(1), 1281(g)(2), 1281(g)(3), 1281(g)(5), 1281(g)(6), 1281(n)(1), 1281(o), 1284(a)(1), 1284(a)(2), 1284(b)(1), 1284(d)(2), 1291, 1298, 1371(c)(1),”.
 
-    Subsec. (b)(9). [Pub. L. 113–121, § 5002(2)][/us/pl/113/121/s5002/2], substituted “standards, including standards relating to the reporting of infrastructure assets;” for “standards; and”.
+    Subsec. (b)(9). [Pub. L. 113–121][/us/pl/113/121], § 5002(2), substituted “standards, including standards relating to the reporting of infrastructure assets;” for “standards; and”.
 
-    Subsec. (b)(11) to (14). [Pub. L. 113–121, § 5002(3)][/us/pl/113/121/s5002/3], (4), added pars. (11) to (14).
+    Subsec. (b)(11) to (14). [Pub. L. 113–121][/us/pl/113/121], § 5002(3), (4), added pars. (11) to (14).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -96,16 +96,16 @@
 [/us/usc/t33/s1383/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fd
 [/us/usc/t33/s1386/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1386%2Fd
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F22
-[/us/pl/113/121/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5002
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1322
-[/us/pl/113/121/s5002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5002%2F1
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/usc/t33/s1383/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fc%2F1
 [/us/usc/t33/s1285/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285%2Fm
 [/us/usc/t33/s1285/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285%2Fm
-[/us/pl/113/121/s5002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5002%2F2
-[/us/pl/113/121/s5002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5002%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5006
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381

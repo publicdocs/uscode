@@ -23,7 +23,7 @@
 
         Nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State over the siting, construction, monitoring, or managing of artificial reefs within its boundaries.
 
-([Pub. L. 98–623, title II, § 208][/us/pl/98/623/s208], Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
+([Pub. L. 98–623, title II][/us/pl/98/623/tII], § 208, Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s831y–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831y%E2%80%931
-[/us/pl/98/623/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs208
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3398
 
 

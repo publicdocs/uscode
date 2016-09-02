@@ -23,7 +23,7 @@
 
     (3) The term “waters covered under this chapter” means the navigable waters of the United States and the waters superjacent to the Outer Continental Shelf as defined in [section 1331 of title 43][/us/usc/t43/s1331], to the extent such waters exist in or are adjacent to any State.
 
-([Pub. L. 98–623, title II, § 206][/us/pl/98/623/s206], Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397].)
+([Pub. L. 98–623, title II][/us/pl/98/623/tII], § 206, Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/98/623/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs206
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3397
 
 

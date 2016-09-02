@@ -29,7 +29,7 @@
 
     (6) an evaluation of alternatives for facilitating the transfer of artificial reef construction materials to persons holding permits issued pursuant to [section 2104 of this title][/us/usc/t33/s2104], including, but not limited to, credits for environmental mitigation and modified tax obligations.
 
-([Pub. L. 98–623, title II, § 204][/us/pl/98/623/s204], Nov. 8, 1984, [98 Stat. 3395][/us/stat/98/3395].)
+([Pub. L. 98–623, title II][/us/pl/98/623/tII], § 204, Nov. 8, 1984, [98 Stat. 3395][/us/stat/98/3395].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t33/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2104
 [/us/usc/t33/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2104
-[/us/pl/98/623/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs204
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3395
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

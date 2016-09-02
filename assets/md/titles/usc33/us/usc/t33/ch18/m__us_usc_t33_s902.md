@@ -93,7 +93,7 @@
 
     (22) The singular includes the plural and the masculine includes the feminine and neuter.
 
-([Mar. 4, 1927, ch. 509, § 2][/us/act/1927-03-04/ch509/s2], [44 Stat. 1424][/us/stat/44/1424]; [June 25, 1938, ch. 685, § 1][/us/act/1938-06-25/ch685/s1], [52 Stat. 1164][/us/stat/52/1164]; [Pub. L. 92–576][/us/pl/92/576], §§ 2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, [86 Stat. 1251][/us/stat/86/1251], 1253, 1262, 1263, 1265; [Pub. L. 98–426][/us/pl/98/426], §§ 2, 5(a)(2), 27(a)(1), Sept. 28, 1984, [98 Stat. 1639][/us/stat/98/1639], 1641, 1654; [Pub. L. 111–5, div. A, title VIII, § 803][/us/pl/111/5/s803], Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 2, [44 Stat. 1424][/us/stat/44/1424]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 1, [52 Stat. 1164][/us/stat/52/1164]; [Pub. L. 92–576][/us/pl/92/576], §§ 2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, [86 Stat. 1251][/us/stat/86/1251], 1253, 1262, 1263, 1265; [Pub. L. 98–426][/us/pl/98/426], §§ 2, 5(a)(2), 27(a)(1), Sept. 28, 1984, [98 Stat. 1639][/us/stat/98/1639], 1641, 1654; [Pub. L. 111–5, div. A, title VIII][/us/pl/111/5/dA/tVIII], § 803, Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187].)
 
  __References in Text__ 
 
@@ -101,29 +101,29 @@
 
  __Amendments__ 
 
-    2009—Par. (3)(F). [Pub. L. 111–5, § 803(2)][/us/pl/111/5/s803/2], substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
+    2009—Par. (3)(F). [Pub. L. 111–5][/us/pl/111/5], § 803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
 
-    [Pub. L. 111–5, § 803(1)][/us/pl/111/5/s803/1], which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
+    [Pub. L. 111–5][/us/pl/111/5], § 803(1), which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
 
-    1984—Par. (3). [Pub. L. 98–426, § 2(a)][/us/pl/98/426/s2/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
+    1984—Par. (3). [Pub. L. 98–426][/us/pl/98/426], § 2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
-    Par. (6). [Pub. L. 98–426, § 27(a)(1)][/us/pl/98/426/s27/a/1], substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
+    Par. (6). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
-    Par. (10). [Pub. L. 98–426, § 2(b)][/us/pl/98/426/s2/b], inserted “; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in [section 910(d)(2) of this title][/us/usc/t33/s910/d/2]”.
+    Par. (10). [Pub. L. 98–426][/us/pl/98/426], § 2(b), inserted “; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in [section 910(d)(2) of this title][/us/usc/t33/s910/d/2]”.
 
-    Par. (13). [Pub. L. 98–426, § 2(c)][/us/pl/98/426/s2/c], amended par. (13) generally. Prior to amendment, par. (13) read as follows: “ ‘Wages’ means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer, and gratuities received in the course of employment from others than the employer”.
+    Par. (13). [Pub. L. 98–426][/us/pl/98/426], § 2(c), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “ ‘Wages’ means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer, and gratuities received in the course of employment from others than the employer”.
 
-    Par. (21). [Pub. L. 98–426, § 5(a)(2)][/us/pl/98/426/s5/a/2], substituted “Unless the context requires otherwise, the” for “The”.
+    Par. (21). [Pub. L. 98–426][/us/pl/98/426], § 5(a)(2), substituted “Unless the context requires otherwise, the” for “The”.
 
-    1972—Par. (3). [Pub. L. 92–576, § 2(a)][/us/pl/92/576/s2/a], defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
+    1972—Par. (3). [Pub. L. 92–576][/us/pl/92/576], § 2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
 
-    Par. (4). [Pub. L. 92–576, § 2(b)][/us/pl/92/576/s2/b], defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
+    Par. (4). [Pub. L. 92–576][/us/pl/92/576], § 2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
 
-    Par. (14). [Pub. L. 92–576, § 3(b)][/us/pl/92/576/s3/b], defined “child, grandchild, brother, and sister” to include a student as defined in par. (19) of this section.
+    Par. (14). [Pub. L. 92–576][/us/pl/92/576], § 3(b), defined “child, grandchild, brother, and sister” to include a student as defined in par. (19) of this section.
 
-    Par. (16). [Pub. L. 92–576, § 20(c)(1)][/us/pl/92/576/s20/c/1], consolidated provisions of former par. (16) definition of “widow” and former par. (17) definition of “widower” in one definition of “widow or widower”; and in redefining “widower”, substituted provision for decedent’s husband living with or dependent upon wife for support at time of her death, for prior provision for decedent’s husband living with and dependent upon wife for support at time of her death, and included decedent’s husband living apart from wife for justifiable cause or by reason of her desertion at time of her death.
+    Par. (16). [Pub. L. 92–576][/us/pl/92/576], § 20(c)(1), consolidated provisions of former par. (16) definition of “widow” and former par. (17) definition of “widower” in one definition of “widow or widower”; and in redefining “widower”, substituted provision for decedent’s husband living with or dependent upon wife for support at time of her death, for prior provision for decedent’s husband living with and dependent upon wife for support at time of her death, and included decedent’s husband living apart from wife for justifiable cause or by reason of her desertion at time of her death.
 
-    Par. (17). [Pub. L. 92–576, § 20(c)(1)][/us/pl/92/576/s20/c/1], redesignated former par. (18) definition of “adoption” or “adopted” as par. (17). Former par. (17) definition of “widower” incorporated in par. (16).
+    Par. (17). [Pub. L. 92–576][/us/pl/92/576], § 20(c)(1), redesignated former par. (18) definition of “adoption” or “adopted” as par. (17). Former par. (17) definition of “widower” incorporated in par. (16).
 
     Par. (18). [Pub. L. 92–576][/us/pl/92/576], §§ 3(a), 20(c)(1), added par. (19) definition of “student” and redesignated such par. (19) as par. (18). Former par. (18) definition of “adoption” or “adopted” redesignated par. (17).
 
@@ -143,11 +143,11 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–576, § 20(c)(3)][/us/pl/92/576/s20/c/3], Oct. 27, 1972, [86 Stat. 1265][/us/stat/86/1265], provided that: 
+[Pub. L. 92–576][/us/pl/92/576], § 20(c)(3), Oct. 27, 1972, [86 Stat. 1265][/us/stat/86/1265], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 909 of this title][/us/usc/t33/s909]\] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, \[Oct. 27, 1972\].”
 
-[Pub. L. 92–576, § 22][/us/pl/92/576/s22], Oct. 27, 1972, [86 Stat. 1265][/us/stat/86/1265], provided that: 
+[Pub. L. 92–576][/us/pl/92/576], § 22, Oct. 27, 1972, [86 Stat. 1265][/us/stat/86/1265], provided that: 
 
 > “The amendments made by this Act \[see Short Title note set out under [section 901 of this title][/us/usc/t33/s901]\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\].”
 
@@ -164,29 +164,29 @@
 
 [/us/usc/t33/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs932
 [/us/usc/t33/s910/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs910%2Fd%2F2
-[/us/act/1927-03-04/ch509/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs2
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
-[/us/act/1938-06-25/ch685/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs1
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1164
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1251
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1639
-[/us/pl/111/5/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs803
+[/us/pl/111/5/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtVIII
 [/us/stat/123/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F187
-[/us/pl/111/5/s803/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs803%2F2
-[/us/pl/111/5/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs803%2F1
-[/us/pl/98/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs2%2Fa
-[/us/pl/98/426/s27/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F1
-[/us/pl/98/426/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs2%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s910/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs910%2Fd%2F2
-[/us/pl/98/426/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs2%2Fc
-[/us/pl/98/426/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs5%2Fa%2F2
-[/us/pl/92/576/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs2%2Fa
-[/us/pl/92/576/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs2%2Fb
-[/us/pl/92/576/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs3%2Fb
-[/us/pl/92/576/s20/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs20%2Fc%2F1
-[/us/pl/92/576/s20/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs20%2Fc%2F1
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
@@ -197,10 +197,10 @@
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
-[/us/pl/92/576/s20/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs20%2Fc%2F3
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1265
 [/us/usc/t33/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs909
-[/us/pl/92/576/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs22
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1265
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

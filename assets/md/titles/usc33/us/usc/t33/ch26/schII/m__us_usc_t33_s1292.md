@@ -29,7 +29,7 @@
 
     (3) The term “replacement” as used in this subchapter means those expenditures for obtaining and installing equipment, accessories, or appurtenances during the useful life of the treatment works necessary to maintain the capacity and performance for which such works are designed and constructed.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 212, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 844][/us/stat/86/844]; amended [Pub. L. 95–217, § 37][/us/pl/95/217/s37], Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581]; [Pub. L. 97–117, § 8(d)][/us/pl/97/117/s8/d], Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626]; [Pub. L. 113–121, title V, § 5012(a)][/us/pl/113/121/s5012/a], June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 212, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 844][/us/stat/86/844]; amended [Pub. L. 95–217][/us/pl/95/217], § 37, Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581]; [Pub. L. 97–117][/us/pl/97/117], § 8(d), Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626]; [Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5012(a), June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–121, title V, § 5012(c)][/us/pl/113/121/s5012/c], June 10, 2014, [128 Stat. 1328][/us/stat/128/1328], provided that: 
+[Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5012(c), June 10, 2014, [128 Stat. 1328][/us/stat/128/1328], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1362 of this title][/us/usc/t33/s1362]\] shall take effect on October 1, 2014.”
 
@@ -56,19 +56,19 @@
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F844
-[/us/pl/95/217/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs37
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1581
-[/us/pl/97/117/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs8%2Fd
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1626
-[/us/pl/113/121/s5012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5012%2Fa
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1328
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/usc/t33/s1314/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fd%2F3
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/113/121/s5012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5012%2Fc
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1328
 [/us/usc/t33/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362
 

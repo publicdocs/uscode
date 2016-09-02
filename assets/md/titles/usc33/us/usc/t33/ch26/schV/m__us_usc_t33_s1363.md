@@ -33,7 +33,7 @@
 
         Such clerical and technical assistance as may be necessary to discharge the duties of the Board shall be provided from the personnel of the Environmental Protection Agency.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 503, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 887][/us/stat/86/887].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 503, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 887][/us/stat/86/887].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 
  __Continuation of Term of Office__ 
 
-    [Pub. L. 87–88, § 6(c)][/us/pl/87/88/s6/c], July 20, 1961, [75 Stat. 207][/us/stat/75/207], provided that members of the Water Pollution Control Advisory Board holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by [section 6(a) of Pub. L. 87–88][/us/pl/87/88/s6/a] until the expiration of the terms of office for which they were originally appointed.
+    [Pub. L. 87–88][/us/pl/87/88], § 6(c), July 20, 1961, [75 Stat. 207][/us/stat/75/207], provided that members of the Water Pollution Control Advisory Board holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by [section 6(a) of Pub. L. 87–88][/us/pl/87/88/s6/a] until the expiration of the terms of office for which they were originally appointed.
 
  __Terms of Office of Members of Water Pollution Control Advisory Board__ 
 
-    [Act July 9, 1956, ch. 518, § 3][/us/act/1956-07-09/ch518/s3], [70 Stat. 507][/us/stat/70/507], provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
+    [Act July 9, 1956, ch. 518][/us/act/1956-07-09/ch518], § 3, [70 Stat. 507][/us/stat/70/507], provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
 
  __Termination of Advisory Boards__ 
 
@@ -59,13 +59,13 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F887
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/87/88/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F88%2Fs6%2Fc
+[/us/pl/87/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F88
 [/us/stat/75/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F207
 [/us/pl/87/88/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F88%2Fs6%2Fa
-[/us/act/1956-07-09/ch518/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch518%2Fs3
+[/us/act/1956-07-09/ch518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch518
 [/us/stat/70/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F507
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

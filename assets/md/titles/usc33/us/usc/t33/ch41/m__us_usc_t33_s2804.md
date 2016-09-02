@@ -31,7 +31,7 @@
 
     (7) a summary of monitoring results in areas monitored under subsection  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “section”. </sup></sup>  2803(d) of this title.
 
-([Pub. L. 92–532, title V, § 504][/us/pl/92/532/s504], as added [Pub. L. 102–567, title V, § 501][/us/pl/102/567/s501], Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
+([Pub. L. 92–532, title V][/us/pl/92/532/tV], § 504, as added [Pub. L. 102–567, title V][/us/pl/102/567/tV], § 501, Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
 
  __Change of Name__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/92/532/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs504
-[/us/pl/102/567/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs501
+[/us/pl/92/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtV
+[/us/pl/102/567/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtV
 [/us/stat/106/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4299
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_ch21.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
+[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_s1051...1053 _us_usc_t33_s1061...1094.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
 
 ## CHAPTER 22—SEA GRANT COLLEGES AND MARINE SCIENCE DEVELOPMENT
 
@@ -187,7 +187,7 @@ SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_ch21.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
+[Previous](./../../../..//us/usc/t33/ch21/m__us_usc_t33_s1051...1053 _us_usc_t33_s1061...1094.md) | [Next](./../../../..//us/usc/t33/ch22/schI/m__us_usc_t33_ch22_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch22)
 
 ----------
 ----------

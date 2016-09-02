@@ -23,7 +23,7 @@
 
     (3) submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out the plan.
 
-([Aug. 13, 1946, ch. 960, § 4][/us/act/1946-08-13/ch960/s4], as added [Pub. L. 104–303, title II, § 227(d)(2)][/us/pl/104/303/s227/d/2], Oct. 12, 1996, [110 Stat. 3700][/us/stat/110/3700].)
+([Aug. 13, 1946, ch. 960][/us/act/1946-08-13/ch960], § 4, as added [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 227(d)(2), Oct. 12, 1996, [110 Stat. 3700][/us/stat/110/3700].)
 
  __Prior Provisions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1946-08-13/ch960/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960%2Fs4
-[/us/pl/104/303/s227/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fd%2F2
+[/us/act/1946-08-13/ch960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3700
 [/us/usc/t33/s426h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426h
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303

@@ -17,7 +17,7 @@
 
     The Benton Harbor Canal, from the west line of Ninth Street extended northerly to the west line of Riverview Drive extended northerly in the city of Benton Harbor and State of Michigan, be, and the same is hereby, declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States.
 
-([Pub. L. 88–88, § 1][/us/pl/88/88/s1], Aug. 5, 1963, [77 Stat. 118][/us/stat/77/118].)
+([Pub. L. 88–88][/us/pl/88/88], § 1, Aug. 5, 1963, [77 Stat. 118][/us/stat/77/118].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/88/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F88%2Fs1
+[/us/pl/88/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F88
 [/us/stat/77/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F118
 
 

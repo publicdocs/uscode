@@ -97,7 +97,7 @@
 
         (3) As used in this paragraph, the term “inherently governmental function” means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.
 
-([Pub. L. 92–340, § 4][/us/pl/92/340/s4], formerly title I, § 103, July 10, 1972, [86 Stat. 426][/us/stat/86/426]; renumbered and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1472][/us/stat/92/1472]; [Pub. L. 101–380, title IV, § 4107(a)][/us/pl/101/380/s4107/a], Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514]; [Pub. L. 104–324, title VII, § 705][/us/pl/104/324/s705], Oct. 19, 1996, [110 Stat. 3934][/us/stat/110/3934]; [Pub. L. 108–293, title III, § 302][/us/pl/108/293/s302], Aug. 9, 2004, [118 Stat. 1041][/us/stat/118/1041]; [Pub. L. 109–241, title IX, § 901(d)][/us/pl/109/241/s901/d], July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
+([Pub. L. 92–340][/us/pl/92/340], § 4, formerly title I, § 103, July 10, 1972, [86 Stat. 426][/us/stat/86/426]; renumbered and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1472][/us/stat/92/1472]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4107(a), Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 705, Oct. 19, 1996, [110 Stat. 3934][/us/stat/110/3934]; [Pub. L. 108–293, title III][/us/pl/108/293/tIII], § 302, Aug. 9, 2004, [118 Stat. 1041][/us/stat/118/1041]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(d), July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
 
  __References in Text__ 
 
@@ -107,31 +107,31 @@
 
  __Amendments__ 
 
-    2006—Subsecs. (a)(6), (e). [Pub. L. 109–241][/us/pl/109/241] amended directory language of [Pub. L. 108–293, § 302][/us/pl/108/293/s302]. See 2004 Amendment note below.
+    2006—Subsecs. (a)(6), (e). [Pub. L. 109–241][/us/pl/109/241] amended directory language of [Pub. L. 108–293][/us/pl/108/293], § 302. See 2004 Amendment note below.
 
-    2004—Subsec. (a)(6). [Pub. L. 108–293, § 302(1)][/us/pl/108/293/s302/1], as amended by [Pub. L. 109–241][/us/pl/109/241], added par. (6).
+    2004—Subsec. (a)(6). [Pub. L. 108–293][/us/pl/108/293], § 302(1), as amended by [Pub. L. 109–241][/us/pl/109/241], added par. (6).
 
-    Subsec. (e). [Pub. L. 108–293, § 302(2)][/us/pl/108/293/s302/2], as amended by [Pub. L. 109–241][/us/pl/109/241], which directed the addition of subsec. (e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
+    Subsec. (e). [Pub. L. 108–293][/us/pl/108/293], § 302(2), as amended by [Pub. L. 109–241][/us/pl/109/241], which directed the addition of subsec. (e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
 
     1996—Subsec. (a)(3). [Pub. L. 104–324][/us/pl/104/324] inserted “as measured under [section 14502 of title 46][/us/usc/t46/s14502], or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
-    1990—Subsec. (a). [Pub. L. 101–380, § 4107(a)(1)][/us/pl/101/380/s4107/a/1], substituted “Secretary—” for “Secretary may—”.
+    1990—Subsec. (a). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(1), substituted “Secretary—” for “Secretary may—”.
 
-    Subsec. (a)(1). [Pub. L. 101–380, § 4107(a)(2)][/us/pl/101/380/s4107/a/2], substituted “may construct, operate, maintain, improve, or expand” for “establish, operate, and maintain”.
+    Subsec. (a)(1). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(2), substituted “may construct, operate, maintain, improve, or expand” for “establish, operate, and maintain”.
 
-    Subsec. (a)(2). [Pub. L. 101–380, § 4107(a)(3)][/us/pl/101/380/s4107/a/3], substituted “shall require appropriate” for “require”.
+    Subsec. (a)(2). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(3), substituted “shall require appropriate” for “require”.
 
-    Subsec. (a)(3). [Pub. L. 101–380, § 4107(a)(4)][/us/pl/101/380/s4107/a/4], inserted “may” before “require”, which was executed by making the insertion before “require” the first place it appeared to reflect the probable intent of Congress.
+    Subsec. (a)(3). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(4), inserted “may” before “require”, which was executed by making the insertion before “require” the first place it appeared to reflect the probable intent of Congress.
 
-    Subsec. (a)(4). [Pub. L. 101–380, § 4107(a)(5)][/us/pl/101/380/s4107/a/5], inserted “may” before “control”.
+    Subsec. (a)(4). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(5), inserted “may” before “control”.
 
-    Subsec. (a)(5). [Pub. L. 101–380, § 4107(a)(6)][/us/pl/101/380/s4107/a/6], inserted “may” before “require”.
+    Subsec. (a)(5). [Pub. L. 101–380][/us/pl/101/380], § 4107(a)(6), inserted “may” before “require”.
 
     1978—[Pub. L. 95–474][/us/pl/95/474] substituted provision relating to vessel operating requirements for provision relating to the investigatory powers of the Secretary, production of witnesses and documents, and fees and allowances for witnesses.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–241, title IX, § 901(d)][/us/pl/109/241/s901/d], July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided in part that the amendment made by section 901(d) is effective Aug. 9, 2004.
+    [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(d), July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided in part that the amendment made by section 901(d) is effective Aug. 9, 2004.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -139,11 +139,11 @@
 
  __Notice of Arrival for Foreign Vessels on the Outer Continental Shelf__ 
 
-[Pub. L. 112–213, title VII, § 704][/us/pl/112/213/s704], Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580], provided that: 
+[Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 704, Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580], provided that: 
 
 > “The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 \[[Pub. L. 109–347][/us/pl/109/347]\] ([33 U.S.C. 1223][/us/usc/t33/s1223] note) dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under [section 12105 of title 46][/us/usc/t46/s12105], United States Code, unless the vessel arrives from a foreign port or place.”
 
-[Pub. L. 109–347, title I, § 109][/us/pl/109/347/s109], Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], provided that:
+[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 109, Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], provided that:
 
 >     “(a)  __Notice of Arrival__  __.—__ 
 
@@ -155,7 +155,7 @@
 
  __Direction of Vessel Movement Study; Submittal of Report to Congress__ 
 
-[Pub. L. 101–380, title IV, § 4107(b)][/us/pl/101/380/s4107/b], Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514], provided that:
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4107(b), Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -195,48 +195,48 @@
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t33/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1228
 [/us/usc/t33/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1224
-[/us/pl/92/340/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs4
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F426
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1472
-[/us/pl/101/380/s4107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F514
-[/us/pl/104/324/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs705
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3934
-[/us/pl/108/293/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs302
+[/us/pl/108/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIII
 [/us/stat/118/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1041
-[/us/pl/109/241/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fd
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/108/293/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs302
-[/us/pl/108/293/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs302%2F1
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/108/293/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs302%2F2
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
-[/us/pl/101/380/s4107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F1
-[/us/pl/101/380/s4107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F2
-[/us/pl/101/380/s4107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F3
-[/us/pl/101/380/s4107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F4
-[/us/pl/101/380/s4107/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F5
-[/us/pl/101/380/s4107/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fa%2F6
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
-[/us/pl/109/241/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fd
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/112/213/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs704
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1580
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/usc/t33/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1223
 [/us/usc/t46/s12105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12105
-[/us/pl/109/347/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs109
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1893
-[/us/pl/101/380/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4107%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F514
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

@@ -53,7 +53,7 @@
 
         The total number of officers authorized by law to be on the lineal list during a fiscal year may be temporarily exceeded so long as the average number on that list during that fiscal year does not exceed the authorized number.
 
-([Pub. L. 107–372, title II, § 214][/us/pl/107/372/s214], Dec. 19, 2002, [116 Stat. 3083][/us/stat/116/3083].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 214, Dec. 19, 2002, [116 Stat. 3083][/us/stat/116/3083].)
 
  __Prior Provisions__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs214
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3083
 [/us/usc/t33/s853a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853a
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

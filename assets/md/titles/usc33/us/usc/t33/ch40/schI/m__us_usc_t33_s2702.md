@@ -93,7 +93,7 @@
 
                 In any other case, the liability of a third party or parties shall not exceed the limitation which would have been applicable to the responsible party of the vessel or facility from which the discharge actually occurred if the responsible party were liable.
 
-([Pub. L. 101–380, title I, § 1002][/us/pl/101/380/s1002], Aug. 18, 1990, [104 Stat. 489][/us/stat/104/489].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1002, Aug. 18, 1990, [104 Stat. 489][/us/stat/104/489].)
 
  __References in Text__ 
 
@@ -116,7 +116,7 @@
 [/us/usc/t33/s2703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2703%2Fa%2F3
 [/us/usc/t33/s2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2713
 [/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
-[/us/pl/101/380/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1002
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F489
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

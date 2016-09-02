@@ -25,17 +25,17 @@
 
     (4) Distribution of nautical charts and related navigational publications.
 
-([Aug. 6, 1947, ch. 504, § 2][/us/act/1947-08-06/ch504/s2], [61 Stat. 787][/us/stat/61/787]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 106–181, title VI, § 605(a)][/us/pl/106/181/s605/a], Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 2, [61 Stat. 787][/us/stat/61/787]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 605(a), Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
 
  __Amendments__ 
 
-    2000—Par. (3). [Pub. L. 106–181, § 605(a)(1)][/us/pl/106/181/s605/a/1], (2), redesignated par. (4) as (3), substituted “charts;” for “charts of the United States, its Territories, and possessions;” and struck out former par. (3) which read as follows: “Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;”.
+    2000—Par. (3). [Pub. L. 106–181][/us/pl/106/181], § 605(a)(1), (2), redesignated par. (4) as (3), substituted “charts;” for “charts of the United States, its Territories, and possessions;” and struck out former par. (3) which read as follows: “Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;”.
 
-    Par. (4). [Pub. L. 106–181, § 605(a)(1)][/us/pl/106/181/s605/a/1], (3), redesignated par. (6) as (4) and substituted “publications” for “publications for the United States, its Territories, and possessions”. Former par. (4) redesignated (3).
+    Par. (4). [Pub. L. 106–181][/us/pl/106/181], § 605(a)(1), (3), redesignated par. (6) as (4) and substituted “publications” for “publications for the United States, its Territories, and possessions”. Former par. (4) redesignated (3).
 
-    Par. (5). [Pub. L. 106–181, § 605(a)(1)][/us/pl/106/181/s605/a/1], struck out par. (5) which read as follows: “Distribution of aeronautical charts and related navigational publications required by United States civil aviation;”.
+    Par. (5). [Pub. L. 106–181][/us/pl/106/181], § 605(a)(1), struck out par. (5) which read as follows: “Distribution of aeronautical charts and related navigational publications required by United States civil aviation;”.
 
-    Par. (6). [Pub. L. 106–181, § 605(a)(1)][/us/pl/106/181/s605/a/1], redesignated par. (6) as (4).
+    Par. (6). [Pub. L. 106–181][/us/pl/106/181], § 605(a)(1), redesignated par. (6) as (4).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs2
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F787
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/106/181/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fa
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F154
-[/us/pl/106/181/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fa%2F1
-[/us/pl/106/181/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fa%2F1
-[/us/pl/106/181/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fa%2F1
-[/us/pl/106/181/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fa%2F1
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

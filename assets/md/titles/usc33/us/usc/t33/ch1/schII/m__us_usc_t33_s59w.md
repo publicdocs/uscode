@@ -17,7 +17,7 @@
 
     The two portions of Norton Basin and Jamaica Bay, New York, that are particularly described in Committee Print 99–58 of the Committee on Public Works and Transportation of the House of Representatives are hereby declared to be nonnavigable waters of the United States for purposes of the navigation servitude.
 
-([Pub. L. 99–662, title XI, § 1168][/us/pl/99/662/s1168], Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1168, Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1168
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4259
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

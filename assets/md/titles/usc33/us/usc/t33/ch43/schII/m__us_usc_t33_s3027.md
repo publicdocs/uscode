@@ -17,7 +17,7 @@
 
     No officer may be promoted to a higher permanent grade on the active list until the officer has passed a satisfactory mental and physical examination in accordance with regulations prescribed by the Secretary.
 
-([Pub. L. 107–372, title II, § 227][/us/pl/107/372/s227], Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 227, Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs227
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3085
 [/us/usc/t33/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

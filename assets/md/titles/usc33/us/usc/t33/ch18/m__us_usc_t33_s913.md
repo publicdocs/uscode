@@ -33,7 +33,7 @@
 
         Where recovery is denied to any person, in a suit brought at law or in admiralty to recover damages in respect of injury or death, on the ground that such person was an employee and that the defendant was an employer within the meaning of this chapter and that such employer had secured compensation to such employee under this chapter, the limitation of time prescribed in subsection (a) of this section shall begin to run only from the date of termination of such suit.
 
-([Mar. 4, 1927, ch. 509, § 13][/us/act/1927-03-04/ch509/s13], [44 Stat. 1432][/us/stat/44/1432]; [Pub. L. 92–576, § 12(b)][/us/pl/92/576/s12/b], Oct. 27, 1972, [86 Stat. 1259][/us/stat/86/1259]; [Pub. L. 98–426, § 12][/us/pl/98/426/s12], Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 13, [44 Stat. 1432][/us/stat/44/1432]; [Pub. L. 92–576][/us/pl/92/576], § 12(b), Oct. 27, 1972, [86 Stat. 1259][/us/stat/86/1259]; [Pub. L. 98–426][/us/pl/98/426], § 12, Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs13
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1432
-[/us/pl/92/576/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs12%2Fb
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1259
-[/us/pl/98/426/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs12
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1649
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576

@@ -17,7 +17,7 @@
 
     There is established a revolving fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of the plant and equipment of the Corps of Engineers used in civil works functions, including acquisition of plant and equipment, maintenance, repair, and purchase, operation, and maintenance of not to exceed four aircraft at any one time, temporary financing of services finally chargeable to appropriations for civil works functions, and the furnishing of facilities and services for military functions of the Department of the Army and other Government agencies and private persons, as authorized by law, $100; and in addition, the Secretary of the Army is authorized to provide capital for the fund by capitalizing the present inventories, plant and equipment of the civil works functions of the Corps of Engineers. The fund shall be credited with reimbursements or advances for the cost of equipment, facilities, and services furnished, at rates which shall include charges for overhead and related expenses, depreciation of plant and equipment, and accrued leave: Provided, That on July 1, 1953, (1) the fund shall assume the assets, liabilities, and obligations of the Plant accounts, as carried on the records of the Corps of Engineers as of June 30, 1953, under the appropriations for “Maintenance and improvement of existing river and harbor works”, “Flood control, general”, and “Flood control, Mississippi River and tributaries”, and (2) there shall be transferred from said appropriations to the fund amounts equivalent to the unexpended cash balances of the Plant accounts on June 30, 1953: Provided further, That the total capital of said fund shall not exceed $140,000,000.
 
-([July 27, 1953, ch. 245, § 101][/us/act/1953-07-27/ch245/s101], [67 Stat. 199][/us/stat/67/199].)
+([July 27, 1953, ch. 245][/us/act/1953-07-27/ch245], § 101, [67 Stat. 199][/us/stat/67/199].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1953-07-27/ch245/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-27%2Fch245%2Fs101
+[/us/act/1953-07-27/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-27%2Fch245
 [/us/stat/67/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F199
 [/us/usc/t33/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs576
 [/us/usc/t10/s190b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs190b

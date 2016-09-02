@@ -27,7 +27,7 @@
 
         The national coastal data bank shall be made readily accessible to the public.
 
-([Pub. L. 106–53, title II, § 215(d)][/us/pl/106/53/s215/d], Aug. 17, 1999, [113 Stat. 293][/us/stat/113/293].)
+([Pub. L. 106–53, title II][/us/pl/106/53/tII], § 215(d), Aug. 17, 1999, [113 Stat. 293][/us/stat/113/293].)
 
  __“Secretary” Defined__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/53/s215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs215%2Fd
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F293
 [/us/pl/106/53/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

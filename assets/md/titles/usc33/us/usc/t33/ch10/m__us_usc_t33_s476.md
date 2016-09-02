@@ -27,7 +27,7 @@
 
     (b) Notwithstanding any other provision of law, on and after October 18, 1977, no officer, employee, or other official of the Federal Government shall, or shall have authority to, issue, renew, grant, or otherwise approve any permit, license, or other authority for constructing, renovating, modifying, or otherwise altering a terminal, dock, or other facility in, on, or immediately adjacent to, or affecting the navigable waters of Puget Sound, or any other navigable waters in the State of Washington east of Port Angeles, which will or may result in any increase in the volume of crude oil capable of being handled at any such facility (measured as of October 18, 1977), other than oil to be refined for consumption in the State of Washington.
 
-([Pub. L. 95–136, § 5][/us/pl/95/136/s5], Oct. 18, 1977, [91 Stat. 1168][/us/stat/91/1168].)
+([Pub. L. 95–136][/us/pl/95/136], § 5, Oct. 18, 1977, [91 Stat. 1168][/us/stat/91/1168].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/136/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136%2Fs5
+[/us/pl/95/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136
 [/us/stat/91/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1168
 
 

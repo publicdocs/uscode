@@ -79,7 +79,7 @@
 
         The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.
 
-([Pub. L. 106–541, title II, § 203][/us/pl/106/541/s203], Dec. 11, 2000, [114 Stat. 2588][/us/stat/114/2588]; [Pub. L. 110–114, title II, § 2011][/us/pl/110/114/s2011], Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074]; [Pub. L. 113–121, title I, § 1031(a)][/us/pl/113/121/s1031/a], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([Pub. L. 106–541, title II][/us/pl/106/541/tII], § 203, Dec. 11, 2000, [114 Stat. 2588][/us/stat/114/2588]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2011, Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1031(a), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
@@ -87,17 +87,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1)(B). [Pub. L. 113–121, § 1031(a)(1)][/us/pl/113/121/s1031/a/1], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+    2014—Subsec. (d)(1)(B). [Pub. L. 113–121][/us/pl/113/121], § 1031(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-    Subsec. (e). [Pub. L. 113–121, § 1031(a)(2)][/us/pl/113/121/s1031/a/2], added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
+    Subsec. (e). [Pub. L. 113–121][/us/pl/113/121], § 1031(a)(2), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
 
-    2007—Subsec. (b)(1). [Pub. L. 110–114, § 2011(a)(1)][/us/pl/110/114/s2011/a/1], inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
+    2007—Subsec. (b)(1). [Pub. L. 110–114][/us/pl/110/114], § 2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
 
-    Subsec. (b)(1)(B). [Pub. L. 110–114, § 2011(a)(2)][/us/pl/110/114/s2011/a/2], inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “[section 1151 of title 18][/us/usc/t18/s1151]”.
+    Subsec. (b)(1)(B). [Pub. L. 110–114][/us/pl/110/114], § 2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “[section 1151 of title 18][/us/usc/t18/s1151]”.
 
-    Subsec. (b)(2). [Pub. L. 110–114, § 2011(a)(3)][/us/pl/110/114/s2011/a/3], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(2). [Pub. L. 110–114][/us/pl/110/114], § 2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (e). [Pub. L. 110–114, § 2011(b)][/us/pl/110/114/s2011/b], substituted “2012” for “2006”.
+    Subsec. (e). [Pub. L. 110–114][/us/pl/110/114], § 2011(b), substituted “2012” for “2006”.
 
  __“Secretary” Defined__ 
 
@@ -112,19 +112,19 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/106/541/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs203
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2588
-[/us/pl/110/114/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1074
-[/us/pl/113/121/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
-[/us/pl/113/121/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa%2F1
-[/us/pl/113/121/s1031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa%2F2
-[/us/pl/110/114/s2011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fa%2F1
-[/us/pl/110/114/s2011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fa%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/110/114/s2011/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fa%2F3
-[/us/pl/110/114/s2011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fb
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

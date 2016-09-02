@@ -33,11 +33,11 @@
 
         (2) In addition to any other regulations, the Secretary is authorized, in accordance with this subsection, to establish a safety zone to be effective during the period of construction of a deepwater port and to issue rules and regulations relating thereto.
 
-([Pub. L. 93–627, § 10][/us/pl/93/627/s10], Jan. 3, 1975, [88 Stat. 2137][/us/stat/88/2137]; [Pub. L. 104–324, title V, § 508][/us/pl/104/324/s508], Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927].)
+([Pub. L. 93–627][/us/pl/93/627], § 10, Jan. 3, 1975, [88 Stat. 2137][/us/stat/88/2137]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 508, Oct. 19, 1996, [110 Stat. 3927][/us/stat/110/3927].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–324, § 507(a)][/us/pl/104/324/s507/a], inserted “and the provision of adequate opportunities for public involvement” after “international law” and substituted “shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee’s operations manual, with respect to” for “shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,”.
+    1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 507(a), inserted “and the provision of adequate opportunities for public involvement” after “international law” and substituted “shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee’s operations manual, with respect to” for “shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,”.
 
 ----------
 
@@ -47,10 +47,10 @@
 ----------
 
 [/us/usc/t33/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1504%2Fc
-[/us/pl/93/627/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs10
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2137
-[/us/pl/104/324/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs508
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3927
-[/us/pl/104/324/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs507%2Fa
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 
 

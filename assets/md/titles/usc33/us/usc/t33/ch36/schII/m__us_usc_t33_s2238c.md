@@ -125,7 +125,7 @@
 
             If the target total budget resources under subparagraphs (A) through (D) of [section 2238b(b)(1) of this title][/us/usc/t33/s2238b/b/1] are met for each of fiscal years 2015 through 2018, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2022.
 
-([Pub. L. 113–121, title II, § 2106][/us/pl/113/121/s2106], June 10, 2014, [128 Stat. 1280][/us/stat/128/1280].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2106, June 10, 2014, [128 Stat. 1280][/us/stat/128/1280].)
 
  __Codification__ 
 
@@ -146,7 +146,7 @@
 [/us/usc/t33/s2238/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238%2Ff
 [/us/usc/t33/s2238/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238%2Ff
 [/us/usc/t33/s2238b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238b%2Fb%2F1
-[/us/pl/113/121/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2106
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1280
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

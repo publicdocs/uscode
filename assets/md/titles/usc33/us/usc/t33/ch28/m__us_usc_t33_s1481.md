@@ -27,7 +27,7 @@
 
     (b) In a criminal proceeding for an offense under paragraph (1) or (2) of subsection (a) of this section it shall be a defense for the accused to prove that he used all due diligence to comply with any order or direction that he had reasonable cause to believe that compliance would have resulted in serious risk to human life.
 
-([Pub. L. 93–248, § 12][/us/pl/93/248/s12], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 101–380, title IV, § 4302][/us/pl/101/380/s4302](l), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
+([Pub. L. 93–248][/us/pl/93/248], § 12, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(l), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/93/248/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs12
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/101/380/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

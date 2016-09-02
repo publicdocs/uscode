@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701" data-uslm-ref="/us/usc/t33/s701">701</a>l, 701l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701l" data-uslm-ref="/us/usc/t33/s701l">701l</a>, 701l–1.  </td>
 
     <td> Repealed.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701" data-uslm-ref="/us/usc/t33/s701">701</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701o" data-uslm-ref="/us/usc/t33/s701o">701o.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -689,7 +689,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs702" data-uslm-ref="/us/usc/t33/s702">702</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs702l" data-uslm-ref="/us/usc/t33/s702l">702l.</a>  </td>
 
     <td> Repeal of inconsistent laws.  </td>
 

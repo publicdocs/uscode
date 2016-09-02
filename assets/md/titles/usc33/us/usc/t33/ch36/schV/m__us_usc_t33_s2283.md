@@ -259,7 +259,7 @@
 
             At the request of the non-Federal project sponsor, preference may be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project has been approved by the applicable Federal agency.
 
-([Pub. L. 99–662, title IX, § 906][/us/pl/99/662/s906], Nov. 17, 1986, [100 Stat. 4186][/us/stat/100/4186]; [Pub. L. 102–580, title III, § 333(a)][/us/pl/102/580/s333/a], Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 106–53, title II, § 221][/us/pl/106/53/s221], Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295]; [Pub. L. 106–541, title II, § 224(a)][/us/pl/106/541/s224/a], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II, § 2036(a)][/us/pl/110/114/s2036/a], Nov. 8, 2007, [121 Stat. 1092][/us/stat/121/1092]; [Pub. L. 113–121, title I, § 1040(a)][/us/pl/113/121/s1040/a], June 10, 2014, [128 Stat. 1239][/us/stat/128/1239].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 906, Nov. 17, 1986, [100 Stat. 4186][/us/stat/100/4186]; [Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 333(a), Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 221, Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 224(a), Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2036(a), Nov. 8, 2007, [121 Stat. 1092][/us/stat/121/1092]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1040(a), June 10, 2014, [128 Stat. 1239][/us/stat/128/1239].)
 
  __References in Text__ 
 
@@ -275,21 +275,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1). [Pub. L. 113–121, § 1040(a)(1)(A)][/us/pl/113/121/s1040/a/1/A], inserted “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”, “ecological resources and” after “impact on”, “without the implementation of mitigation measures” before period at end of first sentence, and “If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of [section 2317(a)(1) of this title][/us/usc/t33/s2317/a/1].” after “to the extent possible.”
+    2014—Subsec. (d)(1). [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(1)(A), inserted “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”, “ecological resources and” after “impact on”, “without the implementation of mitigation measures” before period at end of first sentence, and “If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of [section 2317(a)(1) of this title][/us/usc/t33/s2317/a/1].” after “to the extent possible.”
 
-    Subsec. (d)(2). [Pub. L. 113–121, § 1040(a)(1)(B)(iii)][/us/pl/113/121/s1040/a/1/B/iii], which directed insertion of “using a watershed approach” after “projects” was executed by making the insertion after “projects” the first place appearing to reflect the probable intent of Congress.
+    Subsec. (d)(2). [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(1)(B)(iii), which directed insertion of “using a watershed approach” after “projects” was executed by making the insertion after “projects” the first place appearing to reflect the probable intent of Congress.
 
-    [Pub. L. 113–121, § 1040(a)(1)(B)(i)][/us/pl/113/121/s1040/a/1/B/i], (ii), substituted “Selection and design” for “Design” in heading and inserted “select and” before “design” in text.
+    [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(1)(B)(i), (ii), substituted “Selection and design” for “Design” in heading and inserted “select and” before “design” in text.
 
-    Subsec. (d)(3)(A). [Pub. L. 113–121, § 1040(a)(1)(C)(i)][/us/pl/113/121/s1040/a/1/C/i], inserted “, at a minimum,” after “complies with”.
+    Subsec. (d)(3)(A). [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(1)(C)(i), inserted “, at a minimum,” after “complies with”.
 
-    Subsec. (d)(3)(B)(iii) to (vi). [Pub. L. 113–121, § 1040(a)(1)(C)(ii)][/us/pl/113/121/s1040/a/1/C/ii], added cls. (iii) and (iv), redesignated former cls. (iv) and (v) as (v) and (vi), respectively, and struck out former cl. (iii) which read as follows: “a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;”.
+    Subsec. (d)(3)(B)(iii) to (vi). [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(1)(C)(ii), added cls. (iii) and (iv), redesignated former cls. (iv) and (v) as (v) and (vi), respectively, and struck out former cl. (iii) which read as follows: “a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;”.
 
-    Subsecs. (h), (i). [Pub. L. 113–121, § 1040(a)(2)][/us/pl/113/121/s1040/a/2], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 113–121][/us/pl/113/121], § 1040(a)(2), added subsecs. (h) and (i).
 
-    2007—Subsec. (d)(1). [Pub. L. 110–114, § 2036(a)(1)][/us/pl/110/114/s2036/a/1], (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
+    2007—Subsec. (d)(1). [Pub. L. 110–114][/us/pl/110/114], § 2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
 
-    Subsec. (d)(3) to (5). [Pub. L. 110–114, § 2036(a)(3)][/us/pl/110/114/s2036/a/3], added pars. (3) to (5).
+    Subsec. (d)(3) to (5). [Pub. L. 110–114][/us/pl/110/114], § 2036(a)(3), added pars. (3) to (5).
 
     2000—Subsec. (d). [Pub. L. 106–541][/us/pl/106/541] inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted “November 17, 1986” for “the date of enactment of this Act”, redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 
@@ -299,13 +299,13 @@
 
  __Applicability__ 
 
-[Pub. L. 113–121, title I, § 1040(b)][/us/pl/113/121/s1040/b], June 10, 2014, [128 Stat. 1243][/us/stat/128/1243], provided that: 
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1040(b), June 10, 2014, [128 Stat. 1243][/us/stat/128/1243], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not apply to a project for which a mitigation plan has been completed as of the date of enactment of this Act \[June 10, 2014\].”
 
  __Concurrent Mitigation__ 
 
-[Pub. L. 106–541, title II, § 224(b)][/us/pl/106/541/s224/b], Dec. 11, 2000, [114 Stat. 2598][/us/stat/114/2598], provided that:
+[Pub. L. 106–541, title II][/us/pl/106/541/tII], § 224(b), Dec. 11, 2000, [114 Stat. 2598][/us/stat/114/2598], provided that:
 
 >     “(1) __Investigation.—__ 
 
@@ -344,17 +344,17 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t33/s2317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2317%2Fa%2F1
-[/us/pl/99/662/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs906
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4186
-[/us/pl/102/580/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs333%2Fa
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4852
-[/us/pl/106/53/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs221
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F295
-[/us/pl/106/541/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs224%2Fa
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2597
-[/us/pl/110/114/s2036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1092
-[/us/pl/113/121/s1040/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1239
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -371,21 +371,21 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/113/121/s1040/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FA
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/usc/t33/s2317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2317%2Fa%2F1
-[/us/pl/113/121/s1040/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FB%2Fiii
-[/us/pl/113/121/s1040/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FB%2Fi
-[/us/pl/113/121/s1040/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FC%2Fi
-[/us/pl/113/121/s1040/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FC%2Fii
-[/us/pl/113/121/s1040/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F2
-[/us/pl/110/114/s2036/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa%2F1
-[/us/pl/110/114/s2036/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
-[/us/pl/113/121/s1040/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fb
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1243
-[/us/pl/106/541/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs224%2Fb
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2598
 [/us/usc/t33/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283
 

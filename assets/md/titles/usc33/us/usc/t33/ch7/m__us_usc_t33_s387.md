@@ -21,11 +21,11 @@
 
  __References in Text__ 
 
-    Surveyors of the several ports of delivery, referred to in text, are probably obsolete offices in view of [act July 5, 1932, ch. 430][/us/act/1932-07-05/ch430], title I, § 1, [47 Stat. 584][/us/stat/47/584], which abolished the offices of surveyors of customs, except at the Port of New York. Ports of delivery, except those which were made ports of entry, were abolished and the use of the term “port of delivery” was discontinued under the President’s plan of reorganization of the customs service communicated to Congress by message dated Mar. 3, 1913.
+    Surveyors of the several ports of delivery, referred to in text, are probably obsolete offices in view of [act July 5, 1932, ch. 430, title I][/us/act/1932-07-05/ch430/tI], § 1, [47 Stat. 584][/us/stat/47/584], which abolished the offices of surveyors of customs, except at the Port of New York. Ports of delivery, except those which were made ports of entry, were abolished and the use of the term “port of delivery” was discontinued under the President’s plan of reorganization of the customs service communicated to Congress by message dated Mar. 3, 1913.
 
  __Codification__ 
 
-    R.S. § 4299 derived from [act Aug. 5, 1861, ch. 48, § 3][/us/act/1861-08-05/ch48/s3], [12 Stat. 315][/us/stat/12/315].
+    R.S. § 4299 derived from [act Aug. 5, 1861, ch. 48][/us/act/1861-08-05/ch48], § 3, [12 Stat. 315][/us/stat/12/315].
 
  __Transfer of Functions__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t33/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs385
-[/us/act/1932-07-05/ch430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-05%2Fch430
+[/us/act/1932-07-05/ch430/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-05%2Fch430%2FtI
 [/us/stat/47/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F584
-[/us/act/1861-08-05/ch48/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-05%2Fch48%2Fs3
+[/us/act/1861-08-05/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-05%2Fch48
 [/us/stat/12/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F315
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

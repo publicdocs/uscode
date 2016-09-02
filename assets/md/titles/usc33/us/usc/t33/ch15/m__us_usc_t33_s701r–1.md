@@ -35,7 +35,7 @@
 
         For water resources projects to be constructed in the future, when the taking by the Federal Government of an existing public road necessitates replacement, the substitute provided will, as nearly as practicable, serve in the same manner and reasonably as well as the existing road. The head of the agency concerned is authorized to construct such substitute roads to the design standards which the State or owning political division would use in constructing a new road under similar conditions of geography and under similar traffic loads (present and projected). In any case where a State or political subdivision thereof requests that such a substitute road be constructed to a higher standard than that provided for in the preceding provisions of this subsection, and pays, prior to commencement of such construction, the additional costs involved due to such higher standard, such agency head is authorized to construct such road to such higher standard. Federal costs under the provisions of this subsection shall be part of the nonreimbursable project costs.
 
-([Pub. L. 86–645, title II, § 207][/us/pl/86/645/s207], July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 87–874, title II, § 208][/us/pl/87/874/s208], Oct. 23, 1962, [76 Stat. 1196][/us/stat/76/1196]; [Pub. L. 93–251, title I, § 13][/us/pl/93/251/s13], Mar. 7, 1974, [88 Stat. 17][/us/stat/88/17].)
+([Pub. L. 86–645, title II][/us/pl/86/645/tII], § 207, July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 87–874, title II][/us/pl/87/874/tII], § 208, Oct. 23, 1962, [76 Stat. 1196][/us/stat/76/1196]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 13, Mar. 7, 1974, [88 Stat. 17][/us/stat/88/17].)
 
  __Amendments__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/86/645/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645%2Fs207
+[/us/pl/86/645/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645%2FtII
 [/us/stat/74/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F500
-[/us/pl/87/874/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs208
+[/us/pl/87/874/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2FtII
 [/us/stat/76/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1196
-[/us/pl/93/251/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs13
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F17
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874

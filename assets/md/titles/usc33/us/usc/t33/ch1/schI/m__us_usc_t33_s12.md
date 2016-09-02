@@ -17,7 +17,7 @@
 
     After there shall be conveyed to the United States, free of cost, a valid title to the line of water communication between Taylors Bayou and Sabine Pass, in the State of Texas, known as the Port Arthur Ship Canal, together with a valid title to the turning basin as existing June 19, 1906, and to the artificial slip on which the lumber dock of the Port Arthur Canal and Dock Company is built, the said waterways shall thereupon become free public waters of the United States, and be subject to the laws enacted by Congress for the maintenance, preservation, protection, and regulation of navigable waters: Provided, That the company or corporation conveying title to said canal as aforesaid shall also convey to the United States, free of cost, the fee to a strip of land one hundred and fifty feet wide along the westerly margin of the canal, except that where the right of way of the Southern Pacific Railroad Company prevents the transfer of such strip of land along the westerly margin of said canal there shall be conveyed such strip on the easterly margin thereof as may be necessary to make up such one hundred and fifty feet of width, with the reservation that until Congress shall have authorized and provided for the enlargement and widening of said canal the said company or corporation, its successors or assigns, shall have the right to control, occupy, and use the said strip of land and every part thereof in the same manner and to the same extent as before the execution and delivery of the conveyance, and also the right to transfer, lease, sell, quitclaim, or otherwise dispose of said property and every part thereof, subject to the grant made to the United States. The charges for the use of said docks and wharves shall be just and reasonable and shall not be greater than charges for similar services at other ports of the United States on the Gulf of Mexico.
 
-([June 19, 1906, ch. 3436, § 1][/us/act/1906-06-19/ch3436/s1], [34 Stat. 302][/us/stat/34/302].)
+([June 19, 1906, ch. 3436][/us/act/1906-06-19/ch3436], § 1, [34 Stat. 302][/us/stat/34/302].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1906-06-19/ch3436/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-19%2Fch3436%2Fs1
+[/us/act/1906-06-19/ch3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-19%2Fch3436
 [/us/stat/34/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F302
 
 

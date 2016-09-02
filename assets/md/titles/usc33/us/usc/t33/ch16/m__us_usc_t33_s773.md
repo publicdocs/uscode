@@ -17,7 +17,7 @@
 
     Application for the benefits of sections 771 to 775 of this title shall be made in such manner and form as the Director of the Office of Personnel Management shall prescribe.
 
-([Aug. 19, 1950, ch. 761, § 3][/us/act/1950-08-19/ch761/s3], [64 Stat. 466][/us/stat/64/466]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Aug. 19, 1950, ch. 761][/us/act/1950-08-19/ch761], § 3, [64 Stat. 466][/us/stat/64/466]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-19/ch761/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761%2Fs3
+[/us/act/1950-08-19/ch761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761
 [/us/stat/64/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F466
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

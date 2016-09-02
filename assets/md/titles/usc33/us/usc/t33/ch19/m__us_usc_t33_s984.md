@@ -49,11 +49,11 @@
 
     (b) Amounts credited under subsection (a)(12) 3 of this section are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11) 3 of this section.
 
-([May 13, 1954, ch. 201, § 4][/us/act/1954-05-13/ch201/s4], [68 Stat. 94][/us/stat/68/94]; [Pub. L. 85–108, § 1(1)][/us/pl/85/108/s1/1]–(3), July 17, 1957, [71 Stat. 307][/us/stat/71/307]; [Pub. L. 92–310, title II, § 232][/us/pl/92/310/s232], June 6, 1972, [86 Stat. 214][/us/stat/86/214]; [Pub. L. 97–369, title III, § 311][/us/pl/97/369/s311], Dec. 18, 1982, [96 Stat. 1783][/us/stat/96/1783]; [Pub. L. 99–662, title XIV, § 805(a)(1)][/us/pl/99/662/s805/a/1]–(3), Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 4, [68 Stat. 94][/us/stat/68/94]; [Pub. L. 85–108][/us/pl/85/108], § 1(1)–(3), July 17, 1957, [71 Stat. 307][/us/stat/71/307]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 232, June 6, 1972, [86 Stat. 214][/us/stat/86/214]; [Pub. L. 97–369, title III][/us/pl/97/369/tIII], § 311, Dec. 18, 1982, [96 Stat. 1783][/us/stat/96/1783]; [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 805(a)(1)–(3), Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272].)
 
  __Codification__ 
 
-    In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–662, title XIV, § 805(b)][/us/pl/99/662/s805/b], Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272], provided that: 
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 805(b), Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272], provided that: 
 
 > “The amendments made by this section \[enacting [section 988a of this title][/us/usc/t33/s988a] and amending this section\] shall take effect on April 1, 1987.”
 
@@ -81,24 +81,24 @@
 [/us/pl/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369
 [/us/usc/t26/s9505/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9505%2Fc%2F1
 [/us/usc/t33/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs983
-[/us/act/1954-05-13/ch201/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs4
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F94
-[/us/pl/85/108/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108%2Fs1%2F1
+[/us/pl/85/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108
 [/us/stat/71/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F307
-[/us/pl/92/310/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs232
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F214
-[/us/pl/97/369/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369%2Fs311
+[/us/pl/97/369/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369%2FtIII
 [/us/stat/96/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1783
-[/us/pl/99/662/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs805%2Fa%2F1
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4272
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/usc/t26/s9505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9505%2Fc
 [/us/pl/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F369
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/85/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108
-[/us/pl/99/662/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs805%2Fb
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4272
 [/us/usc/t33/s988a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988a
 

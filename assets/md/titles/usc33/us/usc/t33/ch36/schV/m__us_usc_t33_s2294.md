@@ -17,7 +17,7 @@
 
     The Secretary shall establish in the Directorate of Civil Works of the Office of the Chief of Engineers an Office of Environmental Policy. Such Office shall be responsible for the formulation, coordination, and implementation of all matters concerning environmental quality and policy as they relate to the water resources program of the United States Army Corps of Engineers. Such Office shall, among other things, develop, and monitor compliance with, guidelines for the consideration of environmental quality in formulation and planning of water resources projects carried out by the Secretary, the preparation and coordination of environmental impact statements for such projects, and the coordination with Federal, State, and local agencies of environmental aspects of such projects and regulatory responsibilities of the Secretary.
 
-([Pub. L. 99–662, title IX, § 924][/us/pl/99/662/s924], Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 924, Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs924
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4194
 
 

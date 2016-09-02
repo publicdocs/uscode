@@ -27,7 +27,7 @@
 
         A response action described in subsection (a) shall be funded from amounts made available to the agency within the Department of Defense responsible for the original release of the munitions.
 
-([Pub. L. 113–121, title I, § 1027][/us/pl/113/121/s1027], June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1027, June 10, 2014, [128 Stat. 1230][/us/stat/128/1230].)
 
  __“Secretary” Defined__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1027
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1230
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

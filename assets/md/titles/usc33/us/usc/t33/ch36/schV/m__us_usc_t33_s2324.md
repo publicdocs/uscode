@@ -47,7 +47,7 @@
 
         The term “low income community” means a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States.
 
-([Pub. L. 101–640, title III, § 322][/us/pl/101/640/s322], Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 322, Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/101/640/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs322
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4643
 [/us/pl/101/640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -37,7 +37,7 @@
 
     (b) The declaration in subsection (a) of this section shall apply only to portions of the above-described area which are either bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-([Pub. L. 94–587, § 178][/us/pl/94/587/s178], Oct. 22, 1976, [90 Stat. 2937][/us/stat/90/2937].)
+([Pub. L. 94–587][/us/pl/94/587], § 178, Oct. 22, 1976, [90 Stat. 2937][/us/stat/90/2937].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/94/587/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs178
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2937
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

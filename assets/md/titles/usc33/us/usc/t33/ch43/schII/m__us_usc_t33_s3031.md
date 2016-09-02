@@ -27,7 +27,7 @@
 
         An officer who subscribed to the oath of office required by [section 3331 of title 5][/us/usc/t5/s3331] shall not be required to renew such oath or to take a new oath upon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.
 
-([Pub. L. 107–372, title II, § 231][/us/pl/107/372/s231], Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 231, Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
-[/us/pl/107/372/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs231
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3087
 [/us/usc/t33/s854a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%932
 

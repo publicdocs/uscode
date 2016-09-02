@@ -23,7 +23,7 @@
 
     The President shall report to the Congress the actions taken, the progress achieved, the areas of disagreement, and the matters about which more information is needed, together with his recommendations for further action.
 
-([Pub. L. 93–627, § 22][/us/pl/93/627/s22], Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147].)
+([Pub. L. 93–627][/us/pl/93/627], § 22, Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/627/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs22
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2147
 
 

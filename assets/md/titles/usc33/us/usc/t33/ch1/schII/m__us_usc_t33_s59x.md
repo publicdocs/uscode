@@ -29,7 +29,7 @@
 
         (3) terminates at drainage culverts on the west side of Interstate Highway 676.
 
-([Pub. L. 100–448, § 16][/us/pl/100/448/s16], Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845]; [Pub. L. 100–457, title III, § 325][/us/pl/100/457/s325], Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150].)
+([Pub. L. 100–448][/us/pl/100/448], § 16, Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845]; [Pub. L. 100–457, title III][/us/pl/100/457/tIII], § 325, Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
-[/us/pl/100/448/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs16
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1845
-[/us/pl/100/457/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2Fs325
+[/us/pl/100/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2FtIII
 [/us/stat/102/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2150
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847

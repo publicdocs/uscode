@@ -17,7 +17,7 @@
 
     In the preparation of feasibility reports for projects for flood damage prevention in urban and rural areas, the Secretary may consider and evaluate measures to reduce or eliminate damages from flooding without regard to frequency of flooding, drainage area, and amount of runoff. This section shall apply with respect to any project, or separable element thereof, the Federal share of the cost of which is less than $3,000,000.
 
-([Pub. L. 99–662, title IX, § 914][/us/pl/99/662/s914], Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 914, Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs914
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4190
 
 

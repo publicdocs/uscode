@@ -37,7 +37,7 @@
 
         The head of any department or agency responsible for recovering amounts for which a person is liable under this subchapter may consider, compromise, and settle a claim for such amounts, including such costs paid from the Fund, if the claim has not been referred to the Attorney General. In any case in which the total amount to be recovered may exceed $500,000 (excluding interest), a claim may be compromised and settled under the preceding sentence only with the prior written approval of the Attorney General.
 
-([Pub. L. 101–380, title I, § 1015][/us/pl/101/380/s1015], Aug. 18, 1990, [104 Stat. 502][/us/stat/104/502]; [Pub. L. 104–324, title XI, § 1142(d)][/us/pl/104/324/s1142/d], Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991]; [Pub. L. 108–293, title VII, § 706][/us/pl/108/293/s706], Aug. 9, 2004, [118 Stat. 1076][/us/stat/118/1076].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1015, Aug. 18, 1990, [104 Stat. 502][/us/stat/104/502]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1142(d), Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 706, Aug. 9, 2004, [118 Stat. 1076][/us/stat/118/1076].)
 
  __References in Text__ 
 
@@ -57,11 +57,11 @@
 ----------
 
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
-[/us/pl/101/380/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1015
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F502
-[/us/pl/104/324/s1142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fd
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3991
-[/us/pl/108/293/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs706
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1076
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

@@ -97,7 +97,7 @@
 
         The term “State” means the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Virginia, Washington, and Wisconsin, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, American Samoa, and Guam.
 
-([Pub. L. 106–457, title I, § 103][/us/pl/106/457/s103], Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958]; [Pub. L. 110–114, title V, § 5017(b)][/us/pl/110/114/s5017/b], Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 103, Nov. 7, 2000, [114 Stat. 1958][/us/stat/114/1958]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(b), Nov. 8, 2007, [121 Stat. 1197][/us/stat/121/1197].)
 
  __References in Text__ 
 
@@ -122,9 +122,9 @@
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t33/s2903/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2903%2Ff%2F2
-[/us/pl/106/457/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs103
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1958
-[/us/pl/110/114/s5017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fb
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1197
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583

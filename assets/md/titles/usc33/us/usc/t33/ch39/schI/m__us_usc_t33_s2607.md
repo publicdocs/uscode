@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may collect a fee under [section 9701 of title 31][/us/usc/t31/s9701] of not more than $1,000, from each person to whom a permit is issued under this subchapter for a permitting system and to maintain information.
 
-([Pub. L. 100–688, title IV, § 4107][/us/pl/100/688/s4107], Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4107, Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/100/688/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4107
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4158
 
 

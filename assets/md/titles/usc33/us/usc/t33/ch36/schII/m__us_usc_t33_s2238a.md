@@ -21,7 +21,7 @@
 
     (2) an estimate of the average annual amount of appropriations from the Harbor Maintenance Trust Fund that would be required to increase that average availability to 95 percent over a 3-year period.
 
-([Pub. L. 112–141, div. A, title I, § 1537][/us/pl/112/141/s1537], July 6, 2012, [126 Stat. 585][/us/stat/126/585].)
+([Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1537, July 6, 2012, [126 Stat. 585][/us/stat/126/585].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/112/141/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1537
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F585
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

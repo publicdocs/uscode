@@ -17,7 +17,7 @@
 
     After the Secretary of Agriculture has submitted to Congress a regular or formal report made on any examination or survey, pursuant to the Flood Control Act approved June 22, 1936, as amended and supplemented, a supplemental, additional, or review report or estimate may be made if authorized by law or by resolution of the Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate.
 
-([Jan. 19, 1948, ch. 2, § 2][/us/act/1948-01-19/ch2/s2], [62 Stat. 4][/us/stat/62/4]; [Pub. L. 103–437, § 12(d)][/us/pl/103/437/s12/d], Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
+([Jan. 19, 1948, ch. 2][/us/act/1948-01-19/ch2], § 2, [62 Stat. 4][/us/stat/62/4]; [Pub. L. 103–437][/us/pl/103/437], § 12(d), Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1948-01-19/ch2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-19%2Fch2%2Fs2
+[/us/act/1948-01-19/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-19%2Fch2
 [/us/stat/62/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F4
-[/us/pl/103/437/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs12%2Fd
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4590
 [/us/act/1936-06-22/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch688
 [/us/stat/49/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1570

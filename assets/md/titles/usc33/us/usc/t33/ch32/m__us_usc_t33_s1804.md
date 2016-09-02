@@ -71,11 +71,11 @@
 
     (27) Tennessee-Tombigbee Waterway: From its confluence with the Tennessee River to the Warrior River at Demopolis, Alabama.
 
-([Pub. L. 95–502, title II, § 206][/us/pl/95/502/s206], Oct. 21, 1978, [92 Stat. 1700][/us/stat/92/1700]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–662, title XIV, § 1404(b)][/us/pl/99/662/s1404/b], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270].)
+([Pub. L. 95–502, title II][/us/pl/95/502/tII], § 206, Oct. 21, 1978, [92 Stat. 1700][/us/stat/92/1700]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1404(b), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270].)
 
  __References in Text__ 
 
-    [Section 1802 of this title][/us/usc/t33/s1802], referred to in text, was repealed by [Pub. L. 99–662, title XIV, § 1405(b)][/us/pl/99/662/s1405/b], Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271].
+    [Section 1802 of this title][/us/usc/t33/s1802], referred to in text, was repealed by [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1405(b), Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271].
 
  __Amendments__ 
 
@@ -95,14 +95,14 @@
 ----------
 
 [/us/usc/t26/s4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4042
-[/us/pl/95/502/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs206
+[/us/pl/95/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2FtII
 [/us/stat/92/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1700
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/662/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1404%2Fb
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4270
 [/us/usc/t33/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1802
-[/us/pl/99/662/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1405%2Fb
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4271
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

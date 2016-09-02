@@ -61,7 +61,7 @@
 
         For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under [section 2282d of this title][/us/usc/t33/s2282d].
 
-([Pub. L. 110–114, title II, § 2006][/us/pl/110/114/s2006], Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073]; [Pub. L. 113–121, title II, § 2104][/us/pl/113/121/s2104], June 10, 2014, [128 Stat. 1279][/us/stat/128/1279].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2006, Nov. 8, 2007, [121 Stat. 1073][/us/stat/121/1073]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2104, June 10, 2014, [128 Stat. 1279][/us/stat/128/1279].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B). [Pub. L. 113–121, § 2104(1)(A)][/us/pl/113/121/s2104/1/A], inserted “or Alaska” after “Hawaii”.
+    2014—Subsec. (a)(1)(B). [Pub. L. 113–121][/us/pl/113/121], § 2104(1)(A), inserted “or Alaska” after “Hawaii”.
 
-    Subsec. (a)(2). [Pub. L. 113–121, § 2104(1)(B)][/us/pl/113/121/s2104/1/B], substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”.
+    Subsec. (a)(2). [Pub. L. 113–121][/us/pl/113/121], § 2104(1)(B), substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”.
 
-    Subsecs. (c) to (e). [Pub. L. 113–121, § 2104(2)][/us/pl/113/121/s2104/2], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 113–121][/us/pl/113/121], § 2104(2), added subsecs. (c) to (e).
 
  __“Secretary” Defined__ 
 
@@ -94,15 +94,15 @@
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4184
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
-[/us/pl/110/114/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2006
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1073
-[/us/pl/113/121/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2104
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1279
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4184
-[/us/pl/113/121/s2104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2104%2F1%2FA
-[/us/pl/113/121/s2104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2104%2F1%2FB
-[/us/pl/113/121/s2104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2104%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

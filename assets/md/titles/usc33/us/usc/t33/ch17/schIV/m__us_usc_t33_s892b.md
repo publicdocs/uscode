@@ -65,7 +65,7 @@
 
         (2) increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and [section 1307 of title 44][/us/usc/t44/s1307].
 
-([Pub. L. 105–384, title III, § 304][/us/pl/105/384/s304], Nov. 13, 1998, [112 Stat. 3455][/us/stat/112/3455]; [Pub. L. 107–372, title I, § 104(a)][/us/pl/107/372/s104/a], Dec. 19, 2002, [116 Stat. 3080][/us/stat/116/3080].)
+([Pub. L. 105–384, title III][/us/pl/105/384/tIII], § 304, Nov. 13, 1998, [112 Stat. 3455][/us/stat/112/3455]; [Pub. L. 107–372, title I][/us/pl/107/372/tI], § 104(a), Dec. 19, 2002, [116 Stat. 3080][/us/stat/116/3080].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t33/s892a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892a%2Fa%2F3
 [/us/usc/t33/s892a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892a%2Fa%2F3
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
-[/us/pl/105/384/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs304
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 [/us/stat/112/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3455
-[/us/pl/107/372/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs104%2Fa
+[/us/pl/107/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtI
 [/us/stat/116/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3080
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/usc/t33/s892a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892a%2Fa%2F3

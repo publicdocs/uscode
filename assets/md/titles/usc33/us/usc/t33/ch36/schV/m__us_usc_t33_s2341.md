@@ -17,7 +17,7 @@
 
     The Secretary shall expedite any authorized planning, design, and construction of any project for flood damage reduction for an area that, within the preceding 5 years, has been subject to flooding that resulted in the loss of life and caused damage of sufficient severity and magnitude to warrant a declaration of a major disaster by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).
 
-([Pub. L. 110–114, title II, § 2009][/us/pl/110/114/s2009], Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2009, Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/110/114/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2009
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1074
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

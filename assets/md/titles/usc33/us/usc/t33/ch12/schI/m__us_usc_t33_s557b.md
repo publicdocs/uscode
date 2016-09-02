@@ -17,7 +17,7 @@
 
     The Chief of Engineers is authorized to provide for the sale of any of the material prepared under authority of [section 557a of this title][/us/usc/t33/s557a]; and of publications, charts, or material prepared under his direction pursuant to other legislative authorization or appropriation, and to charge therefor a sum not less than the cost of reproduction. The money received from sales authorized by this section shall be deposited into the Treasury to the credit of miscellaneous receipts, except that in any case in which the cost of reproduction has been paid from the revolving fund established pursuant to the Civil Functions Appropriation Act, 1954, the proceeds shall be deposited to the credit of such fund.
 
-([Pub. L. 85–480, § 2][/us/pl/85/480/s2], July 2, 1958, [72 Stat. 279][/us/stat/72/279].)
+([Pub. L. 85–480][/us/pl/85/480], § 2, July 2, 1958, [72 Stat. 279][/us/stat/72/279].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s557a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs557a
-[/us/pl/85/480/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F480%2Fs2
+[/us/pl/85/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F480
 [/us/stat/72/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F279
 [/us/act/1953-07-27/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-27%2Fch245
 [/us/stat/67/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F197

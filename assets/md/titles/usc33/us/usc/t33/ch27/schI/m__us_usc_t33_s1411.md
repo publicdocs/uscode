@@ -27,7 +27,7 @@
 
     (b) Except as may be authorized by a permit issued pursuant to [section 1412 of this title][/us/usc/t33/s1412], and subject to regulations issued pursuant to [section 1418 of this title][/us/usc/t33/s1418], no person shall dump any material transported from a location outside the United States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
 
-([Pub. L. 92–532, title I, § 101][/us/pl/92/532/s101], Oct. 23, 1972, [86 Stat. 1053][/us/stat/86/1053]; [Pub. L. 93–254, § 1(3)][/us/pl/93/254/s1/3], Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 101, Oct. 23, 1972, [86 Stat. 1053][/us/stat/86/1053]; [Pub. L. 93–254][/us/pl/93/254], § 1(3), Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–532, title I, § 110(a)][/us/pl/92/532/s110/a], Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060], provided that: 
+[Pub. L. 92–532, title I][/us/pl/92/532/tI], § 110(a), Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060], provided that: 
 
 > “This title \[this subchapter\] shall take effect six months after the date of the enactment of this Act \[Oct. 23, 1972\].”
 
  __Savings Provision__ 
 
-[Pub. L. 92–532, title I, § 110(b)][/us/pl/92/532/s110/b], Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060], provided that: 
+[Pub. L. 92–532, title I][/us/pl/92/532/tI], § 110(b), Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060], provided that: 
 
 > “No legal action begun, or right of action accrued, prior to the effective date of this title \[this subchapter\] shall be affected by any provision of this title \[this subchapter\].”
 
@@ -68,9 +68,9 @@
 [/us/usc/t33/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1418
 [/us/usc/t33/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412
 [/us/usc/t33/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1418
-[/us/pl/92/532/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs101
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1053
-[/us/pl/93/254/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs1%2F3
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/stat/88/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F51
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/usc/t33/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1413
@@ -81,9 +81,9 @@
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/pl/93/254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs2
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
-[/us/pl/92/532/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs110%2Fa
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1060
-[/us/pl/92/532/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs110%2Fb
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1060
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

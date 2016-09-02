@@ -103,21 +103,21 @@
 
             A recipient of a grant made pursuant to this subsection shall not be eligible for any other grants under this subchapter for the same project.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 203, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 835][/us/stat/86/835]; amended [Pub. L. 93–243, § 2][/us/pl/93/243/s2], Jan. 2, 1974, [87 Stat. 1069][/us/stat/87/1069]; [Pub. L. 95–217][/us/pl/95/217], §§ 18, 19, Dec. 27, 1977, [91 Stat. 1571][/us/stat/91/1571], 1572; [Pub. L. 96–483, § 6][/us/pl/96/483/s6], Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 97–117, § 9][/us/pl/97/117/s9], Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626]; [Pub. L. 100–4, title II][/us/pl/100/4], §§ 203, 204, Feb. 4, 1987, [101 Stat. 16][/us/stat/101/16], 17.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 203, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 835][/us/stat/86/835]; amended [Pub. L. 93–243][/us/pl/93/243], § 2, Jan. 2, 1974, [87 Stat. 1069][/us/stat/87/1069]; [Pub. L. 95–217][/us/pl/95/217], §§ 18, 19, Dec. 27, 1977, [91 Stat. 1571][/us/stat/91/1571], 1572; [Pub. L. 96–483][/us/pl/96/483], § 6, Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 97–117][/us/pl/97/117], § 9, Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626]; [Pub. L. 100–4, title II][/us/pl/100/4/tII], §§ 203, 204, Feb. 4, 1987, [101 Stat. 16][/us/stat/101/16], 17.)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–4, § 203][/us/pl/100/4/s203], designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractual nature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
+    1987—Subsec. (a). [Pub. L. 100–4][/us/pl/100/4], § 203, designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractual nature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
 
-    Subsec. (f). [Pub. L. 100–4, § 204][/us/pl/100/4/s204], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–4][/us/pl/100/4], § 204, added subsec. (f).
 
     1981—Subsec. (a). [Pub. L. 97–117][/us/pl/97/117] substituted “$8,000,000” for “$4,000,000” and struck out provision that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $5,000,000.
 
     1980—Subsec. (a). [Pub. L. 96–483][/us/pl/96/483] substituted “$4,000,000” and “$5,000,000” for “$2,000,000” and “$3,000,000”, respectively.
 
-    1977—Subsec. (a). [Pub. L. 95–217, § 18][/us/pl/95/217/s18], provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
+    1977—Subsec. (a). [Pub. L. 95–217][/us/pl/95/217], § 18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
 
-    Subsec. (e). [Pub. L. 95–217, § 19][/us/pl/95/217/s19], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–217][/us/pl/95/217], § 19, added subsec. (e).
 
     1974—Subsec. (d). [Pub. L. 93–243][/us/pl/93/243] added subsec. (d).
 
@@ -136,24 +136,24 @@
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F835
-[/us/pl/93/243/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F243%2Fs2
+[/us/pl/93/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F243
 [/us/stat/87/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1069
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1571
-[/us/pl/96/483/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs6
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2362
-[/us/pl/97/117/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs9
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1626
-[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F16
-[/us/pl/100/4/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs203
-[/us/pl/100/4/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs204
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
-[/us/pl/95/217/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs18
-[/us/pl/95/217/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs19
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/93/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F243
 
 

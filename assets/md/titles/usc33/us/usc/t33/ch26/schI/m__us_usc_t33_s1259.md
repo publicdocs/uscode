@@ -39,7 +39,7 @@
 
         (4) The Administrator may exempt a grant under this section from any requirement under [section 1284(a)(3) of this title][/us/usc/t33/s1284/a/3]. Any grantee who received a grant under this section prior to enactment of the Clean Water Act of 1977 shall be eligible to have its grant increased by funds made available under such Act.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 109, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 829][/us/stat/86/829]; amended [Pub. L. 95–217, § 10][/us/pl/95/217/s10], Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 109, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 829][/us/stat/86/829]; amended [Pub. L. 95–217][/us/pl/95/217], § 10, Dec. 27, 1977, [91 Stat. 1568][/us/stat/91/1568].)
 
  __References in Text__ 
 
@@ -49,13 +49,13 @@
 
  __Amendments__ 
 
-    1977—Subsec. (b)(1). [Pub. L. 95–217, § 10(c)][/us/pl/95/217/s10/c], (d), substituted “cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material” for “cost of construction of a treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel”.
+    1977—Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 10(c), (d), substituted “cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material” for “cost of construction of a treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel”.
 
-    Subsec. (b)(2). [Pub. L. 95–217, § 10(e)][/us/pl/95/217/s10/e], authorized Administrator to make an additional grant for a supplemental facility in each of the States in any case where a grant is made to serve two or more States.
+    Subsec. (b)(2). [Pub. L. 95–217][/us/pl/95/217], § 10(e), authorized Administrator to make an additional grant for a supplemental facility in each of the States in any case where a grant is made to serve two or more States.
 
-    Subsec. (b)(3). [Pub. L. 95–217, § 10(a)][/us/pl/95/217/s10/a], substituted “$500,000” for “$250,000”.
+    Subsec. (b)(3). [Pub. L. 95–217][/us/pl/95/217], § 10(a), substituted “$500,000” for “$250,000”.
 
-    Subsec. (b)(4). [Pub. L. 95–217, § 10(b)][/us/pl/95/217/s10/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 95–217][/us/pl/95/217], § 10(b), added par. (4).
 
 ----------
 
@@ -67,18 +67,18 @@
 [/us/usc/t33/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285
 [/us/usc/t33/s1284/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1284%2Fa%2F3
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F829
-[/us/pl/95/217/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs10
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1568
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/95/217/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs10%2Fc
-[/us/pl/95/217/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs10%2Fe
-[/us/pl/95/217/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs10%2Fa
-[/us/pl/95/217/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs10%2Fb
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 
 

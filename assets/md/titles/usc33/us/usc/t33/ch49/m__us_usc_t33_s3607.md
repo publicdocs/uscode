@@ -17,7 +17,7 @@
 
     The Council shall develop a policy within 6 months after March 30, 2009, that defines processes for making decisions about the roles of the Federal Government, the States, regional information coordination entities, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services related to the System. The Council shall publish the policy in the Federal Register for public comment for a period not less than 60 days. Nothing in this section shall be construed to require changes in policy in effect on March 30, 2009.
 
-([Pub. L. 111–11, title XII, § 12308][/us/pl/111/11/s12308], Mar. 30, 2009, [123 Stat. 1435][/us/stat/123/1435].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12308, Mar. 30, 2009, [123 Stat. 1435][/us/stat/123/1435].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12308
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1435
 
 

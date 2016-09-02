@@ -103,7 +103,7 @@
 
                     The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 314, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 4(f), 62(a), Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567], 1598; [Pub. L. 96–483, § 1(f)][/us/pl/96/483/s1/f], Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I, § 101(g)][/us/pl/100/4/s101/g], title III, § 315(a), (b), (d), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9], 49, 50, 52; [Pub. L. 101–596, title III, § 302][/us/pl/101/596/s302], Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; [Pub. L. 104–66, title II, § 2021(c)][/us/pl/104/66/s2021/c], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 105–362, title V, § 501(b)][/us/pl/105/362/s501/b], Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title VII][/us/pl/106/457], §§ 701, 702, Nov. 7, 2000, [114 Stat. 1976][/us/stat/114/1976]; [Pub. L. 107–303, title III, § 302(b)(1)][/us/pl/107/303/s302/b/1], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 314, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 4(f), 62(a), Dec. 27, 1977, [91 Stat. 1567][/us/stat/91/1567], 1598; [Pub. L. 96–483][/us/pl/96/483], § 1(f), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 101(g), title III, § 315(a), (b), (d), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9], 49, 50, 52; [Pub. L. 101–596, title III][/us/pl/101/596/tIII], § 302, Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(c), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(b), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title VII][/us/pl/106/457/tVII], §§ 701, 702, Nov. 7, 2000, [114 Stat. 1976][/us/stat/114/1976]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
 
  __References in Text__ 
 
@@ -111,23 +111,23 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a)(3), (4). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362, § 501(b)][/us/pl/105/362/s501/b]. See 1998 Amendment note below.
+    2002—Subsec. (a)(3), (4). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362][/us/pl/105/362], § 501(b). See 1998 Amendment note below.
 
-    2000—Subsec. (c)(2). [Pub. L. 106–457, § 701][/us/pl/106/457/s701], substituted “$50,000,000 for each of fiscal years 2001 through 2005” for “$50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990”.
+    2000—Subsec. (c)(2). [Pub. L. 106–457][/us/pl/106/457], § 701, substituted “$50,000,000 for each of fiscal years 2001 through 2005” for “$50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990”.
 
-    Subsec. (d)(2). [Pub. L. 106–457, § 702(1)][/us/pl/106/457/s702/1], inserted “Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia;” after “Sauk Lake, Minnesota;”.
+    Subsec. (d)(2). [Pub. L. 106–457][/us/pl/106/457], § 702(1), inserted “Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia;” after “Sauk Lake, Minnesota;”.
 
-    Subsec. (d)(3). [Pub. L. 106–457, § 702(2)][/us/pl/106/457/s702/2], substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734–736][/us/stat/109/734-736]), by” for “By”.
+    Subsec. (d)(3). [Pub. L. 106–457][/us/pl/106/457], § 702(2), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734–736][/us/stat/109/734-736]), by” for “By”.
 
-    Subsec. (d)(4)(B)(i). [Pub. L. 106–457, § 702(3)][/us/pl/106/457/s702/3], substituted “$25,000,000” for “$15,000,000”.
+    Subsec. (d)(4)(B)(i). [Pub. L. 106–457][/us/pl/106/457], § 702(3), substituted “$25,000,000” for “$15,000,000”.
 
-    1998—Subsec. (a)(3), (4). [Pub. L. 105–362, § 501(b)][/us/pl/105/362/s501/b], which directed the redesignation of par. (4) as (3) and striking out of heading and text of par. (3), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
+    1998—Subsec. (a)(3), (4). [Pub. L. 105–362][/us/pl/105/362], § 501(b), which directed the redesignation of par. (4) as (3) and striking out of heading and text of par. (3), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
 
     1995—Subsec. (d)(3). [Pub. L. 104–66][/us/pl/104/66] substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure” for “The Administrator shall report annually to the Committee on Public Works and Transportation”.
 
     1990—Subsec. (d)(2). [Pub. L. 101–596][/us/pl/101/596] inserted “Lake Champlain, New York and Vermont;” before “Lake Houston, Texas”.
 
-    1987—Subsec. (a). [Pub. L. 100–4, § 315(a)][/us/pl/100/4/s315/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each State shall prepare or establish, and submit to the Administrator for his approval—
+    1987—Subsec. (a). [Pub. L. 100–4][/us/pl/100/4], § 315(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each State shall prepare or establish, and submit to the Administrator for his approval—
 
     “(1) an identification and classification according to eutrophic condition of all publicly owned fresh water lakes in such State;
 
@@ -135,19 +135,19 @@
 
     “(3) methods and procedures, in conjunction with appropriate Federal agencies, to restore the quality of such lakes.”
 
-    Subsec. (b). [Pub. L. 100–4, § 315(d)(1)][/us/pl/100/4/s315/d/1], substituted “subsection (a) of this section” for “this section” in first sentence.
+    Subsec. (b). [Pub. L. 100–4][/us/pl/100/4], § 315(d)(1), substituted “subsection (a) of this section” for “this section” in first sentence.
 
-    Subsec. (c)(1). [Pub. L. 100–4, § 315(d)(2)][/us/pl/100/4/s315/d/2], substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
+    Subsec. (c)(1). [Pub. L. 100–4][/us/pl/100/4], § 315(d)(2), substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
     Subsec. (c)(2). [Pub. L. 100–4][/us/pl/100/4], §§ 101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
-    Subsec. (d). [Pub. L. 100–4, § 315(b)][/us/pl/100/4/s315/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–4][/us/pl/100/4], § 315(b), added subsec. (d).
 
     1980—Subsec. (c)(2). [Pub. L. 96–483][/us/pl/96/483] inserted authorization of $30,000,000 for each of fiscal years 1981 and 1982.
 
-    1977—Subsec. (b). [Pub. L. 95–217, § 62(a)][/us/pl/95/217/s62/a], inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
+    1977—Subsec. (b). [Pub. L. 95–217][/us/pl/95/217], § 62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
 
-    Subsec. (c)(2). [Pub. L. 95–217, § 4(f)][/us/pl/95/217/s4/f], substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
+    Subsec. (c)(2). [Pub. L. 95–217][/us/pl/95/217], § 4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -164,46 +164,46 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734-736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734-736
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F875
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1567
-[/us/pl/96/483/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Ff
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2360
-[/us/pl/100/4/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fg
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F9
-[/us/pl/101/596/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs302
+[/us/pl/101/596/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtIII
 [/us/stat/104/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3006
-[/us/pl/104/66/s2021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fc
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
-[/us/pl/105/362/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fb
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3283
-[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVII
 [/us/stat/114/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1976
-[/us/pl/107/303/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fb%2F1
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/105/362/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fb
-[/us/pl/106/457/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs701
-[/us/pl/106/457/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs702%2F1
-[/us/pl/106/457/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs702%2F2
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734-736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734-736
-[/us/pl/106/457/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs702%2F3
-[/us/pl/105/362/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fb
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/101/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596
-[/us/pl/100/4/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs315%2Fa
-[/us/pl/100/4/s315/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs315%2Fd%2F1
-[/us/pl/100/4/s315/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs315%2Fd%2F2
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/100/4/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs315%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
-[/us/pl/95/217/s62/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs62%2Fa
-[/us/pl/95/217/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs4%2Ff
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362

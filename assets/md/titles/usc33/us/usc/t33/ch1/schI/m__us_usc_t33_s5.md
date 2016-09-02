@@ -35,7 +35,7 @@
 
         (3) property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
 
-([July 5, 1884, ch. 229, § 4][/us/act/1884-07-05/ch229/s4], [23 Stat. 147][/us/stat/23/147]; [Mar. 3, 1909, ch. 264, § 6][/us/act/1909-03-03/ch264/s6], [35 Stat. 818][/us/stat/35/818]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076, § 1(15)][/us/act/1954-08-30/ch1076/s1/15], [68 Stat. 967][/us/stat/68/967]; [Pub. L. 107–295, title IV, § 445][/us/pl/107/295/s445], Nov. 25, 2002, [116 Stat. 2133][/us/stat/116/2133]; [Pub. L. 108–176, title VIII, § 829(a)][/us/pl/108/176/s829/a], Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597].)
+([July 5, 1884, ch. 229][/us/act/1884-07-05/ch229], § 4, [23 Stat. 147][/us/stat/23/147]; [Mar. 3, 1909, ch. 264][/us/act/1909-03-03/ch264], § 6, [35 Stat. 818][/us/stat/35/818]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(15), [68 Stat. 967][/us/stat/68/967]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 445, Nov. 25, 2002, [116 Stat. 2133][/us/stat/116/2133]; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 829(a), Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@ The section, as originally enacted, was as follows:
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–176, title VIII, § 829(b)][/us/pl/108/176/s829/b], Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597], provided that: 
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 829(b), Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] is effective on and after November 25, 2002.”
 
@@ -81,25 +81,25 @@ The section, as originally enacted, was as follows:
 ----------
 
 [/us/usc/t33/s2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2236
-[/us/act/1884-07-05/ch229/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch229%2Fs4
+[/us/act/1884-07-05/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch229
 [/us/stat/23/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F147
-[/us/act/1909-03-03/ch264/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch264%2Fs6
+[/us/act/1909-03-03/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch264
 [/us/stat/35/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F818
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1954-08-30/ch1076/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F15
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F967
-[/us/pl/107/295/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs445
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2133
-[/us/pl/108/176/s829/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs829%2Fa
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2597
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/108/176/s829/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs829%2Fb
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2597
 [/us/pl/102/580/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs223
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541

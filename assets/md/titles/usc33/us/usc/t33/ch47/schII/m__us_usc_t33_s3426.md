@@ -73,7 +73,7 @@
 
         (B) $9,744,000 for the National Technology Institute.
 
-([Pub. L. 111–11, title XII, § 12107][/us/pl/111/11/s12107], Mar. 30, 2009, [123 Stat. 1420][/us/stat/123/1420].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12107, Mar. 30, 2009, [123 Stat. 1420][/us/stat/123/1420].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12107
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1420
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_ch37.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
+[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_s2401...2410.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
 
 ## CHAPTER 38—DUMPING OF MEDICAL WASTE BY PUBLIC VESSELS
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_ch37.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
+[Previous](./../../../..//us/usc/t33/ch37/m__us_usc_t33_s2401...2410.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch38)
 
 ----------
 ----------

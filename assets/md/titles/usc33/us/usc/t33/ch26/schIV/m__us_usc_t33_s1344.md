@@ -173,7 +173,7 @@
 
         Nothing in this section shall preclude or deny the right of any State or interstate agency to control the discharge of dredged or fill material in any portion of the navigable waters within the jurisdiction of such State, including any activity of any Federal agency, and each such agency shall comply with such State or interstate requirements both substantive and procedural to control the discharge of dredged or fill material to the same extent that any person is subject to such requirements. This section shall not be construed as affecting or impairing the authority of the Secretary to maintain navigation.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 404, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 884][/us/stat/86/884]; amended [Pub. L. 95–217, § 67(a)][/us/pl/95/217/s67/a], (b), Dec. 27, 1977, [91 Stat. 1600][/us/stat/91/1600]; [Pub. L. 100–4, title III, § 313(d)][/us/pl/100/4/s313/d], Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 404, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 884][/us/stat/86/884]; amended [Pub. L. 95–217][/us/pl/95/217], § 67(a), (b), Dec. 27, 1977, [91 Stat. 1600][/us/stat/91/1600]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 313(d), Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45].)
 
  __References in Text__ 
 
@@ -187,11 +187,11 @@
 
     “(B) For the purposes of this paragraph, the term ‘person’ shall mean, in addition to the definition contained in [section 1362(5) of this title][/us/usc/t33/s1362/5], any responsible corporate officer.”
 
-    1977—Subsec. (a). [Pub. L. 95–217, § 67(a)(1)][/us/pl/95/217/s67/a/1], substituted “The Secretary” for “The Secretary of the Army, acting through the Chief of Engineers,” and inserted provision that, not later than the fifteenth day after the date an applicant submits all the information required to complete an application for a permit under this subsection, the Secretary publish the notice required by this subsection.
+    1977—Subsec. (a). [Pub. L. 95–217][/us/pl/95/217], § 67(a)(1), substituted “The Secretary” for “The Secretary of the Army, acting through the Chief of Engineers,” and inserted provision that, not later than the fifteenth day after the date an applicant submits all the information required to complete an application for a permit under this subsection, the Secretary publish the notice required by this subsection.
 
-    Subsecs. (b), (c). [Pub. L. 95–217, § 67(a)(2)][/us/pl/95/217/s67/a/2], substituted “the Secretary” for “the Secretary of the Army”.
+    Subsecs. (b), (c). [Pub. L. 95–217][/us/pl/95/217], § 67(a)(2), substituted “the Secretary” for “the Secretary of the Army”.
 
-    Subsecs. (d) to (t). [Pub. L. 95–217, § 67(b)][/us/pl/95/217/s67/b], added subsecs. (d) to (t).
+    Subsecs. (d) to (t). [Pub. L. 95–217][/us/pl/95/217], § 67(b), added subsecs. (d) to (t).
 
  __Transfer of Functions__ 
 
@@ -201,7 +201,7 @@
 
  __Mitigation and Mitigation Banking Regulations__ 
 
-[Pub. L. 108–136, div. A, title III, § 314(b)][/us/pl/108/136/s314/b], Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 314(b), Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431], provided that:
 
 >     “(1) To ensure opportunities for Federal agency participation in mitigation banking, the Secretary of the Army, acting through the Chief of Engineers, shall issue regulations establishing performance standards and criteria for the use, consistent with section 404 of the Federal Water Pollution Control Act ([33 U.S.C. 1344][/us/usc/t33/s1344]), of on-site, off-site, and in-lieu fee mitigation and mitigation banking as compensation for lost wetlands functions in permits issued by the Secretary of the Army under such section. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for regional variations in wetland conditions, functions and values, and apply equivalent standards and criteria to each type of compensatory mitigation.
 
@@ -209,13 +209,13 @@
 
  __Regulatory Program__ 
 
-[Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title I\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–63, provided in part that: 
+[Pub. L. 106–377][/us/pl/106/377], § 1(a)(2) \[title I\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–63, provided in part that: 
 
 > “For expenses necessary for administration of laws pertaining to regulation of navigable waters and wetlands, $125,000,000, to remain available until expended: Provided, That the Secretary of the Army, acting through the Chief of Engineers, is directed to use funds appropriated herein to: (1) by March 1, 2001, supplement the report, Cost Analysis For the 1999 Proposal to Issue and Modify Nationwide Permits, to reflect the Nationwide Permits actually issued on March 9, 2000, including changes in the acreage limits, preconstruction notification requirements and general conditions between the rule proposed on July 21, 1999, and the rule promulgated and published in the Federal Register; (2) after consideration of the cost analysis for the 1999 proposal to issue and modify nationwide permits and the supplement prepared pursuant to this Act \[H.R. 5483, as enacted by [section 1(a)(2) of Pub. L. 106–377][/us/pl/106/377/s1/a/2], see Tables for classification\] and by September 30, 2001, prepare, submit to Congress and publish in the Federal Register a Permit Processing Management Plan by which the Corps of Engineers will handle the additional work associated with all projected increases in the number of individual permit applications and preconstruction notifications related to the new and replacement permits and general conditions. The Permit Processing Management Plan shall include specific objective goals and criteria by which the Corps of Engineers’ progress towards reducing any permit backlog can be measured; (3) beginning on December 31, 2001, and on a biannual basis thereafter, report to Congress and publish in the Federal Register, an analysis of the performance of its program as measured against the criteria set out in the Permit Processing Management Plan; (4) implement a 1-year pilot program to publish quarterly on the U.S. Army Corps of Engineer’s Regulatory Program website all Regulatory Analysis and Management Systems (RAMS) data for the South Pacific Division and North Atlantic Division beginning within 30 days of the enactment of this Act \[Oct. 27, 2000\]; and (5) publish in Division Office websites all findings, rulings, and decisions rendered under the administrative appeals process for the Corps of Engineers Regulatory Program as established in [Public Law 106–60][/us/pl/106/60] \[[113 Stat. 486][/us/stat/113/486]\]: Provided further, That, through the period ending on September 30, 2003, the Corps of Engineers shall allow any appellant to keep a verbatim record of the proceedings of the appeals conference under the aforementioned administrative appeals process: Provided further, That within 30 days of the enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall require all U.S. Army Corps of Engineers Divisions and Districts to record the date on which a section 404 individual permit application or nationwide permit notification is filed with the Corps of Engineers: Provided further, That the Corps of Engineers, when reporting permit processing times, shall track both the date a permit application is first received and the date the application is considered complete, as well as the reason that the application is not considered complete upon first submission.”
 
  __Authority To Delegate to State of Washington Functions of the Secretary Relating to Lake Chelan, Washington__ 
 
-[Pub. L. 95–217, § 76][/us/pl/95/217/s76], Dec. 27, 1977, [91 Stat. 1610][/us/stat/91/1610], provided that: 
+[Pub. L. 95–217][/us/pl/95/217], § 76, Dec. 27, 1977, [91 Stat. 1610][/us/stat/91/1610], provided that: 
 
 > “The Secretary of the Army, acting through the Chief of Engineers, is authorized to delegate to the State of Washington upon its request all or any part of those functions vested in such Secretary by section 404 of the Federal Water Pollution Control Act \[this section\] and by sections 9, 10, and 13 of the Act of March 3, 1899 \[sections 401, 403, and 407 of this title\], relating to Lake Chelan, Washington, if the Secretary determines (1) that such State has the authority, responsibility, and capability to carry out such functions, and (2) that such delegation is in the public interest. Such delegation shall be subject to such terms and conditions as the Secretary deems necessary, including, but not limited to, suspension and revocation for cause of such delegation.”
 
@@ -240,34 +240,34 @@
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F884
-[/us/pl/95/217/s67/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fa
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1600
-[/us/pl/100/4/s313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs313%2Fd
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F45
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1362/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362%2F5
-[/us/pl/95/217/s67/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fa%2F1
-[/us/pl/95/217/s67/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fa%2F2
-[/us/pl/95/217/s67/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs67%2Fb
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/108/136/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs314%2Fb
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1431
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
-[/us/pl/106/377/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F2
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/pl/106/377/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F2
 [/us/pl/106/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60
 [/us/stat/113/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F486
-[/us/pl/95/217/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs76
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1610
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

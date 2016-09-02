@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 7, 1924, ch. 316, § 9][/us/act/1924-06-07/ch316/s9], [43 Stat. 606][/us/stat/43/606], directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924.
+    Section, [act June 7, 1924, ch. 316][/us/act/1924-06-07/ch316], § 9, [43 Stat. 606][/us/stat/43/606], directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch316/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch316%2Fs9
+[/us/act/1924-06-07/ch316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch316
 [/us/stat/43/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F606
 
 

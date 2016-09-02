@@ -37,7 +37,33 @@
 
         (7) advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
 
-([Pub. L. 92–340, § 12][/us/pl/92/340/s12], as added [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1477][/us/stat/92/1477].)
+([Pub. L. 92–340][/us/pl/92/340], § 12, as added [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1477][/us/stat/92/1477].)
+
+ __Safety Zones for Permitted Marine Events__ 
+
+[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 305, Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54], provided that: 
+
+> “Not later than 6 months after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish and implement a process to—
+
+>     “(1) account for the number of safety zones established for permitted marine events;
+
+>     “(2)
+
+>      differentiate whether the event sponsor who requested a permit for such an event is—
+
+>         “(A) an individual;
+
+>         “(B) an organization; or
+
+>         “(C) a government entity; and
+
+>     “(3)
+
+>      account for Coast Guard resources utilized to enforce safety zones established for permitted marine events, including for—
+
+>         “(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and
+
+>         “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required.”
 
 ----------
 
@@ -47,8 +73,10 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/92/340/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs12
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1477
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 
 

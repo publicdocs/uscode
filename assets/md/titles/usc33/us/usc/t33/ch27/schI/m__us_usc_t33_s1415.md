@@ -89,15 +89,15 @@
 
             This subsection does not apply to an act committed substantially in accordance with a compliance agreement or enforcement agreement entered into by the Administrator under [section 1414b(c) of this title][/us/usc/t33/s1414b/c].
 
-([Pub. L. 92–532, title I, § 105][/us/pl/92/532/s105], Oct. 23, 1972, [86 Stat. 1057][/us/stat/86/1057]; [Pub. L. 100–688, title III, § 3201(c)][/us/pl/100/688/s3201/c], (d), Nov. 18, 1988, [102 Stat. 4153][/us/stat/102/4153]; [Pub. L. 102–580, title V, § 508][/us/pl/102/580/s508], Oct. 31, 1992, [106 Stat. 4869][/us/stat/106/4869].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 105, Oct. 23, 1972, [86 Stat. 1057][/us/stat/86/1057]; [Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3201(c), (d), Nov. 18, 1988, [102 Stat. 4153][/us/stat/102/4153]; [Pub. L. 102–580, title V][/us/pl/102/580/tV], § 508, Oct. 31, 1992, [106 Stat. 4869][/us/stat/106/4869].)
 
  __References in Text__ 
 
-    Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as added by act Apr. 3, 1970, [Pub. L. 91–224, title I, § 102][/us/pl/91/224/s102], [84 Stat. 100][/us/stat/84/100], which was classified to [section 1163 of this title][/us/usc/t33/s1163] and was superseded by [Pub. L. 92–500][/us/pl/92/500], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]. See [section 1322 of this title][/us/usc/t33/s1322].
+    Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as added by act Apr. 3, 1970, [Pub. L. 91–224, title I][/us/pl/91/224/tI], § 102, [84 Stat. 100][/us/stat/84/100], which was classified to [section 1163 of this title][/us/usc/t33/s1163] and was superseded by [Pub. L. 92–500][/us/pl/92/500], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816]. See [section 1322 of this title][/us/usc/t33/s1322].
 
  __Amendments__ 
 
-    1992—Subsec. (b). [Pub. L. 102–580, § 508(a)][/us/pl/102/580/s508/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    1992—Subsec. (b). [Pub. L. 102–580][/us/pl/102/580], § 508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
@@ -107,11 +107,11 @@
 
     “(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
 
-    Subsec. (i). [Pub. L. 102–508, § 508(b)][/us/pl/102/508/s508/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–508][/us/pl/102/508], § 508(b), added subsec. (i).
 
-    1988—Subsec. (a). [Pub. L. 100–688, § 3201(c)][/us/pl/100/688/s3201/c], inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
+    1988—Subsec. (a). [Pub. L. 100–688][/us/pl/100/688], § 3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
 
-    Subsec. (b). [Pub. L. 100–688, § 3201(d)][/us/pl/100/688/s3201/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 100–688][/us/pl/100/688], § 3201(d), designated existing provisions as par. (1) and added par. (2).
 
 ----------
 
@@ -121,22 +121,22 @@
 ----------
 
 [/us/usc/t33/s1414b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1414b%2Fc
-[/us/pl/92/532/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs105
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1057
-[/us/pl/100/688/s3201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3201%2Fc
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4153
-[/us/pl/102/580/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs508
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4869
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/91/224/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs102
+[/us/pl/91/224/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtI
 [/us/stat/84/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F100
 [/us/usc/t33/s1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1163
 [/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
-[/us/pl/102/580/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs508%2Fa
-[/us/pl/102/508/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2Fs508%2Fb
-[/us/pl/100/688/s3201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3201%2Fc
-[/us/pl/100/688/s3201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3201%2Fd
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
+[/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
+[/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
 
 

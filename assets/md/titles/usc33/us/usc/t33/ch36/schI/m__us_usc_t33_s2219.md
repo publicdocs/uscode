@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, terms shall have the meanings given by [section 2241 of this title][/us/usc/t33/s2241].
 
-([Pub. L. 99–662, title I, § 109][/us/pl/99/662/s109], Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 109, Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2241
-[/us/pl/99/662/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs109
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4089
 
 

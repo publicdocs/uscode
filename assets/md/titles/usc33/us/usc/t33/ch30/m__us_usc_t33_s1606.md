@@ -19,7 +19,7 @@
 
     (b) The additional station or signal lights or whistle signals contained in the special rules authorized under subsection (a) of this section shall be, as far as possible, such that they cannot be mistaken for any light or signal authorized by the International Regulations. Notice of such special rules shall be published in the Federal Register and, after the effective date specified in such notice, they shall have effect as if they were a part of the International Regulations.
 
-([Pub. L. 95–75, § 7][/us/pl/95/75/s7], July 27, 1977, [91 Stat. 310][/us/stat/91/310].)
+([Pub. L. 95–75][/us/pl/95/75], § 7, July 27, 1977, [91 Stat. 310][/us/stat/91/310].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/75/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75%2Fs7
+[/us/pl/95/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75
 [/us/stat/91/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F310
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

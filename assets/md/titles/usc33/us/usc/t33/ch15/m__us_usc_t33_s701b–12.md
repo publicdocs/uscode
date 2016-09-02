@@ -45,13 +45,13 @@
 
         The Secretary may provide technical support to a non-Federal interest for a project to which subsection (a) of this section applies for the development and implementation of plans prepared under subsection (b) of this section.
 
-([Pub. L. 99–662, title IV, § 402][/us/pl/99/662/s402], Nov. 17, 1986, [100 Stat. 4133][/us/stat/100/4133]; [Pub. L. 100–676, § 14][/us/pl/100/676/s14], Nov. 17, 1988, [102 Stat. 4026][/us/stat/102/4026]; [Pub. L. 104–303, title II, § 202(c)(1)][/us/pl/104/303/s202/c/1], Oct. 12, 1996, [110 Stat. 3674][/us/stat/110/3674]; [Pub. L. 106–541, title II, § 209(a)][/us/pl/106/541/s209/a], (c), Dec. 11, 2000, [114 Stat. 2591][/us/stat/114/2591]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 99–662, title IV][/us/pl/99/662/tIV], § 402, Nov. 17, 1986, [100 Stat. 4133][/us/stat/100/4133]; [Pub. L. 100–676][/us/pl/100/676], § 14, Nov. 17, 1988, [102 Stat. 4026][/us/stat/102/4026]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(c)(1), Oct. 12, 1996, [110 Stat. 3674][/us/stat/110/3674]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 209(a), (c), Dec. 11, 2000, [114 Stat. 2591][/us/stat/114/2591]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–541, § 209(c)][/us/pl/106/541/s209/c], substituted “Floodplain” for “Flood plain” in heading and “floodplain” for “flood plain” in first sentence.
+    2000—Subsec. (b). [Pub. L. 106–541][/us/pl/106/541], § 209(c), substituted “Floodplain” for “Flood plain” in heading and “floodplain” for “flood plain” in first sentence.
 
-    Subsec. (c). [Pub. L. 106–541, § 209(a)][/us/pl/106/541/s209/a], in first sentence substituted “The” for “Within 6 months after October 12, 1996, the”, designated second sentence as par. (2), inserted heading, substituted “The guidelines developed under paragraph (1) shall—” for “Such guidelines shall”, designated remainder of sentence as subpar. (A), inserted “to be undertaken by non-Federal interests to” after “policies”, added subpar. (B), and redesignated former par. (2) as (3).
+    Subsec. (c). [Pub. L. 106–541][/us/pl/106/541], § 209(a), in first sentence substituted “The” for “Within 6 months after October 12, 1996, the”, designated second sentence as par. (2), inserted heading, substituted “The guidelines developed under paragraph (1) shall—” for “Such guidelines shall”, designated remainder of sentence as subpar. (A), inserted “to be undertaken by non-Federal interests to” after “policies”, added subpar. (B), and redesignated former par. (2) as (3).
 
     1996—[Pub. L. 104–303][/us/pl/104/303] substituted “Floodplain management requirements” for “Compliance with flood plain management and insurance programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before construction of any project for local flood protection or any project for hurricane or storm damage reduction, the non-Federal interests shall agree to participate in and comply with applicable Federal flood plain management and flood insurance programs.”
 
@@ -63,13 +63,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–541, title II, § 209(b)][/us/pl/106/541/s209/b], Dec. 11, 2000, [114 Stat. 2591][/us/stat/114/2591], provided that: 
+[Pub. L. 106–541, title II][/us/pl/106/541/tII], § 209(b), Dec. 11, 2000, [114 Stat. 2591][/us/stat/114/2591], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to any project or separable element of a project with respect to which the Secretary \[of the Army\] and the non-Federal interest have not entered a project cooperation agreement on or before the date of enactment of this Act \[Dec. 11, 2000\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–303, title II, § 202(c)(2)][/us/pl/104/303/s202/c/2], Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 202(c)(2), Oct. 12, 1996, [110 Stat. 3675][/us/stat/110/3675], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
 
@@ -84,18 +84,18 @@
 ----------
 ----------
 
-[/us/pl/99/662/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs402
+[/us/pl/99/662/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIV
 [/us/stat/100/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4133
-[/us/pl/100/676/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs14
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4026
-[/us/pl/104/303/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fc%2F1
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3674
-[/us/pl/106/541/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs209%2Fa
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2591
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/106/541/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs209%2Fc
-[/us/pl/106/541/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs209%2Fa
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
@@ -103,9 +103,9 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/106/541/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs209%2Fb
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2591
-[/us/pl/104/303/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs202%2Fc%2F2
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3675
 [/us/pl/110/114/s2003/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff%2F2
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b

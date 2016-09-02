@@ -35,7 +35,7 @@
 
         For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O’Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
 
-([Pub. L. 94–587, § 166][/us/pl/94/587/s166], Oct. 22, 1976, [90 Stat. 2934][/us/stat/90/2934].)
+([Pub. L. 94–587][/us/pl/94/587], § 166, Oct. 22, 1976, [90 Stat. 2934][/us/stat/90/2934].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/94/587/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs166
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2934
 
 

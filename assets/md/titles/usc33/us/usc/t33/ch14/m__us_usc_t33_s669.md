@@ -17,11 +17,11 @@
 
     The individual proprietor or proprietors, or in case of a corporation, its manager or agent appointed for that purpose, owning mining ground in the territory in the State of California mentioned in [section 663 of this title][/us/usc/t33/s663], which it is desired to work by the hydraulic process, must file with said commission a verified petition, setting forth such facts as will comply with law and the rules prescribed by said commission.
 
-([Mar. 1, 1893, ch. 183, § 9][/us/act/1893-03-01/ch183/s9], [27 Stat. 508][/us/stat/27/508].)
+([Mar. 1, 1893, ch. 183][/us/act/1893-03-01/ch183], § 9, [27 Stat. 508][/us/stat/27/508].)
 
  __Transfer of Functions__ 
 
-    California Debris Commission abolished and functions transferred to Secretary of the Army by [Pub. L. 99–662, title XI, § 1106][/us/pl/99/662/s1106], Nov. 17, 1986, [100 Stat. 4229][/us/stat/100/4229], set out as a note under [section 661 of this title][/us/usc/t33/s661].
+    California Debris Commission abolished and functions transferred to Secretary of the Army by [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1106, Nov. 17, 1986, [100 Stat. 4229][/us/stat/100/4229], set out as a note under [section 661 of this title][/us/usc/t33/s661].
 
 ----------
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t33/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs663
-[/us/act/1893-03-01/ch183/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183%2Fs9
+[/us/act/1893-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183
 [/us/stat/27/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F508
-[/us/pl/99/662/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1106
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4229
 [/us/usc/t33/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs661
 

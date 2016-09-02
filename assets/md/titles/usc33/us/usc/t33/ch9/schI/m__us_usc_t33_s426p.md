@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schII/m__us_usc_t33_ch9_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s427...430.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
 
 ## § 426p. Corps of Engineers
 
@@ -55,7 +55,7 @@
 
                 In carrying out subparagraph (A), the Secretary of the Army shall consult affected State and local governments.
 
-([Pub. L. 100–707, title II, § 203][/us/pl/100/707/s203], Nov. 23, 1988, [102 Stat. 4712][/us/stat/102/4712].)
+([Pub. L. 100–707, title II][/us/pl/100/707/tII], § 203, Nov. 23, 1988, [102 Stat. 4712][/us/stat/102/4712].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
  __Short Title__ 
 
-[Pub. L. 100–707, title II, § 201][/us/pl/100/707/s201], Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that: 
+[Pub. L. 100–707, title II][/us/pl/100/707/tII], § 201, Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that: 
 
 > “This title \[enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16\] may be cited as the ‘Great Lakes Planning Assistance Act of 1988’.”
 
  __Great Lakes Damage Assistance and Prevention; Damage Assistance Program__ 
 
-[Pub. L. 100–707, title II, § 202][/us/pl/100/707/s202], Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that:
+[Pub. L. 100–707, title II][/us/pl/100/707/tII], § 202, Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Great Lakes Damage Assistance and Prevention; Definitions__ 
 
-[Pub. L. 100–707, title II, § 205][/us/pl/100/707/s205], Nov. 23, 1988, [102 Stat. 4715][/us/stat/102/4715], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
+[Pub. L. 100–707, title II][/us/pl/100/707/tII], § 205, Nov. 23, 1988, [102 Stat. 4715][/us/stat/102/4715], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
 
 > “For purposes of this title \[see Short Title note above\]—
 
@@ -121,49 +121,26 @@
 
 >     The term ‘Great Lakes State’ means Minnesota, Wisconsin, Illinois, Ohio, Michigan, Indiana, Pennsylvania, and New York.”
 
-§§ 427 to 430. __Repealed.__  __[__  __July 31, 1945, ch. 334, § 5__  __][/us/act/1945-07-31/ch334/s5]__  __,__  __[__  __59 Stat. 508__  __][/us/stat/59/508]__ 
-
-    Section 427, [act June 26, 1936, ch. 849, § 1][/us/act/1936-06-26/ch849/s1], [49 Stat. 1982][/us/stat/49/1982], related to improvement and protection of beaches and defined “beach”.
-
-    Section 428, [act June 26, 1936, ch. 849, § 2][/us/act/1936-06-26/ch849/s2], [49 Stat. 1982][/us/stat/49/1982], related to investigations by Beach Erosion Board and duties of Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
-
-    Section 429, [act June 26, 1936, ch. 849, § 3][/us/act/1936-06-26/ch849/s3], [49 Stat. 1983][/us/stat/49/1983], related to investigative reports by Beach Erosion Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
-
-    Section 430, [act June 26, 1936, ch. 849, § 4][/us/act/1936-06-26/ch849/s4], [49 Stat. 1983][/us/stat/49/1983], related to payment of expenses incident to investigations by Board. See [section 426–1 of this title][/us/usc/t33/s426–1].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schII/m__us_usc_t33_ch9_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s426o–2.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s427...430.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426p)
 
 ----------
 ----------
 
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
-[/us/pl/100/707/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs203
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4712
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/stat/102/4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4711
-[/us/pl/100/707/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs201
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4711
-[/us/pl/100/707/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs202
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4711
-[/us/pl/100/707/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs205
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4715
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/act/1945-07-31/ch334/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch334%2Fs5
-[/us/stat/59/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F508
-[/us/act/1936-06-26/ch849/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs1
-[/us/stat/49/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1982
-[/us/act/1936-06-26/ch849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs2
-[/us/stat/49/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1982
-[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
-[/us/act/1936-06-26/ch849/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs3
-[/us/stat/49/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1983
-[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
-[/us/act/1936-06-26/ch849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch849%2Fs4
-[/us/stat/49/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1983
-[/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
 
 

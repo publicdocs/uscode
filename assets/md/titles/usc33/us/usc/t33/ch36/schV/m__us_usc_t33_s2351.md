@@ -29,7 +29,7 @@
 
     (3) have the absorptive capacity, adaptive capacity, and recoverability to withstand a potentially disruptive event.
 
-([Pub. L. 113–121, title III, § 3022][/us/pl/113/121/s3022], June 10, 2014, [128 Stat. 1301][/us/stat/128/1301].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3022, June 10, 2014, [128 Stat. 1301][/us/stat/128/1301].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3022
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1301
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

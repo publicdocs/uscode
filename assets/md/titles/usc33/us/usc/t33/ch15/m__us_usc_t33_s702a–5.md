@@ -17,7 +17,7 @@
 
     The back-protection levee north of the Eudora Floodway shall be constructed to the same grade and section as the levees opposite on the east side of the Mississippi River: Provided, That this levee extending from the head of the Eudora Floodway north to the Arkansas River shall be so located as to afford adequate space for the passage of flood waters without endangering the levees opposite on the east side of the river and shall be constructed contemporaneously with the construction of the Eudora Floodway; except that, until the Eudora Floodway is in operative condition, there shall be left in this back levee north of the head of the Eudora Floodway openings which shall be sufficient, in the discretion of the Chief of Engineers, to permit the passage of all flood waters to be reasonably contemplated in the event of any break in the riverside fuse-plug levee prior to the time the Eudora Floodway shall be in operative condition.
 
-([June 15, 1936, ch. 548, § 11][/us/act/1936-06-15/ch548/s11], [49 Stat. 1511][/us/stat/49/1511].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 11, [49 Stat. 1511][/us/stat/49/1511].)
 
  __Abandonment and Repeal of Projects__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch548/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs11
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1511
 [/us/usc/t33/s702a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a%E2%80%9312
 

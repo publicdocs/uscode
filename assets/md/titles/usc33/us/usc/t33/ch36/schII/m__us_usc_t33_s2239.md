@@ -13,13 +13,13 @@
 
 [Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238c.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
 
-## § 2239. Repealed. [Pub. L. 101–640, title IV, § 412(f)][/us/pl/101/640/s412/f], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650]
+## § 2239. Repealed. [Pub. L. 101–640, title IV][/us/pl/101/640/tIV], § 412(f), Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650]
 
-    Section, [Pub. L. 99–662, title II, § 211][/us/pl/99/662/s211], Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106]; [Pub. L. 100–676, § 32][/us/pl/100/676/s32], Nov. 17, 1988, [102 Stat. 4030][/us/stat/102/4030], directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
+    Section, [Pub. L. 99–662, title II][/us/pl/99/662/tII], § 211, Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106]; [Pub. L. 100–676][/us/pl/100/676], § 32, Nov. 17, 1988, [102 Stat. 4030][/us/stat/102/4030], directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
 
  __Sediments Decontamination Technology__ 
 
-[Pub. L. 102–580, title IV, § 405][/us/pl/102/580/s405], Oct. 31, 1992, [106 Stat. 4863][/us/stat/106/4863], as amended by [Pub. L. 104–303, title II, § 226][/us/pl/104/303/s226], Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 106–53, title II, § 204][/us/pl/106/53/s204], Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], provided that:
+[Pub. L. 102–580, title IV][/us/pl/102/580/tIV], § 405, Oct. 31, 1992, [106 Stat. 4863][/us/stat/106/4863], as amended by [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 226, Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 204, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], provided that:
 
 >     “(a) __Decontamination Project.—__ 
 
@@ -61,7 +61,7 @@
 
  __Alternatives to Mud Dump Site for Disposal of Dredged Material__ 
 
-[Pub. L. 101–640, title IV, § 412][/us/pl/101/640/s412], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650], provided that:
+[Pub. L. 101–640, title IV][/us/pl/101/640/tIV], § 412, Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -106,20 +106,20 @@
 ----------
 ----------
 
-[/us/pl/101/640/s412/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs412%2Ff
+[/us/pl/101/640/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIV
 [/us/stat/104/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4650
-[/us/pl/99/662/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs211
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4106
-[/us/pl/100/676/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs32
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4030
-[/us/pl/102/580/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs405
+[/us/pl/102/580/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIV
 [/us/stat/106/4863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4863
-[/us/pl/104/303/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs226
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3697
-[/us/pl/106/53/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs204
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
-[/us/pl/101/640/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs412
+[/us/pl/101/640/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIV
 [/us/stat/104/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4650
 [/us/usc/t33/s2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239
 

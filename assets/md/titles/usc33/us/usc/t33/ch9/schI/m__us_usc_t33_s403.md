@@ -17,7 +17,7 @@
 
     The creation of any obstruction not affirmatively authorized by Congress, to the navigable capacity of any of the waters of the United States is prohibited; and it shall not be lawful to build or commence the building of any wharf, pier, dolphin, boom, weir, breakwater, bulkhead, jetty, or other structures in any port, roadstead, haven, harbor, canal, navigable river, or other water of the United States, outside established harbor lines, or where no harbor lines have been established, except on plans recommended by the Chief of Engineers and authorized by the Secretary of the Army; and it shall not be lawful to excavate or fill, or in any manner to alter or modify the course, location, condition, or capacity of, any port, roadstead, haven, harbor, canal, lake, harbor or refuge, or inclosure within the limits of any breakwater, or of the channel of any navigable water of the United States, unless the work has been recommended by the Chief of Engineers and authorized by the Secretary of the Army prior to beginning the same.
 
-([Mar. 3, 1899, ch. 425, § 10][/us/act/1899-03-03/ch425/s10], [30 Stat. 1151][/us/stat/30/1151]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([Mar. 3, 1899, ch. 425][/us/act/1899-03-03/ch425], § 10, [30 Stat. 1151][/us/stat/30/1151]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Codification__ 
 
@@ -25,11 +25,11 @@
 
  __Prior Provisions__ 
 
-    This section and section 9 of act Mar. 3, 1899 ([section 401 of this title][/us/usc/t33/s401]), superseded provisions of [act Sept. 19, 1890, ch. 907, § 7][/us/act/1890-09-19/ch907/s7], [26 Stat. 454][/us/stat/26/454], as amended by [act July 13, 1892, ch. 158, § 3][/us/act/1892-07-13/ch158/s3], [27 Stat. 110][/us/stat/27/110], which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by said Secretary.
+    This section and section 9 of act Mar. 3, 1899 ([section 401 of this title][/us/usc/t33/s401]), superseded provisions of [act Sept. 19, 1890, ch. 907][/us/act/1890-09-19/ch907], § 7, [26 Stat. 454][/us/stat/26/454], as amended by [act July 13, 1892, ch. 158][/us/act/1892-07-13/ch158], § 3, [27 Stat. 110][/us/stat/27/110], which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by said Secretary.
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Transfer of Functions__ 
 
@@ -44,16 +44,16 @@
 ----------
 ----------
 
-[/us/act/1899-03-03/ch425/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425%2Fs10
+[/us/act/1899-03-03/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch425
 [/us/stat/30/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1151
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/act/1890-09-19/ch907/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907%2Fs7
+[/us/act/1890-09-19/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907
 [/us/stat/26/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F454
-[/us/act/1892-07-13/ch158/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-13%2Fch158%2Fs3
+[/us/act/1892-07-13/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-13%2Fch158
 [/us/stat/27/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F110
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

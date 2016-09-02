@@ -17,7 +17,7 @@
 
     No project shall be considered by any committee of Congress with a view to its adoption, except with a view to a survey, if five years have elapsed since a report upon a survey of such project has been submitted to Congress pursuant to law.
 
-([Sept. 22, 1922, ch. 427, § 9][/us/act/1922-09-22/ch427/s9], [42 Stat. 1043][/us/stat/42/1043].)
+([Sept. 22, 1922, ch. 427][/us/act/1922-09-22/ch427], § 9, [42 Stat. 1043][/us/stat/42/1043].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-22/ch427/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427%2Fs9
+[/us/act/1922-09-22/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427
 [/us/stat/42/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1043
 
 

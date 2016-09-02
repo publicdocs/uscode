@@ -17,7 +17,7 @@
 
     The Secretary of the Army, acting through the Chief of Engineers, is directed to make a maximum effort to assure the full participation of members of minority groups, living in the States participating in the Tennessee-Tombigbee Waterway Development Authority, in the construction of the Tennessee-Tombigbee Waterway project, including actions to encourage the use, wherever possible, of minority owned firms.
 
-([Pub. L. 94–587, § 185][/us/pl/94/587/s185], Oct. 22, 1976, [90 Stat. 2941][/us/stat/90/2941]; [Pub. L. 104–106, div. A, title X, § 1064(e)][/us/pl/104/106/s1064/e], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445].)
+([Pub. L. 94–587][/us/pl/94/587], § 185, Oct. 22, 1976, [90 Stat. 2941][/us/stat/90/2941]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1064(e), Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/587/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs185
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2941
-[/us/pl/104/106/s1064/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fe
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F445
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 

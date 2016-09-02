@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe such rules and regulations, and to make and issue such orders, as may be necessary or appropriate for carrying out the provisions of this subchapter.
 
-([June 21, 1940, ch. 409, § 11][/us/act/1940-06-21/ch409/s11], [54 Stat. 501][/us/stat/54/501].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 11, [54 Stat. 501][/us/stat/54/501].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-21/ch409/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs11
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F501
 
 

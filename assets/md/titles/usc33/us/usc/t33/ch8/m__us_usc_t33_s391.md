@@ -17,11 +17,11 @@
 
     Whenever a complaint shall be made against any master, officer, or seaman of any vessel belonging, in whole or in part, to any citizen of the United States, of the commission of any offense, not capital or otherwise infamous, against any law of the United States made for the protection of persons or property engaged in commerce or navigation, it shall be the duty of the United States attorney to investigate the same, and the general nature thereof, and if, in his opinion, the case is such as should be summarily tried, he shall report the same to the district judge, and the judge shall forthwith, or as soon as the ordinary business of the court will permit, proceed to try the cause, and for that purpose may, if necessary, hold a special session of the court, either in term time or vacation.
 
-(R.S. § 4300; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+(R.S. § 4300; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __Codification__ 
 
-    R.S. § 4300 derived from [act June 11, 1864, ch. 121, § 2][/us/act/1864-06-11/ch121/s2], [13 Stat. 124][/us/stat/13/124].
+    R.S. § 4300 derived from [act June 11, 1864, ch. 121][/us/act/1864-06-11/ch121], § 2, [13 Stat. 124][/us/stat/13/124].
 
  __Change of Name__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/act/1864-06-11/ch121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch121%2Fs2
+[/us/act/1864-06-11/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch121
 [/us/stat/13/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F124
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
 

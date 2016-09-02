@@ -143,7 +143,7 @@
 
         Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
 
-([Pub. L. 99–662, title II, § 208][/us/pl/99/662/s208], Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102]; [Pub. L. 104–66, title I, § 1021(g)][/us/pl/104/66/s1021/g], Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 208, Nov. 17, 1986, [100 Stat. 4102][/us/stat/100/4102]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1021(g), Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Codification__ 
 
-    In subsec. (d)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (d)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
@@ -177,9 +177,9 @@
 [/us/usc/t33/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/99/662/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs208
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4102
-[/us/pl/104/66/s1021/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1021%2Fg
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F713
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
@@ -187,7 +187,7 @@
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

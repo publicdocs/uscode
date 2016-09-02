@@ -99,7 +99,7 @@
 
             Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 99–662, title III, § 302][/us/pl/99/662/s302], Nov. 17, 1986, [100 Stat. 4111][/us/stat/100/4111]; [Pub. L. 106–109, § 8(a)][/us/pl/106/109/s8/a], Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495]; [Pub. L. 113–121, title II, § 2002(d)][/us/pl/113/121/s2002/d], June 10, 2014, [128 Stat. 1262][/us/stat/128/1262].)
+([Pub. L. 99–662, title III][/us/pl/99/662/tIII], § 302, Nov. 17, 1986, [100 Stat. 4111][/us/stat/100/4111]; [Pub. L. 106–109][/us/pl/106/109], § 8(a), Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2002(d), June 10, 2014, [128 Stat. 1262][/us/stat/128/1262].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–121, § 2002(d)(1)][/us/pl/113/121/s2002/d/1], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. Notwithstanding [section 3003 of Public Law 104–66][/us/pl/104/66/s3003] ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734][/us/stat/109/734]), the Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.”
+    2014—Subsec. (b). [Pub. L. 113–121][/us/pl/113/121], § 2002(d)(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. Notwithstanding [section 3003 of Public Law 104–66][/us/pl/104/66/s3003] ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734][/us/stat/109/734]), the Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.”
 
-    Subsecs. (c) to (f). [Pub. L. 113–121, § 2002(d)(2)][/us/pl/113/121/s2002/d/2], added subsecs. (c) to (f) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Users Board shall be subject to the Federal Advisory Committee Act, other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency. Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].”
+    Subsecs. (c) to (f). [Pub. L. 113–121][/us/pl/113/121], § 2002(d)(2), added subsecs. (c) to (f) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Users Board shall be subject to the Federal Advisory Committee Act, other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency. Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].”
 
     1999—Subsec. (b). [Pub. L. 106–109][/us/pl/106/109], in last sentence, substituted “Notwithstanding [section 3003 of Public Law 104–66][/us/pl/104/66/s3003] ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734][/us/stat/109/734]), the” for “The”.
 
@@ -123,19 +123,19 @@
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/99/662/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs302
+[/us/pl/99/662/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIII
 [/us/stat/100/4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4111
-[/us/pl/106/109/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109%2Fs8%2Fa
+[/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/stat/113/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1495
-[/us/pl/113/121/s2002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2002%2Fd
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1262
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/113/121/s2002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2002%2Fd%2F1
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/113/121/s2002/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2002%2Fd%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

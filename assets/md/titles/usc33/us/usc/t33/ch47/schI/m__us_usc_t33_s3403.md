@@ -35,7 +35,7 @@
 
         The Administrator may accept donations of property, data, and equipment to be applied for the purpose of exploring the oceans or increasing knowledge of the oceans.
 
-([Pub. L. 111–11, title XII, § 12003][/us/pl/111/11/s12003], Mar. 30, 2009, [123 Stat. 1417][/us/stat/123/1417].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12003, Mar. 30, 2009, [123 Stat. 1417][/us/stat/123/1417].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t33/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3402
 [/us/usc/t33/s3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3405
-[/us/pl/111/11/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12003
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1417
 
 

@@ -33,7 +33,7 @@
 
         The Director of the program, through operation of the extramural regional centers and the National Institute for Undersea Science and Technology, shall leverage partnerships and cooperative research with academia and private industry.
 
-([Pub. L. 111–11, title XII, § 12105][/us/pl/111/11/s12105], Mar. 30, 2009, [123 Stat. 1420][/us/stat/123/1420].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12105, Mar. 30, 2009, [123 Stat. 1420][/us/stat/123/1420].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12105
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1420
 
 

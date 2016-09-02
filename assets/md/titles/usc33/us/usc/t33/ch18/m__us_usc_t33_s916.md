@@ -17,7 +17,7 @@
 
     No assignment, release, or commutation of compensation or benefits due or payable under this chapter, except as provided by this chapter, shall be valid, and such compensation and benefits shall be exempt from all claims of creditors and from levy, execution, and attachment or other remedy for recovery or collection of a debt, which exemption may not be waived.
 
-([Mar. 4, 1927, ch. 509, § 16][/us/act/1927-03-04/ch509/s16], [44 Stat. 1434][/us/stat/44/1434].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 16, [44 Stat. 1434][/us/stat/44/1434].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs16
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1434
 
 

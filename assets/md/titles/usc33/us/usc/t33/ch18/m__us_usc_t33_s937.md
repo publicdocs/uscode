@@ -17,7 +17,7 @@
 
     No stevedoring firm shall be employed in any compensation district by a vessel or by hull owners until it presents to such vessel or hull owners a certificate issued by a deputy commissioner assigned to such district that it has complied with the provisions of this chapter requiring the securing of compensation to its employees. Any person violating the provisions of this section shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
-([Mar. 4, 1927, ch. 509, § 37][/us/act/1927-03-04/ch509/s37], [44 Stat. 1442][/us/stat/44/1442].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 37, [44 Stat. 1442][/us/stat/44/1442].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs37
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1442
 
 

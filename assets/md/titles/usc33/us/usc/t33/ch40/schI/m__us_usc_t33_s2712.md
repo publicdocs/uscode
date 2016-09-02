@@ -187,7 +187,7 @@
 
             Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
-([Pub. L. 101–380, title I, § 1012][/us/pl/101/380/s1012], Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498]; [Pub. L. 108–293, title VII, § 708(b)][/us/pl/108/293/s708/b], Aug. 9, 2004, [118 Stat. 1077][/us/stat/118/1077]; [Pub. L. 111–281, title VII, § 708][/us/pl/111/281/s708], Oct. 15, 2010, [124 Stat. 2984][/us/stat/124/2984].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1012, Aug. 18, 1990, [104 Stat. 498][/us/stat/104/498]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 708(b), Aug. 9, 2004, [118 Stat. 1077][/us/stat/118/1077]; [Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 708, Oct. 15, 2010, [124 Stat. 2984][/us/stat/124/2984].)
 
  __References in Text__ 
 
@@ -195,11 +195,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(5)(B) to (D). [Pub. L. 111–281, § 708(a)][/us/pl/111/281/s708/a], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    2010—Subsec. (a)(5)(B) to (D). [Pub. L. 111–281][/us/pl/111/281], § 708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (g). [Pub. L. 111–281, § 708(b)(1)][/us/pl/111/281/s708/b/1], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
+    Subsec. (g). [Pub. L. 111–281][/us/pl/111/281], § 708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
 
-    Subsec. (l). [Pub. L. 111–281, § 708(b)(2)][/us/pl/111/281/s708/b/2], added subsec. (l).
+    Subsec. (l). [Pub. L. 111–281][/us/pl/111/281], § 708(b)(2), added subsec. (l).
 
     2004—Subsec. (a)(6). [Pub. L. 108–293][/us/pl/108/293] added par. (6).
 
@@ -219,7 +219,7 @@
 
  __Use of Fund for Spills of National Significance__ 
 
-[Pub. L. 112–74, div. D, title V, § 563][/us/pl/112/74/s563], Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981], provided that: 
+[Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 563, Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981], provided that: 
 
 > “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(5)][/us/usc/t33/s2712/a/5]) and [31 U.S.C. 3302][/us/usc/t31/s3302], in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(1)][/us/usc/t33/s2712/a/1]) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: Provided, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
 
@@ -238,11 +238,11 @@
 [/us/usc/t33/s2702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F2%2FA
 [/us/usc/t33/s2706/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2706%2Fe
 [/us/usc/t33/s2706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2706%2Fc
-[/us/pl/101/380/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1012
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F498
-[/us/pl/108/293/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs708%2Fb
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1077
-[/us/pl/111/281/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs708
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2984
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
@@ -252,15 +252,15 @@
 [/us/usc/t33/s2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2736
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/111/281/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs708%2Fa
-[/us/pl/111/281/s708/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs708%2Fb%2F1
-[/us/pl/111/281/s708/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs708%2Fb%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/112/74/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs563
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F981
 [/us/usc/t33/s2712/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2712%2Fa%2F5
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302

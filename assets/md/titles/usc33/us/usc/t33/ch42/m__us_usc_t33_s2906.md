@@ -39,7 +39,7 @@
 
         The Under Secretary shall make the information collected and maintained under this section available to the public.
 
-([Pub. L. 106–457, title I, § 107][/us/pl/106/457/s107], Nov. 7, 2000, [114 Stat. 1964][/us/stat/114/1964]; [Pub. L. 110–114, title V, § 5017(e)][/us/pl/110/114/s5017/e], Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 107, Nov. 7, 2000, [114 Stat. 1964][/us/stat/114/1964]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(e), Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/106/457/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs107
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1964
-[/us/pl/110/114/s5017/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fe
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1198
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 

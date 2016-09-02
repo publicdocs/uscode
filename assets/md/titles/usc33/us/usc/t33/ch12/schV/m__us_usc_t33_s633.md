@@ -17,7 +17,7 @@
 
     Whenever, during the construction or reconstruction of any navigation, flood control, or related water development project under the direction of the Secretary of the Army, the Chief of Engineers determines that any structure or facility owned by an agency of government and utilized in the performance of a governmental function should be protected, altered, reconstructed, relocated, or replaced to meet the requirements of navigation or flood control, or both; or to preserve the safety or integrity of such facility when its safety or usefulness is determined by the Chief of Engineers to be adversely affected or threatened by the project, the Chief of Engineers may, if he deems such action to be in the public interest, enter into a contract providing for (1) the payment from appropriations made for the construction or maintenance of such project, of the reasonable cost of replacing, relocating, or reconstructing such facility to such standard as he deems reasonable but not to exceed the minimum standard of the State or political subdivision for the same type of facility involved, except that if the existing facility exceeds the minimum standard of the State or political subdivision, the Chief of Engineers may provide a facility of comparable standard, or (2) the payment of a lump sum representing the estimated reasonable cost thereof. This section shall not be construed as modifying any existing or future requirement of local cooperation, or as indicating a policy that local interests shall not hereafter be required to assume costs of modifying such facilities. The provisions of this section may be applied to projects hereafter authorized and to those heretofore authorized but not completed as of July 3, 1958, and notwithstanding the navigation servitude vested in the United States, they may be applied to such structures or facilities occupying the beds of navigable waters of the United States.
 
-([Pub. L. 85–500, title I, § 111][/us/pl/85/500/s111], July 3, 1958, [72 Stat. 303][/us/stat/72/303]; [Pub. L. 89–298, title III, § 309][/us/pl/89/298/s309], Oct. 27, 1965, [79 Stat. 1094][/us/stat/79/1094].)
+([Pub. L. 85–500, title I][/us/pl/85/500/tI], § 111, July 3, 1958, [72 Stat. 303][/us/stat/72/303]; [Pub. L. 89–298, title III][/us/pl/89/298/tIII], § 309, Oct. 27, 1965, [79 Stat. 1094][/us/stat/79/1094].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/85/500/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs111
+[/us/pl/85/500/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2FtI
 [/us/stat/72/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F303
-[/us/pl/89/298/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs309
+[/us/pl/89/298/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtIII
 [/us/stat/79/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1094
 [/us/pl/89/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298
 

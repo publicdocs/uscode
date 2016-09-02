@@ -173,11 +173,11 @@
 
             (B) be not more than $5,000,000.
 
-([Aug. 13, 1946, ch. 960, § 3][/us/act/1946-08-13/ch960/s3], [60 Stat. 1056][/us/stat/60/1056]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [July 28, 1956, ch. 768][/us/act/1956-07-28/ch768], [70 Stat. 703][/us/stat/70/703]; [Pub. L. 87–874, title I, § 103(a)(4)][/us/pl/87/874/s103/a/4], Oct. 23, 1962, [76 Stat. 1178][/us/stat/76/1178]; [Pub. L. 89–298, title III, § 310(b)][/us/pl/89/298/s310/b], Oct. 27, 1965, [79 Stat. 1095][/us/stat/79/1095]; [Pub. L. 91–611, title I, § 112(b)][/us/pl/91/611/s112/b], Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821]; [Pub. L. 99–662, title IX, § 915(e)][/us/pl/99/662/s915/e], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II, § 227(e)(2)(C)][/us/pl/104/303/s227/e/2/C], Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703]; [Pub. L. 106–53, title II, § 226][/us/pl/106/53/s226], Aug. 17, 1999, [113 Stat. 298][/us/stat/113/298]; [Pub. L. 110–114, title II, § 2038(a)][/us/pl/110/114/s2038/a], Nov. 8, 2007, [121 Stat. 1097][/us/stat/121/1097].)
+([Aug. 13, 1946, ch. 960][/us/act/1946-08-13/ch960], § 3, [60 Stat. 1056][/us/stat/60/1056]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [July 28, 1956, ch. 768][/us/act/1956-07-28/ch768], [70 Stat. 703][/us/stat/70/703]; [Pub. L. 87–874, title I][/us/pl/87/874/tI], § 103(a)(4), Oct. 23, 1962, [76 Stat. 1178][/us/stat/76/1178]; [Pub. L. 89–298, title III][/us/pl/89/298/tIII], § 310(b), Oct. 27, 1965, [79 Stat. 1095][/us/stat/79/1095]; [Pub. L. 91–611, title I][/us/pl/91/611/tI], § 112(b), Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 915(e), Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 227(e)(2)(C), Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 226, Aug. 17, 1999, [113 Stat. 298][/us/stat/113/298]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2038(a), Nov. 8, 2007, [121 Stat. 1097][/us/stat/121/1097].)
 
  __References in Text__ 
 
-    The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is [Pub. L. 93–251, title I, § 54][/us/pl/93/251/s54], Mar. 7, 1974, [88 Stat. 26][/us/stat/88/26], formerly set out as a note under [section 1962d–5 of Title 42][/us/usc/t42/s1962d–5], The Public Health and Welfare.
+    The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 54, Mar. 7, 1974, [88 Stat. 26][/us/stat/88/26], formerly set out as a note under [section 1962d–5 of Title 42][/us/usc/t42/s1962d–5], The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -199,23 +199,23 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–662, title IX, § 915(i)][/us/pl/99/662/s915/i], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191], provided that: 
+[Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 915(i), Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 426i, 577, 603a, 701g, 701r, and 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Nov. 17, 1986\].”
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–611, title I, § 112(c)][/us/pl/91/611/s112/c], Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821], provided that: 
+[Pub. L. 91–611, title I][/us/pl/91/611/tI], § 112(c), Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 577 of this title][/us/usc/t33/s577]\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
 
  __Transfer of Functions__ 
 
-    Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title][/us/usc/t33/s401] to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by [Pub. L. 89–670, § 6(g)(6)(A)][/us/pl/89/670/s6/g/6/A], Oct. 15, 1966, [80 Stat. 941][/us/stat/80/941], which created Department of Transportation. [Pub. L. 97–449][/us/pl/97/449] amended [section 401 of this title][/us/usc/t33/s401] to reflect transfer made by [section 6(g)(6)(A) of Pub. L. 89–670][/us/pl/89/670/s6/g/6/A], and repealed section 6(g)(6)(A).
+    Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title][/us/usc/t33/s401] to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(g)(6)(A), Oct. 15, 1966, [80 Stat. 941][/us/stat/80/941], which created Department of Transportation. [Pub. L. 97–449][/us/pl/97/449] amended [section 401 of this title][/us/usc/t33/s401] to reflect transfer made by [section 6(g)(6)(A) of Pub. L. 89–670][/us/pl/89/670/s6/g/6/A], and repealed section 6(g)(6)(A).
 
 ----------
 
@@ -230,27 +230,27 @@
 [/us/usc/t42/s1962–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%935
 [/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
 [/us/usc/t33/s426e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426e
-[/us/act/1946-08-13/ch960/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960%2Fs3
+[/us/act/1946-08-13/ch960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960
 [/us/stat/60/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1056
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-07-28/ch768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch768
 [/us/stat/70/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F703
-[/us/pl/87/874/s103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs103%2Fa%2F4
+[/us/pl/87/874/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2FtI
 [/us/stat/76/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1178
-[/us/pl/89/298/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs310%2Fb
+[/us/pl/89/298/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtIII
 [/us/stat/79/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1095
-[/us/pl/91/611/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs112%2Fb
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1821
-[/us/pl/99/662/s915/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fe
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/104/303/s227/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fe%2F2%2FC
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3703
-[/us/pl/106/53/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs226
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F298
-[/us/pl/110/114/s2038/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2038%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1097
-[/us/pl/93/251/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs54
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F26
 [/us/usc/t42/s1962d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
@@ -261,17 +261,17 @@
 [/us/pl/89/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298
 [/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874
 [/us/usc/t33/s426e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426e
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/99/662/s915/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fi
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/91/611/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs112%2Fc
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1821
 [/us/usc/t33/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs577
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/89/670/s6/g/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fg%2F6%2FA
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F941
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401

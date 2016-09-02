@@ -25,15 +25,15 @@
 
     thence extending along the said pierhead line the following courses and distances, (1) south 17 degrees 52 minutes 48.5 seconds west, 605.262 feet to a point; (2) south 14 degrees 14 minutes 14.7 seconds west, 1,372.530 feet to a point; (3) south 10 degrees 37 minutes 35.3 seconds west, 1,252.160 feet to a point; (4) south 8 degrees 23 minutes 50.4 seconds west, 1,450.250 feet to a point; (5) south 2 degrees 22 minutes 45.9 seconds west, 1,221.670 feet to a point; (6) south 1 degree 4 minutes 36 seconds east, 1,468.775 feet to a point on the north house line of Catherine Street extended, thence extending north 76 degrees 56 minutes 29.2 seconds west, the distance of 555.911 feet to the first mentioned point and place of beginning is hereby declared not to be a navigable water of the United States within the meaning of the Constitution and laws of the United States, and the Consent of Congress is hereby given, for the filling or erection of permanent structures in all or any part of the described area.
 
-([Pub. L. 92–605, § 1][/us/pl/92/605/s1], Oct. 31, 1972, [86 Stat. 1493][/us/stat/86/1493].)
+([Pub. L. 92–605][/us/pl/92/605], § 1, Oct. 31, 1972, [86 Stat. 1493][/us/stat/86/1493].)
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Permanent Structures in Above-Described Area; Approval of Plans__ 
 
-[Pub. L. 92–605, § 2][/us/pl/92/605/s2], Oct. 31, 1972, [86 Stat. 1494][/us/stat/86/1494], provided that: 
+[Pub. L. 92–605][/us/pl/92/605], § 2, Oct. 31, 1972, [86 Stat. 1494][/us/stat/86/1494], provided that: 
 
 > “This declaration \[this section\] shall apply only to portions of the above-described area which are filled or occupied by permanent structures. No such filling or erection of structures in the above-described area shall be commenced until the plans therefor have been approved by the Secretary of the Army who shall, prior to granting such approval, give consideration to all factors affecting the general public interest and the impact of the proposed work on the environment.”
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/92/605/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F605%2Fs1
+[/us/pl/92/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F605
 [/us/stat/86/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1493
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/92/605/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F605%2Fs2
+[/us/pl/92/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F605
 [/us/stat/86/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1494
 
 

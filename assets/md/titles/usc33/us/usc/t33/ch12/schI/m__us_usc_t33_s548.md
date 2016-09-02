@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 3, 1925, ch. 467, § 7][/us/act/1925-03-03/ch467/s7], [43 Stat. 1191][/us/stat/43/1191], required a report on projects adopted prior to March 3, 1925.
+    Section, [act Mar. 3, 1925, ch. 467][/us/act/1925-03-03/ch467], § 7, [43 Stat. 1191][/us/stat/43/1191], required a report on projects adopted prior to March 3, 1925.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch467/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch467%2Fs7
+[/us/act/1925-03-03/ch467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch467
 [/us/stat/43/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1191
 
 

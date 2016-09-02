@@ -17,7 +17,7 @@
 
     Whenever the Secretary considers a permit application for a dock or a boat launching facility under [section 403 of this title][/us/usc/t33/s403], the Secretary shall consider the needs of such facility for lighting from sunset to sunrise to make such facility’s presence known within a reasonable distance.
 
-([Pub. L. 99–662, title IX, § 946][/us/pl/99/662/s946], Nov. 17, 1986, [100 Stat. 4200][/us/stat/100/4200].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 946, Nov. 17, 1986, [100 Stat. 4200][/us/stat/100/4200].)
 
  __“Secretary” Defined__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
-[/us/pl/99/662/s946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs946
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4200
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

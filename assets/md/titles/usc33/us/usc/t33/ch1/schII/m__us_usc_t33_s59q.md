@@ -17,7 +17,7 @@
 
     That portion of the Erie Basin in the Buffalo Harbor lying within the following described area is hereby declared to be not a navigable water of the United States within the meaning of the Constitution and the laws of the United States.
 
-([Pub. L. 96–520, § 1][/us/pl/96/520/s1], Dec. 12, 1980, [94 Stat. 3033][/us/stat/94/3033].)
+([Pub. L. 96–520][/us/pl/96/520], § 1, Dec. 12, 1980, [94 Stat. 3033][/us/stat/94/3033].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/520/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F520%2Fs1
+[/us/pl/96/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F520
 [/us/stat/94/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3033
 [/us/pl/96/520/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F520%2Fs1
 [/us/stat/94/3033-3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3033-3035

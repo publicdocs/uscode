@@ -31,7 +31,7 @@
 
         In a case in which any recommendation by a board convened under subsection (a) of this section is not accepted by the Secretary or the President, the board shall make such further recommendations as are acceptable.
 
-([Pub. L. 107–372, title II, § 222][/us/pl/107/372/s222], Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 222, Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
 
  __Prior Provisions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs222
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3085
 [/us/usc/t33/s853r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853r
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

@@ -19,13 +19,13 @@
 
     (2) The Secretary of Commerce is authorized to establish the terms of any agreement entered into under this section, including the amount of funds to be received, and may contribute that portion of the costs incurred by the National Oceanic and Atmospheric Administration, including shiptime and personnel expenses, which the Secretary determines represents the amount of benefits derived by the Administration from the agreement.
 
-([Aug. 6, 1947, ch. 504, § 5][/us/act/1947-08-06/ch504/s5], [61 Stat. 788][/us/stat/61/788]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; [Pub. L. 99–272, title VI, § 6085][/us/pl/99/272/s6085], Apr. 7, 1986, [100 Stat. 138][/us/stat/100/138]; [Pub. L. 106–181, title VI, § 605(b)][/us/pl/106/181/s605/b], Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 5, [61 Stat. 788][/us/stat/61/788]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6085, Apr. 7, 1986, [100 Stat. 138][/us/stat/100/138]; [Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 605(b), Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
 
  __Amendments__ 
 
-    2000—Par. (1). [Pub. L. 106–181, § 605(b)(1)][/us/pl/106/181/s605/b/1], substituted “cooperative agreements, or any other agreements,” for “cooperative agreements”.
+    2000—Par. (1). [Pub. L. 106–181][/us/pl/106/181], § 605(b)(1), substituted “cooperative agreements, or any other agreements,” for “cooperative agreements”.
 
-    Par. (2). [Pub. L. 106–181, § 605(b)(2)][/us/pl/106/181/s605/b/2], which directed the striking of “cooperative”, was executed by striking “cooperative” before “agreement” in two places, to reflect the probable intent of Congress.
+    Par. (2). [Pub. L. 106–181][/us/pl/106/181], § 605(b)(2), which directed the striking of “cooperative”, was executed by striking “cooperative” before “agreement” in two places, to reflect the probable intent of Congress.
 
     1986—[Pub. L. 99–272][/us/pl/99/272] designated existing provisions as par. (1), inserted “any Federal agency,” after “or subdivision thereof,” and added par. (2).
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs5
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F788
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
-[/us/pl/99/272/s6085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6085
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F138
-[/us/pl/106/181/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fb
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F154
-[/us/pl/106/181/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fb%2F1
-[/us/pl/106/181/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs605%2Fb%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

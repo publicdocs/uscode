@@ -17,7 +17,7 @@
 
     Any officer or employee to whom [section 763 of this title][/us/usc/t33/s763] applies, who has been in the active service of the Government fifteen years or more and who is found, after examination by a medical officer of the United States, to be disabled for useful and efficient service by reason of disease or injury not due to vicious habits, intemperance, or willful misconduct on his part, shall be retired under rules to be prescribed by the Secretary of Transportation on an annuity computed in the manner provided in said section.
 
-([Mar. 4, 1925, ch. 523, § 1][/us/act/1925-03-04/ch523/s1], [43 Stat. 1261][/us/stat/43/1261]; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
+([Mar. 4, 1925, ch. 523][/us/act/1925-03-04/ch523], § 1, [43 Stat. 1261][/us/stat/43/1261]; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
 
  __Transfer of Functions__ 
 
@@ -33,10 +33,10 @@
 ----------
 
 [/us/usc/t33/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763
-[/us/act/1925-03-04/ch523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch523%2Fs1
+[/us/act/1925-03-04/ch523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch523
 [/us/stat/43/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1261
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108

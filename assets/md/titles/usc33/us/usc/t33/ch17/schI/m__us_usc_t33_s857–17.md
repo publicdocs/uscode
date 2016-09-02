@@ -27,7 +27,7 @@
 
         The Secretary of Commerce shall make available to the Committee such staff, information, personnel, and administrative services and assistance as may reasonably be required to carry out the provisions of sections 857–13 to 857–18 of this title.
 
-([Pub. L. 95–63, § 6][/us/pl/95/63/s6], July 5, 1977, [91 Stat. 266][/us/stat/91/266].)
+([Pub. L. 95–63][/us/pl/95/63], § 6, July 5, 1977, [91 Stat. 266][/us/stat/91/266].)
 
  __Prior Provisions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/95/63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs6
+[/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/stat/91/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F266
 [/us/pl/95/63/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs7%2Fa
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

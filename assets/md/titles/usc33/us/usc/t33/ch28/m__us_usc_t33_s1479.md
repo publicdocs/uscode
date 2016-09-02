@@ -27,7 +27,7 @@
 
         With respect to intervention for a substance identified pursuant to [section 1473(a) of this title][/us/usc/t33/s1473/a], the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
 
-([Pub. L. 93–248, § 10][/us/pl/93/248/s10], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302, § 1(4)][/us/pl/95/302/s1/4], June 26, 1978, [92 Stat. 345][/us/stat/92/345]; [Pub. L. 97–164, title I, § 161(6)][/us/pl/97/164/s161/6], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 93–248][/us/pl/93/248], § 10, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302][/us/pl/95/302], § 1(4), June 26, 1978, [92 Stat. 345][/us/stat/92/345]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 161(6), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 [/us/usc/t33/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1472
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
 [/us/usc/t33/s1473/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1473%2Fa
-[/us/pl/93/248/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs10
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/95/302/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F4
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F345
-[/us/pl/97/164/s161/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs161%2F6
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

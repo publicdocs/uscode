@@ -31,7 +31,7 @@
 
         The court, the Secretary of Transportation, or the Administrator, as the case may be, may pay up to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
 
-([Pub. L. 100–688, title IV, § 4109][/us/pl/100/688/s4109], Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4109, Nov. 18, 1988, [102 Stat. 4158][/us/stat/102/4158].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2602
-[/us/pl/100/688/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4109
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4158
 
 

@@ -23,7 +23,7 @@
 
     (3) The harbor of Baltimore.
 
-([June 29, 1888, ch. 496, § 6][/us/act/1888-06-29/ch496/s6], [25 Stat. 210][/us/stat/25/210]; [Pub. L. 85–802, § 1(7)][/us/pl/85/802/s1/7], Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 6, [25 Stat. 210][/us/stat/25/210]; [Pub. L. 85–802][/us/pl/85/802], § 1(7), Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1888-06-29/ch496/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs6
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F210
-[/us/pl/85/802/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs1%2F7
+[/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/stat/72/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F970
 [/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802

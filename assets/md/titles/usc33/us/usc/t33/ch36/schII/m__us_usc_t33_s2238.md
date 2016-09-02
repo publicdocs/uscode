@@ -289,7 +289,7 @@
 
                 For purposes of this paragraph, State and local investments in infrastructure shall include infrastructure investments made using amounts made available for activities under [section 5305(a)(9) of title 42][/us/usc/t42/s5305/a/9].
 
-([Pub. L. 99–662, title II, § 210][/us/pl/99/662/s210], Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106]; [Pub. L. 101–640, title III, § 316][/us/pl/101/640/s316], Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641]; [Pub. L. 113–121, title II, § 2102(a)][/us/pl/113/121/s2102/a], June 10, 2014, [128 Stat. 1273][/us/stat/128/1273].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 210, Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 316, Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2102(a), June 10, 2014, [128 Stat. 1273][/us/stat/128/1273].)
 
  __Amendments__ 
 
@@ -309,11 +309,11 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t26/s4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4461
 [/us/usc/t42/s5305/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305%2Fa%2F9
-[/us/pl/99/662/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs210
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4106
-[/us/pl/101/640/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs316
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4641
-[/us/pl/113/121/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2102%2Fa
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1273
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640

@@ -27,7 +27,7 @@
 
         When determined by the Secretary to be in the best interest of the service, officers in any permanent grade may be temporarily promoted one grade by the President. Any such temporary promotion terminates upon the transfer of the officer to a new assignment.
 
-([Pub. L. 107–372, title II, § 229][/us/pl/107/372/s229], Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087]; [Pub. L. 112–166, § 2(gg)(3)][/us/pl/112/166/s2/gg/3], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 229, Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087]; [Pub. L. 112–166][/us/pl/112/166], § 2(gg)(3), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __Prior Provisions__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/107/372/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs229
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3087
-[/us/pl/112/166/s2/gg/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fgg%2F3
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/usc/t33/s853j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853j%E2%80%931
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

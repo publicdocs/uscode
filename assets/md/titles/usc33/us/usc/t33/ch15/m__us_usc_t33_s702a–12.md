@@ -43,7 +43,7 @@
 
         The total authorizations heretofore made for the flood control project of the alluvial valley of the Mississippi River shall not be increased by reason of any provision in this Act, except for the additional amounts necessary for the Yazoo and Red River backwater improvements, and any appropriations heretofore or hereafter made or authorized for said project as herein or heretofore modified may be expended upon any feature of the said project, notwithstanding any restrictions, limitations, or requirements of existing law: Provided, That funds hereafter expended for maintenance shall not be considered as reducing present remaining balances of authorizations.
 
-([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548] (pt.), as added [Aug. 18, 1941, ch. 377, § 3][/us/act/1941-08-18/ch377/s3], [55 Stat. 642][/us/stat/55/642]; amended [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 204(a), [64 Stat. 172][/us/stat/64/172]; [Pub. L. 110–114, title III, § 3013(b)][/us/pl/110/114/s3013/b], Nov. 8, 2007, [121 Stat. 1109][/us/stat/121/1109].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548] (pt.), as added [Aug. 18, 1941, ch. 377][/us/act/1941-08-18/ch377], § 3, [55 Stat. 642][/us/stat/55/642]; amended [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 204(a), [64 Stat. 172][/us/stat/64/172]; [Pub. L. 110–114, title III][/us/pl/110/114/tIII], § 3013(b), Nov. 8, 2007, [121 Stat. 1109][/us/stat/121/1109].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Application of 1950 Increase in Authorization Contained in Subsec. (c) to Old and Atchafalaya Rivers Project__ 
 
-    Section 203 of [act Sept. 3, 1954, ch. 1264][/us/act/1954-09-03/ch1264], title II, [68 Stat. 1258][/us/stat/68/1258], in addition to authorizing an amount of $32,000,000 for control of the Old and Atchafalaya Rivers and a lock for navigation, provided in part that the $15,000,000 increase in authorization by act May 17, 1950 in amending subsec. (c) of this section (see 1950 Amendment note above), should be applied to such project.
+    Section 203 of [act Sept. 3, 1954, ch. 1264, title II][/us/act/1954-09-03/ch1264/tII], [68 Stat. 1258][/us/stat/68/1258], in addition to authorizing an amount of $32,000,000 for control of the Old and Atchafalaya Rivers and a lock for navigation, provided in part that the $15,000,000 increase in authorization by act May 17, 1950 in amending subsec. (c) of this section (see 1950 Amendment note above), should be applied to such project.
 
 ----------
 
@@ -75,24 +75,24 @@
 [/us/usc/t33/s702c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702c
 [/us/usc/t33/s702c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702c
 [/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
-[/us/act/1941-08-18/ch377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377%2Fs3
+[/us/act/1941-08-18/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch377
 [/us/stat/55/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F642
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1950-05-17/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-17%2Fch188
 [/us/stat/64/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F172
-[/us/pl/110/114/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs3013%2Fb
+[/us/pl/110/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIII
 [/us/stat/121/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1109
 [/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1508
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/usc/t33/s702a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702a
 [/us/usc/t33/s702c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs702c
-[/us/act/1954-09-03/ch1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1264
+[/us/act/1954-09-03/ch1264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1264%2FtII
 [/us/stat/68/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1258
 
 

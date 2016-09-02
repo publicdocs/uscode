@@ -23,7 +23,7 @@
 
         The Secretary shall provide recommendations to the Administrator concerning the various tracking systems that might be applicable to vessels transporting municipal or commercial waste which the Secretary currently is studying. The Secretary shall consider the relative effectiveness of various systems and the relative costs of the systems both to the United States Government and to the vessel owner.
 
-([Pub. L. 100–688, title IV, § 4201][/us/pl/100/688/s4201], Nov. 18, 1988, [102 Stat. 4159][/us/stat/102/4159].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4201, Nov. 18, 1988, [102 Stat. 4159][/us/stat/102/4159].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4201
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4159
 
 

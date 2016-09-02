@@ -167,7 +167,7 @@
 
             Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
-([Pub. L. 101–380, title I, § 1003][/us/pl/101/380/s1003], Aug. 18, 1990, [104 Stat. 491][/us/stat/104/491]; [Pub. L. 108–293, title VII, § 703(c)][/us/pl/108/293/s703/c], Aug. 9, 2004, [118 Stat. 1072][/us/stat/118/1072].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1003, Aug. 18, 1990, [104 Stat. 491][/us/stat/104/491]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 703(c), Aug. 9, 2004, [118 Stat. 1072][/us/stat/118/1072].)
 
  __References in Text__ 
 
@@ -190,9 +190,9 @@
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t33/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1471
-[/us/pl/101/380/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1003
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F491
-[/us/pl/108/293/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs703%2Fc
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1072
 [/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F8

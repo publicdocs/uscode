@@ -19,11 +19,11 @@
 
     (b) Nothing in this chapter shall be interpreted to expand the regulatory or enforcement power of the Federal Government which has been delegated to any State through the Clean Water Act or Coastal Zone Management Act of 1972.
 
-([Pub. L. 105–383, title VI, § 606][/us/pl/105/383/s606], Nov. 13, 1998, [112 Stat. 3450][/us/stat/112/3450].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 606, Nov. 13, 1998, [112 Stat. 3450][/us/stat/112/3450].)
 
  __References in Text__ 
 
-    The Clean Water Act, referred to in text, is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Clean Water Act, referred to in text, is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
     The Coastal Zone Management Act of 1972, referred to in text, is title III of [Pub. L. 89–454][/us/pl/89/454], as added by [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1280][/us/stat/86/1280], which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16][/us/usc/t16/s1451] and Tables.
 
@@ -40,10 +40,10 @@
 
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
-[/us/pl/105/383/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs606
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
 [/us/stat/112/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3450
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454

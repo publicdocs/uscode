@@ -71,7 +71,7 @@
 
             Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategic research plan developed under [section 3704 of this title][/us/usc/t33/s3704] to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
 
-([Pub. L. 111–11, title XII, § 12404][/us/pl/111/11/s12404], Mar. 30, 2009, [123 Stat. 1437][/us/stat/123/1437].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12404, Mar. 30, 2009, [123 Stat. 1437][/us/stat/123/1437].)
 
  __Change of Name__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t33/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3704
 [/us/usc/t33/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3704
 [/us/usc/t33/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3704
-[/us/pl/111/11/s12404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12404
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1437
 
 

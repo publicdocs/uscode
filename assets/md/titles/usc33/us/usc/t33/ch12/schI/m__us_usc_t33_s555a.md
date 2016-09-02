@@ -51,7 +51,7 @@
 
     (f) __Omitted__ 
 
-([Pub. L. 99–662, title IX, § 919][/us/pl/99/662/s919], Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 919, Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t33/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs555
-[/us/pl/99/662/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs919
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4192
 [/us/usc/t33/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs555
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

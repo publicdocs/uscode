@@ -23,7 +23,7 @@
 
     (3) consider any views submitted in response to the consultation or notification required by subsections (1) and (2) of this section.
 
-([Pub. L. 93–248, § 6][/us/pl/93/248/s6], Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9].)
+([Pub. L. 93–248][/us/pl/93/248], § 6, Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t33/s1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1474
-[/us/pl/93/248/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs6
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F9
 
 

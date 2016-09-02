@@ -39,11 +39,11 @@
 
         The Administrator shall conduct an investigation of the owner or operator of a vessel or facility if the owner has 5 or more separate violations during a 6-month period.
 
-([Pub. L. 100–688, title IV, § 4105][/us/pl/100/688/s4105], Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4105, Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
 
  __Codification__ 
 
-    In subsec. (c), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (c), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
 ----------
 
@@ -56,10 +56,10 @@
 [/us/usc/t33/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2602
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t33/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2602
-[/us/pl/100/688/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4105
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4157
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 

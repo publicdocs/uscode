@@ -31,7 +31,7 @@
 
         Not later than 3 years after November 8, 2007, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, local, and tribal permits for the construction of non-Federal projects for water supply, wastewater infrastructure, flood damage reduction, storm damage reduction, ecosystem restoration, and navigation.
 
-([Pub. L. 110–114, title II, § 2044][/us/pl/110/114/s2044], Nov. 8, 2007, [121 Stat. 1102][/us/stat/121/1102].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2044, Nov. 8, 2007, [121 Stat. 1102][/us/stat/121/1102].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2044
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1102
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

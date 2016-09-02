@@ -23,11 +23,11 @@
 
     (3) Operators of such vessels must take immediate action to stop disposing of such wastes into ocean waters.
 
-([Pub. L. 100–688, title III, § 3102][/us/pl/100/688/s3102], Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
+([Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3102, Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
 
  __Short Title__ 
 
-[Pub. L. 100–688, title III, § 3101][/us/pl/100/688/s3101], Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152], provided that: 
+[Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3101, Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152], provided that: 
 
 > “This subtitle \[subtitle A (§§ 3101–3105) of title III of [Pub. L. 100–688][/us/pl/100/688], enacting this chapter\] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/100/688/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3102
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4152
-[/us/pl/100/688/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3101
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4152
 [/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
 

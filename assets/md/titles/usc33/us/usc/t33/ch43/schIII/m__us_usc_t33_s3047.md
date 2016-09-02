@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall prevent an officer from being placed on the retired list with the highest rank and with the highest retired pay to which the officer is entitled under any other provision of law.
 
-([Pub. L. 107–372, title II, § 247][/us/pl/107/372/s247], Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 247, Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs247
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3090
 [/us/usc/t33/s853q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853q
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

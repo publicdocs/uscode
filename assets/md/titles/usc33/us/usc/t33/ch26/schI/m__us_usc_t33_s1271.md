@@ -49,7 +49,7 @@
 
             The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) of this section and biennially thereafter.
 
-([Pub. L. 102–580, title V, § 503][/us/pl/102/580/s503], Oct. 31, 1992, [106 Stat. 4865][/us/stat/106/4865].)
+([Pub. L. 102–580, title V][/us/pl/102/580/tV], § 503, Oct. 31, 1992, [106 Stat. 4865][/us/stat/106/4865].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
  __Availability of Contaminated Sediments Information__ 
 
-    [Pub. L. 102–580, title III, § 327][/us/pl/102/580/s327], Oct. 31, 1992, [106 Stat. 4851][/us/stat/106/4851], directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
+    [Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 327, Oct. 31, 1992, [106 Stat. 4851][/us/stat/106/4851], directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
 
  __National Contaminated Sediment Assessment and Management; Short Title; Definitions; Task Force__ 
 
-[Pub. L. 102–580, title V][/us/pl/102/580], §§ 501, 502, Oct. 31, 1992, [106 Stat. 4864][/us/stat/106/4864], provided that:
+[Pub. L. 102–580, title V][/us/pl/102/580/tV], §§ 501, 502, Oct. 31, 1992, [106 Stat. 4864][/us/stat/106/4864], provided that:
 
 > “SEC. 501. __SHORT TITLE AND DEFINITIONS.__ 
 
@@ -165,7 +165,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 102–580, title V, § 509(b)][/us/pl/102/580/s509/b], Oct. 31, 1992, [106 Stat. 4870][/us/stat/106/4870], provided that: 
+[Pub. L. 102–580, title V][/us/pl/102/580/tV], § 509(b), Oct. 31, 1992, [106 Stat. 4870][/us/stat/106/4870], provided that: 
 
 > “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
 
@@ -180,12 +180,12 @@
 ----------
 ----------
 
-[/us/pl/102/580/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs503
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4865
 [/us/pl/102/580/s501/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs501%2Fb%2F4
-[/us/pl/102/580/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs327
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4851
-[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4864
 [/us/usc/t33/s1362/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362%2F7
 [/us/usc/t33/s1362/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362%2F6
@@ -194,7 +194,7 @@
 [/us/usc/t33/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2801
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703%2Fb
-[/us/pl/102/580/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs509%2Fb
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4870
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

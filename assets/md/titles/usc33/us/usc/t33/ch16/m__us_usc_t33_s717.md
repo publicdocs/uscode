@@ -17,7 +17,7 @@
 
     The President may detail officers of the Engineer Corps of the United States Army for consultation or to superintend the construction or repair of any aid to navigation authorized by Congress.
 
-([June 17, 1910, ch. 301, § 11][/us/act/1910-06-17/ch301/s11], [36 Stat. 539][/us/stat/36/539].)
+([June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 11, [36 Stat. 539][/us/stat/36/539].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1910-06-17/ch301/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs11
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F539
 [/us/usc/t33/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs743
 

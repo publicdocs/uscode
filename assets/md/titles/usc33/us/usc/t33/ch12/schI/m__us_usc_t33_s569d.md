@@ -33,7 +33,7 @@
 
         There is authorized to be appropriated $350,000 for each fiscal year beginning after September 30, 1992, for carrying out the purposes of this section.
 
-([Pub. L. 102–580, title II, § 210][/us/pl/102/580/s210], Oct. 31, 1992, [106 Stat. 4830][/us/stat/106/4830].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 210, Oct. 31, 1992, [106 Stat. 4830][/us/stat/106/4830].)
 
  __“Secretary” Defined__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/102/580/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs210
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4830
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -85,13 +85,13 @@
 
         To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
 
-([Pub. L. 93–627, § 4][/us/pl/93/627/s4], Jan. 3, 1975, [88 Stat. 2128][/us/stat/88/2128]; [Pub. L. 98–419, § 2(b)][/us/pl/98/419/s2/b]–(e), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 101–380, title II, § 2003(a)(1)][/us/pl/101/380/s2003/a/1], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]; [Pub. L. 104–324, title V, § 504][/us/pl/104/324/s504], Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I, § 106(a)(2)][/us/pl/107/295/s106/a/2], Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–241, title III, § 304(b)][/us/pl/109/241/s304/b], July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 113–281, title III, § 307(c)][/us/pl/113/281/s307/c], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
+([Pub. L. 93–627][/us/pl/93/627], § 4, Jan. 3, 1975, [88 Stat. 2128][/us/stat/88/2128]; [Pub. L. 98–419][/us/pl/98/419], § 2(b)–(e), Sept. 25, 1984, [98 Stat. 1607][/us/stat/98/1607]; [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2003(a)(1), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]; [Pub. L. 104–324, title V][/us/pl/104/324/tV], § 504, Oct. 19, 1996, [110 Stat. 3926][/us/stat/110/3926]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 106(a)(2), Nov. 25, 2002, [116 Stat. 2086][/us/stat/116/2086]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 304(b), July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 307(c), Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsec. (c)(6), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title][/us/usc/t33/s1251] and Tables.
 
     The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means [Pub. L. 92–532][/us/pl/92/532], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title][/us/usc/t33/s1401] and Tables.
 
@@ -109,7 +109,7 @@
 
     2002—Subsec. (a). [Pub. L. 107–295][/us/pl/107/295] inserted “or natural gas” after “oil”.
 
-    1996—Subsec. (a). [Pub. L. 104–324, § 504(a)][/us/pl/104/324/s504/a], struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
+    1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
     “(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
@@ -117,23 +117,23 @@
 
     “(3) except in cases where the Secretary otherwise by rule provides, for the transshipment of oil, destined for locations outside the United States.”
 
-    Subsec. (c)(7) to (10). [Pub. L. 104–324, § 504(b)][/us/pl/104/324/s504/b], redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to [section 1506 of this title][/us/usc/t33/s1506], as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
+    Subsec. (c)(7) to (10). [Pub. L. 104–324][/us/pl/104/324], § 504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to [section 1506 of this title][/us/usc/t33/s1506], as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
 
-    Subsec. (e)(1). [Pub. L. 104–324, § 504(c)][/us/pl/104/324/s504/c], substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title][/us/usc/t33/s1509/a], rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
+    Subsec. (e)(1). [Pub. L. 104–324][/us/pl/104/324], § 504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title][/us/usc/t33/s1509/a], rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
 
-    Subsec. (e)(2). [Pub. L. 104–324, § 504(d)][/us/pl/104/324/s504/d], substituted “his license” for “his application”.
+    Subsec. (e)(2). [Pub. L. 104–324][/us/pl/104/324], § 504(d), substituted “his license” for “his application”.
 
-    Subsec. (f). [Pub. L. 104–324, § 504(e)][/us/pl/104/324/s504/e], inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
+    Subsec. (f). [Pub. L. 104–324][/us/pl/104/324], § 504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
 
     1990—Subsec. (c)(1). [Pub. L. 101–380][/us/pl/101/380] substituted “[section 2716 of this title][/us/usc/t33/s2716]” for “section 1517(l) of this title;”.
 
-    1984—Subsec. (b). [Pub. L. 98–419, § 2(b)][/us/pl/98/419/s2/b], substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+    1984—Subsec. (b). [Pub. L. 98–419][/us/pl/98/419], § 2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
-    Subsec. (e)(1). [Pub. L. 98–419, § 2(e)][/us/pl/98/419/s2/e], inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+    Subsec. (e)(1). [Pub. L. 98–419][/us/pl/98/419], § 2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-    Subsec. (f). [Pub. L. 98–419, § 2(c)][/us/pl/98/419/s2/c], substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
+    Subsec. (f). [Pub. L. 98–419][/us/pl/98/419], § 2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
 
-    Subsec. (h). [Pub. L. 98–419, § 2(d)][/us/pl/98/419/s2/d], substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
+    Subsec. (h). [Pub. L. 98–419][/us/pl/98/419], § 2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -145,7 +145,23 @@
 
  __LNG Tankers__ 
 
-[Pub. L. 109–241, title III, § 304(a)][/us/pl/109/241/s304/a], July 11, 2006, [120 Stat. 527][/us/stat/120/527], as amended by [Pub. L. 113–281, title III, § 307(b)][/us/pl/113/281/s307/b], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045], provided that: 
+[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 312, Feb. 8, 2016, [130 Stat. 58][/us/stat/130/58], provided that: 
+
+> “Not later than 180 days after the date of the enactment this Act \[Feb. 8, 2016\], the Secretary of Transportation shall—
+
+>     “(1)
+
+>      develop guidelines to implement the program authorized under section 304(a) of the Coast Guard and Maritime Transportation Act of 2006 ([Public Law 109–241][/us/pl/109/241]) \[set out below\], including specific actions to ensure the future availability of able and credentialed United States licensed and unlicensed seafarers including—
+
+>         “(A) incentives to encourage partnership agreements with operators of foreign-flag vessels that carry liquified natural gas, that provide no less than one training billet per vessel for United States merchant mariners in order to meet minimum mandatory sea service requirements;
+
+>         “(B) development of appropriate training curricula for use by public and private maritime training institutions to meet all United States merchant mariner license, certification, and document laws and requirements under the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978; and
+
+>         “(C) steps to promote greater outreach and awareness of additional job opportunities for sea service veterans of the United States Armed Forces; and
+
+>     “(2) submit such guidelines to the Committee Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
+[Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 304(a), July 11, 2006, [120 Stat. 527][/us/stat/120/527], as amended by [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 307(b), Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045], provided that: 
 
 > “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.”
 
@@ -168,25 +184,25 @@
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
 [/us/usc/t33/s1509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1509%2Fa
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/93/627/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs4
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2128
-[/us/pl/98/419/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fb
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1607
-[/us/pl/101/380/s2003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2003%2Fa%2F1
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
-[/us/pl/104/324/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504
+[/us/pl/104/324/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtV
 [/us/stat/110/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3926
-[/us/pl/107/295/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs106%2Fa%2F2
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2086
-[/us/pl/109/241/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fb
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
-[/us/pl/113/281/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fc
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
@@ -204,26 +220,29 @@
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/pl/104/324/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fa
-[/us/pl/104/324/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fb
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1506
-[/us/pl/104/324/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fc
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s1509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1509%2Fa
-[/us/pl/104/324/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fd
-[/us/pl/104/324/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs504%2Fe
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
-[/us/pl/98/419/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fb
-[/us/pl/98/419/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fe
-[/us/pl/98/419/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fc
-[/us/pl/98/419/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs2%2Fd
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/109/241/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs304%2Fa
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F58
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
-[/us/pl/113/281/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fb
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
 
 

@@ -39,11 +39,11 @@
 
         There is authorized to be appropriated $30,000,000 to carry out the provisions of this section, which sum shall be available until expended.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 107, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 828][/us/stat/86/828].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 107, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 828][/us/stat/86/828].)
 
  __Codification__ 
 
-    In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F828
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

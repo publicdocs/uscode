@@ -31,7 +31,7 @@
 
     (3) the Secretary has justified organizational needs for the commissioned corps for each such fiscal year.
 
-([Pub. L. 107–372, title II, § 215][/us/pl/107/372/s215], Dec. 19, 2002, [116 Stat. 3084][/us/stat/116/3084]; [Pub. L. 110–386, § 6][/us/pl/110/386/s6], Oct. 10, 2008, [122 Stat. 4108][/us/stat/122/4108].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 215, Dec. 19, 2002, [116 Stat. 3084][/us/stat/116/3084]; [Pub. L. 110–386][/us/pl/110/386], § 6, Oct. 10, 2008, [122 Stat. 4108][/us/stat/122/4108].)
 
  __Prior Provisions__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/107/372/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs215
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3084
-[/us/pl/110/386/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs6
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/stat/122/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4108
 [/us/usc/t33/s853a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853a
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

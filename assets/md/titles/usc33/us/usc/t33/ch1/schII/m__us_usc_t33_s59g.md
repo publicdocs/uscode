@@ -17,7 +17,7 @@
 
     Steele Bayou, in Warren, Issaquena, Sharkey, and Washington Counties, Mississippi, Washington Bayou, in Issaquena and Washington Counties, Mississippi, and Lake Washington, in Washington County, Mississippi, are hereby declared to be nonnavigable within the meaning of the laws of the United States.
 
-([Pub. L. 90–483, title I, § 108(a)][/us/pl/90/483/s108/a], Aug. 13, 1968, [82 Stat. 735][/us/stat/82/735].)
+([Pub. L. 90–483, title I][/us/pl/90/483/tI], § 108(a), Aug. 13, 1968, [82 Stat. 735][/us/stat/82/735].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/483/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2Fs108%2Fa
+[/us/pl/90/483/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtI
 [/us/stat/82/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F735
 
 

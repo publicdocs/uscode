@@ -17,7 +17,7 @@
 
     Any guidelines for cost-effectiveness analysis published by the Administrator under this subchapter shall provide for the identification and selection of cost effective alternatives to comply with the objectives and goals of this chapter and sections 1281(b), 1281(d), 1281(g)(2)(A), and 1311(b)(2)(B) of this title.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 217, as added [Pub. L. 95–217, § 41][/us/pl/95/217/s41], Dec. 27, 1977, [91 Stat. 1582][/us/stat/91/1582].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 217, as added [Pub. L. 95–217][/us/pl/95/217], § 41, Dec. 27, 1977, [91 Stat. 1582][/us/stat/91/1582].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/95/217/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs41
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1582
 
 

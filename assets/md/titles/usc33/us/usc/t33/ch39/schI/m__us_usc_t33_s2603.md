@@ -43,11 +43,11 @@
 
         (3) if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of the appropriate systems within 18 months after the Administrator makes that determination.
 
-([Pub. L. 100–688, title IV, § 4103][/us/pl/100/688/s4103], Nov. 18, 1988, [102 Stat. 4156][/us/stat/102/4156].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4103, Nov. 18, 1988, [102 Stat. 4156][/us/stat/102/4156].)
 
  __Effective Date__ 
 
-[Pub. L. 100–688, title IV, § 4204(c)][/us/pl/100/688/s4204/c], Nov. 18, 1988, [102 Stat. 4160][/us/stat/102/4160], provided that: 
+[Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4204(c), Nov. 18, 1988, [102 Stat. 4160][/us/stat/102/4160], provided that: 
 
 > “Section 4103 of this Act \[[33 U.S.C. 2603][/us/usc/t33/s2603]\] takes effect 60 days after the date of enactment of this Act \[Nov. 18, 1988\].”
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4103
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4156
-[/us/pl/100/688/s4204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4204%2Fc
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4160
 [/us/usc/t33/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2603
 

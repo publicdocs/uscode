@@ -31,7 +31,7 @@
 
     (7) $59,436,000 for fiscal year 2015.
 
-([Pub. L. 111–11, title XII, § 12006][/us/pl/111/11/s12006], Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12006, Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12006
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1419
 
 

@@ -41,11 +41,11 @@
 
         Criteria established pursuant to this section shall be developed concurrently with the regulations in subsection (a) of [section 1504 of this title][/us/usc/t33/s1504] and in accordance with the provisions of that subsection.
 
-([Pub. L. 93–627, § 6][/us/pl/93/627/s6], Jan. 3, 1975, [88 Stat. 2135][/us/stat/88/2135].)
+([Pub. L. 93–627][/us/pl/93/627], § 6, Jan. 3, 1975, [88 Stat. 2135][/us/stat/88/2135].)
 
  __References in Text__ 
 
-    The National Environmental Policy Act, referred to in subsec. (a), is [Pub. L. 91–190, § 2][/us/pl/91/190/s2], Jan. 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act, referred to in subsec. (a), is [Pub. L. 91–190][/us/pl/91/190], § 2, Jan. 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
 ----------
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t33/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1504
-[/us/pl/93/627/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs6
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2135
-[/us/pl/91/190/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs2
+[/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

@@ -47,7 +47,7 @@
 
             (B) the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotin used or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
 
-([Pub. L. 111–281, title X, § 1031][/us/pl/111/281/s1031], Oct. 15, 2010, [124 Stat. 3027][/us/stat/124/3027].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1031, Oct. 15, 2010, [124 Stat. 3027][/us/stat/124/3027].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1031
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3027
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

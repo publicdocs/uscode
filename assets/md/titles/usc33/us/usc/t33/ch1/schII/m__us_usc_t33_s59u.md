@@ -17,7 +17,7 @@
 
     The body of water known as Lawyer’s Ditch located at block 5,000 in the city of Newark, county of Essex, New Jersey, is declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.).
 
-([Pub. L. 99–307, § 3][/us/pl/99/307/s3], May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
+([Pub. L. 99–307][/us/pl/99/307], § 3, May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
-[/us/pl/99/307/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs3
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847

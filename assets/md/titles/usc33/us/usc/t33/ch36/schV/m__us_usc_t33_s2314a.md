@@ -47,7 +47,7 @@
 
             The term “United States”, when used in a geographical sense, means the several States of the United States and the District of Columbia.
 
-([Pub. L. 100–676, § 9][/us/pl/100/676/s9], Nov. 17, 1988, [102 Stat. 4024][/us/stat/102/4024]; [Pub. L. 101–640, title III, § 318(c)][/us/pl/101/640/s318/c], Nov. 28, 1990, [104 Stat. 4642][/us/stat/104/4642].)
+([Pub. L. 100–676][/us/pl/100/676], § 9, Nov. 17, 1988, [102 Stat. 4024][/us/stat/102/4024]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 318(c), Nov. 28, 1990, [104 Stat. 4642][/us/stat/104/4642].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–640, § 318(c)(1)][/us/pl/101/640/s318/c/1], struck out “demonstration” after “Technical assistance” in section catchline.
+    1990—[Pub. L. 101–640][/us/pl/101/640], § 318(c)(1), struck out “demonstration” after “Technical assistance” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–640, § 318(c)(2)][/us/pl/101/640/s318/c/2], struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”.
+    Subsec. (a). [Pub. L. 101–640][/us/pl/101/640], § 318(c)(2), struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”.
 
-    Subsecs. (d), (e). [Pub. L. 101–640, § 318(c)(3)][/us/pl/101/640/s318/c/3], (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
+    Subsecs. (d), (e). [Pub. L. 101–640][/us/pl/101/640], § 318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
 
  __“Secretary” Defined__ 
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/100/676/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs9
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4024
-[/us/pl/101/640/s318/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318%2Fc
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4642
 [/us/usc/t33/s2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2314
-[/us/pl/101/640/s318/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318%2Fc%2F1
-[/us/pl/101/640/s318/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318%2Fc%2F2
-[/us/pl/101/640/s318/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318%2Fc%2F3
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/pl/100/676/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

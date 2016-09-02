@@ -21,7 +21,7 @@
 
     (2) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the feasibility and desirability of instituting positive control of tank vessel movements in Prince William Sound by Coast Guard personnel using the Port of Valdez, Alaska, VTS system, as modified pursuant to paragraph (1).
 
-([Pub. L. 101–380, title V, § 5004][/us/pl/101/380/s5004], Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553]; [Pub. L. 107–295, title IV, § 408(b)(2)][/us/pl/107/295/s408/b/2], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5004, Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 408(b)(2), Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/380/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5004
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F553
-[/us/pl/107/295/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs408%2Fb%2F2
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2117
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

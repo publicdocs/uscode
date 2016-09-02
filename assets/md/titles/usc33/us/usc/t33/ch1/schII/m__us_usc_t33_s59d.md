@@ -17,7 +17,7 @@
 
     The old channel of the River Raisin in Monroe County, Michigan, lying between the Monroe Harbor range front light and Raisin Point, its entrance into Lake Erie, is declared to be not a navigable stream of the United States within the meaning of the Constitution and the laws of the United States, and the consent of Congress is hereby given for the filling in of the old channel by the riparian owners on such channel.
 
-([Pub. L. 89–298, title III, § 308][/us/pl/89/298/s308], Oct. 27, 1965, [79 Stat. 1094][/us/stat/79/1094].)
+([Pub. L. 89–298, title III][/us/pl/89/298/tIII], § 308, Oct. 27, 1965, [79 Stat. 1094][/us/stat/79/1094].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/298/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs308
+[/us/pl/89/298/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtIII
 [/us/stat/79/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1094
 
 

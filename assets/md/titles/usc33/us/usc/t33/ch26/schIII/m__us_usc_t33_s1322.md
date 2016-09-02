@@ -443,7 +443,7 @@
 
             After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 312, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 871][/us/stat/86/871]; amended [Pub. L. 95–217, § 59][/us/pl/95/217/s59], Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–4, title III, § 311][/us/pl/100/4/s311], Feb. 4, 1987, [101 Stat. 42][/us/stat/101/42]; [Pub. L. 104–106, div. A, title III, § 325(b)][/us/pl/104/106/s325/b]–(c)(2), Feb. 10, 1996, [110 Stat. 254–259][/us/stat/110/254-259]; [Pub. L. 110–288, § 4][/us/pl/110/288/s4], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 312, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 871][/us/stat/86/871]; amended [Pub. L. 95–217][/us/pl/95/217], § 59, Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 311, Feb. 4, 1987, [101 Stat. 42][/us/stat/101/42]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 325(b)–(c)(2), Feb. 10, 1996, [110 Stat. 254–259][/us/stat/110/254-259]; [Pub. L. 110–288][/us/pl/110/288], § 4, July 29, 2008, [122 Stat. 2650][/us/stat/122/2650].)
 
  __References in Text__ 
 
@@ -453,27 +453,27 @@
 
     2008—Subsec. (o). [Pub. L. 110–288][/us/pl/110/288] added subsec. (o).
 
-    1996—Subsec. (a)(8). [Pub. L. 104–106, § 325(c)(1)(A)][/us/pl/104/106/s325/c/1/A], substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
+    1996—Subsec. (a)(8). [Pub. L. 104–106][/us/pl/104/106], § 325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
 
-    Subsec. (a)(12) to (14). [Pub. L. 104–106, § 325(c)(1)(B)][/us/pl/104/106/s325/c/1/B], (C), added pars. (12) to (14).
+    Subsec. (a)(12) to (14). [Pub. L. 104–106][/us/pl/104/106], § 325(c)(1)(B), (C), added pars. (12) to (14).
 
-    Subsec. (j). [Pub. L. 104–106, § 325(c)(2)][/us/pl/104/106/s325/c/2], substituted “subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
+    Subsec. (j). [Pub. L. 104–106][/us/pl/104/106], § 325(c)(2), substituted “subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
 
-    Subsec. (n). [Pub. L. 104–106, § 325(b)][/us/pl/104/106/s325/b], added subsec. (n).
+    Subsec. (n). [Pub. L. 104–106][/us/pl/104/106], § 325(b), added subsec. (n).
 
-    1987—Subsec. (f)(1). [Pub. L. 100–4, § 311(a)][/us/pl/100/4/s311/a], designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
+    1987—Subsec. (f)(1). [Pub. L. 100–4][/us/pl/100/4], § 311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
 
-    Subsec. (k). [Pub. L. 100–4, § 311(b)][/us/pl/100/4/s311/b], inserted at end “The provisions of this section may also be enforced by a State.”
+    Subsec. (k). [Pub. L. 100–4][/us/pl/100/4], § 311(b), inserted at end “The provisions of this section may also be enforced by a State.”
 
-    1977—Subsec. (a)(6). [Pub. L. 95–217, § 59(a)][/us/pl/95/217/s59/a], inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
+    1977—Subsec. (a)(6). [Pub. L. 95–217][/us/pl/95/217], § 59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
 
-    Subsec. (a)(10), (11). [Pub. L. 95–217, § 59(b)][/us/pl/95/217/s59/b], added pars. (10) and (11).
+    Subsec. (a)(10), (11). [Pub. L. 95–217][/us/pl/95/217], § 59(b), added pars. (10) and (11).
 
-    Subsec. (b)(1). [Pub. L. 95–217, § 59(c)][/us/pl/95/217/s59/c], inserted references to standards established under subsec. (c)(1)(B) of this section and to standards promulgated under subsec. (c) of this section.
+    Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 59(c), inserted references to standards established under subsec. (c)(1)(B) of this section and to standards promulgated under subsec. (c) of this section.
 
-    Subsec. (c)(1). [Pub. L. 95–217, § 59(d)][/us/pl/95/217/s59/d], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 95–217][/us/pl/95/217], § 59(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (f)(4). [Pub. L. 95–217, § 59(e)][/us/pl/95/217/s59/e], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (f)(4). [Pub. L. 95–217][/us/pl/95/217], § 59(e), designated existing provisions as subpar. (A) and added subpar. (B).
 
  __Change of Name__ 
 
@@ -489,11 +489,11 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
  __Purpose of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title III, § 325(a)][/us/pl/104/106/s325/a], Feb. 10, 1996, [110 Stat. 254][/us/stat/110/254], provided that: 
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 325(a), Feb. 10, 1996, [110 Stat. 254][/us/stat/110/254], provided that: 
 
 > “The purposes of this section \[amending this section and [section 1362 of this title][/us/usc/t33/s1362] and enacting provisions set out as a note below\] are to—
 
@@ -505,7 +505,7 @@
 
  __Cooperation in National Discharge Standards Development__ 
 
-[Pub. L. 104–106, div. A, title III, § 325(d)][/us/pl/104/106/s325/d], Feb. 10, 1996, [110 Stat. 259][/us/stat/110/259], provided that: 
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 325(d), Feb. 10, 1996, [110 Stat. 259][/us/stat/110/259], provided that: 
 
 > “The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act \[[33 U.S.C. 1322(n)][/us/usc/t33/s1322/n]\] (as added by subsection (b)), including the use of the resources—
 
@@ -523,7 +523,7 @@
 
  __Clean Vessels__ 
 
-[Pub. L. 102–587, title V][/us/pl/102/587], subtitle F, Nov. 4, 1992, [106 Stat. 5086][/us/stat/106/5086], as amended by [Pub. L. 109–59, title X, § 10131][/us/pl/109/59/s10131], Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931], provided that:
+[Pub. L. 102–587, title V][/us/pl/102/587/tV], subtitle F, Nov. 4, 1992, [106 Stat. 5086][/us/stat/106/5086], as amended by [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10131, Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931], provided that:
 
 > “SEC. 5601. __SHORT TITLE.__ 
 
@@ -748,46 +748,46 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F871
-[/us/pl/95/217/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1596
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/4/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs311
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F42
-[/us/pl/104/106/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fb
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/254-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F254-259
-[/us/pl/110/288/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288%2Fs4
+[/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/stat/122/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2650
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
-[/us/pl/104/106/s325/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fc%2F1%2FA
-[/us/pl/104/106/s325/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fc%2F1%2FB
-[/us/pl/104/106/s325/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fc%2F2
-[/us/pl/104/106/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fb
-[/us/pl/100/4/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs311%2Fa
-[/us/pl/100/4/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs311%2Fb
-[/us/pl/95/217/s59/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59%2Fa
-[/us/pl/95/217/s59/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59%2Fb
-[/us/pl/95/217/s59/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59%2Fc
-[/us/pl/95/217/s59/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59%2Fd
-[/us/pl/95/217/s59/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs59%2Fe
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
-[/us/pl/104/106/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F254
 [/us/usc/t33/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362
-[/us/pl/104/106/s325/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs325%2Fd
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F259
 [/us/usc/t33/s1322/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322%2Fn
-[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5086
-[/us/pl/109/59/s10131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10131
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1931
 [/us/usc/t16/s777a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777a
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

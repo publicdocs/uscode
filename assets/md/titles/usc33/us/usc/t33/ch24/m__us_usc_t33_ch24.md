@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch23/m__us_usc_t33_s1165a.md) | [Next](./../../../..//us/usc/t33/ch24/m__us_usc_t33_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch24)
+[Previous](./../../../..//us/usc/t33/ch23/m__us_usc_t33_s1166...1175.md) | [Next](./../../../..//us/usc/t33/ch24/m__us_usc_t33_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch24)
 
 ## CHAPTER 24—VESSEL BRIDGE-TO-BRIDGE COMMUNICATION
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch23/m__us_usc_t33_s1165a.md) | [Next](./../../../..//us/usc/t33/ch24/m__us_usc_t33_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch24)
+[Previous](./../../../..//us/usc/t33/ch23/m__us_usc_t33_s1166...1175.md) | [Next](./../../../..//us/usc/t33/ch24/m__us_usc_t33_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch24)
 
 ----------
 ----------

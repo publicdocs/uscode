@@ -19,7 +19,7 @@
 
     The right to alter, amend, or repeal this section is expressly reserved.
 
-([Aug. 30, 1935, ch. 831, § 10][/us/act/1935-08-30/ch831/s10], [49 Stat. 1048][/us/stat/49/1048].)
+([Aug. 30, 1935, ch. 831][/us/act/1935-08-30/ch831], § 10, [49 Stat. 1048][/us/stat/49/1048].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-30/ch831/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831%2Fs10
+[/us/act/1935-08-30/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831
 [/us/stat/49/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1048
 
 

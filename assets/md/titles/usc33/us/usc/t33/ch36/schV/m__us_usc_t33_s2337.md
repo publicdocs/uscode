@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated to carry out this section $500,000 for fiscal year 2001 and each fiscal year thereafter.
 
-([Pub. L. 106–541, title II, § 205][/us/pl/106/541/s205], Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590].)
+([Pub. L. 106–541, title II][/us/pl/106/541/tII], § 205, Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/541/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs205
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2590
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

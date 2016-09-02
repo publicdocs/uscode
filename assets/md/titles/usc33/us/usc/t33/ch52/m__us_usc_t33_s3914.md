@@ -41,7 +41,7 @@
 
         This section shall be applied in a manner consistent with United States obligations under international agreements.
 
-([Pub. L. 113–121, title V, § 5035][/us/pl/113/121/s5035], June 10, 2014, [128 Stat. 1344][/us/stat/128/1344].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5035, June 10, 2014, [128 Stat. 1344][/us/stat/128/1344].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s5035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5035
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1344
 
 

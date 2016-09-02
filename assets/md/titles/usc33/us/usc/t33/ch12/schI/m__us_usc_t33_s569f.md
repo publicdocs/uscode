@@ -17,7 +17,7 @@
 
     If the Secretary determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States which is not made in the United States and which is used in a civil works project of the Secretary, the Secretary shall debar the person from contracting with the Federal Government for a period of not less than 3 years and not more than 5 years. For purposes of this section, the term “debar” has the meaning that term has under [section 2393(c) of title 10][/us/usc/t10/s2393/c].
 
-([Pub. L. 102–580, title II, § 226][/us/pl/102/580/s226], Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 226, Oct. 31, 1992, [106 Stat. 4838][/us/stat/106/4838].)
 
  __“Secretary” Defined__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t10/s2393/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2393%2Fc
-[/us/pl/102/580/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs226
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4838
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

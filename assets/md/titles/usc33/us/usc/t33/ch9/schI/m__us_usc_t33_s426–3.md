@@ -17,7 +17,7 @@
 
     All functions of the Beach Erosion Board pertaining to review of reports of investigations made concerning erosion of the shores of coastal and lake waters, and the protection of such shores, are hereby transferred to the Board established by [section 541 of this title][/us/usc/t33/s541], referred to as the Board of Engineers for Rivers and Harbors.
 
-([Pub. L. 88–172, § 3][/us/pl/88/172/s3], Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305].)
+([Pub. L. 88–172][/us/pl/88/172], § 3, Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305].)
 
  __Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541
-[/us/pl/88/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs3
+[/us/pl/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172
 [/us/stat/77/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F305
 [/us/pl/102/580/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs223
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541

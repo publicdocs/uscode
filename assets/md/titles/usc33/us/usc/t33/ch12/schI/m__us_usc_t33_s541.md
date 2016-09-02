@@ -19,7 +19,7 @@
 
     The board shall have authority, with the approval of the Chief of Engineers, to rent quarters, if necessary, for the proper transaction of its business, and to employ such civil employees as may, in the opinion of the Chief of Engineers, be required for properly transacting the business assigned to it, and the necessary expenses of the board shall be paid from allotments made by the Chief of Engineers from any appropriations made by Congress for the work or works to which the duties of the board pertain.
 
-([June 13, 1902, ch. 1079, § 3][/us/act/1902-06-13/ch1079/s3], [32 Stat. 372][/us/stat/32/372]; [Mar. 4, 1913, ch. 144, § 4][/us/act/1913-03-04/ch144/s4], [37 Stat. 827][/us/stat/37/827]; [Feb. 10, 1932, ch. 26][/us/act/1932-02-10/ch26], [47 Stat. 42][/us/stat/47/42]; [Pub. L. 103–437, § 12(a)][/us/pl/103/437/s12/a], Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
+([June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], § 3, [32 Stat. 372][/us/stat/32/372]; [Mar. 4, 1913, ch. 144][/us/act/1913-03-04/ch144], § 4, [37 Stat. 827][/us/stat/37/827]; [Feb. 10, 1932, ch. 26][/us/act/1932-02-10/ch26], [47 Stat. 42][/us/stat/47/42]; [Pub. L. 103–437][/us/pl/103/437], § 12(a), Nov. 2, 1994, [108 Stat. 4590][/us/stat/108/4590].)
 
  __Codification__ 
 
@@ -39,13 +39,13 @@
 
  __Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities__ 
 
-[Pub. L. 102–580, title II, § 223][/us/pl/102/580/s223], Oct. 31, 1992, [106 Stat. 4837][/us/stat/106/4837], provided that: 
+[Pub. L. 102–580, title II][/us/pl/102/580/tII], § 223, Oct. 31, 1992, [106 Stat. 4837][/us/stat/106/4837], provided that: 
 
 > “The Board of Engineers for Rivers and Harbors, established by section 3 of the River and Harbor Act of June 13, 1902 ([33 U.S.C. 541][/us/usc/t33/s541]), shall cease to exist on the 180th day following the date of the enactment of this Act \[Oct. 31, 1992\]. The Secretary may reassign to other elements within the Department of the Army such duties and responsibilities of the Board as the Secretary determines to be necessary.”
 
  __Waterways Commission__ 
 
-    [Act Aug. 8, 1917, ch. 49, § 18][/us/act/1917-08-08/ch49/s18], [40 Stat. 269][/us/stat/40/269], created a commission to be known as the Waterways Commission, to bring into coordination and cooperation the engineering, scientific, and constructive services, bureaus, boards, etc., relating to study development, or control of waterways, etc., prior to repeal by [act June 10, 1920, ch. 285, § 29][/us/act/1920-06-10/ch285/s29], [41 Stat. 1077][/us/stat/41/1077].
+    [Act Aug. 8, 1917, ch. 49][/us/act/1917-08-08/ch49], § 18, [40 Stat. 269][/us/stat/40/269], created a commission to be known as the Waterways Commission, to bring into coordination and cooperation the engineering, scientific, and constructive services, bureaus, boards, etc., relating to study development, or control of waterways, etc., prior to repeal by [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], § 29, [41 Stat. 1077][/us/stat/41/1077].
 
 ----------
 
@@ -54,24 +54,24 @@
 ----------
 ----------
 
-[/us/act/1902-06-13/ch1079/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079%2Fs3
+[/us/act/1902-06-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079
 [/us/stat/32/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F372
-[/us/act/1913-03-04/ch144/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144%2Fs4
+[/us/act/1913-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch144
 [/us/stat/37/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F827
 [/us/act/1932-02-10/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-10%2Fch26
 [/us/stat/47/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F42
-[/us/pl/103/437/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs12%2Fa
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4590
 [/us/usc/t33/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs542
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/580/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs223
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4837
 [/us/usc/t33/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs541
-[/us/act/1917-08-08/ch49/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49%2Fs18
+[/us/act/1917-08-08/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49
 [/us/stat/40/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F269
-[/us/act/1920-06-10/ch285/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285%2Fs29
+[/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1077
 
 

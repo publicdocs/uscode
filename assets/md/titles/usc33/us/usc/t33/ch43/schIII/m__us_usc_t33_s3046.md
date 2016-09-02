@@ -21,7 +21,7 @@
 
     (2) unless retired for disability, the officer’s length of service in such highest grade is no less than that required by the Secretary of officers retiring under permanent appointment in that grade.
 
-([Pub. L. 107–372, title II, § 246][/us/pl/107/372/s246], Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 246, Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs246
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3090
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 

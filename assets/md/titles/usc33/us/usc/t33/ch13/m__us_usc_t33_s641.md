@@ -17,7 +17,7 @@
 
     A commission is created to be called “The Mississippi River Commission”, to consist of seven members.
 
-([June 28, 1879, ch. 43, § 1][/us/act/1879-06-28/ch43/s1], [21 Stat. 37][/us/stat/21/37].)
+([June 28, 1879, ch. 43][/us/act/1879-06-28/ch43], § 1, [21 Stat. 37][/us/stat/21/37].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Missouri River Commission__ 
 
-    The Missouri River Commission was created by [act July 5, 1884, ch. 229, § 1][/us/act/1884-07-05/ch229/s1], [23 Stat. 144][/us/stat/23/144], and repealed by [act July 13, 1902, ch. 1079, § 1][/us/act/1902-07-13/ch1079/s1], [32 Stat. 367][/us/stat/32/367].
+    The Missouri River Commission was created by [act July 5, 1884, ch. 229][/us/act/1884-07-05/ch229], § 1, [23 Stat. 144][/us/stat/23/144], and repealed by [act July 13, 1902, ch. 1079][/us/act/1902-07-13/ch1079], § 1, [32 Stat. 367][/us/stat/32/367].
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/act/1879-06-28/ch43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-06-28%2Fch43%2Fs1
+[/us/act/1879-06-28/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-06-28%2Fch43
 [/us/stat/21/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F37
-[/us/act/1884-07-05/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch229%2Fs1
+[/us/act/1884-07-05/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch229
 [/us/stat/23/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F144
-[/us/act/1902-07-13/ch1079/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-13%2Fch1079%2Fs1
+[/us/act/1902-07-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-13%2Fch1079
 [/us/stat/32/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F367
 
 

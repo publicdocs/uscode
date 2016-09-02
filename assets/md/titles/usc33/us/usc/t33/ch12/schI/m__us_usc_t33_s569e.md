@@ -17,7 +17,7 @@
 
     To the maximum extent practicable, the Secretary shall make use of private sector resources in carrying out surveying and mapping activities in the Civil Works Program of the Corps of Engineers.
 
-([Pub. L. 102–580, title II, § 212][/us/pl/102/580/s212], Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 212, Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831].)
 
  __“Secretary” Defined__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/580/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs212
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4831
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

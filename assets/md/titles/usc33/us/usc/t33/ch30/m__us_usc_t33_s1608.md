@@ -27,13 +27,13 @@
 
         The Secretary of the department in which the Coast Guard is operating may assess any civil penalty authorized by this section. No such penalty may be assessed until the person charged, or the owner of the vessel charged, as appropriate, shall have been given notice of the violation involved and an opportunity for a hearing. For good cause shown, the Secretary may remit, mitigate, or compromise any penalty assessed. Upon the failure of the person charged, or the owner of the vessel charged, to pay an assessed penalty, as it may have been mitigated or compromised, the Secretary may request the Attorney General to commence an action in the appropriate district court of the United States for collection of the penalty as assessed, without regard to the amount involved, together with such other relief as may be appropriate.
 
-([Pub. L. 95–75, § 9][/us/pl/95/75/s9], July 27, 1977, [91 Stat. 310][/us/stat/91/310]; [Pub. L. 96–591, § 6(3)][/us/pl/96/591/s6/3], (4), Dec. 24, 1980, [94 Stat. 3435][/us/stat/94/3435].)
+([Pub. L. 95–75][/us/pl/95/75], § 9, July 27, 1977, [91 Stat. 310][/us/stat/91/310]; [Pub. L. 96–591][/us/pl/96/591], § 6(3), (4), Dec. 24, 1980, [94 Stat. 3435][/us/stat/94/3435].)
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–591, § 6(3)][/us/pl/96/591/s6/3], substituted “$5,000” for “$500”.
+    1980—Subsec. (a). [Pub. L. 96–591][/us/pl/96/591], § 6(3), substituted “$5,000” for “$500”.
 
-    Subsec. (b). [Pub. L. 96–591, § 6(4)][/us/pl/96/591/s6/4], substituted “not more than $5,000” for “$500”.
+    Subsec. (b). [Pub. L. 96–591][/us/pl/96/591], § 6(4), substituted “not more than $5,000” for “$500”.
 
  __Transfer of Functions__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t33/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1607
 [/us/usc/t33/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1607
-[/us/pl/95/75/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75%2Fs9
+[/us/pl/95/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75
 [/us/stat/91/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F310
-[/us/pl/96/591/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs6%2F3
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/stat/94/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3435
-[/us/pl/96/591/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs6%2F3
-[/us/pl/96/591/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs6%2F4
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

@@ -37,7 +37,7 @@
 
         The term “shore protection project” includes a project for beach nourishment, including the replacement of sand.
 
-([Aug. 13, 1946, ch. 960, § 6][/us/act/1946-08-13/ch960/s6], as added [Pub. L. 104–303, title II, § 227(e)(1)][/us/pl/104/303/s227/e/1], Oct. 12, 1996, [110 Stat. 3702][/us/stat/110/3702].)
+([Aug. 13, 1946, ch. 960][/us/act/1946-08-13/ch960], § 6, as added [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 227(e)(1), Oct. 12, 1996, [110 Stat. 3702][/us/stat/110/3702].)
 
 ----------
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t33/s2213/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213%2Ff
-[/us/act/1946-08-13/ch960/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960%2Fs6
-[/us/pl/104/303/s227/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fe%2F1
+[/us/act/1946-08-13/ch960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3702
 
 

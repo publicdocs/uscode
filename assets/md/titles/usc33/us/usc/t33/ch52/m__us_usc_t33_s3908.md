@@ -169,7 +169,7 @@
 
             The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
 
-([Pub. L. 113–121, title V, § 5029][/us/pl/113/121/s5029], June 10, 2014, [128 Stat. 1338][/us/stat/128/1338].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5029, June 10, 2014, [128 Stat. 1338][/us/stat/128/1338].)
 
  __“Secretary” Defined__ 
 
@@ -184,7 +184,7 @@
 
 [/us/usc/t33/s3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907
 [/us/usc/t33/s3907/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F1%2FD
-[/us/pl/113/121/s5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5029
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1338
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -37,11 +37,11 @@
 
             (B) provide to persons who might be adversely affected by the determination the opportunity for comment and a hearing on whether such action is necessary to protect public safety and will serve the public interest.
 
-([Pub. L. 106–32, § 2][/us/pl/106/32/s2], June 1, 1999, [113 Stat. 115][/us/stat/113/115].)
+([Pub. L. 106–32][/us/pl/106/32], § 2, June 1, 1999, [113 Stat. 115][/us/stat/113/115].)
 
  __Findings__ 
 
-[Pub. L. 106–32, § 1][/us/pl/106/32/s1], June 1, 1999, [113 Stat. 115][/us/stat/113/115], provided that: 
+[Pub. L. 106–32][/us/pl/106/32], § 1, June 1, 1999, [113 Stat. 115][/us/stat/113/115], provided that: 
 
 > “The Congress finds the following:
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/106/32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F32%2Fs2
+[/us/pl/106/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F32
 [/us/stat/113/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F115
-[/us/pl/106/32/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F32%2Fs1
+[/us/pl/106/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F32
 [/us/stat/113/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F115
 
 

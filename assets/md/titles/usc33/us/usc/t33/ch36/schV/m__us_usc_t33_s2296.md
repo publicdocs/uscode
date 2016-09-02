@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized to acquire real property by condemnation, purchase, donation, exchange, or otherwise, as a part of any water resources development project for use for public park and recreation purposes, including but not limited to, real property not contiguous to the principal part of the project.
 
-([Pub. L. 99–662, title IX, § 926][/us/pl/99/662/s926], Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 926, Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs926
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4195
 
 

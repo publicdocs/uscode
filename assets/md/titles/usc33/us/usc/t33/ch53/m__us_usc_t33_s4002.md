@@ -137,7 +137,7 @@
 
         The collection of monitoring and observation data under this chapter shall comply with all data standards and protocols developed pursuant to the Integrated Coastal and Ocean Observation System Act of 2009 ([33 U.S.C. 3601][/us/usc/t33/s3601] et seq.). Such data shall be made available through the system established under that Act.
 
-([Pub. L. 105–383, title VI, § 603A][/us/pl/105/383/s603A], as added [Pub. L. 113–124, § 4][/us/pl/113/124/s4], June 30, 2014, [128 Stat. 1379][/us/stat/128/1379].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 603A, as added [Pub. L. 113–124][/us/pl/113/124], § 4, June 30, 2014, [128 Stat. 1379][/us/stat/128/1379].)
 
  __References in Text__ 
 
@@ -152,8 +152,8 @@
 
 [/us/usc/t33/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4003
 [/us/usc/t33/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3601
-[/us/pl/105/383/s603A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs603A
-[/us/pl/113/124/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs4
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1379
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1427

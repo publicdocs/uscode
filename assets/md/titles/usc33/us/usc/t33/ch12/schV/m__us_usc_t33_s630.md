@@ -17,7 +17,7 @@
 
     No money authorized to be expended for the acquirement of any dredge or dredges shall be so expended for the purchase of any dredge or dredges from private contractors, which at the time of the proposed purchase can be manufactured at any navy yard or other government-owned factory for a sum less than it can be purchased for from such private contractor.
 
-([Sept. 22, 1922, ch. 427, § 5][/us/act/1922-09-22/ch427/s5], [42 Stat. 1042][/us/stat/42/1042].)
+([Sept. 22, 1922, ch. 427][/us/act/1922-09-22/ch427], § 5, [42 Stat. 1042][/us/stat/42/1042].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-22/ch427/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427%2Fs5
+[/us/act/1922-09-22/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427
 [/us/stat/42/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1042
 
 

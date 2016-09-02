@@ -17,7 +17,7 @@
 
     Where a trust fund which complies with [section 186(c) of title 29][/us/usc/t29/s186/c] established pursuant to a collective-bargaining agreement in effect between an employer and an employee covered under this chapter has paid disability benefits to an employee which the employee is legally obligated to repay by reason of his entitlement to compensation under this chapter or under a settlement, the Secretary shall authorize a lien on such compensation in favor of the trust fund for the amount of such payments.
 
-([Mar. 4, 1927, ch. 509, § 17][/us/act/1927-03-04/ch509/s17], [44 Stat. 1434][/us/stat/44/1434]; [June 25, 1938, ch. 685, § 8][/us/act/1938-06-25/ch685/s8], [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 92–576, § 20(b)][/us/pl/92/576/s20/b], Oct. 27, 1972, [86 Stat. 1264][/us/stat/86/1264]; [Pub. L. 95–598, title III, § 324][/us/pl/95/598/s324], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 98–426, § 14][/us/pl/98/426/s14], Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 17, [44 Stat. 1434][/us/stat/44/1434]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 8, [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 92–576][/us/pl/92/576], § 20(b), Oct. 27, 1972, [86 Stat. 1264][/us/stat/86/1264]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 324, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 98–426][/us/pl/98/426], § 14, Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649].)
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/usc/t29/s186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs186%2Fc
-[/us/act/1927-03-04/ch509/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs17
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1434
-[/us/act/1938-06-25/ch685/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs8
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1167
-[/us/pl/92/576/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs20%2Fb
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1264
-[/us/pl/95/598/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs324
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/98/426/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs14
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1649
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

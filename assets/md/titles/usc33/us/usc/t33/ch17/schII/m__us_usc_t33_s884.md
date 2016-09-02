@@ -27,7 +27,7 @@
 
     Section was not enacted as part of [act Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], [61 Stat. 787][/us/stat/61/787], which comprises this subchapter.
 
-    R.S. § 4685 derived from [act July 10, 1832, ch. 191, § 2][/us/act/1832-07-10/ch191/s2], [4 Stat. 571][/us/stat/4/571].
+    R.S. § 4685 derived from [act July 10, 1832, ch. 191][/us/act/1832-07-10/ch191], § 2, [4 Stat. 571][/us/stat/4/571].
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F787
-[/us/act/1832-07-10/ch191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-10%2Fch191%2Fs2
+[/us/act/1832-07-10/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-10%2Fch191
 [/us/stat/4/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F571
 
 

@@ -147,41 +147,41 @@
 
         (3) Compensation forfeited under this subsection, if already paid, shall be recovered by a deduction from the compensation payable to the employee in any amount and on such schedule as determined by the deputy commissioner.
 
-([Mar. 4, 1927, ch. 509, § 8][/us/act/1927-03-04/ch509/s8], [44 Stat. 1427][/us/stat/44/1427]; [May 26, 1934, ch. 354][/us/act/1934-05-26/ch354], §§ 2, 3, [48 Stat. 806][/us/stat/48/806]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], §§ 4, 5, [52 Stat. 1165][/us/stat/52/1165]; [June 24, 1948, ch. 623, § 2][/us/act/1948-06-24/ch623/s2], [62 Stat. 602][/us/stat/62/602]; [July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], §§ 2, 3, [70 Stat. 655][/us/stat/70/655]; [Pub. L. 92–576][/us/pl/92/576], §§ 5(c), 7, 9, 20(a), Oct. 27, 1972, [86 Stat. 1253][/us/stat/86/1253], 1255, 1257, 1264; [Pub. L. 98–426][/us/pl/98/426], §§ 8, 27(a)(2), Sept. 28, 1984, [98 Stat. 1644][/us/stat/98/1644], 1654.)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 8, [44 Stat. 1427][/us/stat/44/1427]; [May 26, 1934, ch. 354][/us/act/1934-05-26/ch354], §§ 2, 3, [48 Stat. 806][/us/stat/48/806]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], §§ 4, 5, [52 Stat. 1165][/us/stat/52/1165]; [June 24, 1948, ch. 623][/us/act/1948-06-24/ch623], § 2, [62 Stat. 602][/us/stat/62/602]; [July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], §§ 2, 3, [70 Stat. 655][/us/stat/70/655]; [Pub. L. 92–576][/us/pl/92/576], §§ 5(c), 7, 9, 20(a), Oct. 27, 1972, [86 Stat. 1253][/us/stat/86/1253], 1255, 1257, 1264; [Pub. L. 98–426][/us/pl/98/426], §§ 8, 27(a)(2), Sept. 28, 1984, [98 Stat. 1644][/us/stat/98/1644], 1654.)
 
  __Amendments__ 
 
-    1984—Subsec. (c)(13). [Pub. L. 98–426, § 8(a)][/us/pl/98/426/s8/a], redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
+    1984—Subsec. (c)(13). [Pub. L. 98–426][/us/pl/98/426], § 8(a), redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
 
-    Subsec. (c)(20). [Pub. L. 98–426, § 8(b)][/us/pl/98/426/s8/b], substituted “$7,500” for “$3,500”.
+    Subsec. (c)(20). [Pub. L. 98–426][/us/pl/98/426], § 8(b), substituted “$7,500” for “$3,500”.
 
-    Subsec. (c)(21). [Pub. L. 98–426, § 8(c)(1)][/us/pl/98/426/s8/c/1], substituted “the average weekly wages of the employee and the employee’s” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
+    Subsec. (c)(21). [Pub. L. 98–426][/us/pl/98/426], § 8(c)(1), substituted “the average weekly wages of the employee and the employee’s” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
 
-    Subsec. (c)(23). [Pub. L. 98–426, § 8(c)(2)][/us/pl/98/426/s8/c/2], added par. (23).
+    Subsec. (c)(23). [Pub. L. 98–426][/us/pl/98/426], § 8(c)(2), added par. (23).
 
-    Subsec. (d)(3), (4). [Pub. L. 98–426, § 8(d)][/us/pl/98/426/s8/d], redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time of his death multiplied by 1.5, rather than to his average weekly wages, was struck out.
+    Subsec. (d)(3), (4). [Pub. L. 98–426][/us/pl/98/426], § 8(d), redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time of his death multiplied by 1.5, rather than to his average weekly wages, was struck out.
 
-    Subsec. (f)(1). [Pub. L. 98–426, § 8(e)(1)][/us/pl/98/426/s8/e/1], inserted at end of second and fourth sentences “, except that, in the case of an injury falling within the provisions of [section 908(c)(3) of this title][/us/usc/t33/s908/c/3], the employer shall provide compensation for the lesser of such periods”.
+    Subsec. (f)(1). [Pub. L. 98–426][/us/pl/98/426], § 8(e)(1), inserted at end of second and fourth sentences “, except that, in the case of an injury falling within the provisions of [section 908(c)(3) of this title][/us/usc/t33/s908/c/3], the employer shall provide compensation for the lesser of such periods”.
 
-    Subsec. (f)(2)(A). [Pub. L. 98–426, § 8(e)(2)][/us/pl/98/426/s8/e/2], designated existing provisions of par. (2) as subpar. (A).
+    Subsec. (f)(2)(A). [Pub. L. 98–426][/us/pl/98/426], § 8(e)(2), designated existing provisions of par. (2) as subpar. (A).
 
-    [Pub. L. 98–426, § 8(e)(3)][/us/pl/98/426/s8/e/3], inserted “, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with [section 932(a) of this title][/us/usc/t33/s932/a]”.
+    [Pub. L. 98–426][/us/pl/98/426], § 8(e)(3), inserted “, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with [section 932(a) of this title][/us/usc/t33/s932/a]”.
 
-    Subsec. (f)(2)(B). [Pub. L. 98–426, § 8(e)(4)][/us/pl/98/426/s8/e/4], added subpar. (B).
+    Subsec. (f)(2)(B). [Pub. L. 98–426][/us/pl/98/426], § 8(e)(4), added subpar. (B).
 
-    Subsec. (f)(3). [Pub. L. 98–426, § 8(e)(5)][/us/pl/98/426/s8/e/5], added par. (3).
+    Subsec. (f)(3). [Pub. L. 98–426][/us/pl/98/426], § 8(e)(5), added par. (3).
 
-    Subsec. (g). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    Subsec. (g). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    Subsec. (i)(1) to (3). [Pub. L. 98–426, § 8(f)][/us/pl/98/426/s8/f], substituted pars. (1) to (3) respecting procedures for approval of a settlement by the deputy commissioner or administrative law judge for former pars. (A) and (B) respecting settlements approved by the deputy commissioner or Secretary.
+    Subsec. (i)(1) to (3). [Pub. L. 98–426][/us/pl/98/426], § 8(f), substituted pars. (1) to (3) respecting procedures for approval of a settlement by the deputy commissioner or administrative law judge for former pars. (A) and (B) respecting settlements approved by the deputy commissioner or Secretary.
 
-    Subsec. (i)(4). [Pub. L. 98–426, § 8(g)][/us/pl/98/426/s8/g], added par. (4).
+    Subsec. (i)(4). [Pub. L. 98–426][/us/pl/98/426], § 8(g), added par. (4).
 
-    Subsec. (j). [Pub. L. 98–426, § 8(h)][/us/pl/98/426/s8/h], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–426][/us/pl/98/426], § 8(h), added subsec. (j).
 
-    1972—Subsec. (c)(20). [Pub. L. 92–576, § 7][/us/pl/92/576/s7], included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
+    1972—Subsec. (c)(20). [Pub. L. 92–576][/us/pl/92/576], § 7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
-    Subsec. (d). [Pub. L. 92–576, § 5(c)][/us/pl/92/576/s5/c], in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
+    Subsec. (d). [Pub. L. 92–576][/us/pl/92/576], § 5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
 
     Par. (1) incorporated former introductory par. providing for payments to survivors rather than for payments “for the benefit of the persons after”; subpar. (A) incorporated former par. (1) providing for a widower rather than dependent husband;
 
@@ -195,11 +195,11 @@
 
     Par. (4) incorporated former par. (5), inserting provision for payment of compensation to the special fund except where payable under subsec. (c)(21) of this section.
 
-    Subsec. (f)(1). [Pub. L. 92–576, § 9(a)][/us/pl/92/576/s9/a] added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in [section 944 of this title][/us/usc/t33/s944]. See par. (2) of this subsection.
+    Subsec. (f)(1). [Pub. L. 92–576][/us/pl/92/576], § 9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in [section 944 of this title][/us/usc/t33/s944]. See par. (2) of this subsection.
 
-    Subsec. (f)(2). [Pub. L. 92–576, § 9][/us/pl/92/576/s9], incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
+    Subsec. (f)(2). [Pub. L. 92–576][/us/pl/92/576], § 9, incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
 
-    Subsec. (i). [Pub. L. 92–576, § 20(a)][/us/pl/92/576/s20/a], designated existing provisions as subpar. (A), substituted “Whenever” for “In cases under subsection (c)(21) and subsection (e) of this section, whenever”, “he may approve” for “he may, with the approval of the Secretary, approve”, and “deputy commissioner” for “Secretary”, and struck out after “Provided,” where first appearing “That the sum so agreed upon shall be payable in installments as provided in [section 914(b) of this title][/us/usc/t33/s914/b], which installments shall be subject to commutation under [section 914(j) of this title][/us/usc/t33/s914/j]; And provided further,” and added subpar. (B).
+    Subsec. (i). [Pub. L. 92–576][/us/pl/92/576], § 20(a), designated existing provisions as subpar. (A), substituted “Whenever” for “In cases under subsection (c)(21) and subsection (e) of this section, whenever”, “he may approve” for “he may, with the approval of the Secretary, approve”, and “deputy commissioner” for “Secretary”, and struck out after “Provided,” where first appearing “That the sum so agreed upon shall be payable in installments as provided in [section 914(b) of this title][/us/usc/t33/s914/b], which installments shall be subject to commutation under [section 914(j) of this title][/us/usc/t33/s914/j]; And provided further,” and added subpar. (B).
 
     1956—Subsec. (c). Act July 26, 1956, § 2, increased periods in schedule of compensation as follows:
 
@@ -277,13 +277,13 @@
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
 [/us/usc/t33/s939/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs939%2Fc
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
-[/us/act/1927-03-04/ch509/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs8
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1427
 [/us/act/1934-05-26/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-26%2Fch354
 [/us/stat/48/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F806
 [/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1165
-[/us/act/1948-06-24/ch623/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623%2Fs2
+[/us/act/1948-06-24/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623
 [/us/stat/62/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F602
 [/us/act/1956-07-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735
 [/us/stat/70/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F655
@@ -291,29 +291,29 @@
 [/us/stat/86/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1253
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1644
-[/us/pl/98/426/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fa
-[/us/pl/98/426/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fb
-[/us/pl/98/426/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fc%2F1
-[/us/pl/98/426/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fc%2F2
-[/us/pl/98/426/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fd
-[/us/pl/98/426/s8/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fe%2F1
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s908/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs908%2Fc%2F3
-[/us/pl/98/426/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fe%2F2
-[/us/pl/98/426/s8/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fe%2F3
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs932%2Fa
-[/us/pl/98/426/s8/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fe%2F4
-[/us/pl/98/426/s8/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fe%2F5
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Ff
-[/us/pl/98/426/s8/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fg
-[/us/pl/98/426/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs8%2Fh
-[/us/pl/92/576/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs7
-[/us/pl/92/576/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs5%2Fc
-[/us/pl/92/576/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs9%2Fa
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
-[/us/pl/92/576/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs9
-[/us/pl/92/576/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs20%2Fa
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/usc/t33/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs914%2Fb
 [/us/usc/t33/s914/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs914%2Fj
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

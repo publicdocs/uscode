@@ -47,7 +47,7 @@
 
                 The payment of interest under this subsection by a guarantor is subject to [section 2716(g) of this title][/us/usc/t33/s2716/g].
 
-([Pub. L. 101–380, title I, § 1005][/us/pl/101/380/s1005], Aug. 18, 1990, [104 Stat. 493][/us/stat/104/493]; [Pub. L. 104–324, title XI, § 1142(a)][/us/pl/104/324/s1142/a], Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1005, Aug. 18, 1990, [104 Stat. 493][/us/stat/104/493]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1142(a), Oct. 19, 1996, [110 Stat. 3991][/us/stat/110/3991].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–324, § 1142(a)(1)][/us/pl/104/324/s1142/a/1], inserted “; partial payment of claims” after “Interest” in section catchline.
+    1996—[Pub. L. 104–324][/us/pl/104/324], § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–324, § 1142(a)(2)][/us/pl/104/324/s1142/a/2], inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
+    Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
 
 ----------
 
@@ -70,14 +70,14 @@
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
 [/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
 [/us/usc/t33/s2716/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716%2Fg
-[/us/pl/101/380/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1005
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F493
-[/us/pl/104/324/s1142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fa
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3991
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/104/324/s1142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fa%2F1
-[/us/pl/104/324/s1142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1142%2Fa%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 
 

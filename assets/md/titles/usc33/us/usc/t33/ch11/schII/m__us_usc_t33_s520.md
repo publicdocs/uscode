@@ -17,7 +17,7 @@
 
     Any order made or issued under [section 516 of this title][/us/usc/t33/s516] may be reviewed by the court of appeals for any judicial circuit in which the bridge in question is wholly or partly located, if a petition for such review is filed within three months after the date such order is issued. The judgment of any such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certification or certiorari, in the manner provided in [section 1254 of title 28][/us/usc/t28/s1254]. The review by such Court shall be limited to questions of law, and the findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive. Upon such review, such Court shall have power to affirm or, if the order is not in accordance with law, to modify or to reverse the order, with or without remanding the case for a rehearing as justice may require. Proceedings under this section shall not operate as a stay of any order of the Secretary issued under provisions of this subchapter other than [section 516 of this title][/us/usc/t33/s516], or relieve any bridge owner of any liability or penalty under such provisions.
 
-([June 21, 1940, ch. 409, § 10][/us/act/1940-06-21/ch409/s10], [54 Stat. 501][/us/stat/54/501]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 10, [54 Stat. 501][/us/stat/54/501]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107].)
 
  __Codification__ 
 
@@ -37,11 +37,11 @@
 [/us/usc/t33/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs516
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t33/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs516
-[/us/act/1940-06-21/ch409/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs10
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F501
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646

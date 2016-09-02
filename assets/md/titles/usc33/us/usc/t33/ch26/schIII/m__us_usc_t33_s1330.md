@@ -157,7 +157,7 @@
 
         For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in [section 1254(n)(4) of this title][/us/usc/t33/s1254/n/4], except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 320, as added [Pub. L. 100–4, title III, § 317(b)][/us/pl/100/4/s317/b], Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61]; amended [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title II, 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–197; [Pub. L. 100–653, title X, § 1004][/us/pl/100/653/s1004], Nov. 14, 1988, [102 Stat. 3836][/us/stat/102/3836]; [Pub. L. 100–688, title II, § 2001][/us/pl/100/688/s2001], Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 105–362, title V, § 501(a)(2)][/us/pl/105/362/s501/a/2], Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title III][/us/pl/106/457], §§ 301—303, Nov. 7, 2000, [114 Stat. 1972][/us/stat/114/1972]; [Pub. L. 107–303, title III, § 302(b)(1)][/us/pl/107/303/s302/b/1], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]; [Pub. L. 108–399, § 1][/us/pl/108/399/s1], Oct. 30, 2004, [118 Stat. 2253][/us/stat/118/2253].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 320, as added [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 317(b), Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title II, 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–197; [Pub. L. 100–653, title X][/us/pl/100/653/tX], § 1004, Nov. 14, 1988, [102 Stat. 3836][/us/stat/102/3836]; [Pub. L. 100–688, title II][/us/pl/100/688/tII], § 2001, Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(a)(2), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title III][/us/pl/106/457/tIII], §§ 301—303, Nov. 7, 2000, [114 Stat. 1972][/us/stat/114/1972]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]; [Pub. L. 108–399][/us/pl/108/399], § 1, Oct. 30, 2004, [118 Stat. 2253][/us/stat/118/2253].)
 
  __References in Text__ 
 
@@ -167,25 +167,25 @@
 
     2004—Subsec. (i). [Pub. L. 108–399][/us/pl/108/399] substituted “2010” for “2005” in introductory provisions.
 
-    2002—Subsec. (k). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362, § 501(a)(2)][/us/pl/105/362/s501/a/2]. See 1998 Amendment note below.
+    2002—Subsec. (k). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362][/us/pl/105/362], § 501(a)(2). See 1998 Amendment note below.
 
-    2000—Subsec. (a)(2)(B). [Pub. L. 106–457, § 301][/us/pl/106/457/s301], inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
+    2000—Subsec. (a)(2)(B). [Pub. L. 106–457][/us/pl/106/457], § 301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
 
-    Subsec. (g)(2), (3). [Pub. L. 106–457, § 302][/us/pl/106/457/s302], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (g)(2), (3). [Pub. L. 106–457][/us/pl/106/457], § 302, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Purposes.—Grants under this subsection shall be made to pay for assisting research, surveys, studies, and modeling and other technical work necessary for the development of a conservation and management plan under this section.
 
     “(3) Federal share.—The amount of grants to any person (including a State, interstate, or regional agency or entity) under this subsection for a fiscal year shall not exceed 75 percent of the costs of such research, survey, studies, and work and shall be made on condition that the non-Federal share of such costs are provided from non-Federal sources.”
 
-    Subsec. (i). [Pub. L. 106–457, § 303][/us/pl/106/457/s303], substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
+    Subsec. (i). [Pub. L. 106–457][/us/pl/106/457], § 303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
 
-    1998—Subsec. (k). [Pub. L. 105–362, § 501(a)(2)][/us/pl/105/362/s501/a/2], which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
+    1998—Subsec. (k). [Pub. L. 105–362][/us/pl/105/362], § 501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
 
-    1988—Subsec. (a)(2)(B). [Pub. L. 100–653, § 1004][/us/pl/100/653/s1004], and [Pub. L. 100–688, § 2001(1)][/us/pl/100/688/s2001/1], made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
+    1988—Subsec. (a)(2)(B). [Pub. L. 100–653][/us/pl/100/653], § 1004, and [Pub. L. 100–688][/us/pl/100/688], § 2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
 
-    [Pub. L. 100–688, § 2001(2)][/us/pl/100/688/s2001/2], substituted “California; Galveston” for “California; and Galveston”.
+    [Pub. L. 100–688][/us/pl/100/688], § 2001(2), substituted “California; Galveston” for “California; and Galveston”.
 
-    [Pub. L. 100–688, § 2001(3)][/us/pl/100/688/s2001/3], which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
+    [Pub. L. 100–688][/us/pl/100/688], § 2001(3), which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
 
     1987—Subsec. (a)(2)(B). [Pub. L. 100–202][/us/pl/100/202] inserted “Santa Monica Bay, California;”.
 
@@ -195,7 +195,7 @@
 
  __Massachusetts Bay Protection; Definition; Findings and Purpose; Funding Sources__ 
 
-[Pub. L. 100–653, title X][/us/pl/100/653], §§ 1002, 1003, 1005, Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835], 3836, provided that:
+[Pub. L. 100–653, title X][/us/pl/100/653/tX], §§ 1002, 1003, 1005, Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835], 3836, provided that:
 
 > “SEC. 1002. __DEFINITION.__ 
 
@@ -235,7 +235,7 @@
 
  __Purposes and Policies of National Estuary Program__ 
 
-[Pub. L. 100–4, title III, § 317(a)][/us/pl/100/4/s317/a], Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61], provided that:
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 317(a), Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -273,46 +273,46 @@
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t33/s1254/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1254%2Fn%2F4
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs317%2Fb
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F61
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/100/653/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs1004
+[/us/pl/100/653/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtX
 [/us/stat/102/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3836
-[/us/pl/100/688/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs2001
+[/us/pl/100/688/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtII
 [/us/stat/102/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4151
-[/us/pl/105/362/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fa%2F2
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3283
-[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIII
 [/us/stat/114/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1972
-[/us/pl/107/303/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fb%2F1
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
-[/us/pl/108/399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F399%2Fs1
+[/us/pl/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F399
 [/us/stat/118/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2253
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/pl/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F399
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/105/362/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fa%2F2
-[/us/pl/106/457/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs301
-[/us/pl/106/457/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs302
-[/us/pl/106/457/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs303
-[/us/pl/105/362/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fa%2F2
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/100/653/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs1004
-[/us/pl/100/688/s2001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs2001%2F1
-[/us/pl/100/688/s2001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs2001%2F2
-[/us/pl/100/688/s2001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs2001%2F3
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
+[/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
+[/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/107/303/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fb
 [/us/usc/t33/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1254
-[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtX
 [/us/stat/102/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3835
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
-[/us/pl/100/4/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs317%2Fa
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F61
 
 

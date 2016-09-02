@@ -127,7 +127,7 @@
 
         Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
 
-([Pub. L. 101–380, title I, § 1006][/us/pl/101/380/s1006], Aug. 18, 1990, [104 Stat. 494][/us/stat/104/494].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1006, Aug. 18, 1990, [104 Stat. 494][/us/stat/104/494].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 
  __NOAA Oil and Hazardous Substance Spill Cost Reimbursement__ 
 
-[Pub. L. 102–567, title II, § 205][/us/pl/102/567/s205], Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282], provided that:
+[Pub. L. 102–567, title II][/us/pl/102/567/tII], § 205, Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282], provided that:
 
 >     “(a)  __Treatment of Amounts Received as Reimbursement of Expenses__  __.—__ 
 
@@ -169,7 +169,7 @@
 
  __Damage Assessment and Restoration Revolving Fund; Deposits; Availability; Transfer__ 
 
-[Pub. L. 101–515, title I][/us/pl/101/515], Nov. 5, 1990, [104 Stat. 2105][/us/stat/104/2105], provided that: 
+[Pub. L. 101–515, title I][/us/pl/101/515/tI], Nov. 5, 1990, [104 Stat. 2105][/us/stat/104/2105], provided that: 
 
 > “For contingency planning, response and natural resource damage assessment and restoration activities, pursuant to the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\], as amended \[[42 U.S.C. 9601][/us/usc/t42/s9601] et seq.\], the Federal Water Pollution Control Act, as amended \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\], the Marine Protection, Research\[,\] and Sanctuaries Act \[of 1972\], as amended \[[16 U.S.C. 1431et][/us/usc/t16/s1431et] seq., 1447 et seq.; [33 U.S.C. 1401][/us/usc/t33/s1401] et seq., 2801 et seq.\], and the Oil Pollution Act of 1990 \[[33 U.S.C. 2701][/us/usc/t33/s2701] et seq.\], $5,000,000 to remain available until expended: Provided, That notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party or governmental entity for natural resource damage assessment, response or restoration activities conducted or to be conducted by the National Oceanic and Atmospheric Administration as a result of any injury to the marine environment and/or resources for which the National Oceanic and Atmospheric Administration acts as trustee of said marine environment and/or resources, shall be deposited in the Damage Assessment and Restoration Revolving Fund and said funds so deposited shall remain available until expended: Provided further, That for purposes of obligation and expenditure in fiscal year 1991 and thereafter, sums available in the Damage Assessment and Restoration Revolving Fund may be transferred, upon the approval of the Secretary of Commerce or his delegate, to the Operations, Research, and Facilities appropriation of the National Oceanic and Atmospheric Administration.”
 
@@ -189,17 +189,17 @@
 [/us/usc/t33/s2702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F2%2FA
 [/us/usc/t33/s2702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F2%2FA
 [/us/usc/t33/s2702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702%2Fb%2F2%2FA
-[/us/pl/101/380/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1006
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F494
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/102/567/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs205
+[/us/pl/102/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtII
 [/us/stat/106/4282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4282
 [/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
 [/us/stat/104/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2105
-[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtI
 [/us/stat/104/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2105
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251

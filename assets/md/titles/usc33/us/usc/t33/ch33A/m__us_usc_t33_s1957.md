@@ -17,7 +17,7 @@
 
     Nothing in this chapter supersedes, or limits the authority of the Secretary of the Interior under, the Outer Continental Shelf Lands Act ([43 U.S.C. 1331][/us/usc/t43/s1331] et seq.).
 
-([Pub. L. 109–449, § 8][/us/pl/109/449/s8], Dec. 22, 2006, [120 Stat. 3339][/us/stat/120/3339].)
+([Pub. L. 109–449][/us/pl/109/449], § 8, Dec. 22, 2006, [120 Stat. 3339][/us/stat/120/3339].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/109/449/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs8
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3339
 [/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3333

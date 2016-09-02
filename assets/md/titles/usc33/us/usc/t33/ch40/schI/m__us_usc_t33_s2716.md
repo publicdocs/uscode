@@ -135,7 +135,7 @@
 
         The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
-([Pub. L. 101–380, title I, § 1016][/us/pl/101/380/s1016], Aug. 18, 1990, [104 Stat. 502][/us/stat/104/502]; [Pub. L. 104–55, § 2(d)(2)][/us/pl/104/55/s2/d/2], Nov. 20, 1995, [109 Stat. 547][/us/stat/109/547]; [Pub. L. 104–324, title XI, § 1125(a)][/us/pl/104/324/s1125/a], Oct. 19, 1996, [110 Stat. 3981][/us/stat/110/3981]; [Pub. L. 111–281, title VII, § 712][/us/pl/111/281/s712], Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1016, Aug. 18, 1990, [104 Stat. 502][/us/stat/104/502]; [Pub. L. 104–55][/us/pl/104/55], § 2(d)(2), Nov. 20, 1995, [109 Stat. 547][/us/stat/109/547]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1125(a), Oct. 19, 1996, [110 Stat. 3981][/us/stat/110/3981]; [Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 712, Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988].)
 
  __References in Text__ 
 
@@ -145,23 +145,23 @@
 
  __Codification__ 
 
-    In subsec. (b)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (b)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
     2010—Subsec. (a)(3). [Pub. L. 111–281][/us/pl/111/281] added par. (3).
 
-    1996—Subsec. (c)(1). [Pub. L. 104–324, § 1125(a)(1)][/us/pl/104/324/s1125/a/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under [section 2704(a) of this title][/us/usc/t33/s2704/a] in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
+    1996—Subsec. (c)(1). [Pub. L. 104–324][/us/pl/104/324], § 1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under [section 2704(a) of this title][/us/usc/t33/s2704/a] in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
 
-    Subsec. (f). [Pub. L. 104–324, § 1125(a)(2)][/us/pl/104/324/s1125/a/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under [section 2702 of this title][/us/usc/t33/s2702] may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
+    Subsec. (f). [Pub. L. 104–324][/us/pl/104/324], § 1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under [section 2702 of this title][/us/usc/t33/s2702] may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
 
-    Subsec. (g). [Pub. L. 104–324, § 1125(a)(3)][/us/pl/104/324/s1125/a/3], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
+    Subsec. (g). [Pub. L. 104–324][/us/pl/104/324], § 1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
 
     1995—Subsec. (a). [Pub. L. 104–55][/us/pl/104/55] substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–324, title XI, § 1125(b)][/us/pl/104/324/s1125/b], Oct. 19, 1996, [110 Stat. 3983][/us/stat/110/3983], provided that: 
+[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1125(b), Oct. 19, 1996, [110 Stat. 3983][/us/stat/110/3983], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] shall not apply to any final rule issued before the date of enactment of this section \[Oct. 19, 1996\].”
 
@@ -182,13 +182,13 @@
 [/us/usc/t33/s2704/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704%2Fd%2F2
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
 [/us/usc/t11/s101/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101%2F32
-[/us/pl/101/380/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1016
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F502
-[/us/pl/104/55/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55%2Fs2%2Fd%2F2
+[/us/pl/104/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55
 [/us/stat/109/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F547
-[/us/pl/104/324/s1125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1125%2Fa
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3981
-[/us/pl/111/281/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs712
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2988
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
@@ -197,17 +197,17 @@
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/104/324/s1125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1125%2Fa%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s2704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704%2Fa
-[/us/pl/104/324/s1125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1125%2Fa%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
-[/us/pl/104/324/s1125/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1125%2Fa%2F3
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/104/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55
-[/us/pl/104/324/s1125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1125%2Fb
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3983
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 

@@ -35,7 +35,7 @@
 
         (6) a review of the measures taken to provide the information described in paragraphs (1) through (3) to persons with responsibility for assisting in the restoration of estuary habitat.
 
-([Pub. L. 106–457, title I, § 108][/us/pl/106/457/s108], Nov. 7, 2000, [114 Stat. 1965][/us/stat/114/1965]; [Pub. L. 110–114, title V, § 5017(f)][/us/pl/110/114/s5017/f], Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 108, Nov. 7, 2000, [114 Stat. 1965][/us/stat/114/1965]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(f), Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t33/s2906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2906%2Fb
-[/us/pl/106/457/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs108
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1965
-[/us/pl/110/114/s5017/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Ff
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1198
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 

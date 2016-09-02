@@ -25,7 +25,7 @@
 
     (d) That the injury was not occasioned by the willful intention of the injured employee to injure or kill himself or another.
 
-([Mar. 4, 1927, ch. 509, § 20][/us/act/1927-03-04/ch509/s20], [44 Stat. 1436][/us/stat/44/1436].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 20, [44 Stat. 1436][/us/stat/44/1436].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs20
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1436
 
 

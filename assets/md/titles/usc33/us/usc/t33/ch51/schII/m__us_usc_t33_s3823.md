@@ -17,7 +17,7 @@
 
     In addition to the requirements under sections 3821 and 3822 of this title, the Secretary may require vessels to hold other documentation considered necessary to verify compliance with this chapter.
 
-([Pub. L. 111–281, title X, § 1023][/us/pl/111/281/s1023], Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1023, Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1023
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3026
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

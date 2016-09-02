@@ -47,11 +47,11 @@
 
         An injured employee claiming or entitled to compensation shall submit to such physical examination by a medical officer of the United States or by a duly qualified physician designated or approved by the Secretary as the deputy commissioner may require. The place or places shall be reasonably convenient for the employee. Such physician or physicians as the employee, employer, or carrier may select and pay for may participate in an examination if the employee, employer, or carrier so requests. Proceedings shall be suspended and no compensation be payable for any period during which the employee may refuse to submit to examination.
 
-([Mar. 4, 1927, ch. 509, § 19][/us/act/1927-03-04/ch509/s19], [44 Stat. 1435][/us/stat/44/1435]; [June 25, 1938, ch. 685, § 9][/us/act/1938-06-25/ch685/s9], [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 86–507, § 1(30)][/us/pl/86/507/s1/30], (31), June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 92–576, § 14][/us/pl/92/576/s14], Oct. 27, 1972, [86 Stat. 1261][/us/stat/86/1261]; [Pub. L. 95–251, § 2(a)(10)][/us/pl/95/251/s2/a/10], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 19, [44 Stat. 1435][/us/stat/44/1435]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 9, [52 Stat. 1167][/us/stat/52/1167]; [Pub. L. 86–507][/us/pl/86/507], § 1(30), (31), June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 92–576][/us/pl/92/576], § 14, Oct. 27, 1972, [86 Stat. 1261][/us/stat/86/1261]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(10), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
-    1984—Subsecs. (a), (b), (g), (h). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note under [section 902 of this title][/us/usc/t33/s902].
+    1984—Subsecs. (a), (b), (g), (h). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note under [section 902 of this title][/us/usc/t33/s902].
 
     1978—Subsec. (d). [Pub. L. 95–251][/us/pl/95/251] substituted references to administrative law judges for references to hearing examiners.
 
@@ -78,19 +78,19 @@
 
 [/us/usc/t33/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs913
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/act/1927-03-04/ch509/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs19
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1435
-[/us/act/1938-06-25/ch685/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs9
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1167
-[/us/pl/86/507/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F30
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F202
-[/us/pl/92/576/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs14
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1261
-[/us/pl/95/251/s2/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F10
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576

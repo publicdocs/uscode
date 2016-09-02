@@ -23,7 +23,7 @@
 
         Any cash or funds received by the Secretary under subsection (a) of this section shall be deposited into the account in the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out water resources projects described in subsection (a) of this section.
 
-([Pub. L. 102–580, title II, § 203][/us/pl/102/580/s203], Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II, § 236(a)][/us/pl/104/303/s236/a], Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705].)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 203, Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 236(a), Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/102/580/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs203
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4826
-[/us/pl/104/303/s236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs236%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3705
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3

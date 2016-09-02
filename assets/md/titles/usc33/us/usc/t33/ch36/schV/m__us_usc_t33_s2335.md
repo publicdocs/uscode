@@ -35,7 +35,7 @@
 
         There is authorized to be appropriated to carry out this section $7,000,000 for the period beginning with fiscal year 2000.
 
-([Pub. L. 106–53, title V, § 559][/us/pl/106/53/s559], Aug. 17, 1999, [113 Stat. 354][/us/stat/113/354].)
+([Pub. L. 106–53, title V][/us/pl/106/53/tV], § 559, Aug. 17, 1999, [113 Stat. 354][/us/stat/113/354].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/106/53/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs559
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F354
 [/us/pl/106/53/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

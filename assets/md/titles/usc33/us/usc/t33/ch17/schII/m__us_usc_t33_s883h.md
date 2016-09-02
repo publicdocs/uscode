@@ -17,7 +17,7 @@
 
     The President is authorized to cause to be employed such of the public vessels as he deems it expedient to employ, and to give such instructions for regulating their conduct as he deems proper in order to carry out the provisions of this subchapter.
 
-([Aug. 6, 1947, ch. 504, § 8][/us/act/1947-08-06/ch504/s8], [61 Stat. 788][/us/stat/61/788].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 8, [61 Stat. 788][/us/stat/61/788].)
 
  __Delegation of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs8
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F788
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

@@ -171,27 +171,27 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 110–114, title IX, § 9002][/us/pl/110/114/s9002], Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288]; [Pub. L. 113–121, title III, § 3016(b)][/us/pl/113/121/s3016/b], June 10, 2014, [128 Stat. 1289][/us/stat/128/1289].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9002, Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(b), June 10, 2014, [128 Stat. 1289][/us/stat/128/1289].)
 
  __Amendments__ 
 
-    2014—Pars. (1) to (6). [Pub. L. 113–121, § 3016(b)(1)][/us/pl/113/121/s3016/b/1]–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
+    2014—Pars. (1) to (6). [Pub. L. 113–121][/us/pl/113/121], § 3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
 
-    Par. (7). [Pub. L. 113–121, § 3016(b)(4)][/us/pl/113/121/s3016/b/4], added par. (7) and struck out former par. (7) which defined “levee”.
+    Par. (7). [Pub. L. 113–121][/us/pl/113/121], § 3016(b)(4), added par. (7) and struck out former par. (7) which defined “levee”.
 
-    [Pub. L. 113–121, § 3016(b)(1)][/us/pl/113/121/s3016/b/1], redesignated par. (3) as (7).
+    [Pub. L. 113–121][/us/pl/113/121], § 3016(b)(1), redesignated par. (3) as (7).
 
-    Pars. (8) to (16). [Pub. L. 113–121, § 3016(b)(1)][/us/pl/113/121/s3016/b/1], (4), added pars. (8) to (13) and redesignated pars. (4) to (6) as (14) to (16), respectively.
+    Pars. (8) to (16). [Pub. L. 113–121][/us/pl/113/121], § 3016(b)(1), (4), added pars. (8) to (13) and redesignated pars. (4) to (6) as (14) to (16), respectively.
 
  __Short Title__ 
 
-[Pub. L. 110–114, title IX, § 9001(a)][/us/pl/110/114/s9001/a], formerly § 9001, Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288], renumbered § 9001(a) and amended by [Pub. L. 113–121, title III, § 3016(a)(1)][/us/pl/113/121/s3016/a/1], (2), June 10, 2014, [128 Stat. 1289][/us/stat/128/1289], provided that: 
+[Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9001(a), formerly § 9001, Nov. 8, 2007, [121 Stat. 1288][/us/stat/121/1288], renumbered § 9001(a) and amended by [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(a)(1), (2), June 10, 2014, [128 Stat. 1289][/us/stat/128/1289], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Levee Safety Act of 2007’.”
 
  __Purposes of the Safety Program__ 
 
-[Pub. L. 110–114, title IX, § 9001(b)][/us/pl/110/114/s9001/b], as added [Pub. L. 113–121, title III, § 3016(a)(3)][/us/pl/113/121/s3016/a/3], June 10, 2014, [128 Stat. 1289][/us/stat/128/1289], provided that: 
+[Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9001(b), as added [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(a)(3), June 10, 2014, [128 Stat. 1289][/us/stat/128/1289], provided that: 
 
 > “The purposes of this title \[enacting this chapter\] are—
 
@@ -217,20 +217,20 @@
 [/us/usc/t33/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3302%2Fa
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t33/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3303
-[/us/pl/110/114/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9002
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1288
-[/us/pl/113/121/s3016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fb
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1289
-[/us/pl/113/121/s3016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fb%2F1
-[/us/pl/113/121/s3016/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fb%2F4
-[/us/pl/113/121/s3016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fb%2F1
-[/us/pl/113/121/s3016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fb%2F1
-[/us/pl/110/114/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9001%2Fa
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1288
-[/us/pl/113/121/s3016/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fa%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1289
-[/us/pl/110/114/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9001%2Fb
-[/us/pl/113/121/s3016/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fa%2F3
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1289
 
 

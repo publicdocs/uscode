@@ -27,7 +27,7 @@
 
         (2) the water resources project complies with Federal, State, and local laws (including regulations) and public policies.
 
-([Pub. L. 99–662, title IX, § 904][/us/pl/99/662/s904], Nov. 17, 1986, [100 Stat. 4185][/us/stat/100/4185]; [Pub. L. 101–640, title III, § 315][/us/pl/101/640/s315], Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641]; [Pub. L. 104–303, title II, § 231][/us/pl/104/303/s231], Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704]; [Pub. L. 110–114, title II, § 2033(a)][/us/pl/110/114/s2033/a], Nov. 8, 2007, [121 Stat. 1084][/us/stat/121/1084].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 904, Nov. 17, 1986, [100 Stat. 4185][/us/stat/100/4185]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 315, Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 231, Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2033(a), Nov. 8, 2007, [121 Stat. 1084][/us/stat/121/1084].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Rural Project Evaluation and Selection Criteria__ 
 
-    [Pub. L. 102–580, title II, § 214][/us/pl/102/580/s214], Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831], directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas, prior to repeal by [Pub. L. 104–316, title I, § 117][/us/pl/104/316/s117], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835].
+    [Pub. L. 102–580, title II][/us/pl/102/580/tII], § 214, Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831], directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas, prior to repeal by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 117, Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835].
 
 ----------
 
@@ -48,20 +48,20 @@
 ----------
 ----------
 
-[/us/pl/99/662/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs904
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4185
-[/us/pl/101/640/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs315
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4641
-[/us/pl/104/303/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs231
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3704
-[/us/pl/110/114/s2033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2033%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1084
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
-[/us/pl/102/580/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs214
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4831
-[/us/pl/104/316/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs117
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
 
 

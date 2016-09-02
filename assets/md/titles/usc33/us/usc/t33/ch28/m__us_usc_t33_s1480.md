@@ -17,7 +17,7 @@
 
     The Secretary of State shall notify without delay foreign states concerned, the Secretary-General of the Inter-Governmental Maritime Consultative Organization, and persons affected by measures taken under this chapter.
 
-([Pub. L. 93–248, § 11][/us/pl/93/248/s11], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
+([Pub. L. 93–248][/us/pl/93/248], § 11, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/248/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs11
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
 
 

@@ -47,7 +47,7 @@
 
             The term “Administration” means the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 107–372, title II, § 212][/us/pl/107/372/s212], Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 212, Dec. 19, 2002, [116 Stat. 3082][/us/stat/116/3082].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/107/372/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs212
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3082
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/stat/116/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3082

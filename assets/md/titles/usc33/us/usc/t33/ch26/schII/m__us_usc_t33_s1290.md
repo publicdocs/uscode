@@ -17,13 +17,13 @@
 
     The Administrator shall annually make a survey to determine the efficiency of the operation and maintenance of treatment works constructed with grants made under this chapter, as compared to the efficiency planned at the time the grant was made. The results of such annual survey shall be included in the report required under [section 1375(a) of this title][/us/usc/t33/s1375/a].
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 210, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 843][/us/stat/86/843]; amended [Pub. L. 105–362, title V, § 501(d)(2)(D)][/us/pl/105/362/s501/d/2/D], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284]; [Pub. L. 107–303, title III, § 302(b)(1)][/us/pl/107/303/s302/b/1], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 210, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 843][/us/stat/86/843]; amended [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(d)(2)(D), Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362, § 501(d)(2)(D)][/us/pl/105/362/s501/d/2/D]. See 1998 Amendment note below.
+    2002—[Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362][/us/pl/105/362], § 501(d)(2)(D). See 1998 Amendment note below.
 
-    1998—[Pub. L. 105–362, § 501(d)(2)(D)][/us/pl/105/362/s501/d/2/D], which directed the substitution of “shall be reported to Congress not later than 90 days after the date of convening of each session of Congress” for “shall be included in the report required under [section 1375(a) of this title][/us/usc/t33/s1375/a]”, was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
+    1998—[Pub. L. 105–362][/us/pl/105/362], § 501(d)(2)(D), which directed the substitution of “shall be reported to Congress not later than 90 days after the date of convening of each session of Congress” for “shall be included in the report required under [section 1375(a) of this title][/us/usc/t33/s1375/a]”, was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -38,15 +38,15 @@
 
 [/us/usc/t33/s1375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1375%2Fa
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F843
-[/us/pl/105/362/s501/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fd%2F2%2FD
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3284
-[/us/pl/107/303/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fb%2F1
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/105/362/s501/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fd%2F2%2FD
-[/us/pl/105/362/s501/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fd%2F2%2FD
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t33/s1375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1375%2Fa
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303

@@ -123,7 +123,7 @@
 
             The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-([Pub. L. 101–380, title I, § 1004][/us/pl/101/380/s1004], Aug. 18, 1990, [104 Stat. 491][/us/stat/104/491]; [Pub. L. 104–55, § 2(d)(1)][/us/pl/104/55/s2/d/1], Nov. 20, 1995, [109 Stat. 546][/us/stat/109/546]; [Pub. L. 105–383, title IV, § 406][/us/pl/105/383/s406], Nov. 13, 1998, [112 Stat. 3429][/us/stat/112/3429]; [Pub. L. 109–241, title VI, § 603(a)(1)][/us/pl/109/241/s603/a/1], (2), (b), July 11, 2006, [120 Stat. 553][/us/stat/120/553], 554; [Pub. L. 111–281, title IX, § 903(a)(2)][/us/pl/111/281/s903/a/2], (e)(1), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], 3011.)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1004, Aug. 18, 1990, [104 Stat. 491][/us/stat/104/491]; [Pub. L. 104–55][/us/pl/104/55], § 2(d)(1), Nov. 20, 1995, [109 Stat. 546][/us/stat/109/546]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 406, Nov. 13, 1998, [112 Stat. 3429][/us/stat/112/3429]; [Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 603(a)(1), (2), (b), July 11, 2006, [120 Stat. 553][/us/stat/120/553], 554; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a)(2), (e)(1), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], 3011.)
 
  __References in Text__ 
 
@@ -133,11 +133,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–281, § 903(e)(1)][/us/pl/111/281/s903/e/1], struck out first comma after “$800,000”.
+    2010—Subsec. (a)(2). [Pub. L. 111–281][/us/pl/111/281], § 903(e)(1), struck out first comma after “$800,000”.
 
-    [Pub. L. 111–281, § 903(a)(2)][/us/pl/111/281/s903/a/2], made technical amendment to directory language of [Pub. L. 109–241, § 603(a)(2)][/us/pl/109/241/s603/a/2]. See 2006 Amendment note below.
+    [Pub. L. 111–281][/us/pl/111/281], § 903(a)(2), made technical amendment to directory language of [Pub. L. 109–241][/us/pl/109/241], § 603(a)(2). See 2006 Amendment note below.
 
-    2006—Subsec. (a)(1)(A) to (C). [Pub. L. 109–241, § 603(a)(1)][/us/pl/109/241/s603/a/1], added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
+    2006—Subsec. (a)(1)(A) to (C). [Pub. L. 109–241][/us/pl/109/241], § 603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
 
     “(A) $1,200 per gross ton; or
 
@@ -145,23 +145,23 @@
 
     “(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;”.
 
-    Subsec. (a)(2). [Pub. L. 109–241, § 603(a)(2)][/us/pl/109/241/s603/a/2], as amended by [Pub. L. 111–281, § 903(a)(2)][/us/pl/111/281/s903/a/2], substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
+    Subsec. (a)(2). [Pub. L. 109–241][/us/pl/109/241], § 603(a)(2), as amended by [Pub. L. 111–281][/us/pl/111/281], § 903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
 
-    Subsec. (d)(4). [Pub. L. 109–241, § 603(b)][/us/pl/109/241/s603/b], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.”
+    Subsec. (d)(4). [Pub. L. 109–241][/us/pl/109/241], § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.”
 
-    1998—Subsec. (a)(1). [Pub. L. 105–383, § 406(1)][/us/pl/105/383/s406/1], substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title][/us/usc/t33/s2720])” after “tank vessel”.
+    1998—Subsec. (a)(1). [Pub. L. 105–383][/us/pl/105/383], § 406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title][/us/usc/t33/s2720])” after “tank vessel”.
 
-    Subsec. (c)(4). [Pub. L. 105–383, § 406(2)][/us/pl/105/383/s406/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 105–383][/us/pl/105/383], § 406(2), added par. (4).
 
     1995—Subsec. (a)(1). [Pub. L. 104–55][/us/pl/104/55] substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title][/us/usc/t33/s2720])” for “for a tank vessel,”.
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–281, title IX, § 903(a)][/us/pl/111/281/s903/a], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], provided that the amendment by section 903(a)(2) is effective with enactment of [Pub. L. 109–241][/us/pl/109/241].
+    [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], provided that the amendment by section 903(a)(2) is effective with enactment of [Pub. L. 109–241][/us/pl/109/241].
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–241, title VI, § 603(a)(3)][/us/pl/109/241/s603/a/3], July 11, 2006, [120 Stat. 554][/us/stat/120/554], provided that: 
+[Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 603(a)(3), July 11, 2006, [120 Stat. 554][/us/stat/120/554], provided that: 
 
 > “In the case of an incident occurring before the 90th day following the date of enactment of this Act \[July 11, 2006\], section 1004(a)(1) of the Oil Pollution Act of 1990 ([33 U.S.C. 2704(a)(1)][/us/usc/t33/s2704/a/1]) shall apply as in effect immediately before the effective date of this subsection \[July 11, 2006\].”
 
@@ -171,7 +171,7 @@
 
  __Report__ 
 
-[Pub. L. 109–241, title VI, § 603(c)][/us/pl/109/241/s603/c], July 11, 2006, [120 Stat. 554][/us/stat/120/554], provided that:
+[Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 603(c), July 11, 2006, [120 Stat. 554][/us/stat/120/554], as amended by [Pub. L. 114–120, title VI][/us/pl/114/120/tVI], § 601(b), Feb. 8, 2016, [130 Stat. 79][/us/stat/130/79], provided that:
 
 >     “(1)  __Initial report__  __.—__ 
 
@@ -189,7 +189,7 @@
 
 >     “(3)  __Annual updates__  __.—__ 
 
->     The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis.”
+>     The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701][/us/usc/t33/s2701])) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 ([33 U.S.C. 2704][/us/usc/t33/s2704]).”
 
 ----------
 
@@ -205,15 +205,15 @@
 [/us/usc/t33/s2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2720
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t33/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1502
-[/us/pl/101/380/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1004
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F491
-[/us/pl/104/55/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55%2Fs2%2Fd%2F1
+[/us/pl/104/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55
 [/us/stat/109/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F546
-[/us/pl/105/383/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs406
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3429
-[/us/pl/109/241/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fa%2F1
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F553
-[/us/pl/111/281/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F2
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
@@ -221,29 +221,33 @@
 [/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F8
 [/us/usc/t33/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1471
-[/us/pl/111/281/s903/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fe%2F1
-[/us/pl/111/281/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F2
-[/us/pl/109/241/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fa%2F2
-[/us/pl/109/241/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fa%2F1
-[/us/pl/109/241/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fa%2F2
-[/us/pl/111/281/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F2
-[/us/pl/109/241/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fb
-[/us/pl/105/383/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs406%2F1
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/usc/t33/s2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2720
-[/us/pl/105/383/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs406%2F2
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/104/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F55
 [/us/usc/t33/s2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2720
-[/us/pl/111/281/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/109/241/s603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fa%2F3
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F554
 [/us/usc/t33/s2704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704%2Fa%2F1
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/109/241/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs603%2Fc
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F554
+[/us/pl/114/120/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtVI
+[/us/stat/130/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F79
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2703
+[/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
+[/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2704
 
 

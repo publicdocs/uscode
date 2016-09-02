@@ -19,7 +19,7 @@
 
     For the purpose of securing the uninterrupted examinations and surveys of the South Pass of the Mississippi River, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $10,000.
 
-([Aug. 11, 1888, ch. 860][/us/act/1888-08-11/ch860], §§ 1, 4, [25 Stat. 422][/us/stat/25/422], 424; [June 6, 1900, ch. 790, § 3][/us/act/1900-06-06/ch790/s3], [31 Stat. 584][/us/stat/31/584]; [June 13, 1902, ch. 1079, § 1][/us/act/1902-06-13/ch1079/s1], [32 Stat. 340][/us/stat/32/340]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076, § 1(15)][/us/act/1954-08-30/ch1076/s1/15], [68 Stat. 967][/us/stat/68/967].)
+([Aug. 11, 1888, ch. 860][/us/act/1888-08-11/ch860], §§ 1, 4, [25 Stat. 422][/us/stat/25/422], 424; [June 6, 1900, ch. 790][/us/act/1900-06-06/ch790], § 3, [31 Stat. 584][/us/stat/31/584]; [June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], § 1, [32 Stat. 340][/us/stat/32/340]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(15), [68 Stat. 967][/us/stat/68/967].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@ The second paragraph of this section was from section 4 of act Aug. 11, 1888. In
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Appropriations__ 
 
@@ -58,17 +58,17 @@ The second paragraph of this section was from section 4 of act Aug. 11, 1888. In
 
 [/us/act/1888-08-11/ch860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-11%2Fch860
 [/us/stat/25/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F422
-[/us/act/1900-06-06/ch790/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch790%2Fs3
+[/us/act/1900-06-06/ch790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch790
 [/us/stat/31/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F584
-[/us/act/1902-06-13/ch1079/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079%2Fs1
+[/us/act/1902-06-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079
 [/us/stat/32/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F340
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1954-08-30/ch1076/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F15
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F967
 [/us/act/1875-03-03/ch134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch134
 [/us/stat/18/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F463
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

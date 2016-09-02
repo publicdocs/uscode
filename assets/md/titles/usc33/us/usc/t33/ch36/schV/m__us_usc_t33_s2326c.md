@@ -51,7 +51,7 @@
 
             There is authorized to be appropriated to carry out this subsection $2,000,000, except that not to exceed $1,000,000 may be expended with respect to any project.
 
-([Pub. L. 106–541, title II, § 215][/us/pl/106/541/s215], Dec. 11, 2000, [114 Stat. 2594][/us/stat/114/2594].)
+([Pub. L. 106–541, title II][/us/pl/106/541/tII], § 215, Dec. 11, 2000, [114 Stat. 2594][/us/stat/114/2594].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/106/541/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs215
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2594
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

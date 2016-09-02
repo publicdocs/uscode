@@ -39,7 +39,7 @@
 
         There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.
 
-([Pub. L. 104–182, title III, § 303][/us/pl/104/182/s303], Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683]; [Pub. L. 106–457, title IX, § 903][/us/pl/106/457/s903], Nov. 7, 2000, [114 Stat. 1982][/us/stat/114/1982].)
+([Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 303, Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683]; [Pub. L. 106–457, title IX][/us/pl/106/457/tIX], § 903, Nov. 7, 2000, [114 Stat. 1982][/us/stat/114/1982].)
 
  __Codification__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/104/182/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs303
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1683
-[/us/pl/106/457/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs903
+[/us/pl/106/457/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIX
 [/us/stat/114/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1982
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 

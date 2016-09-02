@@ -17,7 +17,7 @@
 
     The word “persons” as used in sections 491 to 494 and 495 to 498 of this title, shall be construed to import both the singular and the plural, as the case demands, and shall include municipalities, quasi-municipal corporations, corporations, companies, and associations.
 
-([Mar. 23, 1906, ch. 1130, § 7][/us/act/1906-03-23/ch1130/s7], [34 Stat. 86][/us/stat/34/86].)
+([Mar. 23, 1906, ch. 1130][/us/act/1906-03-23/ch1130], § 7, [34 Stat. 86][/us/stat/34/86].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-03-23/ch1130/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130%2Fs7
+[/us/act/1906-03-23/ch1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130
 [/us/stat/34/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F86
 
 

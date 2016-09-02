@@ -23,7 +23,7 @@
 
         The Secretary shall maintain a list, known as the “lineal list”, of officers on active duty. Officers shall be carried on the lineal list by grade and, within grade, by seniority in grade.
 
-([Pub. L. 107–372, title II, § 213][/us/pl/107/372/s213], Dec. 19, 2002, [116 Stat. 3083][/us/stat/116/3083].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 213, Dec. 19, 2002, [116 Stat. 3083][/us/stat/116/3083].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs213
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3083
 
 

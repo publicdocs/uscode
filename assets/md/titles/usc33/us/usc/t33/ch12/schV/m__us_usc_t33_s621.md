@@ -17,7 +17,7 @@
 
     Any public work on canals, rivers, and harbors adopted by Congress may be prosecuted by direct appropriations, by continuing contracts, or by both direct appropriations and continuing contracts.
 
-([Sept. 22, 1922, ch. 427, § 10][/us/act/1922-09-22/ch427/s10], [42 Stat. 1043][/us/stat/42/1043].)
+([Sept. 22, 1922, ch. 427][/us/act/1922-09-22/ch427], § 10, [42 Stat. 1043][/us/stat/42/1043].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-22/ch427/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427%2Fs10
+[/us/act/1922-09-22/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427
 [/us/stat/42/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1043
 
 

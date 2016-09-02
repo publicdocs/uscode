@@ -17,7 +17,7 @@
 
     This chapter shall be interpreted and administered in a manner consistent with the convention, the protocol, and other international law. Except as specifically provided, nothing in this chapter may be interpreted to prejudice any otherwise applicable right, duty, privilege, or immunity or deprive any country or person of any remedy otherwise applicable.
 
-([Pub. L. 93–248, § 15][/us/pl/93/248/s15], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302, § 1(6)][/us/pl/95/302/s1/6], June 26, 1978, [92 Stat. 345][/us/stat/92/345].)
+([Pub. L. 93–248][/us/pl/93/248], § 15, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302][/us/pl/95/302], § 1(6), June 26, 1978, [92 Stat. 345][/us/stat/92/345].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/248/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs15
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/95/302/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F6
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F345
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302

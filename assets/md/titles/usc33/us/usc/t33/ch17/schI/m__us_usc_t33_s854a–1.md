@@ -23,11 +23,11 @@
 
     (3) Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: Provided, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 1 of this title.
 
-([Dec. 3, 1942, ch. 670, § 1][/us/act/1942-12-03/ch670/s1], [56 Stat. 1038][/us/stat/56/1038]; [Pub. L. 89–657, § 3][/us/pl/89/657/s3], Oct. 14, 1966, [80 Stat. 907][/us/stat/80/907]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Dec. 3, 1942, ch. 670][/us/act/1942-12-03/ch670], § 1, [56 Stat. 1038][/us/stat/56/1038]; [Pub. L. 89–657][/us/pl/89/657], § 3, Oct. 14, 1966, [80 Stat. 907][/us/stat/80/907]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __References in Text__ 
 
-    Sections 854, 855, 856, 857, and 858 of this title, referred to in text, were repealed by [Pub. L. 107–372, title II, § 271(4)][/us/pl/107/372/s271/4], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094].
+    Sections 854, 855, 856, 857, and 858 of this title, referred to in text, were repealed by [Pub. L. 107–372, title II][/us/pl/107/372/tII], § 271(4), Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094].
 
  __Codification__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/act/1942-12-03/ch670/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-03%2Fch670%2Fs1
+[/us/act/1942-12-03/ch670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-03%2Fch670
 [/us/stat/56/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1038
-[/us/pl/89/657/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F657%2Fs3
+[/us/pl/89/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F657
 [/us/stat/80/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F907
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/107/372/s271/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs271%2F4
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3094
 [/us/usc/t33/s3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3030
 [/us/pl/89/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F657

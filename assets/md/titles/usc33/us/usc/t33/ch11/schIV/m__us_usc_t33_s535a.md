@@ -23,7 +23,7 @@
 
     for the construction, operation, and maintenance of such bridge in accordance with the applicable provisions of this subchapter. The effectiveness of such agreement shall be conditioned on its approval by the Secretary of State.
 
-([Pub. L. 92–434, § 3][/us/pl/92/434/s3], Sept. 26, 1972, [86 Stat. 731][/us/stat/86/731].)
+([Pub. L. 92–434][/us/pl/92/434], § 3, Sept. 26, 1972, [86 Stat. 731][/us/stat/86/731].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/434/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434%2Fs3
+[/us/pl/92/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434
 [/us/stat/86/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F731
 
 

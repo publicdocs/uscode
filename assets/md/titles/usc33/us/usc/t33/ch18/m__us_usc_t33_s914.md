@@ -59,19 +59,19 @@
 
         An injured employee, or in case of death his dependents or personal representative, shall give receipts for payment of compensation to the employer paying the same and such employer shall produce the same for inspection by the deputy commissioner, whenever required.
 
-([Mar. 4, 1927, ch. 509, § 14][/us/act/1927-03-04/ch509/s14], [44 Stat. 1432][/us/stat/44/1432]; [May 26, 1934, ch. 354, § 4][/us/act/1934-05-26/ch354/s4], [48 Stat. 807][/us/stat/48/807]; [June 25, 1938, ch. 685, § 7][/us/act/1938-06-25/ch685/s7], [52 Stat. 1167][/us/stat/52/1167]; [June 24, 1948, ch. 623, § 5][/us/act/1948-06-24/ch623/s5], [62 Stat. 603][/us/stat/62/603]; [July 26, 1956, ch. 735, § 5][/us/act/1956-07-26/ch735/s5], [70 Stat. 655][/us/stat/70/655]; [Pub. L. 87–87, § 3][/us/pl/87/87/s3], July 14, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 92–576][/us/pl/92/576], §§ 5(e), 15(d), Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254], 1262; [Pub. L. 98–426][/us/pl/98/426], §§ 13, 27(a)(2), Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649], 1654.)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 14, [44 Stat. 1432][/us/stat/44/1432]; [May 26, 1934, ch. 354][/us/act/1934-05-26/ch354], § 4, [48 Stat. 807][/us/stat/48/807]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 7, [52 Stat. 1167][/us/stat/52/1167]; [June 24, 1948, ch. 623][/us/act/1948-06-24/ch623], § 5, [62 Stat. 603][/us/stat/62/603]; [July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], § 5, [70 Stat. 655][/us/stat/70/655]; [Pub. L. 87–87][/us/pl/87/87], § 3, July 14, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 92–576][/us/pl/92/576], §§ 5(e), 15(d), Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254], 1262; [Pub. L. 98–426][/us/pl/98/426], §§ 13, 27(a)(2), Sept. 28, 1984, [98 Stat. 1649][/us/stat/98/1649], 1654.)
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–426, § 13(a)][/us/pl/98/426/s13/a], substituted “employer has been notified pursuant to [section 912 of this title][/us/usc/t33/s912], or the employer,” for “employer”.
+    1984—Subsec. (b). [Pub. L. 98–426][/us/pl/98/426], § 13(a), substituted “employer has been notified pursuant to [section 912 of this title][/us/usc/t33/s912], or the employer,” for “employer”.
 
-    Subsecs. (c), (d), (g). [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
+    Subsecs. (c), (d), (g). [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under [section 902 of this title][/us/usc/t33/s902].
 
-    Subsecs. (j) to (l). [Pub. L. 98–426, § 13(b)][/us/pl/98/426/s13/b], redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
+    Subsecs. (j) to (l). [Pub. L. 98–426][/us/pl/98/426], § 13(b), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
 
-    1972—Subsec. (f). [Pub. L. 92–576, § 15(d)][/us/pl/92/576/s15/d], substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
+    1972—Subsec. (f). [Pub. L. 92–576][/us/pl/92/576], § 15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
 
-    Subsec. (m). [Pub. L. 92–576, § 5(e)][/us/pl/92/576/s5/e], repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under [section 908(g) of this title][/us/usc/t33/s908/g] for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under [section 918 of this title][/us/usc/t33/s918].
+    Subsec. (m). [Pub. L. 92–576][/us/pl/92/576], § 5(e), repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under [section 908(g) of this title][/us/usc/t33/s908/g] for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under [section 918 of this title][/us/usc/t33/s918].
 
     1961—Subsec. (m). [Pub. L. 87–87][/us/pl/87/87] increased limitation on total money allowance as compensation for injury from “$17,280” to “$24,000”.
 
@@ -112,29 +112,29 @@
 
 [/us/usc/t33/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs912
 [/us/usc/t33/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs921
-[/us/act/1927-03-04/ch509/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs14
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1432
-[/us/act/1934-05-26/ch354/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-26%2Fch354%2Fs4
+[/us/act/1934-05-26/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-26%2Fch354
 [/us/stat/48/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F807
-[/us/act/1938-06-25/ch685/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs7
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1167
-[/us/act/1948-06-24/ch623/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623%2Fs5
+[/us/act/1948-06-24/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch623
 [/us/stat/62/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F603
-[/us/act/1956-07-26/ch735/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735%2Fs5
+[/us/act/1956-07-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735
 [/us/stat/70/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F655
-[/us/pl/87/87/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87%2Fs3
+[/us/pl/87/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87
 [/us/stat/75/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F203
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1254
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1649
-[/us/pl/98/426/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs13%2Fa
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs912
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs13%2Fb
-[/us/pl/92/576/s15/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs15%2Fd
-[/us/pl/92/576/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs5%2Fe
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/usc/t33/s908/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs908%2Fg
 [/us/usc/t33/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs918
 [/us/pl/87/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F87

@@ -35,7 +35,7 @@
 
         (2) The Administrator shall transmit such State reports, together with an analysis thereof, to Congress on or before October 1, 1975, and October 1, 1976, and biennially thereafter.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 305, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 853][/us/stat/86/853]; amended [Pub. L. 95–217, § 52][/us/pl/95/217/s52], Dec. 27, 1977, [91 Stat. 1589][/us/stat/91/1589].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 305, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 853][/us/stat/86/853]; amended [Pub. L. 95–217][/us/pl/95/217], § 52, Dec. 27, 1977, [91 Stat. 1589][/us/stat/91/1589].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1977—Subsec. (b)(1). [Pub. L. 95–217, § 52(1)][/us/pl/95/217/s52/1], substituted “April 1, 1975, and shall bring up to date by April 1, 1976, and biennially thereafter” for “January 1, 1975, and shall bring up to date each year thereafter” in provisions preceding subpar. (A).
+    1977—Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 52(1), substituted “April 1, 1975, and shall bring up to date by April 1, 1976, and biennially thereafter” for “January 1, 1975, and shall bring up to date each year thereafter” in provisions preceding subpar. (A).
 
-    Subsec. (b)(2). [Pub. L. 95–217, § 52(2)][/us/pl/95/217/s52/2], substituted “on or before October 1, 1975, and October 1, 1976, and biennially thereafter” for “on or before October 1, 1975, and annually thereafter”.
+    Subsec. (b)(2). [Pub. L. 95–217][/us/pl/95/217], § 52(2), substituted “on or before October 1, 1975, and October 1, 1976, and biennially thereafter” for “on or before October 1, 1975, and annually thereafter”.
 
 ----------
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t33/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F853
-[/us/pl/95/217/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs52
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1589
-[/us/pl/95/217/s52/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs52%2F1
-[/us/pl/95/217/s52/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs52%2F2
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 
 

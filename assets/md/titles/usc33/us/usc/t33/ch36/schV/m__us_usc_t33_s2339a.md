@@ -17,7 +17,7 @@
 
     The Secretary may enter into a cooperative agreement with an Indian tribe (or a designated representative of an Indian tribe) to carry out authorized activities of the Corps of Engineers to protect fish, wildlife, water quality, and cultural resources.
 
-([Pub. L. 113–121, title I, § 1031(b)][/us/pl/113/121/s1031/b], June 10, 2014, [128 Stat. 1233][/us/stat/128/1233].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1031(b), June 10, 2014, [128 Stat. 1233][/us/stat/128/1233].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fb
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1233
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

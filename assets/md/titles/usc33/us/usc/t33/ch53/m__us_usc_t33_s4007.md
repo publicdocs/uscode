@@ -23,7 +23,7 @@
 
         Nothing in this chapter may be construed as establishing new regulatory authority for any agency.
 
-([Pub. L. 105–383, title VI, § 607][/us/pl/105/383/s607], as added [Pub. L. 113–124, § 9][/us/pl/113/124/s9], June 30, 2014, [128 Stat. 1385][/us/stat/128/1385].)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 607, as added [Pub. L. 113–124][/us/pl/113/124], § 9, June 30, 2014, [128 Stat. 1385][/us/stat/128/1385].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/105/383/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs607
-[/us/pl/113/124/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs9
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1385
 
 

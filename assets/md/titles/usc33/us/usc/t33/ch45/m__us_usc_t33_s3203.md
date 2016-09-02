@@ -151,7 +151,7 @@
 
         Not later than 3 months after January 12, 2007, the Administrator shall establish a process for monitoring and certifying contractor performance in carrying out the requirements of any contract to construct or deploy tsunami detection equipment, including procedures and penalties to be imposed in cases of significant contractor failure or negligence.
 
-([Pub. L. 109–424, § 4][/us/pl/109/424/s4], Dec. 20, 2006, [120 Stat. 2903][/us/stat/120/2903]; [Pub. L. 109–479, title VIII, § 804][/us/pl/109/479/s804], Jan. 12, 2007, [120 Stat. 3654][/us/stat/120/3654].)
+([Pub. L. 109–424][/us/pl/109/424], § 4, Dec. 20, 2006, [120 Stat. 2903][/us/stat/120/2903]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 804, Jan. 12, 2007, [120 Stat. 3654][/us/stat/120/3654].)
 
  __Codification__ 
 
@@ -171,9 +171,9 @@
 [/us/usc/t33/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3204
 [/us/usc/t33/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3205
 [/us/usc/t33/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3205
-[/us/pl/109/424/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs4
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2903
-[/us/pl/109/479/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs804
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3654
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

@@ -117,7 +117,7 @@
 
         NOAA shall complete an analysis initiated under subsection (e)(2) not later than 6 months after the Under Secretary makes a determination under subsection (e). The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
 
-([Pub. L. 112–55, div. B, title I, § 105][/us/pl/112/55/s105], Nov. 18, 2011, [125 Stat. 599][/us/stat/125/599]; [Pub. L. 113–6, div. B, title I, § 105(a)][/us/pl/113/6/s105/a], Mar. 26, 2013, [127 Stat. 242][/us/stat/127/242].)
+([Pub. L. 112–55, div. B, title I][/us/pl/112/55/dB/tI], § 105, Nov. 18, 2011, [125 Stat. 599][/us/stat/125/599]; [Pub. L. 113–6, div. B, title I][/us/pl/113/6/dB/tI], § 105(a), Mar. 26, 2013, [127 Stat. 242][/us/stat/127/242].)
 
  __Codification__ 
 
@@ -127,7 +127,7 @@
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 110–161, div. B, title I, § 112][/us/pl/110/161/s112], Dec. 26, 2007, [121 Stat. 1894][/us/stat/121/1894].
+    [Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 112, Dec. 26, 2007, [121 Stat. 1894][/us/stat/121/1894].
 
  __Amendments__ 
 
@@ -135,17 +135,17 @@
 
  __Requirements Adopted by Reference__ 
 
-[Pub. L. 114–113, div. B, title I, § 104][/us/pl/114/113/s104], Dec. 18, 2015, [129 Stat. 2294][/us/stat/129/2294], provided that: 
+[Pub. L. 114–113, div. B, title I][/us/pl/114/113/dB/tI], § 104, Dec. 18, 2015, [129 Stat. 2294][/us/stat/129/2294], provided that: 
 
 > “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 ([Public Law 112–55][/us/pl/112/55]) \[[33 U.S.C. 878a][/us/usc/t33/s878a]\], as amended by section 105 of title I of division B of [Public Law 113–6][/us/pl/113/6], are hereby adopted by reference and made applicable with respect to fiscal year 2016.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. B, title I, § 104][/us/pl/113/235/s104], Dec. 16, 2014, [128 Stat. 2181][/us/stat/128/2181].
+    [Pub. L. 113–235, div. B, title I][/us/pl/113/235/dB/tI], § 104, Dec. 16, 2014, [128 Stat. 2181][/us/stat/128/2181].
 
-    [Pub. L. 113–76, div. B, title I, § 104][/us/pl/113/76/s104], Jan. 17, 2014, [128 Stat. 51][/us/stat/128/51].
+    [Pub. L. 113–76, div. B, title I][/us/pl/113/76/dB/tI], § 104, Jan. 17, 2014, [128 Stat. 51][/us/stat/128/51].
 
-    [Pub. L. 113–6, div. B, title I, § 105(b)][/us/pl/113/6/s105/b], Mar. 26, 2013, [127 Stat. 242][/us/stat/127/242].
+    [Pub. L. 113–6, div. B, title I][/us/pl/113/6/dB/tI], § 105(b), Mar. 26, 2013, [127 Stat. 242][/us/stat/127/242].
 
 ----------
 
@@ -154,23 +154,23 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/112/55/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs105
+[/us/pl/112/55/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdB%2FtI
 [/us/stat/125/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F599
-[/us/pl/113/6/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs105%2Fa
+[/us/pl/113/6/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdB%2FtI
 [/us/stat/127/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F242
-[/us/pl/110/161/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs112
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1894
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
-[/us/pl/114/113/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104
+[/us/pl/114/113/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdB%2FtI
 [/us/stat/129/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2294
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/usc/t33/s878a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs878a
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
-[/us/pl/113/235/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104
+[/us/pl/113/235/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtI
 [/us/stat/128/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2181
-[/us/pl/113/76/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs104
+[/us/pl/113/76/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdB%2FtI
 [/us/stat/128/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F51
-[/us/pl/113/6/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs105%2Fb
+[/us/pl/113/6/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdB%2FtI
 [/us/stat/127/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F242
 
 

@@ -73,17 +73,17 @@
 
         The term “United States” means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
-([Pub. L. 99–662, title II, § 214][/us/pl/99/662/s214], Nov. 17, 1986, [100 Stat. 4108][/us/stat/100/4108]; [Pub. L. 104–303, title II, § 201(e)][/us/pl/104/303/s201/e], Oct. 12, 1996, [110 Stat. 3672][/us/stat/110/3672].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 214, Nov. 17, 1986, [100 Stat. 4108][/us/stat/100/4108]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 201(e), Oct. 12, 1996, [110 Stat. 3672][/us/stat/110/3672].)
 
  __References in Text__ 
 
-    [Section 202 of this title][/us/usc/t33/s202], referred to in pars. (1) and (3), is [section 202 of title II of Pub. L. 99–662][/us/pl/99/662/s202], Nov. 17, 1986, [100 Stat. 4091][/us/stat/100/4091], which is not classified to the Code.
+    [Section 202 of this title][/us/usc/t33/s202], referred to in pars. (1) and (3), is [section 202 of title II of Pub. L. 99–662][/us/pl/99/662/tII/s202], Nov. 17, 1986, [100 Stat. 4091][/us/stat/100/4091], which is not classified to the Code.
 
  __Amendments__ 
 
-    1996—Par. (2)(A). [Pub. L. 104–303, § 201(e)(1)][/us/pl/104/303/s201/e/1], inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
+    1996—Par. (2)(A). [Pub. L. 104–303][/us/pl/104/303], § 201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
 
-    Par. (2)(C). [Pub. L. 104–303, § 201(e)(2)][/us/pl/104/303/s201/e/2], substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
+    Par. (2)(C). [Pub. L. 104–303][/us/pl/104/303], § 201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
 
  __Increases in Non-Federal Share of Costs__ 
 
@@ -103,15 +103,15 @@
 [/us/usc/t33/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs202
 [/us/usc/t33/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs202
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/99/662/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs214
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4108
-[/us/pl/104/303/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fe
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3672
 [/us/usc/t33/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs202
-[/us/pl/99/662/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs202
+[/us/pl/99/662/tII/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII%2Fs202
 [/us/stat/100/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4091
-[/us/pl/104/303/s201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fe%2F1
-[/us/pl/104/303/s201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fe%2F2
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/usc/t33/s1293a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1293a
 [/us/pl/104/303/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fg

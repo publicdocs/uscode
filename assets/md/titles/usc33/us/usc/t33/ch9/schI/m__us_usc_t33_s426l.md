@@ -31,7 +31,7 @@
 
         This section may be cited as the “Lake Ontario Protection Act of 1976.”
 
-([Pub. L. 94–587, § 180][/us/pl/94/587/s180], Oct. 22, 1976, [90 Stat. 2939][/us/stat/90/2939].)
+([Pub. L. 94–587][/us/pl/94/587], § 180, Oct. 22, 1976, [90 Stat. 2939][/us/stat/90/2939].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/94/587/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs180
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2939
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to supersede or alter the existing authorities of any Federal agency with respect to ocean and coastal mapping.
 
-([Pub. L. 111–11, title XII, § 12206][/us/pl/111/11/s12206], Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12206, Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12206
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1426
 
 

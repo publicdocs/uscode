@@ -457,7 +457,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426l" data-uslm-ref="/us/usc/t33/s426l">426l.</a>  </td>
 
     <td> Protection of Lake Ontario.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426o" data-uslm-ref="/us/usc/t33/s426o">426o.</a>  </td>
 
     <td> Great Lakes material disposal.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426o" data-uslm-ref="/us/usc/t33/s426o">426o</a>–1.  </td>
 
     <td> Great Lakes dredging levels adjustment.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426" data-uslm-ref="/us/usc/t33/s426">426</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426o" data-uslm-ref="/us/usc/t33/s426o">426o</a>–2.  </td>
 
     <td> Great Lakes navigation and protection.  </td>
 

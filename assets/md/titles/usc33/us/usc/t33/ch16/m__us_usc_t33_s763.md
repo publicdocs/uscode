@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s755...762.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
 
 ## § 763. Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay
 
     All officers and employees engaged in the field service or on vessels of the Lighthouse Service, except persons continuously employed in district offices or shop, who (1) shall have reached the age of fifty-five years, after having been thirty years in the active service of the Government, (2) shall have reached the age of sixty-two years, after having been twenty-five years in the active service of the Government, or (3) are involuntarily separated from further performance of duty, except by removal for cause on charges of misconduct or delinquency, after completing twenty-five years in the active service of the Government, or after completing twenty years of such service and after reaching the age of fifty years, may at their option be retired from further performance of duty; and all such officers and employees who shall have reached the age of seventy years shall be compulsorily retired from further performance of duty: Provided, That the annual compensation of persons so retired shall be a sum equal to one-fortieth of the average annual pay received for the last three years of service for each year of active service in the Lighthouse Service, or in a department or branch of the Government having a retirement system, not to exceed in any case thirty-fortieths of such average annual pay received: Provided further, That the retirement pay computed under the preceding proviso for any such officer or employee retiring under clause (3) shall be reduced by one-sixth of 1 per centum for each full month the officer or employee is under fifty-five years of age at the date of retirement: Provided further, That such retirement pay shall not include any amount on account of subsistence or other allowance: Provided further, That the retirement provisions and pay shall not apply to persons in the field service of the Lighthouse Service whose duties do not require substantially all their time. Any person entitled to retirement pay under this section may decline to accept all or any part of such retirement pay by a waiver signed and filed with the Secretary of the Treasury. Such waiver may be revoked in writing at any time, but no payment of the retirement pay waived shall be made covering the period during which such waiver was in effect.
 
-([June 20, 1918, ch. 103, § 6][/us/act/1918-06-20/ch103/s6], [40 Stat. 608][/us/stat/40/608]; [Nov. 4, 1918, ch. 201, § 1][/us/act/1918-11-04/ch201/s1], [40 Stat. 1036][/us/stat/40/1036]; [June 21, 1955, ch. 170, § 1][/us/act/1955-06-21/ch170/s1], [69 Stat. 166][/us/stat/69/166]; [Pub. L. 85–142][/us/pl/85/142], Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 90–164, § 1][/us/pl/90/164/s1], Nov. 29, 1967, [81 Stat. 519][/us/stat/81/519]; [Pub. L. 92–455, § 6(a)][/us/pl/92/455/s6/a], Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761].)
+([June 20, 1918, ch. 103][/us/act/1918-06-20/ch103], § 6, [40 Stat. 608][/us/stat/40/608]; [Nov. 4, 1918, ch. 201][/us/act/1918-11-04/ch201], § 1, [40 Stat. 1036][/us/stat/40/1036]; [June 21, 1955, ch. 170][/us/act/1955-06-21/ch170], § 1, [69 Stat. 166][/us/stat/69/166]; [Pub. L. 85–142][/us/pl/85/142], Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 90–164][/us/pl/90/164], § 1, Nov. 29, 1967, [81 Stat. 519][/us/stat/81/519]; [Pub. L. 92–455][/us/pl/92/455], § 6(a), Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761].)
 
  __Codification__ 
 
@@ -35,19 +35,19 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–455, § 6(b)][/us/pl/92/455/s6/b], Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761], provided that: 
+[Pub. L. 92–455][/us/pl/92/455], § 6(b), Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to officers and employees to which such section 6 \[amending this section\] applies who are involuntarily separated or retired on or after the date of the enactment of this Act \[Oct. 2, 1972\].”
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–164, § 2][/us/pl/90/164/s2], Nov. 29, 1967, [81 Stat. 519][/us/stat/81/519], provided that: 
+[Pub. L. 90–164][/us/pl/90/164], § 2, Nov. 29, 1967, [81 Stat. 519][/us/stat/81/519], provided that: 
 
 > “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second month which begins after the date of enactment of this Act \[Nov. 29, 1967\].”
 
  __Effective Date of 1955 Amendment__ 
 
-[Act June 21, 1955, ch. 170, § 2][/us/act/1955-06-21/ch170/s2], [69 Stat. 167][/us/stat/69/167], provided that: 
+[Act June 21, 1955, ch. 170][/us/act/1955-06-21/ch170], § 2, [69 Stat. 167][/us/stat/69/167], provided that: 
 
 > “This Act \[amending this section\] shall take effect on the first day of the second month beginning after the date of enactment of this Act \[June 21, 1955\].”
 
@@ -57,7 +57,7 @@
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
-    Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3]. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
+    Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3]. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
@@ -97,35 +97,35 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s754a.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
+[Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s755...762.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s763–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763)
 
 ----------
 ----------
 
-[/us/act/1918-06-20/ch103/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103%2Fs6
+[/us/act/1918-06-20/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-06-20%2Fch103
 [/us/stat/40/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F608
-[/us/act/1918-11-04/ch201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-04%2Fch201%2Fs1
+[/us/act/1918-11-04/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-04%2Fch201
 [/us/stat/40/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1036
-[/us/act/1955-06-21/ch170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch170%2Fs1
+[/us/act/1955-06-21/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch170
 [/us/stat/69/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F166
 [/us/pl/85/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F142
 [/us/stat/71/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F365
-[/us/pl/90/164/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F164%2Fs1
+[/us/pl/90/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F164
 [/us/stat/81/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F519
-[/us/pl/92/455/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455%2Fs6%2Fa
+[/us/pl/92/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455
 [/us/stat/86/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F761
 [/us/pl/92/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455
 [/us/pl/90/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F164
 [/us/pl/85/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F142
-[/us/pl/92/455/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455%2Fs6%2Fb
+[/us/pl/92/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455
 [/us/stat/86/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F761
-[/us/pl/90/164/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F164%2Fs2
+[/us/pl/90/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F164
 [/us/stat/81/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F519
-[/us/act/1955-06-21/ch170/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch170%2Fs2
+[/us/act/1955-06-21/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch170
 [/us/stat/69/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F167
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

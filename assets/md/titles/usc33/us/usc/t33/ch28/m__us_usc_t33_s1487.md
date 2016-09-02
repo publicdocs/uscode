@@ -17,7 +17,7 @@
 
     This chapter shall be effective upon February 5, 1974, or upon the date the convention becomes effective as to the United States, whichever is later.
 
-([Pub. L. 93–248, § 18][/us/pl/93/248/s18], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
+([Pub. L. 93–248][/us/pl/93/248], § 18, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–302, § 2][/us/pl/95/302/s2], June 26, 1978, [92 Stat. 345][/us/stat/92/345], provided that: 
+[Pub. L. 95–302][/us/pl/95/302], § 2, June 26, 1978, [92 Stat. 345][/us/stat/92/345], provided that: 
 
 > “This Act \[amending sections 1471 to 1473, 1479, 1482, and 1484 of this title\] shall be effective upon the date of enactment \[June 26, 1978\], or upon the date the protocol becomes effective as to the United States, whichever is later.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/93/248/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs18
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/95/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs2
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F345
 
 

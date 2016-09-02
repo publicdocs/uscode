@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t33/ch14/m__us_usc_t33_s680.md) | [Next](./../../../..//us/usc/t33/ch14/m__us_usc_t33_s682.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs681)
 
-## § 681. Repealed. [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792]
+## § 681. Repealed. [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792]
 
-    Section, [act Mar. 1, 1893, ch. 183, § 21][/us/act/1893-03-01/ch183/s21], [27 Stat. 510][/us/stat/27/510]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100], authorized the commission to use any of the public lands, etc., of the United States, and the withdrawal of lands, etc., required from sale or entry.
+    Section, [act Mar. 1, 1893, ch. 183][/us/act/1893-03-01/ch183], § 21, [27 Stat. 510][/us/stat/27/510]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100], authorized the commission to use any of the public lands, etc., of the United States, and the withdrawal of lands, etc., required from sale or entry.
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792], provided that the repeal is effective on and after Oct. 21, 1976.
+    [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792], provided that the repeal is effective on and after Oct. 21, 1976.
 
  __Savings Provision__ 
 
@@ -32,12 +32,12 @@
 ----------
 ----------
 
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
-[/us/act/1893-03-01/ch183/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183%2Fs21
+[/us/act/1893-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183
 [/us/stat/27/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F510
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/pl/94/579/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs701%2Fa

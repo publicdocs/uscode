@@ -23,7 +23,7 @@
 
         Within one year after October 29, 1992, the Comptroller General of the United States shall provide a report to Congress, in consultation with the Secretary, comparing the cost-efficiency, accounting, and operating practices of the vessels of NOAA, UNOLS, other Federal agencies, and the United States private sector in meeting the missions of NOAA.
 
-([Pub. L. 102–567, title VI, § 608][/us/pl/102/567/s608], Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 608, Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs608
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4303
 
 

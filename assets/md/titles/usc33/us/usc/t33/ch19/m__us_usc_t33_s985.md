@@ -19,17 +19,17 @@
 
     (b) Effective as of October 21, 1970, the obligations of the Corporation incurred under subsection (a) of this section shall bear no interest, and the obligation of the Corporation to pay the unpaid interest which has accrued on such obligations is terminated.
 
-([May 13, 1954, ch. 201, § 5][/us/act/1954-05-13/ch201/s5], [68 Stat. 94][/us/stat/68/94]; [Pub. L. 85–108, § 1(4)][/us/pl/85/108/s1/4], July 17, 1957, [71 Stat. 307][/us/stat/71/307]; [Pub. L. 91–469, § 43(a)][/us/pl/91/469/s43/a], Oct. 21, 1970, [84 Stat. 1038][/us/stat/84/1038].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 5, [68 Stat. 94][/us/stat/68/94]; [Pub. L. 85–108][/us/pl/85/108], § 1(4), July 17, 1957, [71 Stat. 307][/us/stat/71/307]; [Pub. L. 91–469][/us/pl/91/469], § 43(a), Oct. 21, 1970, [84 Stat. 1038][/us/stat/84/1038].)
 
  __Codification__ 
 
-    In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1970—Subsec. (a). [Pub. L. 91–469, § 43(a)(1)][/us/pl/91/469/s43/a/1], designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of the Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
+    1970—Subsec. (a). [Pub. L. 91–469][/us/pl/91/469], § 43(a)(1), designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of the Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
 
-    Subsec. (b). [Pub. L. 91–469, § 43(a)(2)][/us/pl/91/469/s43/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 91–469][/us/pl/91/469], § 43(a)(2), added subsec. (b).
 
     1957—[Pub. L. 85–108][/us/pl/85/108] increased Corporation’s borrowing authority from $105,000,000 to $140,000,000; omitted first year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
 
@@ -40,16 +40,16 @@
 ----------
 ----------
 
-[/us/act/1954-05-13/ch201/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs5
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F94
-[/us/pl/85/108/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108%2Fs1%2F4
+[/us/pl/85/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108
 [/us/stat/71/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F307
-[/us/pl/91/469/s43/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469%2Fs43%2Fa
+[/us/pl/91/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469
 [/us/stat/84/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1038
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/91/469/s43/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469%2Fs43%2Fa%2F1
-[/us/pl/91/469/s43/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469%2Fs43%2Fa%2F2
+[/us/pl/91/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469
+[/us/pl/91/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469
 [/us/pl/85/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F108
 
 

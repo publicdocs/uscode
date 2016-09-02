@@ -17,7 +17,7 @@
 
     Those portions of the Trent River in the city of New Bern, county of Craven, State of North Carolina, bounded and described in Committee Print 95–56 of the Committee on Public Works and Transportation of the House of Representatives are hereby declared to be nonnavigable waters of the United States within the meaning of the laws of the United States.
 
-([Pub. L. 96–520, § 3][/us/pl/96/520/s3], Dec. 12, 1980, [94 Stat. 3036][/us/stat/94/3036].)
+([Pub. L. 96–520][/us/pl/96/520], § 3, Dec. 12, 1980, [94 Stat. 3036][/us/stat/94/3036].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/520/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F520%2Fs3
+[/us/pl/96/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F520
 [/us/stat/94/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3036
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

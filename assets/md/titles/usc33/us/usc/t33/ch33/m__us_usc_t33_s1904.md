@@ -61,25 +61,25 @@
 
         A ship unreasonably detained or delayed by the Secretary acting under the authority of this chapter is entitled to compensation for any loss or damage suffered thereby.
 
-([Pub. L. 96–478, § 5][/us/pl/96/478/s5], Oct. 21, 1980, [94 Stat. 2298][/us/stat/94/2298]; [Pub. L. 110–280, § 6][/us/pl/110/280/s6], July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
+([Pub. L. 96–478][/us/pl/96/478], § 5, Oct. 21, 1980, [94 Stat. 2298][/us/stat/94/2298]; [Pub. L. 110–280][/us/pl/110/280], § 6, July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
 
  __References in Text__ 
 
-    Section 4367 of the Revised Statutes of the United States ([46 U.S.C. 313][/us/usc/t46/s313]), referred to in subsec. (f)(2), was classified to section 313 of the former Appendix to Title 46, Shipping, prior to repeal by [Pub. L. 103–182, title VI, § 690(a)(21)][/us/pl/103/182/s690/a/21], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    Section 4367 of the Revised Statutes of the United States ([46 U.S.C. 313][/us/usc/t46/s313]), referred to in subsec. (f)(2), was classified to section 313 of the former Appendix to Title 46, Shipping, prior to repeal by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(a)(21), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
  __Codification__ 
 
-    In subsec. (f)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States, as amended ([46 U.S.C. 91][/us/usc/t46/s91])” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (f)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States, as amended ([46 U.S.C. 91][/us/usc/t46/s91])” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
-    [Section 1443 of title 19][/us/usc/t19/s1443], referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended ([19 U.S.C. 1443][/us/usc/t19/s1443]). Although section 442 of the Tariff Act of 1930, [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, [46 Stat. 713][/us/stat/46/713], is classified to [section 1442 of Title 19][/us/usc/t19/s1442], Customs Duties, the reference was translated as meaning section 443 of the Tariff Act of 1930, which was classified to [section 1443 of title 19][/us/usc/t19/s1443] prior to repeal by [Pub. L. 103–182, title VI, § 690(b)(6)][/us/pl/103/182/s690/b/6], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    [Section 1443 of title 19][/us/usc/t19/s1443], referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended ([19 U.S.C. 1443][/us/usc/t19/s1443]). Although section 442 of the Tariff Act of 1930, [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, [46 Stat. 713][/us/stat/46/713], is classified to [section 1442 of Title 19][/us/usc/t19/s1442], Customs Duties, the reference was translated as meaning section 443 of the Tariff Act of 1930, which was classified to [section 1443 of title 19][/us/usc/t19/s1443] prior to repeal by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(b)(6), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–280, § 6(1)][/us/pl/110/280/s6/1], substituted “Except as provided in [section 1903(b)(1) of this title][/us/usc/t33/s1903/b/1], the Secretary” for “The Secretary”.
+    2008—Subsec. (a). [Pub. L. 110–280][/us/pl/110/280], § 6(1), substituted “Except as provided in [section 1903(b)(1) of this title][/us/usc/t33/s1903/b/1], the Secretary” for “The Secretary”.
 
-    Subsec. (b). [Pub. L. 110–280, § 6(2)][/us/pl/110/280/s6/2], substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
+    Subsec. (b). [Pub. L. 110–280][/us/pl/110/280], § 6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
 
-    Subsec. (e). [Pub. L. 110–280, § 6(3)][/us/pl/110/280/s6/3], substituted “environment or the public health and welfare.” for “environment.” in concluding provisions.
+    Subsec. (e). [Pub. L. 110–280][/us/pl/110/280], § 6(3), substituted “environment or the public health and welfare.” for “environment.” in concluding provisions.
 
  __Effective Date__ 
 
@@ -96,16 +96,16 @@
 [/us/usc/t33/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1908
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t46/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs313
-[/us/pl/96/478/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs5
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2298
-[/us/pl/110/280/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs6
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2614
 [/us/usc/t46/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs313
-[/us/pl/103/182/s690/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fa%2F21
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t46/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs91
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t19/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1443
@@ -114,12 +114,12 @@
 [/us/stat/46/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F713
 [/us/usc/t19/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1442
 [/us/usc/t19/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1443
-[/us/pl/103/182/s690/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F6
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
-[/us/pl/110/280/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs6%2F1
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/usc/t33/s1903/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1903%2Fb%2F1
-[/us/pl/110/280/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs6%2F2
-[/us/pl/110/280/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs6%2F3
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/pl/96/478/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs14%2Fb
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
 

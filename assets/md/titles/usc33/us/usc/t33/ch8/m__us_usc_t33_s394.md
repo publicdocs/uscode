@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4303 derived from [act June 11, 1864, ch. 121, § 7][/us/act/1864-06-11/ch121/s7], [13 Stat. 125][/us/stat/13/125].
+    R.S. § 4303 derived from [act June 11, 1864, ch. 121][/us/act/1864-06-11/ch121], § 7, [13 Stat. 125][/us/stat/13/125].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1864-06-11/ch121/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch121%2Fs7
+[/us/act/1864-06-11/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch121
 [/us/stat/13/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F125
 
 

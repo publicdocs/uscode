@@ -593,7 +593,7 @@
 
         The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
 
-([Pub. L. 110–114, title II, § 2045][/us/pl/110/114/s2045], Nov. 8, 2007, [121 Stat. 1103][/us/stat/121/1103]; [Pub. L. 113–121, title I, § 1005(a)(1)][/us/pl/113/121/s1005/a/1], June 10, 2014, [128 Stat. 1199][/us/stat/128/1199].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2045, Nov. 8, 2007, [121 Stat. 1103][/us/stat/121/1103]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1005(a)(1), June 10, 2014, [128 Stat. 1199][/us/stat/128/1199].)
 
  __References in Text__ 
 
@@ -638,9 +638,9 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/110/114/s2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2045
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1103
-[/us/pl/113/121/s1005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1005%2Fa%2F1
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1199
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

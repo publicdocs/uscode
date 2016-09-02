@@ -17,7 +17,7 @@
 
     The Director of the Office of Personnel Management shall perform, or cause to be performed, such acts, and shall make such rules and regulations, as may be necessary or proper to carry out the provisions of sections 771 to 775 of this title.
 
-([Aug. 19, 1950, ch. 761, § 4][/us/act/1950-08-19/ch761/s4], [64 Stat. 466][/us/stat/64/466]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Aug. 19, 1950, ch. 761][/us/act/1950-08-19/ch761], § 4, [64 Stat. 466][/us/stat/64/466]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-19/ch761/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761%2Fs4
+[/us/act/1950-08-19/ch761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch761
 [/us/stat/64/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F466
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

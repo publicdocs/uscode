@@ -39,7 +39,7 @@
 
         (2) the jurisdiction of the district courts of the United States with respect to civil actions under admiralty and maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.
 
-([Pub. L. 101–380, title VI, § 6001][/us/pl/101/380/s6001], Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554].)
+([Pub. L. 101–380, title VI][/us/pl/101/380/tVI], § 6001, Aug. 18, 1990, [104 Stat. 554][/us/stat/104/554].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/380/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs6001
+[/us/pl/101/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtVI
 [/us/stat/104/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F554
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

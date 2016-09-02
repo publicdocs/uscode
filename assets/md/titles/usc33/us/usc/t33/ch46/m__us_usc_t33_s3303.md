@@ -81,13 +81,13 @@
 
             In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the tribal government, as applicable, requests an exemption from the review.
 
-([Pub. L. 110–114, title IX, § 9004][/us/pl/110/114/s9004], Nov. 8, 2007, [121 Stat. 1290][/us/stat/121/1290]; [Pub. L. 113–121, title III, § 3016(d)][/us/pl/113/121/s3016/d], June 10, 2014, [128 Stat. 1292][/us/stat/128/1292].)
+([Pub. L. 110–114, title IX][/us/pl/110/114/tIX], § 9004, Nov. 8, 2007, [121 Stat. 1290][/us/stat/121/1290]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3016(d), June 10, 2014, [128 Stat. 1292][/us/stat/128/1292].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(A). [Pub. L. 113–121, § 3016(d)(1)][/us/pl/113/121/s3016/d/1], substituted “and updated levee information provided by States, Indian tribes, Federal agencies, and other entities” for “and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies”.
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–121][/us/pl/113/121], § 3016(d)(1), substituted “and updated levee information provided by States, Indian tribes, Federal agencies, and other entities” for “and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies”.
 
-    Subsec. (c). [Pub. L. 113–121, § 3016(d)(2)][/us/pl/113/121/s3016/d/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 113–121][/us/pl/113/121], § 3016(d)(2), added subsec. (c).
 
  __“Secretary” Defined__ 
 
@@ -101,12 +101,12 @@
 ----------
 
 [/us/usc/t33/s701n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701n
-[/us/pl/110/114/s9004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs9004
+[/us/pl/110/114/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtIX
 [/us/stat/121/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1290
-[/us/pl/113/121/s3016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fd
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1292
-[/us/pl/113/121/s3016/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fd%2F1
-[/us/pl/113/121/s3016/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3016%2Fd%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

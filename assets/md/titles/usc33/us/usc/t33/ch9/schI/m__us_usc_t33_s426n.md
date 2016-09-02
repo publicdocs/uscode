@@ -25,7 +25,7 @@
 
     (b) The non-Federal share of the cost of any designs, plans, specifications or technical assistance provided under subsection (a) of this section shall be 50 percent.
 
-([Pub. L. 99–662, title IX, § 942][/us/pl/99/662/s942], Nov. 17, 1986, [100 Stat. 4199][/us/stat/100/4199].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 942, Nov. 17, 1986, [100 Stat. 4199][/us/stat/100/4199].)
 
  __“Secretary” Defined__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs942
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4199
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

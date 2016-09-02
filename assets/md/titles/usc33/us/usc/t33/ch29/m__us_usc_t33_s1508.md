@@ -35,7 +35,7 @@
 
         The consent of Congress is given to two or more coastal States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, (1) to apply for a license for the ownership, construction, and operation of a deepwater port or for the transfer of such license, and (2) to establish such agencies, joint or otherwise, as are deemed necessary or appropriate for implementing and carrying out the provisions of any such agreement or compact. Such agreement or compact shall be binding and obligatory upon any State or party thereto without further approval by Congress.
 
-([Pub. L. 93–627, § 9][/us/pl/93/627/s9], Jan. 3, 1975, [88 Stat. 2136][/us/stat/88/2136].)
+([Pub. L. 93–627][/us/pl/93/627], § 9, Jan. 3, 1975, [88 Stat. 2136][/us/stat/88/2136].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t33/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1504%2Fc
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t16/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1454
-[/us/pl/93/627/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs9
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2136
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583

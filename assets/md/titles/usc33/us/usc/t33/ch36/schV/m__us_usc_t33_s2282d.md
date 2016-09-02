@@ -223,7 +223,7 @@
 
             The term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42][/us/usc/t42/s1962d–5b].
 
-([Pub. L. 113–121, title VII, § 7001][/us/pl/113/121/s7001], June 10, 2014, [128 Stat. 1360][/us/stat/128/1360].)
+([Pub. L. 113–121, title VII][/us/pl/113/121/tVII], § 7001, June 10, 2014, [128 Stat. 1360][/us/stat/128/1360].)
 
  __Codification__ 
 
@@ -244,7 +244,7 @@
 [/us/usc/t33/s2215/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2215%2Fd%2F2
 [/us/usc/t33/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2215
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/113/121/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs7001
+[/us/pl/113/121/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtVII
 [/us/stat/128/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1360
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

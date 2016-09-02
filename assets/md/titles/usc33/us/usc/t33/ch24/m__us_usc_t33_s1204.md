@@ -17,7 +17,7 @@
 
     The radiotelephone required by this chapter is for the exclusive use of the master or person in charge of the vessel, or the person designated by the master or person in charge to pilot or direct the movement of the vessel, who shall maintain a listening watch on the designated frequency. Nothing contained herein shall be interpreted as precluding the use of portable radiotelephone equipment to satisfy the requirements of this chapter.
 
-([Pub. L. 92–63, § 5][/us/pl/92/63/s5], Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
+([Pub. L. 92–63][/us/pl/92/63], § 5, Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/63/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs5
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F165
 
 

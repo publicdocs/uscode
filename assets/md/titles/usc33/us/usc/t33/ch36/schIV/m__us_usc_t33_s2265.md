@@ -19,7 +19,7 @@
 
     (b) For a period of 5 years after November 17, 1986, no Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Arkansas River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 
-([Pub. L. 99–662, title VII, § 715][/us/pl/99/662/s715], Nov. 17, 1986, [100 Stat. 4161][/us/stat/100/4161].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 715, Nov. 17, 1986, [100 Stat. 4161][/us/stat/100/4161].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs715
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4161
 
 

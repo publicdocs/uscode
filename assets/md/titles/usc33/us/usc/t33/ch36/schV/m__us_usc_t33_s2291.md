@@ -19,7 +19,7 @@
 
     (b) Prior to execution of an agreement pursuant to subsection (a) of this section, the Secretary shall require and approve a study from the State or political subdivision demonstrating that the revenues to be derived from a contract under this section, or an agreement with a Federal Project Repayment District, will be sufficient to equal or exceed the cost recovery requirements over the term of repayment required by Federal law.
 
-([Pub. L. 99–662, title IX, § 916][/us/pl/99/662/s916], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 100–676, § 15][/us/pl/100/676/s15], Nov. 17, 1988, [102 Stat. 4026][/us/stat/102/4026].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 916, Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 100–676][/us/pl/100/676], § 15, Nov. 17, 1988, [102 Stat. 4026][/us/stat/102/4026].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/99/662/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs916
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/100/676/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs15
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4026
 [/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 

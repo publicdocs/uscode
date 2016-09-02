@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized to purchase, from the appropriation for the National Ocean Survey, provisions, clothing, and small stores for the enlisted men, and food supplies for field parties working in remote localities, such provisions, clothing, small stores, and food supplies to be sold to the employees of said survey and the appropriation reimbursed.
 
-([Mar. 3, 1901, ch. 853, § 1][/us/act/1901-03-03/ch853/s1], [31 Stat. 1144][/us/stat/31/1144]; [Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 826][/us/stat/32/826].)
+([Mar. 3, 1901, ch. 853][/us/act/1901-03-03/ch853], § 1, [31 Stat. 1144][/us/stat/31/1144]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 826][/us/stat/32/826].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch853/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch853%2Fs1
+[/us/act/1901-03-03/ch853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch853
 [/us/stat/31/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1144
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/usc/t31/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs661
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

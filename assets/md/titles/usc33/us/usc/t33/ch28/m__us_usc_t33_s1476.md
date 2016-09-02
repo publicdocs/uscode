@@ -17,7 +17,7 @@
 
     In cases of extreme urgency requiring measures to be taken immediately, the Secretary may take those measures rendered necessary by the urgency of the situation without the prior consultation or notification as required by [section 1475 of this title][/us/usc/t33/s1475] or without the continuation of consultations already begun.
 
-([Pub. L. 93–248, § 7][/us/pl/93/248/s7], Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9].)
+([Pub. L. 93–248][/us/pl/93/248], § 7, Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1475
-[/us/pl/93/248/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs7
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F9
 
 

@@ -31,7 +31,7 @@
 
         A retirement or separation under subsection (a) of this section shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
 
-([Pub. L. 107–372, title II, § 241][/us/pl/107/372/s241], Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 241, Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t33/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3022
-[/us/pl/107/372/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs241
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3088
 [/us/usc/t33/s853g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853g
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

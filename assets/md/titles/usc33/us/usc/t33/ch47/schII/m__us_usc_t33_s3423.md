@@ -23,7 +23,7 @@
 
         The Director shall develop the overall direction of the program in coordination with a Council of Center Directors comprised of the directors of the extramural regional centers and the National Institute for Undersea Science and Technology. The Director shall publish a draft program direction document not later than 1 year after March 30, 2009, in the Federal Register for a public comment period of not less than 120 days. The Director shall publish a final program direction, including responses to the comments received during the public comment period, in the Federal Register within 90 days after the close of the comment period. The program director shall update the program direction, with opportunity for public comment, at least every 5 years.
 
-([Pub. L. 111–11, title XII, § 12104][/us/pl/111/11/s12104], Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12104, Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12104
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1419
 
 

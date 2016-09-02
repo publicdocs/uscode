@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out this subchapter, but sums appropriated for any one fiscal year shall not exceed $1,200,000.
 
-([Pub. L. 89–454, title I, § 9][/us/pl/89/454/s9], June 17, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 89–688, § 2(b)][/us/pl/89/688/s2/b], Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001]; [Pub. L. 91–15, § 2][/us/pl/91/15/s2], May 23, 1969, [83 Stat. 10][/us/stat/83/10].)
+([Pub. L. 89–454, title I][/us/pl/89/454/tI], § 9, June 17, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 89–688][/us/pl/89/688], § 2(b), Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001]; [Pub. L. 91–15][/us/pl/91/15], § 2, May 23, 1969, [83 Stat. 10][/us/stat/83/10].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/89/454/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs9
+[/us/pl/89/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtI
 [/us/stat/80/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F208
-[/us/pl/89/688/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688%2Fs2%2Fb
+[/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 [/us/stat/80/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1001
-[/us/pl/91/15/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F15%2Fs2
+[/us/pl/91/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F15
 [/us/stat/83/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F10
 [/us/pl/91/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F15
 [/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688

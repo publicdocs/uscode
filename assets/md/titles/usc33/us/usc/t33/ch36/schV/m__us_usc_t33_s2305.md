@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, Federal assistance made available by the Farmers Home Administration may be used to pay the non-Federal share of any other Federal grant-in-aid program for any project for water resources, including water pollution control.
 
-([Pub. L. 99–662, title IX, § 950][/us/pl/99/662/s950], Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 950, Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs950
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4201
 
 

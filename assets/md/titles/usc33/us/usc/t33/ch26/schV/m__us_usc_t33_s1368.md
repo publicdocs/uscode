@@ -39,13 +39,13 @@
 
         (2) In paragraph (1), the term “commercial item” has the meaning given such term in [section 103 of title 41][/us/usc/t41/s103].
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 508, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 891][/us/stat/86/891]; amended [Pub. L. 103–355, title VIII, § 8301(a)][/us/pl/103/355/s8301/a], Oct. 13, 1994, [108 Stat. 3396][/us/stat/108/3396].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 508, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 891][/us/stat/86/891]; amended [Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8301(a), Oct. 13, 1994, [108 Stat. 3396][/us/stat/108/3396].)
 
  __Codification__ 
 
     Subsec. (c) of this section authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
 
-    In subsec. (f)(2), “[section 103 of title 41][/us/usc/t41/s103]” substituted for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)][/us/usc/t41/s403/12])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f)(2), “[section 103 of title 41][/us/usc/t41/s103]” substituted for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)][/us/usc/t41/s403/12])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 [/us/usc/t33/s1319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fc
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F891
-[/us/pl/103/355/s8301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8301%2Fa
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3396
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

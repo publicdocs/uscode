@@ -41,7 +41,7 @@
 
             There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
 
-([Pub. L. 101–380, title VII, § 7002][/us/pl/101/380/s7002], as added [Pub. L. 109–241, title VI, § 605(a)(2)][/us/pl/109/241/s605/a/2], July 11, 2006, [120 Stat. 555][/us/stat/120/555].)
+([Pub. L. 101–380, title VII][/us/pl/101/380/tVII], § 7002, as added [Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 605(a)(2), July 11, 2006, [120 Stat. 555][/us/stat/120/555].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/101/380/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs7002
-[/us/pl/109/241/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs605%2Fa%2F2
+[/us/pl/101/380/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtVII
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F555
 
 

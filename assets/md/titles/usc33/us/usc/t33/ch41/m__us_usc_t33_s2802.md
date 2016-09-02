@@ -29,7 +29,7 @@
 
     (6) “Under Secretary” means Under Secretary of Commerce for Oceans and Atmosphere.
 
-([Pub. L. 92–532, title V, § 502][/us/pl/92/532/s502], as added [Pub. L. 102–567, title V, § 501][/us/pl/102/567/s501], Oct. 29, 1992, [106 Stat. 4294][/us/stat/106/4294].)
+([Pub. L. 92–532, title V][/us/pl/92/532/tV], § 502, as added [Pub. L. 102–567, title V][/us/pl/102/567/tV], § 501, Oct. 29, 1992, [106 Stat. 4294][/us/stat/106/4294].)
 
  __Territorial Sea and Contiguous Zone of United States__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/92/532/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs502
-[/us/pl/102/567/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs501
+[/us/pl/92/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtV
+[/us/pl/102/567/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtV
 [/us/stat/106/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4294
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

@@ -17,7 +17,7 @@
 
     For the purposes of [section 401 of this title][/us/usc/t33/s401], the portion of the Green River in the State of Washington lying upstream from that State Highway 516 bridge which is in existence on October 26, 1981, is hereby declared to be not a navigable waterway.
 
-([Pub. L. 97–68, § 2(b)][/us/pl/97/68/s2/b], Oct. 26, 1981, [95 Stat. 1040][/us/stat/95/1040].)
+([Pub. L. 97–68][/us/pl/97/68], § 2(b), Oct. 26, 1981, [95 Stat. 1040][/us/stat/95/1040].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/97/68/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F68%2Fs2%2Fb
+[/us/pl/97/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F68
 [/us/stat/95/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1040
 
 

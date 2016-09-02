@@ -37,7 +37,7 @@
 
         (4) a 5-year and 10-year projection of construction backlog and any recommendations to Congress regarding how to mitigate current problems and the backlog.
 
-([Pub. L. 113–121, title VI, § 6003][/us/pl/113/121/s6003], June 10, 2014, [128 Stat. 1349][/us/stat/128/1349].)
+([Pub. L. 113–121, title VI][/us/pl/113/121/tVI], § 6003, June 10, 2014, [128 Stat. 1349][/us/stat/128/1349].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6003
+[/us/pl/113/121/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtVI
 [/us/stat/128/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1349
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/stat/128/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1193

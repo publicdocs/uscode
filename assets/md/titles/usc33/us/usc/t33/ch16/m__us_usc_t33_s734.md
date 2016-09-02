@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s733.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s735.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs734)
 
-## § 734. Repealed. [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]
+## § 734. Repealed. [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561]
 
     Section, R.S. § 4678, related to coloring and numbering buoys.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
 
 

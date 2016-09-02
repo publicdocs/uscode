@@ -17,7 +17,7 @@
 
     In their execution and inspection of river and harbor improvement work, at points beyond easy reach of ordinary regular transportation lines, Engineer officers are authorized to hire and use such transportation as they may consider desirable and advantageous to the progress of work.
 
-([July 25, 1912, ch. 253, § 9][/us/act/1912-07-25/ch253/s9], [37 Stat. 233][/us/stat/37/233].)
+([July 25, 1912, ch. 253][/us/act/1912-07-25/ch253], § 9, [37 Stat. 233][/us/stat/37/233].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1912-07-25/ch253/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253%2Fs9
+[/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F233
 
 

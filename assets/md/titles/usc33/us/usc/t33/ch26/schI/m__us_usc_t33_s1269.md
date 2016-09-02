@@ -95,7 +95,7 @@
 
         (2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 119, as added [Pub. L. 101–596, title II, § 202][/us/pl/101/596/s202], Nov. 16, 1990, [104 Stat. 3004][/us/stat/104/3004]; amended [Pub. L. 104–303, title V, § 583][/us/pl/104/303/s583], Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791]; [Pub. L. 106–457, title IV][/us/pl/106/457], §§ 402—404, Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973]; [Pub. L. 109–137, § 1][/us/pl/109/137/s1], Dec. 22, 2005, [119 Stat. 2646][/us/stat/119/2646].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 119, as added [Pub. L. 101–596, title II][/us/pl/101/596/tII], § 202, Nov. 16, 1990, [104 Stat. 3004][/us/stat/104/3004]; amended [Pub. L. 104–303, title V][/us/pl/104/303/tV], § 583, Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791]; [Pub. L. 106–457, title IV][/us/pl/106/457/tIV], §§ 402—404, Nov. 7, 2000, [114 Stat. 1973][/us/stat/114/1973]; [Pub. L. 109–137][/us/pl/109/137], § 1, Dec. 22, 2005, [119 Stat. 2646][/us/stat/119/2646].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
     2005—Subsec. (f). [Pub. L. 109–137][/us/pl/109/137] substituted “2010” for “2005” in pars. (1) and (2).
 
-    2000—Subsec. (c)(1). [Pub. L. 106–457, § 402][/us/pl/106/457/s402], inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
+    2000—Subsec. (c)(1). [Pub. L. 106–457][/us/pl/106/457], § 402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
 
-    Subsec. (e). [Pub. L. 106–457, § 403(2)][/us/pl/106/457/s403/2], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–457][/us/pl/106/457], § 403(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
     Subsec. (f). [Pub. L. 106–457][/us/pl/106/457], §§ 403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
 
@@ -624,20 +624,20 @@
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/101/596/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs202
+[/us/pl/101/596/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtII
 [/us/stat/104/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3004
-[/us/pl/104/303/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs583
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3791
-[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtIV
 [/us/stat/114/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1973
-[/us/pl/109/137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F137%2Fs1
+[/us/pl/109/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F137
 [/us/stat/119/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2646
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
 [/us/pl/109/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F137
-[/us/pl/106/457/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs402
-[/us/pl/106/457/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs403%2F2
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
+[/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/pl/106/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/109/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F359

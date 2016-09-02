@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_ch6.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
+[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_s361...368.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
 
 ## CHAPTER 7—REGULATIONS FOR THE SUPPRESSION OF PIRACY
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_ch6.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
+[Previous](./../../../..//us/usc/t33/ch6/m__us_usc_t33_s361...368.md) | [Next](./../../../..//us/usc/t33/ch7/m__us_usc_t33_s381.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch7)
 
 ----------
 ----------

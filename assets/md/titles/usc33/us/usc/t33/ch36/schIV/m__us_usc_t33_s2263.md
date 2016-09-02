@@ -93,35 +93,35 @@
 
         In carrying out paragraph (4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-([Pub. L. 99–662, title VII, § 704][/us/pl/99/662/s704], Nov. 17, 1986, [100 Stat. 4157][/us/stat/100/4157]; [Pub. L. 104–303, title V, § 505][/us/pl/104/303/s505], Oct. 12, 1996, [110 Stat. 3757][/us/stat/110/3757]; [Pub. L. 106–541, title III, § 342][/us/pl/106/541/s342], Dec. 11, 2000, [114 Stat. 2612][/us/stat/114/2612]; [Pub. L. 107–66, title I, § 113][/us/pl/107/66/s113], Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]; [Pub. L. 109–103, title I, § 126][/us/pl/109/103/s126], Nov. 19, 2005, [119 Stat. 2259][/us/stat/119/2259]; [Pub. L. 110–114, title V, § 5021][/us/pl/110/114/s5021], Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202]; [Pub. L. 113–121, title IV, § 4010(b)][/us/pl/113/121/s4010/b], June 10, 2014, [128 Stat. 1318][/us/stat/128/1318].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 704, Nov. 17, 1986, [100 Stat. 4157][/us/stat/100/4157]; [Pub. L. 104–303, title V][/us/pl/104/303/tV], § 505, Oct. 12, 1996, [110 Stat. 3757][/us/stat/110/3757]; [Pub. L. 106–541, title III][/us/pl/106/541/tIII], § 342, Dec. 11, 2000, [114 Stat. 2612][/us/stat/114/2612]; [Pub. L. 107–66, title I][/us/pl/107/66/tI], § 113, Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]; [Pub. L. 109–103, title I][/us/pl/109/103/tI], § 126, Nov. 19, 2005, [119 Stat. 2259][/us/stat/119/2259]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5021, Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202]; [Pub. L. 113–121, title IV][/us/pl/113/121/tIV], § 4010(b), June 10, 2014, [128 Stat. 1318][/us/stat/128/1318].)
 
  __References in Text__ 
 
-    Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by [Pub. L. 107–66, title I, § 113(1)][/us/pl/107/66/s113/1], (2), Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]. Subsequently, [Pub. L. 110–114, title V, § 5021(1)][/us/pl/110/114/s5021/1], (2)(B), (3), Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202], redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
+    Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by [Pub. L. 107–66, title I][/us/pl/107/66/tI], § 113(1), (2), Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]. Subsequently, [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5021(1), (2)(B), (3), Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202], redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1). [Pub. L. 113–121, § 4010(b)(1)][/us/pl/113/121/s4010/b/1], substituted “$60,000,000” for “$50,000,000”.
+    2014—Subsec. (b)(1). [Pub. L. 113–121][/us/pl/113/121], § 4010(b)(1), substituted “$60,000,000” for “$50,000,000”.
 
-    Subsec. (b)(4)(B). [Pub. L. 113–121, § 4010(b)(2)][/us/pl/113/121/s4010/b/2], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.”
+    Subsec. (b)(4)(B). [Pub. L. 113–121][/us/pl/113/121], § 4010(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.”
 
-    2007—Subsec. (b)(1). [Pub. L. 110–114, § 5021(2)][/us/pl/110/114/s5021/2], substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
+    2007—Subsec. (b)(1). [Pub. L. 110–114][/us/pl/110/114], § 5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
 
-    Subsec. (b)(2). [Pub. L. 110–114, § 5021(2)(B)][/us/pl/110/114/s5021/2/B], designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
+    Subsec. (b)(2). [Pub. L. 110–114][/us/pl/110/114], § 5021(2)(B), designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
 
-    Subsec. (b)(2)(D). [Pub. L. 110–114, § 5021(3)][/us/pl/110/114/s5021/3], added subpar. (D) and struck out former subpar. (D) which read as follows: “the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.”
+    Subsec. (b)(2)(D). [Pub. L. 110–114][/us/pl/110/114], § 5021(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.”
 
-    Subsec. (b)(3), (4). [Pub. L. 110–114, § 5021(1)][/us/pl/110/114/s5021/1], (3), added par. (3) and redesignated par. (2) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 110–114][/us/pl/110/114], § 5021(1), (3), added par. (3) and redesignated par. (2) as (4).
 
-    Subsec. (b)(5). [Pub. L. 110–114, § 5021(4)][/us/pl/110/114/s5021/4], which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
+    Subsec. (b)(5). [Pub. L. 110–114][/us/pl/110/114], § 5021(4), which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
 
     2005—Subsec. (b)(1). [Pub. L. 109–103][/us/pl/109/103] substituted “$30,000,000” for “$20,000,000” in introductory provisions.
 
     2001—Subsec. (b). [Pub. L. 107–66][/us/pl/107/66] inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
 
-    2000—Subsec. (b). [Pub. L. 106–541, § 342(1)][/us/pl/106/541/s342/1], (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
+    2000—Subsec. (b). [Pub. L. 106–541][/us/pl/106/541], § 342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
 
-    Subsec. (b)(4). [Pub. L. 106–541, § 342(2)][/us/pl/106/541/s342/2], added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
+    Subsec. (b)(4). [Pub. L. 106–541][/us/pl/106/541], § 342(2), added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
 
     1996—Subsec. (b). [Pub. L. 104–303][/us/pl/104/303] substituted “$7,000,000” for “$5,000,000” in introductory provisions and inserted “and Virginia” after “Maryland” in par. (4).
 
@@ -136,35 +136,35 @@
 ----------
 ----------
 
-[/us/pl/99/662/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs704
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4157
-[/us/pl/104/303/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs505
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3757
-[/us/pl/106/541/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs342
+[/us/pl/106/541/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtIII
 [/us/stat/114/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2612
-[/us/pl/107/66/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2Fs113
+[/us/pl/107/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2FtI
 [/us/stat/115/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F496
-[/us/pl/109/103/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs126
+[/us/pl/109/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2FtI
 [/us/stat/119/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2259
-[/us/pl/110/114/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1202
-[/us/pl/113/121/s4010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb
+[/us/pl/113/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIV
 [/us/stat/128/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1318
-[/us/pl/107/66/s113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2Fs113%2F1
+[/us/pl/107/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2FtI
 [/us/stat/115/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F496
-[/us/pl/110/114/s5021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F1
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1202
-[/us/pl/113/121/s4010/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb%2F1
-[/us/pl/113/121/s4010/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb%2F2
-[/us/pl/110/114/s5021/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F2
-[/us/pl/110/114/s5021/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F2%2FB
-[/us/pl/110/114/s5021/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F3
-[/us/pl/110/114/s5021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F1
-[/us/pl/110/114/s5021/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F4
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
 [/us/pl/107/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66
-[/us/pl/106/541/s342/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs342%2F1
-[/us/pl/106/541/s342/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs342%2F2
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

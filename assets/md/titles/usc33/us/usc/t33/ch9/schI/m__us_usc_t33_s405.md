@@ -17,7 +17,7 @@
 
     The provisions of [section 404 of this title][/us/usc/t33/s404] are made applicable to the Potomac and Anacostia Rivers, and after July 25, 1912, harbor lines in the District of Columbia, or elsewhere on said rivers, shall be established or modified as therein provided.
 
-([July 25, 1912, ch. 253, § 1][/us/act/1912-07-25/ch253/s1], [37 Stat. 206][/us/stat/37/206].)
+([July 25, 1912, ch. 253][/us/act/1912-07-25/ch253], § 1, [37 Stat. 206][/us/stat/37/206].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs404
-[/us/act/1912-07-25/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253%2Fs1
+[/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F206
 
 

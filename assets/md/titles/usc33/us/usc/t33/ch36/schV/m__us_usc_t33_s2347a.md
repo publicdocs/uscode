@@ -35,7 +35,7 @@
 
                 An independent review carried out under subparagraph (A) shall be completed not later than 180 days after the date on which the Secretary receives an appeal from a non-Federal interest under paragraph (1).
 
-([Pub. L. 113–121, title I, § 1010][/us/pl/113/121/s1010], June 10, 2014, [128 Stat. 1217][/us/stat/128/1217].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1010, June 10, 2014, [128 Stat. 1217][/us/stat/128/1217].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1010
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1217
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

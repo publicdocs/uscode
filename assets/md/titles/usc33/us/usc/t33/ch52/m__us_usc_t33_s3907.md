@@ -171,7 +171,7 @@
 
         Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
-([Pub. L. 113–121, title V, § 5028][/us/pl/113/121/s5028], June 10, 2014, [128 Stat. 1335][/us/stat/128/1335]; [Pub. L. 114–94, div. A, title I, § 1445][/us/pl/114/94/s1445], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5028, June 10, 2014, [128 Stat. 1335][/us/stat/128/1335]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1445, Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __Amendments__ 
 
@@ -202,9 +202,9 @@
 [/us/usc/t33/s3902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3902%2Fb
 [/us/usc/t33/s3905/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905%2F1
 [/us/usc/t33/s3905/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905%2F8
-[/us/pl/113/121/s5028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5028
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1335
-[/us/pl/114/94/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1445
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

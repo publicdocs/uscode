@@ -29,7 +29,7 @@
 
             Work described in paragraph (1) may be carried out using amounts made available under subsection (a).
 
-([Pub. L. 113–121, title III, § 3012][/us/pl/113/121/s3012], June 10, 2014, [128 Stat. 1284][/us/stat/128/1284].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3012, June 10, 2014, [128 Stat. 1284][/us/stat/128/1284].)
 
  __“Secretary” Defined__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3012
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1284
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

@@ -19,15 +19,15 @@
 
     (b) There is established the Advisory Board of the Saint Lawrence Seaway Development Corporation which shall be composed of five members appointed by the President, by and with the advice and consent of the Senate, not more than three of whom shall belong to the same political party. The Advisory Board shall meet at the call of the Administrator, who shall require it to meet not less often than once each ninety days; shall review the general policies of the Corporation, including its policies in connection with design and construction of facilities and the establishment of rules of measurement for vessels and cargo and rates of charges or tolls; and shall advise the Administrator with respect thereto. Members of the Advisory Board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties, together with their necessary traveling expenses while going to and coming from meetings.
 
-([May 13, 1954, ch. 201, § 2][/us/act/1954-05-13/ch201/s2], [68 Stat. 93][/us/stat/68/93]; [Pub. L. 93–615, § 1][/us/pl/93/615/s1], Jan. 2, 1975, [88 Stat. 1977][/us/stat/88/1977]; [Pub. L. 112–166, § 2(x)][/us/pl/112/166/s2/x], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 2, [68 Stat. 93][/us/stat/68/93]; [Pub. L. 93–615][/us/pl/93/615], § 1, Jan. 2, 1975, [88 Stat. 1977][/us/stat/88/1977]; [Pub. L. 112–166][/us/pl/112/166], § 2(x), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate, for a term of seven years” before period at end of first sentence.
 
-    1975—Subsec. (a). [Pub. L. 93–615, § 1(a)][/us/pl/93/615/s1/a], amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
+    1975—Subsec. (a). [Pub. L. 93–615][/us/pl/93/615], § 1(a), amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
 
-    Subsecs. (b), (c). [Pub. L. 93–615, § 1(b)][/us/pl/93/615/s1/b], redesignated subsec. (c) as (b). Former subsec. (b), relating to the appointment and duties of a Deputy Administrator, was repealed.
+    Subsecs. (b), (c). [Pub. L. 93–615][/us/pl/93/615], § 1(b), redesignated subsec. (c) as (b). Former subsec. (b), relating to the appointment and duties of a Deputy Administrator, was repealed.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–615, § 2][/us/pl/93/615/s2], Jan. 2, 1975, [88 Stat. 1977][/us/stat/88/1977], provided that: 
+[Pub. L. 93–615][/us/pl/93/615], § 2, Jan. 2, 1975, [88 Stat. 1977][/us/stat/88/1977], provided that: 
 
 > “The amendments made to [section 2 of the Act of May 13, 1954][/us/act/1954-05-13/s2], by the first section of this Act \[amending this section\] shall (1) take effect upon the first appointment of an Administrator of the Saint Lawrence Seaway Development Corporation which is made after the date of enactment of this Act \[Jan. 2, 1975\], and (2) be applicable to such first appointment and to each subsequent appointment to such position.”
 
@@ -50,19 +50,19 @@
 ----------
 ----------
 
-[/us/act/1954-05-13/ch201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs2
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F93
-[/us/pl/93/615/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615%2Fs1
+[/us/pl/93/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615
 [/us/stat/88/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1977
-[/us/pl/112/166/s2/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fx
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/93/615/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615%2Fs1%2Fa
-[/us/pl/93/615/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615%2Fs1%2Fb
+[/us/pl/93/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615
+[/us/pl/93/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
-[/us/pl/93/615/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615%2Fs2
+[/us/pl/93/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F615
 [/us/stat/88/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1977
 [/us/act/1954-05-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fs2
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

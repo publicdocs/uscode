@@ -25,7 +25,7 @@
 
     (4) ensure that research and findings are available to the scientific community.
 
-([Pub. L. 109–424, § 6][/us/pl/109/424/s6], Dec. 20, 2006, [120 Stat. 2907][/us/stat/120/2907]; [Pub. L. 109–479, title VIII, § 806][/us/pl/109/479/s806], Jan. 12, 2007, [120 Stat. 3658][/us/stat/120/3658].)
+([Pub. L. 109–424][/us/pl/109/424], § 6, Dec. 20, 2006, [120 Stat. 2907][/us/stat/120/2907]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 806, Jan. 12, 2007, [120 Stat. 3658][/us/stat/120/3658].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t33/s3204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3204%2Fb
-[/us/pl/109/424/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs6
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2907
-[/us/pl/109/479/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs806
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3658
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

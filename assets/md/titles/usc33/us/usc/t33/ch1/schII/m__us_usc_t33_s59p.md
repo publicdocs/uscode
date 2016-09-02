@@ -17,7 +17,7 @@
 
     The Kenduskeag Stream, a minor tributary of the Penobscot River, located in Penobscot County, in the State of Maine, be, and the same is hereby, declared to be a nonnavigable waterway within the meaning of the Constitution and laws of the United States of America.
 
-([July 11, 1947, ch. 236, § 1][/us/act/1947-07-11/ch236/s1], [61 Stat. 316][/us/stat/61/316].)
+([July 11, 1947, ch. 236][/us/act/1947-07-11/ch236], § 1, [61 Stat. 316][/us/stat/61/316].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1947-07-11/ch236/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-11%2Fch236%2Fs1
+[/us/act/1947-07-11/ch236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-11%2Fch236
 [/us/stat/61/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F316
 
 

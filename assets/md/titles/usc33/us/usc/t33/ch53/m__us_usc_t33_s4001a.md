@@ -17,7 +17,7 @@
 
     In developing the assessments, reports, and plans under the amendments made by this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Task Force shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.
 
-([Pub. L. 108–456, title I, § 102][/us/pl/108/456/s102] (part), Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630].)
+([Pub. L. 108–456, title I][/us/pl/108/456/tI], § 102 (part), Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/108/456/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs102
+[/us/pl/108/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2FtI
 [/us/stat/118/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3630
 [/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
 [/us/stat/118/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3630

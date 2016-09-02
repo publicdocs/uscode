@@ -51,7 +51,7 @@
 
     (9) A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), or (7), for which an eligible entity, or a combination of eligible entities, submits a single application.
 
-([Pub. L. 113–121, title V, § 5026][/us/pl/113/121/s5026], June 10, 2014, [128 Stat. 1334][/us/stat/128/1334].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5026, June 10, 2014, [128 Stat. 1334][/us/stat/128/1334].)
 
  __“Secretary” Defined__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t33/s1383/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fc
 [/us/usc/t42/s300j–12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fa%2F2
-[/us/pl/113/121/s5026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5026
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1334
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

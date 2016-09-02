@@ -17,7 +17,7 @@
 
     [Section 558b of this title][/us/usc/t33/s558b] is made applicable to authorized works of flood control.
 
-([Aug. 11, 1939, ch. 699, § 3][/us/act/1939-08-11/ch699/s3], [53 Stat. 1414][/us/stat/53/1414].)
+([Aug. 11, 1939, ch. 699][/us/act/1939-08-11/ch699], § 3, [53 Stat. 1414][/us/stat/53/1414].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s558b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs558b
-[/us/act/1939-08-11/ch699/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch699%2Fs3
+[/us/act/1939-08-11/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch699
 [/us/stat/53/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1414
 
 

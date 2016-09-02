@@ -23,7 +23,7 @@
 
         There is hereby authorized to be appropriated to carry out this section, not to exceed $10,000,000 per fiscal year for the fiscal year ending June 30, 1966, and for each fiscal year thereafter through and including the fiscal year ending June 30, 1970.
 
-([Pub. L. 89–298, title II, § 217][/us/pl/89/298/s217], Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088].)
+([Pub. L. 89–298, title II][/us/pl/89/298/tII], § 217, Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/89/298/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs217
+[/us/pl/89/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtII
 [/us/stat/79/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1088
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552

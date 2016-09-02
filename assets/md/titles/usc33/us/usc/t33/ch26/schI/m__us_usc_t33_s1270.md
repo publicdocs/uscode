@@ -135,41 +135,41 @@
 
         (3) $11,000,000 for each of fiscal years 2004 through 2008.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 120, as added [Pub. L. 101–596, title III, § 303][/us/pl/101/596/s303], Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; amended [Pub. L. 107–303, title II, § 202][/us/pl/107/303/s202], Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 120, as added [Pub. L. 101–596, title III][/us/pl/101/596/tIII], § 303, Nov. 16, 1990, [104 Stat. 3006][/us/stat/104/3006]; amended [Pub. L. 107–303, title II][/us/pl/107/303/tII], § 202, Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358].)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–303, § 202(1)][/us/pl/107/303/s202/1], substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
+    2002—[Pub. L. 107–303][/us/pl/107/303], § 202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–303, § 202(1)][/us/pl/107/303/s202/1], (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (a). [Pub. L. 107–303][/us/pl/107/303], § 202(1), (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (d). [Pub. L. 107–303, § 202(3)][/us/pl/107/303/s202/3], struck out par. (1) designation before “The Management”.
+    Subsec. (d). [Pub. L. 107–303][/us/pl/107/303], § 202(3), struck out par. (1) designation before “The Management”.
 
-    Subsec. (e)(1). [Pub. L. 107–303, § 202(4)(A)][/us/pl/107/303/s202/4/A], struck out “(hereafter in this section referred to as the ‘Plan’)” after “restoration plan”.
+    Subsec. (e)(1). [Pub. L. 107–303][/us/pl/107/303], § 202(4)(A), struck out “(hereafter in this section referred to as the ‘Plan’)” after “restoration plan”.
 
-    Subsec. (e)(2)(F). [Pub. L. 107–303, § 202(4)(B)][/us/pl/107/303/s202/4/B], added subpar. (F).
+    Subsec. (e)(2)(F). [Pub. L. 107–303][/us/pl/107/303], § 202(4)(B), added subpar. (F).
 
-    Subsec. (f)(1). [Pub. L. 107–303, § 202(5)(A)][/us/pl/107/303/s202/5/A], substituted “participants in the Lake Champlain Basin Program,” for “the Management Conference,”.
+    Subsec. (f)(1). [Pub. L. 107–303][/us/pl/107/303], § 202(5)(A), substituted “participants in the Lake Champlain Basin Program,” for “the Management Conference,”.
 
-    Subsec. (f)(2). [Pub. L. 107–303, § 202(5)(B)][/us/pl/107/303/s202/5/B], substituted “development and implementation of the Plan” for “development of the Plan and for retaining expert consultants in support of litigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain”.
+    Subsec. (f)(2). [Pub. L. 107–303][/us/pl/107/303], § 202(5)(B), substituted “development and implementation of the Plan” for “development of the Plan and for retaining expert consultants in support of litigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain”.
 
-    Subsec. (g). [Pub. L. 107–303, § 202(6)(A)][/us/pl/107/303/s202/6/A], substituted “Definitions” for “ ‘Lake Champlain drainage basin’ defined” in subsec. heading, inserted introductory provisions, added par. (1), inserted par. (2) designation and heading after par. (1) and inserted “The term” before “ ‘Lake Champlain drainage”.
+    Subsec. (g). [Pub. L. 107–303][/us/pl/107/303], § 202(6)(A), substituted “Definitions” for “ ‘Lake Champlain drainage basin’ defined” in subsec. heading, inserted introductory provisions, added par. (1), inserted par. (2) designation and heading after par. (1) and inserted “The term” before “ ‘Lake Champlain drainage”.
 
-    Subsec. (g)(2). [Pub. L. 107–303, § 202(6)(B)][/us/pl/107/303/s202/6/B], inserted “Hamilton,” after “Franklin,” and “Bennington,” after “Rutland,”.
+    Subsec. (g)(2). [Pub. L. 107–303][/us/pl/107/303], § 202(6)(B), inserted “Hamilton,” after “Franklin,” and “Bennington,” after “Rutland,”.
 
-    Subsec. (g)(3). [Pub. L. 107–303, § 202(6)(C)][/us/pl/107/303/s202/6/C], added par. (3).
+    Subsec. (g)(3). [Pub. L. 107–303][/us/pl/107/303], § 202(6)(C), added par. (3).
 
-    Subsec. (h). [Pub. L. 107–303, § 202(7)][/us/pl/107/303/s202/7], added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Nothing in this section shall be construed so as to affect the jurisdiction or powers of—
+    Subsec. (h). [Pub. L. 107–303][/us/pl/107/303], § 202(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Nothing in this section shall be construed so as to affect the jurisdiction or powers of—
 
     “(1) any department or agency of the Federal Government or any State government; or
 
     “(2) any international organization or entity related to Lake Champlain created by treaty or memorandum to which the United States is a signatory.”
 
-    Subsec. (i). [Pub. L. 107–303, § 202(8)][/us/pl/107/303/s202/8], substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
+    Subsec. (i). [Pub. L. 107–303][/us/pl/107/303], § 202(8), substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
 
  __Federal Program Coordination__ 
 
-[Section 304 of Pub. L. 101–596][/us/pl/101/596/s304], as amended by [Pub. L. 104–127, title III, § 336(a)(2)(F)][/us/pl/104/127/s336/a/2/F], Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005], provided that:
+[Section 304 of Pub. L. 101–596][/us/pl/101/596/s304], as amended by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(a)(2)(F), Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005], provided that:
 
 >     “(a) __Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—__ 
 
@@ -247,24 +247,24 @@
 [/us/pl/101/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596
 [/us/usc/t33/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/101/596/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs303
+[/us/pl/101/596/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2FtIII
 [/us/stat/104/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3006
-[/us/pl/107/303/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202
+[/us/pl/107/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtII
 [/us/stat/116/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2358
-[/us/pl/107/303/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F1
-[/us/pl/107/303/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F1
-[/us/pl/107/303/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F3
-[/us/pl/107/303/s202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F4%2FA
-[/us/pl/107/303/s202/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F4%2FB
-[/us/pl/107/303/s202/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F5%2FA
-[/us/pl/107/303/s202/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F5%2FB
-[/us/pl/107/303/s202/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F6%2FA
-[/us/pl/107/303/s202/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F6%2FB
-[/us/pl/107/303/s202/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F6%2FC
-[/us/pl/107/303/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F7
-[/us/pl/107/303/s202/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs202%2F8
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
+[/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/pl/101/596/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596%2Fs304
-[/us/pl/104/127/s336/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F2%2FF
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1005
 [/us/usc/t33/s1270/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1270%2Fh
 [/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa

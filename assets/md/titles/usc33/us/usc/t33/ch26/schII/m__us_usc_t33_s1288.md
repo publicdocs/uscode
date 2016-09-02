@@ -199,7 +199,7 @@
 
         (9) There are hereby authorized to be appropriated to the Secretary of Agriculture $200,000,000 for fiscal year 1979, $400,000,000 for fiscal year 1980, $100,000,000 for fiscal year 1981, $100,000,000 for fiscal year 1982, and such sums as may be necessary for fiscal years 1983 through 1990, to carry out this subsection. The program authorized under this subsection shall be in addition to, and not in substitution of, other programs in such area authorized by this or any other public law.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 208, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 839][/us/stat/86/839]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566], 1576–1579; [Pub. L. 96–483, § 1(d)][/us/pl/96/483/s1/d], (e), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I, § 101(d)][/us/pl/100/4/s101/d], (e), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 208, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 839][/us/stat/86/839]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566], 1576–1579; [Pub. L. 96–483][/us/pl/96/483], § 1(d), (e), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 101(d), (e), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9].)
 
  __References in Text__ 
 
@@ -207,29 +207,29 @@
 
  __Amendments__ 
 
-    1987—Subsec. (f)(3). [Pub. L. 100–4, § 101(d)][/us/pl/100/4/s101/d], struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
+    1987—Subsec. (f)(3). [Pub. L. 100–4][/us/pl/100/4], § 101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
 
-    Subsec. (j)(9). [Pub. L. 100–4, § 101(e)][/us/pl/100/4/s101/e], struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
+    Subsec. (j)(9). [Pub. L. 100–4][/us/pl/100/4], § 101(e), struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
 
-    1980—Subsec. (f)(3). [Pub. L. 96–483, § 1(d)][/us/pl/96/483/s1/d], inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
+    1980—Subsec. (f)(3). [Pub. L. 96–483][/us/pl/96/483], § 1(d), inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
 
-    Subsec. (j)(9). [Pub. L. 96–483, § 1(e)][/us/pl/96/483/s1/e], inserted reference to authorization of $100,000,000 for each of fiscal years 1981 and 1982.
+    Subsec. (j)(9). [Pub. L. 96–483][/us/pl/96/483], § 1(e), inserted reference to authorization of $100,000,000 for each of fiscal years 1981 and 1982.
 
-    1977—Subsec. (b)(1). [Pub. L. 95–217, § 31(a)][/us/pl/95/217/s31/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    1977—Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 31(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (b)(2)(A). [Pub. L. 95–217, § 32][/us/pl/95/217/s32], inserted “, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation” after “development of such treatment works”.
+    Subsec. (b)(2)(A). [Pub. L. 95–217][/us/pl/95/217], § 32, inserted “, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation” after “development of such treatment works”.
 
-    Subsec. (b)(2)(F). [Pub. L. 95–217, § 33(a)][/us/pl/95/217/s33/a], substituted “sources of pollution, including return flows from irrigated agriculture, and their cumulative effects,” for “sources of pollution, including”.
+    Subsec. (b)(2)(F). [Pub. L. 95–217][/us/pl/95/217], § 33(a), substituted “sources of pollution, including return flows from irrigated agriculture, and their cumulative effects,” for “sources of pollution, including”.
 
-    Subsec. (b)(4). [Pub. L. 95–217, § 34(a)][/us/pl/95/217/s34/a], designated existing provisions as subpar. (A), substituted “to the Administrator for approval for application to a class or category of activity throughout such State” for “to the Administrator for application to all regions within such State”, and added subpars. (B) to (D).
+    Subsec. (b)(4). [Pub. L. 95–217][/us/pl/95/217], § 34(a), designated existing provisions as subpar. (A), substituted “to the Administrator for approval for application to a class or category of activity throughout such State” for “to the Administrator for application to all regions within such State”, and added subpars. (B) to (D).
 
-    Subsec. (f)(2). [Pub. L. 95–217, § 31(b)][/us/pl/95/217/s31/b], substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
+    Subsec. (f)(2). [Pub. L. 95–217][/us/pl/95/217], § 31(b), substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
 
     Subsec. (f)(3). [Pub. L. 95–217][/us/pl/95/217], §§ 4(e), 31(c), substituted “and not to exceed $150,000,000 per fiscal year for the fiscal years ending June 30, 1975, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980” for “and not to exceed $150,000,000 for the fiscal year ending June 30, 1975” and inserted “subject to such amounts as are provided in appropriation Acts” after “contractual obligation of the United States for the payment of its contribution to such proposal”.
 
-    Subsec. (i). [Pub. L. 95–217, § 34(b)][/us/pl/95/217/s34/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 95–217][/us/pl/95/217], § 34(b), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 95–217, § 35][/us/pl/95/217/s35], added subsec. (j).
+    Subsec. (j). [Pub. L. 95–217][/us/pl/95/217], § 35, added subsec. (j).
 
  __Transfer of Functions__ 
 
@@ -254,30 +254,30 @@
 [/us/pl/83/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F566
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F839
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
-[/us/pl/96/483/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Fd
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2360
-[/us/pl/100/4/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fd
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F9
 [/us/pl/83/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F566
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
-[/us/pl/100/4/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fd
-[/us/pl/100/4/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fe
-[/us/pl/96/483/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Fd
-[/us/pl/96/483/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Fe
-[/us/pl/95/217/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs31%2Fa
-[/us/pl/95/217/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs32
-[/us/pl/95/217/s33/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs33%2Fa
-[/us/pl/95/217/s34/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs34%2Fa
-[/us/pl/95/217/s31/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs31%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/95/217/s34/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs34%2Fb
-[/us/pl/95/217/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs35
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

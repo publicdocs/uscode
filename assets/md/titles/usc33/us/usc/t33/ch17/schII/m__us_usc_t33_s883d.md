@@ -17,7 +17,7 @@
 
     To improve the efficiency of the National Ocean Survey and to increase engineering and scientific knowledge, the Secretary of Commerce is authorized to conduct developmental work for the improvement of surveying and cartographic methods, instruments, and equipments; and to conduct investigations and research in geophysical sciences (including geodesy, oceanography, seismology, and geomagnetism).
 
-([Aug. 6, 1947, ch. 504, § 4][/us/act/1947-08-06/ch504/s4], [61 Stat. 788][/us/stat/61/788]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 4, [61 Stat. 788][/us/stat/61/788]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs4
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F788
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

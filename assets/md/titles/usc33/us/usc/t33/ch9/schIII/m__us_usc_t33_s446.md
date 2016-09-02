@@ -27,7 +27,7 @@
 
     Fifth. To enter gas and oil works and all other manufacturing works for the purpose of discovering the disposition made of sludge, acid, or other injurious material, whenever there is good reason to believe that such sludge, acid, or other injurious material is allowed to run into tidal waters of the harbor in violation of [section 441 of this title][/us/usc/t33/s441].
 
-([June 29, 1888, ch. 496, § 3][/us/act/1888-06-29/ch496/s3], [25 Stat. 209][/us/stat/25/209]; [Aug. 18, 1894, ch. 299, § 3][/us/act/1894-08-18/ch299/s3], [28 Stat. 360][/us/stat/28/360]; [May 28, 1908, ch. 212, § 8][/us/act/1908-05-28/ch212/s8], [35 Stat. 427][/us/stat/35/427]; [Pub. L. 85–802, § 1(3)][/us/pl/85/802/s1/3], Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 3, [25 Stat. 209][/us/stat/25/209]; [Aug. 18, 1894, ch. 299][/us/act/1894-08-18/ch299], § 3, [28 Stat. 360][/us/stat/28/360]; [May 28, 1908, ch. 212][/us/act/1908-05-28/ch212], § 8, [35 Stat. 427][/us/stat/35/427]; [Pub. L. 85–802][/us/pl/85/802], § 1(3), Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
@@ -60,17 +60,17 @@
 
 [/us/stat/28/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F338
 [/us/usc/t33/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs441
-[/us/act/1888-06-29/ch496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs3
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F209
-[/us/act/1894-08-18/ch299/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299%2Fs3
+[/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F360
-[/us/act/1908-05-28/ch212/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212%2Fs8
+[/us/act/1908-05-28/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212
 [/us/stat/35/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F427
-[/us/pl/85/802/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs1%2F3
+[/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/stat/72/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F970
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F356

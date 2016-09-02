@@ -17,7 +17,7 @@
 
     Any boat or vessel used or employed in violating any provision of this subchapter, shall be liable to the pecuniary penalties imposed thereby, and may be proceeded against, summarily by way of libel in any district court of the United States having jurisdiction thereof.
 
-([June 29, 1888, ch. 496, § 4][/us/act/1888-06-29/ch496/s4], [25 Stat. 210][/us/stat/25/210].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 4, [25 Stat. 210][/us/stat/25/210].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1888-06-29/ch496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs4
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F210
 
 

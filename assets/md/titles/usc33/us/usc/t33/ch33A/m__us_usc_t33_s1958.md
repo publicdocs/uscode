@@ -21,7 +21,7 @@
 
     (2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out [section 1953 of this title][/us/usc/t33/s1953], $2,000,000, of which no more than 10 percent may be used for administrative costs.
 
-([Pub. L. 109–449, § 9][/us/pl/109/449/s9], Dec. 22, 2006, [120 Stat. 3339][/us/stat/120/3339].)
+([Pub. L. 109–449][/us/pl/109/449], § 9, Dec. 22, 2006, [120 Stat. 3339][/us/stat/120/3339].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1953
-[/us/pl/109/449/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs9
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3339
 
 

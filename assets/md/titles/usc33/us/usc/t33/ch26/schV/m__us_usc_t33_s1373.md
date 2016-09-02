@@ -17,7 +17,7 @@
 
     The permitting agency under [section 1342 of this title][/us/usc/t33/s1342] shall assist the applicant for a permit under such section in coordinating the requirements of this chapter with those of the appropriate public health agencies.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 514, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 894][/us/stat/86/894].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 514, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 894][/us/stat/86/894].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F894
 
 

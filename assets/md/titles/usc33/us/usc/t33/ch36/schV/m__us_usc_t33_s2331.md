@@ -33,7 +33,7 @@
 
         (3) Flood Control, Mississippi River and Tributaries.
 
-([Pub. L. 106–53, title II, § 206][/us/pl/106/53/s206], Aug. 17, 1999, [113 Stat. 286][/us/stat/113/286].)
+([Pub. L. 106–53, title II][/us/pl/106/53/tII], § 206, Aug. 17, 1999, [113 Stat. 286][/us/stat/113/286].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/53/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs206
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F286
 [/us/pl/106/53/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

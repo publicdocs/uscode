@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 31, 1945, ch. 45, § 1][/us/act/1945-03-31/ch45/s1], [59 Stat. 41][/us/stat/59/41], relating to appropriations subject to priority restrictions, was from the War Department Civil Appropriation Act, 1946, and was not repeated in subsequent appropriation acts.
+    Section, [act Mar. 31, 1945, ch. 45][/us/act/1945-03-31/ch45], § 1, [59 Stat. 41][/us/stat/59/41], relating to appropriations subject to priority restrictions, was from the War Department Civil Appropriation Act, 1946, and was not repeated in subsequent appropriation acts.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-03-31/ch45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch45%2Fs1
+[/us/act/1945-03-31/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch45
 [/us/stat/59/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F41
 
 

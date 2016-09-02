@@ -27,7 +27,7 @@
 
         The Administrator and the Secretary may each prescribe and enforce regulations as may be necessary to carry out their respective responsibilities under this chapter.
 
-([Pub. L. 111–281, title X, § 1013][/us/pl/111/281/s1013], Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1013, Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1013
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3025
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

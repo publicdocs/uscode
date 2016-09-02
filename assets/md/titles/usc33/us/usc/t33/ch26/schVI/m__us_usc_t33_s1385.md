@@ -27,7 +27,7 @@
 
         If the Administrator is not satisfied that adequate corrective actions have been taken by the State within 12 months after the State is notified of such actions under subsection (a) of this section, the payments withheld from the State by the Administrator under subsection (b) of this section shall be made available for reallotment in accordance with the most recent formula for allotment of funds under this subchapter.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 605, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 25][/us/stat/101/25].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 605, as added [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 212(a), Feb. 4, 1987, [101 Stat. 25][/us/stat/101/25].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t33/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1382
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F25
 
 

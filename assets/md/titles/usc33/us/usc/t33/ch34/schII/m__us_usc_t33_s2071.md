@@ -17,7 +17,7 @@
 
     The Secretary of the Department in which the Coast Guard is operating may issue inland navigation regulations applicable to all vessels upon the inland waters of the United States and technical annexes that are as consistent as possible with the respective annexes to the International Regulations.
 
-([Pub. L. 96–591, § 3][/us/pl/96/591/s3], Dec. 24, 1980, [94 Stat. 3433][/us/stat/94/3433]; [Pub. L. 108–293, title III, § 303(b)][/us/pl/108/293/s303/b], Aug. 9, 2004, [118 Stat. 1042][/us/stat/118/1042].)
+([Pub. L. 96–591][/us/pl/96/591], § 3, Dec. 24, 1980, [94 Stat. 3433][/us/stat/94/3433]; [Pub. L. 108–293, title III][/us/pl/108/293/tIII], § 303(b), Aug. 9, 2004, [118 Stat. 1042][/us/stat/118/1042].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs3
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/stat/94/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3433
-[/us/pl/108/293/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs303%2Fb
+[/us/pl/108/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIII
 [/us/stat/118/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1042
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293

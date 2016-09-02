@@ -91,41 +91,41 @@
 
         (2) Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
 
-([Pub. L. 96–478, § 6][/us/pl/96/478/s6], Oct. 21, 1980, [94 Stat. 2299][/us/stat/94/2299]; [Pub. L. 100–220, title II, § 2103][/us/pl/100/220/s2103], Dec. 29, 1987, [101 Stat. 1461][/us/stat/101/1461]; [Pub. L. 101–225, title II, § 201(1)][/us/pl/101/225/s201/1], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–227, title II, § 201(d)][/us/pl/104/227/s201/d], Oct. 2, 1996, [110 Stat. 3042][/us/stat/110/3042]; [Pub. L. 104–324, title VIII, § 801][/us/pl/104/324/s801], Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 110–280, § 7][/us/pl/110/280/s7], July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
+([Pub. L. 96–478][/us/pl/96/478], § 6, Oct. 21, 1980, [94 Stat. 2299][/us/stat/94/2299]; [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2103, Dec. 29, 1987, [101 Stat. 1461][/us/stat/101/1461]; [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 201(1), Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 201(d), Oct. 2, 1996, [110 Stat. 3042][/us/stat/110/3042]; [Pub. L. 104–324, title VIII][/us/pl/104/324/tVIII], § 801, Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 110–280][/us/pl/110/280], § 7, July 21, 2008, [122 Stat. 2614][/us/stat/122/2614].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3). [Pub. L. 110–280, § 7(1)][/us/pl/110/280/s7/1], added par. (3).
+    2008—Subsec. (a)(3). [Pub. L. 110–280][/us/pl/110/280], § 7(1), added par. (3).
 
-    Subsec. (b). [Pub. L. 110–280, § 7(2)][/us/pl/110/280/s7/2], inserted “or the Administrator” after “Secretary”.
+    Subsec. (b). [Pub. L. 110–280][/us/pl/110/280], § 7(2), inserted “or the Administrator” after “Secretary”.
 
-    Subsec. (e)(2). [Pub. L. 110–280, § 7(3)][/us/pl/110/280/s7/3], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
+    Subsec. (e)(2). [Pub. L. 110–280][/us/pl/110/280], § 7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
 
-    Subsec. (f)(1). [Pub. L. 110–280, § 7(4)][/us/pl/110/280/s7/4], substituted “Secretary and the Administrator are” for “Secretary is”.
+    Subsec. (f)(1). [Pub. L. 110–280][/us/pl/110/280], § 7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
 
-    Subsec. (f)(2). [Pub. L. 110–280, § 7(5)][/us/pl/110/280/s7/5], struck out subpar. (A) designation before “Not later”.
+    Subsec. (f)(2). [Pub. L. 110–280][/us/pl/110/280], § 7(5), struck out subpar. (A) designation before “Not later”.
 
-    1996—Subsec. (b). [Pub. L. 104–227, § 201(d)(1)][/us/pl/104/227/s201/d/1], inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+    1996—Subsec. (b). [Pub. L. 104–227][/us/pl/104/227], § 201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
-    Subsec. (c)(2). [Pub. L. 104–324, § 801(a)(1)][/us/pl/104/324/s801/a/1], (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
+    Subsec. (c)(2). [Pub. L. 104–324][/us/pl/104/324], § 801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
 
-    Subsec. (c)(3)(A). [Pub. L. 104–324, § 801(a)(3)][/us/pl/104/324/s801/a/3], added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+    Subsec. (c)(3)(A). [Pub. L. 104–324][/us/pl/104/324], § 801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
 
-    Subsec. (d). [Pub. L. 104–324, § 801(a)(4)][/us/pl/104/324/s801/a/4], added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
+    Subsec. (d). [Pub. L. 104–324][/us/pl/104/324], § 801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
 
-    Subsec. (e)(1). [Pub. L. 104–227, § 201(d)(2)][/us/pl/104/227/s201/d/2], (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
+    Subsec. (e)(1). [Pub. L. 104–227][/us/pl/104/227], § 201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
 
-    Subsec. (f). [Pub. L. 104–324, § 801(b)][/us/pl/104/324/s801/b], designated existing provisions as par. (1) and added par. (2)(A).
+    Subsec. (f). [Pub. L. 104–324][/us/pl/104/324], § 801(b), designated existing provisions as par. (1) and added par. (2)(A).
 
-    [Pub. L. 104–227, § 201(d)(4)][/us/pl/104/227/s201/d/4], inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+    [Pub. L. 104–227][/us/pl/104/227], § 201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
     1989—Subsec. (c)(1). [Pub. L. 101–225][/us/pl/101/225] substituted “Annex I and Annex II” for “Annex V”.
 
-    1987—Subsec. (a). [Pub. L. 100–220, § 2103(a)][/us/pl/100/220/s2103/a], designated existing provisions as par. (1), substituted “a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+    1987—Subsec. (a). [Pub. L. 100–220][/us/pl/100/220], § 2103(a), designated existing provisions as par. (1), substituted “a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
 
-    Subsec. (b). [Pub. L. 100–220, § 2103(b)][/us/pl/100/220/s2103/b], inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
+    Subsec. (b). [Pub. L. 100–220][/us/pl/100/220], § 2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
 
-    Subsec. (c). [Pub. L. 100–220, § 2103(c)][/us/pl/100/220/s2103/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
+    Subsec. (c). [Pub. L. 100–220][/us/pl/100/220], § 2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
 
     “(1) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
 
@@ -133,7 +133,7 @@
 
     The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
 
-    Subsec. (e). [Pub. L. 100–220, § 2103(d)][/us/pl/100/220/s2103/d], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
+    Subsec. (e). [Pub. L. 100–220][/us/pl/100/220], § 2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 
  __Effective Date of 1987 Amendment__ 
 
@@ -150,35 +150,35 @@
 ----------
 ----------
 
-[/us/pl/96/478/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs6
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2299
-[/us/pl/100/220/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2103
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1461
-[/us/pl/101/225/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs201%2F1
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1910
-[/us/pl/104/227/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fd
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3042
-[/us/pl/104/324/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs801
+[/us/pl/104/324/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVIII
 [/us/stat/110/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3943
-[/us/pl/110/280/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2614
-[/us/pl/110/280/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7%2F1
-[/us/pl/110/280/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7%2F2
-[/us/pl/110/280/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7%2F3
-[/us/pl/110/280/s7/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7%2F4
-[/us/pl/110/280/s7/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs7%2F5
-[/us/pl/104/227/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fd%2F1
-[/us/pl/104/324/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs801%2Fa%2F1
-[/us/pl/104/324/s801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs801%2Fa%2F3
-[/us/pl/104/324/s801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs801%2Fa%2F4
-[/us/pl/104/227/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fd%2F2
-[/us/pl/104/324/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs801%2Fb
-[/us/pl/104/227/s201/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Fd%2F4
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
-[/us/pl/100/220/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2103%2Fa
-[/us/pl/100/220/s2103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2103%2Fb
-[/us/pl/100/220/s2103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2103%2Fc
-[/us/pl/100/220/s2103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2103%2Fd
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/100/220/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2002%2Fa
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901

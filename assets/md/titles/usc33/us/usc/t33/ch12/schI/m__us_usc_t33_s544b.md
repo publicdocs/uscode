@@ -17,7 +17,7 @@
 
     The Chief of Engineers may authorize the employment of physicians under agreement, to make such physical examinations of employees or prospective employees as he may consider essential, on a fee or regular employment basis, and all agreements entered into prior to March 2, 1945, for such purposes are validated, and the Comptroller General is authorized and directed to allow credit in the accounts of disbursing officers for reasonable payments made prior to March 2, 1945, for such services.
 
-([Mar. 2, 1945, ch. 19, § 5][/us/act/1945-03-02/ch19/s5], [59 Stat. 24][/us/stat/59/24].)
+([Mar. 2, 1945, ch. 19][/us/act/1945-03-02/ch19], § 5, [59 Stat. 24][/us/stat/59/24].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1945-03-02/ch19/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-02%2Fch19%2Fs5
+[/us/act/1945-03-02/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-02%2Fch19
 [/us/stat/59/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F24
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $55,000,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of [section 701a of this title][/us/usc/t33/s701a], when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in [section 701c of this title][/us/usc/t33/s701c] shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
 
-([June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 205, [62 Stat. 1182][/us/stat/62/1182]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 212, [64 Stat. 183][/us/stat/64/183]; [July 11, 1956, ch. 558][/us/act/1956-07-11/ch558], [70 Stat. 522][/us/stat/70/522]; [Pub. L. 87–874, title II, § 205][/us/pl/87/874/s205], Oct. 23, 1962, [76 Stat. 1194][/us/stat/76/1194]; [Pub. L. 93–251, title I, § 61][/us/pl/93/251/s61], Mar. 7, 1974, [88 Stat. 29][/us/stat/88/29]; [Pub. L. 94–587, § 133(b)][/us/pl/94/587/s133/b], Oct. 22, 1976, [90 Stat. 2928][/us/stat/90/2928]; [Pub. L. 97–140, § 2(a)][/us/pl/97/140/s2/a], Dec. 29, 1981, [95 Stat. 1717][/us/stat/95/1717]; [Pub. L. 99–662, title IX, § 915(a)][/us/pl/99/662/s915/a], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 106–53, title II, § 201][/us/pl/106/53/s201], Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285]; [Pub. L. 106–541, title II, § 218][/us/pl/106/541/s218], Dec. 11, 2000, [114 Stat. 2596][/us/stat/114/2596]; [Pub. L. 110–114, title II, § 2021][/us/pl/110/114/s2021], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(e)][/us/pl/113/121/s1030/e], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 205, [62 Stat. 1182][/us/stat/62/1182]; [May 17, 1950, ch. 188][/us/act/1950-05-17/ch188], title II, § 212, [64 Stat. 183][/us/stat/64/183]; [July 11, 1956, ch. 558][/us/act/1956-07-11/ch558], [70 Stat. 522][/us/stat/70/522]; [Pub. L. 87–874, title II][/us/pl/87/874/tII], § 205, Oct. 23, 1962, [76 Stat. 1194][/us/stat/76/1194]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 61, Mar. 7, 1974, [88 Stat. 29][/us/stat/88/29]; [Pub. L. 94–587][/us/pl/94/587], § 133(b), Oct. 22, 1976, [90 Stat. 2928][/us/stat/90/2928]; [Pub. L. 97–140][/us/pl/97/140], § 2(a), Dec. 29, 1981, [95 Stat. 1717][/us/stat/95/1717]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 915(a), Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 201, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 218, Dec. 11, 2000, [114 Stat. 2596][/us/stat/114/2596]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2021, Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(e), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–140, § 2(b)][/us/pl/97/140/s2/b], Dec. 29, 1981, [95 Stat. 1717][/us/stat/95/1717], provided that: 
+[Pub. L. 97–140][/us/pl/97/140], § 2(b), Dec. 29, 1981, [95 Stat. 1717][/us/stat/95/1717], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 29, 1981\].”
 
@@ -72,23 +72,23 @@
 [/us/stat/64/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F183
 [/us/act/1956-07-11/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch558
 [/us/stat/70/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F522
-[/us/pl/87/874/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs205
+[/us/pl/87/874/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2FtII
 [/us/stat/76/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1194
-[/us/pl/93/251/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs61
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F29
-[/us/pl/94/587/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs133%2Fb
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2928
-[/us/pl/97/140/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F140%2Fs2%2Fa
+[/us/pl/97/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F140
 [/us/stat/95/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1717
-[/us/pl/99/662/s915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fa
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/106/53/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs201
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
-[/us/pl/106/541/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs218
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2596
-[/us/pl/110/114/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2021
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
-[/us/pl/113/121/s1030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fe
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
@@ -103,7 +103,7 @@
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/99/662/s915/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fi
 [/us/usc/t33/s426g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426g
-[/us/pl/97/140/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F140%2Fs2%2Fb
+[/us/pl/97/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F140
 [/us/stat/95/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1717
 [/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/pl/94/587/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs133%2Fc

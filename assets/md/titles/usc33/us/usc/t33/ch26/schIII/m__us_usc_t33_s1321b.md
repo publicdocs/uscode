@@ -49,7 +49,7 @@
 
         Subject to the availability of appropriations, the Commandant of the Coast Guard shall provide assistance to participating tribal governments in order to facilitate the implementation of cooperative arrangements under subsection (c) and ensure the participation of tribal governments in such arrangements. There are authorized to be appropriated to the Commandant $500,000 for each of fiscal years 2010 through 2014 to be used to carry out this section.
 
-([Pub. L. 111–281, title VII, § 706][/us/pl/111/281/s706], Oct. 15, 2010, [124 Stat. 2983][/us/stat/124/2983].)
+([Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 706, Oct. 15, 2010, [124 Stat. 2983][/us/stat/124/2983].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs706
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2983
 
 

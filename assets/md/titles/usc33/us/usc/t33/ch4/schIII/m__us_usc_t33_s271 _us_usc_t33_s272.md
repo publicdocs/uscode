@@ -1,0 +1,45 @@
+---
+---
+
+# 33 U.S.C., USLM ref /us/usc/t33/s271 /us/usc/t33/s272
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_ch4_schIII.md) | [Next](./../../../../..//us/usc/t33/ch4/schIV/m__us_usc_t33_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs271+%2Fus%2Fusc%2Ft33%2Fs272)
+
+###### §§ 271, 272. Repealed. [Pub. L. 96–591][/us/pl/96/591], § 8(b), Dec. 24, 1980, [94 Stat. 3435][/us/stat/94/3435]
+
+    Section 271, acts [Feb. 8, 1895, ch. 64][/us/act/1895-02-08/ch64], § 1, [28 Stat. 647][/us/stat/28/647]; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; [Mar. 18, 1948, ch. 138][/us/act/1948-03-18/ch138], § 4, [62 Stat. 82][/us/stat/62/82], related to sound signals in fog, etc., of steam and sailing vessels under way, at anchor or aground.
+
+    Section 272, [act Feb. 8, 1895, ch. 64][/us/act/1895-02-08/ch64], § 1, [28 Stat. 648][/us/stat/28/648], related to speed in fog, etc.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982, see [section 7 of Pub. L. 96–591][/us/pl/96/591/s7], set out as an Effective Date of 1980 Amendment note under [section 1604 of this title][/us/usc/t33/s1604].
+
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch4/schIII/m__us_usc_t33_ch4_schIII.md) | [Next](./../../../../..//us/usc/t33/ch4/schIV/m__us_usc_t33_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs271+%2Fus%2Fusc%2Ft33%2Fs272)
+
+----------
+----------
+
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
+[/us/stat/94/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3435
+[/us/act/1895-02-08/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64
+[/us/stat/28/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F647
+[/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
+[/us/act/1948-03-18/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-18%2Fch138
+[/us/stat/62/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F82
+[/us/act/1895-02-08/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-08%2Fch64
+[/us/stat/28/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F648
+[/us/pl/96/591/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs7
+[/us/usc/t33/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1604
+
+

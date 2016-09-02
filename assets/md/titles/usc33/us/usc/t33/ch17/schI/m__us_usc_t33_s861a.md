@@ -11,36 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861b _us_usc_t33_s861c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a)
 
-## § 861a. Repealed. [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]
+## § 861a. Repealed. [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641]
 
-    Section, [act May 18, 1920, ch. 190, § 12][/us/act/1920-05-18/ch190/s12], [41 Stat. 604][/us/stat/41/604], related to transportation for families of officers and enlisted men on permanent change of station.
-
-§§ 861b, 861c. __Omitted__ 
-
- __Codification__ 
-
-    Section 861b, [act Feb. 21, 1929, ch. 288][/us/act/1929-02-21/ch288], [45 Stat. 1254][/us/stat/45/1254], defined the terms “child” and “children” as formerly used in [section 861a of this title][/us/usc/t33/s861a], and has been omitted in view of the repeal of section 861a.
-
-    Section 861c, [act June 24, 1935, ch. 291, § 3][/us/act/1935-06-24/ch291/s3], [49 Stat. 421][/us/stat/49/421], defined the phrase “permanent change in station” as formerly used in [section 861a of this title][/us/usc/t33/s861a], and has been omitted in view of the repeal of section 861a.
+    Section, [act May 18, 1920, ch. 190][/us/act/1920-05-18/ch190], § 12, [41 Stat. 604][/us/stat/41/604], related to transportation for families of officers and enlisted men on permanent change of station.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s862.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s861b _us_usc_t33_s861c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a)
 
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1920-05-18/ch190/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-18%2Fch190%2Fs12
+[/us/act/1920-05-18/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-18%2Fch190
 [/us/stat/41/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F604
-[/us/act/1929-02-21/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-21%2Fch288
-[/us/stat/45/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1254
-[/us/usc/t33/s861a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a
-[/us/act/1935-06-24/ch291/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-24%2Fch291%2Fs3
-[/us/stat/49/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F421
-[/us/usc/t33/s861a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs861a
 
 

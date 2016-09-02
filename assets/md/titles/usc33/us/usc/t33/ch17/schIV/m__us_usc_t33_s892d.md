@@ -79,7 +79,7 @@
 
     (6) To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 
-([Pub. L. 105–384, title III, § 306][/us/pl/105/384/s306], Nov. 13, 1998, [112 Stat. 3457][/us/stat/112/3457]; [Pub. L. 105–383, title IV, § 432(b)][/us/pl/105/383/s432/b], Nov. 13, 1998, [112 Stat. 3445][/us/stat/112/3445]; [Pub. L. 107–372, title I, § 106][/us/pl/107/372/s106], Dec. 19, 2002, [116 Stat. 3081][/us/stat/116/3081]; [Pub. L. 110–386, § 5][/us/pl/110/386/s5], Oct. 10, 2008, [122 Stat. 4108][/us/stat/122/4108].)
+([Pub. L. 105–384, title III][/us/pl/105/384/tIII], § 306, Nov. 13, 1998, [112 Stat. 3457][/us/stat/112/3457]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 432(b), Nov. 13, 1998, [112 Stat. 3445][/us/stat/112/3445]; [Pub. L. 107–372, title I][/us/pl/107/372/tI], § 106, Dec. 19, 2002, [116 Stat. 3081][/us/stat/116/3081]; [Pub. L. 110–386][/us/pl/110/386], § 5, Oct. 10, 2008, [122 Stat. 4108][/us/stat/122/4108].)
 
  __References in Text__ 
 
@@ -113,13 +113,13 @@
 ----------
 
 [/us/usc/t33/s892b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs892b%2Fb%2F1
-[/us/pl/105/384/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs306
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 [/us/stat/112/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3457
-[/us/pl/105/383/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs432%2Fb
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3445
-[/us/pl/107/372/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs106
+[/us/pl/107/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtI
 [/us/stat/116/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3081
-[/us/pl/110/386/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs5
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/stat/122/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4108
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454

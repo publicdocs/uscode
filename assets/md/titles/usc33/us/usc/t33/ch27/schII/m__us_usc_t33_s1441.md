@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, in coordination with the Secretary of the Department in which the Coast Guard is operating and with the Administrator shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of monitoring and research regarding the effects of the dumping of material into ocean waters or other coastal waters where the tide ebbs and flows or into the Great Lakes or their connecting waters.
 
-([Pub. L. 92–532, title II, § 201][/us/pl/92/532/s201], Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060]; [Pub. L. 99–272, title VI, § 6061][/us/pl/99/272/s6061], Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131].)
+([Pub. L. 92–532, title II][/us/pl/92/532/tII], § 201, Oct. 23, 1972, [86 Stat. 1060][/us/stat/86/1060]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6061, Apr. 7, 1986, [100 Stat. 131][/us/stat/100/131].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/92/532/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs201
+[/us/pl/92/532/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtII
 [/us/stat/86/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1060
-[/us/pl/99/272/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6061
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F131
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 114, as added Oct. 18, 1972, [Pub. L. 92–500, § 2][/us/pl/92/500/s2], [86 Stat. 833][/us/stat/86/833], authorized the Administrator, in consultation with the Tahoe Regional Planning Agency, the Secretary of Agriculture, other Federal agencies, representatives of State and local governments, and members of the public, to conduct a thorough and complete study on the need of extending Federal oversight and control in order to preserve the fragile ecology of Lake Tahoe and to report the results of this study to Congress not later than one year after Oct. 18, 1972.
+    Section, [act June 30, 1948, ch. 758, title I][/us/act/1948-06-30/ch758/tI], § 114, as added Oct. 18, 1972, [Pub. L. 92–500][/us/pl/92/500], § 2, [86 Stat. 833][/us/stat/86/833], authorized the Administrator, in consultation with the Tahoe Regional Planning Agency, the Secretary of Agriculture, other Federal agencies, representatives of State and local governments, and members of the public, to conduct a thorough and complete study on the need of extending Federal oversight and control in order to preserve the fragile ecology of Lake Tahoe and to report the results of this study to Congress not later than one year after Oct. 18, 1972.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/act/1948-06-30/ch758/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758%2FtI
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F833
 
 

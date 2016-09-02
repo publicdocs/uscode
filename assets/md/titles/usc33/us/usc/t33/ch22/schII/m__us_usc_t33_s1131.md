@@ -79,7 +79,7 @@
 
         The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-([Pub. L. 89–454, title II, § 212][/us/pl/89/454/s212], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1968][/us/stat/90/1968]; amended [Pub. L. 95–58, § 1][/us/pl/95/58/s1], June 29, 1977, [91 Stat. 254][/us/stat/91/254]; [Pub. L. 95–428, § 3(5)][/us/pl/95/428/s3/5], Oct. 7, 1978, [92 Stat. 1000][/us/stat/92/1000]; [Pub. L. 96–289, § 1(6)][/us/pl/96/289/s1/6], June 28, 1980, [94 Stat. 605][/us/stat/94/605]; [Pub. L. 98–623, title V, § 501(a)][/us/pl/98/623/s501/a], Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410]; [Pub. L. 100–220, title III, § 3110][/us/pl/100/220/s3110], Dec. 29, 1987, [101 Stat. 1474][/us/stat/101/1474]; [Pub. L. 102–186, § 3][/us/pl/102/186/s3], Dec. 4, 1991, [105 Stat. 1282][/us/stat/105/1282]; [Pub. L. 105–160, § 9(a)][/us/pl/105/160/s9/a], (b), Mar. 6, 1998, [112 Stat. 26][/us/stat/112/26]; [Pub. L. 107–299, § 7][/us/pl/107/299/s7], Nov. 26, 2002, [116 Stat. 2347][/us/stat/116/2347]; [Pub. L. 110–394, § 10][/us/pl/110/394/s10], Oct. 13, 2008, [122 Stat. 4209][/us/stat/122/4209].)
+([Pub. L. 89–454, title II][/us/pl/89/454/tII], § 212, as added [Pub. L. 94–461][/us/pl/94/461], § 2, Oct. 8, 1976, [90 Stat. 1968][/us/stat/90/1968]; amended [Pub. L. 95–58][/us/pl/95/58], § 1, June 29, 1977, [91 Stat. 254][/us/stat/91/254]; [Pub. L. 95–428][/us/pl/95/428], § 3(5), Oct. 7, 1978, [92 Stat. 1000][/us/stat/92/1000]; [Pub. L. 96–289][/us/pl/96/289], § 1(6), June 28, 1980, [94 Stat. 605][/us/stat/94/605]; [Pub. L. 98–623, title V][/us/pl/98/623/tV], § 501(a), Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410]; [Pub. L. 100–220, title III][/us/pl/100/220/tIII], § 3110, Dec. 29, 1987, [101 Stat. 1474][/us/stat/101/1474]; [Pub. L. 102–186][/us/pl/102/186], § 3, Dec. 4, 1991, [105 Stat. 1282][/us/stat/105/1282]; [Pub. L. 105–160][/us/pl/105/160], § 9(a), (b), Mar. 6, 1998, [112 Stat. 26][/us/stat/112/26]; [Pub. L. 107–299][/us/pl/107/299], § 7, Nov. 26, 2002, [116 Stat. 2347][/us/stat/116/2347]; [Pub. L. 110–394][/us/pl/110/394], § 10, Oct. 13, 2008, [122 Stat. 4209][/us/stat/122/4209].)
 
  __References in Text__ 
 
@@ -87,21 +87,21 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–394, § 10(1)][/us/pl/110/394/s10/1], added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
+    2008—Subsec. (a)(1). [Pub. L. 110–394][/us/pl/110/394], § 10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
 
-    Subsec. (a)(2). [Pub. L. 110–394, § 10(2)(A)][/us/pl/110/394/s10/2/A], substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 110–394][/us/pl/110/394], § 10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 110–394, § 10(2)(B)][/us/pl/110/394/s10/2/B], substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
+    Subsec. (a)(2)(A). [Pub. L. 110–394][/us/pl/110/394], § 10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
 
-    Subsec. (a)(2)(C). [Pub. L. 110–394, § 10(2)(C)][/us/pl/110/394/s10/2/C], substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
+    Subsec. (a)(2)(C). [Pub. L. 110–394][/us/pl/110/394], § 10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
 
-    Subsec. (c)(1). [Pub. L. 110–394, § 10(3)][/us/pl/110/394/s10/3], substituted “performance assessments” for “rating under [section 1123(d)(3)(A) of this title][/us/usc/t33/s1123/d/3/A]”.
+    Subsec. (c)(1). [Pub. L. 110–394][/us/pl/110/394], § 10(3), substituted “performance assessments” for “rating under [section 1123(d)(3)(A) of this title][/us/usc/t33/s1123/d/3/A]”.
 
-    Subsec. (c)(2). [Pub. L. 110–394, § 10(4)][/us/pl/110/394/s10/4], added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under [section 1123(b)(4) of this title][/us/usc/t33/s1123/b/4];”.
+    Subsec. (c)(2). [Pub. L. 110–394][/us/pl/110/394], § 10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under [section 1123(b)(4) of this title][/us/usc/t33/s1123/b/4];”.
 
     2002—Subsecs. (a) to (c). [Pub. L. 107–299][/us/pl/107/299] amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
-    1998—Subsec. (a). [Pub. L. 105–160, § 9(a)][/us/pl/105/160/s9/a], inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and [section 1124a of this title][/us/usc/t33/s1124a], an amount—
+    1998—Subsec. (a). [Pub. L. 105–160][/us/pl/105/160], § 9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and [section 1124a of this title][/us/usc/t33/s1124a], an amount—
 
     “(1) for fiscal year 1991, not to exceed $44,398,000;
 
@@ -113,7 +113,7 @@
 
     “(5) for fiscal year 1995, not to exceed $51,261,000.”
 
-    Subsec. (b). [Pub. L. 105–160, § 9(b)][/us/pl/105/160/s9/b], inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including [section 1128 of this title][/us/usc/t33/s1128], by the National Sea Grant Office and the Administration, an amount—
+    Subsec. (b). [Pub. L. 105–160][/us/pl/105/160], § 9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including [section 1128 of this title][/us/usc/t33/s1128], by the National Sea Grant Office and the Administration, an amount—
 
     “(A) for fiscal year 1991, not to exceed $2,500,000;
 
@@ -163,7 +163,7 @@
 
  __Notice of Reprogramming__ 
 
-[Pub. L. 105–160, § 9(c)][/us/pl/105/160/s9/c], Mar. 6, 1998, [112 Stat. 26][/us/stat/112/26], provided that: 
+[Pub. L. 105–160][/us/pl/105/160], § 9(c), Mar. 6, 1998, [112 Stat. 26][/us/stat/112/26], provided that: 
 
 > “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science, Space, and Technology\] and Resources \[now Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
@@ -176,40 +176,40 @@
 
 [/us/usc/t33/s1123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1123%2Fb%2F4
 [/us/usc/t33/s1123/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1123%2Fd%2F3%2FA
-[/us/pl/89/454/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs212
-[/us/pl/94/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs2
+[/us/pl/89/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtII
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1968
-[/us/pl/95/58/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F58%2Fs1
+[/us/pl/95/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F58
 [/us/stat/91/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F254
-[/us/pl/95/428/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F428%2Fs3%2F5
+[/us/pl/95/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F428
 [/us/stat/92/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1000
-[/us/pl/96/289/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F289%2Fs1%2F6
+[/us/pl/96/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F289
 [/us/stat/94/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F605
-[/us/pl/98/623/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs501%2Fa
+[/us/pl/98/623/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtV
 [/us/stat/98/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410
-[/us/pl/100/220/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs3110
+[/us/pl/100/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIII
 [/us/stat/101/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1474
-[/us/pl/102/186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186%2Fs3
+[/us/pl/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186
 [/us/stat/105/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1282
-[/us/pl/105/160/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160%2Fs9%2Fa
+[/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/stat/112/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F26
-[/us/pl/107/299/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299%2Fs7
+[/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
 [/us/stat/116/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2347
-[/us/pl/110/394/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/stat/122/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4209
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
-[/us/pl/110/394/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F1
-[/us/pl/110/394/s10/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F2%2FA
-[/us/pl/110/394/s10/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F2%2FB
-[/us/pl/110/394/s10/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F2%2FC
-[/us/pl/110/394/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F3
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/usc/t33/s1123/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1123%2Fd%2F3%2FA
-[/us/pl/110/394/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs10%2F4
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/usc/t33/s1123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1123%2Fb%2F4
 [/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
-[/us/pl/105/160/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160%2Fs9%2Fa
+[/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/usc/t33/s1124a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1124a
-[/us/pl/105/160/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160%2Fs9%2Fb
+[/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/usc/t33/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1128
 [/us/pl/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186
 [/us/usc/t33/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1125
@@ -220,7 +220,7 @@
 [/us/pl/96/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F289
 [/us/pl/95/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F428
 [/us/pl/95/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F58
-[/us/pl/105/160/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160%2Fs9%2Fc
+[/us/pl/105/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F160
 [/us/stat/112/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F26
 
 

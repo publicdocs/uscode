@@ -41,7 +41,7 @@
 
         Not later than 1 year after June 10, 2014, the Secretary shall submit to Congress and make publicly available a report on the activities carried out by the Secretary under this section.
 
-([Pub. L. 113–121, title IV, § 4002(a)][/us/pl/113/121/s4002/a], June 10, 2014, [128 Stat. 1308][/us/stat/128/1308].)
+([Pub. L. 113–121, title IV][/us/pl/113/121/tIV], § 4002(a), June 10, 2014, [128 Stat. 1308][/us/stat/128/1308].)
 
  __“Secretary” Defined__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4002%2Fa
+[/us/pl/113/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIV
 [/us/stat/128/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1308
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

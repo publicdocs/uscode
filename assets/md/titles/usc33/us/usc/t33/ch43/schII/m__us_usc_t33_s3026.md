@@ -17,7 +17,7 @@
 
     Appointments in and promotions to all permanent grades shall be made by the President.
 
-([Pub. L. 107–372, title II, § 226][/us/pl/107/372/s226], Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085]; [Pub. L. 112–166, § 2(gg)(1)][/us/pl/112/166/s2/gg/1], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 226, Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085]; [Pub. L. 112–166][/us/pl/112/166], § 2(gg)(1), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __Prior Provisions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/107/372/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs226
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3085
-[/us/pl/112/166/s2/gg/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fgg%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/usc/t33/s853i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853i%2Fa
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

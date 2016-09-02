@@ -17,7 +17,7 @@
 
     A person may bring a civil action for contribution against any other person who is liable or potentially liable under this Act or another law. The action shall be brought in accordance with [section 2717 of this title][/us/usc/t33/s2717].
 
-([Pub. L. 101–380, title I, § 1009][/us/pl/101/380/s1009], Aug. 18, 1990, [104 Stat. 497][/us/stat/104/497].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1009, Aug. 18, 1990, [104 Stat. 497][/us/stat/104/497].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2717
-[/us/pl/101/380/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1009
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F497
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

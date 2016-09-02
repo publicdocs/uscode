@@ -183,37 +183,37 @@
 
             The Administrator shall provide for public review and comment on the plan prior to final publication.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 304, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 850][/us/stat/86/850]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 48–51, 62(b), Dec. 27, 1977, [91 Stat. 1587][/us/stat/91/1587], 1588, 1598; [Pub. L. 97–117, § 23][/us/pl/97/117/s23], Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632]; [Pub. L. 100–4, title I, § 101(f)][/us/pl/100/4/s101/f], title III, §§ 308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9], 38–40, 52, 61; [Pub. L. 106–284, § 3(b)][/us/pl/106/284/s3/b], Oct. 10, 2000, [114 Stat. 871][/us/stat/114/871].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 304, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 850][/us/stat/86/850]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 48–51, 62(b), Dec. 27, 1977, [91 Stat. 1587][/us/stat/91/1587], 1588, 1598; [Pub. L. 97–117][/us/pl/97/117], § 23, Dec. 29, 1981, [95 Stat. 1632][/us/stat/95/1632]; [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 101(f), title III, §§ 308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9], 38–40, 52, 61; [Pub. L. 106–284][/us/pl/106/284], § 3(b), Oct. 10, 2000, [114 Stat. 871][/us/stat/114/871].)
 
  __Codification__ 
 
-    [Pub. L. 95–217, § 50][/us/pl/95/217/s50], Dec. 27, 1977, [91 Stat. 1588][/us/stat/91/1588], provided in part that, upon the enactment of subsec. (e) of this section by [Pub. L. 95–217][/us/pl/95/217] and the concurrent redesignation of former subsecs. (e) to (j) of this section as (f) to (k), respectively, all references to former subsecs. (e) to (j) be changed to (f) to (k), respectively.
+    [Pub. L. 95–217][/us/pl/95/217], § 50, Dec. 27, 1977, [91 Stat. 1588][/us/stat/91/1588], provided in part that, upon the enactment of subsec. (e) of this section by [Pub. L. 95–217][/us/pl/95/217] and the concurrent redesignation of former subsecs. (e) to (j) of this section as (f) to (k), respectively, all references to former subsecs. (e) to (j) be changed to (f) to (k), respectively.
 
  __Amendments__ 
 
     2000—Subsec. (a)(9). [Pub. L. 106–284][/us/pl/106/284] added par. (9).
 
-    1987—Subsec. (a)(7), (8). [Pub. L. 100–4, § 308(c)][/us/pl/100/4/s308/c], added pars. (7) and (8).
+    1987—Subsec. (a)(7), (8). [Pub. L. 100–4][/us/pl/100/4], § 308(c), added pars. (7) and (8).
 
-    Subsec. (j). [Pub. L. 100–4, § 315(c)][/us/pl/100/4/s315/c], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Administrator shall issue information biennially on methods, procedures, and processes as may be appropriate to restore and enhance the quality of the Nation’s publicly owned freshwater lakes.”
+    Subsec. (j). [Pub. L. 100–4][/us/pl/100/4], § 315(c), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Administrator shall issue information biennially on methods, procedures, and processes as may be appropriate to restore and enhance the quality of the Nation’s publicly owned freshwater lakes.”
 
-    Subsec. (k)(1). [Pub. L. 100–4, § 316(e)][/us/pl/100/4/s316/e], inserted “and nonpoint source pollution management programs approved under [section 1329 of this title][/us/usc/t33/s1329]” before period at end.
+    Subsec. (k)(1). [Pub. L. 100–4][/us/pl/100/4], § 316(e), inserted “and nonpoint source pollution management programs approved under [section 1329 of this title][/us/usc/t33/s1329]” before period at end.
 
-    Subsec. (k)(3). [Pub. L. 100–4, § 101(f)][/us/pl/100/4/s101/f], inserted “and such sums as may be necessary for fiscal years 1984 through 1990” after “1983”.
+    Subsec. (k)(3). [Pub. L. 100–4][/us/pl/100/4], § 101(f), inserted “and such sums as may be necessary for fiscal years 1984 through 1990” after “1983”.
 
-    Subsec. (l). [Pub. L. 100–4, § 308(a)][/us/pl/100/4/s308/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 100–4][/us/pl/100/4], § 308(a), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 100–4, § 308(f)][/us/pl/100/4/s308/f], added subsec. (m).
+    Subsec. (m). [Pub. L. 100–4][/us/pl/100/4], § 308(f), added subsec. (m).
 
     1981—Subsec. (d)(4). [Pub. L. 97–117][/us/pl/97/117] added par. (4).
 
-    1977—Subsec. (a)(4) to (6). [Pub. L. 95–217, § 48(a)][/us/pl/95/217/s48/a], added pars. (4) to (6).
+    1977—Subsec. (a)(4) to (6). [Pub. L. 95–217][/us/pl/95/217], § 48(a), added pars. (4) to (6).
 
-    Subsec. (b)(4). [Pub. L. 95–217, § 48(b)][/us/pl/95/217/s48/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 95–217][/us/pl/95/217], § 48(b), added par. (4).
 
-    Subsec. (d)(3). [Pub. L. 95–217, § 49][/us/pl/95/217/s49], added par. (3).
+    Subsec. (d)(3). [Pub. L. 95–217][/us/pl/95/217], § 49, added par. (3).
 
-    Subsecs. (e) to (i). [Pub. L. 95–217, § 50][/us/pl/95/217/s50], added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively. Former subsec. (i) redesignated (j).
+    Subsecs. (e) to (i). [Pub. L. 95–217][/us/pl/95/217], § 50, added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively. Former subsec. (i) redesignated (j).
 
     Subsec. (j). [Pub. L. 95–217][/us/pl/95/217], §§ 50, 62(b), redesignated former subsec. (i) as (j) and substituted “shall issue information biennially on methods” for “shall, within 270 days after October 18, 1972 (and from time to time thereafter), issue such information on methods”. Former subsec. (j) redesignated (k).
 
@@ -225,7 +225,7 @@
 
  __Review of Effluent Guidelines Promulgated Prior to__  __December 27, 1977__ 
 
-    [Pub. L. 95–217, § 73][/us/pl/95/217/s73], Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to [33 U.S.C. 1314(a)(4)][/us/usc/t33/s1314/a/4] and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to make such adjustments in any such guidelines as may be necessary to carry out [33 U.S.C. 1314(b)(4)][/us/usc/t33/s1314/b/4], directed Administrator to publish the results of each such review, and provided for judicial review of Administrator’s actions.
+    [Pub. L. 95–217][/us/pl/95/217], § 73, Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to [33 U.S.C. 1314(a)(4)][/us/usc/t33/s1314/a/4] and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to make such adjustments in any such guidelines as may be necessary to carry out [33 U.S.C. 1314(b)(4)][/us/usc/t33/s1314/b/4], directed Administrator to publish the results of each such review, and provided for judicial review of Administrator’s actions.
 
  __Contiguous Zone of United States__ 
 
@@ -266,39 +266,39 @@
 [/us/usc/t33/s1313/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313%2Fc%2F2%2FB
 [/us/usc/t33/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1316
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F850
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1587
-[/us/pl/97/117/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs23
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1632
-[/us/pl/100/4/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Ff
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F9
-[/us/pl/106/284/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs3%2Fb
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F871
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1588
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
-[/us/pl/100/4/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fc
-[/us/pl/100/4/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs315%2Fc
-[/us/pl/100/4/s316/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs316%2Fe
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
-[/us/pl/100/4/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Ff
-[/us/pl/100/4/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fa
-[/us/pl/100/4/s308/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Ff
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
-[/us/pl/95/217/s48/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs48%2Fa
-[/us/pl/95/217/s48/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs48%2Fb
-[/us/pl/95/217/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs49
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/95/217/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs73
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1609
 [/us/usc/t33/s1314/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa%2F4
 [/us/usc/t33/s1314/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fb%2F4

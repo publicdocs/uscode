@@ -51,7 +51,7 @@
 
         Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
-([Pub. L. 99–662, title II, § 205][/us/pl/99/662/s205], Nov. 17, 1986, [100 Stat. 4101][/us/stat/100/4101].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 205, Nov. 17, 1986, [100 Stat. 4101][/us/stat/100/4101].)
 
  __Change of Name__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t33/s2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2232
-[/us/pl/99/662/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs205
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4101
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

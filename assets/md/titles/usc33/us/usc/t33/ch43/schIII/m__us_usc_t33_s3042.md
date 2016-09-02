@@ -37,7 +37,7 @@
 
         The provisions of subsections (f), (g), and (h) of [section 1174 of title 10][/us/usc/t10/s1174] shall apply to separation pay under this section in the same manner as such provisions apply to separation pay under that section.
 
-([Pub. L. 107–372, title II, § 242][/us/pl/107/372/s242], Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 242, Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t33/s3041/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3041%2Fa%2F2
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
-[/us/pl/107/372/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs242
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3088
 [/us/usc/t33/s853h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853h
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

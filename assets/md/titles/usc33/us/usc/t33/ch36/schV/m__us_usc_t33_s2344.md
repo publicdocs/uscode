@@ -61,7 +61,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a safety assurance review conducted under this section.
 
-([Pub. L. 110–114, title II, § 2035][/us/pl/110/114/s2035], Nov. 8, 2007, [121 Stat. 1091][/us/stat/121/1091]; [Pub. L. 113–121, title III, § 3028][/us/pl/113/121/s3028], June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2035, Nov. 8, 2007, [121 Stat. 1091][/us/stat/121/1091]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3028, June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
 
  __References in Text__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2035
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1091
-[/us/pl/113/121/s3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3028
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1305
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

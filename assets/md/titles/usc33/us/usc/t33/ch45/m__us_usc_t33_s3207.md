@@ -57,7 +57,7 @@
 
         (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title][/us/usc/t33/s3205].
 
-([Pub. L. 109–424, § 8][/us/pl/109/424/s8], Dec. 20, 2006, [120 Stat. 2908][/us/stat/120/2908]; [Pub. L. 109–479, title VIII, § 808][/us/pl/109/479/s808], Jan. 12, 2007, [120 Stat. 3660][/us/stat/120/3660].)
+([Pub. L. 109–424][/us/pl/109/424], § 8, Dec. 20, 2006, [120 Stat. 2908][/us/stat/120/2908]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 808, Jan. 12, 2007, [120 Stat. 3660][/us/stat/120/3660].)
 
  __Codification__ 
 
@@ -80,9 +80,9 @@
 [/us/usc/t33/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3205
 [/us/usc/t33/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3204
 [/us/usc/t33/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3205
-[/us/pl/109/424/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs8
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2908
-[/us/pl/109/479/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs808
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3660
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

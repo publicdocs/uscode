@@ -27,15 +27,15 @@
 
         The President may accept amendments to the list of substances other than convention oil in accordance with article III of the protocol.
 
-([Pub. L. 93–248, § 13][/us/pl/93/248/s13], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302, § 1(5)][/us/pl/95/302/s1/5], June 26, 1978, [92 Stat. 345][/us/stat/92/345].)
+([Pub. L. 93–248][/us/pl/93/248], § 13, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10]; [Pub. L. 95–302][/us/pl/95/302], § 1(5), June 26, 1978, [92 Stat. 345][/us/stat/92/345].)
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–302, § 1(5)(A)][/us/pl/95/302/s1/5/A], inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
+    1978—Subsec. (a). [Pub. L. 95–302][/us/pl/95/302], § 1(5)(A), inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
 
-    Subsec. (b). [Pub. L. 95–302, § 1(5)(B)][/us/pl/95/302/s1/5/B], substituted “protocol” for “annexes thereto”.
+    Subsec. (b). [Pub. L. 95–302][/us/pl/95/302], § 1(5)(B), substituted “protocol” for “annexes thereto”.
 
-    Subsec. (c). [Pub. L. 95–302, § 1(5)(C)][/us/pl/95/302/s1/5/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–302][/us/pl/95/302], § 1(5)(C), added subsec. (c).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/93/248/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs13
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
-[/us/pl/95/302/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F5
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F345
-[/us/pl/95/302/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F5%2FA
-[/us/pl/95/302/s1/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F5%2FB
-[/us/pl/95/302/s1/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F5%2FC
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs2
 [/us/usc/t33/s1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1487

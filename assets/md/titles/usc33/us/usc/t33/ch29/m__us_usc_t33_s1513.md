@@ -31,7 +31,7 @@
 
         (4) to the public in order to protect health and safety, after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to the public health and safety).
 
-([Pub. L. 93–627, § 14][/us/pl/93/627/s14], Jan. 3, 1975, [88 Stat. 2139][/us/stat/88/2139].)
+([Pub. L. 93–627][/us/pl/93/627], § 14, Jan. 3, 1975, [88 Stat. 2139][/us/stat/88/2139].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t33/s1504/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1504%2Fc%2F2%2FB
-[/us/pl/93/627/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs14
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2139
 
 

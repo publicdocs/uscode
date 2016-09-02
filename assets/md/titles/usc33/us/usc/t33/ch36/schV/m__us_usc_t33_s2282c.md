@@ -97,7 +97,7 @@
 
         (3) any recommendations for additional authority necessary to support efforts to expedite the feasibility study process, including an analysis of whether the limitation established by subsection (a)(2) needs to be adjusted to address the impacts of inflation.
 
-([Pub. L. 113–121, title I, § 1001][/us/pl/113/121/s1001], June 10, 2014, [128 Stat. 1196][/us/stat/128/1196].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1001, June 10, 2014, [128 Stat. 1196][/us/stat/128/1196].)
 
  __References in Text__ 
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t33/s2282/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282%2Fa
 [/us/usc/t33/s2348/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348%2Fe
-[/us/pl/113/121/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1001
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1196
 [/us/pl/113/121/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1005
 [/us/usc/t33/s2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2349

@@ -23,7 +23,7 @@
 
         At the request of the non-Federal interest, the Secretary may apply such credit to the share of the cost of the non-Federal interest of carrying out other flood damage reduction projects or studies.
 
-([Pub. L. 113–121, title I, § 1022][/us/pl/113/121/s1022], June 10, 2014, [128 Stat. 1228][/us/stat/128/1228].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1022, June 10, 2014, [128 Stat. 1228][/us/stat/128/1228].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s701b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9313
-[/us/pl/113/121/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1022
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1228
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

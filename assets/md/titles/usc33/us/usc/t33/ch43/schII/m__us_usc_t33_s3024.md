@@ -17,7 +17,7 @@
 
     Promotion to fill vacancies in each permanent grade above the grade of lieutenant (junior grade) shall be made by selection from the next lower grade upon recommendation of the personnel board.
 
-([Pub. L. 107–372, title II, § 224][/us/pl/107/372/s224], Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 224, Dec. 19, 2002, [116 Stat. 3085][/us/stat/116/3085].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs224
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3085
 [/us/usc/t33/s853b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853b
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

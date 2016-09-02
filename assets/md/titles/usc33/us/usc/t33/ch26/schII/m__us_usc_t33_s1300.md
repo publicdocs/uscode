@@ -79,7 +79,7 @@
 
         There is authorized to be appropriated to carry out this section a total of $75,000,000 for fiscal years 2002 through 2004. Such sums shall remain available until expended.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 220, as added [Pub. L. 106–457, title VI, § 602][/us/pl/106/457/s602], Nov. 7, 2000, [114 Stat. 1975][/us/stat/114/1975].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 220, as added [Pub. L. 106–457, title VI][/us/pl/106/457/tVI], § 602, Nov. 7, 2000, [114 Stat. 1975][/us/stat/114/1975].)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 [/us/usc/t43/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs391
 [/us/usc/t43/s390h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390h
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/106/457/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs602
+[/us/pl/106/457/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVI
 [/us/stat/114/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1975
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/stat/106/4600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4600

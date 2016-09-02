@@ -65,7 +65,7 @@
 
         (5) the appropriate Federal role, if any, to encourage the use of those measures.
 
-([Pub. L. 106–53, title V, § 515][/us/pl/106/53/s515], Aug. 17, 1999, [113 Stat. 344][/us/stat/113/344].)
+([Pub. L. 106–53, title V][/us/pl/106/53/tV], § 515, Aug. 17, 1999, [113 Stat. 344][/us/stat/113/344].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/106/53/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs515
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F344
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

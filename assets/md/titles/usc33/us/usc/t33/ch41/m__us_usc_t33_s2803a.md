@@ -57,7 +57,7 @@
 
         In this section, the terms “coastal zone” and “coastal state” have the meanings given such terms in [section 1453 of title 16][/us/usc/t16/s1453], as in effect on June 10, 2014.
 
-([Pub. L. 113–121, title IV, § 4014][/us/pl/113/121/s4014], June 10, 2014, [128 Stat. 1321][/us/stat/128/1321].)
+([Pub. L. 113–121, title IV][/us/pl/113/121/tIV], § 4014, June 10, 2014, [128 Stat. 1321][/us/stat/128/1321].)
 
  __Codification__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
-[/us/pl/113/121/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4014
+[/us/pl/113/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIV
 [/us/stat/128/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1321
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2

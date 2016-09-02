@@ -21,7 +21,7 @@
 
     (2) take the necessary steps to ensure the confidentiality of such information (especially proprietary information), for any information required by the Administrator to be submitted under this section.
 
-([Pub. L. 109–449, § 6][/us/pl/109/449/s6], Dec. 22, 2006, [120 Stat. 3338][/us/stat/120/3338]; [Pub. L. 112–213, title VI, § 607][/us/pl/112/213/s607], Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
+([Pub. L. 109–449][/us/pl/109/449], § 6, Dec. 22, 2006, [120 Stat. 3338][/us/stat/120/3338]; [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 607, Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/109/449/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs6
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3338
-[/us/pl/112/213/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs607
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1578
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 

@@ -45,7 +45,7 @@
 
         The National Weather Service, when deciding to provide assistance under this section, may take into consideration the data sharing policies and practices of nations proposed to receive such assistance, with a goal to encourage all nations to support full and open exchange of data.
 
-([Pub. L. 109–424, § 7][/us/pl/109/424/s7], Dec. 20, 2006, [120 Stat. 2907][/us/stat/120/2907]; [Pub. L. 109–479, title VIII, § 807][/us/pl/109/479/s807], Jan. 12, 2007, [120 Stat. 3659][/us/stat/120/3659].)
+([Pub. L. 109–424][/us/pl/109/424], § 7, Dec. 20, 2006, [120 Stat. 2907][/us/stat/120/2907]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 807, Jan. 12, 2007, [120 Stat. 3659][/us/stat/120/3659].)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/109/424/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs7
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2907
-[/us/pl/109/479/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs807
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3659
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

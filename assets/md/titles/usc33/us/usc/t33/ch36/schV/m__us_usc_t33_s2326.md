@@ -127,7 +127,7 @@
 
         There is authorized to be appropriated to carry out this section $50,000,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
 
-([Pub. L. 102–580, title II, § 204][/us/pl/102/580/s204], Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II, § 207][/us/pl/104/303/s207], Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680]; [Pub. L. 106–53, title II, § 209][/us/pl/106/53/s209], Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II, § 2037(a)][/us/pl/110/114/s2037/a], Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094]; [Pub. L. 113–121, title I][/us/pl/113/121], §§ 1030(d)(1), 1038, June 10, 2014, [128 Stat. 1232][/us/stat/128/1232], 1236.)
+([Pub. L. 102–580, title II][/us/pl/102/580/tII], § 204, Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 207, Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 209, Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2037(a), Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], §§ 1030(d)(1), 1038, June 10, 2014, [128 Stat. 1232][/us/stat/128/1232], 1236.)
 
  __Codification__ 
 
@@ -135,33 +135,33 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–121, § 1038(1)(A)][/us/pl/113/121/s1038/1/A], inserted “or used in” after “obtained through”.
+    2014—Subsec. (a)(1). [Pub. L. 113–121][/us/pl/113/121], § 1038(1)(A), inserted “or used in” after “obtained through”.
 
-    Subsec. (a)(3)(C). [Pub. L. 113–121, § 1038(1)(B)][/us/pl/113/121/s1038/1/B], inserted “for the purposes of improving environmental conditions in marsh and littoral systems, stabilizing stream channels, enhancing shorelines, and supporting State and local risk management adaptation strategies” before period at end.
+    Subsec. (a)(3)(C). [Pub. L. 113–121][/us/pl/113/121], § 1038(1)(B), inserted “for the purposes of improving environmental conditions in marsh and littoral systems, stabilizing stream channels, enhancing shorelines, and supporting State and local risk management adaptation strategies” before period at end.
 
-    Subsec. (a)(4). [Pub. L. 113–121, § 1038(1)(C)][/us/pl/113/121/s1038/1/C], added par. (4).
+    Subsec. (a)(4). [Pub. L. 113–121][/us/pl/113/121], § 1038(1)(C), added par. (4).
 
-    Subsec. (c)(1)(C). [Pub. L. 113–121, § 1030(d)(1)(A)][/us/pl/113/121/s1030/d/1/A], substituted “$10,000,000” for “$5,000,000”.
+    Subsec. (c)(1)(C). [Pub. L. 113–121][/us/pl/113/121], § 1030(d)(1)(A), substituted “$10,000,000” for “$5,000,000”.
 
-    Subsec. (d). [Pub. L. 113–121, § 1038(2)(A)][/us/pl/113/121/s1038/2/A], substituted “Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction” for “Selection of dredged material disposal method for environmental purposes” in heading.
+    Subsec. (d). [Pub. L. 113–121][/us/pl/113/121], § 1038(2)(A), substituted “Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction” for “Selection of dredged material disposal method for environmental purposes” in heading.
 
-    Subsec. (d)(1). [Pub. L. 113–121, § 1038(2)(B)][/us/pl/113/121/s1038/2/B], substituted “in relation to—” for “in relation to the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion.” and added subpars. (A) and (B).
+    Subsec. (d)(1). [Pub. L. 113–121][/us/pl/113/121], § 1038(2)(B), substituted “in relation to—” for “in relation to the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion.” and added subpars. (A) and (B).
 
-    Subsec. (e)(1). [Pub. L. 113–121, § 1038(3)][/us/pl/113/121/s1038/3], added par. (1) and struck out former par. (1) which read as follows: “cooperate with any State in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State;”.
+    Subsec. (e)(1). [Pub. L. 113–121][/us/pl/113/121], § 1038(3), added par. (1) and struck out former par. (1) which read as follows: “cooperate with any State in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State;”.
 
-    Subsec. (g). [Pub. L. 113–121, § 1030(d)(1)(B)][/us/pl/113/121/s1030/d/1/B], substituted “$50,000,000” for “$30,000,000”.
+    Subsec. (g). [Pub. L. 113–121][/us/pl/113/121], § 1030(d)(1)(B), substituted “$50,000,000” for “$30,000,000”.
 
     2007—[Pub. L. 110–114][/us/pl/110/114] amended section generally. Prior to amendment, section related to beneficial uses of dredged material.
 
-    1999—Subsec. (c). [Pub. L. 106–53, § 209(1)][/us/pl/106/53/s209/1], in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of [section 1962d–5b of title 42][/us/usc/t42/s1962d–5b]”.
+    1999—Subsec. (c). [Pub. L. 106–53][/us/pl/106/53], § 209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of [section 1962d–5b of title 42][/us/usc/t42/s1962d–5b]”.
 
-    Subsec. (g). [Pub. L. 106–53, § 209(2)][/us/pl/106/53/s209/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–53][/us/pl/106/53], § 209(2), added subsec. (g).
 
     1996—Subsecs. (e), (f). [Pub. L. 104–303][/us/pl/104/303] added subsec. (e) and redesignated former subsec. (e) as (f).
 
  __Applicability__ 
 
-[Pub. L. 110–114, title II, § 2037(c)][/us/pl/110/114/s2037/c], as added by [Pub. L. 113–121, title I, § 1030(d)(2)][/us/pl/113/121/s1030/d/2], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232], provided that: 
+[Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2037(c), as added by [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(d)(2), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply to any project authorized under this Act \[see Tables for classification\] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act \[Nov. 8, 2007\].”
 
@@ -177,31 +177,31 @@
 ----------
 
 [/us/usc/t33/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213
-[/us/pl/102/580/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs204
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4826
-[/us/pl/104/303/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs207
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3680
-[/us/pl/106/53/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs209
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F287
-[/us/pl/110/114/s2037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2037%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1094
-[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
-[/us/pl/113/121/s1038/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F1%2FA
-[/us/pl/113/121/s1038/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F1%2FB
-[/us/pl/113/121/s1038/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F1%2FC
-[/us/pl/113/121/s1030/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fd%2F1%2FA
-[/us/pl/113/121/s1038/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F2%2FA
-[/us/pl/113/121/s1038/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F2%2FB
-[/us/pl/113/121/s1038/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1038%2F3
-[/us/pl/113/121/s1030/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fd%2F1%2FB
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
-[/us/pl/106/53/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs209%2F1
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/106/53/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs209%2F2
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
-[/us/pl/110/114/s2037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2037%2Fc
-[/us/pl/113/121/s1030/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fd%2F2
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

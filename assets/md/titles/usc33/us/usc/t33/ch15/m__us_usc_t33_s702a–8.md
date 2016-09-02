@@ -17,7 +17,7 @@
 
     In addition to the construction by the United States of roads in connection with floodways as heretofore provided, the Federal Government may, in the discretion of the Chief of Engineers, and within the limits of available funds, construct additional roads to afford access to those portions of the levee lines not otherwise accessible.
 
-([June 15, 1936, ch. 548, § 8][/us/act/1936-06-15/ch548/s8], [49 Stat. 1510][/us/stat/49/1510].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 8, [49 Stat. 1510][/us/stat/49/1510].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch548/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs8
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1510
 
 

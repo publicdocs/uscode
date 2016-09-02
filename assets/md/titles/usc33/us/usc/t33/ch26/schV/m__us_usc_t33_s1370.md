@@ -17,7 +17,7 @@
 
     Except as expressly provided in this chapter, nothing in this chapter shall (1) preclude or deny the right of any State or political subdivision thereof or interstate agency to adopt or enforce (A) any standard or limitation respecting discharges of pollutants, or (B) any requirement respecting control or abatement of pollution; except that if an effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance is in effect under this chapter, such State or political subdivision or interstate agency may not adopt or enforce any effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance which is less stringent than the effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance under this chapter; or (2) be construed as impairing or in any manner affecting any right or jurisdiction of the States with respect to the waters (including boundary waters) of such States.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 510, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 893][/us/stat/86/893].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 510, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 893][/us/stat/86/893].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F893
 
 

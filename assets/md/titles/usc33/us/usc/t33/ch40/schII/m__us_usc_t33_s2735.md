@@ -43,7 +43,7 @@
 
             (B) in the case of a facility, the largest foreseeable discharge in adverse weather conditions.
 
-([Pub. L. 101–380, title V, § 5005][/us/pl/101/380/s5005], Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553]; [Pub. L. 102–388, title III, § 354][/us/pl/102/388/s354], Oct. 6, 1992, [106 Stat. 1555][/us/stat/106/1555].)
+([Pub. L. 101–380, title V][/us/pl/101/380/tV], § 5005, Aug. 18, 1990, [104 Stat. 553][/us/stat/104/553]; [Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 354, Oct. 6, 1992, [106 Stat. 1555][/us/stat/106/1555].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 
 [/us/usc/t33/s1321/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fj
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
-[/us/pl/101/380/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs5005
+[/us/pl/101/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtV
 [/us/stat/104/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F553
-[/us/pl/102/388/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs354
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1555
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/stat/87/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F584

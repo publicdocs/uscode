@@ -51,7 +51,7 @@
 
         The Secretary of Commerce is authorized to establish a program to provide traineeships, training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
 
-([Pub. L. 108–447, div. B, title IX, § 903][/us/pl/108/447/s903], Dec. 8, 2004, [118 Stat. 2933][/us/stat/118/2933].)
+([Pub. L. 108–447, div. B, title IX][/us/pl/108/447/dB/tIX], § 903, Dec. 8, 2004, [118 Stat. 2933][/us/stat/118/2933].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs903
+[/us/pl/108/447/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIX
 [/us/stat/118/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2933
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

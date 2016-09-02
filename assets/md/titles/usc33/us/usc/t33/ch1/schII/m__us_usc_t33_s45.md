@@ -17,7 +17,7 @@
 
     Swan Creek, a stream lying within the limits of the city of Toledo, State of Ohio, is declared to be not a navigable waterway of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waterways, and the consent of Congress is given for the filling in of said creek by the local authorities.
 
-([Mar. 4, 1915, ch. 142, § 13][/us/act/1915-03-04/ch142/s13], [38 Stat. 1055][/us/stat/38/1055].)
+([Mar. 4, 1915, ch. 142][/us/act/1915-03-04/ch142], § 13, [38 Stat. 1055][/us/stat/38/1055].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-04/ch142/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch142%2Fs13
+[/us/act/1915-03-04/ch142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch142
 [/us/stat/38/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1055
 
 

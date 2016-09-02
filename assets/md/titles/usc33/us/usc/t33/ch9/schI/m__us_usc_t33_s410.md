@@ -21,17 +21,17 @@
 
     The right to alter, amend, or repeal this section at any time is reserved.
 
-([May 9, 1900, ch. 387][/us/act/1900-05-09/ch387], §§ 1–3, [31 Stat. 172][/us/stat/31/172]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([May 9, 1900, ch. 387][/us/act/1900-05-09/ch387], §§ 1–3, [31 Stat. 172][/us/stat/31/172]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
     “Magistrate judge” substituted in text for “magistrate” pursuant to [section 321 of Pub. L. 101–650][/us/pl/101/650/s321], set out as a note under [section 631 of Title 28][/us/usc/t28/s631], Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to [Pub. L. 90–578][/us/pl/90/578]. See chapter 43 (§ 631 et seq.) of Title 28.
 
  __Transfer of Functions__ 
 
-    Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title][/us/usc/t33/s401] to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by [Pub. L. 89–670, § 6(g)(6)(A)][/us/pl/89/670/s6/g/6/A], Oct. 15, 1966, [80 Stat. 941][/us/stat/80/941], which created Department of Transportation. [Pub. L. 97–449][/us/pl/97/449] amended [section 401 of this title][/us/usc/t33/s401] to reflect transfer made by [section 6(g)(6)(A) of Pub. L. 89–670][/us/pl/89/670/s6/g/6/A], and repealed section 6(g)(6)(A).
+    Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title][/us/usc/t33/s401] to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(g)(6)(A), Oct. 15, 1966, [80 Stat. 941][/us/stat/80/941], which created Department of Transportation. [Pub. L. 97–449][/us/pl/97/449] amended [section 401 of this title][/us/usc/t33/s401] to reflect transfer made by [section 6(g)(6)(A) of Pub. L. 89–670][/us/pl/89/670/s6/g/6/A], and repealed section 6(g)(6)(A).
 
 ----------
 
@@ -45,11 +45,11 @@
 [/us/stat/31/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F172
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
@@ -57,7 +57,7 @@
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/89/670/s6/g/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fg%2F6%2FA
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F941
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401

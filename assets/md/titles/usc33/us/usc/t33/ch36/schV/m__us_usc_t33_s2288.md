@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2287.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2289.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2288)
 
-## § 2288. Repealed. [Pub. L. 113–121, title I, § 1004][/us/pl/113/121/s1004], June 10, 2014, [128 Stat. 1199][/us/stat/128/1199]
+## § 2288. Repealed. [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1004, June 10, 2014, [128 Stat. 1199][/us/stat/128/1199]
 
-    Section, [Pub. L. 99–662, title IX, § 911][/us/pl/99/662/s911], Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189], related to review of cost effectiveness of design.
+    Section, [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 911, Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189], related to review of cost effectiveness of design.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1004
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1199
-[/us/pl/99/662/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs911
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4189
 
 

@@ -17,7 +17,7 @@
 
     If any vessel that is subject to the Convention or this chapter, or its owner, operator, or person in charge, is liable for a fine or civil penalty under section 3852 or 3853 of this title, or if reasonable cause exists to believe that the vessel, its owner, operator, or person in charge may be subject to a fine or civil penalty under section 3852 or 3853 of this title, the Secretary may refuse or revoke the clearance required by [section 60105 of title 46][/us/usc/t46/s60105]. Clearance may be granted upon the filing of a bond or other surety satisfaction to the Secretary.
 
-([Pub. L. 111–281, title X, § 1044][/us/pl/111/281/s1044], Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1044, Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/111/281/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1044
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3031
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

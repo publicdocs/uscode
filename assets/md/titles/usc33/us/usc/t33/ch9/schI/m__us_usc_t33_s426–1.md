@@ -17,7 +17,7 @@
 
     There shall be established under the Chief of Engineers, United States Army, a Coastal Engineering Research Center which, except as hereinafter provided in [section 426–3 of this title][/us/usc/t33/s426–3], shall be vested with all the functions of the Beach Erosion Board, including the authority to make general investigations as provided in [section 426a of this title][/us/usc/t33/s426a], and such additional functions as the Chief of Engineers may assign.
 
-([Pub. L. 88–172, § 1][/us/pl/88/172/s1], Nov. 7, 1963, [77 Stat. 304][/us/stat/77/304].)
+([Pub. L. 88–172][/us/pl/88/172], § 1, Nov. 7, 1963, [77 Stat. 304][/us/stat/77/304].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t33/s426–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%933
 [/us/usc/t33/s426a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426a
-[/us/pl/88/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs1
+[/us/pl/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172
 [/us/stat/77/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F304
 [/us/pl/88/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs1
 [/us/usc/t33/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426

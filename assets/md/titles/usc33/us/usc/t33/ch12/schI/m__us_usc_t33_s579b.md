@@ -161,7 +161,7 @@
 
             For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent such modification.
 
-([Pub. L. 113–121, title VI, § 6001][/us/pl/113/121/s6001], June 10, 2014, [128 Stat. 1345][/us/stat/128/1345].)
+([Pub. L. 113–121, title VI][/us/pl/113/121/tVI], § 6001, June 10, 2014, [128 Stat. 1345][/us/stat/128/1345].)
 
  __References in Text__ 
 
@@ -187,7 +187,7 @@
 [/us/usc/t33/s2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282
 [/us/usc/t33/s2215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2215%2Fd
 [/us/usc/t33/s549a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs549a
-[/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
+[/us/pl/113/121/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtVI
 [/us/stat/128/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1345
 [/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
 [/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001

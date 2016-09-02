@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated for administration of this chapter, not to exceed $2,500,000 per fiscal year for the fiscal years ending June 30, 1975, June 30, 1976, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980.
 
-([Pub. L. 93–627, § 25][/us/pl/93/627/s25], Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147]; [Pub. L. 95–36][/us/pl/95/36], June 1, 1977, [91 Stat. 177][/us/stat/91/177].)
+([Pub. L. 93–627][/us/pl/93/627], § 25, Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147]; [Pub. L. 95–36][/us/pl/95/36], June 1, 1977, [91 Stat. 177][/us/stat/91/177].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/627/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs25
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2147
 [/us/pl/95/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F36
 [/us/stat/91/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F177

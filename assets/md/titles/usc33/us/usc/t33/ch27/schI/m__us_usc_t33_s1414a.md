@@ -41,7 +41,7 @@
 
         The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C) of this section, to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under [section 1412(c) of this title][/us/usc/t33/s1412/c] by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
 
-([Pub. L. 92–532, title I, § 104A][/us/pl/92/532/s104A], as added [Pub. L. 99–662, title XI, § 1172(b)][/us/pl/99/662/s1172/b], Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259]; [Pub. L. 100–4, title V, § 508(b)][/us/pl/100/4/s508/b], Feb. 4, 1987, [101 Stat. 79][/us/stat/101/79]; [Pub. L. 100–688, title I, § 1002][/us/pl/100/688/s1002], Nov. 18, 1988, [102 Stat. 4139][/us/stat/102/4139].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 104A, as added [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1172(b), Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259]; [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 508(b), Feb. 4, 1987, [101 Stat. 79][/us/stat/101/79]; [Pub. L. 100–688, title I][/us/pl/100/688/tI], § 1002, Nov. 18, 1988, [102 Stat. 4139][/us/stat/102/4139].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 
  __New York Bight Apex Not Suitable for Dumping__ 
 
-[Pub. L. 99–662, title XI, § 1172(a)][/us/pl/99/662/s1172/a], Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259], provided that: 
+[Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1172(a), Nov. 17, 1986, [100 Stat. 4259][/us/stat/100/4259], provided that: 
 
 > “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
 
-    An identical provision was enacted by [Pub. L. 100–4, title V, § 508(a)][/us/pl/100/4/s508/a], Feb. 4, 1987, [101 Stat. 79][/us/stat/101/79].
+    An identical provision was enacted by [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 508(a), Feb. 4, 1987, [101 Stat. 79][/us/stat/101/79].
 
 ----------
 
@@ -64,20 +64,20 @@
 
 [/us/usc/t33/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412
 [/us/usc/t33/s1412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fc
-[/us/pl/92/532/s104A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs104A
-[/us/pl/99/662/s1172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1172%2Fb
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4259
-[/us/pl/100/4/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs508%2Fb
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F79
-[/us/pl/100/688/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs1002
+[/us/pl/100/688/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtI
 [/us/stat/102/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4139
 [/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/99/662/s1172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1172%2Fa
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4259
-[/us/pl/100/4/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs508%2Fa
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F79
 
 

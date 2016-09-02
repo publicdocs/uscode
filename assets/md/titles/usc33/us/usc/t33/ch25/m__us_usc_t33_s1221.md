@@ -35,7 +35,7 @@
 
     (d) that advance planning is critical in determining proper and adequate protective measures for the Nation’s ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
 
-([Pub. L. 92–340, § 2][/us/pl/92/340/s2], formerly title I, § 101, July 10, 1972, [86 Stat. 424][/us/stat/86/424]; renumbered and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471]; [Pub. L. 107–295, title IV, § 443(1)][/us/pl/107/295/s443/1], Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132].)
+([Pub. L. 92–340][/us/pl/92/340], § 2, formerly title I, § 101, July 10, 1972, [86 Stat. 424][/us/stat/86/424]; renumbered and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 443(1), Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132].)
 
  __Amendments__ 
 
@@ -45,37 +45,37 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–399, title IX, § 901][/us/pl/99/399/s901], Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
+[Pub. L. 99–399, title IX][/us/pl/99/399/tIX], § 901, Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
 
 > “This title \[enacting [section 1226 of this title][/us/usc/t33/s1226] and sections 1801 to 1809 of the former Appendix to Title 46, Shipping\] may be cited as the ‘International Maritime and Port Security Act’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–474, § 1][/us/pl/95/474/s1], Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471], provided: 
+[Pub. L. 95–474][/us/pl/95/474], § 1, Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471], provided: 
 
 > “That this Act \[enacting sections 1225, 1228 to 1231, and 1232 of this title, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and [section 1224 of this title][/us/usc/t33/s1224] and section 391a of former Title 46\] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 92–340, § 1][/us/pl/92/340/s1], July 10, 1972, [86 Stat. 424][/us/stat/86/424], as amended by [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471], provided that: 
+[Pub. L. 92–340][/us/pl/92/340], § 1, July 10, 1972, [86 Stat. 424][/us/stat/86/424], as amended by [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471], provided that: 
 
 > “This Act \[this chapter\] may be cited as the ‘Ports and Waterways Safety Act’.”
 
  __Savings Provision__ 
 
-[Pub. L. 95–474, § 6(a)][/us/pl/95/474/s6/a], Oct. 17, 1978, [92 Stat. 1492][/us/stat/92/1492], provided that: 
+[Pub. L. 95–474][/us/pl/95/474], § 6(a), Oct. 17, 1978, [92 Stat. 1492][/us/stat/92/1492], provided that: 
 
 > “Regulations previously issued under statutory provisions which are amended by section 2 of this Act \[amending this section and sections 1222 to 1227, of this title\] shall continue in effect as though issued under the authority of the Ports and Waterways Safety Act of 1972, as amended by this Act \[this chapter\], until expressly abrogated, modified, or amended by the Secretary. Any proceeding under title I of [Public Law 92–340][/us/pl/92/340] \[which enacted this section and sections 1222 to 1227 of this title\] for a violation which occurred before the effective date of this Act \[Oct. 17, 1978\] may be initiated or continued to conclusion as though such public law had not been amended by this Act \[amendment by [section 2 of Pub. L. 95–474][/us/pl/95/474/s2]\].”
 
  __Separability__ 
 
-[Pub. L. 95–474, § 6(c)][/us/pl/95/474/s6/c], Oct. 17, 1978, [92 Stat. 1493][/us/stat/92/1493], provided that: 
+[Pub. L. 95–474][/us/pl/95/474], § 6(c), Oct. 17, 1978, [92 Stat. 1493][/us/stat/92/1493], provided that: 
 
 > “If a provision of this Act \[see Short Title of 1978 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
 
  __Establishment of Vessel Traffic Control System for Prince William Sound and Valdez, Alaska__ 
 
-[Pub. L. 93–153, title IV, § 402][/us/pl/93/153/s402], Nov. 16, 1973, [87 Stat. 589][/us/stat/87/589], provided that: 
+[Pub. L. 93–153, title IV][/us/pl/93/153/tIV], § 402, Nov. 16, 1973, [87 Stat. 589][/us/stat/87/589], provided that: 
 
 > “The Secretary of the Department in which the Coast Guard is operating is hereby directed to establish a vessel traffic control system for Prince William Sound and Valdez, Alaska, pursuant to authority contained in title I of the Ports and Waterways Safety Act of 1972 ([86 Stat. 424][/us/stat/86/424], [Public Law 92–340][/us/pl/92/340]) \[this chapter, prior to the amendment by [Pub. L. 95–474][/us/pl/95/474], Oct. 17, 1978, [92 Stat. 1471][/us/stat/92/1471]\].”
 
@@ -86,31 +86,31 @@
 ----------
 ----------
 
-[/us/pl/92/340/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs2
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F424
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1471
-[/us/pl/107/295/s443/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs443%2F1
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2132
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
-[/us/pl/99/399/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs901
+[/us/pl/99/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIX
 [/us/stat/100/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F889
 [/us/usc/t33/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1226
-[/us/pl/95/474/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs1
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1471
 [/us/usc/t33/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1224
-[/us/pl/92/340/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs1
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F424
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1471
-[/us/pl/95/474/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs6%2Fa
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1492
 [/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
-[/us/pl/95/474/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs6%2Fc
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1493
-[/us/pl/93/153/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2Fs402
+[/us/pl/93/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2FtIV
 [/us/stat/87/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F589
 [/us/stat/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F424
 [/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340

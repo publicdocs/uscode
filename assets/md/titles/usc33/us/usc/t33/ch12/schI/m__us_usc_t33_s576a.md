@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    “[Section 1343 of title 31][/us/usc/t31/s1343]” substituted in text for “[section 5 of the Act of July 16, 1914][/us/act/1914-07-16/s5] (U.S.C., title 5, sec. 78)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “[Section 1343 of title 31][/us/usc/t31/s1343]” substituted in text for “[section 5 of the Act of July 16, 1914][/us/act/1914-07-16/s5] (U.S.C., title 5, sec. 78)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was formerly classified to [section 638b of Title 31][/us/usc/t31/s638b] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
@@ -39,7 +39,7 @@
 [/us/stat/47/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1599
 [/us/usc/t31/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1343
 [/us/act/1914-07-16/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-16%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t31/s638b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs638b
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

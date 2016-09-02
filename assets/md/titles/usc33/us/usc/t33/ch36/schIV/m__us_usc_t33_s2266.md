@@ -31,7 +31,7 @@
 
         In the fiscal year ending September 30, 1987, or in any fiscal year thereafter, there is authorized to be appropriated to the Secretary the sum of $1,100,000 for the purposes of subsection (b)(1) of this section, and the sum of $8,900,000 for the purposes of subsection (b)(2) of this section, such sums to remain available until expended.
 
-([Pub. L. 99–662, title VII, § 724][/us/pl/99/662/s724], Nov. 17, 1986, [100 Stat. 4163][/us/stat/100/4163].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 724, Nov. 17, 1986, [100 Stat. 4163][/us/stat/100/4163].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs724
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4163
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the department in which the Coast Guard is operating, in consultation with the heads of other appropriate Federal agencies, shall ensure that the Coast Guard pursues stronger enforcement in the International Maritime Organization of agreements related to oil discharges, including joint enforcement operations, training, and stronger compliance mechanisms.
 
-([Pub. L. 111–281, title VII, § 709][/us/pl/111/281/s709], Oct. 15, 2010, [124 Stat. 2986][/us/stat/124/2986].)
+([Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 709, Oct. 15, 2010, [124 Stat. 2986][/us/stat/124/2986].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs709
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2986
 
 

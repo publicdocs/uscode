@@ -31,11 +31,11 @@
 
         There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.
 
-([Pub. L. 99–662, title VII, § 728][/us/pl/99/662/s728], Nov. 17, 1986, [100 Stat. 4164][/us/stat/100/4164].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 728, Nov. 17, 1986, [100 Stat. 4164][/us/stat/100/4164].)
 
  __New York Bight and Harbor Study__ 
 
-[Pub. L. 102–580, title III, § 326][/us/pl/102/580/s326], Oct. 31, 1992, [106 Stat. 4850][/us/stat/106/4850], as amended by [Pub. L. 104–303, title IV, § 433][/us/pl/104/303/s433], Oct. 12, 1996, [110 Stat. 3746][/us/stat/110/3746], provided that:
+[Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 326, Oct. 31, 1992, [106 Stat. 4850][/us/stat/106/4850], as amended by [Pub. L. 104–303, title IV][/us/pl/104/303/tIV], § 433, Oct. 12, 1996, [110 Stat. 3746][/us/stat/110/3746], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -71,7 +71,7 @@
 
 >     There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 
-    [Pub. L. 100–220, title II][/us/pl/100/220], subtitle C, Dec. 29, 1987, [101 Stat. 1467][/us/stat/101/1467], as amended by [Pub. L. 100–688, title I, § 1003(b)][/us/pl/100/688/s1003/b], (c), Nov. 18, 1988, [102 Stat. 4150][/us/stat/102/4150], directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
+    [Pub. L. 100–220, title II][/us/pl/100/220/tII], subtitle C, Dec. 29, 1987, [101 Stat. 1467][/us/stat/101/1467], as amended by [Pub. L. 100–688, title I][/us/pl/100/688/tI], § 1003(b), (c), Nov. 18, 1988, [102 Stat. 4150][/us/stat/102/4150], directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
 
 ----------
 
@@ -80,16 +80,16 @@
 ----------
 ----------
 
-[/us/pl/99/662/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs728
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4164
-[/us/pl/102/580/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs326
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4850
-[/us/pl/104/303/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs433
+[/us/pl/104/303/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtIV
 [/us/stat/110/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3746
 [/us/usc/t33/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267
-[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1467
-[/us/pl/100/688/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs1003%2Fb
+[/us/pl/100/688/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtI
 [/us/stat/102/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4150
 
 

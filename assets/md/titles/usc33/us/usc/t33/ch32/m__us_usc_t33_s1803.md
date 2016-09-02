@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_ch32.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
+[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1801 _us_usc_t33_s1802.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
 
 ## § 1803. Study with respect to inland waterway user taxes and charges
 
@@ -127,7 +127,7 @@
 
         There are hereby authorized to be appropriated from time to time to the Secretary of Transportation such sums, not to exceed $8,000,000 in the aggregate, as may be necessary to carry out the study required by this section.
 
-([Pub. L. 95–502, title II, § 205][/us/pl/95/502/s205], Oct. 21, 1978, [92 Stat. 1698][/us/stat/92/1698]; [Pub. L. 104–88, title III, § 338][/us/pl/104/88/s338], Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954].)
+([Pub. L. 95–502, title II][/us/pl/95/502/tII], § 205, Oct. 21, 1978, [92 Stat. 1698][/us/stat/92/1698]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 338, Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954].)
 
  __Codification__ 
 
@@ -147,15 +147,15 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_ch32.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
+[Previous](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1801 _us_usc_t33_s1802.md) | [Next](./../../../..//us/usc/t33/ch32/m__us_usc_t33_s1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1803)
 
 ----------
 ----------
 
 [/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
-[/us/pl/95/502/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs205
+[/us/pl/95/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2FtII
 [/us/stat/92/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1698
-[/us/pl/104/88/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs338
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F954
 [/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/pl/94/587/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs158

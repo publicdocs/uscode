@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary of Commerce to carry out the National Oceanic and Atmospheric Administration Oceans and Human Health Initiative, $60,000,000 for fiscal years 2005 through 2008. Not less than 50 percent of the amounts appropriated to carry out the initiative shall be utilized in each fiscal year to support the extramural grant and traineeship programs of the Initiative.
 
-([Pub. L. 108–447, div. B, title IX, § 905][/us/pl/108/447/s905], Dec. 8, 2004, [118 Stat. 2934][/us/stat/118/2934].)
+([Pub. L. 108–447, div. B, title IX][/us/pl/108/447/dB/tIX], § 905, Dec. 8, 2004, [118 Stat. 2934][/us/stat/118/2934].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs905
+[/us/pl/108/447/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIX
 [/us/stat/118/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2934
 
 

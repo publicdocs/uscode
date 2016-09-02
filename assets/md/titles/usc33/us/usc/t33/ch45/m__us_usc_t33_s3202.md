@@ -29,7 +29,7 @@
 
     (6) to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
 
-([Pub. L. 109–424, § 3][/us/pl/109/424/s3], Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902]; [Pub. L. 109–479, title VIII, § 803][/us/pl/109/479/s803], Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653].)
+([Pub. L. 109–424][/us/pl/109/424], § 3, Dec. 20, 2006, [120 Stat. 2902][/us/stat/120/2902]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 803, Jan. 12, 2007, [120 Stat. 3653][/us/stat/120/3653].)
 
  __Codification__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/109/424/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs3
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2902
-[/us/pl/109/479/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs803
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3653
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

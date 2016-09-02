@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Sept. 22, 1922, ch. 427, § 6][/us/act/1922-09-22/ch427/s6], [42 Stat. 1042][/us/stat/42/1042], made unexpended funds, appropriated prior to Sept. 22, 1922, for river and harbor improvements, available for preservation and maintenance of existing river and harbor works and prosecution of desirable new proj­ects.
+    Section, [act Sept. 22, 1922, ch. 427][/us/act/1922-09-22/ch427], § 6, [42 Stat. 1042][/us/stat/42/1042], made unexpended funds, appropriated prior to Sept. 22, 1922, for river and harbor improvements, available for preservation and maintenance of existing river and harbor works and prosecution of desirable new proj­ects.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-22/ch427/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427%2Fs6
+[/us/act/1922-09-22/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427
 [/us/stat/42/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1042
 
 

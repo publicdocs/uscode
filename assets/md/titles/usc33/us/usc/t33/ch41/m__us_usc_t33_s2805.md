@@ -23,7 +23,7 @@
 
         For development and implementation of programs under this chapter, including financial assistance to non-Federal agencies and institutions to support implementation of intensive monitoring programs under [section 2803(d) of this title][/us/usc/t33/s2803/d], there is authorized to be appropriated to the Administrator amounts not to exceed $5,000,000 for fiscal year 1993, $8,000,000 for fiscal year 1994, and $10,000,000 for fiscal year 1995, and $12,000,000 for fiscal year 1996.
 
-([Pub. L. 92–532, title V, § 505][/us/pl/92/532/s505], as added [Pub. L. 102–567, title V, § 501][/us/pl/102/567/s501], Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
+([Pub. L. 92–532, title V][/us/pl/92/532/tV], § 505, as added [Pub. L. 102–567, title V][/us/pl/102/567/tV], § 501, Oct. 29, 1992, [106 Stat. 4299][/us/stat/106/4299].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t33/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2803%2Fd
 [/us/usc/t33/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2803%2Fd
-[/us/pl/92/532/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs505
-[/us/pl/102/567/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs501
+[/us/pl/92/532/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtV
+[/us/pl/102/567/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtV
 [/us/stat/106/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4299
 
 

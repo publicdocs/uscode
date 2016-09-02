@@ -33,7 +33,7 @@
 
         The task force shall coordinate the development of agency budgets and identify the items in their annual budget that support the activities identified in the strategy developed under subsection (a).
 
-([Pub. L. 111–11, title XII, § 12004][/us/pl/111/11/s12004], Mar. 30, 2009, [123 Stat. 1418][/us/stat/123/1418].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12004, Mar. 30, 2009, [123 Stat. 1418][/us/stat/123/1418].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12004
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1418
 
 

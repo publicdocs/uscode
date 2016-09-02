@@ -17,7 +17,7 @@
 
     Any and every master and engineer, or person or persons acting in such capacity, respectively, on board of any boat or vessel, who shall knowingly engage in towing any scow, boat, or vessel loaded with any such prohibited matter to any point or place of deposit, or discharge in the waters of any harbor subject to this subchapter, or to any point or place elsewhere than within the limits defined and permitted by the supervisor of the harbor, shall be deemed guilty of a violation of [section 441 of this title][/us/usc/t33/s441], and shall, upon conviction, be punishable as provided for offenses in violation of [section 441 of this title][/us/usc/t33/s441], and shall also have his license revoked or suspended for a term to be fixed by the judge before whom tried and convicted.
 
-([June 29, 1888, ch. 496, § 2][/us/act/1888-06-29/ch496/s2], [25 Stat. 209][/us/stat/25/209]; [Pub. L. 85–802, § 1(2)][/us/pl/85/802/s1/2], Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 2, [25 Stat. 209][/us/stat/25/209]; [Pub. L. 85–802][/us/pl/85/802], § 1(2), Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t33/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs441
 [/us/usc/t33/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs441
-[/us/act/1888-06-29/ch496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs2
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F209
-[/us/pl/85/802/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs1%2F2
+[/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/stat/72/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F970
 [/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802

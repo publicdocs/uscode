@@ -39,7 +39,7 @@
 
         (5) the total annual amount of payments or other services provided to the Corps of Engineers, the Treasury, and any other Federal agency as a result of approved non-Federal hydropower projects at Corps of Engineers civil works projects.
 
-([Pub. L. 113–121, title I, § 1008][/us/pl/113/121/s1008], June 10, 2014, [128 Stat. 1215][/us/stat/128/1215].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1008, June 10, 2014, [128 Stat. 1215][/us/stat/128/1215].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t33/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs408
-[/us/pl/113/121/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1008
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1215
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

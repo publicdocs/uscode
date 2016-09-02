@@ -69,7 +69,7 @@
 
         The United States district courts shall have original jurisdiction of cases and controversies arising out of or in connection with the construction and operation of deepwater ports, and proceedings with respect to any such case or controversy may be instituted in the judicial district in which any defendant resides or may be found, or in the judicial district of the adjacent coastal State nearest the place where the cause of action arose.
 
-([Pub. L. 93–627, § 19(a)][/us/pl/93/627/s19/a]–(e), Jan. 3, 1975, [88 Stat. 2145][/us/stat/88/2145], 2146; [Pub. L. 98–419, § 5(a)][/us/pl/98/419/s5/a], (b), Sept. 25, 1984, [98 Stat. 1609][/us/stat/98/1609].)
+([Pub. L. 93–627][/us/pl/93/627], § 19(a)–(e), Jan. 3, 1975, [88 Stat. 2145][/us/stat/88/2145], 2146; [Pub. L. 98–419][/us/pl/98/419], § 5(a), (b), Sept. 25, 1984, [98 Stat. 1609][/us/stat/98/1609].)
 
  __Codification__ 
 
@@ -77,17 +77,17 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a)(3). [Pub. L. 98–419, § 5(a)][/us/pl/98/419/s5/a], added par. (3).
+    1984—Subsec. (a)(3). [Pub. L. 98–419][/us/pl/98/419], § 5(a), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 98–419, § 5(b)][/us/pl/98/419/s5/b], added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
+    Subsec. (c)(1). [Pub. L. 98–419][/us/pl/98/419], § 5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
 
-    Subsec. (c)(2). [Pub. L. 98–419, § 5(b)][/us/pl/98/419/s5/b], redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
+    Subsec. (c)(2). [Pub. L. 98–419][/us/pl/98/419], § 5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
 
-    Subsec. (c)(3). [Pub. L. 98–419, § 5(b)][/us/pl/98/419/s5/b], added par. (3).
+    Subsec. (c)(3). [Pub. L. 98–419][/us/pl/98/419], § 5(b), added par. (3).
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–419, § 5(c)][/us/pl/98/419/s5/c], Sept. 25, 1984, [98 Stat. 1610][/us/stat/98/1610], provided that: 
+[Pub. L. 98–419][/us/pl/98/419], § 5(c), Sept. 25, 1984, [98 Stat. 1610][/us/stat/98/1610], provided that: 
 
 > “The amendment made by subsection (b) of this section \[amending this section\] shall be effective on the ninetieth day following the date of enactment of this Act \[Sept. 25, 1984\]. The Secretary of State shall make the first series of notifications referred to in section 19(a)(3) of the Deepwater Port Act of 1974 \[subsec. (a)(3) of this section\], as added by subsection (a) of this section, prior to the thirtieth day following the date of enactment of this Act \[Sept. 25, 1984\].”
 
@@ -98,17 +98,17 @@
 ----------
 ----------
 
-[/us/pl/93/627/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs19%2Fa
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2145
-[/us/pl/98/419/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fa
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1609
 [/us/pl/93/627/s19/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs19%2Ff
 [/us/usc/t43/s1333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1333%2Fa%2F2
-[/us/pl/98/419/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fa
-[/us/pl/98/419/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fb
-[/us/pl/98/419/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fb
-[/us/pl/98/419/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fb
-[/us/pl/98/419/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs5%2Fc
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1610
 
 

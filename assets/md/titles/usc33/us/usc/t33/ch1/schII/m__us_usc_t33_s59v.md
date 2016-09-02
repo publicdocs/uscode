@@ -31,7 +31,7 @@
 
         The right to alter, amend, or repeal this section is hereby expressly reserved.
 
-([Pub. L. 99–662, title XI, § 1160][/us/pl/99/662/s1160], Nov. 17, 1986, [100 Stat. 4257][/us/stat/100/4257].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1160, Nov. 17, 1986, [100 Stat. 4257][/us/stat/100/4257].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1160
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4257
 
 

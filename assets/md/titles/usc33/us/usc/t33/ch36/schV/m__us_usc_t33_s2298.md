@@ -17,7 +17,7 @@
 
     Any report describing a project having recreation benefits that is submitted after November 17, 1986, to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or by the Secretary of Agriculture under authority of the Watershed Protection and Flood Protection Act ([68 Stat. 666][/us/stat/68/666]; [16 U.S.C. 1001][/us/usc/t16/s1001] et seq.), shall describe the usage of other, similar public recreational facilities within the general area of the project, and the anticipated impact of the proposed project on the usage of such existing recreational facilities.
 
-([Pub. L. 99–662, title IX, § 928][/us/pl/99/662/s928], Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 928, Nov. 17, 1986, [100 Stat. 4195][/us/stat/100/4195].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
-[/us/pl/99/662/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs928
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4195
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666

@@ -19,7 +19,7 @@
 
     (b) The Corporation will maintain a record of the annual amount of each charge or toll that would have been collected with respect to each such commercial vessel if it were not for paragraph (a) of this section.
 
-([May 13, 1954, ch. 201, § 13][/us/act/1954-05-13/ch201/s13], as added [Pub. L. 99–662, title XIV, § 805(a)(4)][/us/pl/99/662/s805/a/4], Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272]; amended [Pub. L. 103–331, title III, § 339][/us/pl/103/331/s339], Sept. 30, 1994, [108 Stat. 2496][/us/stat/108/2496].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 13, as added [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 805(a)(4), Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272]; amended [Pub. L. 103–331, title III][/us/pl/103/331/tIII], § 339, Sept. 30, 1994, [108 Stat. 2496][/us/stat/108/2496].)
 
  __Amendments__ 
 
@@ -49,10 +49,10 @@
 [/us/usc/t33/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988
 [/us/usc/t33/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988
 [/us/usc/t26/s4462/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4462%2Fa%2F4
-[/us/act/1954-05-13/ch201/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs13
-[/us/pl/99/662/s805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs805%2Fa%2F4
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4272
-[/us/pl/103/331/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs339
+[/us/pl/103/331/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2FtIII
 [/us/stat/108/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2496
 [/us/pl/103/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331
 [/us/usc/t33/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988

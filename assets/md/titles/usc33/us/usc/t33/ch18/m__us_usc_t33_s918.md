@@ -19,7 +19,7 @@
 
     (b) In cases where judgment cannot be satisfied by reason of the employer’s insolvency or other circumstances precluding payment, the Secretary of Labor may, in his discretion and to the extent he shall determine advisable after consideration of current commitments payable from the special fund established in [section 944 of this title][/us/usc/t33/s944], make payment from such fund upon any award made under this chapter, and in addition, provide any necessary medical, surgical, and other treatment required by [section 907 of this title][/us/usc/t33/s907] in any case of disability where there has been a default in furnishing medical treatment by reason of the insolvency of the employer. Such an employer shall be liable for payment into such fund of the amounts paid therefrom by the Secretary of Labor under this subsection; and for the purpose of enforcing this liability, the Secretary of Labor for the benefit of the fund shall be subrogated to all the rights of the person receiving such payment or benefits as against the employer and may by a proceeding in the name of the Secretary of Labor under this section or under subsection (c) of [section 921 of this title][/us/usc/t33/s921], or both, seek to recover the amount of the default or so much thereof as in the judgment of the Secretary is possible, or the Secretary may settle and compromise any such claim.
 
-([Mar. 4, 1927, ch. 509, § 18][/us/act/1927-03-04/ch509/s18], [44 Stat. 1434][/us/stat/44/1434]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [July 26, 1956, ch. 735, § 6][/us/act/1956-07-26/ch735/s6], [70 Stat. 655][/us/stat/70/655]; [Pub. L. 98–426, § 27(b)][/us/pl/98/426/s27/b], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 18, [44 Stat. 1434][/us/stat/44/1434]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [July 26, 1956, ch. 735][/us/act/1956-07-26/ch735], § 6, [70 Stat. 655][/us/stat/70/655]; [Pub. L. 98–426][/us/pl/98/426], § 27(b), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Codification__ 
 
@@ -46,17 +46,17 @@
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
 [/us/usc/t33/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs907
 [/us/usc/t33/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs921
-[/us/act/1927-03-04/ch509/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs18
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1434
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1948-06-25/ch646/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/act/1956-07-26/ch735/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735%2Fs6
+[/us/act/1956-07-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch735
 [/us/stat/70/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F655
-[/us/pl/98/426/s27/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fb
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs917

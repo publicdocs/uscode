@@ -61,7 +61,7 @@
 
         For a project recommended pursuant to the study that cannot be carried out under any of the authorities specified in subsection (c), upon a determination by the Secretary of the feasibility of the project, the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under [section 2282d of this title][/us/usc/t33/s2282d].
 
-([Pub. L. 113–121, title II, § 2009][/us/pl/113/121/s2009], June 10, 2014, [128 Stat. 1269][/us/stat/128/1269].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2009, June 10, 2014, [128 Stat. 1269][/us/stat/128/1269].)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t33/s426i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426i
 [/us/usc/t33/s2309a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2309a
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
-[/us/pl/113/121/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2009
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1269
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

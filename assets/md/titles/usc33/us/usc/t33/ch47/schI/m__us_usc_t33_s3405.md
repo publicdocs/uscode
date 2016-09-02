@@ -35,7 +35,7 @@
 
         Nothing in subchapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “this”. </sup></sup>  supersedes, or limits the authority of the Secretary of the Interior under the Outer Continental Shelf Lands Act ([43 U.S.C. 1331][/us/usc/t43/s1331] et seq.).
 
-([Pub. L. 111–11, title XII, § 12005][/us/pl/111/11/s12005], Mar. 30, 2009, [123 Stat. 1418][/us/stat/123/1418].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12005, Mar. 30, 2009, [123 Stat. 1418][/us/stat/123/1418].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t33/s3403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3403%2Fa%2F4
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/111/11/s12005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12005
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1418
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345

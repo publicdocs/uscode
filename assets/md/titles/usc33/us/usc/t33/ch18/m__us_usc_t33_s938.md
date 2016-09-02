@@ -27,7 +27,7 @@
 
         This section shall not affect any other liability of the employer under this chapter.
 
-([Mar. 4, 1927, ch. 509, § 38][/us/act/1927-03-04/ch509/s38], [44 Stat. 1442][/us/stat/44/1442]; [June 25, 1938, ch. 685, § 14][/us/act/1938-06-25/ch685/s14], [52 Stat. 1168][/us/stat/52/1168]; [Pub. L. 98–426, § 22][/us/pl/98/426/s22], Sept. 28, 1984, [98 Stat. 1653][/us/stat/98/1653].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 38, [44 Stat. 1442][/us/stat/44/1442]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], § 14, [52 Stat. 1168][/us/stat/52/1168]; [Pub. L. 98–426][/us/pl/98/426], § 22, Sept. 28, 1984, [98 Stat. 1653][/us/stat/98/1653].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t33/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs932
-[/us/act/1927-03-04/ch509/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs38
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1442
-[/us/act/1938-06-25/ch685/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685%2Fs14
+[/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1168
-[/us/pl/98/426/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs22
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1653
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

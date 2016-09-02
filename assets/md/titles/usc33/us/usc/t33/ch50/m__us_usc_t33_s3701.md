@@ -33,11 +33,11 @@
 
         (4) research adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification.
 
-([Pub. L. 111–11, title XII, § 12402][/us/pl/111/11/s12402], Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12402, Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436].)
 
  __Short Title__ 
 
-[Pub. L. 111–11, title XII, § 12401][/us/pl/111/11/s12401], Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436], provided that: 
+[Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12401, Mar. 30, 2009, [123 Stat. 1436][/us/stat/123/1436], provided that: 
 
 > “This subtitle \[subtitle D (§§ 12401–12409) of title XII of [Pub. L. 111–11][/us/pl/111/11], enacting this chapter\] may be cited as the ‘Federal Ocean Acidification Research And Monitoring Act of 2009’ or the ‘FOARAM Act’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12402
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1436
-[/us/pl/111/11/s12401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12401
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1436
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

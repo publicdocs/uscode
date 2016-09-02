@@ -53,7 +53,7 @@
 
         The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.
 
-([Pub. L. 111–11, title XII, § 12203][/us/pl/111/11/s12203], Mar. 30, 2009, [123 Stat. 1423][/us/stat/123/1423].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12203, Mar. 30, 2009, [123 Stat. 1423][/us/stat/123/1423].)
 
  __Transfer of Functions__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t33/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3501
-[/us/pl/111/11/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12203
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1423
 
 

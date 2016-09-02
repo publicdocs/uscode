@@ -17,7 +17,7 @@
 
     All waters within such portion of the project are declared to be nonnavigable waters of the United States solely for the purposes of the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.) and [section 401 of this title][/us/usc/t33/s401].
 
-([Pub. L. 106–541, title III, § 347(a)(2)][/us/pl/106/541/s347/a/2], Dec. 11, 2000, [114 Stat. 2618][/us/stat/114/2618].)
+([Pub. L. 106–541, title III][/us/pl/106/541/tIII], § 347(a)(2), Dec. 11, 2000, [114 Stat. 2618][/us/stat/114/2618].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/106/541/s347/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs347%2Fa%2F2
+[/us/pl/106/541/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtIII
 [/us/stat/114/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2618
 [/us/stat/100/4092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4092
 [/us/pl/106/541/s347/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs347%2Fa%2F2

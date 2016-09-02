@@ -19,7 +19,7 @@
 
     (b) Compensation shall be payable irrespective of fault as a cause for the injury.
 
-([Mar. 4, 1927, ch. 509, § 4][/us/act/1927-03-04/ch509/s4], [44 Stat. 1426][/us/stat/44/1426]; [Pub. L. 98–426, § 4(a)][/us/pl/98/426/s4/a], Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 4, [44 Stat. 1426][/us/stat/44/1426]; [Pub. L. 98–426][/us/pl/98/426], § 4(a), Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs4
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1426
-[/us/pl/98/426/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs4%2Fa
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1641
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

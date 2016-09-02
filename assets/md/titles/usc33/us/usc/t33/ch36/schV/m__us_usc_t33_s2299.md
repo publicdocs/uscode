@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, in any case in which the use of fill material for beach erosion and beach nourishment is authorized as a purpose of an authorized water resources project, the Secretary is authorized to acquire by purchase, exchange, or otherwise from nondomestic sources and utilize such material for such purposes if such materials are not available from domestic sources for environmental or economic reasons.
 
-([Pub. L. 99–662, title IX, § 935][/us/pl/99/662/s935], Nov. 17, 1986, [100 Stat. 4197][/us/stat/100/4197].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 935, Nov. 17, 1986, [100 Stat. 4197][/us/stat/100/4197].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs935
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4197
 
 

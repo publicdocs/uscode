@@ -37,11 +37,11 @@
 
         Nothing contained in this section, with respect to structures, prohibits a State or political subdivision thereof from prescribing higher safety equipment requirements or safety standards than those which may be prescribed by regulations hereunder.
 
-([Pub. L. 92–340, § 6][/us/pl/92/340/s6], formerly title I, § 105, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1475][/us/stat/92/1475].)
+([Pub. L. 92–340][/us/pl/92/340], § 6, formerly title I, § 105, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1475][/us/stat/92/1475].)
 
  __Codification__ 
 
-    In subsec. (a)(2)(A), “[section 2101 of title 46][/us/usc/t46/s2101]” substituted for “section 4417a of the Revised Statutes \[[46 U.S.C. 391a][/us/usc/t46/s391a]\]” on authority of [Pub. L. 98–89, § 2(b)][/us/pl/98/89/s2/b], Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
+    In subsec. (a)(2)(A), “[section 2101 of title 46][/us/usc/t46/s2101]” substituted for “section 4417a of the Revised Statutes \[[46 U.S.C. 391a][/us/usc/t46/s391a]\]” on authority of [Pub. L. 98–89][/us/pl/98/89], § 2(b), Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 ----------
 
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/92/340/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs6
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F427
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1475
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t46/s391a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs391a
-[/us/pl/98/89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fb
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F598
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340

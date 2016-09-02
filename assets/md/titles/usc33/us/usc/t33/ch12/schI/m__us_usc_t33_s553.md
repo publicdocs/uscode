@@ -17,7 +17,7 @@
 
     In the collection of statistics relating to traffic, the Corps of Engineers is directed to adopt a uniform system of classification for freight, and upon rivers or inland waterways to collate ton-mileage statistics as far as practicable.
 
-([July 25, 1912, ch. 253, § 1][/us/act/1912-07-25/ch253/s1], [37 Stat. 223][/us/stat/37/223].)
+([July 25, 1912, ch. 253][/us/act/1912-07-25/ch253], § 1, [37 Stat. 223][/us/stat/37/223].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1912-07-25/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253%2Fs1
+[/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F223
 
 

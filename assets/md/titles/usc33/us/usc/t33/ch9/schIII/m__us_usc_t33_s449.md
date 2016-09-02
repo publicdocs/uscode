@@ -17,7 +17,7 @@
 
     All mud, dirt, sand, dredgings, and material of every kind and description whatever taken, dredged, or excavated from any slip, basin, or shoal in any harbor subject to this subchapter, and placed on any boat, scow, or vessel for the purpose of being taken or towed upon the waters of that harbor to a place of deposit, shall be deposited and discharged at such place or within such limits as shall be defined and specified by the supervisor of the harbor, as in sections 443 to 448 of this title prescribed, and not otherwise. Every person, firm, or corporation being the owner of any slip, basin, or shoal, from which such mud, dirt, sand, dredgings, and material shall be taken, dredged, or excavated, and every person, firm, or corporation in any manner engaged in the work of dredging or excavating any such slip, basin, or shoal, or of removing such mud, dirt, sand, or dredgings therefrom, shall severally be responsible for the deposit and discharge of all such mud, dirt, sand, or dredgings at such place or within such limits so defined and prescribed by said supervisor of the harbor; and for every violation of the provisions of this section the person offending shall be guilty of an offense, and shall be punished by a fine equal to the sum of $5 for every cubic yard of mud, dirt, sand, dredgings, or material not deposited or discharged as required by this section.
 
-([June 29, 1888, ch. 496, § 4][/us/act/1888-06-29/ch496/s4], [25 Stat. 210][/us/stat/25/210]; [Pub. L. 85–802, § 1(5)][/us/pl/85/802/s1/5], Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
+([June 29, 1888, ch. 496][/us/act/1888-06-29/ch496], § 4, [25 Stat. 210][/us/stat/25/210]; [Pub. L. 85–802][/us/pl/85/802], § 1(5), Aug. 28, 1958, [72 Stat. 970][/us/stat/72/970].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1888-06-29/ch496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496%2Fs4
+[/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F210
-[/us/pl/85/802/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802%2Fs1%2F5
+[/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802
 [/us/stat/72/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F970
 [/us/usc/t33/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs443
 [/us/pl/85/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F802

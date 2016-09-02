@@ -25,7 +25,7 @@
 
     (d) An investigation of the general subject of water terminals, with descriptions and general plans of terminals of appropriate types and construction for the harbors and waterways of the United States suitable for various commercial purposes and adapted to the varying conditions of tides, floods, and other physical characteristics.
 
-([July 18, 1918, ch. 155, § 7][/us/act/1918-07-18/ch155/s7], [40 Stat. 911][/us/stat/40/911].)
+([July 18, 1918, ch. 155][/us/act/1918-07-18/ch155], § 7, [40 Stat. 911][/us/stat/40/911].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1918-07-18/ch155/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-18%2Fch155%2Fs7
+[/us/act/1918-07-18/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-18%2Fch155
 [/us/stat/40/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F911
 
 

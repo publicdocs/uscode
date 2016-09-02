@@ -17,7 +17,7 @@
 
     Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under [section 921 of this title][/us/usc/t33/s921] or other provisions of this chapter except for proceedings in the Supreme Court of the United States.
 
-([May 4, 1928, ch. 502][/us/act/1928-05-04/ch502], [45 Stat. 490][/us/stat/45/490]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]; [Pub. L. 92–576, § 16][/us/pl/92/576/s16], Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262].)
+([May 4, 1928, ch. 502][/us/act/1928-05-04/ch502], [45 Stat. 490][/us/stat/45/490]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]; [Pub. L. 92–576][/us/pl/92/576], § 16, Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t33/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs921
 [/us/act/1928-05-04/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-04%2Fch502
 [/us/stat/45/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F490
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/92/576/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs16
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1262
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541

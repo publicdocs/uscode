@@ -51,7 +51,7 @@
 
             If a person appointed under this section is entitled to credit for the purpose of basic pay under any other provision of law that would exceed the amount of credit authorized by paragraph (1), that person shall be credited with that amount of service in lieu of the credit authorized by paragraph (1).
 
-([Pub. L. 107–372, title II, § 221][/us/pl/107/372/s221], Dec. 19, 2002, [116 Stat. 3084][/us/stat/116/3084].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 221, Dec. 19, 2002, [116 Stat. 3084][/us/stat/116/3084].)
 
  __Prior Provisions__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t10/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532%2Fa
-[/us/pl/107/372/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs221
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3084
 [/us/usc/t33/s853t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853t
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

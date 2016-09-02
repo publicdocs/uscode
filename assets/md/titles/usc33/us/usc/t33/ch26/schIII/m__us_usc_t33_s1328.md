@@ -27,7 +27,7 @@
 
         Each State desiring to administer its own permit program within its jurisdiction for discharge of a specific pollutant or pollutants under controlled conditions associated with an approved aquaculture project may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 318, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 877][/us/stat/86/877]; amended [Pub. L. 95–217, § 63][/us/pl/95/217/s63], Dec. 27, 1977, [91 Stat. 1599][/us/stat/91/1599].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 318, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 877][/us/stat/86/877]; amended [Pub. L. 95–217][/us/pl/95/217], § 63, Dec. 27, 1977, [91 Stat. 1599][/us/stat/91/1599].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F877
-[/us/pl/95/217/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs63
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1599
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342

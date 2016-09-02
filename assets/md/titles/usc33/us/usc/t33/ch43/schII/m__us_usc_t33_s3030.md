@@ -29,7 +29,7 @@
 
         (3) Temporary appointments may be made in all grades to which original appointments in the Administration are authorized, except that the number of officers holding temporary appointments may not exceed the number of officers transferred to a military department under [section 3061 of this title][/us/usc/t33/s3061].
 
-([Pub. L. 107–372, title II, § 230][/us/pl/107/372/s230], Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 230, Dec. 19, 2002, [116 Stat. 3087][/us/stat/116/3087].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t33/s3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3061
 [/us/usc/t33/s3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3061
 [/us/usc/t33/s3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3061
-[/us/pl/107/372/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs230
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3087
 [/us/usc/t33/s854a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a%E2%80%931
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

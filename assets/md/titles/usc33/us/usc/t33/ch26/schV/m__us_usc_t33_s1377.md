@@ -81,7 +81,7 @@
 
         (2) “Indian tribe” means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 518, as added [Pub. L. 100–4, title V, § 506][/us/pl/100/4/s506], Feb. 4, 1987, [101 Stat. 76][/us/stat/101/76]; amended [Pub. L. 100–581, title II, § 207][/us/pl/100/581/s207], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 106–284, § 6][/us/pl/106/284/s6], Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876]; [Pub. L. 113–121, title V, § 5013][/us/pl/113/121/s5013], June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 518, as added [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 506, Feb. 4, 1987, [101 Stat. 76][/us/stat/101/76]; amended [Pub. L. 100–581, title II][/us/pl/100/581/tII], § 207, Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 106–284][/us/pl/106/284], § 6, Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876]; [Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5013, June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
 
  __References in Text__ 
 
@@ -93,9 +93,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–121, § 5013(1)][/us/pl/113/121/s5013/1], (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+    2014—Subsec. (c). [Pub. L. 113–121][/us/pl/113/121], § 5013(1), (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-    Subsec. (c)(1). [Pub. L. 113–121, § 5013(2)][/us/pl/113/121/s5013/2], substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in [Public Law 92–203][/us/pl/92/203].”
+    Subsec. (c)(1). [Pub. L. 113–121][/us/pl/113/121], § 5013(2), substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in [Public Law 92–203][/us/pl/92/203].”
 
     2000—Subsec. (e). [Pub. L. 106–284][/us/pl/106/284] substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
 
@@ -103,25 +103,25 @@
 
  __Grants for Construction of Water Facilities and for Water Quality Protection__ 
 
-[Pub. L. 109–54, title II][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], provided in part: 
+[Pub. L. 109–54, title II][/us/pl/109/54/tII], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], provided in part: 
 
 > “That, notwithstanding this or any other appropriations Act, heretofore and hereafter, after consultation with the House and Senate Committees on Appropriations and for the purpose of making technical corrections, the Administrator is authorized to award grants under this heading \[State and Tribal Assistance Grants\] to entities and for purposes other than those listed in the joint explanatory statements of the managers accompanying the Agency’s appropriations Acts for the construction of drinking water, wastewater and stormwater infrastructure and for water quality protection.”
 
  __Grants to Indian Tribes__ 
 
-Provisions stating that for fiscal year 2006 and notwithstanding [section 1377(f) of this title][/us/usc/t33/s1377/f], the Administrator was authorized to use the amounts appropriated for any fiscal year under [section 1329 of this title][/us/usc/t33/s1329] to make grants to Indian tribes pursuant to sections 1329(h) and 1377(e) of this title, were contained in the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2006, [Pub. L. 109–54, title II][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Provisions stating that for fiscal year 2006 and notwithstanding [section 1377(f) of this title][/us/usc/t33/s1377/f], the Administrator was authorized to use the amounts appropriated for any fiscal year under [section 1329 of this title][/us/usc/t33/s1329] to make grants to Indian tribes pursuant to sections 1329(h) and 1377(e) of this title, were contained in the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2006, [Pub. L. 109–54, title II][/us/pl/109/54/tII], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. I, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3330][/us/stat/118/3330].
+    [Pub. L. 108–447, div. I, title III][/us/pl/108/447/dI/tIII], Dec. 8, 2004, [118 Stat. 3330][/us/stat/118/3330].
 
-    [Pub. L. 108–199, div. G, title III][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 406][/us/stat/118/406].
+    [Pub. L. 108–199, div. G, title III][/us/pl/108/199/dG/tIII], Jan. 23, 2004, [118 Stat. 406][/us/stat/118/406].
 
-    [Pub. L. 108–7, div. K, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 512][/us/stat/117/512].
+    [Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], Feb. 20, 2003, [117 Stat. 512][/us/stat/117/512].
 
-    [Pub. L. 107–73, title III][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 685][/us/stat/115/685].
+    [Pub. L. 107–73, title III][/us/pl/107/73/tIII], Nov. 26, 2001, [115 Stat. 685][/us/stat/115/685].
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–43.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–43.
 
-    [Pub. L. 106–74, title III][/us/pl/106/74], Oct. 20, 1999, [113 Stat. 1083][/us/stat/113/1083].
+    [Pub. L. 106–74, title III][/us/pl/106/74/tIII], Oct. 20, 1999, [113 Stat. 1083][/us/stat/113/1083].
 
 ----------
 
@@ -146,42 +146,42 @@ Provisions stating that for fiscal year 2006 and notwithstanding [section 1377(f
 [/us/stat/48/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F987
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs506
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F76
-[/us/pl/100/581/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2Fs207
+[/us/pl/100/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581%2FtII
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
-[/us/pl/106/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs6
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F876
-[/us/pl/113/121/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1328
 [/us/stat/48/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F987
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/113/121/s5013/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013%2F1
-[/us/pl/113/121/s5013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtII
 [/us/stat/119/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F530
 [/us/usc/t33/s1377/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1377%2Ff
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtII
 [/us/stat/119/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F530
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtIII
 [/us/stat/118/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3330
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIII
 [/us/stat/118/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F406
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F512
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIII
 [/us/stat/115/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F685
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtIII
 [/us/stat/113/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1083
 
 

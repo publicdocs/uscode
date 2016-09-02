@@ -23,7 +23,7 @@
 
         Member Departments and agencies of the Council shall have the authority to create, support, and maintain joint centers, and to enter into and perform such contracts, leases, grants, and cooperative agreements as may be necessary to carry out the purposes of this chapter and fulfillment of the System Plan.
 
-([Pub. L. 111–11, title XII, § 12305][/us/pl/111/11/s12305], Mar. 30, 2009, [123 Stat. 1434][/us/stat/123/1434].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12305, Mar. 30, 2009, [123 Stat. 1434][/us/stat/123/1434].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12305
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1434
 
 

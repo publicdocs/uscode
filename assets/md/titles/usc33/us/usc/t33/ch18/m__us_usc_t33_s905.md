@@ -27,15 +27,15 @@
 
         In the event that the negligence of a vessel causes injury to a person entitled to receive benefits under this Act by virtue of [section 1333 of title 43][/us/usc/t43/s1333], then such person, or anyone otherwise entitled to recover damages by reason thereof, may bring an action against such vessel in accordance with the provisions of subsection (b) of this section. Nothing contained in subsection (b) of this section shall preclude the enforcement according to its terms of any reciprocal indemnity provision whereby the employer of a person entitled to receive benefits under this chapter by virtue of [section 1333 of title 43][/us/usc/t43/s1333] and the vessel agree to defend and indemnify the other for cost of defense and loss or liability for damages arising out of or resulting from death or bodily injury to their employees.
 
-([Mar. 4, 1927, ch. 509, § 5][/us/act/1927-03-04/ch509/s5], [44 Stat. 1426][/us/stat/44/1426]; [Pub. L. 92–576, § 18(a)][/us/pl/92/576/s18/a], Oct. 27, 1972, [86 Stat. 1263][/us/stat/86/1263]; [Pub. L. 98–426][/us/pl/98/426], §§ 4(b), 5(a)(1), (b), Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 5, [44 Stat. 1426][/us/stat/44/1426]; [Pub. L. 92–576][/us/pl/92/576], § 18(a), Oct. 27, 1972, [86 Stat. 1263][/us/stat/86/1263]; [Pub. L. 98–426][/us/pl/98/426], §§ 4(b), 5(a)(1), (b), Sept. 28, 1984, [98 Stat. 1641][/us/stat/98/1641].)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–426, § 4(b)][/us/pl/98/426/s4/b], inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor’s employees only if the subcontractor fails to secure the payment of compensation as required by [section 904 of this title][/us/usc/t33/s904].”
+    1984—Subsec. (a). [Pub. L. 98–426][/us/pl/98/426], § 4(b), inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor’s employees only if the subcontractor fails to secure the payment of compensation as required by [section 904 of this title][/us/usc/t33/s904].”
 
-    Subsec. (b). [Pub. L. 98–426, § 5(a)(1)][/us/pl/98/426/s5/a/1], substituted “If such person was employed to provide shipbuilding, repairing, or breaking services and such person’s employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person’s employer (in any capacity, including as the vessel’s owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer” for “If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel”.
+    Subsec. (b). [Pub. L. 98–426][/us/pl/98/426], § 5(a)(1), substituted “If such person was employed to provide shipbuilding, repairing, or breaking services and such person’s employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person’s employer (in any capacity, including as the vessel’s owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer” for “If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel”.
 
-    Subsec. (c). [Pub. L. 98–426, § 5(b)][/us/pl/98/426/s5/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–426][/us/pl/98/426], § 5(b), added subsec. (c).
 
     1972—[Pub. L. 92–576][/us/pl/92/576] designated existing provisions as subsec. (a), substituted “the chapter” for “this chapter”, and added subsec. (b).
 
@@ -59,16 +59,16 @@
 [/us/usc/t33/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs933
 [/us/usc/t43/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1333
 [/us/usc/t43/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1333
-[/us/act/1927-03-04/ch509/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs5
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1426
-[/us/pl/92/576/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs18%2Fa
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1263
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1641
-[/us/pl/98/426/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs4%2Fb
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs904
-[/us/pl/98/426/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs5%2Fa%2F1
-[/us/pl/98/426/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs5%2Fb
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/98/426/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs4%2Fb
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

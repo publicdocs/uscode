@@ -27,7 +27,7 @@
 
         (2) to shipwrecked persons who are temporarily provided for by the officer.
 
-([Pub. L. 107–372, title II, § 265][/us/pl/107/372/s265], Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 265, Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs265
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3093
 [/us/usc/t33/s874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs874
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

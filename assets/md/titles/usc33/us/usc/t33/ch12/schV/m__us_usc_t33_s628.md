@@ -17,7 +17,7 @@
 
     No money appropriated for the improvement of rivers and harbors shall be expended for dredging inside of harbor lines duly established.
 
-([July 13, 1892, ch. 158, § 5][/us/act/1892-07-13/ch158/s5], [27 Stat. 111][/us/stat/27/111].)
+([July 13, 1892, ch. 158][/us/act/1892-07-13/ch158], § 5, [27 Stat. 111][/us/stat/27/111].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1892-07-13/ch158/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-13%2Fch158%2Fs5
+[/us/act/1892-07-13/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-13%2Fch158
 [/us/stat/27/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F111
 
 

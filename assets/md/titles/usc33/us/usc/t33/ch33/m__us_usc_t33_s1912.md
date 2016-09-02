@@ -17,7 +17,7 @@
 
     Any action taken under this chapter shall be taken in accordance with international law.
 
-([Pub. L. 96–478, § 17][/us/pl/96/478/s17], as added [Pub. L. 100–220, title II, § 2108][/us/pl/100/220/s2108], Dec. 29, 1987, [101 Stat. 1464][/us/stat/101/1464].)
+([Pub. L. 96–478][/us/pl/96/478], § 17, as added [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2108, Dec. 29, 1987, [101 Stat. 1464][/us/stat/101/1464].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/96/478/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs17
-[/us/pl/100/220/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2108
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1464
 
 

@@ -31,7 +31,7 @@
 
         Any penalty assessed under this section may be remitted or mitigated by the Secretary upon such terms as he may deem proper.
 
-([Pub. L. 92–63, § 9][/us/pl/92/63/s9], Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
+([Pub. L. 92–63][/us/pl/92/63], § 9, Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/92/63/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs9
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F165
 
 

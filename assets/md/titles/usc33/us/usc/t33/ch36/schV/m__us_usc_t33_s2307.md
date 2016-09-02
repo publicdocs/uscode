@@ -51,7 +51,7 @@
 
         Not later than March 1, 1989, the Secretary shall report to the Congress on activities under this section.
 
-([Pub. L. 99–662, title XI, § 1101][/us/pl/99/662/s1101], Nov. 17, 1986, [100 Stat. 4223][/us/stat/100/4223].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1101, Nov. 17, 1986, [100 Stat. 4223][/us/stat/100/4223].)
 
  __Termination of Reporting Requirements__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t33/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213
-[/us/pl/99/662/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1101
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4223
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

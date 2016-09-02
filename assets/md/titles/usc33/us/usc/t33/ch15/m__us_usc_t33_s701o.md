@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 202, [62 Stat. 1175][/us/stat/62/1175], related to conditions precedent on unauthorized projects and modifications. Similar provisions were contained in [act July 24, 1946, ch. 596, § 2][/us/act/1946-07-24/ch596/s2], [60 Stat. 641][/us/stat/60/641]. See [section 701b–8 of this title][/us/usc/t33/s701b–8].
+    Section, [act June 30, 1948, ch. 771, title II][/us/act/1948-06-30/ch771/tII], § 202, [62 Stat. 1175][/us/stat/62/1175], related to conditions precedent on unauthorized projects and modifications. Similar provisions were contained in [act July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], § 2, [60 Stat. 641][/us/stat/60/641]. See [section 701b–8 of this title][/us/usc/t33/s701b–8].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-30/ch771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771
+[/us/act/1948-06-30/ch771/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771%2FtII
 [/us/stat/62/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1175
-[/us/act/1946-07-24/ch596/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596%2Fs2
+[/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F641
 [/us/usc/t33/s701b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%938
 

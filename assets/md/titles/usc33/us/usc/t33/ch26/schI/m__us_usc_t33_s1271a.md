@@ -29,7 +29,7 @@
 
             Funds appropriated under paragraph (1) shall remain available until expended.
 
-([Pub. L. 107–303, title I, § 106][/us/pl/107/303/s106], Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358]; [Pub. L. 110–365, § 4][/us/pl/110/365/s4], Oct. 8, 2008, [122 Stat. 4023][/us/stat/122/4023].)
+([Pub. L. 107–303, title I][/us/pl/107/303/tI], § 106, Nov. 27, 2002, [116 Stat. 2358][/us/stat/116/2358]; [Pub. L. 110–365][/us/pl/110/365], § 4, Oct. 8, 2008, [122 Stat. 4023][/us/stat/122/4023].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/107/303/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs106
+[/us/pl/107/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtI
 [/us/stat/116/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2358
-[/us/pl/110/365/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365%2Fs4
+[/us/pl/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365
 [/us/stat/122/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4023
 [/us/pl/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365
 

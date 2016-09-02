@@ -33,7 +33,7 @@
 
         The funds to carry out the provisions of this section shall include funds deposited in a special account with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
 
-([Pub. L. 102–580, title IV, § 401][/us/pl/102/580/s401], Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862].)
+([Pub. L. 102–580, title IV][/us/pl/102/580/tIV], § 401, Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/580/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs401
+[/us/pl/102/580/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIV
 [/us/stat/106/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4862
 [/us/pl/102/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs3
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

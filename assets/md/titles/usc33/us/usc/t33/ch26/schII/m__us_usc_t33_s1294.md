@@ -17,7 +17,7 @@
 
     The Administrator shall develop and operate within one year of December 27, 1977, a continuing program of public information and education on recycling and reuse of wastewater (including sludge), the use of land treatment, and methods for the reduction of wastewater volume.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 214, as added [Pub. L. 95–217, § 38][/us/pl/95/217/s38], Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 214, as added [Pub. L. 95–217][/us/pl/95/217], § 38, Dec. 27, 1977, [91 Stat. 1581][/us/stat/91/1581].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/95/217/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs38
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1581
 
 

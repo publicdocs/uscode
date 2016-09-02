@@ -31,7 +31,7 @@
 
         The Secretary shall prioritize technical assistance provided under this section for Arctic deep draft ports identified by the Secretary, the Secretary of Homeland Security, and the Secretary of Defense as important for Arctic development and security.
 
-([Pub. L. 113–121, title II, § 2105][/us/pl/113/121/s2105], June 10, 2014, [128 Stat. 1279][/us/stat/128/1279].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2105, June 10, 2014, [128 Stat. 1279][/us/stat/128/1279].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/113/121/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2105
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1279
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

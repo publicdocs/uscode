@@ -27,11 +27,11 @@
 
         The Secretary shall prepare biennially for public information a report for each State containing a description of each water resources project under the jurisdiction of the Secretary in such State and the status of each such project. Each report shall include an index. The report for each State shall be prepared in a separate volume. The reports under this subsection shall be published at the same time and the first such reports shall be published not later than one year after November 17, 1986.
 
-([Pub. L. 99–662, title IX, § 925][/us/pl/99/662/s925], Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 925, Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194].)
 
  __Compilation of Laws__ 
 
-[Pub. L. 110–114, title II, § 2004][/us/pl/110/114/s2004], Nov. 8, 2007, [121 Stat. 1071][/us/stat/121/1071], provided that:
+[Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2004, Nov. 8, 2007, [121 Stat. 1071][/us/stat/121/1071], provided that:
 
 >     “(a)  __Compilation of Laws Enacted After November__  __8, 1966.—__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t33/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs556
-[/us/pl/99/662/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs925
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4194
-[/us/pl/110/114/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2004
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1071
 
 

@@ -41,7 +41,7 @@
 
         The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) of this section before January 1, 2007, including requirements for the operation and maintenance of the electronic charts required under subsection (a) of this section.
 
-([Pub. L. 92–340, § 4A][/us/pl/92/340/s4A], as added [Pub. L. 108–293, title IV, § 410][/us/pl/108/293/s410], Aug. 9, 2004, [118 Stat. 1045][/us/stat/118/1045].)
+([Pub. L. 92–340][/us/pl/92/340], § 4A, as added [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 410, Aug. 9, 2004, [118 Stat. 1045][/us/stat/118/1045].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/92/340/s4A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs4A
-[/us/pl/108/293/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs410
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1045
 
 

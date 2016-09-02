@@ -205,7 +205,7 @@
 
             All studies and projects carried out under this section from Army Civil Works appropriations shall be fully funded within the program funding levels provided in this subsection.
 
-([Pub. L. 106–53, title II, § 212][/us/pl/106/53/s212], Aug. 17, 1999, [113 Stat. 288][/us/stat/113/288]; [Pub. L. 106–541, title II, § 227][/us/pl/106/541/s227], Dec. 11, 2000, [114 Stat. 2599][/us/stat/114/2599]; [Pub. L. 110–114, title V, § 5005][/us/pl/110/114/s5005], Nov. 8, 2007, [121 Stat. 1192][/us/stat/121/1192].)
+([Pub. L. 106–53, title II][/us/pl/106/53/tII], § 212, Aug. 17, 1999, [113 Stat. 288][/us/stat/113/288]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 227, Dec. 11, 2000, [114 Stat. 2599][/us/stat/114/2599]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5005, Nov. 8, 2007, [121 Stat. 1192][/us/stat/121/1192].)
 
  __Codification__ 
 
@@ -213,11 +213,11 @@
 
  __Amendments__ 
 
-    2007—Subsec. (e)(23). [Pub. L. 110–114, § 5005(a)(1)][/us/pl/110/114/s5005/a/1], struck out “and” at end.
+    2007—Subsec. (e)(23). [Pub. L. 110–114][/us/pl/110/114], § 5005(a)(1), struck out “and” at end.
 
-    Subsec. (e)(29) to (33). [Pub. L. 110–114, § 5005(a)][/us/pl/110/114/s5005/a], added pars. (29) to (33).
+    Subsec. (e)(29) to (33). [Pub. L. 110–114][/us/pl/110/114], § 5005(a), added pars. (29) to (33).
 
-    Subsec. (i)(1). [Pub. L. 110–114, § 5005(b)][/us/pl/110/114/s5005/b], substituted “section $20,000,000” for “section—
+    Subsec. (i)(1). [Pub. L. 110–114][/us/pl/110/114], § 5005(b), substituted “section $20,000,000” for “section—
 
     “(A) $20,000,000 for fiscal year 2001;
 
@@ -247,15 +247,15 @@
 [/us/usc/t33/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2215
 [/us/usc/t33/s2213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213%2Fa
 [/us/usc/t42/s1962–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%932
-[/us/pl/106/53/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs212
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F288
-[/us/pl/106/541/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs227
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2599
-[/us/pl/110/114/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5005
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1192
-[/us/pl/110/114/s5005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5005%2Fa%2F1
-[/us/pl/110/114/s5005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5005%2Fa
-[/us/pl/110/114/s5005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5005%2Fb
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

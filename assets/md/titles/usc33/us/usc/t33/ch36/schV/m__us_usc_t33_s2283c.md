@@ -27,7 +27,7 @@
 
         The Secretary shall seek to ensure any technical assistance provided under this section will support the establishment of mitigation instruments that will result in restoration of high-priority areas identified in the plans under paragraph (2).
 
-([Pub. L. 113–121, title I, § 1040(c)][/us/pl/113/121/s1040/c], June 10, 2014, [128 Stat. 1243][/us/stat/128/1243].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1040(c), June 10, 2014, [128 Stat. 1243][/us/stat/128/1243].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s1040/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fc
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1243
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

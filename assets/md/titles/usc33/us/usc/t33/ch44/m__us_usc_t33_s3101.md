@@ -91,7 +91,7 @@
 
         (5) any recommendations regarding additional action or legislation that may be required to assist in achieving the purposes of this chapter.
 
-([Pub. L. 108–447, div. B, title IX, § 902][/us/pl/108/447/s902], Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930].)
+([Pub. L. 108–447, div. B, title IX][/us/pl/108/447/dB/tIX], § 902, Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–447, div. B, title IX, § 901][/us/pl/108/447/s901], Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930], provided that: 
+[Pub. L. 108–447, div. B, title IX][/us/pl/108/447/dB/tIX], § 901, Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Oceans and Human Health Act’.”
 
@@ -115,14 +115,14 @@
 ----------
 
 [/us/usc/t10/s7902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7902%2Fa
-[/us/pl/108/447/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs902
+[/us/pl/108/447/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIX
 [/us/stat/118/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2930
 [/us/usc/t33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/pl/105/383/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs603
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001
-[/us/pl/108/447/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs901
+[/us/pl/108/447/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIX
 [/us/stat/118/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2930
 
 

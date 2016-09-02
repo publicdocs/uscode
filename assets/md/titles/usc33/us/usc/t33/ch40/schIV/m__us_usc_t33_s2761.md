@@ -27,7 +27,7 @@
 
         (3) __Membership__ 
 
-            The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, and such other Federal agencies the President may designate.
+            The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management, and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, the United States Arctic Research Commission, and such other Federal agencies the President may designate.
 
         (4) __Chairman__ 
 
@@ -53,7 +53,7 @@
 
         (2) __Advice and guidance__ 
 
-        The Chairman, through the Department of Transportation, shall contract with the National Academy of Sciences to—
+        The Chairman, through the department in which the Coast Guard is operating, shall contract with the National Academy of Sciences to—
 
             (A) provide advice and guidance in the preparation and development of the research plan; and
 
@@ -151,7 +151,7 @@
 
         (8) __Regional research program__ 
 
-            (A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+            (A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
             (B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
@@ -203,7 +203,7 @@
 
         All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
 
-([Pub. L. 101–380, title VII, § 7001][/us/pl/101/380/s7001], Aug. 18, 1990, [104 Stat. 559][/us/stat/104/559]; [Pub. L. 101–537, title II, § 2002][/us/pl/101/537/s2002], Nov. 8, 1990, [104 Stat. 2375][/us/stat/104/2375]; [Pub. L. 101–646, title IV, § 4002][/us/pl/101/646/s4002], Nov. 29, 1990, [104 Stat. 4788][/us/stat/104/4788]; [Pub. L. 104–324, title XI][/us/pl/104/324], §§ 1102(c)(2), 1108, Oct. 19, 1996, [110 Stat. 3966][/us/stat/110/3966], 3968; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], (2), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 108–426, § 2(c)(5)][/us/pl/108/426/s2/c/5], Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424]; [Pub. L. 109–241, title VI, § 605(a)(1)][/us/pl/109/241/s605/a/1], title IX, § 902(l)(3), (4), July 11, 2006, [120 Stat. 555][/us/stat/120/555], 568.)
+([Pub. L. 101–380, title VII][/us/pl/101/380/tVII], § 7001, Aug. 18, 1990, [104 Stat. 559][/us/stat/104/559]; [Pub. L. 101–537, title II][/us/pl/101/537/tII], § 2002, Nov. 8, 1990, [104 Stat. 2375][/us/stat/104/2375]; [Pub. L. 101–646, title IV][/us/pl/101/646/tIV], § 4002, Nov. 29, 1990, [104 Stat. 4788][/us/stat/104/4788]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], §§ 1102(c)(2), 1108, Oct. 19, 1996, [110 Stat. 3966][/us/stat/110/3966], 3968; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), (2), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 108–426][/us/pl/108/426], § 2(c)(5), Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424]; [Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 605(a)(1), title IX, § 902(l)(3), (4), July 11, 2006, [120 Stat. 555][/us/stat/120/555], 568; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 319, Feb. 8, 2016, [130 Stat. 66][/us/stat/130/66].)
 
  __References in Text__ 
 
@@ -211,31 +211,37 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–241, § 902][/us/pl/109/241/s902](l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
+    2016—Subsec. (a)(3). [Pub. L. 114–120][/us/pl/114/120], § 319(a), substituted “Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management,” for “Minerals Management Service” and inserted “the United States Arctic Research Commission,” after “National Aeronautics and Space Administration,”.
+
+    Subsec. (b)(2). [Pub. L. 114–120][/us/pl/114/120], § 319(b)(1), substituted “department in which the Coast Guard is operating” for “Department of Transportation” in introductory provisions.
+
+    Subsec. (c)(8)(A). [Pub. L. 114–120][/us/pl/114/120], § 319(b)(2), substituted “(2010)” for “(1989)”.
+
+    2006—Subsec. (a). [Pub. L. 109–241][/us/pl/109/241], § 902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
     “Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
     A representative of the Department of Transportation shall serve as Chairman.”
 
-    Subsec. (c)(4)(B). [Pub. L. 109–241, § 605(a)(1)][/us/pl/109/241/s605/a/1], substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
+    Subsec. (c)(4)(B). [Pub. L. 109–241][/us/pl/109/241], § 605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
 
-    Subsec. (c)(6). [Pub. L. 109–241, § 902][/us/pl/109/241/s902](l)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
+    Subsec. (c)(6). [Pub. L. 109–241][/us/pl/109/241], § 902(l)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
 
-    2004—Subsec. (a)(3). [Pub. L. 108–426, § 2(c)(5)(A)][/us/pl/108/426/s2/c/5/A], substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+    2004—Subsec. (a)(3). [Pub. L. 108–426][/us/pl/108/426], § 2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
-    Subsec. (c)(11). [Pub. L. 108–426, § 2(c)(5)(B)][/us/pl/108/426/s2/c/5/B], substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
+    Subsec. (c)(11). [Pub. L. 108–426][/us/pl/108/426], § 2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
 
-    1996—Subsec. (c)(2)(D). [Pub. L. 104–324, § 1108][/us/pl/104/324/s1108], inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
+    1996—Subsec. (c)(2)(D). [Pub. L. 104–324][/us/pl/104/324], § 1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
 
-    Subsec. (c)(6). [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 4002(1)][/us/pl/101/646/s4002/1]. See 1990 Amendment note below.
+    Subsec. (c)(6). [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 4002(1). See 1990 Amendment note below.
 
-    Subsec. (c)(9). [Pub. L. 104–324, § 1102(c)(2)][/us/pl/104/324/s1102/c/2], inserted “until the authorization for funding under [section 2736(b) of this title][/us/usc/t33/s2736/b] expires” before period at end.
+    Subsec. (c)(9). [Pub. L. 104–324][/us/pl/104/324], § 1102(c)(2), inserted “until the authorization for funding under [section 2736(b) of this title][/us/usc/t33/s2736/b] expires” before period at end.
 
-    Subsec. (f). [Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 4002(2)][/us/pl/101/646/s4002/2]. See 1990 Amendment note below.
+    Subsec. (f). [Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 4002(2). See 1990 Amendment note below.
 
-    1990—Subsec. (c)(6). [Pub. L. 101–537, § 2002(1)][/us/pl/101/537/s2002/1], and [Pub. L. 101–646, § 4002(1)][/us/pl/101/646/s4002/1], as amended by [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+    1990—Subsec. (c)(6). [Pub. L. 101–537][/us/pl/101/537], § 2002(1), and [Pub. L. 101–646][/us/pl/101/646], § 4002(1), as amended by [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
 
-    Subsec. (f). [Pub. L. 101–537, § 2002(2)][/us/pl/101/537/s2002/2], and [Pub. L. 101–646, § 4002(2)][/us/pl/101/646/s4002/2], as amended by [Pub. L. 104–332][/us/pl/104/332], amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+    Subsec. (f). [Pub. L. 101–537][/us/pl/101/537], § 2002(2), and [Pub. L. 101–646][/us/pl/101/646], § 4002(2), as amended by [Pub. L. 104–332][/us/pl/104/332], amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
 
  __Transfer of Functions__ 
 
@@ -256,40 +262,45 @@
 
 [/us/usc/t33/s2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2731
 [/us/usc/t33/s2736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2736%2Fb
-[/us/pl/101/380/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs7001
+[/us/pl/101/380/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtVII
 [/us/stat/104/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F559
-[/us/pl/101/537/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs2002
+[/us/pl/101/537/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtII
 [/us/stat/104/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2375
-[/us/pl/101/646/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4002
+[/us/pl/101/646/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIV
 [/us/stat/104/4788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4788
-[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3966
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
-[/us/pl/108/426/s2/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fc%2F5
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2424
-[/us/pl/109/241/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs605%2Fa%2F1
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F555
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F66
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
-[/us/pl/109/241/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs605%2Fa%2F1
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
-[/us/pl/108/426/s2/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fc%2F5%2FA
-[/us/pl/108/426/s2/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fc%2F5%2FB
-[/us/pl/104/324/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1108
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s4002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4002%2F1
-[/us/pl/104/324/s1102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1102%2Fc%2F2
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t33/s2736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2736%2Fb
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s4002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4002%2F2
-[/us/pl/101/537/s2002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs2002%2F1
-[/us/pl/101/646/s4002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4002%2F1
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/537/s2002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs2002%2F2
-[/us/pl/101/646/s4002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs4002%2F2
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321

@@ -31,7 +31,7 @@
 
     (b) The purpose of this chapter is to promote and facilitate responsible and effective efforts to establish artificial reefs in waters covered under this chapter.
 
-([Pub. L. 98–623, title II, § 202][/us/pl/98/623/s202], Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394].)
+([Pub. L. 98–623, title II][/us/pl/98/623/tII], § 202, Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–623, title II, § 201][/us/pl/98/623/s201], Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394], provided that: 
+[Pub. L. 98–623, title II][/us/pl/98/623/tII], § 201, Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394], provided that: 
 
 > “This title \[enacting this chapter and [section 1220d of Title 16][/us/usc/t16/s1220d], Conservation, and amending sections 1220 to 1220c of Title 16\] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/98/623/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs202
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3394
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t16/s1220d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220d
-[/us/pl/98/623/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs201
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3394
 [/us/usc/t16/s1220d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220d
 

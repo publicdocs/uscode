@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4298 derived from [act Aug. 5, 1861, ch. 48, § 2][/us/act/1861-08-05/ch48/s2], [12 Stat. 315][/us/stat/12/315].
+    R.S. § 4298 derived from [act Aug. 5, 1861, ch. 48][/us/act/1861-08-05/ch48], § 2, [12 Stat. 315][/us/stat/12/315].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs385
-[/us/act/1861-08-05/ch48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-05%2Fch48%2Fs2
+[/us/act/1861-08-05/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-05%2Fch48
 [/us/stat/12/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F315
 
 

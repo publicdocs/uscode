@@ -17,7 +17,7 @@
 
     In any case where the employer is not a self-insurer, in order that the liability for compensation imposed by this chapter may be most effectively discharged by the employer, and in order that the administration of this chapter in respect of such liability may be facilitated, the Secretary shall by regulation provide for the discharge, by the carrier for such employer, of such obligations and duties of the employer in respect to such liability, imposed by this chapter upon the employer, as it considers proper in order to effectuate the provisions of this chapter. For such purposes (1) notice to or knowledge of an employer of the occurrence of the injury shall be notice to or knowledge of the carrier, (2) jurisdiction of the employer by a deputy commissioner, the Board, or the Secretary, or any court under this chapter shall be jurisdiction of the carrier, and (3) any requirement by a deputy commissioner, the Board, or the Secretary, or any court under any compensation order, finding, or decision shall be binding upon the carrier in the same manner and to the same extent as upon the employer.
 
-([Mar. 4, 1927, ch. 509, § 35][/us/act/1927-03-04/ch509/s35], [44 Stat. 1441][/us/stat/44/1441]; [Pub. L. 92–576, § 15(i)][/us/pl/92/576/s15/i], Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262]; [Pub. L. 98–426, § 27(a)(2)][/us/pl/98/426/s27/a/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 35, [44 Stat. 1441][/us/stat/44/1441]; [Pub. L. 92–576][/us/pl/92/576], § 15(i), Oct. 27, 1972, [86 Stat. 1262][/us/stat/86/1262]; [Pub. L. 98–426][/us/pl/98/426], § 27(a)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs35
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1441
-[/us/pl/92/576/s15/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs15%2Fi
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1262
-[/us/pl/98/426/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fa%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902

@@ -45,7 +45,7 @@
 
         This section shall not affect the authority of the Secretary and the Administrator of the Bonneville Power Administration under [section 839d–1 of title 16][/us/usc/t16/s839d–1].
 
-([Pub. L. 104–303, title II, § 216][/us/pl/104/303/s216], Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694]; [Pub. L. 106–541, title II, § 212][/us/pl/106/541/s212], Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 216, Oct. 12, 1996, [110 Stat. 3694][/us/stat/110/3694]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 212, Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593].)
 
  __Codification__ 
 
@@ -53,13 +53,13 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–541, § 212(1)][/us/pl/106/541/s212/1], inserted introductory provisions and struck out former introductory provisions which read as follows: “In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiency of energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—”.
+    2000—Subsec. (a). [Pub. L. 106–541][/us/pl/106/541], § 212(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiency of energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—”.
 
-    Subsec. (a)(1). [Pub. L. 106–541, § 212(1)][/us/pl/106/541/s212/1], substituted “are” for “is” before “economically justified”.
+    Subsec. (a)(1). [Pub. L. 106–541][/us/pl/106/541], § 212(1), substituted “are” for “is” before “economically justified”.
 
-    Subsec. (b). [Pub. L. 106–541, § 212(2)][/us/pl/106/541/s212/2], substituted “any proposed uprating” for “the proposed uprating” in first sentence.
+    Subsec. (b). [Pub. L. 106–541][/us/pl/106/541], § 212(2), substituted “any proposed uprating” for “the proposed uprating” in first sentence.
 
-    Subsecs. (c) to (e). [Pub. L. 106–541, § 212(3)][/us/pl/106/541/s212/3], (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 106–541][/us/pl/106/541], § 212(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
  __“Secretary” Defined__ 
 
@@ -74,14 +74,14 @@
 
 [/us/usc/t16/s839d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d%E2%80%931
 [/us/usc/t16/s839d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d%E2%80%931
-[/us/pl/104/303/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs216
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3694
-[/us/pl/106/541/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs212
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2593
-[/us/pl/106/541/s212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs212%2F1
-[/us/pl/106/541/s212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs212%2F1
-[/us/pl/106/541/s212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs212%2F2
-[/us/pl/106/541/s212/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs212%2F3
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

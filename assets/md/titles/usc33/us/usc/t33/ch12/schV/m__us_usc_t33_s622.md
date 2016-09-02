@@ -71,7 +71,7 @@
 
             The Secretary may enter into a contract for the maintenance and crewing of any Federal hopper dredge retained in a ready reserve status. The capital costs (including depreciation costs) of any dredge retained in such status shall be paid for out of funds made available from the Harbor Maintenance Trust Fund and shall not be charged against the Corps of Engineers’ Revolving Fund Account or any individual project cost unless the dredge is specifically used in connection with that project.
 
-([Aug. 11, 1888, ch. 860, § 3][/us/act/1888-08-11/ch860/s3], [25 Stat. 423][/us/stat/25/423]; [July 25, 1912, ch. 253, § 1][/us/act/1912-07-25/ch253/s1], [37 Stat. 222][/us/stat/37/222]; [Mar. 2, 1919, ch. 95, § 3][/us/act/1919-03-02/ch95/s3], [40 Stat. 1287][/us/stat/40/1287]; [Pub. L. 95–269, § 1][/us/pl/95/269/s1], Apr. 26, 1978, [92 Stat. 218][/us/stat/92/218]; [Pub. L. 104–303, title II, § 237][/us/pl/104/303/s237], Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705]; [Pub. L. 110–114, title II, § 2047(b)][/us/pl/110/114/s2047/b], Nov. 8, 2007, [121 Stat. 1106][/us/stat/121/1106].)
+([Aug. 11, 1888, ch. 860][/us/act/1888-08-11/ch860], § 3, [25 Stat. 423][/us/stat/25/423]; [July 25, 1912, ch. 253][/us/act/1912-07-25/ch253], § 1, [37 Stat. 222][/us/stat/37/222]; [Mar. 2, 1919, ch. 95][/us/act/1919-03-02/ch95], § 3, [40 Stat. 1287][/us/stat/40/1287]; [Pub. L. 95–269][/us/pl/95/269], § 1, Apr. 26, 1978, [92 Stat. 218][/us/stat/92/218]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 237, Oct. 12, 1996, [110 Stat. 3705][/us/stat/110/3705]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2047(b), Nov. 8, 2007, [121 Stat. 1106][/us/stat/121/1106].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@ Prior to the general amendment by [Pub. L. 95–269][/us/pl/95/269], this sectio
 
     The first sentence was from a part of section 3 of Act of Aug. 11, 1888, the Rivers and Harbors Appropriation Act of 1888. The remainder of section 3 was classified to [section 623 of this title][/us/usc/t33/s623].
 
-    The second sentence, which provided that all improvement works authorized by contract may, in the discretion of the Secretary of War \[now Army\], be carried on by contract or otherwise, as may be most economical or advantageous to the United States, was from [section 1 of the Act of July 25, 1912][/us/act/1912-07-25/s1], the Rivers and Harbors Appropriation Act of 1912. Previous similar provisions were contained in Acts [Mar. 2, 1907, ch. 2509, § 1][/us/act/1907-03-02/ch2509/s1], [34 Stat. 1110][/us/stat/34/1110]; [Feb. 27, 1911, ch. 166, § 1][/us/act/1911-02-27/ch166/s1], [36 Stat. 952][/us/stat/36/952].
+    The second sentence, which provided that all improvement works authorized by contract may, in the discretion of the Secretary of War \[now Army\], be carried on by contract or otherwise, as may be most economical or advantageous to the United States, was from [section 1 of the Act of July 25, 1912][/us/act/1912-07-25/s1], the Rivers and Harbors Appropriation Act of 1912. Previous similar provisions were contained in Acts [Mar. 2, 1907, ch. 2509][/us/act/1907-03-02/ch2509], § 1, [34 Stat. 1110][/us/stat/34/1110]; [Feb. 27, 1911, ch. 166][/us/act/1911-02-27/ch166], § 1, [36 Stat. 952][/us/stat/36/952].
 
     The third sentence, which provided that in all cases where the project for a work of river or harbor improvement provides for the construction or use of Government dredging plant, the Secretary of War \[now Army\] may, in his discretion, have the work done by contract if reasonable prices can be obtained, was from [section 3 of the Act of Mar. 2, 1919][/us/act/1919-03-02/s3], the Rivers and Harbors Appropriation Act of 1919, which superseded a somewhat similar provision in [section 3 of the Act of Aug. 8, 1917, ch. 49][/us/act/1917-08-08/ch49/s3], [40 Stat. 261][/us/stat/40/261]. Section 1 of the 1917 Act, [40 Stat. 255][/us/stat/40/255], provided in part that “the work proposed under the project adopted by the river and harbor Act approved July twenty-fifth, nineteen hundred and twelve, may be done by contract if reasonable prices can be obtained”.
 
@@ -102,26 +102,26 @@ Prior to the general amendment by [Pub. L. 95–269][/us/pl/95/269], this sectio
 ----------
 ----------
 
-[/us/act/1888-08-11/ch860/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-11%2Fch860%2Fs3
+[/us/act/1888-08-11/ch860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-11%2Fch860
 [/us/stat/25/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F423
-[/us/act/1912-07-25/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253%2Fs1
+[/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F222
-[/us/act/1919-03-02/ch95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95%2Fs3
+[/us/act/1919-03-02/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fch95
 [/us/stat/40/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1287
-[/us/pl/95/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269%2Fs1
+[/us/pl/95/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269
 [/us/stat/92/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F218
-[/us/pl/104/303/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs237
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3705
-[/us/pl/110/114/s2047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2047%2Fb
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1106
 [/us/pl/104/303/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs563
 [/us/stat/110/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3784
 [/us/pl/95/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F269
 [/us/usc/t33/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs623
 [/us/act/1912-07-25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fs1
-[/us/act/1907-03-02/ch2509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2509%2Fs1
+[/us/act/1907-03-02/ch2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2509
 [/us/stat/34/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1110
-[/us/act/1911-02-27/ch166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-27%2Fch166%2Fs1
+[/us/act/1911-02-27/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-27%2Fch166
 [/us/stat/36/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F952
 [/us/act/1919-03-02/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-02%2Fs3
 [/us/act/1917-08-08/ch49/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-08-08%2Fch49%2Fs3

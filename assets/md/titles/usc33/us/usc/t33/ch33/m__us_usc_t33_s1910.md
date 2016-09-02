@@ -55,15 +55,15 @@
 
         In any action brought under this section, if the Secretary or Attorney General are not parties of record, the United States, through the Attorney General, shall have the right to intervene.
 
-([Pub. L. 96–478, § 11][/us/pl/96/478/s11], Oct. 21, 1980, [94 Stat. 2302][/us/stat/94/2302]; [Pub. L. 110–280, § 12][/us/pl/110/280/s12], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
+([Pub. L. 96–478][/us/pl/96/478], § 11, Oct. 21, 1980, [94 Stat. 2302][/us/stat/94/2302]; [Pub. L. 110–280][/us/pl/110/280], § 12, July 21, 2008, [122 Stat. 2615][/us/stat/122/2615].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3), (4). [Pub. L. 110–280, § 12(1)][/us/pl/110/280/s12/1], added par. (3) and redesignated former par. (3) as (4).
+    2008—Subsec. (a)(3), (4). [Pub. L. 110–280][/us/pl/110/280], § 12(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 110–280, § 12(2)][/us/pl/110/280/s12/2], substituted “concerned or the Administrator,” for “concerned,”.
+    Subsec. (b)(1). [Pub. L. 110–280][/us/pl/110/280], § 12(2), substituted “concerned or the Administrator,” for “concerned,”.
 
-    Subsec. (b)(2). [Pub. L. 110–280, § 12(3)][/us/pl/110/280/s12/3], inserted “or the Administrator” after “Secretary”.
+    Subsec. (b)(2). [Pub. L. 110–280][/us/pl/110/280], § 12(3), inserted “or the Administrator” after “Secretary”.
 
 ----------
 
@@ -73,12 +73,12 @@
 ----------
 
 [/us/usc/t33/s1908/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1908%2Fe
-[/us/pl/96/478/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs11
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2302
-[/us/pl/110/280/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs12
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2615
-[/us/pl/110/280/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs12%2F1
-[/us/pl/110/280/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs12%2F2
-[/us/pl/110/280/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs12%2F3
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 
 

@@ -61,7 +61,7 @@
 
         There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.
 
-([Pub. L. 104–303, title II, § 206][/us/pl/104/303/s206], Oct. 12, 1996, [110 Stat. 3679][/us/stat/110/3679]; [Pub. L. 106–53, title II, § 210][/us/pl/106/53/s210], Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II, § 2020][/us/pl/110/114/s2020], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(g)][/us/pl/113/121/s1030/g], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 206, Oct. 12, 1996, [110 Stat. 3679][/us/stat/110/3679]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 210, Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2020, Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(g), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
     2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “$10,000,000” for “$5,000,000”.
 
-    2007—Subsec. (a). [Pub. L. 110–114, § 2020(1)][/us/pl/110/114/s2020/1], added subsec. (a) and struck out former subsec. (a), which read as follows:
+    2007—Subsec. (a). [Pub. L. 110–114][/us/pl/110/114], § 2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
 
     “(a) General authority.—The Secretary may carry out an aquatic ecosystem restoration and protection project if the Secretary determines that the project—
 
@@ -79,11 +79,11 @@
 
     “(2) is cost-effective.”
 
-    Subsec. (e). [Pub. L. 110–114, § 2020(2)][/us/pl/110/114/s2020/2], substituted “$50,000,000” for “$25,000,000”.
+    Subsec. (e). [Pub. L. 110–114][/us/pl/110/114], § 2020(2), substituted “$50,000,000” for “$25,000,000”.
 
-    1999—Subsec. (b). [Pub. L. 106–53, § 210(1)][/us/pl/106/53/s210/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    1999—Subsec. (b). [Pub. L. 106–53][/us/pl/106/53], § 210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (c). [Pub. L. 106–53, § 210(2)][/us/pl/106/53/s210/2], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (c). [Pub. L. 106–53][/us/pl/106/53], § 210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
  __“Secretary” Defined__ 
 
@@ -98,19 +98,19 @@
 
 [/us/usc/t33/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2902
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/104/303/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs206
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3679
-[/us/pl/106/53/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs210
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F287
-[/us/pl/110/114/s2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
-[/us/pl/113/121/s1030/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fg
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/110/114/s2020/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020%2F1
-[/us/pl/110/114/s2020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020%2F2
-[/us/pl/106/53/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs210%2F1
-[/us/pl/106/53/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs210%2F2
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

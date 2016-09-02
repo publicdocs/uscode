@@ -67,19 +67,19 @@
 
         A watershed assessment under subsection (a) shall be initiated not later than 2 years after the date on which the major disaster declaration is issued.
 
-([Pub. L. 113–121, title III, § 3025][/us/pl/113/121/s3025], June 10, 2014, [128 Stat. 1303][/us/stat/128/1303].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3025, June 10, 2014, [128 Stat. 1303][/us/stat/128/1303].)
 
  __References in Text__ 
 
-    The Flood Control Act of 1948, referred to in subsecs. (b)(1)(A) and (c), is [act June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, [62 Stat. 1175][/us/stat/62/1175]. For complete classification of this Act to the Code, see Tables.
+    The Flood Control Act of 1948, referred to in subsecs. (b)(1)(A) and (c), is [act June 30, 1948, ch. 771, title II][/us/act/1948-06-30/ch771/tII], [62 Stat. 1175][/us/stat/62/1175]. For complete classification of this Act to the Code, see Tables.
 
-    The River and Harbor Act of 1968, referred to in subsecs. (b)(1)(B) and (c), is [Pub. L. 90–483, title I][/us/pl/90/483], Aug. 13, 1968, [82 Stat. 731][/us/stat/82/731]. For complete classification of this Act to the Code, see Tables.
+    The River and Harbor Act of 1968, referred to in subsecs. (b)(1)(B) and (c), is [Pub. L. 90–483, title I][/us/pl/90/483/tI], Aug. 13, 1968, [82 Stat. 731][/us/stat/82/731]. For complete classification of this Act to the Code, see Tables.
 
     The Water Resources Development Act of 1996, referred to in subsecs. (b)(1)(C) and (c), is [Pub. L. 104–303][/us/pl/104/303], Oct. 12, 1996, [110 Stat. 3658][/us/stat/110/3658]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 2201 of this title][/us/usc/t33/s2201] and Tables.
 
     The Water Resources Development Act of 1986, referred to in subsecs. (b)(1)(D) and (c), is [Pub. L. 99–662][/us/pl/99/662], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082]. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title][/us/usc/t33/s2201] and Tables.
 
-    The River and Harbor Act of 1960, referred to in subsecs. (b)(1)(E) and (c), is [Pub. L. 86–645, title I][/us/pl/86/645], July 14, 1960, [74 Stat. 480][/us/stat/74/480]. For complete classification of this Act to the Code, see Tables.
+    The River and Harbor Act of 1960, referred to in subsecs. (b)(1)(E) and (c), is [Pub. L. 86–645, title I][/us/pl/86/645/tI], July 14, 1960, [74 Stat. 480][/us/stat/74/480]. For complete classification of this Act to the Code, see Tables.
 
     The Act of August 13, 1946, referred to in subsecs. (b)(1)(F) and (c), is [act Aug. 13, 1946, ch. 960][/us/act/1946-08-13/ch960], [60 Stat. 1056][/us/stat/60/1056]. For complete classification of this Act to the Code, see Tables.
 
@@ -107,11 +107,11 @@
 [/us/act/1946-08-13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fs3
 [/us/usc/t33/s426g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426g
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
-[/us/pl/113/121/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3025
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1303
-[/us/act/1948-06-30/ch771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771
+[/us/act/1948-06-30/ch771/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771%2FtII
 [/us/stat/62/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1175
-[/us/pl/90/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483
+[/us/pl/90/483/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtI
 [/us/stat/82/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F731
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/stat/110/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3658
@@ -119,7 +119,7 @@
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
-[/us/pl/86/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645
+[/us/pl/86/645/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F645%2FtI
 [/us/stat/74/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F480
 [/us/act/1946-08-13/ch960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960
 [/us/stat/60/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1056

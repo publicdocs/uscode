@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $1,500,000 for each of the fiscal years 1989 and 1990, to carry out this chapter.
 
-([Pub. L. 100–688, title IV, § 4203][/us/pl/100/688/s4203], Nov. 18, 1988, [102 Stat. 4160][/us/stat/102/4160].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4203, Nov. 18, 1988, [102 Stat. 4160][/us/stat/102/4160].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4203
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4160
 
 

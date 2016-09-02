@@ -153,7 +153,7 @@
 
             Except as expressly provided by this subsection, the requirements and procedures of subsection (c) of this section apply to this subsection, including the requirement in subsection (c)(2)(A) of this section that the criteria protect public health and welfare.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 303, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 846][/us/stat/86/846]; amended [Pub. L. 100–4, title III, § 308(d)][/us/pl/100/4/s308/d], title IV, § 404(b), Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39], 68; [Pub. L. 106–284, § 2][/us/pl/106/284/s2], Oct. 10, 2000, [114 Stat. 870][/us/stat/114/870].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 303, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 846][/us/stat/86/846]; amended [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 308(d), title IV, § 404(b), Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39], 68; [Pub. L. 106–284][/us/pl/106/284], § 2, Oct. 10, 2000, [114 Stat. 870][/us/stat/114/870].)
 
  __References in Text__ 
 
@@ -163,9 +163,9 @@
 
     2000—Subsec. (i). [Pub. L. 106–284][/us/pl/106/284] added subsec. (i).
 
-    1987—Subsec. (c)(2). [Pub. L. 100–4, § 308(d)][/us/pl/100/4/s308/d], designated existing provision as subpar. (A) and added subpar. (B).
+    1987—Subsec. (c)(2). [Pub. L. 100–4][/us/pl/100/4], § 308(d), designated existing provision as subpar. (A) and added subpar. (B).
 
-    Subsec. (d)(4). [Pub. L. 100–4, § 404(b)][/us/pl/100/4/s404/b], added par. (4).
+    Subsec. (d)(4). [Pub. L. 100–4][/us/pl/100/4], § 404(b), added par. (4).
 
 ----------
 
@@ -189,11 +189,11 @@
 [/us/usc/t33/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa
 [/us/usc/t33/s1314/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa%2F9
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F846
-[/us/pl/100/4/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fd
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F39
-[/us/pl/106/284/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs2
+[/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/stat/114/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F870
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/stat/62/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1155
@@ -203,7 +203,7 @@
 [/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
-[/us/pl/100/4/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fd
-[/us/pl/100/4/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs404%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 
 

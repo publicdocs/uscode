@@ -29,7 +29,7 @@
 
             The total value of work carried out under cooperative agreements under this section may not exceed $5,000,000 in any fiscal year.
 
-([Pub. L. 110–114, title II, § 2015][/us/pl/110/114/s2015], Nov. 8, 2007, [121 Stat. 1076][/us/stat/121/1076].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2015, Nov. 8, 2007, [121 Stat. 1076][/us/stat/121/1076].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t31/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6305
-[/us/pl/110/114/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2015
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1076
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

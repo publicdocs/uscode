@@ -17,11 +17,11 @@
 
     The Secretary shall make to Congress at the end of each fiscal year, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  a report of the administration of this chapter for the preceding fiscal year, including a detailed statement of receipts of and expenditures from the fund established in [section 944 of this title][/us/usc/t33/s944], together with such recommendations as the Secretary deems advisable. Such report shall include the annual report required under [section 936(b) of title 30][/us/usc/t30/s936/b] and shall be identified as the Annual Report of the Office of Workers’ Compensation Programs.
 
-([Mar. 4, 1927, ch. 509, § 42][/us/act/1927-03-04/ch509/s42], as added [Pub. L. 98–426, § 23][/us/pl/98/426/s23], Sept. 28, 1984, [98 Stat. 1653][/us/stat/98/1653]; amended [Pub. L. 104–66, title I, § 1102(b)(1)][/us/pl/104/66/s1102/b/1], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 42, as added [Pub. L. 98–426][/us/pl/98/426], § 23, Sept. 28, 1984, [98 Stat. 1653][/us/stat/98/1653]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1102(b)(1), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722].)
 
  __Prior Provisions__ 
 
-    A prior section 942, [act Mar. 4, 1927, ch. 509, § 42][/us/act/1927-03-04/ch509/s42], [44 Stat. 1444][/us/stat/44/1444], related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
+    A prior section 942, [act Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 42, [44 Stat. 1444][/us/stat/44/1444], related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -40,12 +40,12 @@
 
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
 [/us/usc/t30/s936/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs936%2Fb
-[/us/act/1927-03-04/ch509/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs42
-[/us/pl/98/426/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs23
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1653
-[/us/pl/104/66/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1102%2Fb%2F1
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
-[/us/act/1927-03-04/ch509/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs42
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1444
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t30/s936/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs936%2Fb

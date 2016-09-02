@@ -17,7 +17,7 @@
 
     The Administrator, in consultation with other Federal agencies, State and local governments, dam owners, the emergency management community, the private sector, nongovernmental organizations and associations, institutions of higher education, and any other appropriate entities shall, subject to the availability of appropriations, carry out a nationwide public awareness and outreach initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents.
 
-([Pub. L. 92–367, § 11][/us/pl/92/367/s11], as added [Pub. L. 113–121, title III, § 3001(d)(2)][/us/pl/113/121/s3001/d/2], June 10, 2014, [128 Stat. 1283][/us/stat/128/1283].)
+([Pub. L. 92–367][/us/pl/92/367], § 11, as added [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3001(d)(2), June 10, 2014, [128 Stat. 1283][/us/stat/128/1283].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/92/367/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs11
-[/us/pl/113/121/s3001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fd%2F2
+[/us/pl/92/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1283
 [/us/pl/92/367/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs11
 [/us/usc/t33/s467h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467h

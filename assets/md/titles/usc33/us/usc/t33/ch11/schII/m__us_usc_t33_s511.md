@@ -23,13 +23,15 @@
 
     The term “bridge owner” means any State, county, municipality, or other political subdivision, or any corporation, association, partnership, or individual owning, or jointly owning, any bridge, and, when any bridge shall be in the possession or under the control of any trustee, receiver, trustee in a case under title 11, or lessee, such terms shall include both the owner of the legal title and the person or the entity in possession or control of such bridge.
 
-    The term “Secretary” means the Secretary of Transportation.
+    The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
     The term “United States”, when used in a geographical sense, includes the Territories and possessions of the United States.
 
-([June 21, 1940, ch. 409, § 1][/us/act/1940-06-21/ch409/s1], [54 Stat. 497][/us/stat/54/497]; [July 16, 1952, ch. 889, § 1][/us/act/1952-07-16/ch889/s1], [66 Stat. 732][/us/stat/66/732]; [Pub. L. 95–598, title III, § 323][/us/pl/95/598/s323], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 97–449, § 2(d)(2)][/us/pl/97/449/s2/d/2], Jan. 12, 1983, [96 Stat. 2440][/us/stat/96/2440].)
+([June 21, 1940, ch. 409][/us/act/1940-06-21/ch409], § 1, [54 Stat. 497][/us/stat/54/497]; [July 16, 1952, ch. 889][/us/act/1952-07-16/ch889], § 1, [66 Stat. 732][/us/stat/66/732]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 323, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 97–449][/us/pl/97/449], § 2(d)(2), Jan. 12, 1983, [96 Stat. 2440][/us/stat/96/2440]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(b)(4)(A), Feb. 8, 2016, [130 Stat. 55][/us/stat/130/55].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–120][/us/pl/114/120] substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation”.
 
     1983—[Pub. L. 97–449][/us/pl/97/449] substituted provision that the term “Secretary” means the Secretary of Transportation for provision that it meant the Secretary of War acting directly or through the Chief of Engineers.
 
@@ -56,14 +58,17 @@
 ----------
 ----------
 
-[/us/act/1940-06-21/ch409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409%2Fs1
+[/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F497
-[/us/act/1952-07-16/ch889/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch889%2Fs1
+[/us/act/1952-07-16/ch889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch889
 [/us/stat/66/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F732
-[/us/pl/95/598/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs323
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/97/449/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fd%2F2
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2440
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F55
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

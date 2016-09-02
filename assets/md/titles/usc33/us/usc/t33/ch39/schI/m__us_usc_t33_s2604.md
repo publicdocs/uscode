@@ -23,7 +23,7 @@
 
         The Secretary or the Administrator may bring a civil action to enjoin any operation in violation of this chapter or a regulation prescribed under this chapter in the district court of the United States for the district in which the violation occurred.
 
-([Pub. L. 100–688, title IV, § 4104][/us/pl/100/688/s4104], Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4104, Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4104
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4157
 
 

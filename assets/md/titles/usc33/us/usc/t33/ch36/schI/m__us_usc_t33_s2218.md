@@ -17,7 +17,7 @@
 
     Unless otherwise specified, the cost sharing provisions of this subchapter shall apply to all projects in this Act. The Federal share of any cost of a project authorized by this Act for which cost a Federal share is not established in this subchapter, shall be the share of such cost otherwise provided by law.
 
-([Pub. L. 99–662, title I, § 108][/us/pl/99/662/s108], Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 108, Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs108
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4089
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

@@ -47,7 +47,7 @@
 
     (6) The Administrator shall by regulation provide that any person awarded a scholarship under this section shall agree in writing to enter and remain in an occupation involving the design, operation, or maintenance of treatment works for such period after completion of his course of studies as the Administrator determines appropriate.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 111, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 831][/us/stat/86/831].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 111, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 831][/us/stat/86/831].)
 
 ----------
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t33/s1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1260
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F831
 
 

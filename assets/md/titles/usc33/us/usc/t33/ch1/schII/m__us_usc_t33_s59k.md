@@ -19,7 +19,7 @@
 
     (b) This declaration shall apply only to the portions of the areas described in subsection (a) of this section which are bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Such bulkheaded and filled areas or areas occupied by permanent pile-supported structures shall not reduce the existing width of the Wicomico River to less than sixty feet and a minimum depth of five feet shall be maintained within such sixty-foot width of the Wicomico River. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-([Pub. L. 93–251, title I, § 97][/us/pl/93/251/s97], Mar. 7, 1974, [88 Stat. 40][/us/stat/88/40].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 97, Mar. 7, 1974, [88 Stat. 40][/us/stat/88/40].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/251/s97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs97
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F40
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

@@ -59,7 +59,7 @@
 
         In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-([Pub. L. 99–662, title XI, § 1135][/us/pl/99/662/s1135], Nov. 17, 1986, [100 Stat. 4251][/us/stat/100/4251]; [Pub. L. 100–676, § 41][/us/pl/100/676/s41], Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040]; [Pub. L. 101–640, title III, § 304][/us/pl/101/640/s304], Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 102–580, title II, § 202][/us/pl/102/580/s202], Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II, § 204][/us/pl/104/303/s204], Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678]; [Pub. L. 106–53, title V, § 506][/us/pl/106/53/s506], Aug. 17, 1999, [113 Stat. 338][/us/stat/113/338]; [Pub. L. 106–541, title II, § 210(c)][/us/pl/106/541/s210/c], Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592]; [Pub. L. 110–114, title II, § 2024][/us/pl/110/114/s2024], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079]; [Pub. L. 113–121, title I, § 1030(f)][/us/pl/113/121/s1030/f], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1135, Nov. 17, 1986, [100 Stat. 4251][/us/stat/100/4251]; [Pub. L. 100–676][/us/pl/100/676], § 41, Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 304, Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 102–580, title II][/us/pl/102/580/tII], § 202, Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 204, Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678]; [Pub. L. 106–53, title V][/us/pl/106/53/tV], § 506, Aug. 17, 1999, [113 Stat. 338][/us/stat/113/338]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 210(c), Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2024, Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(f), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
@@ -77,35 +77,35 @@
 
     1999—Subsec. (c). [Pub. L. 106–53][/us/pl/106/53] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    1996—Subsec. (a). [Pub. L. 104–303, § 204(a)][/us/pl/104/303/s204/a], struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
+    1996—Subsec. (a). [Pub. L. 104–303][/us/pl/104/303], § 204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
 
-    Subsec. (b). [Pub. L. 104–303, § 204(b)][/us/pl/104/303/s204/b], struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+    Subsec. (b). [Pub. L. 104–303][/us/pl/104/303], § 204(b), struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
-    Subsecs. (c), (d). [Pub. L. 104–303, § 204(c)(2)][/us/pl/104/303/s204/c/2], added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 104–303][/us/pl/104/303], § 204(c)(2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 104–303, § 204(c)(1)][/us/pl/104/303/s204/c/1], redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+    Subsec. (e). [Pub. L. 104–303][/us/pl/104/303], § 204(c)(1), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-    Subsec. (f). [Pub. L. 104–303, § 204(c)(1)][/us/pl/104/303/s204/c/1], (3), redesignated subsec. (d) as (f) and substituted “programs conducted under subsections (b) and (c) of this section” for “program conducted under subsection (b) of this section”.
+    Subsec. (f). [Pub. L. 104–303][/us/pl/104/303], § 204(c)(1), (3), redesignated subsec. (d) as (f) and substituted “programs conducted under subsections (b) and (c) of this section” for “program conducted under subsection (b) of this section”.
 
-    Subsec. (g). [Pub. L. 104–303, § 204(c)(1)][/us/pl/104/303/s204/c/1], redesignated subsec. (e) as (g).
+    Subsec. (g). [Pub. L. 104–303][/us/pl/104/303], § 204(c)(1), redesignated subsec. (e) as (g).
 
-    Subsec. (h). [Pub. L. 104–303, § 204(d)][/us/pl/104/303/s204/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–303][/us/pl/104/303], § 204(d), added subsec. (h).
 
-    1992—Subsec. (b). [Pub. L. 102–580, § 202(1)][/us/pl/102/580/s202/1], inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+    1992—Subsec. (b). [Pub. L. 102–580][/us/pl/102/580], § 202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
-    Subsec. (e). [Pub. L. 102–580, § 202(2)][/us/pl/102/580/s202/2], substituted “$25,000,000” for “$15,000,000”.
+    Subsec. (e). [Pub. L. 102–580][/us/pl/102/580], § 202(2), substituted “$25,000,000” for “$15,000,000”.
 
-    1990—Subsec. (a). [Pub. L. 101–640, § 304(a)][/us/pl/101/640/s304/a], struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+    1990—Subsec. (a). [Pub. L. 101–640][/us/pl/101/640], § 304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-    Subsec. (b). [Pub. L. 101–640, § 304(b)][/us/pl/101/640/s304/b], substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+    Subsec. (b). [Pub. L. 101–640][/us/pl/101/640], § 304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-    Subsec. (d). [Pub. L. 101–640, § 304(c)][/us/pl/101/640/s304/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
+    Subsec. (d). [Pub. L. 101–640][/us/pl/101/640], § 304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
 
-    Subsec. (e). [Pub. L. 101–640, § 304(d)][/us/pl/101/640/s304/d], substituted “$15,000,000 annually to carry out this section” for “$25,000,000 to carry out this section”.
+    Subsec. (e). [Pub. L. 101–640][/us/pl/101/640], § 304(d), substituted “$15,000,000 annually to carry out this section” for “$25,000,000 to carry out this section”.
 
-    1988—Subsec. (b). [Pub. L. 100–676, § 41(a)][/us/pl/100/676/s41/a], substituted “5-year period” for “two-year period”.
+    1988—Subsec. (b). [Pub. L. 100–676][/us/pl/100/676], § 41(a), substituted “5-year period” for “two-year period”.
 
-    Subsec. (d). [Pub. L. 100–676, § 41(b)][/us/pl/100/676/s41/b], substituted “5 years” for “two years”.
+    Subsec. (d). [Pub. L. 100–676][/us/pl/100/676], § 41(b), substituted “5 years” for “two years”.
 
 ----------
 
@@ -115,23 +115,23 @@
 ----------
 
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/99/662/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1135
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4251
-[/us/pl/100/676/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs41
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4040
-[/us/pl/101/640/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs304
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4634
-[/us/pl/102/580/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs202
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4826
-[/us/pl/104/303/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3678
-[/us/pl/106/53/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs506
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F338
-[/us/pl/106/541/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs210%2Fc
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2592
-[/us/pl/110/114/s2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2024
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1079
-[/us/pl/113/121/s1030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Ff
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -140,20 +140,20 @@
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
-[/us/pl/104/303/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fa
-[/us/pl/104/303/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fb
-[/us/pl/104/303/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fc%2F2
-[/us/pl/104/303/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fc%2F1
-[/us/pl/104/303/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fc%2F1
-[/us/pl/104/303/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fc%2F1
-[/us/pl/104/303/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs204%2Fd
-[/us/pl/102/580/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs202%2F1
-[/us/pl/102/580/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs202%2F2
-[/us/pl/101/640/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs304%2Fa
-[/us/pl/101/640/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs304%2Fb
-[/us/pl/101/640/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs304%2Fc
-[/us/pl/101/640/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs304%2Fd
-[/us/pl/100/676/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs41%2Fa
-[/us/pl/100/676/s41/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs41%2Fb
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 
 

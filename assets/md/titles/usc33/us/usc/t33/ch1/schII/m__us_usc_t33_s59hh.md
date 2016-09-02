@@ -63,7 +63,7 @@
 
         The 605-acre parcel and the 564-acre parcel shall be surveyed and further legally described prior to conveyance. Not later than 60 days following October 28, 1993, if he deems it necessary, the Secretary of the Army shall complete a review of the applicability of [section 1344 of this title][/us/usc/t33/s1344] to the said parcels.
 
-([Pub. L. 103–126, title I, § 108][/us/pl/103/126/s108], Oct. 28, 1993, [107 Stat. 1320][/us/stat/107/1320]; [Pub. L. 106–53, title V, § 585][/us/pl/106/53/s585], Aug. 17, 1999, [113 Stat. 377][/us/stat/113/377].)
+([Pub. L. 103–126, title I][/us/pl/103/126/tI], § 108, Oct. 28, 1993, [107 Stat. 1320][/us/stat/107/1320]; [Pub. L. 106–53, title V][/us/pl/106/53/tV], § 585, Aug. 17, 1999, [113 Stat. 377][/us/stat/113/377].)
 
  __References in Text__ 
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–53, § 585(1)][/us/pl/106/53/s585/1], inserted “all or any part of” after “absolute title to” in first sentence.
+    1999—Subsec. (a). [Pub. L. 106–53][/us/pl/106/53], § 585(1), inserted “all or any part of” after “absolute title to” in first sentence.
 
-    Subsec. (b). [Pub. L. 106–53, § 585(2)][/us/pl/106/53/s585/2], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
+    Subsec. (b). [Pub. L. 106–53][/us/pl/106/53], § 585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
 
     “(1) conveyance to the Department of the Army of fee simple absolute title to a parcel of land containing approximately 564 acres on Pelican Island, Texas, in the Eneas Smith Survey, A–190, Pelican Island, City of Galveston, Galveston County, Texas, adjacent to property currently owned by the United States. The fair market value of such parcel will be determined in accordance with the provision of subsection (d) of this section; and
 
     “(2) payment to the United States of an amount equal to the difference of the fair market value of the parcel to be conveyed pursuant to subsection (a) of this section and the fair market value of the parcel to be conveyed pursuant to paragraph (1) of this subsection.”
 
-    Subsec. (c). [Pub. L. 106–53, § 585(3)][/us/pl/106/53/s585/3], in second sentence, inserted “, or any part of the parcel,” after “parcel” and “, if any,” after “LCA”.
+    Subsec. (c). [Pub. L. 106–53][/us/pl/106/53], § 585(3), in second sentence, inserted “, or any part of the parcel,” after “parcel” and “, if any,” after “LCA”.
 
 ----------
 
@@ -91,15 +91,15 @@
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
-[/us/pl/103/126/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F126%2Fs108
+[/us/pl/103/126/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F126%2FtI
 [/us/stat/107/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1320
-[/us/pl/106/53/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs585
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F377
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/106/53/s585/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs585%2F1
-[/us/pl/106/53/s585/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs585%2F2
-[/us/pl/106/53/s585/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs585%2F3
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 
 

@@ -59,7 +59,7 @@
 
         The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
 
-([Pub. L. 111–11, title XII, § 12303][/us/pl/111/11/s12303], Mar. 30, 2009, [123 Stat. 1428][/us/stat/123/1428].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12303, Mar. 30, 2009, [123 Stat. 1428][/us/stat/123/1428].)
 
 ----------
 
@@ -72,7 +72,7 @@
 [/us/usc/t33/s3603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3603%2Fc%2F2
 [/us/usc/t33/s3603/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3603%2Fc%2F3
 [/us/usc/t33/s3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3603
-[/us/pl/111/11/s12303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12303
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1428
 
 

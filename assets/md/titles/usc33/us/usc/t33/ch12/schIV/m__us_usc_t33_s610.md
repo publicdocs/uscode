@@ -85,25 +85,25 @@
 
         (4) monitor water quality, including sediment cores and fish tissue samples.
 
-([Pub. L. 85–500, title I, § 104][/us/pl/85/500/s104], July 3, 1958, [72 Stat. 300][/us/stat/72/300]; [Pub. L. 89–298, title III, § 302][/us/pl/89/298/s302], Oct. 27, 1965, [79 Stat. 1092][/us/stat/79/1092]; [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 313][/us/stat/97/313]; [Pub. L. 99–662, title IX, § 941][/us/pl/99/662/s941], Nov. 17, 1986, [100 Stat. 4199][/us/stat/100/4199]; [Pub. L. 104–303, title II, § 225][/us/pl/104/303/s225], Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 106–53, title II, § 205][/us/pl/106/53/s205], Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285]; [Pub. L. 113–121, title I, § 1039(d)][/us/pl/113/121/s1039/d], June 10, 2014, [128 Stat. 1238][/us/stat/128/1238].)
+([Pub. L. 85–500, title I][/us/pl/85/500/tI], § 104, July 3, 1958, [72 Stat. 300][/us/stat/72/300]; [Pub. L. 89–298, title III][/us/pl/89/298/tIII], § 302, Oct. 27, 1965, [79 Stat. 1092][/us/stat/79/1092]; [Pub. L. 98–63, title I][/us/pl/98/63/tI], July 30, 1983, [97 Stat. 313][/us/stat/97/313]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 941, Nov. 17, 1986, [100 Stat. 4199][/us/stat/100/4199]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 225, Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 205, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1039(d), June 10, 2014, [128 Stat. 1238][/us/stat/128/1238].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–121, § 1039(d)(1)(A)][/us/pl/113/121/s1039/d/1/A]–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
+    2014—Subsec. (a). [Pub. L. 113–121][/us/pl/113/121], § 1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
 
-    Subsec. (a)(1). [Pub. L. 113–121, § 1039(d)(1)(D)(ii)][/us/pl/113/121/s1039/d/1/D/ii], inserted “and aquatic invasive species” after “noxious aquatic plant growths”.
+    Subsec. (a)(1). [Pub. L. 113–121][/us/pl/113/121], § 1039(d)(1)(D)(ii), inserted “and aquatic invasive species” after “noxious aquatic plant growths”.
 
-    [Pub. L. 113–121, § 1039(d)(1)(D)(i)][/us/pl/113/121/s1039/d/1/D/i], which directed substitution of “prevention, control, and progressive” for “control and progressive,”, was executed by making the substitution for “control and progressive” to reflect the probable intent of Congress.
+    [Pub. L. 113–121][/us/pl/113/121], § 1039(d)(1)(D)(i), which directed substitution of “prevention, control, and progressive” for “control and progressive,”, was executed by making the substitution for “control and progressive” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 113–121, § 1039(d)(2)][/us/pl/113/121/s1039/d/2], substituted “$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually” for “$15,000,000 annually”.
+    Subsec. (b). [Pub. L. 113–121][/us/pl/113/121], § 1039(d)(2), substituted “$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually” for “$15,000,000 annually”.
 
-    Subsecs. (d), (e). [Pub. L. 113–121, § 1039(d)(3)][/us/pl/113/121/s1039/d/3], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 113–121][/us/pl/113/121], § 1039(d)(3), added subsecs. (d) and (e).
 
-    1999—Subsec. (a). [Pub. L. 106–53, § 205(1)][/us/pl/106/53/s205/1], substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
+    1999—Subsec. (a). [Pub. L. 106–53][/us/pl/106/53], § 205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
 
-    Subsec. (b). [Pub. L. 106–53, § 205(2)][/us/pl/106/53/s205/2], substituted “$15,000,000” for “$12,000,000” in first sentence.
+    Subsec. (b). [Pub. L. 106–53][/us/pl/106/53], § 205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.
 
-    Subsec. (c). [Pub. L. 106–53, § 205(3)][/us/pl/106/53/s205/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–53][/us/pl/106/53], § 205(3), added subsec. (c).
 
     1996—Subsec. (a). [Pub. L. 104–303][/us/pl/104/303] inserted “melaleuca,” after “milfoil,”.
 
@@ -122,28 +122,28 @@
 ----------
 ----------
 
-[/us/pl/85/500/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs104
+[/us/pl/85/500/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2FtI
 [/us/stat/72/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F300
-[/us/pl/89/298/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs302
+[/us/pl/89/298/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtIII
 [/us/stat/79/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1092
-[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F313
-[/us/pl/99/662/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs941
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4199
-[/us/pl/104/303/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs225
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3697
-[/us/pl/106/53/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs205
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
-[/us/pl/113/121/s1039/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1238
-[/us/pl/113/121/s1039/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd%2F1%2FA
-[/us/pl/113/121/s1039/d/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd%2F1%2FD%2Fii
-[/us/pl/113/121/s1039/d/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd%2F1%2FD%2Fi
-[/us/pl/113/121/s1039/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd%2F2
-[/us/pl/113/121/s1039/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fd%2F3
-[/us/pl/106/53/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs205%2F1
-[/us/pl/106/53/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs205%2F2
-[/us/pl/106/53/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs205%2F3
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
+[/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63

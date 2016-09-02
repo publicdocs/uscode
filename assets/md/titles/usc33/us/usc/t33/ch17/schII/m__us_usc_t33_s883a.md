@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_ch17_schII.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881...883.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
 
 ## § 883a. Surveys and other activities
 
@@ -27,7 +27,7 @@
 
     (5) Geomagnetic, seismological, gravity, and related geophysical measurements and investigations, and observations for the determination of variation in latitude and longitude.
 
-([Aug. 6, 1947, ch. 504, § 1][/us/act/1947-08-06/ch504/s1], [61 Stat. 787][/us/stat/61/787]; [Pub. L. 86–409][/us/pl/86/409], Apr. 5, 1960, [74 Stat. 16][/us/stat/74/16]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318].)
+([Aug. 6, 1947, ch. 504][/us/act/1947-08-06/ch504], § 1, [61 Stat. 787][/us/stat/61/787]; [Pub. L. 86–409][/us/pl/86/409], Apr. 5, 1960, [74 Stat. 16][/us/stat/74/16]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Great Lakes Mapping__ 
 
-[Pub. L. 100–220, title III][/us/pl/100/220], subtitle B, Dec. 29, 1987, [101 Stat. 1475][/us/stat/101/1475], as amended by [Pub. L. 100–629, § 3][/us/pl/100/629/s3], Nov. 7, 1988, [102 Stat. 3286][/us/stat/102/3286], provided that:
+[Pub. L. 100–220, title III][/us/pl/100/220/tIII], subtitle B, Dec. 29, 1987, [101 Stat. 1475][/us/stat/101/1475], as amended by [Pub. L. 100–629][/us/pl/100/629], § 3, Nov. 7, 1988, [102 Stat. 3286][/us/stat/102/3286], provided that:
 
 > “SEC. 3201. __SHORT TITLE.__ 
 
@@ -151,12 +151,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_ch17_schII.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
+[Previous](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s881...883.md) | [Next](./../../../../..//us/usc/t33/ch17/schII/m__us_usc_t33_s883b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a)
 
 ----------
 ----------
 
-[/us/act/1947-08-06/ch504/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504%2Fs1
+[/us/act/1947-08-06/ch504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch504
 [/us/stat/61/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F787
 [/us/pl/86/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F409
 [/us/stat/74/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F16
@@ -166,9 +166,9 @@
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
-[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIII
 [/us/stat/101/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1475
-[/us/pl/100/629/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629%2Fs3
+[/us/pl/100/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629
 [/us/stat/102/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3286
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

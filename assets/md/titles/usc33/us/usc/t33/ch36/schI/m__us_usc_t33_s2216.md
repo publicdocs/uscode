@@ -17,7 +17,7 @@
 
     Whenever a non-Federal interest is required or elects to repay an amount under this Act over a period of time, the amount to be repaid shall include interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or in the case of recalculation the fiscal year in which the recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs; except that such rates for hydroelectric power shall be in accordance with existing law.
 
-([Pub. L. 99–662, title I, § 106][/us/pl/99/662/s106], Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 106, Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs106
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4089
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

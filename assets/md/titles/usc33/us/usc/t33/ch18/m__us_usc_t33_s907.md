@@ -103,19 +103,19 @@
 
         (2) If an employee refuses to submit to medical or surgical services solely because, in adherence to the tenets and practice of a recognized church or religious denomination, the employee relies upon prayer or spiritual means alone for healing, such employee shall not be considered to have unreasonably refused medical or surgical treatment under subsection (d) of this section.
 
-([Mar. 4, 1927, ch. 509, § 7][/us/act/1927-03-04/ch509/s7], [44 Stat. 1427][/us/stat/44/1427]; [May 26, 1934, ch. 354, § 1][/us/act/1934-05-26/ch354/s1], [48 Stat. 806][/us/stat/48/806]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], §§ 2, 3, [52 Stat. 1165][/us/stat/52/1165]; [Pub. L. 86–757][/us/pl/86/757], Sept. 13, 1960, [74 Stat. 900][/us/stat/74/900]; [Pub. L. 92–576, § 6][/us/pl/92/576/s6], Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254]; [Pub. L. 98–426, § 7][/us/pl/98/426/s7], Sept. 28, 1984, [98 Stat. 1642][/us/stat/98/1642].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 7, [44 Stat. 1427][/us/stat/44/1427]; [May 26, 1934, ch. 354][/us/act/1934-05-26/ch354], § 1, [48 Stat. 806][/us/stat/48/806]; [June 25, 1938, ch. 685][/us/act/1938-06-25/ch685], §§ 2, 3, [52 Stat. 1165][/us/stat/52/1165]; [Pub. L. 86–757][/us/pl/86/757], Sept. 13, 1960, [74 Stat. 900][/us/stat/74/900]; [Pub. L. 92–576][/us/pl/92/576], § 6, Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254]; [Pub. L. 98–426][/us/pl/98/426], § 7, Sept. 28, 1984, [98 Stat. 1642][/us/stat/98/1642].)
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–426, § 7(a)][/us/pl/98/426/s7/a], inserted “or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider’s customary charges”.
+    1984—Subsec. (b). [Pub. L. 98–426][/us/pl/98/426], § 7(a), inserted “or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider’s customary charges”.
 
-    Subsec. (c). [Pub. L. 98–426, § 7(b)][/us/pl/98/426/s7/b], substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
+    Subsec. (c). [Pub. L. 98–426][/us/pl/98/426], § 7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
 
-    Subsec. (d). [Pub. L. 98–426, § 7(c)][/us/pl/98/426/s7/c], substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician’s report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
+    Subsec. (d). [Pub. L. 98–426][/us/pl/98/426], § 7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician’s report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
 
-    Subsec. (j). [Pub. L. 98–426, § 7(d)][/us/pl/98/426/s7/d], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–426][/us/pl/98/426], § 7(d), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 98–426, § 7(e)][/us/pl/98/426/s7/e], added subsec. (k).
+    Subsec. (k). [Pub. L. 98–426][/us/pl/98/426], § 7(e), added subsec. (k).
 
     1972—Subsec. (a). [Pub. L. 92–576][/us/pl/92/576] reenacted provisions without change.
 
@@ -159,7 +159,7 @@
 
  __Claims Filed Under Black Lung Benefits Act__ 
 
-[Pub. L. 98–426, § 28(h)(1)][/us/pl/98/426/s28/h/1], Sept. 28, 1984, [98 Stat. 1655][/us/stat/98/1655], provided that: 
+[Pub. L. 98–426][/us/pl/98/426], § 28(h)(1), Sept. 28, 1984, [98 Stat. 1655][/us/stat/98/1655], provided that: 
 
 > “The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act ([30 U.S.C. 901][/us/usc/t30/s901] et seq.).”
 
@@ -173,23 +173,23 @@
 [/us/usc/t33/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs944
 [/us/usc/t33/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs933%2Fb
 [/us/usc/t5/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556
-[/us/act/1927-03-04/ch509/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs7
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1427
-[/us/act/1934-05-26/ch354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-26%2Fch354%2Fs1
+[/us/act/1934-05-26/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-26%2Fch354
 [/us/stat/48/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F806
 [/us/act/1938-06-25/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch685
 [/us/stat/52/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1165
 [/us/pl/86/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F757
 [/us/stat/74/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F900
-[/us/pl/92/576/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs6
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1254
-[/us/pl/98/426/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1642
-[/us/pl/98/426/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7%2Fa
-[/us/pl/98/426/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7%2Fb
-[/us/pl/98/426/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7%2Fc
-[/us/pl/98/426/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7%2Fd
-[/us/pl/98/426/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs7%2Fe
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
@@ -211,7 +211,7 @@
 [/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/pl/92/576/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs22
 [/us/usc/t33/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902
-[/us/pl/98/426/s28/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fh%2F1
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1655
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
 

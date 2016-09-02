@@ -27,7 +27,7 @@
 
         It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping of material transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
 
-([Pub. L. 92–532, § 2][/us/pl/92/532/s2], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052]; [Pub. L. 93–254, § 1(1)][/us/pl/93/254/s1/1], Mar. 22, 1974, [88 Stat. 50][/us/stat/88/50].)
+([Pub. L. 92–532][/us/pl/92/532], § 2, Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052]; [Pub. L. 93–254][/us/pl/93/254], § 1(1), Mar. 22, 1974, [88 Stat. 50][/us/stat/88/50].)
 
  __References in Text__ 
 
@@ -41,17 +41,17 @@
 
  __Effective Date of 1974 Amendment__ 
 
-    [Pub. L. 93–254, § 2][/us/pl/93/254/s2], Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51], provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by [Pub. L. 93–254][/us/pl/93/254] shall become effective Mar. 22, 1974.
+    [Pub. L. 93–254][/us/pl/93/254], § 2, Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51], provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by [Pub. L. 93–254][/us/pl/93/254] shall become effective Mar. 22, 1974.
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–688, title I, § 1001][/us/pl/100/688/s1001], Nov. 18, 1988, [102 Stat. 4139][/us/stat/102/4139], provided that: 
+[Pub. L. 100–688, title I][/us/pl/100/688/tI], § 1001, Nov. 18, 1988, [102 Stat. 4139][/us/stat/102/4139], provided that: 
 
 > “This title \[enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under [section 2267 of this title][/us/usc/t33/s2267]\] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
 
  __Short Title__ 
 
-[Pub. L. 92–532, § 1][/us/pl/92/532/s1], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], provided: 
+[Pub. L. 92–532][/us/pl/92/532], § 1, Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], provided: 
 
 > “That this Act \[enacting this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
@@ -74,20 +74,20 @@
 ----------
 ----------
 
-[/us/pl/92/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs2
+[/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
-[/us/pl/93/254/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs1%2F1
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/stat/88/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F50
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
-[/us/pl/93/254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs2
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/stat/88/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F51
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
-[/us/pl/100/688/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs1001
+[/us/pl/100/688/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtI
 [/us/stat/102/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4139
 [/us/usc/t33/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267
-[/us/pl/92/532/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs1
+[/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

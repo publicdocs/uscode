@@ -35,7 +35,7 @@
 
         (2) to the extent practicable, combine mitigation projects with other shore protection projects in the same area into a comprehensive regional project.
 
-([Pub. L. 90–483, title I, § 111][/us/pl/90/483/s111], Aug. 13, 1968, [82 Stat. 735][/us/stat/82/735]; [Pub. L. 99–662, title IX][/us/pl/99/662], §§ 915(f), 940, Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191], 4199; [Pub. L. 106–53, title II, § 214][/us/pl/106/53/s214], Aug. 17, 1999, [113 Stat. 291][/us/stat/113/291]; [Pub. L. 113–121, title I, § 1030(c)][/us/pl/113/121/s1030/c], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
+([Pub. L. 90–483, title I][/us/pl/90/483/tI], § 111, Aug. 13, 1968, [82 Stat. 735][/us/stat/82/735]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], §§ 915(f), 940, Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191], 4199; [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 214, Aug. 17, 1999, [113 Stat. 291][/us/stat/113/291]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1030(c), June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 
     1999—[Pub. L. 106–53][/us/pl/106/53] designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d).
 
-    1986—[Pub. L. 99–662, § 940][/us/pl/99/662/s940], amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
+    1986—[Pub. L. 99–662][/us/pl/99/662], § 940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
 
-    [Pub. L. 99–662, § 915(f)][/us/pl/99/662/s915/f], substituted “$2,000,000” for “$1,000,000”.
+    [Pub. L. 99–662][/us/pl/99/662], § 915(f), substituted “$2,000,000” for “$1,000,000”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -58,18 +58,18 @@
 ----------
 ----------
 
-[/us/pl/90/483/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2Fs111
+[/us/pl/90/483/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtI
 [/us/stat/82/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F735
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
-[/us/pl/106/53/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs214
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F291
-[/us/pl/113/121/s1030/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fc
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
-[/us/pl/99/662/s940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs940
-[/us/pl/99/662/s915/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Ff
+[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/99/662/s915/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Ff
 [/us/pl/99/662/s915/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs915%2Fi
 [/us/usc/t33/s426g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426g

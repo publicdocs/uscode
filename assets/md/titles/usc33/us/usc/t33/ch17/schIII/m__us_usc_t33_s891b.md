@@ -43,11 +43,11 @@
 
         The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
 
-([Pub. L. 102–567, title VI, § 604][/us/pl/102/567/s604], Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 604, Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
 
  __Fishery Survey Vessel Acquisition__ 
 
-[Pub. L. 106–450, title III][/us/pl/106/450], Nov. 7, 2000, [114 Stat. 1945][/us/stat/114/1945], provided that:
+[Pub. L. 106–450, title III][/us/pl/106/450/tIII], Nov. 7, 2000, [114 Stat. 1945][/us/stat/114/1945], provided that:
 
 > “SEC. 301. __SHORT TITLE.__ 
 
@@ -81,7 +81,7 @@
 
  __Deactivation of NOAA Research Vessels__ 
 
-[Pub. L. 102–567, title IV, § 401(b)(4)][/us/pl/102/567/s401/b/4], Oct. 29, 1992, [106 Stat. 4291][/us/stat/106/4291], provided that:
+[Pub. L. 102–567, title IV][/us/pl/102/567/tIV], § 401(b)(4), Oct. 29, 1992, [106 Stat. 4291][/us/stat/106/4291], provided that:
 
 >     “(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational.
 
@@ -96,11 +96,11 @@
 
 [/us/usc/t33/s891a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs891a
 [/us/usc/t33/s891h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs891h
-[/us/pl/102/567/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs604
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4300
-[/us/pl/106/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450
+[/us/pl/106/450/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtIII
 [/us/stat/114/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1945
-[/us/pl/102/567/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs401%2Fb%2F4
+[/us/pl/102/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIV
 [/us/stat/106/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4291
 
 

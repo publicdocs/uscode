@@ -33,7 +33,7 @@ Provisions similar to those in this section were contained in the following prio
 
     [June 30, 1948, ch. 771][/us/act/1948-06-30/ch771], title II, § 202, [62 Stat. 1175][/us/stat/62/1175].
 
-    [July 24, 1946, ch. 596, § 2][/us/act/1946-07-24/ch596/s2], [60 Stat. 641][/us/stat/60/641].
+    [July 24, 1946, ch. 596][/us/act/1946-07-24/ch596], § 2, [60 Stat. 641][/us/stat/60/641].
 
 ----------
 
@@ -49,7 +49,7 @@ Provisions similar to those in this section were contained in the following prio
 [/us/stat/64/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F170
 [/us/act/1948-06-30/ch771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch771
 [/us/stat/62/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1175
-[/us/act/1946-07-24/ch596/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596%2Fs2
+[/us/act/1946-07-24/ch596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch596
 [/us/stat/60/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F641
 
 

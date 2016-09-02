@@ -17,7 +17,7 @@
 
     The Secretary may issue reasonable rules and regulations which he considers appropriate and necessary for the effective implementation of this chapter.
 
-([Pub. L. 93–248, § 16][/us/pl/93/248/s16], Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
+([Pub. L. 93–248][/us/pl/93/248], § 16, Feb. 5, 1974, [88 Stat. 10][/us/stat/88/10].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/248/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs16
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F10
 
 

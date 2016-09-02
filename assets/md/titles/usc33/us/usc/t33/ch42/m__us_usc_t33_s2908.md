@@ -41,11 +41,11 @@
 
         Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) of this section or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
 
-([Pub. L. 106–457, title I, § 109][/us/pl/106/457/s109], Nov. 7, 2000, [114 Stat. 1965][/us/stat/114/1965]; [Pub. L. 110–114, title V, § 5017(g)][/us/pl/110/114/s5017/g], Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 109, Nov. 7, 2000, [114 Stat. 1965][/us/stat/114/1965]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5017(g), Nov. 8, 2007, [121 Stat. 1198][/us/stat/121/1198].)
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–114, § 5017(g)(1)][/us/pl/110/114/s5017/g/1], struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
+    2007—Subsec. (a)(1). [Pub. L. 110–114][/us/pl/110/114], § 5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
 
     “(A) $40,000,000 for fiscal year 2001;
 
@@ -55,7 +55,7 @@
 
     “(D) $75,000,000 for fiscal year 2005.”
 
-    Subsec. (a)(2). [Pub. L. 110–114, § 5017(g)(2)][/us/pl/110/114/s5017/g/2], inserted “and other information compiled under [section 2906 of this title][/us/usc/t33/s2906]” after “this chapter” and substituted “2012” for “2005”.
+    Subsec. (a)(2). [Pub. L. 110–114][/us/pl/110/114], § 5017(g)(2), inserted “and other information compiled under [section 2906 of this title][/us/usc/t33/s2906]” after “this chapter” and substituted “2012” for “2005”.
 
 ----------
 
@@ -65,12 +65,12 @@
 ----------
 
 [/us/usc/t33/s2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2906
-[/us/pl/106/457/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs109
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1965
-[/us/pl/110/114/s5017/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fg
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1198
-[/us/pl/110/114/s5017/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fg%2F1
-[/us/pl/110/114/s5017/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5017%2Fg%2F2
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/usc/t33/s2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2906
 
 

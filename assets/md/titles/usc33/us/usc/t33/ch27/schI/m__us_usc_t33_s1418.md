@@ -17,7 +17,7 @@
 
     In carrying out the responsibilities and authority conferred by this subchapter, the Administrator, the Secretary, and the Secretary of the department in which the Coast Guard is operating are authorized to issue such regulations as they may deem appropriate.
 
-([Pub. L. 92–532, title I, § 108][/us/pl/92/532/s108], Oct. 23, 1972, [86 Stat. 1059][/us/stat/86/1059].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 108, Oct. 23, 1972, [86 Stat. 1059][/us/stat/86/1059].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/532/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs108
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1059
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

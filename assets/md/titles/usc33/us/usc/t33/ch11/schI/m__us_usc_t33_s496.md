@@ -17,7 +17,7 @@
 
     Whenever Congress shall after March 23, 1906, by law authorize the construction of any bridge over or across any of the navigable waters of the United States, and no time for the commencement and completion of such bridge is named in said Act, the authority thereby granted shall cease and be null and void unless the actual construction of the bridge authorized in such Act be commenced within one year and completed within three years from the date of the passage of such Act.
 
-([Mar. 23, 1906, ch. 1130, § 6][/us/act/1906-03-23/ch1130/s6], [34 Stat. 86][/us/stat/34/86].)
+([Mar. 23, 1906, ch. 1130][/us/act/1906-03-23/ch1130], § 6, [34 Stat. 86][/us/stat/34/86].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-03-23/ch1130/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130%2Fs6
+[/us/act/1906-03-23/ch1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130
 [/us/stat/34/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F86
 
 

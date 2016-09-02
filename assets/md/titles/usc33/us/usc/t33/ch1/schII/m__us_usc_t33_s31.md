@@ -17,7 +17,7 @@
 
     So much of the Iowa River within the State of Iowa, as lies north of the town of Wapello, and so much of the said river within the State of Iowa, as lies between the town of Toolsboro and the town of Wapello, in the county of Louisa, shall not be deemed a navigable river or public highway, but dams and bridges may be constructed across it.
 
-(R.S. § 5248; [Aug. 18, 1894, ch. 299, § 1][/us/act/1894-08-18/ch299/s1], [28 Stat. 356][/us/stat/28/356].)
+(R.S. § 5248; [Aug. 18, 1894, ch. 299][/us/act/1894-08-18/ch299], § 1, [28 Stat. 356][/us/stat/28/356].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1894-08-18/ch299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299%2Fs1
+[/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F356
 [/us/stat/15/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F257
 [/us/act/1870-05-06/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-06%2Fch92

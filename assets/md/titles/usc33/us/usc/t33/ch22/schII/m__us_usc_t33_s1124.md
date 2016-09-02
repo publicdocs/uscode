@@ -59,13 +59,13 @@
 
         (4) Any person who receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Secretary or of the Comptroller General, may be related or pertinent to such grants and contracts.
 
-([Pub. L. 89–454, title II, § 205][/us/pl/89/454/s205], as added [Pub. L. 89–688, § 1][/us/pl/89/688/s1], Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001]; amended [Pub. L. 93–73, § 1(8)][/us/pl/93/73/s1/8], July 10, 1973, [87 Stat. 170][/us/stat/87/170]; [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1964][/us/stat/90/1964]; [Pub. L. 95–428, § 3(2)][/us/pl/95/428/s3/2], Oct. 7, 1978, [92 Stat. 999][/us/stat/92/999]; [Pub. L. 96–289, § 1(3)][/us/pl/96/289/s1/3], June 28, 1980, [94 Stat. 605][/us/stat/94/605]; [Pub. L. 100–220, title III, § 3105(a)][/us/pl/100/220/s3105/a], Dec. 29, 1987, [101 Stat. 1471][/us/stat/101/1471]; [Pub. L. 102–186, § 4(b)(1)(B)][/us/pl/102/186/s4/b/1/B], Dec. 4, 1991, [105 Stat. 1283][/us/stat/105/1283]; [Pub. L. 107–299, § 4][/us/pl/107/299/s4], Nov. 26, 2002, [116 Stat. 2346][/us/stat/116/2346]; [Pub. L. 110–394, § 6][/us/pl/110/394/s6], Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207].)
+([Pub. L. 89–454, title II][/us/pl/89/454/tII], § 205, as added [Pub. L. 89–688][/us/pl/89/688], § 1, Oct. 15, 1966, [80 Stat. 1001][/us/stat/80/1001]; amended [Pub. L. 93–73][/us/pl/93/73], § 1(8), July 10, 1973, [87 Stat. 170][/us/stat/87/170]; [Pub. L. 94–461][/us/pl/94/461], § 2, Oct. 8, 1976, [90 Stat. 1964][/us/stat/90/1964]; [Pub. L. 95–428][/us/pl/95/428], § 3(2), Oct. 7, 1978, [92 Stat. 999][/us/stat/92/999]; [Pub. L. 96–289][/us/pl/96/289], § 1(3), June 28, 1980, [94 Stat. 605][/us/stat/94/605]; [Pub. L. 100–220, title III][/us/pl/100/220/tIII], § 3105(a), Dec. 29, 1987, [101 Stat. 1471][/us/stat/101/1471]; [Pub. L. 102–186][/us/pl/102/186], § 4(b)(1)(B), Dec. 4, 1991, [105 Stat. 1283][/us/stat/105/1283]; [Pub. L. 107–299][/us/pl/107/299], § 4, Nov. 26, 2002, [116 Stat. 2346][/us/stat/116/2346]; [Pub. L. 110–394][/us/pl/110/394], § 6, Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–394, § 6(1)][/us/pl/110/394/s6/1], substituted “1123(c)(4)(F) of this title or that are appropriated under [section 1127(b) of this title][/us/usc/t33/s1127/b].” for “1123(c)(4)(F) of this title.”
+    2008—Subsec. (a). [Pub. L. 110–394][/us/pl/110/394], § 6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under [section 1127(b) of this title][/us/usc/t33/s1127/b].” for “1123(c)(4)(F) of this title.”
 
-    Subsec. (b). [Pub. L. 110–394, § 6(2)][/us/pl/110/394/s6/2], inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to [section 1131 of this title][/us/usc/t33/s1131].”
+    Subsec. (b). [Pub. L. 110–394][/us/pl/110/394], § 6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to [section 1131 of this title][/us/usc/t33/s1131].”
 
     2002—Subsec. (a). [Pub. L. 107–299][/us/pl/107/299] substituted “section 1123(c)(4)(F)” for “section 1123(d)(6)” in concluding provisions.
 
@@ -94,28 +94,28 @@
 [/us/usc/t33/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1121%2Fb
 [/us/usc/t33/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1131
 [/us/usc/t33/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1131
-[/us/pl/89/454/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs205
-[/us/pl/89/688/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688%2Fs1
+[/us/pl/89/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtII
+[/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 [/us/stat/80/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1001
-[/us/pl/93/73/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F73%2Fs1%2F8
+[/us/pl/93/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F73
 [/us/stat/87/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F170
-[/us/pl/94/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs2
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1964
-[/us/pl/95/428/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F428%2Fs3%2F2
+[/us/pl/95/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F428
 [/us/stat/92/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F999
-[/us/pl/96/289/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F289%2Fs1%2F3
+[/us/pl/96/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F289
 [/us/stat/94/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F605
-[/us/pl/100/220/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs3105%2Fa
+[/us/pl/100/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIII
 [/us/stat/101/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1471
-[/us/pl/102/186/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186%2Fs4%2Fb%2F1%2FB
+[/us/pl/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186
 [/us/stat/105/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1283
-[/us/pl/107/299/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299%2Fs4
+[/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
 [/us/stat/116/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2346
-[/us/pl/110/394/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs6
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/stat/122/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4207
-[/us/pl/110/394/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs6%2F1
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/usc/t33/s1127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1127%2Fb
-[/us/pl/110/394/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs6%2F2
+[/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/usc/t33/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1131
 [/us/pl/107/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299
 [/us/pl/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F186

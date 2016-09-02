@@ -47,7 +47,7 @@
 
         Notwithstanding [section 3908(b)(2) of this title][/us/usc/t33/s3908/b/2], the Secretary or the Administrator, as applicable, may make available up to 25 percent of the amounts made available for each fiscal year under this section for loans in excess of 49 percent of the total project costs.
 
-([Pub. L. 113–121, title V, § 5033][/us/pl/113/121/s5033], June 10, 2014, [128 Stat. 1342][/us/stat/128/1342].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5033, June 10, 2014, [128 Stat. 1342][/us/stat/128/1342].)
 
  __“Secretary” Defined__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t33/s3907/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F2%2FB
 [/us/usc/t33/s3908/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3908%2Fb%2F2
-[/us/pl/113/121/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5033
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1342
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

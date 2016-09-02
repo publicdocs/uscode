@@ -23,7 +23,7 @@
 
         The purpose of the program is to increase scientific knowledge essential for the informed management, use, and preservation of oceanic, marine, and coastal areas and the Great Lakes.
 
-([Pub. L. 111–11, title XII, § 12102][/us/pl/111/11/s12102], Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12102, Mar. 30, 2009, [123 Stat. 1419][/us/stat/123/1419].)
 
  __Short Title__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12102
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1419
 [/us/usc/t33/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3401
 

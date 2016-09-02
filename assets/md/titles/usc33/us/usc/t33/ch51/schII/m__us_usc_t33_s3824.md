@@ -41,7 +41,7 @@
 
             To the extent practicable, the Administrator shall take any comments into consideration in developing recommendations under subsection (a).
 
-([Pub. L. 111–281, title X, § 1024][/us/pl/111/281/s1024], Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1024, Oct. 15, 2010, [124 Stat. 3026][/us/stat/124/3026].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1024
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3026
 
 

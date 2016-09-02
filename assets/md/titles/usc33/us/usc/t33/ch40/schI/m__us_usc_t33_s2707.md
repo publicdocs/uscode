@@ -51,7 +51,7 @@
 
         (3) an agency or political subdivision of a foreign country.
 
-([Pub. L. 101–380, title I, § 1007][/us/pl/101/380/s1007], Aug. 18, 1990, [104 Stat. 496][/us/stat/104/496].)
+([Pub. L. 101–380, title I][/us/pl/101/380/tI], § 1007, Aug. 18, 1990, [104 Stat. 496][/us/stat/104/496].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
-[/us/pl/101/380/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1007
+[/us/pl/101/380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtI
 [/us/stat/104/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F496
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484

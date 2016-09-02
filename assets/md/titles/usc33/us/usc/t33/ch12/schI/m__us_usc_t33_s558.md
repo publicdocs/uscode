@@ -17,7 +17,7 @@
 
     When any property which has been heretofore or may be hereafter purchased or acquired for the improvement of rivers and harbors is no longer needed, or is no longer serviceable and is transferred or sold, the proceeds thereof may be credited to the appropriation for the work for which it was acquired.
 
-([June 13, 1902, ch. 1079, § 5][/us/act/1902-06-13/ch1079/s5], [32 Stat. 373][/us/stat/32/373]; [Feb. 20, 1931, ch. 235][/us/act/1931-02-20/ch235], [46 Stat. 1191][/us/stat/46/1191]; [Oct. 31, 1951, ch. 654, § 4(4)][/us/act/1951-10-31/ch654/s4/4], [65 Stat. 709][/us/stat/65/709].)
+([June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], § 5, [32 Stat. 373][/us/stat/32/373]; [Feb. 20, 1931, ch. 235][/us/act/1931-02-20/ch235], [46 Stat. 1191][/us/stat/46/1191]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 4(4), [65 Stat. 709][/us/stat/65/709].)
 
  __Codification__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1902-06-13/ch1079/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079%2Fs5
+[/us/act/1902-06-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079
 [/us/stat/32/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F373
 [/us/act/1931-02-20/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-20%2Fch235
 [/us/stat/46/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1191
-[/us/act/1951-10-31/ch654/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs4%2F4
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F709
 [/us/usc/t33/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs631
 

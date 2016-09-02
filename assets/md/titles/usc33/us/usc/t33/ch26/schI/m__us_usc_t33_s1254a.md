@@ -17,7 +17,7 @@
 
     In carrying out the provisions of [section 1254(a) of this title][/us/usc/t33/s1254/a], the Administrator shall conduct research on the harmful effects on the health and welfare of persons caused by pollutants in water, in conjunction with the United States Fish and Wildlife Service, the National Oceanic and Atmospheric Administration, and other Federal, State, and interstate agencies carrying on such research. Such research shall include, and shall place special emphasis on, the effect that bioaccumulation of these pollutants in aquatic species has upon reducing the value of aquatic commercial and sport industries. Such research shall further study methods to reduce and remove these pollutants from the relevant affected aquatic species so as to restore and enhance these valuable resources.
 
-([Pub. L. 100–4, title I, § 105][/us/pl/100/4/s105], Feb. 4, 1987, [101 Stat. 15][/us/stat/101/15].)
+([Pub. L. 100–4, title I][/us/pl/100/4/tI], § 105, Feb. 4, 1987, [101 Stat. 15][/us/stat/101/15].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t33/s1254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1254%2Fa
-[/us/pl/100/4/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs105
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F15
 [/us/pl/100/4/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs1%2Fd
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251

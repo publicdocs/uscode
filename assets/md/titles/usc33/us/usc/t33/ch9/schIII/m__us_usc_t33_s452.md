@@ -21,7 +21,7 @@
 
     It shall be the duty of the United States supervisor of the harbor to enforce this section, and the deputy inspectors of the said supervisor shall have authority to arrest and take into custody, with or without process, any person or persons, who may commit any of the acts or offenses prohibited by this section: Provided, That no person shall be arrested without process for any offense not committed in the presence of the supervisor or his inspector or deputy inspectors, or either of them: And provided further, That whenever any such arrest is made the person or persons so arrested shall be brought forthwith before a magistrate judge, judge, or court of the United States for examination of the offenses alleged against him; and such magistrate judge, judge or court shall proceed in respect thereto as authorized by law in case of crimes against the United States.
 
-([Aug. 18, 1894, ch. 299, § 2][/us/act/1894-08-18/ch299/s2], [28 Stat. 360][/us/stat/28/360]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([Aug. 18, 1894, ch. 299][/us/act/1894-08-18/ch299], § 2, [28 Stat. 360][/us/stat/28/360]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Codification__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/act/1894-08-18/ch299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299%2Fs2
+[/us/act/1894-08-18/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch299
 [/us/stat/28/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F360
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1888-06-29/ch496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-29%2Fch496
 [/us/stat/25/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F209

@@ -51,7 +51,7 @@
 
         Costs incurred by the Secretary to carry out the objectives of this section shall be allocated to recreation and shall be payable by the beneficiaries of the recreation.
 
-([Pub. L. 101–640, title III, § 313][/us/pl/101/640/s313], Nov. 28, 1990, [104 Stat. 4640][/us/stat/104/4640].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 313, Nov. 28, 1990, [104 Stat. 4640][/us/stat/104/4640].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/101/640/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs313
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4640
 [/us/pl/101/640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

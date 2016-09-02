@@ -47,7 +47,7 @@
 
         There is authorized to be appropriated, for use in carrying out this section, not to exceed $17,250,000.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 315, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 93–207, § 1(5)][/us/pl/93/207/s1/5], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 93–592, § 5][/us/pl/93/592/s5], Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 94–238][/us/pl/94/238], Mar. 23, 1976, [90 Stat. 250][/us/stat/90/250]; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 315, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 875][/us/stat/86/875]; amended [Pub. L. 93–207][/us/pl/93/207], § 1(5), Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 93–592][/us/pl/93/592], § 5, Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 94–238][/us/pl/94/238], Mar. 23, 1976, [90 Stat. 250][/us/stat/90/250]; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
 
  __References in Text__ 
 
@@ -85,11 +85,11 @@
 [/us/usc/t33/s1311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb%2F2
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F875
-[/us/pl/93/207/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F5
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
-[/us/pl/93/592/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592%2Fs5
+[/us/pl/93/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592
 [/us/stat/88/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1925
 [/us/pl/94/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F238
 [/us/stat/90/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F250

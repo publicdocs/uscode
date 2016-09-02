@@ -17,7 +17,7 @@
 
     If any provision in any report designated by this Act recommends that a State contribute in cash 5 percent of the construction costs allocated to non-vendible project purposes and 10 percent of the construction costs allocated to vendible project purposes, such provision shall not apply to the project recommended in such report.
 
-([Pub. L. 99–662, title I, § 107][/us/pl/99/662/s107], Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 107, Nov. 17, 1986, [100 Stat. 4089][/us/stat/100/4089].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs107
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4089
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

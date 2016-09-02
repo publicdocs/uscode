@@ -17,7 +17,7 @@
 
     In the evaluation by the Secretary of benefits and costs of a water resources project, the benefits attributable to measures included in a project for the purpose of environmental quality, including improvement of the environment and fish and wildlife enhancement, shall be deemed to be at least equal to the costs of such measures.
 
-([Pub. L. 99–662, title IX, § 907][/us/pl/99/662/s907], Nov. 17, 1986, [100 Stat. 4188][/us/stat/100/4188].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 907, Nov. 17, 1986, [100 Stat. 4188][/us/stat/100/4188].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs907
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4188
 
 

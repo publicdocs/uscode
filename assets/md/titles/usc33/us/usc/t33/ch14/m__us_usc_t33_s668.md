@@ -17,7 +17,7 @@
 
     For the purposes of this chapter “hydraulic mining” and “mining by the hydraulic process” are declared to have the meaning and application given to said terms in the State of California.
 
-([Mar. 1, 1893, ch. 183, § 8][/us/act/1893-03-01/ch183/s8], 27 Stat 508.)
+([Mar. 1, 1893, ch. 183][/us/act/1893-03-01/ch183], § 8, 27 Stat 508.)
 
 ----------
 
@@ -26,6 +26,6 @@
 ----------
 ----------
 
-[/us/act/1893-03-01/ch183/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183%2Fs8
+[/us/act/1893-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183
 
 

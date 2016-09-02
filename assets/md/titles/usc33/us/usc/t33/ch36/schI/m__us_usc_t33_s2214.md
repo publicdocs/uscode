@@ -49,7 +49,7 @@
 
         Nothing in this section affects the requirement of [section 2213(a)(1)(A) of this title][/us/usc/t33/s2213/a/1/A].
 
-([Pub. L. 99–662, title I, § 104][/us/pl/99/662/s104], Nov. 17, 1986, [100 Stat. 4087][/us/stat/100/4087].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 104, Nov. 17, 1986, [100 Stat. 4087][/us/stat/100/4087].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t42/s1962d–5a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935a%2Fa
 [/us/usc/t33/s2213/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2213%2Fa%2F1%2FA
-[/us/pl/99/662/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs104
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4087
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

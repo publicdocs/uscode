@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal sections 491 to 494 and 495 to 498 of this title, is expressly reserved as to any and all bridges which may be built in accordance with the provisions of said sections, and the United States shall incur no liability for the alteration, amendment, or repeal thereof to the owner or owners or any other persons interested in any bridge which shall have been constructed in accordance with its provisions.
 
-([Mar. 23, 1906, ch. 1130, § 8][/us/act/1906-03-23/ch1130/s8], [34 Stat. 86][/us/stat/34/86].)
+([Mar. 23, 1906, ch. 1130][/us/act/1906-03-23/ch1130], § 8, [34 Stat. 86][/us/stat/34/86].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-03-23/ch1130/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130%2Fs8
+[/us/act/1906-03-23/ch1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130
 [/us/stat/34/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F86
 
 

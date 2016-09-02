@@ -187,7 +187,7 @@
 
         (5) any need to revise or terminate research and activities under the Program.
 
-([Pub. L. 105–383, title VI, § 603][/us/pl/105/383/s603], Nov. 13, 1998, [112 Stat. 3448][/us/stat/112/3448]; [Pub. L. 108–456, title I][/us/pl/108/456], §§ 102–104, Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], 3631; [Pub. L. 113–124][/us/pl/113/124], §§ 3, 6, 10(b), June 30, 2014, [128 Stat. 1379][/us/stat/128/1379], 1383, 1386.)
+([Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 603, Nov. 13, 1998, [112 Stat. 3448][/us/stat/112/3448]; [Pub. L. 108–456, title I][/us/pl/108/456/tI], §§ 102–104, Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], 3631; [Pub. L. 113–124][/us/pl/113/124], §§ 3, 6, 10(b), June 30, 2014, [128 Stat. 1379][/us/stat/128/1379], 1383, 1386.)
 
  __References in Text__ 
 
@@ -199,45 +199,45 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–124, § 10(b)][/us/pl/113/124/s10/b], struck out “(hereinafter referred to as the ‘Task Force’)” after “Hypoxia” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–124][/us/pl/113/124], § 10(b), struck out “(hereinafter referred to as the ‘Task Force’)” after “Hypoxia” in introductory provisions.
 
-    [Pub. L. 113–124, § 3(1)][/us/pl/113/124/s3/1], substituted “a representative from” for “the following representatives from” in introductory provisions.
+    [Pub. L. 113–124][/us/pl/113/124], § 3(1), substituted “a representative from” for “the following representatives from” in introductory provisions.
 
-    Subsec. (a)(12). [Pub. L. 113–124, § 3(2)][/us/pl/113/124/s3/2], (4), added par. (12). Former par. (12) redesignated (13).
+    Subsec. (a)(12). [Pub. L. 113–124][/us/pl/113/124], § 3(2), (4), added par. (12). Former par. (12) redesignated (13).
 
-    Subsec. (a)(13). [Pub. L. 113–124, § 3(3)][/us/pl/113/124/s3/3], (5), redesignated par. (12) as (13) and struck out “such” before “other”.
+    Subsec. (a)(13). [Pub. L. 113–124][/us/pl/113/124], § 3(3), (5), redesignated par. (12) as (13) and struck out “such” before “other”.
 
-    Subsec. (j). [Pub. L. 113–124, § 6][/us/pl/113/124/s6], added subsec. (j).
+    Subsec. (j). [Pub. L. 113–124][/us/pl/113/124], § 6, added subsec. (j).
 
-    2004—Subsec. (d). [Pub. L. 108–456, § 103][/us/pl/108/456/s103], added subsec. (d).
+    2004—Subsec. (d). [Pub. L. 108–456][/us/pl/108/456], § 103, added subsec. (d).
 
-    Subsec. (e). [Pub. L. 108–456, § 104][/us/pl/108/456/s104], added subsec. (e). Former subsec. (e) struck out.
+    Subsec. (e). [Pub. L. 108–456][/us/pl/108/456], § 104, added subsec. (e). Former subsec. (e) struck out.
 
-    [Pub. L. 108–456, § 102][/us/pl/108/456/s102], struck out subsec. (e) which provided that the President could disestablish the Task Force after submission of the plan in [section 4004 of this title][/us/usc/t33/s4004].
+    [Pub. L. 108–456][/us/pl/108/456], § 102, struck out subsec. (e) which provided that the President could disestablish the Task Force after submission of the plan in [section 4004 of this title][/us/usc/t33/s4004].
 
-    Subsecs. (f) to (i). [Pub. L. 108–456, § 104][/us/pl/108/456/s104], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 108–456][/us/pl/108/456], § 104, added subsecs. (f) to (i).
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–124, § 1][/us/pl/113/124/s1], June 30, 2014, [128 Stat. 1379][/us/stat/128/1379], provided that: 
+[Pub. L. 113–124][/us/pl/113/124], § 1, June 30, 2014, [128 Stat. 1379][/us/stat/128/1379], provided that: 
 
 > “This Act \[enacting sections 4002, 4003, and 4007 to 4009 of this title and amending this section and sections 4004 and 4005 of this title\] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–456, title I, § 101][/us/pl/108/456/s101], Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], provided that: 
+[Pub. L. 108–456, title I][/us/pl/108/456/tI], § 101, Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], provided that: 
 
 > “This title \[enacting [section 4001a of this title][/us/usc/t33/s4001a] and amending this section and [section 4005 of this title][/us/usc/t33/s4005]\] may be cited as the ‘Harmful Algal Bloom and Hypoxia Amendments Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 105–383, title VI, § 601][/us/pl/105/383/s601], Nov. 13, 1998, [112 Stat. 3447][/us/stat/112/3447], provided that: 
+[Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 601, Nov. 13, 1998, [112 Stat. 3447][/us/stat/112/3447], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Act of 1998’.”
 
  __Findings__ 
 
-[Pub. L. 105–383, title VI, § 602][/us/pl/105/383/s602], Nov. 13, 1998, [112 Stat. 3447][/us/stat/112/3447], provided that: 
+[Pub. L. 105–383, title VI][/us/pl/105/383/tVI], § 602, Nov. 13, 1998, [112 Stat. 3447][/us/stat/112/3447], provided that: 
 
 > “The Congress finds that—
 
@@ -273,34 +273,34 @@
 ----------
 
 [/us/usc/t33/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4003
-[/us/pl/105/383/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs603
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
 [/us/stat/112/3448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3448
-[/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
+[/us/pl/108/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2FtI
 [/us/stat/118/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3630
 [/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1379
 [/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
 [/us/stat/118/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3630
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
-[/us/pl/113/124/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs10%2Fb
-[/us/pl/113/124/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F1
-[/us/pl/113/124/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F2
-[/us/pl/113/124/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F3
-[/us/pl/113/124/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs6
-[/us/pl/108/456/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs103
-[/us/pl/108/456/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs104
-[/us/pl/108/456/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs102
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
+[/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
+[/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
+[/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
 [/us/usc/t33/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4004
-[/us/pl/108/456/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs104
-[/us/pl/113/124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs1
+[/us/pl/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456
+[/us/pl/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124
 [/us/stat/128/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1379
-[/us/pl/108/456/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs101
+[/us/pl/108/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2FtI
 [/us/stat/118/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3630
 [/us/usc/t33/s4001a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001a
 [/us/usc/t33/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4005
-[/us/pl/105/383/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs601
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
 [/us/stat/112/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3447
-[/us/pl/105/383/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs602
+[/us/pl/105/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtVI
 [/us/stat/112/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3447
 
 

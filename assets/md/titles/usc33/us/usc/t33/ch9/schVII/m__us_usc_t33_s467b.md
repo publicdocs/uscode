@@ -17,7 +17,7 @@
 
     As soon as practicable after inspection of a dam, the Secretary shall notify the Governor of the State in which such dam is located the results of such investigation. In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam. The Secretary shall immediately notify the Governor of any hazardous conditions found during an inspection. The Secretary shall provide advice to the Governor, upon request, relating to timely remedial measures necessary to mitigate or obviate any hazardous conditions found during an inspection.
 
-([Pub. L. 92–367, § 4][/us/pl/92/367/s4], formerly § 3, Aug. 8, 1972, [86 Stat. 507][/us/stat/86/507]; [Pub. L. 99–662, title XII, § 1204][/us/pl/99/662/s1204], Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263]; renumbered § 4 and amended [Pub. L. 104–303, title II, § 215(c)(3)][/us/pl/104/303/s215/c/3], (6), Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685], 3687.)
+([Pub. L. 92–367][/us/pl/92/367], § 4, formerly § 3, Aug. 8, 1972, [86 Stat. 507][/us/stat/86/507]; [Pub. L. 99–662, title XII][/us/pl/99/662/tXII], § 1204, Nov. 17, 1986, [100 Stat. 4263][/us/stat/100/4263]; renumbered § 4 and amended [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 215(c)(3), (6), Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685], 3687.)
 
  __Prior Provisions__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/92/367/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs4
+[/us/pl/92/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367
 [/us/stat/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F507
-[/us/pl/99/662/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1204
+[/us/pl/99/662/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXII
 [/us/stat/100/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4263
-[/us/pl/104/303/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F3
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3685
 [/us/pl/92/367/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs4
 [/us/usc/t33/s467c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467c

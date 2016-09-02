@@ -23,7 +23,7 @@
 
         In addition to, or in lieu of, assessing a penalty under subsection (a) of this section, the President may request the Attorney General to secure such relief as necessary to compel compliance with this  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “this” probably should not appear. </sup></sup>  [section 2716 of this title][/us/usc/t33/s2716], including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
 
-([Pub. L. 101–380, title IV, § 4303][/us/pl/101/380/s4303], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
+([Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4303, Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
-[/us/pl/101/380/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4303
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321

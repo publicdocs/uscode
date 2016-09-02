@@ -29,7 +29,7 @@
 
         (3) the application of public interest review procedures for Corps of Engineers permits.
 
-([Pub. L. 101–640, title III, § 306][/us/pl/101/640/s306], Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 306, Nov. 28, 1990, [104 Stat. 4635][/us/stat/104/4635].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/640/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs306
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4635
 [/us/pl/101/640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

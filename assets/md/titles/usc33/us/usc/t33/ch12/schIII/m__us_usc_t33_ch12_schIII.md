@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s583a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIII/m__us_usc_t33_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschIII)
+[Previous](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s584 _us_usc_t33_s584a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIII/m__us_usc_t33_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschIII)
 
 ### SUBCHAPTER III—ACQUISITION OF LAND AND MATERIALS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s583a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIII/m__us_usc_t33_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschIII)
+[Previous](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s584 _us_usc_t33_s584a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIII/m__us_usc_t33_s591.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschIII)
 
 ----------
 ----------

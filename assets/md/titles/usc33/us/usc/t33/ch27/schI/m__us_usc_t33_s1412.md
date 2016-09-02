@@ -93,7 +93,7 @@
 
         In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: Provided, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
-([Pub. L. 92–532, title I, § 102][/us/pl/92/532/s102], Oct. 23, 1972, [86 Stat. 1054][/us/stat/86/1054]; [Pub. L. 93–254, § 1(4)][/us/pl/93/254/s1/4], Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51]; [Pub. L. 96–572, § 3][/us/pl/96/572/s3], Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; [Pub. L. 100–688, title III, § 3201(b)][/us/pl/100/688/s3201/b], Nov. 18, 1988, [102 Stat. 4153][/us/stat/102/4153]; [Pub. L. 102–580, title V, § 506(a)][/us/pl/102/580/s506/a], Oct. 31, 1992, [106 Stat. 4868][/us/stat/106/4868]; [Pub. L. 104–303, title V, § 582][/us/pl/104/303/s582], Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791]; [Pub. L. 106–53, title V, § 562][/us/pl/106/53/s562], Aug. 17, 1999, [113 Stat. 355][/us/stat/113/355]; [Pub. L. 110–114, title V, § 5046][/us/pl/110/114/s5046], Nov. 8, 2007, [121 Stat. 1209][/us/stat/121/1209].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 102, Oct. 23, 1972, [86 Stat. 1054][/us/stat/86/1054]; [Pub. L. 93–254][/us/pl/93/254], § 1(4), Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51]; [Pub. L. 96–572][/us/pl/96/572], § 3, Dec. 22, 1980, [94 Stat. 3345][/us/stat/94/3345]; [Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3201(b), Nov. 18, 1988, [102 Stat. 4153][/us/stat/102/4153]; [Pub. L. 102–580, title V][/us/pl/102/580/tV], § 506(a), Oct. 31, 1992, [106 Stat. 4868][/us/stat/106/4868]; [Pub. L. 104–303, title V][/us/pl/104/303/tV], § 582, Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791]; [Pub. L. 106–53, title V][/us/pl/106/53/tV], § 562, Aug. 17, 1999, [113 Stat. 355][/us/stat/113/355]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5046, Nov. 8, 2007, [121 Stat. 1209][/us/stat/121/1209].)
 
  __References in Text__ 
 
@@ -113,13 +113,13 @@
 
     1980—Subsec. (e). [Pub. L. 96–572][/us/pl/96/572] inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-    1974—Subsec. (a). [Pub. L. 93–254, § 1(4)(A)][/us/pl/93/254/s1/4/A], substituted “for which no permit may be issued,” for “as provided for in [section 1411 of this title][/us/usc/t33/s1411],”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+    1974—Subsec. (a). [Pub. L. 93–254][/us/pl/93/254], § 1(4)(A), substituted “for which no permit may be issued,” for “as provided for in [section 1411 of this title][/us/usc/t33/s1411],”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
-    Subsec. (e). [Pub. L. 93–254, § 1(4)(B)][/us/pl/93/254/s1/4/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 93–254][/us/pl/93/254], § 1(4)(B), added subsec. (e).
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–254, § 2][/us/pl/93/254/s2], Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51], provided in part that: 
+[Pub. L. 93–254][/us/pl/93/254], § 2, Mar. 22, 1974, [88 Stat. 51][/us/stat/88/51], provided in part that: 
 
 > “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.”
 
@@ -142,21 +142,21 @@
 [/us/usc/t33/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1413%2Fb
 [/us/usc/t33/s1413/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1413%2Fe
 [/us/usc/t33/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1413%2Fb
-[/us/pl/92/532/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs102
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1054
-[/us/pl/93/254/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs1%2F4
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/stat/88/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F51
-[/us/pl/96/572/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572%2Fs3
+[/us/pl/96/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572
 [/us/stat/94/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3345
-[/us/pl/100/688/s3201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3201%2Fb
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4153
-[/us/pl/102/580/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs506%2Fa
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4868
-[/us/pl/104/303/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs582
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3791
-[/us/pl/106/53/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs562
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F355
-[/us/pl/110/114/s5046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5046
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1209
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
@@ -167,10 +167,10 @@
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/pl/100/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688
 [/us/pl/96/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F572
-[/us/pl/93/254/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs1%2F4%2FA
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/usc/t33/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1411
-[/us/pl/93/254/s1/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs1%2F4%2FB
-[/us/pl/93/254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs2
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
+[/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/stat/88/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F51
 [/us/pl/93/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254
 [/us/pl/93/254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F254%2Fs2

@@ -27,7 +27,7 @@
 
         The annual report required under subsection (a) of this section shall be submitted on or before June 30 of each year, beginning with June 30, 1978.
 
-([Pub. L. 95–63, § 4][/us/pl/95/63/s4], July 5, 1977, [91 Stat. 266][/us/stat/91/266].)
+([Pub. L. 95–63][/us/pl/95/63], § 4, July 5, 1977, [91 Stat. 266][/us/stat/91/266].)
 
  __Prior Provisions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs4
+[/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/stat/91/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F266
 [/us/usc/t33/s857–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%939
 [/us/pl/95/63/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs7%2Fa

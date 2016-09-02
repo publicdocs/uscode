@@ -17,7 +17,7 @@
 
     For the purpose of securing the uninterrupted work of operating snag boats on the Ohio River and removing snags, wrecks, and other obstructions in said river, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $50,000.
 
-([Sept. 19, 1890, ch. 907, § 13][/us/act/1890-09-19/ch907/s13], [26 Stat. 455][/us/stat/26/455]; [June 3, 1896, ch. 314, § 3][/us/act/1896-06-03/ch314/s3], [29 Stat. 234][/us/stat/29/234]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076, § 1(15)][/us/act/1954-08-30/ch1076/s1/15], [68 Stat. 967][/us/stat/68/967].)
+([Sept. 19, 1890, ch. 907][/us/act/1890-09-19/ch907], § 13, [26 Stat. 455][/us/stat/26/455]; [June 3, 1896, ch. 314][/us/act/1896-06-03/ch314], § 3, [29 Stat. 234][/us/stat/29/234]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(15), [68 Stat. 967][/us/stat/68/967].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Appropriations__ 
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/act/1890-09-19/ch907/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907%2Fs13
+[/us/act/1890-09-19/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-09-19%2Fch907
 [/us/stat/26/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F455
-[/us/act/1896-06-03/ch314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-03%2Fch314%2Fs3
+[/us/act/1896-06-03/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-03%2Fch314
 [/us/stat/29/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F234
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1954-08-30/ch1076/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F15
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F967
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

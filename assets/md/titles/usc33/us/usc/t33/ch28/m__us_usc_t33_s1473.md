@@ -19,7 +19,7 @@
 
     (b) In determining whether there is grave and imminent danger of major harmful consequences to the coastline or related interests of the United States, the Secretary shall consider the interests of the United States directly threatened or affected including but not limited to, human health, fish, shellfish, and other living marine resources, wildlife, coastal zone and estuarine activities, and public and private shorelines and beaches.
 
-([Pub. L. 93–248, § 4][/us/pl/93/248/s4], Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9]; [Pub. L. 95–302, § 1(3)][/us/pl/95/302/s1/3], June 26, 1978, [92 Stat. 344][/us/stat/92/344].)
+([Pub. L. 93–248][/us/pl/93/248], § 4, Feb. 5, 1974, [88 Stat. 9][/us/stat/88/9]; [Pub. L. 95–302][/us/pl/95/302], § 1(3), June 26, 1978, [92 Stat. 344][/us/stat/92/344].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/93/248/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248%2Fs4
+[/us/pl/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F248
 [/us/stat/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F9
-[/us/pl/95/302/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302%2Fs1%2F3
+[/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/stat/92/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F344
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302
 [/us/pl/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F302

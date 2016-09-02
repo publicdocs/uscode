@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t33/ch29/m__us_usc_t33_s1516.md) | [Next](./../../../..//us/usc/t33/ch29/m__us_usc_t33_s1517a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1517)
 
-## § 1517. Repealed. [Pub. L. 101–380, title II, § 2003(a)(2)][/us/pl/101/380/s2003/a/2], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]
+## § 1517. Repealed. [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2003(a)(2), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]
 
-    Section, [Pub. L. 93–627, § 18][/us/pl/93/627/s18], Jan. 3, 1975, [88 Stat. 2141][/us/stat/88/2141]; [Pub. L. 98–419, § 4(a)][/us/pl/98/419/s4/a], Sept. 25, 1984, [98 Stat. 1608][/us/stat/98/1608], set penalties for discharge of oil into marine environment and provided for creation and maintenance of a Deepwater Port Liability Fund.
+    Section, [Pub. L. 93–627][/us/pl/93/627], § 18, Jan. 3, 1975, [88 Stat. 2141][/us/stat/88/2141]; [Pub. L. 98–419][/us/pl/98/419], § 4(a), Sept. 25, 1984, [98 Stat. 1608][/us/stat/98/1608], set penalties for discharge of oil into marine environment and provided for creation and maintenance of a Deepwater Port Liability Fund.
 
  __Deepwater Port Liability Fund__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/101/380/s2003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2003%2Fa%2F2
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
-[/us/pl/93/627/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs18
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2141
-[/us/pl/98/419/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419%2Fs4%2Fa
+[/us/pl/98/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F419
 [/us/stat/98/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1608
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
 [/us/pl/101/380/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2003%2Fb

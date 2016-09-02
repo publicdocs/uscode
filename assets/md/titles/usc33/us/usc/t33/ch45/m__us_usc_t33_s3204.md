@@ -49,7 +49,7 @@
 
         Nothing in this section shall be construed to require a change in the chair of any existing tsunami hazard mitigation program subcommittee.
 
-([Pub. L. 109–424, § 5][/us/pl/109/424/s5], Dec. 20, 2006, [120 Stat. 2906][/us/stat/120/2906]; [Pub. L. 109–479, title VIII, § 805][/us/pl/109/479/s805], Jan. 12, 2007, [120 Stat. 3657][/us/stat/120/3657].)
+([Pub. L. 109–424][/us/pl/109/424], § 5, Dec. 20, 2006, [120 Stat. 2906][/us/stat/120/2906]; [Pub. L. 109–479, title VIII][/us/pl/109/479/tVIII], § 805, Jan. 12, 2007, [120 Stat. 3657][/us/stat/120/3657].)
 
  __Codification__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t33/s3203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3203%2Fc
-[/us/pl/109/424/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424%2Fs5
+[/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/stat/120/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2906
-[/us/pl/109/479/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs805
+[/us/pl/109/479/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVIII
 [/us/stat/120/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3657
 [/us/pl/109/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F424
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

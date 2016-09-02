@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to affect, impair, or diminish any right, power, or jurisdiction of the United States over or in regard to any navigable water or any interstate or foreign commerce.
 
-([Pub. L. 92–434, § 10][/us/pl/92/434/s10], Sept. 26, 1972, [86 Stat. 733][/us/stat/86/733].)
+([Pub. L. 92–434][/us/pl/92/434], § 10, Sept. 26, 1972, [86 Stat. 733][/us/stat/86/733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/434/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434%2Fs10
+[/us/pl/92/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434
 [/us/stat/86/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F733
 
 

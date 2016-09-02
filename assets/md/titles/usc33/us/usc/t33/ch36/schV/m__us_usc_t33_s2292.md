@@ -17,7 +17,7 @@
 
     Any surveying or mapping services to be performed in connection with a water resources project which is or has been authorized to be undertaken by the Secretary shall be procured in accordance with title IX of the Federal Property and Administrative Services Act of 1949. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 99–662, title IX, § 918][/us/pl/99/662/s918], Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 918, Nov. 17, 1986, [100 Stat. 4192][/us/stat/100/4192].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs918
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4192
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377

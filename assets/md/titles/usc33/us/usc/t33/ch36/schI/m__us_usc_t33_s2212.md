@@ -55,7 +55,7 @@
 
         which responsibility is not provided for in subsection (a) of this section shall be paid only from amounts appropriated from the general fund of the Treasury.
 
-([Pub. L. 99–662, title I, § 102][/us/pl/99/662/s102], Nov. 17, 1986, [100 Stat. 4084][/us/stat/100/4084]; [Pub. L. 113–121, title II, § 2013][/us/pl/113/121/s2013], June 10, 2014, [128 Stat. 1271][/us/stat/128/1271].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 102, Nov. 17, 1986, [100 Stat. 4084][/us/stat/100/4084]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2013, June 10, 2014, [128 Stat. 1271][/us/stat/128/1271].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Acceptance of Contributed Funds To Increase Lock Operations__ 
 
-[Pub. L. 113–121, title I, § 1017][/us/pl/113/121/s1017], June 10, 2014, [128 Stat. 1223][/us/stat/128/1223], provided that:
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1017, June 10, 2014, [128 Stat. 1223][/us/stat/128/1223], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -115,9 +115,9 @@
 [/us/usc/t33/s652/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs652%2Fj
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
 [/us/usc/t33/s652/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs652%2Fj
-[/us/pl/99/662/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs102
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4084
-[/us/pl/113/121/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2013
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1271
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4109
@@ -127,7 +127,7 @@
 [/us/pl/99/662/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs844
 [/us/stat/100/4177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4177
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
-[/us/pl/113/121/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1017
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1223
 
 

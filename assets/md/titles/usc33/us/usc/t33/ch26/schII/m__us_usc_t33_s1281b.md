@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, Federal assistance made available by the Farmers Home Administration to any political subdivision of a State may be used to provide the non-Federal share of the cost of any construction project carried out under [section 1281 of this title][/us/usc/t33/s1281].
 
-([Pub. L. 100–4, title II, § 202(f)][/us/pl/100/4/s202/f], Feb. 4, 1987, [101 Stat. 16][/us/stat/101/16].)
+([Pub. L. 100–4, title II][/us/pl/100/4/tII], § 202(f), Feb. 4, 1987, [101 Stat. 16][/us/stat/101/16].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
-[/us/pl/100/4/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs202%2Ff
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F16
 
 

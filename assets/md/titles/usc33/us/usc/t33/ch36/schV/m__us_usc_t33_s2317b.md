@@ -33,7 +33,7 @@
 
             The relief of responsibility under subparagraph (A) applies only in any case in which the Secretary determines that monitoring of mitigation success is being conducted by the Secretary or by the owner or operator of the mitigation bank.
 
-([Pub. L. 110–114, title II, § 2036(c)][/us/pl/110/114/s2036/c], Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2036(c), Nov. 8, 2007, [121 Stat. 1094][/us/stat/121/1094].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2036/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fc
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1094
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

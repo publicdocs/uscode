@@ -23,7 +23,7 @@
 
         All United States officials, including those officials responsible for the implementation and enforcement of United States laws applicable to a deepwater port, shall at all times be afforded reasonable access to a deepwater port licensed under this chapter for the purpose of enforcing laws under their jurisdiction or otherwise carrying out their responsibilities. Each such official may inspect, at reasonable times, records, files, papers, processes, controls, and facilities and may test any feature of a deep water port. Each inspection shall be conducted with reasonable promptness, and such licensee shall be notified of the results of such inspection.
 
-([Pub. L. 93–627, § 13][/us/pl/93/627/s13], Jan. 3, 1975, [88 Stat. 2139][/us/stat/88/2139].)
+([Pub. L. 93–627][/us/pl/93/627], § 13, Jan. 3, 1975, [88 Stat. 2139][/us/stat/88/2139].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/627/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs13
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2139
 [/us/act/1887-02-04/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-04%2Fch104
 [/us/stat/24/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F379

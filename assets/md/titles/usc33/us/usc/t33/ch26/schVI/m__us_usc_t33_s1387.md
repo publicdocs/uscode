@@ -27,7 +27,7 @@
 
     (5) $600,000,000 for fiscal year 1994.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 607, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 26][/us/stat/101/26].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 607, as added [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 212(a), Feb. 4, 1987, [101 Stat. 26][/us/stat/101/26].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F26
 
 

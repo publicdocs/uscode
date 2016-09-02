@@ -47,7 +47,7 @@
 
         The Secretary may cooperate with other parties to the Convention in the detection of violations and in enforcement of the Convention. Nothing in this section affects or alters requirements under any other laws.
 
-([Pub. L. 111–281, title X, § 1032][/us/pl/111/281/s1032], Oct. 15, 2010, [124 Stat. 3028][/us/stat/124/3028].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1032, Oct. 15, 2010, [124 Stat. 3028][/us/stat/124/3028].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1032
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3028
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

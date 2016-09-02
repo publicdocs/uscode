@@ -23,7 +23,7 @@
 
         Any notification provided by an individual in accordance with subsection (a) may not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.
 
-([Pub. L. 92–340, § 15][/us/pl/92/340/s15], as added [Pub. L. 109–241, title VI, § 602][/us/pl/109/241/s602], July 11, 2006, [120 Stat. 553][/us/stat/120/553].)
+([Pub. L. 92–340][/us/pl/92/340], § 15, as added [Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 602, July 11, 2006, [120 Stat. 553][/us/stat/120/553].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t33/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs403
-[/us/pl/92/340/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs15
-[/us/pl/109/241/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs602
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F553
 
 

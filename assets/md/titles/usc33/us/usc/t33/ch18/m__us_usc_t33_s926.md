@@ -17,7 +17,7 @@
 
     If the court having jurisdiction of proceedings in respect of any claim or compensation order determines that the proceedings in respect of such claim or order have been instituted or continued without reasonable ground, the costs of such proceedings shall be assessed against the party who has so instituted or continued such proceedings.
 
-([Mar. 4, 1927, ch. 509, § 26][/us/act/1927-03-04/ch509/s26], [44 Stat. 1438][/us/stat/44/1438].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 26, [44 Stat. 1438][/us/stat/44/1438].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs26
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1438
 
 

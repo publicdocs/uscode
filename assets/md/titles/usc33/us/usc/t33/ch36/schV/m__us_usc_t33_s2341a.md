@@ -73,7 +73,7 @@
 
         (2) for which the restoration activities will contribute to other ongoing or planned Federal, State, or local restoration initiatives.
 
-([Pub. L. 113–121, title I, § 1011][/us/pl/113/121/s1011], June 10, 2014, [128 Stat. 1217][/us/stat/128/1217].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1011, June 10, 2014, [128 Stat. 1217][/us/stat/128/1217].)
 
  __Codification__ 
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
-[/us/pl/113/121/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1011
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1217
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

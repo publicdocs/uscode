@@ -35,7 +35,7 @@
 
         In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 509, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 891][/us/stat/86/891]; amended [Pub. L. 93–207, § 1(6)][/us/pl/93/207/s1/6], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 100–4, title III, § 308(b)][/us/pl/100/4/s308/b], title IV, § 406(d)(3), title V, § 505(a), (b), Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39], 73, 75; [Pub. L. 100–236, § 2][/us/pl/100/236/s2], Jan. 8, 1988, [101 Stat. 1732][/us/stat/101/1732].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 509, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 891][/us/stat/86/891]; amended [Pub. L. 93–207][/us/pl/93/207], § 1(6), Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 308(b), title IV, § 406(d)(3), title V, § 505(a), (b), Feb. 4, 1987, [101 Stat. 39][/us/stat/101/39], 73, 75; [Pub. L. 100–236][/us/pl/100/236], § 2, Jan. 8, 1988, [101 Stat. 1732][/us/stat/101/1732].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
     1987—Subsec. (b)(1). [Pub. L. 100–4][/us/pl/100/4], §§ 308(b), 406(d)(3), 505(a), substituted “transacts business which is directly affected by such action” for “transacts such business”, “120” for “ninety”, and “120th” for “ninetieth”, substituted “1316, or 1345 of this title” for “or 1316 of this title” in cl. (E), and added cl. (G).
 
-    Subsec. (b)(3), (4). [Pub. L. 100–4, § 505(b)][/us/pl/100/4/s505/b], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 100–4][/us/pl/100/4], § 505(b), added pars. (3) and (4).
 
     1973—Subsec. (b)(1)(C). [Pub. L. 93–207][/us/pl/93/207] substituted “pretreatment” for “treatment”.
 
@@ -67,17 +67,17 @@
 [/us/usc/t33/s1342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fb
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F891
-[/us/pl/93/207/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F6
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
-[/us/pl/100/4/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs308%2Fb
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F39
-[/us/pl/100/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236%2Fs2
+[/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
 [/us/stat/101/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1732
 [/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/100/4/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs505%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
 [/us/pl/100/236/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236%2Fs3

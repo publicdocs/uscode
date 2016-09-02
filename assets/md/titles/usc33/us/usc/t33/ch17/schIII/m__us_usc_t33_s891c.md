@@ -31,7 +31,7 @@
 
         (2) submit to Congress as part of the annual update of the Plan required in [section 891b of this title][/us/usc/t33/s891b], any subsequent existing vessel design or design proposals that meet the requirements of the Plan.
 
-([Pub. L. 102–567, title VI, § 605][/us/pl/102/567/s605], Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 605, Oct. 29, 1992, [106 Stat. 4300][/us/stat/106/4300].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t33/s891b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs891b
-[/us/pl/102/567/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs605
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4300
 
 

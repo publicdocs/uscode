@@ -17,7 +17,7 @@
 
     If any report required to be transmitted under this Act to the Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate pertains in whole or in part to fish and wildlife mitigation, benthic environmental repercussions, or ecosystem mitigation, the Federal officer required to prepare or transmit that report also shall transmit a copy of the report to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-([Pub. L. 99–662, title IX, § 951][/us/pl/99/662/s951], Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201].)
+([Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 951, Nov. 17, 1986, [100 Stat. 4201][/us/stat/100/4201].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs951
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4201
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082

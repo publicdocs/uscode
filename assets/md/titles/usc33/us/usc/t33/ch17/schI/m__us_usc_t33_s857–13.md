@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%9313)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–6...857–12.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%9313)
 
 ## § 857–13. National Advisory Committee on Oceans and Atmosphere
 
     There is hereby established a committee of 18 members to be known as the National Advisory Committee on Oceans and Atmosphere (hereinafter in sections 857–13 to 857–18 of this title referred to as the “Committee”).
 
-([Pub. L. 95–63, § 2][/us/pl/95/63/s2], July 5, 1977, [91 Stat. 265][/us/stat/91/265].)
+([Pub. L. 95–63][/us/pl/95/63], § 2, July 5, 1977, [91 Stat. 265][/us/stat/91/265].)
 
  __Prior Provisions__ 
 
@@ -29,7 +29,7 @@
 
  __Transfer of Personnel, Positions, Records, and Funds__ 
 
-[Pub. L. 95–63, § 7(b)][/us/pl/95/63/s7/b], July 5, 1977, [91 Stat. 267][/us/stat/91/267], provided that: 
+[Pub. L. 95–63][/us/pl/95/63], § 7(b), July 5, 1977, [91 Stat. 267][/us/stat/91/267], provided that: 
 
 > “All personnel, positions, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions specified by the Act of August 16, 1971 \[former sections 857–6 to 857–12 of this title\] (establishing an advisory committee on oceans and atmosphere), are hereby transferred to the National Advisory Committee on Oceans and Atmosphere established by this Act \[sections 857–13 to 857–18 of this title\]. The personnel transferred under this subsection shall be so transferred without reduction in classification or compensation except, that after such transfer, such personnel shall be subject to reductions in classification or compensation in the same manner, to the same extent, and according to the same procedure as other employees of the United States classified and compensated according to the General Schedule in title 5, United States Code.”
 
@@ -39,19 +39,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s855a.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%9313)
+[Previous](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–6...857–12.md) | [Next](./../../../../..//us/usc/t33/ch17/schI/m__us_usc_t33_s857–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%9313)
 
 ----------
 ----------
 
-[/us/pl/95/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs2
+[/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/stat/91/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F265
 [/us/usc/t33/s857–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%936
 [/us/pl/95/63/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs7%2Fa
 [/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/pl/95/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs1
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851
-[/us/pl/95/63/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs7%2Fb
+[/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/stat/91/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F267
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

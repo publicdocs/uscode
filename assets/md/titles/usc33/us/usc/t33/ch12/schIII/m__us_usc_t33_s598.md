@@ -27,11 +27,11 @@
 
         The Secretary is further authorized and directed by proper deed, executed in the name of the United States, to convey any lands or interests in land acquired in any State under the provisions of this section, to the State, or such public or private nonprofit body, agency, or institution in the State as the Governor may prescribe, upon such terms and conditions as may be agreed upon by the Secretary, the Governor, and the agency to which the conveyance is to be made.
 
-([Pub. L. 90–483, title II, § 209][/us/pl/90/483/s209], Aug. 13, 1968, [82 Stat. 745][/us/stat/82/745].)
+([Pub. L. 90–483, title II][/us/pl/90/483/tII], § 209, Aug. 13, 1968, [82 Stat. 745][/us/stat/82/745].)
 
  __Codification__ 
 
-    “Sections 3114–3116 and 3118 of title 40” substituted in subsec. (a) for “the Act of February 26, 1931 ([46 Stat. 1421][/us/stat/46/1421])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3114–3116 and 3118 of title 40” substituted in subsec. (a) for “the Act of February 26, 1931 ([46 Stat. 1421][/us/stat/46/1421])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/90/483/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2Fs209
+[/us/pl/90/483/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtII
 [/us/stat/82/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F745
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

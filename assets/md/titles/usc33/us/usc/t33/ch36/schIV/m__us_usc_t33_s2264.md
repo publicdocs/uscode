@@ -31,7 +31,7 @@
 
     (b) Each study included in a list under subsection (a) of this section is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
 
-([Pub. L. 99–662, title VII, § 710][/us/pl/99/662/s710], Nov. 17, 1986, [100 Stat. 4160][/us/stat/100/4160]; [Pub. L. 106–109, § 8(b)][/us/pl/106/109/s8/b], Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495].)
+([Pub. L. 99–662, title VII][/us/pl/99/662/tVII], § 710, Nov. 17, 1986, [100 Stat. 4160][/us/stat/100/4160]; [Pub. L. 106–109][/us/pl/106/109], § 8(b), Nov. 24, 1999, [113 Stat. 1495][/us/stat/113/1495].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/99/662/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs710
+[/us/pl/99/662/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtVII
 [/us/stat/100/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4160
-[/us/pl/106/109/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109%2Fs8%2Fb
+[/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/stat/113/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1495
 [/us/pl/106/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F109
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

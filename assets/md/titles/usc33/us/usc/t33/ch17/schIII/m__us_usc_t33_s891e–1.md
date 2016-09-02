@@ -17,7 +17,7 @@
 
     On and after December 26, 2007, none of the funds made available in this Act or any other Act may be used for the construction, repair (other than emergency repair), overhaul, conversion, or modernization of vessels for the National Oceanic and Atmospheric Administration in shipyards located outside of the United States.
 
-([Pub. L. 110–161, div. B, title V, § 506][/us/pl/110/161/s506], Dec. 26, 2007, [121 Stat. 1925][/us/stat/121/1925].)
+([Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 506, Dec. 26, 2007, [121 Stat. 1925][/us/stat/121/1925].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs506
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1925
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1884

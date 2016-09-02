@@ -17,7 +17,7 @@
 
     If any provision of sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, and 702k–1 of this title, or the application thereof, to any person or circumstances, is held invalid, the remainder of the said sections, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
 
-([June 15, 1936, ch. 548, § 14][/us/act/1936-06-15/ch548/s14], [49 Stat. 1513][/us/stat/49/1513].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 14, [49 Stat. 1513][/us/stat/49/1513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch548/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs14
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1513
 
 

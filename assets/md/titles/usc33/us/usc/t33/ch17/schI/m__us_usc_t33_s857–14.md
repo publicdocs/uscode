@@ -41,7 +41,7 @@
 
         (2) advise the Secretary of Commerce with respect to the carrying out of the programs administered by the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 95–63, § 3][/us/pl/95/63/s3], July 5, 1977, [91 Stat. 265][/us/stat/91/265]; [Pub. L. 95–304, § 1(1)][/us/pl/95/304/s1/1], June 29, 1978, [92 Stat. 347][/us/stat/92/347]; [Pub. L. 97–87, § 1(1)][/us/pl/97/87/s1/1], Dec. 1, 1981, [95 Stat. 1134][/us/stat/95/1134].)
+([Pub. L. 95–63][/us/pl/95/63], § 3, July 5, 1977, [91 Stat. 265][/us/stat/91/265]; [Pub. L. 95–304][/us/pl/95/304], § 1(1), June 29, 1978, [92 Stat. 347][/us/stat/92/347]; [Pub. L. 97–87][/us/pl/97/87], § 1(1), Dec. 1, 1981, [95 Stat. 1134][/us/stat/95/1134].)
 
  __Prior Provisions__ 
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/95/63/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs3
+[/us/pl/95/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63
 [/us/stat/91/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F265
-[/us/pl/95/304/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F304%2Fs1%2F1
+[/us/pl/95/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F304
 [/us/stat/92/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F347
-[/us/pl/97/87/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F87%2Fs1%2F1
+[/us/pl/97/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F87
 [/us/stat/95/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1134
 [/us/usc/t33/s857–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%937
 [/us/pl/95/63/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F63%2Fs7%2Fa

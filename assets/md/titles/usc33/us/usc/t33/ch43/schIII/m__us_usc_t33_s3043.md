@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a) of this section, the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
 
-([Pub. L. 107–372, title II, § 243][/us/pl/107/372/s243], Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 243, Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs243
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3089
 [/us/usc/t33/s853k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853k
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

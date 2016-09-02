@@ -53,31 +53,31 @@
 
         (3) Nothing in this section shall be construed to prohibit a grantee under this subchapter from requiring more assurances, guarantees, or indemnity or other contractual requirements from any party to a contract pertaining to a project assisted under this subchapter, than those provided under this subsection.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 204, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 835][/us/stat/86/835]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 20–24, Dec. 27, 1977, [91 Stat. 1572][/us/stat/91/1572], 1573; [Pub. L. 96–483, § 2(a)][/us/pl/96/483/s2/a], (b), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360], 2361; [Pub. L. 97–117][/us/pl/97/117], §§ 10(a), (b), 11, 12, Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626], 1627; [Pub. L. 100–4, title II, § 205(a)][/us/pl/100/4/s205/a]–(c), Feb. 4, 1987, [101 Stat. 18][/us/stat/101/18].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 204, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 835][/us/stat/86/835]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 20–24, Dec. 27, 1977, [91 Stat. 1572][/us/stat/91/1572], 1573; [Pub. L. 96–483][/us/pl/96/483], § 2(a), (b), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360], 2361; [Pub. L. 97–117][/us/pl/97/117], §§ 10(a), (b), 11, 12, Dec. 29, 1981, [95 Stat. 1626][/us/stat/95/1626], 1627; [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 205(a)–(c), Feb. 4, 1987, [101 Stat. 18][/us/stat/101/18].)
 
  __Amendments__ 
 
-    1987—Subsec. (a)(1). [Pub. L. 100–4, § 205(a)][/us/pl/100/4/s205/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “that such works are included in any applicable areawide waste treatment management plan developed under [section 1288 of this title][/us/usc/t33/s1288];”.
+    1987—Subsec. (a)(1). [Pub. L. 100–4][/us/pl/100/4], § 205(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “that such works are included in any applicable areawide waste treatment management plan developed under [section 1288 of this title][/us/usc/t33/s1288];”.
 
-    Subsec. (a)(2). [Pub. L. 100–4, § 205(b)][/us/pl/100/4/s205/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that such works are in conformity with any applicable State plan under [section 1313(e) of this title][/us/usc/t33/s1313/e];”.
+    Subsec. (a)(2). [Pub. L. 100–4][/us/pl/100/4], § 205(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that such works are in conformity with any applicable State plan under [section 1313(e) of this title][/us/usc/t33/s1313/e];”.
 
-    Subsec. (b)(1). [Pub. L. 100–4, § 205(c)][/us/pl/100/4/s205/c], inserted at end “A system of user charges which imposes a lower charge for low-income residential users (as defined by the Administrator) shall be deemed to be a user charge system meeting the requirements of clause (A) of this paragraph if the Administrator determines that such system was adopted after public notice and hearing.”
+    Subsec. (b)(1). [Pub. L. 100–4][/us/pl/100/4], § 205(c), inserted at end “A system of user charges which imposes a lower charge for low-income residential users (as defined by the Administrator) shall be deemed to be a user charge system meeting the requirements of clause (A) of this paragraph if the Administrator determines that such system was adopted after public notice and hearing.”
 
-    1981—Subsec. (a)(5). [Pub. L. 97–117, § 10(a)][/us/pl/97/117/s10/a], inserted provision that beginning Oct. 1, 1984, no grant be made under this subchapter to construct that portion of any treatment works providing reserve capacity in excess of existing needs on the date of approval of a grant for the erection, building, etc., of a project for secondary treatment or more stringent treatment or new interceptors and appurtenances, except that in no event shall reserve capacity of a facility and its related interceptors to which this subsection applies be in excess of existing needs on Oct. 1, 1990, and that in any case in which an applicant proposes to provide reserve capacity greater than that eligible for Federal financial assistance under this subchapter, the incremental costs of the additional reserve capacity be paid by the applicant.
+    1981—Subsec. (a)(5). [Pub. L. 97–117][/us/pl/97/117], § 10(a), inserted provision that beginning Oct. 1, 1984, no grant be made under this subchapter to construct that portion of any treatment works providing reserve capacity in excess of existing needs on the date of approval of a grant for the erection, building, etc., of a project for secondary treatment or more stringent treatment or new interceptors and appurtenances, except that in no event shall reserve capacity of a facility and its related interceptors to which this subsection applies be in excess of existing needs on Oct. 1, 1990, and that in any case in which an applicant proposes to provide reserve capacity greater than that eligible for Federal financial assistance under this subchapter, the incremental costs of the additional reserve capacity be paid by the applicant.
 
-    Subsec. (a)(6). [Pub. L. 97–117, § 11][/us/pl/97/117/s11], struck out “, or at least two brand names or trade names of comparable quality or utility are listed and are followed by the words ‘or equal’ ” after “parts and equipment” and inserted provision that when in the judgment of the grantee, it is impractical or uneconomical to make a clear and accurate description of the technical requirements, a “brand name or equal” description be used as a means to define performance or other salient requirements of a procurement, and in doing so the grantee need not establish the existence of any source other than the brand or source so named.
+    Subsec. (a)(6). [Pub. L. 97–117][/us/pl/97/117], § 11, struck out “, or at least two brand names or trade names of comparable quality or utility are listed and are followed by the words ‘or equal’ ” after “parts and equipment” and inserted provision that when in the judgment of the grantee, it is impractical or uneconomical to make a clear and accurate description of the technical requirements, a “brand name or equal” description be used as a means to define performance or other salient requirements of a procurement, and in doing so the grantee need not establish the existence of any source other than the brand or source so named.
 
-    Subsec. (c). [Pub. L. 97–117, § 10(b)][/us/pl/97/117/s10/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–117][/us/pl/97/117], § 10(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 97–117, § 12][/us/pl/97/117/s12], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–117][/us/pl/97/117], § 12, added subsec. (d).
 
-    1980—Subsec. (b)(1). [Pub. L. 96–483, § 2(a)][/us/pl/96/483/s2/a], redesignated cl. (C) as (B). Former cl. (B) relating to payment, as a condition of approval of a grant, to an applicant by industrial users of that portion of cost of construction allocable to the treatment of such industrial waste to the extent attributable to the Federal share of the cost of construction, was struck out.
+    1980—Subsec. (b)(1). [Pub. L. 96–483][/us/pl/96/483], § 2(a), redesignated cl. (C) as (B). Former cl. (B) relating to payment, as a condition of approval of a grant, to an applicant by industrial users of that portion of cost of construction allocable to the treatment of such industrial waste to the extent attributable to the Federal share of the cost of construction, was struck out.
 
-    Subsec. (b)(3) to (6). [Pub. L. 96–483, § 2(b)][/us/pl/96/483/s2/b], redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) relating to a formula determining the amount the grantee shall retain of the revenues derived from the payment of costs by industrial users of waste treatment services, to the extent costs are attributable to the Federal share of eligible project costs, and former par. (6) relating to the exemption from the requirements of par. (1)(B) of industrial users with a flow of twenty-five thousand gallons or less per day, were struck out.
+    Subsec. (b)(3) to (6). [Pub. L. 96–483][/us/pl/96/483], § 2(b), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) relating to a formula determining the amount the grantee shall retain of the revenues derived from the payment of costs by industrial users of waste treatment services, to the extent costs are attributable to the Federal share of eligible project costs, and former par. (6) relating to the exemption from the requirements of par. (1)(B) of industrial users with a flow of twenty-five thousand gallons or less per day, were struck out.
 
-    1977—Subsec. (a)(3). [Pub. L. 95–217, § 20][/us/pl/95/217/s20], provided that any priority list developed pursuant to [section 1313(e)(3)(H) of this title][/us/usc/t33/s1313/e/3/H] may be modified by such State in accordance with regulations promulgated by the Administrator to give higher priority for grants for the Federal share of the cost of preparing construction drawings and specifications for any treatment works utilizing processes and techniques meeting the guidelines promulgated under [section 1314(d)(3) of this title][/us/usc/t33/s1314/d/3] and for grants for the combined Federal share of the cost of preparing construction drawings and specifications and the building and erection of any treatment works meeting the requirements of the next to the last sentence of [section 1283(a) of this title][/us/usc/t33/s1283/a] which utilizes processes and techniques meeting the guidelines promulgated under [section 1314(d)(3) of this title][/us/usc/t33/s1314/d/3].
+    1977—Subsec. (a)(3). [Pub. L. 95–217][/us/pl/95/217], § 20, provided that any priority list developed pursuant to [section 1313(e)(3)(H) of this title][/us/usc/t33/s1313/e/3/H] may be modified by such State in accordance with regulations promulgated by the Administrator to give higher priority for grants for the Federal share of the cost of preparing construction drawings and specifications for any treatment works utilizing processes and techniques meeting the guidelines promulgated under [section 1314(d)(3) of this title][/us/usc/t33/s1314/d/3] and for grants for the combined Federal share of the cost of preparing construction drawings and specifications and the building and erection of any treatment works meeting the requirements of the next to the last sentence of [section 1283(a) of this title][/us/usc/t33/s1283/a] which utilizes processes and techniques meeting the guidelines promulgated under [section 1314(d)(3) of this title][/us/usc/t33/s1314/d/3].
 
-    Subsec. (a)(5). [Pub. L. 95–217, § 21][/us/pl/95/217/s21], provided that efforts to reduce total flow of sewage and unnecessary water consumption be taken into account, in accordance with regulations promulgated by the Administrator, that the amount of reserve capacity eligible for a grant under this subchapter be determined by the Administrator taking into account the projected population and associated commercial and industrial establishments within the jurisdiction of the applicant to be served by such treatment works as identified in an approved facilities plan, an areawide plan under [section 1288 of this title][/us/usc/t33/s1288], or an applicable municipal master plan of development, and that, for the purpose of this paragraph, [section 1288 of this title][/us/usc/t33/s1288], and any such plan, projected population be determined on the basis of the latest information available from the United States Department of Commerce or from the States as the Administrator, by regulation, determines appropriate.
+    Subsec. (a)(5). [Pub. L. 95–217][/us/pl/95/217], § 21, provided that efforts to reduce total flow of sewage and unnecessary water consumption be taken into account, in accordance with regulations promulgated by the Administrator, that the amount of reserve capacity eligible for a grant under this subchapter be determined by the Administrator taking into account the projected population and associated commercial and industrial establishments within the jurisdiction of the applicant to be served by such treatment works as identified in an approved facilities plan, an areawide plan under [section 1288 of this title][/us/usc/t33/s1288], or an applicable municipal master plan of development, and that, for the purpose of this paragraph, [section 1288 of this title][/us/usc/t33/s1288], and any such plan, projected population be determined on the basis of the latest information available from the United States Department of Commerce or from the States as the Administrator, by regulation, determines appropriate.
 
     Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], §§ 22(a)(1), (2), 24(c), inserted “(except as otherwise provided in this paragraph)” after “proportionate share” in cl. (A) and “(which such portion, in the discretion of the applicant, may be recovered from industrial users of the total waste treatment system as distinguished from the treatment works for which the grant is made)” in cl. (B) and, at end of existing provisions, inserted sentences under which a dedicated ad valorem tax system is to be deemed the user charge system meeting the requirements of cl. (A) for the residential user class and such small non-residential user classes as defined by the Administrator in cases where an applicant, as of Dec. 27, 1977, uses a system of dedicated ad valorem taxes and the Administrator determines that the applicant has a system of charges which results in the distribution of operation and maintenance costs for treatment works within the applicant’s jurisdiction, to each user class, in proportion to the contribution to the total cost of operation and maintenance of such works by each user class (taking into account total waste water loading of such works, the constituent elements of the wastes, and other appropriate factors), and such applicant is otherwise in compliance with cl. (A) of this paragraph with respect to each industrial user.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–4, title II, § 205(d)][/us/pl/100/4/s205/d], Feb. 4, 1987, [101 Stat. 18][/us/stat/101/18], provided that: 
+[Pub. L. 100–4, title II][/us/pl/100/4/tII], § 205(d), Feb. 4, 1987, [101 Stat. 18][/us/stat/101/18], provided that: 
 
 > “This section \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 4, 1987\], except that the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the last day of the two-year period beginning on such date of enactment.”
 
@@ -97,7 +97,7 @@
 
  __Elimination of Inapplicable Conditions or Requirements From Certain Grants__ 
 
-[Pub. L. 96–483, § 2(c)][/us/pl/96/483/s2/c], Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], provided that: 
+[Pub. L. 96–483][/us/pl/96/483], § 2(c), Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], provided that: 
 
 > “The Administrator of the Environmental Protection Agency shall take such action as may be necessary to remove from any grant made under section 201(g)(1) of the Federal Water Pollution Control Act \[[section 1281(g)(1) of this title][/us/usc/t33/s1281/g/1]\] after March 1, 1973, and prior to the date of enactment of this Act \[Oct. 21, 1980\], any condition or requirement no longer applicable as a result of the repeals made by subsections (a) and (b) of this section \[amending subsec. (b) of this section\] or release any grant recipient of the obligations established by such conditions or other requirement.”
 
@@ -105,7 +105,7 @@
 
  __Cost Recovery; Suspension of Grant Requirements That Industrial Users Make Payments__ 
 
-    [Pub. L. 95–217, § 75][/us/pl/95/217/s75], Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], as amended by [Pub. L. 96–148, § 1][/us/pl/96/148/s1], Dec. 16, 1979, [93 Stat. 1088][/us/stat/93/1088]; [Pub. L. 96–483, § 2(f)][/us/pl/96/483/s2/f], Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], directed Administrator of Environmental Protection Agency to study and report to Congress not later than last day of twelfth month which begins after Dec. 27, 1977, cost recovery procedures from industrial users of treatment works to the extent construction costs are attributable to the Federal share of the cost of construction.
+    [Pub. L. 95–217][/us/pl/95/217], § 75, Dec. 27, 1977, [91 Stat. 1609][/us/stat/91/1609], as amended by [Pub. L. 96–148][/us/pl/96/148], § 1, Dec. 16, 1979, [93 Stat. 1088][/us/stat/93/1088]; [Pub. L. 96–483][/us/pl/96/483], § 2(f), Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], directed Administrator of Environmental Protection Agency to study and report to Congress not later than last day of twelfth month which begins after Dec. 27, 1977, cost recovery procedures from industrial users of treatment works to the extent construction costs are attributable to the Federal share of the cost of construction.
 
 ----------
 
@@ -128,54 +128,54 @@
 [/us/usc/t33/s1281/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281%2Fg%2F1
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F835
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1572
-[/us/pl/96/483/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fa
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2360
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1626
-[/us/pl/100/4/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs205%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F18
-[/us/pl/100/4/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs205%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
-[/us/pl/100/4/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs205%2Fb
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/usc/t33/s1313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313%2Fe
-[/us/pl/100/4/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs205%2Fc
-[/us/pl/97/117/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs10%2Fa
-[/us/pl/97/117/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs11
-[/us/pl/97/117/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs10%2Fb
-[/us/pl/97/117/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs12
-[/us/pl/96/483/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fa
-[/us/pl/96/483/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fb
-[/us/pl/95/217/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs20
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1313/e/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313%2Fe%2F3%2FH
 [/us/usc/t33/s1314/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fd%2F3
 [/us/usc/t33/s1283/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1283%2Fa
 [/us/usc/t33/s1314/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fd%2F3
-[/us/pl/95/217/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs21
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
-[/us/pl/100/4/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs205%2Fd
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F18
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/pl/96/483/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fg
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
-[/us/pl/96/483/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fc
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 [/us/usc/t33/s1281/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281%2Fg%2F1
 [/us/pl/96/483/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fc
 [/us/pl/96/483/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fg
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
-[/us/pl/95/217/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs75
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1609
-[/us/pl/96/148/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F148%2Fs1
+[/us/pl/96/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F148
 [/us/stat/93/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1088
-[/us/pl/96/483/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Ff
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 
 

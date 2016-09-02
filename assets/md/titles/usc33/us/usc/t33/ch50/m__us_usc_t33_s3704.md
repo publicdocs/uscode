@@ -99,7 +99,7 @@
 
         In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
-([Pub. L. 111–11, title XII, § 12405][/us/pl/111/11/s12405], Mar. 30, 2009, [123 Stat. 1438][/us/stat/123/1438].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12405, Mar. 30, 2009, [123 Stat. 1438][/us/stat/123/1438].)
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12405
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1438
 
 

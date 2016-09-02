@@ -105,7 +105,7 @@
 
         After the effective date of standards of performance promulgated under this section, it shall be unlawful for any owner or operator of any new source to operate such source in violation of any standard of performance applicable to such source.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 306, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 854][/us/stat/86/854].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 306, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 854][/us/stat/86/854].)
 
  __Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption; Conditions__ 
 
@@ -119,7 +119,7 @@
 ----------
 
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F854
 [/us/pl/98/67/s214/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs214%2Fg
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311

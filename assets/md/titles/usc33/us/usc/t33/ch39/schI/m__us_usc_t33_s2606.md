@@ -31,7 +31,7 @@
 
         A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
-([Pub. L. 100–688, title IV, § 4106][/us/pl/100/688/s4106], Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
+([Pub. L. 100–688, title IV][/us/pl/100/688/tIV], § 4106, Nov. 18, 1988, [102 Stat. 4157][/us/stat/102/4157].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs4106
+[/us/pl/100/688/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIV
 [/us/stat/102/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4157
 
 

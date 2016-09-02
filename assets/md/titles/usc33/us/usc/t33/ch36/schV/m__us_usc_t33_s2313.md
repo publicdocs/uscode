@@ -45,7 +45,7 @@
 
         The Secretary may accept and expend additional funds from other Federal programs, including other Department of Defense programs, to carry out this section.
 
-([Pub. L. 100–676, § 7][/us/pl/100/676/s7], Nov. 17, 1988, [102 Stat. 4022][/us/stat/102/4022]; [Pub. L. 104–303, title II, § 214][/us/pl/104/303/s214], Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
+([Pub. L. 100–676][/us/pl/100/676], § 7, Nov. 17, 1988, [102 Stat. 4022][/us/stat/102/4022]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 214, Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
 
  __References in Text__ 
 
@@ -57,21 +57,21 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–303, § 214(a)(1)][/us/pl/104/303/s214/a/1], inserted “civil works” before “mission”.
+    1996—Subsec. (a). [Pub. L. 104–303][/us/pl/104/303], § 214(a)(1), inserted “civil works” before “mission”.
 
-    Subsecs. (b), (c). [Pub. L. 104–303, § 214(b)(1)][/us/pl/104/303/s214/b/1], (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 104–303][/us/pl/104/303], § 214(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 104–303, § 214(b)(1)][/us/pl/104/303/s214/b/1], (3), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 104–303][/us/pl/104/303], § 214(b)(1), (3), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 104–303, § 214(b)(1)][/us/pl/104/303/s214/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 104–303][/us/pl/104/303], § 214(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    [Pub. L. 104–303, § 214(a)(2)][/us/pl/104/303/s214/a/2], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Notwithstanding the third proviso under the heading ‘General Investigations’ of title I of the Energy and Water Development Appropriations Act, 1989 ([102 Stat. 857][/us/stat/102/857]), an additional $3,000,000 of the funds appropriated under such heading shall be available to the Secretary for obligation to carry out the purposes of this section in fiscal year 1989.”
+    [Pub. L. 104–303][/us/pl/104/303], § 214(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Notwithstanding the third proviso under the heading ‘General Investigations’ of title I of the Energy and Water Development Appropriations Act, 1989 ([102 Stat. 857][/us/stat/102/857]), an additional $3,000,000 of the funds appropriated under such heading shall be available to the Secretary for obligation to carry out the purposes of this section in fiscal year 1989.”
 
-    Subsec. (f). [Pub. L. 104–303, § 214(b)(1)][/us/pl/104/303/s214/b/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 104–303][/us/pl/104/303], § 214(b)(1), redesignated subsec. (e) as (f).
 
  __Magnetic Levitation Technology__ 
 
-[Pub. L. 101–640, title IV, § 417][/us/pl/101/640/s417], Nov. 28, 1990, [104 Stat. 4652][/us/stat/104/4652], provided that:
+[Pub. L. 101–640, title IV][/us/pl/101/640/tIV], § 417, Nov. 28, 1990, [104 Stat. 4652][/us/stat/104/4652], provided that:
 
 >     “(a)  __Research and Development__  __.—__ 
 
@@ -108,21 +108,21 @@
 [/us/usc/t15/s3710a/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fc%2F7%2FB
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3701–371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701%E2%80%93371
-[/us/pl/100/676/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs7
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4022
-[/us/pl/104/303/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3684
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/104/303/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fa%2F1
-[/us/pl/104/303/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fb%2F1
-[/us/pl/104/303/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fb%2F1
-[/us/pl/104/303/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fb%2F1
-[/us/pl/104/303/s214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fa%2F2
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/stat/102/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F857
-[/us/pl/104/303/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs214%2Fb%2F1
-[/us/pl/101/640/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs417
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/101/640/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIV
 [/us/stat/104/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4652
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3701–371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701%E2%80%93371

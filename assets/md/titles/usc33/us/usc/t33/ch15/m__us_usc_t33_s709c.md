@@ -47,7 +47,7 @@
 
         The Secretary shall use the procedures established under subsection (b) only when precipitation or runoff exceeds those calculations considered as the lowest risk to life and property contemplated by the annual operating plan.
 
-([Pub. L. 113–121, title III, § 3027][/us/pl/113/121/s3027], June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3027, June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
 
  __“Secretary” Defined__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3027
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1305
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

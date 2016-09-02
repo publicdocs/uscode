@@ -39,7 +39,7 @@
 
         The Secretary, in cooperation with the International Maritime Organization, is authorized to implement and enforce two mandatory ship reporting systems, consistent with international law, with respect to vessels subject to such reporting systems entering the following areas of the Atlantic Ocean: Cape Cod Bay, Massachusetts Bay, and Great South Channel (in the area generally bounded by a line starting from a point on Cape Ann, Massachusetts at 42 deg. 39’ N., 70 deg. 37’ W; then northeast to 42 deg. 45’ N., 70 deg. 13’ W; then southeast to 42 deg. 10’ N., 68 deg. 31 W, then south to 41 deg. 00’ N., 68 deg. 31’ W; then west to 41 deg. 00’ N., 69 deg. 17’ W; then northeast to 42 deg. 05’ N., 70 deg. 02’ W, then west to 42 deg. 04’ N., 70 deg. 10’ W; and then along the Massachusetts shoreline of Cape Cod Bay and Massachusetts Bay back to the point on Cape Ann at 42 deg. 39’ N., 70 deg. 37’ W) and in the coastal waters of the Southeastern United States within about 25 nm along a 90 nm stretch of the Atlantic seaboard (in an area generally extending from the shoreline east to longitude 80 deg. 51.6’ W with the southern and northern boundary at latitudes 30 deg. 00’ N., 31 deg. 27’ N., respectively).
 
-([Pub. L. 92–340, § 11][/us/pl/92/340/s11], as added [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1477][/us/stat/92/1477]; amended [Pub. L. 105–383, title III, § 313][/us/pl/105/383/s313], Nov. 13, 1998, [112 Stat. 3424][/us/stat/112/3424].)
+([Pub. L. 92–340][/us/pl/92/340], § 11, as added [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1477][/us/stat/92/1477]; amended [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 313, Nov. 13, 1998, [112 Stat. 3424][/us/stat/112/3424].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/92/340/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs11
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1477
-[/us/pl/105/383/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs313
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3424
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 

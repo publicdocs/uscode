@@ -25,7 +25,7 @@
 
         The term “public vessel” means a vessel of any type whatsoever (including hydrofoils, air-cushion vehicles, submersibles, floating craft whether propelled or not, and fixed or floating platforms) that is owned, or demise chartered, and operated by the United States Government, and is not engaged in commercial service.
 
-([Pub. L. 100–688, title III, § 3103][/us/pl/100/688/s3103], Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
+([Pub. L. 100–688, title III][/us/pl/100/688/tIII], § 3103, Nov. 18, 1988, [102 Stat. 4152][/us/stat/102/4152].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/688/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs3103
+[/us/pl/100/688/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtIII
 [/us/stat/102/4152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4152
 
 

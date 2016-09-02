@@ -91,19 +91,19 @@
 
             Each grantee under this section shall provide periodic reports as required by the Administrator. Each report shall include all information required by the Administrator for evaluating the progress and success in meeting its stated goals, and impact of the grant activities on the marine debris problem.
 
-([Pub. L. 109–449, § 3][/us/pl/109/449/s3], Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333]; [Pub. L. 112–213, title VI, § 604(a)][/us/pl/112/213/s604/a]–(c), Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], 1577.)
+([Pub. L. 109–449][/us/pl/109/449], § 3, Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333]; [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 604(a)–(c), Dec. 20, 2012, [126 Stat. 1576][/us/stat/126/1576], 1577.)
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, § 604(a)(1)][/us/pl/112/213/s604/a/1], struck out “Prevention and Removal” before “Program” in section catchline.
+    2012—[Pub. L. 112–213][/us/pl/112/213], § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–213, § 604(a)(2)][/us/pl/112/213/s604/a/2], substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
+    Subsec. (a). [Pub. L. 112–213][/us/pl/112/213], § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
 
-    Subsec. (b). [Pub. L. 112–213, § 604(b)][/us/pl/112/213/s604/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
+    Subsec. (b). [Pub. L. 112–213][/us/pl/112/213], § 604(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
 
-    Subsec. (c)(1). [Pub. L. 112–213, § 604(c)(1)][/us/pl/112/213/s604/c/1], substituted “section 1951” for “section 1951(1)”.
+    Subsec. (c)(1). [Pub. L. 112–213][/us/pl/112/213], § 604(c)(1), substituted “section 1951” for “section 1951(1)”.
 
-    Subsec. (c)(5) to (7). [Pub. L. 112–213, § 604(c)(2)][/us/pl/112/213/s604/c/2], (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
+    Subsec. (c)(5) to (7). [Pub. L. 112–213][/us/pl/112/213], § 604(c)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
 
 ----------
 
@@ -113,14 +113,14 @@
 ----------
 
 [/us/usc/t33/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1951
-[/us/pl/109/449/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs3
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3333
-[/us/pl/112/213/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fa
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1576
-[/us/pl/112/213/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fa%2F1
-[/us/pl/112/213/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fa%2F2
-[/us/pl/112/213/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fb
-[/us/pl/112/213/s604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fc%2F1
-[/us/pl/112/213/s604/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs604%2Fc%2F2
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 
 

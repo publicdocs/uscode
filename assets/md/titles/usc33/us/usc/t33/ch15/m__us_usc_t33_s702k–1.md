@@ -17,7 +17,7 @@
 
     $272,000,000 is authorized to be appropriated for the carrying out of the modified adopted project, and all unexpended balances of appropriations heretofore made for the prosecution of said flood-control project are made available for the purposes of sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title.
 
-([June 15, 1936, ch. 548, § 13][/us/act/1936-06-15/ch548/s13], [49 Stat. 1513][/us/stat/49/1513].)
+([June 15, 1936, ch. 548][/us/act/1936-06-15/ch548], § 13, [49 Stat. 1513][/us/stat/49/1513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch548/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548%2Fs13
+[/us/act/1936-06-15/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch548
 [/us/stat/49/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1513
 
 

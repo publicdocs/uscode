@@ -17,7 +17,7 @@
 
     Before the Secretary may make changes in the operation of any reservoir which will result in or require a reallocation of storage space in such reservoir or will significantly affect any project purpose, the Secretary shall provide an opportunity for public review and comment.
 
-([Pub. L. 100–676, § 5][/us/pl/100/676/s5], Nov. 17, 1988, [102 Stat. 4022][/us/stat/102/4022].)
+([Pub. L. 100–676][/us/pl/100/676], § 5, Nov. 17, 1988, [102 Stat. 4022][/us/stat/102/4022].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/676/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs5
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4022
 [/us/pl/100/676/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

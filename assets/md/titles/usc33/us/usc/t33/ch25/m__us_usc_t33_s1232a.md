@@ -33,11 +33,11 @@
 
         For purposes of this section, the term “pipelines” has the meaning given the term “pipeline facilities” in [section 60101(a)(18) of title 49][/us/usc/t49/s60101/a/18].
 
-([Pub. L. 92–340, § 14][/us/pl/92/340/s14], as added [Pub. L. 101–599, § 2][/us/pl/101/599/s2], Nov. 16, 1990, [104 Stat. 3040][/us/stat/104/3040].)
+([Pub. L. 92–340][/us/pl/92/340], § 14, as added [Pub. L. 101–599][/us/pl/101/599], § 2, Nov. 16, 1990, [104 Stat. 3040][/us/stat/104/3040].)
 
  __Codification__ 
 
-    In subsec. (d), “[section 60101(a)(18) of title 49][/us/usc/t49/s60101/a/18]” substituted for “the Natural Gas Pipeline Safety Act of 1968 \[49 App. U.S.C. 1671 et seq.\] and the Hazardous Liquid Pipeline Safety Act of 1979 \[49 App. U.S.C. 2001 et seq.\]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (d), “[section 60101(a)(18) of title 49][/us/usc/t49/s60101/a/18]” substituted for “the Natural Gas Pipeline Safety Act of 1968 \[49 App. U.S.C. 1671 et seq.\] and the Hazardous Liquid Pipeline Safety Act of 1979 \[49 App. U.S.C. 2001 et seq.\]” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Transfer of Functions__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t49/s60101/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101%2Fa%2F18
-[/us/pl/92/340/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs14
-[/us/pl/101/599/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F599%2Fs2
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/101/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F599
 [/us/stat/104/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3040
 [/us/usc/t49/s60101/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101%2Fa%2F18
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

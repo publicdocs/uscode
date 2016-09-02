@@ -73,7 +73,7 @@
 
         Using data and information developed through project monitoring and management, and other relevant information, the Council may periodically review and update, as necessary, the estuary habitat restoration strategy.
 
-([Pub. L. 106–457, title I, § 106][/us/pl/106/457/s106], Nov. 7, 2000, [114 Stat. 1963][/us/stat/114/1963].)
+([Pub. L. 106–457, title I][/us/pl/106/457/tI], § 106, Nov. 7, 2000, [114 Stat. 1963][/us/stat/114/1963].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/106/457/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs106
+[/us/pl/106/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtI
 [/us/stat/114/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1963
 
 

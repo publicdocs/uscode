@@ -17,7 +17,7 @@
 
     An officer who has completed 20 years of service, of which at least 10 years was service as a commissioned officer, may at any time thereafter, upon application by such officer and in the discretion of the President, be placed on the retired list.
 
-([Pub. L. 107–372, title II, § 244][/us/pl/107/372/s244], Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 244, Dec. 19, 2002, [116 Stat. 3089][/us/stat/116/3089].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs244
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3089
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

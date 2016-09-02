@@ -41,7 +41,7 @@
 
         (4) a listing of all projects to be undertaken in the upcoming fiscal year with the Federal portion of funds for activities.
 
-([Pub. L. 113–76, div. E, title VII, § 738][/us/pl/113/76/s738], Jan. 17, 2014, [128 Stat. 238][/us/stat/128/238].)
+([Pub. L. 113–76, div. E, title VII][/us/pl/113/76/dE/tVII], § 738, Jan. 17, 2014, [128 Stat. 238][/us/stat/128/238].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t42/s1962d–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9322
-[/us/pl/113/76/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs738
+[/us/pl/113/76/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtVII
 [/us/stat/128/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F238
 
 

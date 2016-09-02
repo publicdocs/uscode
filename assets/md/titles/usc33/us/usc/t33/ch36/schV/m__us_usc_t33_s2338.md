@@ -43,7 +43,7 @@
 
             In carrying out paragraph (1), the Secretary shall retain any necessary right-of-way, easement, or other property interest that the Secretary determines to be necessary to carry out the authorized purposes of the project.
 
-([Pub. L. 106–541, title II, § 208][/us/pl/106/541/s208], Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590].)
+([Pub. L. 106–541, title II][/us/pl/106/541/tII], § 208, Dec. 11, 2000, [114 Stat. 2590][/us/stat/114/2590].)
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/106/541/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs208
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2590
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

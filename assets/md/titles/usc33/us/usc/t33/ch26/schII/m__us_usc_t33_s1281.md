@@ -129,55 +129,55 @@
 
         In any case in which a dispute arises with respect to the awarding of a contract for construction of treatment works by a grantee of funds under this subchapter and a party to such dispute files an appeal with the Administrator under this subchapter for resolution of such dispute, the Administrator shall make a final decision on such appeal within 90 days of the filing of such appeal.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 201, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 833][/us/stat/86/833]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 12–16, Dec. 27, 1977, [91 Stat. 1569][/us/stat/91/1569], 1570; [Pub. L. 96–483][/us/pl/96/483], §§ 2(d), 3, Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361]; [Pub. L. 97–117][/us/pl/97/117], §§ 2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, [95 Stat. 1623–1626][/us/stat/95/1623-1626]; [Pub. L. 100–4, title II, § 201][/us/pl/100/4/s201], title III, § 316(c), Feb. 4, 1987, [101 Stat. 15][/us/stat/101/15], 60.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title II, § 201, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 833][/us/stat/86/833]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 12–16, Dec. 27, 1977, [91 Stat. 1569][/us/stat/91/1569], 1570; [Pub. L. 96–483][/us/pl/96/483], §§ 2(d), 3, Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361]; [Pub. L. 97–117][/us/pl/97/117], §§ 2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, [95 Stat. 1623–1626][/us/stat/95/1623-1626]; [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 201, title III, § 316(c), Feb. 4, 1987, [101 Stat. 15][/us/stat/101/15], 60.)
 
  __Amendments__ 
 
-    1987—Subsec. (g)(1). [Pub. L. 100–4, § 316(c)][/us/pl/100/4/s316/c], substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
+    1987—Subsec. (g)(1). [Pub. L. 100–4][/us/pl/100/4], § 316(c), substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
 
-    Subsec. (p). [Pub. L. 100–4, § 201][/us/pl/100/4/s201], added subsec. (p).
+    Subsec. (p). [Pub. L. 100–4][/us/pl/100/4], § 201, added subsec. (p).
 
-    1981—Subsec. (g)(1). [Pub. L. 97–117, § 2(a)][/us/pl/97/117/s2/a], inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in [section 1292(2) of this title][/us/usc/t33/s1292/2], but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under [section 1285 of this title][/us/usc/t33/s1285] for any fiscal year.
+    1981—Subsec. (g)(1). [Pub. L. 97–117][/us/pl/97/117], § 2(a), inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in [section 1292(2) of this title][/us/usc/t33/s1292/2], but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under [section 1285 of this title][/us/usc/t33/s1285] for any fiscal year.
 
-    Subsec. (k). [Pub. L. 97–117, § 10(c)][/us/pl/97/117/s10/c], inserted provision that subsection not be in effect after Nov. 15, 1981.
+    Subsec. (k). [Pub. L. 97–117][/us/pl/97/117], § 10(c), inserted provision that subsection not be in effect after Nov. 15, 1981.
 
-    Subsec. (l). [Pub. L. 97–117, § 3(a)][/us/pl/97/117/s3/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 97–117][/us/pl/97/117], § 3(a), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 97–117, § 4][/us/pl/97/117/s4], added subsec. (m).
+    Subsec. (m). [Pub. L. 97–117][/us/pl/97/117], § 4, added subsec. (m).
 
-    Subsec. (n). [Pub. L. 97–117, § 5][/us/pl/97/117/s5], added subsec. (n).
+    Subsec. (n). [Pub. L. 97–117][/us/pl/97/117], § 5, added subsec. (n).
 
-    Subsec. (o). [Pub. L. 97–117, § 6][/us/pl/97/117/s6], added subsec. (o).
+    Subsec. (o). [Pub. L. 97–117][/us/pl/97/117], § 6, added subsec. (o).
 
-    1980—Subsec. (h). [Pub. L. 96–483, § 2(d)][/us/pl/96/483/s2/d], struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+    1980—Subsec. (h). [Pub. L. 96–483][/us/pl/96/483], § 2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
-    Subsec. (k). [Pub. L. 96–483, § 3][/us/pl/96/483/s3], added subsec. (k).
+    Subsec. (k). [Pub. L. 96–483][/us/pl/96/483], § 3, added subsec. (k).
 
-    1977—Subsec. (g)(5). [Pub. L. 95–217, § 12][/us/pl/95/217/s12], added par. (5).
+    1977—Subsec. (g)(5). [Pub. L. 95–217][/us/pl/95/217], § 12, added par. (5).
 
-    Subsec. (g)(6). [Pub. L. 95–217, § 13][/us/pl/95/217/s13], added par. (6).
+    Subsec. (g)(6). [Pub. L. 95–217][/us/pl/95/217], § 13, added par. (6).
 
-    Subsec. (h). [Pub. L. 95–217, § 14][/us/pl/95/217/s14], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–217][/us/pl/95/217], § 14, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 95–217, § 15][/us/pl/95/217/s15], added subsec. (i).
+    Subsec. (i). [Pub. L. 95–217][/us/pl/95/217], § 15, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 95–217, § 16][/us/pl/95/217/s16], added subsec. (j).
+    Subsec. (j). [Pub. L. 95–217][/us/pl/95/217], § 16, added subsec. (j).
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–483, § 2(g)][/us/pl/96/483/s2/g], Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], provided that: 
+[Pub. L. 96–483][/us/pl/96/483], § 2(g), Oct. 21, 1980, [94 Stat. 2361][/us/stat/94/2361], provided that: 
 
 > “The amendments made by this section \[amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under [section 1284 of this title][/us/usc/t33/s1284], and amending provisions set out as a note under [section 1284 of this title][/us/usc/t33/s1284]\] shall take effect on December 27, 1977.”
 
  __Environmental Protection Agency State and Tribal Assistance Grants__ 
 
-[Pub. L. 105–174, title III][/us/pl/105/174], May 1, 1998, [112 Stat. 92][/us/stat/112/92], provided that: 
+[Pub. L. 105–174, title III][/us/pl/105/174/tIII], May 1, 1998, [112 Stat. 92][/us/stat/112/92], provided that: 
 
 > “Notwithstanding any other provision of law, eligible recipients of the funds appropriated to the Environmental Protection Agency in the State and Tribal Assistance Grants account since fiscal year 1997 and hereafter for multi-media or single media grants, other than Performance Partnership Grants authorized pursuant to [Public Law 104–134][/us/pl/104/134] and [Public Law 105–65][/us/pl/105/65] \[see Grants to Indian Tribes for Pollution Prevention, Control, and Abatement notes set out below\], for pollution prevention, control, and abatement and related activities have been and shall be those entities eligible for grants under the Agency’s organic statutes.”
 
  __Privatization of Infrastructure Assets__ 
 
-[Pub. L. 104–303, title V, § 586][/us/pl/104/303/s586], Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791], provided that:
+[Pub. L. 104–303, title V][/us/pl/104/303/tV], § 586, Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -193,13 +193,13 @@
 
  __Grants to States To Administer Completion and Closeout of Construction Grants Program__ 
 
-[Pub. L. 104–204, title III][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2912][/us/stat/110/2912], provided in part: 
+[Pub. L. 104–204, title III][/us/pl/104/204/tIII], Sept. 26, 1996, [110 Stat. 2912][/us/stat/110/2912], provided in part: 
 
 > “That notwithstanding any other provision of law, beginning in fiscal year 1997 the Administrator may make grants to States, from funds available for obligation in the State under title II of the Federal Water Pollution Control Act \[[33 U.S.C. 1281][/us/usc/t33/s1281] et seq.\], as amended, for administering the completion and closeout of the State’s construction grants program, based on a budget annually negotiated with the State”.
 
  __Wastewater Assistance to Colonias__ 
 
-[Pub. L. 104–182, title III, § 307][/us/pl/104/182/s307], Aug. 6, 1996, [110 Stat. 1688][/us/stat/110/1688], provided that:
+[Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 307, Aug. 6, 1996, [110 Stat. 1688][/us/stat/110/1688], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -241,43 +241,43 @@
 
  __Grants to Indian Tribes for Pollution Prevention, Control and Abatement__ 
 
-[Pub. L. 105–65, title III][/us/pl/105/65], Oct. 27, 1997, [111 Stat. 1373][/us/stat/111/1373], provided in part that: 
+[Pub. L. 105–65, title III][/us/pl/105/65/tIII], Oct. 27, 1997, [111 Stat. 1373][/us/stat/111/1373], provided in part that: 
 
 > “$745,000,000 for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities pursuant to the provisions set forth under this heading in [Public Law 104–134][/us/pl/104/134] \[see below\], provided that eligible recipients of these funds and the funds made available for this purpose since fiscal year 1996 and hereafter include States, federally recognized tribes, interstate agencies, tribal consortia, and air pollution control agencies, as provided in authorizing statutes, subject to such terms and conditions as the Administrator shall establish, and for making grants under section 103 of the Clean Air Act \[[42 U.S.C. 7403][/us/usc/t42/s7403]\] for particulate matter monitoring and data collection activities”.
 
-[Pub. L. 105–65, title III][/us/pl/105/65], Oct. 27, 1997, [111 Stat. 1374][/us/stat/111/1374], provided in part: 
+[Pub. L. 105–65, title III][/us/pl/105/65/tIII], Oct. 27, 1997, [111 Stat. 1374][/us/stat/111/1374], provided in part: 
 
 > “That, hereafter from funds appropriated under this heading \[“Environmental Protection Agency” and “state and tribal assistance grants”\], the Administrator is authorized to make grants to federally recognized Indian governments for the development of multi-media environmental programs: Provided further, That, hereafter, the funds available under this heading for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities may also be used for the direct implementation by the Federal Government of a program required by law in the absence of an acceptable State or tribal program”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–204, title III][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2912][/us/stat/110/2912].
+    [Pub. L. 104–204, title III][/us/pl/104/204/tIII], Sept. 26, 1996, [110 Stat. 2912][/us/stat/110/2912].
 
-    [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299, renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299, renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–327, title III][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2320][/us/stat/108/2320].
+    [Pub. L. 103–327, title III][/us/pl/103/327/tIII], Sept. 28, 1994, [108 Stat. 2320][/us/stat/108/2320].
 
-    [Pub. L. 103–124, title III][/us/pl/103/124], Oct. 28, 1993, [107 Stat. 1293][/us/stat/107/1293].
+    [Pub. L. 103–124, title III][/us/pl/103/124/tIII], Oct. 28, 1993, [107 Stat. 1293][/us/stat/107/1293].
 
-    [Pub. L. 102–389, title III][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1597][/us/stat/106/1597].
+    [Pub. L. 102–389, title III][/us/pl/102/389/tIII], Oct. 6, 1992, [106 Stat. 1597][/us/stat/106/1597].
 
-    [Pub. L. 102–139, title III][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 762][/us/stat/105/762].
+    [Pub. L. 102–139, title III][/us/pl/102/139/tIII], Oct. 28, 1991, [105 Stat. 762][/us/stat/105/762].
 
-    [Pub. L. 101–507, title III][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1372][/us/stat/104/1372].
+    [Pub. L. 101–507, title III][/us/pl/101/507/tIII], Nov. 5, 1990, [104 Stat. 1372][/us/stat/104/1372].
 
-[Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
 
 > “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“Environmental Protection Agency” and “state and tribal assistance grants”\], subject to such terms and conditions as the Administrator shall establish, to any State or federally recognized Indian tribe for multimedia or single media pollution prevention, control and abatement and related environmental activities at the request of the Governor or other appropriate State official or the tribe”.
 
  __State Management of Construction Grant Activities__ 
 
-[Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–299; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
 
 > “That of the funds appropriated in the Construction Grants and Water Infrastructure/State Revolving Funds accounts since the appropriation for the fiscal year ending September 30, 1992, and hereafter, for making grants for wastewater treatment works construction projects, portions may be provided by the recipients to States for managing construction grant activities, on condition that the States agree to reimburse the recipients from State funding sources”.
 
  __Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation__ 
 
-[Pub. L. 99–396, § 12(b)][/us/pl/99/396/s12/b], Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841], provided that: 
+[Pub. L. 99–396][/us/pl/99/396], § 12(b), Aug. 27, 1986, [100 Stat. 841][/us/stat/100/841], provided that: 
 
 > “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.”
 
@@ -285,7 +285,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Environmental Financing Authority__ 
 
-[Pub. L. 92–500, § 12][/us/pl/92/500/s12], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], as amended by [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that:
+[Pub. L. 92–500][/us/pl/92/500], § 12, Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], as amended by [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that:
 
 >     “(a) \[Short Title\] This section may be cited as the Environmental Financing Act of 1972.
 
@@ -317,7 +317,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >      \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of the Treasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
 
->         “(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067].)
+>         “(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067].)
 
 >     “(h) \[Interest Differential\] The Secretary of the Treasury is authorized and directed to make annual payments to the Authority in such amounts as are necessary to equal the amount by which the dollar amount of interest expense accrued by the Authority on account of its obligations exceeds the dollar amount of interest income accrued by the Authority on account of obligations purchased by it pursuant to subsection (e) of this section.
 
@@ -353,7 +353,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(n) __\[Subsec. (n) amended__  __[__  __section 24 of Title 12__  __][/us/usc/t12/s24]__  __, Banks and Banking, and is not set out herein.\]__ 
 
->     “(o) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067].)
+>     “(o) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067].)
 
 >     “(p) __\[Subsec. (p) amended section 711 of former Title 31, Money and Finance, and is not set out herein.\]__ 
 
@@ -376,7 +376,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t33/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285
 [/us/usc/t33/s1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1287
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F833
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1569
@@ -384,86 +384,86 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 [/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/stat/95/1623-1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1623-1626
-[/us/pl/100/4/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs201
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F15
-[/us/pl/100/4/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs316%2Fc
-[/us/pl/100/4/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs201
-[/us/pl/97/117/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs2%2Fa
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
 [/us/usc/t33/s1292/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292%2F2
 [/us/usc/t33/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285
-[/us/pl/97/117/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs10%2Fc
-[/us/pl/97/117/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs3%2Fa
-[/us/pl/97/117/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs4
-[/us/pl/97/117/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs5
-[/us/pl/97/117/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117%2Fs6
-[/us/pl/96/483/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fd
-[/us/pl/96/483/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs3
-[/us/pl/95/217/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs12
-[/us/pl/95/217/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs13
-[/us/pl/95/217/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs14
-[/us/pl/95/217/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs15
-[/us/pl/95/217/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs16
-[/us/pl/96/483/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs2%2Fg
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/97/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F117
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2361
 [/us/usc/t33/s1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1284
 [/us/usc/t33/s1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1284
-[/us/pl/105/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174
+[/us/pl/105/174/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2FtIII
 [/us/stat/112/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F92
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
-[/us/pl/104/303/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs586
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3791
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIII
 [/us/stat/110/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2912
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
-[/us/pl/104/182/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs307
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1688
 [/us/usc/t33/s1292/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292%2F2
-[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtIII
 [/us/stat/111/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1373
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t42/s7403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7403
-[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtIII
 [/us/stat/111/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1374
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIII
 [/us/stat/110/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2912
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtIII
 [/us/stat/108/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2320
-[/us/pl/103/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F124
+[/us/pl/103/124/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F124%2FtIII
 [/us/stat/107/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1293
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtIII
 [/us/stat/106/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1597
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtIII
 [/us/stat/105/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F762
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtIII
 [/us/stat/104/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1372
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/99/396/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs12%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F841
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/92/500/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs12
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

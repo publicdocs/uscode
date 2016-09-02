@@ -35,7 +35,7 @@
 
         The Administrator shall conduct continuing evaluations of potential loss or shifts of employment which may result from the issuance of any effluent limitation or order under this chapter, including, where appropriate, investigating threatened plant closures or reductions in employment allegedly resulting from such limitation or order. Any employee who is discharged or laid-off, threatened with discharge or lay-off, or otherwise discriminated against by any person because of the alleged results of any effluent limitation or order issued under this chapter, or any representative of such employee, may request the Administrator to conduct a full investigation of the matter. The Administrator shall thereupon investigate the matter and, at the request of any party, shall hold public hearings on not less than five days notice, and shall at such hearings require the parties, including the employer involved, to present information relating to the actual or potential effect of such limitation or order on employment and on any alleged discharge, lay-off, or other discrimination and the detailed reasons or justification therefor. Any such hearing shall be of record and shall be subject to [section 554 of title 5][/us/usc/t5/s554]. Upon receiving the report of such investigation, the Administrator shall make findings of fact as to the effect of such effluent limitation or order on employment and on the alleged discharge, lay-off, or discrimination and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public. Nothing in this subsection shall be construed to require or authorize the Administrator to modify or withdraw any effluent limitation or order issued under this chapter.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 507, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 890][/us/stat/86/890].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 507, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 890][/us/stat/86/890].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F890
 
 

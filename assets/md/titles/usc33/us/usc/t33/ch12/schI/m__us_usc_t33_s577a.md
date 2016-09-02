@@ -17,7 +17,7 @@
 
     The Chief of Engineers, for the purpose of determining Federal and non-Federal cost sharing, relating to proposed construction of small-boat navigation projects, shall consider charter fishing craft as commercial vessels.
 
-([Pub. L. 91–611, title I, § 119][/us/pl/91/611/s119], Dec. 31, 1970, [84 Stat. 1822][/us/stat/84/1822].)
+([Pub. L. 91–611, title I][/us/pl/91/611/tI], § 119, Dec. 31, 1970, [84 Stat. 1822][/us/stat/84/1822].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/611/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs119
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1822
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5246 derived from acts [Aug. 8, 1846, ch. 103, § 3][/us/act/1846-08-08/ch103/s3], [9 Stat. 78][/us/stat/9/78]; [Jan. 20, 1870, ch. 7][/us/act/1870-01-20/ch7], [16 Stat. 61][/us/stat/16/61].
+    R.S. § 5246 derived from acts [Aug. 8, 1846, ch. 103][/us/act/1846-08-08/ch103], § 3, [9 Stat. 78][/us/stat/9/78]; [Jan. 20, 1870, ch. 7][/us/act/1870-01-20/ch7], [16 Stat. 61][/us/stat/16/61].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-08/ch103/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-08%2Fch103%2Fs3
+[/us/act/1846-08-08/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-08%2Fch103
 [/us/stat/9/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F78
 [/us/act/1870-01-20/ch7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-01-20%2Fch7
 [/us/stat/16/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F61

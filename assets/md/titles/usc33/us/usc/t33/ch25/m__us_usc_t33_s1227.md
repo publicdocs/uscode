@@ -23,7 +23,7 @@
 
         In an investigation under this section, the Secretary may issue subpenas to require the attendance of witnesses and the production of documents or other evidence relating to such incident, accident, or act. If any person refuses to obey a subpena, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance with the subpena. Any district court of the United States may, in the case of refusal to obey a subpena, issue an order requiring compliance with the subpena, and failure to obey the order may be punished by the court as contempt. Witnesses may be paid fees for travel and attendance at rates not exceeding those allowed in a district court of the United States.
 
-([Pub. L. 92–340, § 8][/us/pl/92/340/s8], formerly title I, § 107, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1476][/us/stat/92/1476].)
+([Pub. L. 92–340][/us/pl/92/340], § 8, formerly title I, § 107, July 10, 1972, [86 Stat. 427][/us/stat/86/427]; renumbered and amended [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1476][/us/stat/92/1476].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/92/340/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs8
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F427
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1476
 [/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 

@@ -27,7 +27,7 @@
 
         The presentation of a flag under this section shall be at no cost to the recipient.
 
-([Pub. L. 107–372, title II, § 266][/us/pl/107/372/s266], Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 266, Dec. 19, 2002, [116 Stat. 3093][/us/stat/116/3093].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs266
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3093
 [/us/usc/t33/s853v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs853v
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

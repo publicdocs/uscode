@@ -23,7 +23,7 @@
 
     The total of all grants for sewage collection systems made under this section shall not exceed $2,800,000.
 
-([Pub. L. 95–217, § 78][/us/pl/95/217/s78], Dec. 27, 1977, [91 Stat. 1611][/us/stat/91/1611].)
+([Pub. L. 95–217][/us/pl/95/217], § 78, Dec. 27, 1977, [91 Stat. 1611][/us/stat/91/1611].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281
 [/us/usc/t42/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3102
 [/us/usc/t42/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3102
-[/us/pl/95/217/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs78
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1611
 [/us/usc/t42/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3102
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316

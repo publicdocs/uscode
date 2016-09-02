@@ -17,7 +17,7 @@
 
     The Secretary may, if he considers that marine navigational safety will not be adversely affected or where a local communication system fully complies with the intent of this concept but does not conform in detail, issue exemptions from any provisions of this chapter, on such terms and conditions as he considers appropriate.
 
-([Pub. L. 92–63, § 7][/us/pl/92/63/s7], Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
+([Pub. L. 92–63][/us/pl/92/63], § 7, Aug. 4, 1971, [85 Stat. 165][/us/stat/85/165].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/63/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs7
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F165
 
 

@@ -287,7 +287,7 @@
 
         No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 402, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 880][/us/stat/86/880]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577], 1588, 1591, 1599, 1600; [Pub. L. 100–4, title IV][/us/pl/100/4], §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, [101 Stat. 65–67][/us/stat/101/65-67], 69, renumbered § 404(c), [Pub. L. 104–66, title II, § 2021(e)(2)][/us/pl/104/66/s2021/e/2], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 102–580, title III, § 364][/us/pl/102/580/s364], Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–224; [Pub. L. 110–288, § 2][/us/pl/110/288/s2], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650]; [Pub. L. 113–79, title XII, § 12313][/us/pl/113/79/s12313], Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 402, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 880][/us/stat/86/880]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577], 1588, 1591, 1599, 1600; [Pub. L. 100–4, title IV][/us/pl/100/4/tIV], §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, [101 Stat. 65–67][/us/stat/101/65-67], 69, renumbered § 404(c), [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(e)(2), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 364, Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 112(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–224; [Pub. L. 110–288][/us/pl/110/288], § 2, July 29, 2008, [122 Stat. 2650][/us/stat/122/2650]; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12313, Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992].)
 
  __Amendments__ 
 
@@ -299,33 +299,33 @@
 
     1992—Subsec. (p)(1), (6). [Pub. L. 102–580][/us/pl/102/580] substituted “October 1, 1994” for “October 1, 1992” in par. (1) and “October 1, 1993” for “October 1, 1992” in par. (6).
 
-    1987—Subsec. (a)(1). [Pub. L. 100–4, § 404(c)][/us/pl/100/4/s404/c], inserted cl. (A) and (B) designations.
+    1987—Subsec. (a)(1). [Pub. L. 100–4][/us/pl/100/4], § 404(c), inserted cl. (A) and (B) designations.
 
-    Subsec. (c)(1). [Pub. L. 100–4, § 403(b)(2)][/us/pl/100/4/s403/b/2], substituted “as to those discharges” for “as to those navigable waters”.
+    Subsec. (c)(1). [Pub. L. 100–4][/us/pl/100/4], § 403(b)(2), substituted “as to those discharges” for “as to those navigable waters”.
 
-    Subsec. (c)(4). [Pub. L. 100–4, § 403(b)(1)][/us/pl/100/4/s403/b/1], added par. (4).
+    Subsec. (c)(4). [Pub. L. 100–4][/us/pl/100/4], § 403(b)(1), added par. (4).
 
-    Subsec. (l). [Pub. L. 100–4, § 401][/us/pl/100/4/s401], inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
+    Subsec. (l). [Pub. L. 100–4][/us/pl/100/4], § 401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
 
     Subsecs. (m) to (p). [Pub. L. 100–4][/us/pl/100/4], §§ 402, 403(a), 404(a), 405, added subsecs. (m) to (p).
 
-    1977—Subsec. (a)(5). [Pub. L. 95–217, § 50][/us/pl/95/217/s50], substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+    1977—Subsec. (a)(5). [Pub. L. 95–217][/us/pl/95/217], § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
 
-    Subsec. (b). [Pub. L. 95–217, § 50][/us/pl/95/217/s50], substituted in provisions preceding par. (1) “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+    Subsec. (b). [Pub. L. 95–217][/us/pl/95/217], § 50, substituted in provisions preceding par. (1) “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
 
-    Subsec. (b)(8). [Pub. L. 95–217, § 54(c)(1)][/us/pl/95/217/s54/c/1], inserted reference to identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under [section 1317(b) of this title][/us/usc/t33/s1317/b] into treatment works and programs to assure compliance with pretreatment standards by each source.
+    Subsec. (b)(8). [Pub. L. 95–217][/us/pl/95/217], § 54(c)(1), inserted reference to identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under [section 1317(b) of this title][/us/usc/t33/s1317/b] into treatment works and programs to assure compliance with pretreatment standards by each source.
 
-    Subsec. (c)(1), (2). [Pub. L. 95–217, § 50][/us/pl/95/217/s50], substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+    Subsec. (c)(1), (2). [Pub. L. 95–217][/us/pl/95/217], § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
 
-    Subsec. (d)(2). [Pub. L. 95–217, § 65(b)][/us/pl/95/217/s65/b], inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
+    Subsec. (d)(2). [Pub. L. 95–217][/us/pl/95/217], § 65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
 
-    Subsec. (d)(4). [Pub. L. 95–217, § 65(a)][/us/pl/95/217/s65/a], added par. (4).
+    Subsec. (d)(4). [Pub. L. 95–217][/us/pl/95/217], § 65(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 95–217, § 50][/us/pl/95/217/s50], substituted “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+    Subsec. (e). [Pub. L. 95–217][/us/pl/95/217], § 50, substituted “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
 
-    Subsec. (h). [Pub. L. 95–217, § 66][/us/pl/95/217/s66], substituted “where no State program is approved or where the Administrator determines pursuant to [section 1319(a) of this title][/us/usc/t33/s1319/a] that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
+    Subsec. (h). [Pub. L. 95–217][/us/pl/95/217], § 66, substituted “where no State program is approved or where the Administrator determines pursuant to [section 1319(a) of this title][/us/usc/t33/s1319/a] that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
 
-    Subsec. (l). [Pub. L. 95–217, § 33(c)][/us/pl/95/217/s33/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–217][/us/pl/95/217], § 33(c), added subsec. (l).
 
  __Transfer of Functions__ 
 
@@ -335,7 +335,7 @@
 
  __Permit Requirements for Discharges From Certain Vessels__ 
 
-[Pub. L. 110–299][/us/pl/110/299], §§ 1, 2, July 31, 2008, [122 Stat. 2995][/us/stat/122/2995], as amended by [Pub. L. 111–215, § 1][/us/pl/111/215/s1], July 30, 2010, [124 Stat. 2347][/us/stat/124/2347]; [Pub. L. 112–213, title VII, § 703][/us/pl/112/213/s703], Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580]; [Pub. L. 113–281, title VI, § 602][/us/pl/113/281/s602], Dec. 18, 2014, [128 Stat. 3061][/us/stat/128/3061], provided that:
+[Pub. L. 110–299][/us/pl/110/299], §§ 1, 2, July 31, 2008, [122 Stat. 2995][/us/stat/122/2995], as amended by [Pub. L. 111–215][/us/pl/111/215], § 1, July 30, 2010, [124 Stat. 2347][/us/stat/124/2347]; [Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 703, Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580]; [Pub. L. 113–281, title VI][/us/pl/113/281/tVI], § 602, Dec. 18, 2014, [128 Stat. 3061][/us/stat/128/3061], provided that:
 
 > “SECTION 1. __DEFINITIONS.__ 
 
@@ -399,7 +399,7 @@
 
  __Stormwater Permit Requirements__ 
 
-[Pub. L. 102–240, title I, § 1068][/us/pl/102/240/s1068], Dec. 18, 1991, [105 Stat. 2007][/us/stat/105/2007], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1068, Dec. 18, 1991, [105 Stat. 2007][/us/stat/105/2007], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -437,7 +437,7 @@
 
  __Phosphate Fertilizer Effluent Limitation__ 
 
-[Pub. L. 100–4, title III, § 306(c)][/us/pl/100/4/s306/c], Feb. 4, 1987, [101 Stat. 36][/us/stat/101/36], provided that:
+[Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 306(c), Feb. 4, 1987, [101 Stat. 36][/us/stat/101/36], provided that:
 
 >     “(1)  __Issuance of permit__  __.—__ 
 
@@ -459,7 +459,7 @@
 
  __Log Transfer Facilities__ 
 
-[Pub. L. 100–4, title IV, § 407][/us/pl/100/4/s407], Feb. 4, 1987, [101 Stat. 74][/us/stat/101/74], provided that:
+[Pub. L. 100–4, title IV][/us/pl/100/4/tIV], § 407, Feb. 4, 1987, [101 Stat. 74][/us/stat/101/74], provided that:
 
 >     “(a)  __Agreement__  __.—__ 
 
@@ -475,7 +475,7 @@
 
  __Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment__ 
 
-    [Pub. L. 95–217, § 54(c)(2)][/us/pl/95/217/s54/c/2], Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by [section 54(c)(1) of Pub. L. 95–217][/us/pl/95/217/s54/c/1], which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+    [Pub. L. 95–217][/us/pl/95/217], § 54(c)(2), Dec. 27, 1977, [91 Stat. 1591][/us/stat/91/1591], provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by [section 54(c)(1) of Pub. L. 95–217][/us/pl/95/217/s54/c/1], which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
 
 ----------
 
@@ -515,42 +515,42 @@
 [/us/usc/t33/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F880
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1577
-[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIV
 [/us/stat/101/65-67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F65-67
-[/us/pl/104/66/s2021/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fe%2F2
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
-[/us/pl/102/580/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs364
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4862
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288%2Fs2
+[/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/stat/122/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2650
-[/us/pl/113/79/s12313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12313
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F992
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
-[/us/pl/100/4/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs404%2Fc
-[/us/pl/100/4/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs403%2Fb%2F2
-[/us/pl/100/4/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs403%2Fb%2F1
-[/us/pl/100/4/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs401
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
-[/us/pl/95/217/s54/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fc%2F1
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317%2Fb
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
-[/us/pl/95/217/s65/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs65%2Fb
-[/us/pl/95/217/s65/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs65%2Fa
-[/us/pl/95/217/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs50
-[/us/pl/95/217/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs66
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t33/s1319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fa
-[/us/pl/95/217/s33/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs33%2Fc
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
@@ -558,34 +558,34 @@
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
 [/us/pl/110/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F299
 [/us/stat/122/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2995
-[/us/pl/111/215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F215%2Fs1
+[/us/pl/111/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F215
 [/us/stat/124/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2347
-[/us/pl/112/213/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs703
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1580
-[/us/pl/113/281/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs602
+[/us/pl/113/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtVI
 [/us/stat/128/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3061
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t33/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/102/240/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1068
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2007
 [/us/usc/t33/s1342/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fp%2F2%2FB
 [/us/usc/t33/s1342/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fp%2F2%2FA
 [/us/usc/t42/s6941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6941
 [/us/usc/t33/s1342/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fp%2F2%2FA
-[/us/pl/100/4/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs306%2Fc
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F36
 [/us/usc/t33/s1342/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fa%2F1%2FB
 [/us/usc/t33/s1311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311%2Fb
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
 [/us/usc/t33/s1342/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fa%2F1%2FB
 [/us/usc/t33/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1341
-[/us/pl/100/4/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs407
+[/us/pl/100/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIV
 [/us/stat/101/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F74
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
-[/us/pl/95/217/s54/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fc%2F2
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1591
 [/us/pl/95/217/s54/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs54%2Fc%2F1
 

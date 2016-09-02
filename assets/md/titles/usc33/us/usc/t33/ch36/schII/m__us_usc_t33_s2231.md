@@ -43,7 +43,7 @@
 
         If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
 
-([Pub. L. 99–662, title II, § 203][/us/pl/99/662/s203], Nov. 17, 1986, [100 Stat. 4098][/us/stat/100/4098]; [Pub. L. 113–121, title I, § 1014(a)][/us/pl/113/121/s1014/a], June 10, 2014, [128 Stat. 1219][/us/stat/128/1219].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 203, Nov. 17, 1986, [100 Stat. 4098][/us/stat/100/4098]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1014(a), June 10, 2014, [128 Stat. 1219][/us/stat/128/1219].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/99/662/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs203
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4098
-[/us/pl/113/121/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1219
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

@@ -647,7 +647,7 @@
 
             The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
 
-    (k) __Repealed.__  __[__  __Pub. L. 101–380, title II, § 2002(b)(2)__  __][/us/pl/101/380/s2002/b/2]__  __,__  __Aug. 18, 1990__  __,__  __[__  __104 Stat. 507__  __][/us/stat/104/507]__ 
+    (k) __Repealed.__  __[__  __Pub. L. 101–380, title II__  __][/us/pl/101/380/tII]__  __, § 2002(b)(2),__  __Aug. 18, 1990__  __,__  __[__  __104 Stat. 507__  __][/us/stat/104/507]__ 
 
     (l) __Administration__ 
 
@@ -703,7 +703,7 @@
 
         (3) Nothing in this section shall be construed as affecting or modifying any other existing authority of any Federal department, agency, or instrumentality, relative to onshore or offshore facilities under this chapter or any other provision of law, or to affect any State or local law not in conflict with this section.
 
-    (p) __Repealed.__  __[__  __Pub. L. 101–380, title II, § 2002(b)(4)__  __][/us/pl/101/380/s2002/b/4]__  __,__  __Aug. 18, 1990__  __,__  __[__  __104 Stat. 507__  __][/us/stat/104/507]__ 
+    (p) __Repealed.__  __[__  __Pub. L. 101–380, title II__  __][/us/pl/101/380/tII]__  __, § 2002(b)(4),__  __Aug. 18, 1990__  __,__  __[__  __104 Stat. 507__  __][/us/stat/104/507]__ 
 
     (q) __Establishment of maximum limit of liability with respect to onshore or offshore facilities__ 
 
@@ -1303,7 +1303,7 @@
 
             (B) 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 311, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 862][/us/stat/86/862]; amended [Pub. L. 93–207, § 1(4)][/us/pl/93/207/s1/4], Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217][/us/pl/95/217], §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, [91 Stat. 1593–1596][/us/stat/91/1593-1596]; [Pub. L. 95–576, § 1(b)][/us/pl/95/576/s1/b], Nov. 2, 1978, [92 Stat. 2467][/us/stat/92/2467]; [Pub. L. 96–478, § 13(b)][/us/pl/96/478/s13/b], Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 96–483, § 8][/us/pl/96/483/s8], Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–164, title I, § 161(5)][/us/pl/97/164/s161/5], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 100–4, title V, § 502(b)][/us/pl/100/4/s502/b], Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 101–380, title II, § 2002(b)][/us/pl/101/380/s2002/b], title IV, §§ 4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], 523–527, 532, 533, 540, 541; [Pub. L. 102–388, title III, § 349][/us/pl/102/388/s349], Oct. 6, 1992, [106 Stat. 1554][/us/stat/106/1554]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title XI][/us/pl/104/324], §§ 1143, 1144, Oct. 19, 1996, [110 Stat. 3992][/us/stat/110/3992]; [Pub. L. 105–383, title IV, § 411][/us/pl/105/383/s411], Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432]; [Pub. L. 108–293, title VII, § 701(a)][/us/pl/108/293/s701/a], (b), (d), Aug. 9, 2004, [118 Stat. 1067][/us/stat/118/1067], 1068; [Pub. L. 109–241, title VI, § 608][/us/pl/109/241/s608], title IX, § 901(i), July 11, 2006, [120 Stat. 558][/us/stat/120/558], 564; [Pub. L. 112–90, § 10][/us/pl/112/90/s10], Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912]; [Pub. L. 112–141, div. A, title I, § 1603][/us/pl/112/141/s1603], July 6, 2012, [126 Stat. 589][/us/stat/126/589]; [Pub. L. 113–281, title III, § 313][/us/pl/113/281/s313], Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 311, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 862][/us/stat/86/862]; amended [Pub. L. 93–207][/us/pl/93/207], § 1(4), Dec. 28, 1973, [87 Stat. 906][/us/stat/87/906]; [Pub. L. 95–217][/us/pl/95/217], §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, [91 Stat. 1593–1596][/us/stat/91/1593-1596]; [Pub. L. 95–576][/us/pl/95/576], § 1(b), Nov. 2, 1978, [92 Stat. 2467][/us/stat/92/2467]; [Pub. L. 96–478][/us/pl/96/478], § 13(b), Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 96–483][/us/pl/96/483], § 8, Oct. 21, 1980, [94 Stat. 2362][/us/stat/94/2362]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 161(5), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 502(b), Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2002(b), title IV, §§ 4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], 523–527, 532, 533, 540, 541; [Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 349, Oct. 6, 1992, [106 Stat. 1554][/us/stat/106/1554]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], §§ 1143, 1144, Oct. 19, 1996, [110 Stat. 3992][/us/stat/110/3992]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 411, Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432]; [Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 701(a), (b), (d), Aug. 9, 2004, [118 Stat. 1067][/us/stat/118/1067], 1068; [Pub. L. 109–241, title VI][/us/pl/109/241/tVI], § 608, title IX, § 901(i), July 11, 2006, [120 Stat. 558][/us/stat/120/558], 564; [Pub. L. 112–90][/us/pl/112/90], § 10, Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1603, July 6, 2012, [126 Stat. 589][/us/stat/126/589]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 313, Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
 
  __References in Text__ 
 
@@ -1317,159 +1317,159 @@
 
     The date of enactment of this paragraph, referred to in subsec. (b)(2)(B), probably means the date of enactment of [Pub. L. 95–576][/us/pl/95/576], which amended subsec. (b)(2)(B) and which was approved Nov. 2, 1978.
 
-The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of [section 311 of Public Law 92–500][/us/pl/92/500/s311], referred to in subsec. (b)(2)(B), probably means the penalty provision of subsec. (b)(2)(B)(iii)(bb) of this section as added by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 864][/us/stat/86/864], prior to the amendment to subsec. (b)(2)(B) by [section 1(b)(3) of Pub. L. 95–576][/us/pl/95/576/s1/b/3]. Prior to amendment, subsec. (b)(2)(B)(iii)(bb) read as follows: 
+The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of [section 311 of Public Law 92–500][/us/pl/92/500/s311], referred to in subsec. (b)(2)(B), probably means the penalty provision of subsec. (b)(2)(B)(iii)(bb) of this section as added by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 864][/us/stat/86/864], prior to the amendment to subsec. (b)(2)(B) by [section 1(b)(3) of Pub. L. 95–576][/us/pl/95/576/s1/b/3]. Prior to amendment, subsec. (b)(2)(B)(iii)(bb) read as follows: 
 
 > “a penalty determined by the number of units discharged multiplied by the amount established for such unit under clause (iv) of this subparagraph, but such penalty shall not be more than $5,000,000 in the case of a discharge from a vessel and $500,000 in the case of a discharge from an onshore or offshore facility.”
 
-    Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), referred to in subsec. (b)(12)(B), was repealed by [Pub. L. 103–182, title VI, § 690(a)(21)][/us/pl/103/182/s690/a/21], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), referred to in subsec. (b)(12)(B), was repealed by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(a)(21), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
-    [Section 1443 of title 19][/us/usc/t19/s1443], referred to in subsec. (b)(12)(C), was repealed by [Pub. L. 103–182, title VI, § 690(b)(6)][/us/pl/103/182/s690/b/6], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    [Section 1443 of title 19][/us/usc/t19/s1443], referred to in subsec. (b)(12)(C), was repealed by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(b)(6), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
     The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
 
     The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is [Pub. L. 101–380][/us/pl/101/380], Aug. 18, 1990, [104 Stat. 484][/us/stat/104/484], which is classified principally to chapter 40 (§ 2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t33/s2701] and Tables.
 
-    Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by [Pub. L. 101–380, title IV, § 4201(a)][/us/pl/101/380/s4201/a], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
+    Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(a), Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
 
-    Par. (3) of [section 1901(a) of this title][/us/usc/t33/s1901/a], referred to in subsec. (j)(5)(B), was redesignated par. (4) by [Pub. L. 110–280, § 3(1)][/us/pl/110/280/s3/1], July 21, 2008, [122 Stat. 2611][/us/stat/122/2611].
+    Par. (3) of [section 1901(a) of this title][/us/usc/t33/s1901/a], referred to in subsec. (j)(5)(B), was redesignated par. (4) by [Pub. L. 110–280][/us/pl/110/280], § 3(1), July 21, 2008, [122 Stat. 2611][/us/stat/122/2611].
 
     The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
 
-    In subsec. (b)(12)(A), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (b)(12)(A), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
-    2014—Subsec. (j)(4)(A). [Pub. L. 113–281, § 313(1)][/us/pl/113/281/s313/1], substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
+    2014—Subsec. (j)(4)(A). [Pub. L. 113–281][/us/pl/113/281], § 313(1), substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
 
-    Subsec. (j)(4)(B)(ii). [Pub. L. 113–281, § 313(2)][/us/pl/113/281/s313/2], substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
+    Subsec. (j)(4)(B)(ii). [Pub. L. 113–281][/us/pl/113/281], § 313(2), substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
 
-    Subsec. (j)(4)(B)(iii). [Pub. L. 113–281, § 313(3)][/us/pl/113/281/s313/3], substituted “, local, and tribal” for “and local”.
+    Subsec. (j)(4)(B)(iii). [Pub. L. 113–281][/us/pl/113/281], § 313(3), substituted “, local, and tribal” for “and local”.
 
-    Subsec. (j)(4)(C)(iv). [Pub. L. 113–281, § 313(4)(A)][/us/pl/113/281/s313/4/A], substituted “, Federal, State, and local agencies, and tribal governments” for “and Federal, State, and local agencies”.
+    Subsec. (j)(4)(C)(iv). [Pub. L. 113–281][/us/pl/113/281], § 313(4)(A), substituted “, Federal, State, and local agencies, and tribal governments” for “and Federal, State, and local agencies”.
 
-    Subsec. (j)(4)(C)(vii) to (ix). [Pub. L. 113–281, § 313(4)(B)][/us/pl/113/281/s313/4/B], (C), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
+    Subsec. (j)(4)(C)(vii) to (ix). [Pub. L. 113–281][/us/pl/113/281], § 313(4)(B), (C), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
 
-    2012—Subsec. (a)(27) to (35). [Pub. L. 112–141, § 1603(1)][/us/pl/112/141/s1603/1], added pars. (27) to (35).
+    2012—Subsec. (a)(27) to (35). [Pub. L. 112–141][/us/pl/112/141], § 1603(1), added pars. (27) to (35).
 
-    Subsec. (b)(6)(A). [Pub. L. 112–90, § 10(b)][/us/pl/112/90/s10/b], substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
+    Subsec. (b)(6)(A). [Pub. L. 112–90][/us/pl/112/90], § 10(b), substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
 
-    Subsec. (m)(2)(A), (B). [Pub. L. 112–90, § 10(a)][/us/pl/112/90/s10/a], which directed amendment of subpars. (A) and (B) by substituting “Administrator, the Secretary of Transportation, or” for “Administrator or” was executed by making the substitution the first place appearing in each subpar., to reflect the probable intent of Congress.
+    Subsec. (m)(2)(A), (B). [Pub. L. 112–90][/us/pl/112/90], § 10(a), which directed amendment of subpars. (A) and (B) by substituting “Administrator, the Secretary of Transportation, or” for “Administrator or” was executed by making the substitution the first place appearing in each subpar., to reflect the probable intent of Congress.
 
-    Subsec. (s). [Pub. L. 112–141, § 1603(2)][/us/pl/112/141/s1603/2], inserted “except as provided in subsection (t)” before period at end.
+    Subsec. (s). [Pub. L. 112–141][/us/pl/112/141], § 1603(2), inserted “except as provided in subsection (t)” before period at end.
 
-    Subsec. (t). [Pub. L. 112–141, § 1603(3)][/us/pl/112/141/s1603/3], added subsec. (t).
+    Subsec. (t). [Pub. L. 112–141][/us/pl/112/141], § 1603(3), added subsec. (t).
 
-    2006—Subsec. (a)(26). [Pub. L. 109–241, § 608][/us/pl/109/241/s608], amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under [section 14302 of title 46][/us/usc/t46/s14302] or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
+    2006—Subsec. (a)(26). [Pub. L. 109–241][/us/pl/109/241], § 608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under [section 14302 of title 46][/us/usc/t46/s14302] or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
 
     “(A) is a vessel of the United States; or
 
     “(B) operates on the navigable waters of the United States.”
 
-    Subsec. (j)(5)(A)(ii), (B), (F), and (G). [Pub. L. 109–241, § 901(i)(1)][/us/pl/109/241/s901/i/1], substituted “nontank” for “non-tank” wherever appearing.
+    Subsec. (j)(5)(A)(ii), (B), (F), and (G). [Pub. L. 109–241][/us/pl/109/241], § 901(i)(1), substituted “nontank” for “non-tank” wherever appearing.
 
-    Subsec. (j)(5)(H). [Pub. L. 109–241, § 901(i)(2)][/us/pl/109/241/s901/i/2], amended directory language of [Pub. L. 108–293, § 701(b)(9)][/us/pl/108/293/s701/b/9]. See 2004 Amendment note below.
+    Subsec. (j)(5)(H). [Pub. L. 109–241][/us/pl/109/241], § 901(i)(2), amended directory language of [Pub. L. 108–293][/us/pl/108/293], § 701(b)(9). See 2004 Amendment note below.
 
-    2004—Subsec. (a)(26). [Pub. L. 108–293, § 701(a)][/us/pl/108/293/s701/a], added par. (26).
+    2004—Subsec. (a)(26). [Pub. L. 108–293][/us/pl/108/293], § 701(a), added par. (26).
 
-    Subsec. (j)(5). [Pub. L. 108–293, § 701(b)(1)][/us/pl/108/293/s701/b/1], inserted “, nontank vessel,” after “vessel” in heading.
+    Subsec. (j)(5). [Pub. L. 108–293][/us/pl/108/293], § 701(b)(1), inserted “, nontank vessel,” after “vessel” in heading.
 
-    Subsec. (j)(5)(A). [Pub. L. 108–293, § 701(b)(2)][/us/pl/108/293/s701/b/2], (d)(3), designated existing text as cl. (i), substituted “subparagraph (C)” for “subparagraph (B)”, and added cl. (ii).
+    Subsec. (j)(5)(A). [Pub. L. 108–293][/us/pl/108/293], § 701(b)(2), (d)(3), designated existing text as cl. (i), substituted “subparagraph (C)” for “subparagraph (B)”, and added cl. (ii).
 
-    Subsec. (j)(5)(B). [Pub. L. 108–293, § 701(d)(2)][/us/pl/108/293/s701/d/2], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (j)(5)(B). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 108–293, § 701(b)(3)][/us/pl/108/293/s701/b/3], (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-    Subsec. (j)(5)(C). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
+    Subsec. (j)(5)(C). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
 
-    Subsec. (j)(5)(D). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], redesignated subpar. (C) as (D). Former subpar (D) redesignated (E).
+    Subsec. (j)(5)(D). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), redesignated subpar. (C) as (D). Former subpar (D) redesignated (E).
 
-    [Pub. L. 108–293, § 701(b)(5)][/us/pl/108/293/s701/b/5], inserted “, nontank vessel,” after “vessel” in introductory provisions and added cl. (v).
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(5), inserted “, nontank vessel,” after “vessel” in introductory provisions and added cl. (v).
 
-    Subsec. (j)(5)(E). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+    Subsec. (j)(5)(E). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-    [Pub. L. 108–293, § 701(b)(6)][/us/pl/108/293/s701/b/6], inserted “non-tank vessel,” after “vessel,” in two places.
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(6), inserted “non-tank vessel,” after “vessel,” in two places.
 
-    Subsec. (j)(5)(F). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], (5), redesignated subpar. (E) as (F) and substituted “subparagraph (E),” for “subparagraph (D),” in cl. (i). Former subpar. (F) redesignated (G).
+    Subsec. (j)(5)(F). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), (5), redesignated subpar. (E) as (F) and substituted “subparagraph (E),” for “subparagraph (D),” in cl. (i). Former subpar. (F) redesignated (G).
 
-    [Pub. L. 108–293, § 701(b)(7)][/us/pl/108/293/s701/b/7], inserted “non-tank vessel,” after “vessel,” and substituted “vessel, non-tank vessel, or” for “vessel or”.
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(7), inserted “non-tank vessel,” after “vessel,” and substituted “vessel, non-tank vessel, or” for “vessel or”.
 
-    Subsec. (j)(5)(G). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
+    Subsec. (j)(5)(G). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
 
-    [Pub. L. 108–293, § 701(b)(8)][/us/pl/108/293/s701/b/8], inserted “nontank vessel,” after “vessel,”.
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(8), inserted “nontank vessel,” after “vessel,”.
 
-    Subsec. (j)(5)(H). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+    Subsec. (j)(5)(H). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-    [Pub. L. 108–293, § 701(b)(9)][/us/pl/108/293/s701/b/9], as amended by [Pub. L. 109–241, § 901(i)(2)][/us/pl/109/241/s901/i/2], inserted “and nontank vessel” after “each tank vessel”.
+    [Pub. L. 108–293][/us/pl/108/293], § 701(b)(9), as amended by [Pub. L. 109–241][/us/pl/109/241], § 901(i)(2), inserted “and nontank vessel” after “each tank vessel”.
 
-    Subsec. (j)(5)(I). [Pub. L. 108–293, § 701(d)(1)][/us/pl/108/293/s701/d/1], redesignated subpar. (H) as (I).
+    Subsec. (j)(5)(I). [Pub. L. 108–293][/us/pl/108/293], § 701(d)(1), redesignated subpar. (H) as (I).
 
-    Subsec. (j)(6). [Pub. L. 108–293, § 701(b)(10)][/us/pl/108/293/s701/b/10], substituted “The President may require—” for “Not later than 2 years after August 18, 1990, the President shall require—” in introductory provisions.
+    Subsec. (j)(6). [Pub. L. 108–293][/us/pl/108/293], § 701(b)(10), substituted “The President may require—” for “Not later than 2 years after August 18, 1990, the President shall require—” in introductory provisions.
 
-    Subsec. (j)(6)(B). [Pub. L. 108–293, § 701(b)(11)][/us/pl/108/293/s701/b/11], inserted “, and nontank vessels carrying oil of any kind as fuel for main propulsion,” after “cargo”.
+    Subsec. (j)(6)(B). [Pub. L. 108–293][/us/pl/108/293], § 701(b)(11), inserted “, and nontank vessels carrying oil of any kind as fuel for main propulsion,” after “cargo”.
 
-    Subsec. (j)(7). [Pub. L. 108–293, § 701(b)(12)][/us/pl/108/293/s701/b/12], inserted “, nontank vessel,” after “vessel”.
+    Subsec. (j)(7). [Pub. L. 108–293][/us/pl/108/293], § 701(b)(12), inserted “, nontank vessel,” after “vessel”.
 
-    1998—Subsec. (a)(2). [Pub. L. 105–383, § 411(b)][/us/pl/105/383/s411/b], substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
+    1998—Subsec. (a)(2). [Pub. L. 105–383][/us/pl/105/383], § 411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
 
-    Subsec. (a)(8). [Pub. L. 105–383, § 411(a)(1)][/us/pl/105/383/s411/a/1], substituted “to prevent, minimize, or mitigate damage” for “to minimize or mitigate damage”.
+    Subsec. (a)(8). [Pub. L. 105–383][/us/pl/105/383], § 411(a)(1), substituted “to prevent, minimize, or mitigate damage” for “to minimize or mitigate damage”.
 
-    Subsec. (a)(25). [Pub. L. 105–383, § 411(a)(2)][/us/pl/105/383/s411/a/2], added par. (25).
+    Subsec. (a)(25). [Pub. L. 105–383][/us/pl/105/383], § 411(a)(2), added par. (25).
 
-    Subsec. (c)(4)(A). [Pub. L. 105–383, § 411(a)(3)][/us/pl/105/383/s411/a/3], inserted “relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance” before period at end.
+    Subsec. (c)(4)(A). [Pub. L. 105–383][/us/pl/105/383], § 411(a)(3), inserted “relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance” before period at end.
 
     1996—Subsec. (b)(1), (2)(A), (3). [Pub. L. 104–208][/us/pl/104/208] substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
-    Subsec. (c)(3)(B). [Pub. L. 104–324, § 1144][/us/pl/104/324/s1144], inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
+    Subsec. (c)(3)(B). [Pub. L. 104–324][/us/pl/104/324], § 1144, inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
 
-    Subsec. (j)(2)(A). [Pub. L. 104–324, § 1143(1)][/us/pl/104/324/s1143/1], inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
+    Subsec. (j)(2)(A). [Pub. L. 104–324][/us/pl/104/324], § 1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
 
-    Subsec. (j)(4)(C)(v). [Pub. L. 104–324, § 1143(2)][/us/pl/104/324/s1143/2], inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
+    Subsec. (j)(4)(C)(v). [Pub. L. 104–324][/us/pl/104/324], § 1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
     1992—Subsec. (b)(12). [Pub. L. 102–388][/us/pl/102/388] added par. (12).
 
     Subsec. (i). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1990—Subsec. (a)(8). [Pub. L. 101–380, § 4201(b)(1)][/us/pl/101/380/s4201/b/1]\[(c)(1)\], inserted “containment and” after “refers to”.
+    1990—Subsec. (a)(8). [Pub. L. 101–380][/us/pl/101/380], § 4201(b)(1)\[(c)(1)\], inserted “containment and” after “refers to”.
 
-    Subsec. (a)(16). [Pub. L. 101–380, § 4201(b)(2)][/us/pl/101/380/s4201/b/2]\[(c)(2)\], substituted semicolon for period at end.
+    Subsec. (a)(16). [Pub. L. 101–380][/us/pl/101/380], § 4201(b)(2)\[(c)(2)\], substituted semicolon for period at end.
 
-    Subsec. (a)(17). [Pub. L. 101–380, § 4201(b)(3)][/us/pl/101/380/s4201/b/3]\[(c)(3)\], substituted “otherwise” for “Otherwise” and semicolon for period at end.
+    Subsec. (a)(17). [Pub. L. 101–380][/us/pl/101/380], § 4201(b)(3)\[(c)(3)\], substituted “otherwise” for “Otherwise” and semicolon for period at end.
 
-    Subsec. (a)(18) to (24). [Pub. L. 101–380, § 4201(b)(4)][/us/pl/101/380/s4201/b/4]\[(c)(4)\], added pars. (18) to (24).
+    Subsec. (a)(18) to (24). [Pub. L. 101–380][/us/pl/101/380], § 4201(b)(4)\[(c)(4)\], added pars. (18) to (24).
 
-    Subsec. (b)(4). [Pub. L. 101–380, § 4204][/us/pl/101/380/s4204], inserted “or the environment” after “the public health or welfare”.
+    Subsec. (b)(4). [Pub. L. 101–380][/us/pl/101/380], § 4204, inserted “or the environment” after “the public health or welfare”.
 
-    Subsec. (b)(5). [Pub. L. 101–380, § 4301(a)][/us/pl/101/380/s4301/a], inserted after first sentence “The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.”, substituted “fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both” for “fined not more than $10,000, or imprisoned for not more than one year, or both”, struck out “or information obtained by the exploitation of such notification” before “shall not be used”, and inserted “natural” before “person in any”.
+    Subsec. (b)(5). [Pub. L. 101–380][/us/pl/101/380], § 4301(a), inserted after first sentence “The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.”, substituted “fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both” for “fined not more than $10,000, or imprisoned for not more than one year, or both”, struck out “or information obtained by the exploitation of such notification” before “shall not be used”, and inserted “natural” before “person in any”.
 
-    Subsec. (b)(6) to (11). [Pub. L. 101–380, § 4301(b)][/us/pl/101/380/s4301/b], added pars. (6) to (11) and struck out former par. (6) which related to assessment of civil penalties, limited to $5,000 for each offense, against any owner, operator, or person in charge of any onshore or offshore facility from which oil or a hazardous substance was discharged in violation of par. (3).
+    Subsec. (b)(6) to (11). [Pub. L. 101–380][/us/pl/101/380], § 4301(b), added pars. (6) to (11) and struck out former par. (6) which related to assessment of civil penalties, limited to $5,000 for each offense, against any owner, operator, or person in charge of any onshore or offshore facility from which oil or a hazardous substance was discharged in violation of par. (3).
 
-    Subsec. (c). [Pub. L. 101–380, § 4201(a)][/us/pl/101/380/s4201/a], amended subsec. (c) generally, substituting present provisions for provisions authorizing President to arrange for removal of discharge of oil or a hazardous substance into or upon the navigable waters of the U.S., unless he determined such removal would be properly conducted by owner or operator of the vessel causing discharge, and directed President to prepare and publish a National Contingency Plan within 60 days after October 18, 1972.
+    Subsec. (c). [Pub. L. 101–380][/us/pl/101/380], § 4201(a), amended subsec. (c) generally, substituting present provisions for provisions authorizing President to arrange for removal of discharge of oil or a hazardous substance into or upon the navigable waters of the U.S., unless he determined such removal would be properly conducted by owner or operator of the vessel causing discharge, and directed President to prepare and publish a National Contingency Plan within 60 days after October 18, 1972.
 
-    Subsec. (d). [Pub. L. 101–380, § 4201(b)][/us/pl/101/380/s4201/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) of this section in the removal of oil or hazardous substance.”
+    Subsec. (d). [Pub. L. 101–380][/us/pl/101/380], § 4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) of this section in the removal of oil or hazardous substance.”
 
-    Subsec. (e). [Pub. L. 101–380, § 4306][/us/pl/101/380/s4306], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
+    Subsec. (e). [Pub. L. 101–380][/us/pl/101/380], § 4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
 
-    Subsec. (i). [Pub. L. 101–380, § 2002(b)(1)][/us/pl/101/380/s2002/b/1], struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
+    Subsec. (i). [Pub. L. 101–380][/us/pl/101/380], § 2002(b)(1), struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
 
     “(2) The provisions of this subsection shall not apply in any case where liability is established pursuant to the Outer Continental Shelf Lands Act, or the Deepwater Port Act of 1974.
 
     “(3) Any amount paid in accordance with a judgment of the United States Claims Court pursuant to this section shall be paid from the funds established pursuant to subsection (k) of this section.”
 
-    Subsec. (j). [Pub. L. 101–380, § 4202(a)][/us/pl/101/380/s4202/a], amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) of this section unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
+    Subsec. (j). [Pub. L. 101–380][/us/pl/101/380], § 4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) of this section unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
 
-    Subsec. (k). [Pub. L. 101–380, § 2002(b)(2)][/us/pl/101/380/s2002/b/2], struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (l) of this section.
+    Subsec. (k). [Pub. L. 101–380][/us/pl/101/380], § 2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (l) of this section.
 
-    Subsec. (l). [Pub. L. 101–380, § 2002(b)(3)][/us/pl/101/380/s2002/b/3], struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
+    Subsec. (l). [Pub. L. 101–380][/us/pl/101/380], § 2002(b)(3), struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
 
-    Subsec. (m). [Pub. L. 101–380, § 4305][/us/pl/101/380/s4305], amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction.”
+    Subsec. (m). [Pub. L. 101–380][/us/pl/101/380], § 4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction.”
 
-    Subsec. (o)(2). [Pub. L. 101–380, § 4202(c)][/us/pl/101/380/s4202/c], inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
+    Subsec. (o)(2). [Pub. L. 101–380][/us/pl/101/380], § 4202(c), inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
 
-    Subsec. (p). [Pub. L. 101–380, § 2002(b)(4)][/us/pl/101/380/s2002/b/4], struck out subsec. (p) which provided for establishment and maintenance of evidence of financial responsibility by vessels over 300 gross tons carrying oil or hazardous substances.
+    Subsec. (p). [Pub. L. 101–380][/us/pl/101/380], § 2002(b)(4), struck out subsec. (p) which provided for establishment and maintenance of evidence of financial responsibility by vessels over 300 gross tons carrying oil or hazardous substances.
 
-    Subsec. (s). [Pub. L. 101–380, § 2002(b)(5)][/us/pl/101/380/s2002/b/5], added subsec. (s).
+    Subsec. (s). [Pub. L. 101–380][/us/pl/101/380], § 2002(b)(5), added subsec. (s).
 
     1987—Subsec. (a)(5). [Pub. L. 100–4][/us/pl/100/4] substituted “the Commonwealth of the Northern Mariana Islands” for “the Canal Zone”.
 
@@ -1483,65 +1483,65 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
     Subsec. (k). [Pub. L. 96–483][/us/pl/96/483] designated existing provisions as par. (1) and added par. (2).
 
-    1978—Subsec. (a)(2). [Pub. L. 95–576, § 1(b)(1)][/us/pl/95/576/s1/b/1], excluded discharges described in cls. (A) to (C) from term “discharge”.
+    1978—Subsec. (a)(2). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(1), excluded discharges described in cls. (A) to (C) from term “discharge”.
 
-    Subsec. (a)(17). [Pub. L. 95–576, § 1(b)(2)][/us/pl/95/576/s1/b/2], added par. (17).
+    Subsec. (a)(17). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(2), added par. (17).
 
-    Subsec. (b)(2)(B). [Pub. L. 95–576, § 1(b)(3)][/us/pl/95/576/s1/b/3], substituted requirement that a study be made respecting methods, mechanisms, and procedures for creating incentives to achieve higher standard of care in management and movement of hazardous substances, including consideration of enumerated items, and a report made to Congress within 18 months after Nov. 2, 1978, for provisions concerning actual removability of any designated hazardous substance, liability during two year period commencing Oct. 18, 1972 based on toxicity, degradability, and dispersal characteristics of the substance limited to $50,000 and without limitation in cases of willful negligence or willful misconduct, liability after such two year period ranging from $500 to $5,000 based on toxicity, etc., or liability for penalty determined by number of units discharged multiplied by amount established for the unit limited to $5,000,000 in the case of a discharge from a vessel and to $500,000 in the case of a discharge from onshore or offshore facility, establishment by regulation of a unit of measurement based upon the usual trade practice for each designated hazardous substance and establishment for such unit a fixed monetary amount ranging from $100 to $1,000 based on toxicity, etc.
+    Subsec. (b)(2)(B). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(3), substituted requirement that a study be made respecting methods, mechanisms, and procedures for creating incentives to achieve higher standard of care in management and movement of hazardous substances, including consideration of enumerated items, and a report made to Congress within 18 months after Nov. 2, 1978, for provisions concerning actual removability of any designated hazardous substance, liability during two year period commencing Oct. 18, 1972 based on toxicity, degradability, and dispersal characteristics of the substance limited to $50,000 and without limitation in cases of willful negligence or willful misconduct, liability after such two year period ranging from $500 to $5,000 based on toxicity, etc., or liability for penalty determined by number of units discharged multiplied by amount established for the unit limited to $5,000,000 in the case of a discharge from a vessel and to $500,000 in the case of a discharge from onshore or offshore facility, establishment by regulation of a unit of measurement based upon the usual trade practice for each designated hazardous substance and establishment for such unit a fixed monetary amount ranging from $100 to $1,000 based on toxicity, etc.
 
-    Subsec. (b)(3). [Pub. L. 95–576, § 1(b)(4)][/us/pl/95/576/s1/b/4], substituted “such quantities as may be harmful” for “harmful quantities”.
+    Subsec. (b)(3). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(4), substituted “such quantities as may be harmful” for “harmful quantities”.
 
-    Subsec. (b)(4). [Pub. L. 95–576, § 1(b)(5)][/us/pl/95/576/s1/b/5], struck out “, to be issued as soon as possible after October 18, 1972,” after “regulation” and substituted “substances” for “substance” and “discharge of which may be harmful” for “discharge of which, at such times, locations, circumstances, and conditions, will be harmful”.
+    Subsec. (b)(4). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(5), struck out “, to be issued as soon as possible after October 18, 1972,” after “regulation” and substituted “substances” for “substance” and “discharge of which may be harmful” for “discharge of which, at such times, locations, circumstances, and conditions, will be harmful”.
 
-    Subsec. (b)(5). [Pub. L. 95–576, § 1(b)(6)][/us/pl/95/576/s1/b/6], inserted “at the time of the discharge” after “otherwise subject to the jurisdiction of the United States”.
+    Subsec. (b)(5). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(6), inserted “at the time of the discharge” after “otherwise subject to the jurisdiction of the United States”.
 
-    Subsec. (b)(6)(A) to (E). [Pub. L. 95–576, § 1(b)(7)][/us/pl/95/576/s1/b/7], designated existing provisions as subpar. (A), inserted “at the time of the discharge” after “jurisdiction of the United States”, and added subpars. (B) to (E).
+    Subsec. (b)(6)(A) to (E). [Pub. L. 95–576][/us/pl/95/576], § 1(b)(7), designated existing provisions as subpar. (A), inserted “at the time of the discharge” after “jurisdiction of the United States”, and added subpars. (B) to (E).
 
-    1977—Subsec. (a)(11). [Pub. L. 95–217, § 58(k)][/us/pl/95/217/s58/k], inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
+    1977—Subsec. (a)(11). [Pub. L. 95–217][/us/pl/95/217], § 58(k), inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
 
-    Subsec. (a)(15), (16). [Pub. L. 95–217, § 58(d)(1)][/us/pl/95/217/s58/d/1], added pars. (15) and (16).
+    Subsec. (a)(15), (16). [Pub. L. 95–217][/us/pl/95/217], § 58(d)(1), added pars. (15) and (16).
 
-    Subsec. (b)(1). [Pub. L. 95–217, § 58(a)(1)][/us/pl/95/217/s58/a/1], inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
+    Subsec. (b)(1). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(1), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
 
-    Subsec. (b)(2)(A). [Pub. L. 95–217, § 58(a)(2)][/us/pl/95/217/s58/a/2], inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
+    Subsec. (b)(2)(A). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(2), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
 
-    Subsec. (b)(2)(B)(v). [Pub. L. 95–217, § 57][/us/pl/95/217/s57], added cl. (v).
+    Subsec. (b)(2)(B)(v). [Pub. L. 95–217][/us/pl/95/217], § 57, added cl. (v).
 
-    Subsec. (b)(3). [Pub. L. 95–217, § 58(a)(3)][/us/pl/95/217/s58/a/3], (4), designated part of existing provisions preceding cl. (A) as cl. (i) and added cl. (ii), and, in cl. (A), inserted “or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone” and struck out “article IV of” before “the International Convention for the Prevention of Pollution of the Sea by Oil, 1954”.
+    Subsec. (b)(3). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(3), (4), designated part of existing provisions preceding cl. (A) as cl. (i) and added cl. (ii), and, in cl. (A), inserted “or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone” and struck out “article IV of” before “the International Convention for the Prevention of Pollution of the Sea by Oil, 1954”.
 
-    Subsec. (b)(4). [Pub. L. 95–217, § 58(a)(5)][/us/pl/95/217/s58/a/5], struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to pollute or contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
+    Subsec. (b)(4). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(5), struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to pollute or contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
 
-    Subsec. (b)(5). [Pub. L. 95–217, § 58(a)(6)][/us/pl/95/217/s58/a/6], added cls. (A), (B), and (C) between “Any such person” and “who fails to notify”.
+    Subsec. (b)(5). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(6), added cls. (A), (B), and (C) between “Any such person” and “who fails to notify”.
 
-    Subsec. (b)(6). [Pub. L. 95–217, § 58(a)(7)][/us/pl/95/217/s58/a/7], (8), substituted “Any owner, operator, or person in charge of any onshore facility, or offshore facility” for “Any owner or operator of any vessel, onshore facility, or offshore facility” in provision relating to violations of par. (3) of this subsection, and inserted provisions directing the assessment of a civil penalty of not more than $5,000 for each offense by the Secretary of the department in which the Coast Guard is operating to be assessed against any owner, operator, or person in charge of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, and any owner, operator, or person in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) who is otherwise subject to the jurisdiction of the United States.
+    Subsec. (b)(6). [Pub. L. 95–217][/us/pl/95/217], § 58(a)(7), (8), substituted “Any owner, operator, or person in charge of any onshore facility, or offshore facility” for “Any owner or operator of any vessel, onshore facility, or offshore facility” in provision relating to violations of par. (3) of this subsection, and inserted provisions directing the assessment of a civil penalty of not more than $5,000 for each offense by the Secretary of the department in which the Coast Guard is operating to be assessed against any owner, operator, or person in charge of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, and any owner, operator, or person in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) who is otherwise subject to the jurisdiction of the United States.
 
-    Subsec. (c)(1). [Pub. L. 95–217, § 58(b)][/us/pl/95/217/s58/b], (c)(1), inserted “or there is a substantial threat of such discharge,” after “Whenever any oil or a hazardous substance is discharged,” and “or in connection with activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone,”.
+    Subsec. (c)(1). [Pub. L. 95–217][/us/pl/95/217], § 58(b), (c)(1), inserted “or there is a substantial threat of such discharge,” after “Whenever any oil or a hazardous substance is discharged,” and “or in connection with activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone,”.
 
-    Subsec. (c)(2)(D). [Pub. L. 95–217, § 58(e)][/us/pl/95/217/s58/e], substituted “and imminent threats of such discharges to the appropriate State and Federal agencies;” for “to the appropriate Federal agency;”.
+    Subsec. (c)(2)(D). [Pub. L. 95–217][/us/pl/95/217], § 58(e), substituted “and imminent threats of such discharges to the appropriate State and Federal agencies;” for “to the appropriate Federal agency;”.
 
-    Subsec. (d). [Pub. L. 95–217, § 58(c)(2)][/us/pl/95/217/s58/c/2], inserted “or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof)” after “Any expense incurred under this subsection”.
+    Subsec. (d). [Pub. L. 95–217][/us/pl/95/217], § 58(c)(2), inserted “or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof)” after “Any expense incurred under this subsection”.
 
-    Subsec. (f)(1). [Pub. L. 95–217, § 58(d)(2)][/us/pl/95/217/s58/d/2], substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
+    Subsec. (f)(1). [Pub. L. 95–217][/us/pl/95/217], § 58(d)(2), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
 
-    Subsec. (f)(2), (3). [Pub. L. 95–217, § 58(d)(5)][/us/pl/95/217/s58/d/5], (6), substituted “$50,000,000” for “$8,000,000”.
+    Subsec. (f)(2), (3). [Pub. L. 95–217][/us/pl/95/217], § 58(d)(5), (6), substituted “$50,000,000” for “$8,000,000”.
 
-    Subsec. (f)(4), (5). [Pub. L. 95–217, § 58(g)][/us/pl/95/217/s58/g], added pars. (4) and (5).
+    Subsec. (f)(4), (5). [Pub. L. 95–217][/us/pl/95/217], § 58(g), added pars. (4) and (5).
 
-    Subsec. (g). [Pub. L. 95–217, § 58(d)(3)][/us/pl/95/217/s58/d/3], (f), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater” for “$100 per gross ton of such vessel or $14,000,000, whichever is the lesser” in the existing provisions and inserted provision under which, where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsec. (b) of this section, alleges that the discharge was caused solely by an act or omission of a third party, the owner or operator must pay to the United States Government the actual costs incurred under subsec. (c) of this section for removal of the oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover the costs from the third party under this subsection.
+    Subsec. (g). [Pub. L. 95–217][/us/pl/95/217], § 58(d)(3), (f), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater” for “$100 per gross ton of such vessel or $14,000,000, whichever is the lesser” in the existing provisions and inserted provision under which, where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsec. (b) of this section, alleges that the discharge was caused solely by an act or omission of a third party, the owner or operator must pay to the United States Government the actual costs incurred under subsec. (c) of this section for removal of the oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover the costs from the third party under this subsection.
 
-    Subsec. (i)(2). [Pub. L. 95–217, § 58(m)][/us/pl/95/217/s58/m], inserted reference to the Deepwater Port Act of 1974.
+    Subsec. (i)(2). [Pub. L. 95–217][/us/pl/95/217], § 58(m), inserted reference to the Deepwater Port Act of 1974.
 
-    Subsec. (j)(2). [Pub. L. 95–217, § 58(c)(3)][/us/pl/95/217/s58/c/3], inserted provision that subsec. (j)(2) shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsec. (b)(3)(ii) of this section unless the owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States.
+    Subsec. (j)(2). [Pub. L. 95–217][/us/pl/95/217], § 58(c)(3), inserted provision that subsec. (j)(2) shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsec. (b)(3)(ii) of this section unless the owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States.
 
-    Subsec. (k). [Pub. L. 95–217, § 58][/us/pl/95/217/s58](l), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
+    Subsec. (k). [Pub. L. 95–217][/us/pl/95/217], § 58(l), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
 
-    Subsec. (p)(1). [Pub. L. 95–217, § 58(d)(4)][/us/pl/95/217/s58/d/4], substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton, or $14,000,000 whichever is the lesser,”.
+    Subsec. (p)(1). [Pub. L. 95–217][/us/pl/95/217], § 58(d)(4), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton, or $14,000,000 whichever is the lesser,”.
 
-    Subsecs. (q), (r). [Pub. L. 95–217, § 58(i)][/us/pl/95/217/s58/i], added subsecs. (q) and (r).
+    Subsecs. (q), (r). [Pub. L. 95–217][/us/pl/95/217], § 58(i), added subsecs. (q) and (r).
 
-    1973—Subsec. (f). [Pub. L. 93–207, § 1(4)(A)][/us/pl/93/207/s1/4/A], (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
+    1973—Subsec. (f). [Pub. L. 93–207][/us/pl/93/207], § 1(4)(A), (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
 
-    Subsecs. (g), (i). [Pub. L. 93–207, § 1(4)(C)][/us/pl/93/207/s1/4/C], substituted “(b)(3)” for “(b)(2)” wherever appearing.
+    Subsecs. (g), (i). [Pub. L. 93–207][/us/pl/93/207], § 1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -1549,11 +1549,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–241, title IX, § 901(i)(2)][/us/pl/109/241/s901/i/2], July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided in part that the amendment made by section 901(i)(2) is effective Aug. 9, 2004.
+    [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(i)(2), July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided in part that the amendment made by section 901(i)(2) is effective Aug. 9, 2004.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -1569,13 +1569,13 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Effective Date of 1980 Amendments__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
     Amendment by [Pub. L. 96–478][/us/pl/96/478] effective Oct. 2, 1983, see [section 14(a) of Pub. L. 96–478][/us/pl/96/478/s14/a], set out as an Effective Date note under [section 1901 of this title][/us/usc/t33/s1901].
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–217, § 58(h)][/us/pl/95/217/s58/h], Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596], provided that: 
+[Pub. L. 95–217][/us/pl/95/217], § 58(h), Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596], provided that: 
 
 > “The amendments made by paragraphs (5) and (6) of subsection (d) of this section \[amending this section\] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 \[Dec. 27, 1977\].”
 
@@ -1595,11 +1595,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
  __Coast Guard Response Plan Requirements__ 
 
-[Pub. L. 113–281, title III, § 317][/us/pl/113/281/s317], Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050], provided that:
+[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 317, Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050], provided that:
 
 >     “(a)  __Vessel Response Plan Contents__  __.—__ 
 
@@ -1627,7 +1627,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States__ 
 
-[Pub. L. 112–141, div. A, title I][/us/pl/112/141], subtitle F, July 6, 2012, [126 Stat. 588][/us/stat/126/588], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], subtitle F, July 6, 2012, [126 Stat. 588][/us/stat/126/588], provided that:
 
 > “SEC. 1601. __SHORT TITLE.__ 
 
@@ -1859,7 +1859,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Rulemakings__ 
 
-[Pub. L. 111–281, title VII, § 701(a)][/us/pl/111/281/s701/a], (b), Oct. 15, 2010, [124 Stat. 2980][/us/stat/124/2980], provided that:
+[Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 701(a), (b), Oct. 15, 2010, [124 Stat. 2980][/us/stat/124/2980], provided that:
 
 >     “(a) __Status Report.—__ 
 
@@ -1889,13 +1889,13 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Implementation Date for Vessel Response Plans for Nontank Vessels__ 
 
-[Pub. L. 108–293, title VII, § 701(c)][/us/pl/108/293/s701/c], Aug. 9, 2004, [118 Stat. 1068][/us/stat/118/1068], provided that: 
+[Pub. L. 108–293, title VII][/us/pl/108/293/tVII], § 701(c), Aug. 9, 2004, [118 Stat. 1068][/us/stat/118/1068], provided that: 
 
 > “No later than one year after the date of enactment of this Act \[Aug. 9, 2004\], the owner or operator of a nontank vessel (as defined \[sic\] section 311(j)(9) \[311(a)(26)\] of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(9)][/us/usc/t33/s1321/j/9] \[1321(a)(26)\], as amended by this section) shall prepare and submit a vessel response plan for such vessel.”
 
  __Report on Oil Spill Responder Immunity__ 
 
-[Pub. L. 107–295, title IV, § 440][/us/pl/107/295/s440], Nov. 25, 2002, [116 Stat. 2130][/us/stat/116/2130], provided that:
+[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 440, Nov. 25, 2002, [116 Stat. 2130][/us/stat/116/2130], provided that:
 
 >     “(a)  __Report to Congress__  __.—__ 
 
@@ -1917,19 +1917,19 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Oil Spill Liability Under Oil Pollution Act of 1990__ 
 
-[Pub. L. 101–380, title II, § 2002(a)][/us/pl/101/380/s2002/a], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
+[Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2002(a), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
 
 > “Subsections (f), (g), (h), and (i) of section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321][/us/usc/t33/s1321]) shall not apply with respect to any incident for which liability is established under section 1002 of this Act \[[33 U.S.C. 2702][/us/usc/t33/s2702]\].”
 
  __Transfer of Moneys to Oil Spill Liability Trust Fund__ 
 
-[Pub. L. 101–380, title II, § 2002(b)(2)][/us/pl/101/380/s2002/b/2], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
+[Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2002(b)(2), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
 
 > “Subsection (k) \[of this section\] is repealed. Any amounts remaining in the revolving fund established under that subsection shall be deposited in the \[Oil Spill Liability Trust\] Fund. The Fund shall assume all liability incurred by the revolving fund established under that subsection.”
 
  __Revision of National Contingency Plan__ 
 
-[Pub. L. 101–380, title IV, § 4201(c)][/us/pl/101/380/s4201/c]\[(d)\], Aug. 18, 1990, [104 Stat. 527][/us/stat/104/527], provided that: 
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(c)\[(d)\], Aug. 18, 1990, [104 Stat. 527][/us/stat/104/527], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[[33 U.S.C. 1321(c)(2)][/us/usc/t33/s1321/c/2]\] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 \[amending this section\].”
 
@@ -1937,7 +1937,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Implementation of National Planning and Response System__ 
 
-[Pub. L. 101–380, title IV, § 4202(b)][/us/pl/101/380/s4202/b], Aug. 18, 1990, [104 Stat. 531][/us/stat/104/531], provided that:
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4202(b), Aug. 18, 1990, [104 Stat. 531][/us/stat/104/531], provided that:
 
 >     “(1)  __Area committees and contingency plans__  __.—__ 
 
@@ -1977,7 +1977,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
  __Allowable Delay in Establishing Financial Responsibility for Increase in Amounts Under 1977 Amendment__ 
 
-[Pub. L. 95–217, § 58(j)][/us/pl/95/217/s58/j], Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596], provided that: 
+[Pub. L. 95–217][/us/pl/95/217], § 58(j), Dec. 27, 1977, [91 Stat. 1596][/us/stat/91/1596], provided that: 
 
 > “No vessel subject to the increased amounts which result from the amendments made by subsections (d)(2), (d)(3), and (d)(4) of this section \[amending this section\] shall be required to establish any evidence of financial responsibility under section 311(p) of the Federal Water Pollution Control Act \[subsec. (p) of this section\] for such increased amounts before October 1, 1978.”
 
@@ -2201,55 +2201,55 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/101/380/s2002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F2
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t33/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1318
-[/us/pl/101/380/s2002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F4
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F862
-[/us/pl/93/207/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F4
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/stat/87/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F906
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1593-1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1593-1596
-[/us/pl/95/576/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
 [/us/stat/92/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2467
-[/us/pl/96/478/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs13%2Fb
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2303
-[/us/pl/96/483/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs8
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2362
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/97/164/s161/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs161%2F5
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/100/4/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs502%2Fb
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F75
-[/us/pl/101/380/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
-[/us/pl/102/388/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs349
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1554
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3992
-[/us/pl/105/383/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs411
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3432
-[/us/pl/108/293/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fa
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1067
-[/us/pl/109/241/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs608
+[/us/pl/109/241/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVI
 [/us/stat/120/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F558
-[/us/pl/112/90/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs10
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1912
-[/us/pl/112/141/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F589
-[/us/pl/113/281/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F588
@@ -2264,13 +2264,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
 [/us/pl/92/500/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs311
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F864
 [/us/pl/95/576/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F3
-[/us/pl/103/182/s690/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fa%2F21
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
 [/us/usc/t19/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1443
-[/us/pl/103/182/s690/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F6
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -2278,123 +2278,123 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901%2Fa
-[/us/pl/110/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs3%2F1
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2611
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/113/281/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F1
-[/us/pl/113/281/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F2
-[/us/pl/113/281/s313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F3
-[/us/pl/113/281/s313/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F4%2FA
-[/us/pl/113/281/s313/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs313%2F4%2FB
-[/us/pl/112/141/s1603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603%2F1
-[/us/pl/112/90/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs10%2Fb
-[/us/pl/112/90/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs10%2Fa
-[/us/pl/112/141/s1603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603%2F2
-[/us/pl/112/141/s1603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1603%2F3
-[/us/pl/109/241/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs608
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
-[/us/pl/109/241/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fi%2F1
-[/us/pl/109/241/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fi%2F2
-[/us/pl/108/293/s701/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F9
-[/us/pl/108/293/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fa
-[/us/pl/108/293/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F1
-[/us/pl/108/293/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F2
-[/us/pl/108/293/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F2
-[/us/pl/108/293/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F3
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F5
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F6
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F7
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F8
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F9
-[/us/pl/109/241/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fi%2F2
-[/us/pl/108/293/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fd%2F1
-[/us/pl/108/293/s701/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F10
-[/us/pl/108/293/s701/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F11
-[/us/pl/108/293/s701/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fb%2F12
-[/us/pl/105/383/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs411%2Fb
-[/us/pl/105/383/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs411%2Fa%2F1
-[/us/pl/105/383/s411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs411%2Fa%2F2
-[/us/pl/105/383/s411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs411%2Fa%2F3
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/324/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1144
-[/us/pl/104/324/s1143/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1143%2F1
-[/us/pl/104/324/s1143/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1143%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/102/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/101/380/s4201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb%2F1
-[/us/pl/101/380/s4201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb%2F2
-[/us/pl/101/380/s4201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb%2F3
-[/us/pl/101/380/s4201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb%2F4
-[/us/pl/101/380/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4204
-[/us/pl/101/380/s4301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4301%2Fa
-[/us/pl/101/380/s4301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4301%2Fb
-[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
-[/us/pl/101/380/s4201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb
-[/us/pl/101/380/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4306
-[/us/pl/101/380/s2002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F1
-[/us/pl/101/380/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4202%2Fa
-[/us/pl/101/380/s2002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F2
-[/us/pl/101/380/s2002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F3
-[/us/pl/101/380/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4305
-[/us/pl/101/380/s4202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4202%2Fc
-[/us/pl/101/380/s2002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F4
-[/us/pl/101/380/s2002/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F5
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
-[/us/pl/95/576/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F1
-[/us/pl/95/576/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F2
-[/us/pl/95/576/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F3
-[/us/pl/95/576/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F4
-[/us/pl/95/576/s1/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F5
-[/us/pl/95/576/s1/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F6
-[/us/pl/95/576/s1/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576%2Fs1%2Fb%2F7
-[/us/pl/95/217/s58/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fk
-[/us/pl/95/217/s58/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fd%2F1
-[/us/pl/95/217/s58/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F1
-[/us/pl/95/217/s58/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F2
-[/us/pl/95/217/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs57
-[/us/pl/95/217/s58/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F3
-[/us/pl/95/217/s58/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F5
-[/us/pl/95/217/s58/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F6
-[/us/pl/95/217/s58/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fa%2F7
-[/us/pl/95/217/s58/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fb
-[/us/pl/95/217/s58/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fe
-[/us/pl/95/217/s58/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fc%2F2
-[/us/pl/95/217/s58/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fd%2F2
-[/us/pl/95/217/s58/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fd%2F5
-[/us/pl/95/217/s58/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fg
-[/us/pl/95/217/s58/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fd%2F3
-[/us/pl/95/217/s58/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fm
-[/us/pl/95/217/s58/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fc%2F3
-[/us/pl/95/217/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58
-[/us/pl/95/217/s58/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fd%2F4
-[/us/pl/95/217/s58/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fi
-[/us/pl/93/207/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F4%2FA
-[/us/pl/93/207/s1/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207%2Fs1%2F4%2FC
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F576
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
+[/us/pl/93/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F207
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/241/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fi%2F2
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
@@ -2405,12 +2405,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/pl/96/478/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs14%2Fa
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
-[/us/pl/95/217/s58/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fh
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1596
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
@@ -2419,14 +2419,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
 [/us/usc/t42/s9615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9615
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
-[/us/pl/113/281/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs317
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3050
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s1321/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fj
 [/us/usc/t33/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fa
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F588
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
@@ -2437,35 +2437,35 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t33/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fa
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/111/281/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs701%2Fa
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2980
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/108/293/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs701%2Fc
+[/us/pl/108/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVII
 [/us/stat/118/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1068
 [/us/usc/t33/s1321/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fj%2F9
-[/us/pl/107/295/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs440
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2130
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/101/380/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fa
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t33/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2702
-[/us/pl/101/380/s2002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F2
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
-[/us/pl/101/380/s4201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fc
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F527
 [/us/usc/t33/s1321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fc%2F2
 [/us/pl/101/380/s4201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fc
 [/us/usc/t42/s9615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9615
-[/us/pl/101/380/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4202%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F531
 [/us/usc/t33/s1321/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fj%2F4
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
 [/us/pl/101/380/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4304
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
-[/us/pl/95/217/s58/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs58%2Fj
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1596
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321

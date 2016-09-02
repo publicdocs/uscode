@@ -17,11 +17,11 @@
 
     The functions of the Coastal Engineering Research Center established by [section 426–1 of this title][/us/usc/t33/s426–1], shall be conducted with the guidance and advice of a Board on Coastal Engineering Research, constituted by the Chief of Engineers in the same manner as the present Beach Erosion Board.
 
-([Pub. L. 88–172, § 2][/us/pl/88/172/s2], Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305].)
+([Pub. L. 88–172][/us/pl/88/172], § 2, Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305].)
 
  __Compensation of Board__ 
 
-[Pub. L. 91–611, title I, § 105][/us/pl/91/611/s105], Dec. 31, 1970, [84 Stat. 1819][/us/stat/84/1819], provided that: 
+[Pub. L. 91–611, title I][/us/pl/91/611/tI], § 105, Dec. 31, 1970, [84 Stat. 1819][/us/stat/84/1819], provided that: 
 
 > “The civilian members of the Board on Coastal Engineering Research authorized by the Act of November 7, 1963 ([33 U.S.C. 426–2][/us/usc/t33/s426–2]) may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of attendance at Board meetings, not to exceed thirty days per year, in addition to the traveling and other necessary expenses connected with their duties on the Board in accordance with the provisions of [5 U.S.C. 5703(b)][/us/usc/t5/s5703/b], (d), and 5707.”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
-[/us/pl/88/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs2
+[/us/pl/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172
 [/us/stat/77/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F305
-[/us/pl/91/611/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs105
+[/us/pl/91/611/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtI
 [/us/stat/84/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1819
 [/us/usc/t33/s426–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%932
 [/us/usc/t5/s5703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703%2Fb

@@ -35,7 +35,7 @@
 
         Any vessel, except a public vessel engaged in noncommercial activities, used in a violation of this chapter or of any rule or regulation issued pursuant to this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation, a consenting party or privy to such violation.
 
-([Pub. L. 93–627, § 15][/us/pl/93/627/s15], Jan. 3, 1975, [88 Stat. 2140][/us/stat/88/2140]; [Pub. L. 101–380, title IV, § 4302(m)][/us/pl/101/380/s4302/m], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
+([Pub. L. 93–627][/us/pl/93/627], § 15, Jan. 3, 1975, [88 Stat. 2140][/us/stat/88/2140]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(m), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/93/627/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627%2Fs15
+[/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2140
-[/us/pl/101/380/s4302/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fm
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

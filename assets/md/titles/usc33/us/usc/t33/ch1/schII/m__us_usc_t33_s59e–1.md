@@ -17,7 +17,7 @@
 
     Bayou Lafourche, in the State of Louisiana, between Canal Boulevard, city of Thibodaux, parish of Lafourche and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is hereby declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.).
 
-([Pub. L. 99–307, § 5][/us/pl/99/307/s5], May 19, 1986, [100 Stat. 447][/us/stat/100/447].)
+([Pub. L. 99–307][/us/pl/99/307], § 5, May 19, 1986, [100 Stat. 447][/us/stat/100/447].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
-[/us/pl/99/307/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs5
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F447
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847

@@ -47,19 +47,19 @@
 
         (2) Clearance refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
-([Pub. L. 92–340, § 13][/us/pl/92/340/s13], as added [Pub. L. 95–474, § 2][/us/pl/95/474/s2], Oct. 17, 1978, [92 Stat. 1478][/us/stat/92/1478]; amended [Pub. L. 101–380, title IV, § 4302(j)][/us/pl/101/380/s4302/j], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 104–324, title III, § 312(b)][/us/pl/104/324/s312/b], Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920].)
+([Pub. L. 92–340][/us/pl/92/340], § 13, as added [Pub. L. 95–474][/us/pl/95/474], § 2, Oct. 17, 1978, [92 Stat. 1478][/us/stat/92/1478]; amended [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(j), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 312(b), Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920].)
 
  __Codification__ 
 
-    In subsec. (f)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (f)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
     1996—Subsec. (f). [Pub. L. 104–324][/us/pl/104/324] amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by [section 91 of title 46][/us/usc/t46/s91], Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 
-    1990—Subsec. (b)(1). [Pub. L. 101–380, § 4302(j)(1)][/us/pl/101/380/s4302/j/1], substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
+    1990—Subsec. (b)(1). [Pub. L. 101–380][/us/pl/101/380], § 4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
 
-    Subsec. (b)(2). [Pub. L. 101–380, § 4302(j)(2)][/us/pl/101/380/s4302/j/2], which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
+    Subsec. (b)(2). [Pub. L. 101–380][/us/pl/101/380], § 4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -74,21 +74,21 @@
 
 [/us/usc/t33/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1228
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/92/340/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs13
-[/us/pl/95/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474%2Fs2
+[/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
+[/us/pl/95/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F474
 [/us/stat/92/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1478
-[/us/pl/101/380/s4302/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fj
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
-[/us/pl/104/324/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs312%2Fb
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3920
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs91
-[/us/pl/101/380/s4302/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fj%2F1
-[/us/pl/101/380/s4302/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fj%2F2
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

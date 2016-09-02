@@ -33,7 +33,7 @@
 
     (c) __Omitted__ 
 
-([Pub. L. 101–640, title III, § 318][/us/pl/101/640/s318], Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641].)
+([Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 318, Nov. 28, 1990, [104 Stat. 4641][/us/stat/104/4641].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/640/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4641
 [/us/pl/101/640/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318
 [/us/pl/101/640/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs318

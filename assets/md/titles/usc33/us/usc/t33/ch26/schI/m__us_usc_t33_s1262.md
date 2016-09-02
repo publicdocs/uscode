@@ -27,7 +27,7 @@
 
     (c) There are authorized to be appropriated $25,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, $7,000,000 for the fiscal year ending September 30, 1980, $7,000,000 for the fiscal year ending September 30, 1981, $7,000,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $7,000,000 per fiscal year for each of the fiscal years 1986 through 1990, to carry out sections 1259 through 1262 of this title.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 112, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 832][/us/stat/86/832]; amended [Pub. L. 93–592, § 4][/us/pl/93/592/s4], Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 95–217, § 4(d)][/us/pl/95/217/s4/d], Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566]; [Pub. L. 96–483, § 1(c)][/us/pl/96/483/s1/c], Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I, § 101(c)][/us/pl/100/4/s101/c], Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9]; [Pub. L. 105–244, title I, § 102(a)(11)][/us/pl/105/244/s102/a/11], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 112, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 832][/us/stat/86/832]; amended [Pub. L. 93–592][/us/pl/93/592], § 4, Jan. 2, 1975, [88 Stat. 1925][/us/stat/88/1925]; [Pub. L. 95–217][/us/pl/95/217], § 4(d), Dec. 27, 1977, [91 Stat. 1566][/us/stat/91/1566]; [Pub. L. 96–483][/us/pl/96/483], § 1(c), Oct. 21, 1980, [94 Stat. 2360][/us/stat/94/2360]; [Pub. L. 100–4, title I][/us/pl/100/4/tI], § 101(c), Feb. 4, 1987, [101 Stat. 9][/us/stat/101/9]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(11), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
 
  __Amendments__ 
 
@@ -54,17 +54,17 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F832
-[/us/pl/93/592/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592%2Fs4
+[/us/pl/93/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F592
 [/us/stat/88/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1925
-[/us/pl/95/217/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217%2Fs4%2Fd
+[/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1566
-[/us/pl/96/483/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483%2Fs1%2Fc
+[/us/pl/96/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F483
 [/us/stat/94/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2360
-[/us/pl/100/4/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs101%2Fc
+[/us/pl/100/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtI
 [/us/stat/101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F9
-[/us/pl/105/244/s102/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F11
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4

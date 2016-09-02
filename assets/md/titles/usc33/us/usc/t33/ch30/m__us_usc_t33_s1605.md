@@ -31,7 +31,7 @@
 
         A certification authorized by this section may be issued for a class of vessels.
 
-([Pub. L. 95–75, § 6][/us/pl/95/75/s6], July 27, 1977, [91 Stat. 309][/us/stat/91/309]; [Pub. L. 96–591, § 6(2)][/us/pl/96/591/s6/2], Dec. 24, 1980, [94 Stat. 3434][/us/stat/94/3434].)
+([Pub. L. 95–75][/us/pl/95/75], § 6, July 27, 1977, [91 Stat. 309][/us/stat/91/309]; [Pub. L. 96–591][/us/pl/96/591], § 6(2), Dec. 24, 1980, [94 Stat. 3434][/us/stat/94/3434].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/95/75/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75%2Fs6
+[/us/pl/95/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75
 [/us/stat/91/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F309
-[/us/pl/96/591/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591%2Fs6%2F2
+[/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/stat/94/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3434
 [/us/pl/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F591
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

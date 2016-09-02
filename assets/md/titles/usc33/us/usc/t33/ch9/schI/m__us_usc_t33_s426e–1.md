@@ -31,7 +31,7 @@
 
         The Secretary shall apply the policy under subsection (a) to each shore protection and beach renourishment project (including shore protection and beach renourishment projects constructed before November 8, 2007).
 
-([Pub. L. 110–114, title II, § 2018][/us/pl/110/114/s2018], Nov. 8, 2007, [121 Stat. 1077][/us/stat/121/1077].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2018, Nov. 8, 2007, [121 Stat. 1077][/us/stat/121/1077].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t33/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426
-[/us/pl/110/114/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2018
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1077
 [/us/act/1930-07-03/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch847
 [/us/stat/46/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F918

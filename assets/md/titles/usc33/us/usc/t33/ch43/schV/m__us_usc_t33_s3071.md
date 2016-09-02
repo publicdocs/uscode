@@ -55,7 +55,7 @@
 
         The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee.
 
-([Pub. L. 107–372, title II, § 261][/us/pl/107/372/s261], Dec. 19, 2002, [116 Stat. 3091][/us/stat/116/3091].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 261, Dec. 19, 2002, [116 Stat. 3091][/us/stat/116/3091].)
 
  __Prior Provisions__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs261
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3091
 [/us/usc/t33/s857a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857a
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

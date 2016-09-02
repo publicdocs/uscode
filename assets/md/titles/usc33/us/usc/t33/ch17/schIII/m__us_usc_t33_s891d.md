@@ -69,11 +69,11 @@
 
         Notwithstanding any other law, the Secretary may not require a contractor for the construction, alteration, repair or maintenance of a NOAA vessel to provide a bid bond, payment bond, performance bond, completion bond, or other surety instrument in an amount greater than 20 percent of the value of the base contract quantity (excluding options) unless the Secretary determines that requiring an instrument in that amount will not prevent a responsible bidder or offeror from competing for the award of the contract.
 
-([Pub. L. 102–567, title VI, § 606][/us/pl/102/567/s606], Oct. 29, 1992, [106 Stat. 4301][/us/stat/106/4301].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 606, Oct. 29, 1992, [106 Stat. 4301][/us/stat/106/4301].)
 
  __Codification__ 
 
-    In subsec. (a)(1), “subsections (a) and (b) of [section 6301 of title 41][/us/usc/t41/s6301]” substituted for “section 3732 of the Revised Statutes of the United States ([41 U.S.C. 11][/us/usc/t41/s11])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “subsections (a) and (b) of [section 6301 of title 41][/us/usc/t41/s6301]” substituted for “section 3732 of the Revised Statutes of the United States ([41 U.S.C. 11][/us/usc/t41/s11])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -84,11 +84,11 @@
 
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/usc/t41/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6301
-[/us/pl/102/567/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs606
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4301
 [/us/usc/t41/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6301
 [/us/usc/t41/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

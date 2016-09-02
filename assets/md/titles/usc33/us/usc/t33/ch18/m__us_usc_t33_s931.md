@@ -53,7 +53,7 @@
 
         A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying, or terminating benefits to an injured employee, or his dependents pursuant to [section 909 of this title][/us/usc/t33/s909] if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
 
-([Mar. 4, 1927, ch. 509, § 31][/us/act/1927-03-04/ch509/s31], [44 Stat. 1439][/us/stat/44/1439]; [Pub. L. 98–426, § 19][/us/pl/98/426/s19], Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 31, [44 Stat. 1439][/us/stat/44/1439]; [Pub. L. 98–426][/us/pl/98/426], § 19, Sept. 28, 1984, [98 Stat. 1650][/us/stat/98/1650].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 [/us/usc/t33/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs907
 [/us/usc/t33/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs928
 [/us/usc/t33/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs909
-[/us/act/1927-03-04/ch509/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs31
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1439
-[/us/pl/98/426/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs19
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1650
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

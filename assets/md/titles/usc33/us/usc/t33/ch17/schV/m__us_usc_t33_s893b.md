@@ -23,7 +23,7 @@
 
         In order to carry out the participation described in subsection (a), the Administrator of the National Oceanic and Atmospheric Administration shall build on the historic role of the National Oceanic and Atmospheric Administration in stimulating excellence in the advancement of ocean and atmospheric science and engineering disciplines and in providing opportunities and incentives for the pursuit of academic studies in science, technology, engineering, and mathematics.
 
-([Pub. L. 110–69, title IV, § 4003][/us/pl/110/69/s4003], Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600].)
+([Pub. L. 110–69, title IV][/us/pl/110/69/tIV], § 4003, Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs4003
+[/us/pl/110/69/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIV
 [/us/stat/121/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F600
 
 

@@ -25,7 +25,7 @@
 
     (4) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
-([Pub. L. 113–121, title V, § 5027][/us/pl/113/121/s5027], June 10, 2014, [128 Stat. 1335][/us/stat/128/1335].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5027, June 10, 2014, [128 Stat. 1335][/us/stat/128/1335].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t33/s3905/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905%2F7
-[/us/pl/113/121/s5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5027
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1335
 
 

@@ -17,7 +17,7 @@
 
     The Commandant of the Coast Guard shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a comprehensive study on the construction or alteration of any bridge, drawbridge, or causeway over the navigable waters of the United States with a channel depth of 25 feet or greater that may impede or obstruct future navigation to or from port facilities and for which a permit under the Act of March 23, 1906 ([33 U.S.C. 491][/us/usc/t33/s491] et seq.), popularly known as the Bridge Act of 1906, was requested during the period beginning on January 1, 2006, and ending on August 3, 2011.
 
-([Pub. L. 111–281, title IX, § 905][/us/pl/111/281/s905], Oct. 15, 2010, [124 Stat. 3012][/us/stat/124/3012]; [Pub. L. 112–213, title VII, § 702(a)][/us/pl/112/213/s702/a], Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580].)
+([Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 905, Oct. 15, 2010, [124 Stat. 3012][/us/stat/124/3012]; [Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 702(a), Dec. 20, 2012, [126 Stat. 1580][/us/stat/126/1580].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t33/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs491
-[/us/pl/111/281/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs905
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3012
-[/us/pl/112/213/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs702%2Fa
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1580
 [/us/usc/t33/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs491
 [/us/act/1906-03-23/ch1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-23%2Fch1130

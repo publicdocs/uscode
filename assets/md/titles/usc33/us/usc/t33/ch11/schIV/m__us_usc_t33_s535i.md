@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal this subchapter is expressly reserved.
 
-([Pub. L. 92–434, § 12][/us/pl/92/434/s12], Sept. 26, 1972, [86 Stat. 733][/us/stat/86/733].)
+([Pub. L. 92–434][/us/pl/92/434], § 12, Sept. 26, 1972, [86 Stat. 733][/us/stat/86/733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/434/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434%2Fs12
+[/us/pl/92/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F434
 [/us/stat/86/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F733
 
 

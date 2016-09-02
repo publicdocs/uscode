@@ -87,7 +87,7 @@
 
             The term “feasibility study” means a study that results in a feasibility report under [section 2282 of this title][/us/usc/t33/s2282], and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 ([114 Stat. 2680–2694][/us/stat/114/2680-2694]), a general reevaluation report, and a limited reevaluation report.
 
-([Pub. L. 99–662, title I, § 105][/us/pl/99/662/s105], Nov. 17, 1986, [100 Stat. 4088][/us/stat/100/4088]; [Pub. L. 101–640, title III, § 301][/us/pl/101/640/s301], Nov. 28, 1990, [104 Stat. 4633][/us/stat/104/4633]; [Pub. L. 104–303, title II, § 203(a)][/us/pl/104/303/s203/a], Oct. 12, 1996, [110 Stat. 3677][/us/stat/110/3677]; [Pub. L. 106–541, title II, § 225][/us/pl/106/541/s225], Dec. 11, 2000, [114 Stat. 2598][/us/stat/114/2598]; [Pub. L. 110–114, title II, § 2043(a)][/us/pl/110/114/s2043/a], Nov. 8, 2007, [121 Stat. 1101][/us/stat/121/1101].)
+([Pub. L. 99–662, title I][/us/pl/99/662/tI], § 105, Nov. 17, 1986, [100 Stat. 4088][/us/stat/100/4088]; [Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 301, Nov. 28, 1990, [104 Stat. 4633][/us/stat/104/4633]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 203(a), Oct. 12, 1996, [110 Stat. 3677][/us/stat/110/3677]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 225, Dec. 11, 2000, [114 Stat. 2598][/us/stat/114/2598]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2043(a), Nov. 8, 2007, [121 Stat. 1101][/us/stat/121/1101].)
 
  __References in Text__ 
 
@@ -95,29 +95,29 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(3). [Pub. L. 110–114, § 2043(a)(1)][/us/pl/110/114/s2043/a/1], added par. (3).
+    2007—Subsec. (a)(3). [Pub. L. 110–114][/us/pl/110/114], § 2043(a)(1), added par. (3).
 
-    Subsec. (b). [Pub. L. 110–114, § 2043(a)(2)][/us/pl/110/114/s2043/a/2], struck out “authorized by this Act” before “for a water resources project”.
+    Subsec. (b). [Pub. L. 110–114][/us/pl/110/114], § 2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
 
-    Subsec. (d). [Pub. L. 110–114, § 2043(a)(3)][/us/pl/110/114/s2043/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–114][/us/pl/110/114], § 2043(a)(3), added subsec. (d).
 
     2000—Subsec. (a)(1)(E). [Pub. L. 106–541][/us/pl/106/541] substituted “The” for “Not more than ½ of the”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–303, § 203(a)(1)][/us/pl/104/303/s203/a/1], inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
+    1996—Subsec. (a)(1). [Pub. L. 104–303][/us/pl/104/303], § 203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
 
-    Subsec. (a)(2). [Pub. L. 104–303, § 203(a)(2)][/us/pl/104/303/s203/a/2], inserted heading.
+    Subsec. (a)(2). [Pub. L. 104–303][/us/pl/104/303], § 203(a)(2), inserted heading.
 
     1990—Subsec. (b). [Pub. L. 101–640][/us/pl/101/640] inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–303, title II, § 203(b)][/us/pl/104/303/s203/b], Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 203(b), Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act \[Oct. 12, 1996\] so as to conform the agreements with the amendments.”
 
  __No Requirement of Reimbursement__ 
 
-[Pub. L. 104–303, title II, § 203(c)][/us/pl/104/303/s203/c], Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 203(c), Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out above\] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
 
@@ -130,29 +130,29 @@
 
 [/us/usc/t33/s2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282
 [/us/stat/114/2680-2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2680-2694
-[/us/pl/99/662/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs105
+[/us/pl/99/662/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtI
 [/us/stat/100/4088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4088
-[/us/pl/101/640/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs301
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4633
-[/us/pl/104/303/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs203%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3677
-[/us/pl/106/541/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs225
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2598
-[/us/pl/110/114/s2043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1101
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/stat/114/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2572
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
-[/us/pl/110/114/s2043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fa%2F1
-[/us/pl/110/114/s2043/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fa%2F2
-[/us/pl/110/114/s2043/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fa%2F3
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
-[/us/pl/104/303/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs203%2Fa%2F1
-[/us/pl/104/303/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs203%2Fa%2F2
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
-[/us/pl/104/303/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs203%2Fb
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3678
-[/us/pl/104/303/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs203%2Fc
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3678
 
 

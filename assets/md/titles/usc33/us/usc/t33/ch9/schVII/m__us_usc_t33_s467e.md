@@ -27,11 +27,11 @@
 
         ICODS shall encourage the establishment and maintenance of effective Federal programs, policies, and guidelines intended to enhance dam safety for the protection of human life and property through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.
 
-([Pub. L. 92–367, § 7][/us/pl/92/367/s7], as added [Pub. L. 104–303, title II, § 215(c)(8)][/us/pl/104/303/s215/c/8], Oct. 12, 1996, [110 Stat. 3687][/us/stat/110/3687]; amended [Pub. L. 107–310, § 2][/us/pl/107/310/s2], Dec. 2, 2002, [116 Stat. 2450][/us/stat/116/2450]; [Pub. L. 113–121, title III, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
+([Pub. L. 92–367][/us/pl/92/367], § 7, as added [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 215(c)(8), Oct. 12, 1996, [110 Stat. 3687][/us/stat/110/3687]; amended [Pub. L. 107–310][/us/pl/107/310], § 2, Dec. 2, 2002, [116 Stat. 2450][/us/stat/116/2450]; [Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3001(a)(1), June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
 
  __Prior Provisions__ 
 
-    A prior section 467e, [Pub. L. 92–367, § 6][/us/pl/92/367/s6], Aug. 8, 1972, [86 Stat. 507][/us/stat/86/507], directed that existing liabilities and obligations be unaffected, prior to repeal by [Pub. L. 104–303, title II, § 215(c)(2)][/us/pl/104/303/s215/c/2], Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685].
+    A prior section 467e, [Pub. L. 92–367][/us/pl/92/367], § 6, Aug. 8, 1972, [86 Stat. 507][/us/stat/86/507], directed that existing liabilities and obligations be unaffected, prior to repeal by [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 215(c)(2), Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685].
 
     A prior [section 7 of Pub. L. 92–367][/us/pl/92/367/s7] was classified to [section 467f of this title][/us/usc/t33/s467f] prior to repeal by [Pub. L. 104–303][/us/pl/104/303].
 
@@ -58,16 +58,16 @@
 ----------
 ----------
 
-[/us/pl/92/367/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs7
-[/us/pl/104/303/s215/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F8
+[/us/pl/92/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3687
-[/us/pl/107/310/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs2
+[/us/pl/107/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310
 [/us/stat/116/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2450
-[/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1282
-[/us/pl/92/367/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs6
+[/us/pl/92/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367
 [/us/stat/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F507
-[/us/pl/104/303/s215/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F2
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3685
 [/us/pl/92/367/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs7
 [/us/usc/t33/s467f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467f

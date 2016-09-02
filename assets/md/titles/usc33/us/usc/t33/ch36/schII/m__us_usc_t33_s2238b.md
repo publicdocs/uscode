@@ -69,7 +69,7 @@
 
             The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.
 
-([Pub. L. 113–121, title II, § 2101][/us/pl/113/121/s2101], June 10, 2014, [128 Stat. 1272][/us/stat/128/1272].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2101, June 10, 2014, [128 Stat. 1272][/us/stat/128/1272].)
 
  __Codification__ 
 
@@ -90,7 +90,7 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t26/s9505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9505%2Fc
 [/us/usc/t26/s9505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9505%2Fc
-[/us/pl/113/121/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2101
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1272
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

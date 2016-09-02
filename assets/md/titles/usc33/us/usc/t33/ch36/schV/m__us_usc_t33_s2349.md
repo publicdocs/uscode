@@ -21,13 +21,13 @@
 
     (2) commenced within a 2-year period beginning on the date of a declaration described in this section.
 
-([Pub. L. 113–121, title I, § 1005(b)][/us/pl/113/121/s1005/b], June 10, 2014, [128 Stat. 1212][/us/stat/128/1212].)
+([Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1005(b), June 10, 2014, [128 Stat. 1212][/us/stat/128/1212].)
 
  __References in Text__ 
 
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
-    This section, referred to in par. (1), means [section 1005 of title I of Pub. L. 113–121][/us/pl/113/121/s1005], which amended this section and [section 2348 of this title][/us/usc/t33/s2348].
+    This section, referred to in par. (1), means [section 1005 of title I of Pub. L. 113–121][/us/pl/113/121/tI/s1005], which amended this section and [section 2348 of this title][/us/usc/t33/s2348].
 
  __Codification__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/113/121/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1005%2Fb
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1212
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/113/121/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1005
+[/us/pl/113/121/tI/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI%2Fs1005
 [/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

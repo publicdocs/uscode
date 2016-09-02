@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 86–451, title I, § 301][/us/pl/86/451/s301], May 13, 1960, [74 Stat. 94][/us/stat/74/94], which prescribed the rate of extra compensation for recorders, instrument observers and other Federal employees while making oceanographic observations or tending seismographs, was from an appropriation act. See [section 873 of this title][/us/usc/t33/s873], which authorizes Secretary of Commerce to establish rates of compensation for such personnel.
+    Section, [Pub. L. 86–451, title I][/us/pl/86/451/tI], § 301, May 13, 1960, [74 Stat. 94][/us/stat/74/94], which prescribed the rate of extra compensation for recorders, instrument observers and other Federal employees while making oceanographic observations or tending seismographs, was from an appropriation act. See [section 873 of this title][/us/usc/t33/s873], which authorizes Secretary of Commerce to establish rates of compensation for such personnel.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/451/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451%2Fs301
+[/us/pl/86/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451%2FtI
 [/us/stat/74/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F94
 [/us/usc/t33/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs873
 

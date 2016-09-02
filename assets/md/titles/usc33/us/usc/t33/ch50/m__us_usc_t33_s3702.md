@@ -29,7 +29,7 @@
 
         The term “Subcommittee” means the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council.
 
-([Pub. L. 111–11, title XII, § 12403][/us/pl/111/11/s12403], Mar. 30, 2009, [123 Stat. 1437][/us/stat/123/1437].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12403, Mar. 30, 2009, [123 Stat. 1437][/us/stat/123/1437].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12403
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1437
 
 

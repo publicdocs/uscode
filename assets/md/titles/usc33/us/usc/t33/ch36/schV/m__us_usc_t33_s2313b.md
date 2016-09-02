@@ -23,7 +23,7 @@
 
         With respect to contracts for research and development, the Secretary may include requirements that have potential commercial application and may use such potential application as an evaluation factor where appropriate.
 
-([Pub. L. 104–303, title II, § 229][/us/pl/104/303/s229], Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 229, Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/303/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs229
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3703
 [/us/pl/104/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

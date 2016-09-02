@@ -17,7 +17,7 @@
 
     The prohibitions and provisions for review and approval concerning wharves and piers in waters of the United States as set forth in sections 403 and 565 of this title shall not apply to any body of water located entirely within one State which is, or could be, considered to be a navigable body of water of the United States solely on the basis of historical use in interstate commerce.
 
-([Pub. L. 94–587, § 154][/us/pl/94/587/s154], Oct. 22, 1976, [90 Stat. 2932][/us/stat/90/2932].)
+([Pub. L. 94–587][/us/pl/94/587], § 154, Oct. 22, 1976, [90 Stat. 2932][/us/stat/90/2932].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/587/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs154
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2932
 
 

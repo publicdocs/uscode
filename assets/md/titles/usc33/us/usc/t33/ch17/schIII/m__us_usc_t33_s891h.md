@@ -29,7 +29,7 @@
 
         All National Oceanic and Atmospheric Administration fleet modernization shipbuilding, and conversion shall be conducted in accordance with this subchapter.
 
-([Pub. L. 102–567, title VI, § 610][/us/pl/102/567/s610], Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303].)
+([Pub. L. 102–567, title VI][/us/pl/102/567/tVI], § 610, Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs610
+[/us/pl/102/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVI
 [/us/stat/106/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4303
 
 

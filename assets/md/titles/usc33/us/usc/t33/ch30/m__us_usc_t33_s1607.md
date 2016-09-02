@@ -17,7 +17,7 @@
 
     The Secretary of the department in which the Coast Guard is operating is authorized to promulgate such reasonable rules and regulations as are necessary to implement the provisions of this chapter and the International Regulations proclaimed hereunder.
 
-([Pub. L. 95–75, § 8][/us/pl/95/75/s8], July 27, 1977, [91 Stat. 310][/us/stat/91/310].)
+([Pub. L. 95–75][/us/pl/95/75], § 8, July 27, 1977, [91 Stat. 310][/us/stat/91/310].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/75/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75%2Fs8
+[/us/pl/95/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F75
 [/us/stat/91/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F310
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

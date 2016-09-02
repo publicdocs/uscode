@@ -17,7 +17,7 @@
 
     The deputy commissioner may require the appointment by a court of competent jurisdiction, for any person who is mentally incompetent or a minor, of a guardian or other representative to receive compensation payable to such person under this chapter and to exercise the powers granted to or to perform the duties required of such person under this chapter.
 
-([Mar. 4, 1927, ch. 509, § 11][/us/act/1927-03-04/ch509/s11], [44 Stat. 1431][/us/stat/44/1431].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 11, [44 Stat. 1431][/us/stat/44/1431].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs11
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1431
 
 

@@ -55,7 +55,7 @@
 
         Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
-([Pub. L. 105–384, title III, § 303][/us/pl/105/384/s303], Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454]; [Pub. L. 107–372, title I, § 103][/us/pl/107/372/s103], Dec. 19, 2002, [116 Stat. 3079][/us/stat/116/3079]; [Pub. L. 110–386, § 3][/us/pl/110/386/s3], Oct. 10, 2008, [122 Stat. 4107][/us/stat/122/4107].)
+([Pub. L. 105–384, title III][/us/pl/105/384/tIII], § 303, Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454]; [Pub. L. 107–372, title I][/us/pl/107/372/tI], § 103, Dec. 19, 2002, [116 Stat. 3079][/us/stat/116/3079]; [Pub. L. 110–386][/us/pl/110/386], § 3, Oct. 10, 2008, [122 Stat. 4107][/us/stat/122/4107].)
 
  __References in Text__ 
 
@@ -65,19 +65,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–386, § 3(1)][/us/pl/110/386/s3/1], substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–386][/us/pl/110/386], § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–386, § 3(2)][/us/pl/110/386/s3/2], substituted “data and provide hydrographic services;” for “data;”.
+    Subsec. (a)(1). [Pub. L. 110–386][/us/pl/110/386], § 3(2), substituted “data and provide hydrographic services;” for “data;”.
 
-    Subsec. (b). [Pub. L. 110–386, § 3(3)][/us/pl/110/386/s3/3], added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
+    Subsec. (b). [Pub. L. 110–386][/us/pl/110/386], § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
 
-    2002—Subsec. (b)(4). [Pub. L. 107–372, § 103(a)][/us/pl/107/372/s103/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
+    2002—Subsec. (b)(4). [Pub. L. 107–372][/us/pl/107/372], § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
 
-    Subsec. (c). [Pub. L. 107–372, § 103(b)][/us/pl/107/372/s103/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–372][/us/pl/107/372], § 103(b), added subsec. (c).
 
  __Hydrographic Survey__ 
 
-[Pub. L. 106–541, title V, § 554][/us/pl/106/541/s554], Dec. 11, 2000, [114 Stat. 2679][/us/stat/114/2679], provided that: 
+[Pub. L. 106–541, title V][/us/pl/106/541/tV], § 554, Dec. 11, 2000, [114 Stat. 2679][/us/stat/114/2679], provided that: 
 
 > “The Secretary \[of the Army\] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
 
@@ -93,11 +93,11 @@
 ----------
 
 [/us/usc/t6/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs741
-[/us/pl/105/384/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs303
+[/us/pl/105/384/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtIII
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
-[/us/pl/107/372/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs103
+[/us/pl/107/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtI
 [/us/stat/116/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3079
-[/us/pl/110/386/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs3
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
 [/us/stat/122/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4107
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
@@ -108,12 +108,12 @@
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
-[/us/pl/110/386/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs3%2F1
-[/us/pl/110/386/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs3%2F2
-[/us/pl/110/386/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386%2Fs3%2F3
-[/us/pl/107/372/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs103%2Fa
-[/us/pl/107/372/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs103%2Fb
-[/us/pl/106/541/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs554
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
+[/us/pl/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F386
+[/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
+[/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
+[/us/pl/106/541/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtV
 [/us/stat/114/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2679
 
 

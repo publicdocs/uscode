@@ -109,7 +109,7 @@
 
             (D) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_, 19\_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
 
-([Pub. L. 92–532, title I, § 104][/us/pl/92/532/s104], Oct. 23, 1972, [86 Stat. 1056][/us/stat/86/1056]; [Pub. L. 97–424, title IV, § 424(a)][/us/pl/97/424/s424/a], Jan. 6, 1983, [96 Stat. 2165][/us/stat/96/2165]; [Pub. L. 100–17, title I, § 133(c)(1)][/us/pl/100/17/s133/c/1], Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 102–580, title V, § 507][/us/pl/102/580/s507], Oct. 31, 1992, [106 Stat. 4869][/us/stat/106/4869].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 104, Oct. 23, 1972, [86 Stat. 1056][/us/stat/86/1056]; [Pub. L. 97–424, title IV][/us/pl/97/424/tIV], § 424(a), Jan. 6, 1983, [96 Stat. 2165][/us/stat/96/2165]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(c)(1), Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172]; [Pub. L. 102–580, title V][/us/pl/102/580/tV], § 507, Oct. 31, 1992, [106 Stat. 4869][/us/stat/106/4869].)
 
  __References in Text__ 
 
@@ -117,11 +117,11 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–580, § 507(b)][/us/pl/102/580/s507/b], inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
+    1992—Subsec. (a). [Pub. L. 102–580][/us/pl/102/580], § 507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
 
-    [Pub. L. 102–580, § 507(a)][/us/pl/102/580/s507/a], amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
+    [Pub. L. 102–580][/us/pl/102/580], § 507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
 
-    Subsec. (d). [Pub. L. 102–580, § 507(c)][/us/pl/102/580/s507/c], inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
+    Subsec. (d). [Pub. L. 102–580][/us/pl/102/580], § 507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
 
     1987—Subsec. (i)(4)(D). [Pub. L. 100–17][/us/pl/100/17] inserted “to \_\_\_\_\_” after “grant a permit”.
 
@@ -143,20 +143,20 @@
 ----------
 
 [/us/usc/t33/s1412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1412%2Fc
-[/us/pl/92/532/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs104
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
 [/us/stat/86/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1056
-[/us/pl/97/424/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs424%2Fa
+[/us/pl/97/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtIV
 [/us/stat/96/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2165
-[/us/pl/100/17/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fc%2F1
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F172
-[/us/pl/102/580/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs507
+[/us/pl/102/580/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtV
 [/us/stat/106/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4869
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
-[/us/pl/102/580/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs507%2Fb
-[/us/pl/102/580/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs507%2Fa
-[/us/pl/102/580/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs507%2Fc
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

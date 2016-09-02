@@ -17,7 +17,7 @@
 
     For purposes of promotion, there shall be counted in addition to active commissioned service, service as deck officer or junior engineer.
 
-([Pub. L. 107–372, title II, § 232][/us/pl/107/372/s232], Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 232, Dec. 19, 2002, [116 Stat. 3088][/us/stat/116/3088].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs232
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3088
 [/us/usc/t33/s854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a
 

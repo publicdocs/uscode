@@ -17,7 +17,7 @@
 
     The jurisdiction of the Mississippi River Commission is extended, for the purposes of levee protection and bank protection, to the tributaries and outlets of the Mississippi River between Cairo, Illinois, and the Head of the Passes, in so far as these tributaries and outlets are affected by the flood waters of the Mississippi River.
 
-([Sept. 22, 1922, ch. 427, § 13][/us/act/1922-09-22/ch427/s13], [42 Stat. 1047][/us/stat/42/1047].)
+([Sept. 22, 1922, ch. 427][/us/act/1922-09-22/ch427], § 13, [42 Stat. 1047][/us/stat/42/1047].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-22/ch427/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427%2Fs13
+[/us/act/1922-09-22/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch427
 [/us/stat/42/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1047
 
 

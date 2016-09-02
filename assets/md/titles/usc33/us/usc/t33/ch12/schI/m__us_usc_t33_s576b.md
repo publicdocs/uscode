@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary may lease space available in buildings for which funding for construction or purchase was provided from the revolving fund established by the 1st section of the Civil Functions Appropriations Act, 1954 ([33 U.S.C. 576][/us/usc/t33/s576]; [67 Stat. 199][/us/stat/67/199]), under such terms and conditions as are acceptable to the Secretary. The proceeds from such leases shall be credited to the revolving fund for the purposes set forth in such Act.
 
-([Pub. L. 104–303, title II, § 213][/us/pl/104/303/s213], Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
+([Pub. L. 104–303, title II][/us/pl/104/303/tII], § 213, Oct. 12, 1996, [110 Stat. 3684][/us/stat/110/3684].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t33/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs576
 [/us/stat/67/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F199
-[/us/pl/104/303/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs213
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3684
 [/us/act/1953-07-27/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-27%2Fch245
 [/us/stat/67/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F197

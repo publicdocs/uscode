@@ -29,7 +29,7 @@
 
     (6) establish a voluntary reporting program for commercial vessel operators and recreational boaters to report incidents of damage to vessels and disruption of navigation caused by marine debris, and observed violations of laws and regulations relating to the disposal of plastics and other marine debris.
 
-([Pub. L. 109–449, § 4][/us/pl/109/449/s4], Dec. 22, 2006, [120 Stat. 3335][/us/stat/120/3335]; [Pub. L. 112–213, title VI, § 605][/us/pl/112/213/s605], Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
+([Pub. L. 109–449][/us/pl/109/449], § 4, Dec. 22, 2006, [120 Stat. 3335][/us/stat/120/3335]; [Pub. L. 112–213, title VI][/us/pl/112/213/tVI], § 605, Dec. 20, 2012, [126 Stat. 1578][/us/stat/126/1578].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
 [/us/usc/t33/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1905
-[/us/pl/109/449/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449%2Fs4
+[/us/pl/109/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F449
 [/us/stat/120/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3335
-[/us/pl/112/213/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs605
+[/us/pl/112/213/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVI
 [/us/stat/126/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1578
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2297

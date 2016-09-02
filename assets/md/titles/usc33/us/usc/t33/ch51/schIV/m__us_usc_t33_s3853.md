@@ -17,7 +17,7 @@
 
     A vessel operated in violation of the Convention, this chapter, or any regulation prescribed under this chapter, is liable in rem for any fine imposed under title 18 or civil penalty assessed pursuant to [section 3852 of this title][/us/usc/t33/s3852], and may be proceeded against in the United States district court of any district in which the vessel may be found.
 
-([Pub. L. 111–281, title X, § 1043][/us/pl/111/281/s1043], Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031]; [Pub. L. 111–330, § 1(20)][/us/pl/111/330/s1/20], Dec. 22, 2010, [124 Stat. 3571][/us/stat/124/3571].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1043, Oct. 15, 2010, [124 Stat. 3031][/us/stat/124/3031]; [Pub. L. 111–330][/us/pl/111/330], § 1(20), Dec. 22, 2010, [124 Stat. 3571][/us/stat/124/3571].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(20) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(20) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -39,14 +39,14 @@
 ----------
 
 [/us/usc/t33/s3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3852
-[/us/pl/111/281/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1043
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3031
-[/us/pl/111/330/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F20
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3571
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

@@ -27,11 +27,11 @@
 
         The Corporation shall make necessary arrangements to assure the coordination of its activities with those of the Saint Lawrence Seaway Authority of Canada and the entity designated by the State of New York, or other licensee of the Federal Energy Regulatory Commission, authorized to construct and operate the dams and power works authorized by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
 
-([May 13, 1954, ch. 201, § 3][/us/act/1954-05-13/ch201/s3], [68 Stat. 93][/us/stat/68/93]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
+([May 13, 1954, ch. 201][/us/act/1954-05-13/ch201], § 3, [68 Stat. 93][/us/stat/68/93]; [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
 
  __Transfer of Functions__ 
 
-    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
+    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1954-05-13/ch201/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201%2Fs3
+[/us/act/1954-05-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fch201
 [/us/stat/68/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F93
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/usc/t42/s7172/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FA
 

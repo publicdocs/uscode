@@ -231,7 +231,7 @@
 
         Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 319, as added [Pub. L. 100–4, title III, § 316(a)][/us/pl/100/4/s316/a], Feb. 4, 1987, [101 Stat. 52][/us/stat/101/52]; amended [Pub. L. 105–362, title V, § 501(c)][/us/pl/105/362/s501/c], Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 107–303, title III, § 302(b)(1)][/us/pl/107/303/s302/b/1], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 319, as added [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 316(a), Feb. 4, 1987, [101 Stat. 52][/us/stat/101/52]; amended [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(c), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361].)
 
  __References in Text__ 
 
@@ -241,11 +241,11 @@
 
  __Amendments__ 
 
-    2002—Subsecs. (i)(4), (m), (n). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362, § 501(c)][/us/pl/105/362/s501/c]. See 1998 Amendment note below.
+    2002—Subsecs. (i)(4), (m), (n). [Pub. L. 107–303][/us/pl/107/303] repealed [Pub. L. 105–362][/us/pl/105/362], § 501(c). See 1998 Amendment note below.
 
-    1998—Subsec. (i)(4). [Pub. L. 105–362, § 501(c)(1)][/us/pl/105/362/s501/c/1], which directed the striking out of heading and text of par. (4), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
+    1998—Subsec. (i)(4). [Pub. L. 105–362][/us/pl/105/362], § 501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
 
-    Subsecs. (m), (n). [Pub. L. 105–362, § 501(c)(2)][/us/pl/105/362/s501/c/2], (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
+    Subsecs. (m), (n). [Pub. L. 105–362][/us/pl/105/362], § 501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by [Pub. L. 107–303][/us/pl/107/303]. See Effective Date of 2002 Amendment note below.
 
  __Change of Name__ 
 
@@ -268,21 +268,21 @@
 [/us/usc/t33/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1365
 [/us/usc/t33/s1285/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285%2Fj%2F5
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs316%2Fa
+[/us/pl/100/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtIII
 [/us/stat/101/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F52
-[/us/pl/105/362/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fc
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3283
-[/us/pl/107/303/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fb%2F1
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/pl/93/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F320
 [/us/stat/88/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F266
 [/us/usc/t43/s1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1571
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/105/362/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fc
-[/us/pl/105/362/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fc%2F1
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
-[/us/pl/105/362/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fc%2F2
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

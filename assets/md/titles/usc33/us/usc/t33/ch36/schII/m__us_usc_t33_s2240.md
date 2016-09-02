@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated for fiscal years beginning after September 30, 1986, and ending before October 1, 1992, $5,000,000.
 
-([Pub. L. 99–662, title II, § 212][/us/pl/99/662/s212], Nov. 17, 1986, [100 Stat. 4107][/us/stat/100/4107].)
+([Pub. L. 99–662, title II][/us/pl/99/662/tII], § 212, Nov. 17, 1986, [100 Stat. 4107][/us/stat/100/4107].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/662/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs212
+[/us/pl/99/662/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtII
 [/us/stat/100/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4107
 
 

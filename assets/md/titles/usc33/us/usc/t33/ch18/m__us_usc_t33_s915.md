@@ -19,7 +19,7 @@
 
     (b) No agreement by an employee to waive his right to compensation under this chapter shall be valid.
 
-([Mar. 4, 1927, ch. 509, § 15][/us/act/1927-03-04/ch509/s15], [44 Stat. 1434][/us/stat/44/1434].)
+([Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], § 15, [44 Stat. 1434][/us/stat/44/1434].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch509/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509%2Fs15
+[/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1434
 
 

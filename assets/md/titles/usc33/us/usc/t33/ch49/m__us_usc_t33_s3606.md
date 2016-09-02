@@ -45,7 +45,7 @@
 
         (8) the results of a periodic external independent programmatic audit of the System.
 
-([Pub. L. 111–11, title XII, § 12307][/us/pl/111/11/s12307], Mar. 30, 2009, [123 Stat. 1435][/us/stat/123/1435].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12307, Mar. 30, 2009, [123 Stat. 1435][/us/stat/123/1435].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s12307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12307
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1435
 
 

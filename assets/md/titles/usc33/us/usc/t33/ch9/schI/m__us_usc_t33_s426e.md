@@ -91,41 +91,41 @@
 
                 In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
 
-([Aug. 13, 1946, ch. 960, § 1][/us/act/1946-08-13/ch960/s1], [60 Stat. 1056][/us/stat/60/1056]; [July 28, 1956, ch. 768][/us/act/1956-07-28/ch768], [70 Stat. 702][/us/stat/70/702]; [Pub. L. 87–874, title I, § 103(a)(1)][/us/pl/87/874/s103/a/1]–(3), Oct. 23, 1962, [76 Stat. 1178][/us/stat/76/1178]; [Pub. L. 88–172, § 1][/us/pl/88/172/s1], Nov. 7, 1963, [77 Stat. 304][/us/stat/77/304]; [Pub. L. 91–611, title II, § 208][/us/pl/91/611/s208], Dec. 31, 1970, [84 Stat. 1829][/us/stat/84/1829]; [Pub. L. 104–303, title II, § 227(a)][/us/pl/104/303/s227/a], (b), (e)(2)(A), (B), Oct. 12, 1996, [110 Stat. 3698][/us/stat/110/3698], 3703.)
+([Aug. 13, 1946, ch. 960][/us/act/1946-08-13/ch960], § 1, [60 Stat. 1056][/us/stat/60/1056]; [July 28, 1956, ch. 768][/us/act/1956-07-28/ch768], [70 Stat. 702][/us/stat/70/702]; [Pub. L. 87–874, title I][/us/pl/87/874/tI], § 103(a)(1)–(3), Oct. 23, 1962, [76 Stat. 1178][/us/stat/76/1178]; [Pub. L. 88–172][/us/pl/88/172], § 1, Nov. 7, 1963, [77 Stat. 304][/us/stat/77/304]; [Pub. L. 91–611, title II][/us/pl/91/611/tII], § 208, Dec. 31, 1970, [84 Stat. 1829][/us/stat/84/1829]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, [110 Stat. 3698][/us/stat/110/3698], 3703.)
 
  __References in Text__ 
 
-    [Section 426h of this title][/us/usc/t33/s426h], referred to in subsec. (e)(1), was repealed by [Pub. L. 110–114, title II, § 2038(b)][/us/pl/110/114/s2038/b], Nov. 8, 2007, [121 Stat. 1100][/us/stat/121/1100].
+    [Section 426h of this title][/us/usc/t33/s426h], referred to in subsec. (e)(1), was repealed by [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2038(b), Nov. 8, 2007, [121 Stat. 1100][/us/stat/121/1100].
 
  __Codification__ 
 
-    Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to [Pub. L. 88–172, § 1][/us/pl/88/172/s1], providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See [section 426–1 of this title][/us/usc/t33/s426–1].
+    Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to [Pub. L. 88–172][/us/pl/88/172], § 1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See [section 426–1 of this title][/us/usc/t33/s426–1].
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–303, § 227(a)][/us/pl/104/303/s227/a], inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
+    1996—Subsec. (a). [Pub. L. 104–303][/us/pl/104/303], § 227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
 
-    Subsec. (b)(3). [Pub. L. 104–303, § 227(e)(2)][/us/pl/104/303/s227/e/2], substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
+    Subsec. (b)(3). [Pub. L. 104–303][/us/pl/104/303], § 227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
 
-    Subsec. (e). [Pub. L. 104–303, § 227(b)][/us/pl/104/303/s227/b], (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 104–303][/us/pl/104/303], § 227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
 
     1970—Subsec. (b). [Pub. L. 91–611][/us/pl/91/611] provided for designation of existing provisions as cls. (1) and (2) by insertion of “(1)” after “except that” and substitution of “(2)” for “and, further, that” and added cl. (3).
 
-    1962—Subsec. (b). [Pub. L. 87–874, § 103(a)(1)][/us/pl/87/874/s103/a/1], (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
+    1962—Subsec. (b). [Pub. L. 87–874][/us/pl/87/874], § 103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
 
-    Subsec. (e). [Pub. L. 87–874, § 103(a)(3)][/us/pl/87/874/s103/a/3], required approval of plans by Chief of Engineers in case of a small project under [section 426g of this title][/us/usc/t33/s426g].
+    Subsec. (e). [Pub. L. 87–874][/us/pl/87/874], § 103(a)(3), required approval of plans by Chief of Engineers in case of a small project under [section 426g of this title][/us/usc/t33/s426g].
 
     1956—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
 
  __Beach Recreation__ 
 
-[Pub. L. 106–541, title II, § 220][/us/pl/106/541/s220], Dec. 11, 2000, [114 Stat. 2596][/us/stat/114/2596], provided that: 
+[Pub. L. 106–541, title II][/us/pl/106/541/tII], § 220, Dec. 11, 2000, [114 Stat. 2596][/us/stat/114/2596], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects.”
 
  __Shore Management Program__ 
 
-[Pub. L. 106–53, title II, § 213][/us/pl/106/53/s213], Aug. 17, 1999, [113 Stat. 291][/us/stat/113/291], provided that:
+[Pub. L. 106–53, title II][/us/pl/106/53/tII], § 213, Aug. 17, 1999, [113 Stat. 291][/us/stat/113/291], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Report on Shores of the United States__ 
 
-[Pub. L. 106–53, title II, § 215(c)][/us/pl/106/53/s215/c], Aug. 17, 1999, [113 Stat. 293][/us/stat/113/293], provided that:
+[Pub. L. 106–53, title II][/us/pl/106/53/tII], § 215(c), Aug. 17, 1999, [113 Stat. 293][/us/stat/113/293], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -177,7 +177,7 @@
 
  __Report to Congress on Shoreline Protection Programs__ 
 
-[Pub. L. 101–640, title III, § 309][/us/pl/101/640/s309], Nov. 28, 1990, [104 Stat. 4638][/us/stat/104/4638], provided that: 
+[Pub. L. 101–640, title III][/us/pl/101/640/tIII], § 309, Nov. 28, 1990, [104 Stat. 4638][/us/stat/104/4638], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary shall transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project will be located has established or committed to establish a beach front management program that includes—
 
@@ -199,37 +199,37 @@
 ----------
 
 [/us/usc/t33/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426
-[/us/act/1946-08-13/ch960/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960%2Fs1
+[/us/act/1946-08-13/ch960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch960
 [/us/stat/60/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1056
 [/us/act/1956-07-28/ch768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch768
 [/us/stat/70/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F702
-[/us/pl/87/874/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs103%2Fa%2F1
+[/us/pl/87/874/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2FtI
 [/us/stat/76/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1178
-[/us/pl/88/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs1
+[/us/pl/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172
 [/us/stat/77/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F304
-[/us/pl/91/611/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs208
+[/us/pl/91/611/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtII
 [/us/stat/84/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1829
-[/us/pl/104/303/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3698
 [/us/usc/t33/s426h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426h
-[/us/pl/110/114/s2038/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2038%2Fb
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1100
-[/us/pl/88/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172%2Fs1
+[/us/pl/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F172
 [/us/usc/t33/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426%E2%80%931
-[/us/pl/104/303/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fa
-[/us/pl/104/303/s227/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fe%2F2
-[/us/pl/104/303/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Fb
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611
-[/us/pl/87/874/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs103%2Fa%2F1
-[/us/pl/87/874/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874%2Fs103%2Fa%2F3
+[/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874
+[/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874
 [/us/usc/t33/s426g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426g
-[/us/pl/106/541/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs220
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2596
-[/us/pl/106/53/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs213
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F291
-[/us/pl/106/53/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs215%2Fc
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F293
-[/us/pl/101/640/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs309
+[/us/pl/101/640/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIII
 [/us/stat/104/4638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4638
 
 

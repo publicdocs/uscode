@@ -27,7 +27,7 @@
 
         A cooperative agreement entered into under this section shall not be considered to be, or treated as being, a cooperative agreement to which chapter 63 of title 31 applies.
 
-([Pub. L. 106–541, title II, § 213][/us/pl/106/541/s213], Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593]; [Pub. L. 113–121, title I, § 1047(e)][/us/pl/113/121/s1047/e], June 10, 2014, [128 Stat. 1257][/us/stat/128/1257].)
+([Pub. L. 106–541, title II][/us/pl/106/541/tII], § 213, Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1047(e), June 10, 2014, [128 Stat. 1257][/us/stat/128/1257].)
 
  __Codification__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/106/541/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs213
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2593
-[/us/pl/113/121/s1047/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1047%2Fe
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1257
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2

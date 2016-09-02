@@ -41,7 +41,7 @@
 
         Any certification provided under this section shall set forth any effluent limitations and other limitations, and monitoring requirements necessary to assure that any applicant for a Federal license or permit will comply with any applicable effluent limitations and other limitations, under section 1311 or 1312 of this title, standard of performance under [section 1316 of this title][/us/usc/t33/s1316], or prohibition, effluent standard, or pretreatment standard under [section 1317 of this title][/us/usc/t33/s1317], and with any other appropriate requirement of State law set forth in such certification, and shall become a condition on any Federal license or permit subject to the provisions of this section.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 401, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 877][/us/stat/86/877]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 61(b), 64, Dec. 27, 1977, [91 Stat. 1598][/us/stat/91/1598], 1599.)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 401, as added [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 877][/us/stat/86/877]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 61(b), 64, Dec. 27, 1977, [91 Stat. 1598][/us/stat/91/1598], 1599.)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t33/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1316
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F877
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
 [/us/stat/91/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1598

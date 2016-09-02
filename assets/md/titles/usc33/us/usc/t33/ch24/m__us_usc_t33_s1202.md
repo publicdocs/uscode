@@ -23,7 +23,7 @@
 
     (3) “towing vessel” means any commercial vessel engaged in towing another vessel astern, alongside, or by pushing ahead.
 
-([Pub. L. 92–63, § 3][/us/pl/92/63/s3], Aug. 4, 1971, [85 Stat. 164][/us/stat/85/164].)
+([Pub. L. 92–63][/us/pl/92/63], § 3, Aug. 4, 1971, [85 Stat. 164][/us/stat/85/164].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/63/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs3
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F164
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

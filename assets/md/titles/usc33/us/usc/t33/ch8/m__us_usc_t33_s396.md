@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 4305 derived from [act Dec. 31, 1792, ch. 1, § 29][/us/act/1792-12-31/ch1/s29], [1 Stat. 298][/us/stat/1/298].
+    R.S. § 4305 derived from [act Dec. 31, 1792, ch. 1][/us/act/1792-12-31/ch1], § 29, [1 Stat. 298][/us/stat/1/298].
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1792-12-31/ch1/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-12-31%2Fch1%2Fs29
+[/us/act/1792-12-31/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-12-31%2Fch1
 [/us/stat/1/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F298
 
 

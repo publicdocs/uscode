@@ -17,7 +17,7 @@
 
     For any inland waterways project that the Secretary carries out that has an estimated total cost of $500,000,000 or more, the Secretary shall submit to the congressional committees referred to in subsection (a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of any future increases of the cost to complete the project.
 
-([Pub. L. 113–121, title II, § 2007(b)][/us/pl/113/121/s2007/b], June 10, 2014, [128 Stat. 1268][/us/stat/128/1268].)
+([Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2007(b), June 10, 2014, [128 Stat. 1268][/us/stat/128/1268].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/113/121/s2007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2007%2Fb
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1268
 [/us/pl/113/121/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2007
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2

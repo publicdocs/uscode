@@ -23,7 +23,7 @@
 
         In the case of an eligible project described in paragraph (8) or (9) of [section 3905 of this title][/us/usc/t33/s3905], the Secretary or the Administrator, as applicable, shall require the eligible entity to submit a single application for the combined group of projects.
 
-([Pub. L. 113–121, title V, § 5024][/us/pl/113/121/s5024], June 10, 2014, [128 Stat. 1333][/us/stat/128/1333].)
+([Pub. L. 113–121, title V][/us/pl/113/121/tV], § 5024, June 10, 2014, [128 Stat. 1333][/us/stat/128/1333].)
 
  __“Secretary” Defined__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t33/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905
-[/us/pl/113/121/s5024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5024
+[/us/pl/113/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtV
 [/us/stat/128/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1333
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

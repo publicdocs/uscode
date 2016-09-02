@@ -49,7 +49,7 @@
 
         The term “Outer Continental Shelf” means all submerged lands lying seaward and outside of lands beneath navigable waters (as that term is defined in [section 1301 of title 43][/us/usc/t43/s1301]), and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
 
-([Pub. L. 111–11, title XII, § 12208][/us/pl/111/11/s12208], Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
+([Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12208, Mar. 30, 2009, [123 Stat. 1426][/us/stat/123/1426].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t16/s1453/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453%2F4
 [/us/usc/t33/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3502
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/pl/111/11/s12208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12208
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1426
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331

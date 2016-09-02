@@ -17,7 +17,7 @@
 
     Any action taken under this chapter shall be taken in accordance with treaties to which the United States is a party and other international obligations of the United States.
 
-([Pub. L. 111–281, title X, § 1014][/us/pl/111/281/s1014], Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1014, Oct. 15, 2010, [124 Stat. 3025][/us/stat/124/3025].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1014
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3025
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

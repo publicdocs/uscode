@@ -51,7 +51,7 @@
 
         (2) requires an improvement described in subsection (b)(2) of this section that is subject to a permit under an applicable Federal law, and the improvement is not commenced by the date that is 5 years after the date of issuance of the permit.
 
-([Pub. L. 104–303, title V, § 556][/us/pl/104/303/s556], Oct. 12, 1996, [110 Stat. 3782][/us/stat/110/3782].)
+([Pub. L. 104–303, title V][/us/pl/104/303/tV], § 556, Oct. 12, 1996, [110 Stat. 3782][/us/stat/110/3782].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/104/303/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs556
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3782
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

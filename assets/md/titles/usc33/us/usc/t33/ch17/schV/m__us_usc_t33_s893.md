@@ -43,7 +43,7 @@
 
         (5) describe partnerships with other agencies involved in transformational research.
 
-([Pub. L. 110–69, title IV, § 4001][/us/pl/110/69/s4001], Aug. 9, 2007, [121 Stat. 599][/us/stat/121/599]; [Pub. L. 111–358, title III, § 301][/us/pl/111/358/s301], Jan. 4, 2011, [124 Stat. 3996][/us/stat/124/3996].)
+([Pub. L. 110–69, title IV][/us/pl/110/69/tIV], § 4001, Aug. 9, 2007, [121 Stat. 599][/us/stat/121/599]; [Pub. L. 111–358, title III][/us/pl/111/358/tIII], § 301, Jan. 4, 2011, [124 Stat. 3996][/us/stat/124/3996].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/110/69/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs4001
+[/us/pl/110/69/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIV
 [/us/stat/121/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F599
-[/us/pl/111/358/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs301
+[/us/pl/111/358/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIII
 [/us/stat/124/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3996
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 

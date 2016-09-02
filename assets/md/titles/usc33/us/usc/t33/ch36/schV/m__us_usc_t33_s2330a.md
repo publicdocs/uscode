@@ -31,7 +31,7 @@
 
         For a period of 10 years from completion of construction of a project (or a component of a project) for ecosystem restoration, the Secretary shall consider the cost of carrying out the monitoring as a project cost. If the monitoring plan under subsection (b) requires monitoring beyond the 10-year period, the cost of monitoring shall be a non-Federal responsibility.
 
-([Pub. L. 110–114, title II, § 2039][/us/pl/110/114/s2039], Nov. 8, 2007, [121 Stat. 1100][/us/stat/121/1100].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2039, Nov. 8, 2007, [121 Stat. 1100][/us/stat/121/1100].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/114/s2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2039
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1100
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

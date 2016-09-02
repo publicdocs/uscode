@@ -49,37 +49,37 @@
 
         Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46][/us/usc/t46/s11113].
 
-([Pub. L. 96–478, § 9][/us/pl/96/478/s9], Oct. 21, 1980, [94 Stat. 2301][/us/stat/94/2301]; [Pub. L. 100–220, title II, § 2105][/us/pl/100/220/s2105], Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 101–380, title IV, § 4302(n)][/us/pl/101/380/s4302/n], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 103–182, title VI, § 688][/us/pl/103/182/s688], Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222]; [Pub. L. 104–227, title II, § 201(f)][/us/pl/104/227/s201/f], Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280, § 10][/us/pl/110/280/s10], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615]; [Pub. L. 113–281, title III, § 320(c)][/us/pl/113/281/s320/c], Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
+([Pub. L. 96–478][/us/pl/96/478], § 9, Oct. 21, 1980, [94 Stat. 2301][/us/stat/94/2301]; [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2105, Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(n), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 688, Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222]; [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 201(f), Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280][/us/pl/110/280], § 10, July 21, 2008, [122 Stat. 2615][/us/stat/122/2615]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 320(c), Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
 
  __Codification__ 
 
-    In subsec. (e), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (e), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
     2014—Subsec. (g). [Pub. L. 113–281][/us/pl/113/281] added subsec. (g).
 
-    2008—[Pub. L. 110–280, § 10(1)][/us/pl/110/280/s10/1], substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
+    2008—[Pub. L. 110–280][/us/pl/110/280], § 10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
 
-    Subsec. (b). [Pub. L. 110–280, § 10(2)(C)][/us/pl/110/280/s10/2/C], in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+    Subsec. (b). [Pub. L. 110–280][/us/pl/110/280], § 10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
 
-    [Pub. L. 110–280, § 10(2)(A)][/us/pl/110/280/s10/2/A], in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
+    [Pub. L. 110–280][/us/pl/110/280], § 10(2)(A), in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
 
-    Subsec. (b)(2). [Pub. L. 110–280, § 10(2)(B)][/us/pl/110/280/s10/2/B], inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
+    Subsec. (b)(2). [Pub. L. 110–280][/us/pl/110/280], § 10(2)(B), inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 110–280, § 10(3)][/us/pl/110/280/s10/3], inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+    Subsec. (c). [Pub. L. 110–280][/us/pl/110/280], § 10(3), inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
 
-    Subsec. (f). [Pub. L. 110–280, § 10(4)][/us/pl/110/280/s10/4], inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
+    Subsec. (f). [Pub. L. 110–280][/us/pl/110/280], § 10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
 
-    1996—Subsec. (a). [Pub. L. 104–227, § 201(f)(1)][/us/pl/104/227/s201/f/1], inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
+    1996—Subsec. (a). [Pub. L. 104–227][/us/pl/104/227], § 201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
-    Subsec. (b). [Pub. L. 104–227, § 201(f)(2)][/us/pl/104/227/s201/f/2], (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
+    Subsec. (b). [Pub. L. 104–227][/us/pl/104/227], § 201(f)(2), (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 104–227, § 201(f)(4)][/us/pl/104/227/s201/f/4], inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
+    Subsec. (d). [Pub. L. 104–227][/us/pl/104/227], § 201(f)(4), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
-    Subsec. (e). [Pub. L. 104–227, § 201(f)(5)][/us/pl/104/227/s201/f/5], inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
+    Subsec. (e). [Pub. L. 104–227][/us/pl/104/227], § 201(f)(5), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
 
-    Subsec. (f). [Pub. L. 104–227, § 201(f)(6)][/us/pl/104/227/s201/f/6], inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
+    Subsec. (f). [Pub. L. 104–227][/us/pl/104/227], § 201(f)(6), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
     1993—Subsec. (e). [Pub. L. 103–182][/us/pl/103/182] substituted “shall refuse or revoke the clearance required by [section 91 of title 46][/us/usc/t46/s91], Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
 
@@ -91,11 +91,11 @@
 
     1990—Subsec. (a). [Pub. L. 101–380][/us/pl/101/380] substituted “commits a class D felony” for “shall, for each violation, be fined not more than $50,000 or be imprisoned for not more than 5 years, or both”.
 
-    1987—Subsec. (a). [Pub. L. 100–220, § 2105(a)(1)][/us/pl/100/220/s2105/a/1], inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
+    1987—Subsec. (a). [Pub. L. 100–220][/us/pl/100/220], § 2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
 
-    Subsec. (b). [Pub. L. 100–220, § 2105(a)(2)][/us/pl/100/220/s2105/a/2], inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
+    Subsec. (b). [Pub. L. 100–220][/us/pl/100/220], § 2105(a)(2), inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
 
-    Subsec. (f). [Pub. L. 100–220, § 2105(b)][/us/pl/100/220/s2105/b], substituted “to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating” for “to that country”.
+    Subsec. (f). [Pub. L. 100–220][/us/pl/100/220], § 2105(b), substituted “to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating” for “to that country”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -114,45 +114,45 @@
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t46/s11113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs11113
-[/us/pl/96/478/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs9
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2301
-[/us/pl/100/220/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2105
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1463
-[/us/pl/101/380/s4302/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fn
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
-[/us/pl/103/182/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs688
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2222
-[/us/pl/104/227/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3043
-[/us/pl/110/280/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
 [/us/stat/122/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2615
-[/us/pl/113/281/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs320%2Fc
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3054
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
-[/us/pl/110/280/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F1
-[/us/pl/110/280/s10/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F2%2FC
-[/us/pl/110/280/s10/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F2%2FA
-[/us/pl/110/280/s10/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F2%2FB
-[/us/pl/110/280/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F3
-[/us/pl/110/280/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs10%2F4
-[/us/pl/104/227/s201/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff%2F1
-[/us/pl/104/227/s201/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff%2F2
-[/us/pl/104/227/s201/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff%2F4
-[/us/pl/104/227/s201/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff%2F5
-[/us/pl/104/227/s201/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs201%2Ff%2F6
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t46/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs91
 [/us/usc/t46/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs91
 [/us/usc/t46/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs313
 [/us/usc/t19/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1443
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
-[/us/pl/100/220/s2105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2105%2Fa%2F1
-[/us/pl/100/220/s2105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2105%2Fa%2F2
-[/us/pl/100/220/s2105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2105%2Fb
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

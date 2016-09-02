@@ -33,11 +33,11 @@
 
             The amount of any allotment not obligated by the State by the last day of the 2-year period of availability established by paragraph (1) shall be immediately reallotted by the Administrator on the basis of the same ratio as is applicable to sums allotted under subchapter II of this chapter for the second fiscal year of such 2-year period. None of the funds reallotted by the Administrator shall be reallotted to any State which has not obligated all sums allotted to such State in the first fiscal year of such 2-year period.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 604, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 25][/us/stat/101/25].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 604, as added [Pub. L. 100–4, title II][/us/pl/100/4/tII], § 212(a), Feb. 4, 1987, [101 Stat. 25][/us/stat/101/25].)
 
  __Use of Capitalization Grant Funds for Construction Grants__ 
 
-[Pub. L. 101–144, title III][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 858][/us/stat/103/858], as amended by [Pub. L. 101–302, title II][/us/pl/101/302], May 25, 1990, [104 Stat. 238][/us/stat/104/238], provided: 
+[Pub. L. 101–144, title III][/us/pl/101/144/tIII], Nov. 9, 1989, [103 Stat. 858][/us/stat/103/858], as amended by [Pub. L. 101–302, title II][/us/pl/101/302/tII], May 25, 1990, [104 Stat. 238][/us/stat/104/238], provided: 
 
 > “That, notwithstanding any other provision of law, sums heretofore, herein or hereafter appropriated under this heading \[“Environmental Protection Agency” and “construction grants”\] allotted for title VI \[[33 U.S.C. 1381][/us/usc/t33/s1381] et seq.\] capitalization grants to American Samoa, Commonwealth of the Northern Mariana Islands, Guam, the Republic of Palau (or its successor entity), Virgin Islands and the District of Columbia, may be used for title II \[[33 U.S.C. 1281][/us/usc/t33/s1281] et seq.\] construction grants at the request of the chief executive of each of the above named entities, and sums appropriated in fiscal year 1989 shall remain available for obligation until September 30, 1992.”
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t33/s1285/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285%2Fc
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
+[/us/pl/100/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtII
 [/us/stat/101/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F25
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtIII
 [/us/stat/103/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F858
-[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/101/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtII
 [/us/stat/104/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F238
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381
 [/us/usc/t33/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1281

@@ -33,7 +33,7 @@
 
         The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
-([Pub. L. 92–63, § 4][/us/pl/92/63/s4], Aug. 4, 1971, [85 Stat. 164][/us/stat/85/164]; [Pub. L. 102–241, § 16][/us/pl/102/241/s16], Dec. 19, 1991, [105 Stat. 2213][/us/stat/105/2213]; [Pub. L. 104–324, title VII, § 704][/us/pl/104/324/s704], Oct. 19, 1996, [110 Stat. 3933][/us/stat/110/3933]; [Pub. L. 107–295, title III, § 321][/us/pl/107/295/s321], Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103].)
+([Pub. L. 92–63][/us/pl/92/63], § 4, Aug. 4, 1971, [85 Stat. 164][/us/stat/85/164]; [Pub. L. 102–241][/us/pl/102/241], § 16, Dec. 19, 1991, [105 Stat. 2213][/us/stat/105/2213]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 704, Oct. 19, 1996, [110 Stat. 3933][/us/stat/110/3933]; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 321, Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Vessel Communication Equipment Regulations__ 
 
-[Pub. L. 101–380, title IV, § 4118][/us/pl/101/380/s4118], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], provided that: 
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4118, Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], provided that: 
 
 > “The Secretary shall, not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 ([33 U.S.C. 1203][/us/usc/t33/s1203]) are also equipped as necessary to—
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t33/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1206
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
-[/us/pl/92/63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63%2Fs4
+[/us/pl/92/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F63
 [/us/stat/85/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F164
-[/us/pl/102/241/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs16
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2213
-[/us/pl/104/324/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs704
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3933
-[/us/pl/107/295/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs321
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2103
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
@@ -80,7 +80,7 @@
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
-[/us/pl/101/380/s4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4118
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1203
 

@@ -23,7 +23,7 @@
 
         As part of this program, the Secretary shall submit to Congress an annual report reviewing the results of the research, assessments, and findings developed under the NOAA Oceans and Human Health Initiative, as well as recommendations for improving or expanding the program.
 
-([Pub. L. 108–447, div. B, title IX, § 904][/us/pl/108/447/s904], Dec. 8, 2004, [118 Stat. 2934][/us/stat/118/2934].)
+([Pub. L. 108–447, div. B, title IX][/us/pl/108/447/dB/tIX], § 904, Dec. 8, 2004, [118 Stat. 2934][/us/stat/118/2934].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs904
+[/us/pl/108/447/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIX
 [/us/stat/118/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2934
 
 

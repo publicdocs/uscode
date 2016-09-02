@@ -17,7 +17,7 @@
 
     The provisions of subchapter IV of chapter 36 of title 10 relating to continuation on active duty and deferral of retirement shall apply to commissioned officers of the Administration.
 
-([Pub. L. 107–372, title II, § 248][/us/pl/107/372/s248], Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
+([Pub. L. 107–372, title II][/us/pl/107/372/tII], § 248, Dec. 19, 2002, [116 Stat. 3090][/us/stat/116/3090].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/372/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs248
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3090
 
 

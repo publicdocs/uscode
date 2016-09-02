@@ -17,7 +17,7 @@
 
     The Administrator, in consultation with the Secretary, may establish, as necessary, terms and conditions regarding the removal and disposal of antifouling systems prohibited or restricted under this chapter.
 
-([Pub. L. 111–281, title X, § 1034][/us/pl/111/281/s1034], Oct. 15, 2010, [124 Stat. 3029][/us/stat/124/3029].)
+([Pub. L. 111–281, title X][/us/pl/111/281/tX], § 1034, Oct. 15, 2010, [124 Stat. 3029][/us/stat/124/3029].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs1034
+[/us/pl/111/281/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtX
 [/us/stat/124/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3029
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3023

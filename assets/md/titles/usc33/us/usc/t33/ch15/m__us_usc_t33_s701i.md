@@ -17,7 +17,7 @@
 
     In any case where the construction cost of levees or flood walls included in any authorized project can be substantially reduced by the evacuation of a portion or all of the area proposed to be protected and by the elimination of that portion or all of the area from the protection to be afforded by the project, the Chief of Engineers may modify the plan of said project so as to eliminate said portion or all of the area: Provided, That a sum not substantially exceeding the amount thus saved in construction cost may be expended by the Chief of Engineers, or in his discretion may be transferred to any other appropriate Federal agency for expenditure, toward the evacuation of the locality eliminated from protection and the rehabilitation of the persons so evacuated: And provided further, That the Chief of Engineers may, if he so desires, enter into agreement with States, local agencies, or the individuals concerned for the accomplishment by them, of such evacuation and rehabilitation and for their reimbursement from said sum for expenditures actually incurred by them for this purpose.
 
-([June 28, 1938, ch. 795, § 3][/us/act/1938-06-28/ch795/s3], [52 Stat. 1216][/us/stat/52/1216].)
+([June 28, 1938, ch. 795][/us/act/1938-06-28/ch795], § 3, [52 Stat. 1216][/us/stat/52/1216].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-28/ch795/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-28%2Fch795%2Fs3
+[/us/act/1938-06-28/ch795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-28%2Fch795
 [/us/stat/52/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1216
 
 

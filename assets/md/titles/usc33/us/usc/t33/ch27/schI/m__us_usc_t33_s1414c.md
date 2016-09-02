@@ -33,7 +33,7 @@
 
         For purposes of this section, the term “sewage sludge” has the meaning such term has in [section 1414b of this title][/us/usc/t33/s1414b].
 
-([Pub. L. 92–532, title I, § 104C][/us/pl/92/532/s104C], as added [Pub. L. 100–688, title I, § 1005][/us/pl/100/688/s1005], Nov. 18, 1988, [102 Stat. 4150][/us/stat/102/4150].)
+([Pub. L. 92–532, title I][/us/pl/92/532/tI], § 104C, as added [Pub. L. 100–688, title I][/us/pl/100/688/tI], § 1005, Nov. 18, 1988, [102 Stat. 4150][/us/stat/102/4150].)
 
  __References in Text__ 
 
@@ -48,8 +48,8 @@
 
 [/us/usc/t33/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1415
 [/us/usc/t33/s1414b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1414b
-[/us/pl/92/532/s104C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs104C
-[/us/pl/100/688/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2Fs1005
+[/us/pl/92/532/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtI
+[/us/pl/100/688/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F688%2FtI
 [/us/stat/102/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4150
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 

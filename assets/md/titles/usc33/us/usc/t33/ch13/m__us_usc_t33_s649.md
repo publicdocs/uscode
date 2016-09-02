@@ -17,7 +17,7 @@
 
     The harbor at Vicksburg, Mississippi, and the Ohio River from its mouth to the mouth of the Cache River, are transferred to and placed under the control and jurisdiction of the Mississippi River Commission: Provided, That no part of the improvement of the Ohio River, with a view to the construction of locks and dams, shall be considered as transferred to or placed under the control and jurisdiction of the Mississippi River Commission.
 
-([July 27, 1916, ch. 260, § 1][/us/act/1916-07-27/ch260/s1], [39 Stat. 402][/us/stat/39/402].)
+([July 27, 1916, ch. 260][/us/act/1916-07-27/ch260], § 1, [39 Stat. 402][/us/stat/39/402].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1916-07-27/ch260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260%2Fs1
+[/us/act/1916-07-27/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-27%2Fch260
 [/us/stat/39/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F402
 
 
