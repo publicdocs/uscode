@@ -19,7 +19,13 @@
 
     Notwithstanding chapters 1 to 11 and [section 1302 of title 40][/us/usc/t40/s1302] and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary of Agriculture, in furtherance of the mission of the National Arboretum, may—
 
-        (1) negotiate agreements granting concessions at the National Arboretum to nonprofit scientific or educational organizations the interests of which are complementary to the mission of the National Arboretum, except that the net proceeds of the organizations from the concessions shall be used exclusively for research and educational work for the benefit of the National Arboretum;
+        (1)
+
+         negotiate concessions and agreements for the National Arboretum with nonprofit scientific or educational organizations, the interests of which are complementary to the mission of the National Arboretum, or nonprofit organizations that support the purpose of the National Arboretum, except that the net proceeds of the organizations from the concessions or agreements, as applicable, shall be used exclusively for—
+
+            (A) the research and educational work for the benefit of the National Arboretum; and
+
+            (B) the operation and maintenance of the facilities of the National Arboretum, including enhancements, upgrades, restoration, and conservation;
 
         (2) provide by concession, on such terms as the Secretary of Agriculture considers appropriate and necessary, for commercial services for food, drink, and nursery sales, if an agreement for a permanent concession under this paragraph is negotiated with a qualified person submitting a proposal after due consideration of all proposals received after the Secretary of Agriculture provides reasonable public notice of the intent of the Secretary to enter into such an agreement;
 
@@ -41,13 +47,21 @@
 
         The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
-([Mar. 4, 1927, ch. 505, § 6][/us/act/1927-03-04/ch505/s6], as added [Pub. L. 104–127, title VIII, § 890(b)][/us/pl/104/127/s890/b], Apr. 4, 1996, [110 Stat. 1181][/us/stat/110/1181]; amended [Pub. L. 105–185, title VI, § 601(b)][/us/pl/105/185/s601/b], June 23, 1998, [112 Stat. 585][/us/stat/112/585].)
+    (d) __Recognition of donors__ 
+
+        A nonprofit organization that entered into a concession or agreement under subsection (a)(1) may recognize donors if that recognition is approved in advance by the Secretary of Agriculture. In considering whether to approve such recognition, the Secretary shall broadly exercise the discretion of the Secretary to the fullest extent allowed under Federal law.
+
+([Mar. 4, 1927, ch. 505, § 6][/us/act/1927-03-04/ch505/s6], as added [Pub. L. 104–127, title VIII, § 890(b)][/us/pl/104/127/s890/b], Apr. 4, 1996, [110 Stat. 1181][/us/stat/110/1181]; amended [Pub. L. 105–185, title VI, § 601(b)][/us/pl/105/185/s601/b], June 23, 1998, [112 Stat. 585][/us/stat/112/585]; [Pub. L. 113–79, title VII, § 7602][/us/pl/113/79/s7602], Feb. 7, 2014, [128 Stat. 911][/us/stat/128/911].)
 
  __Codification__ 
 
     In subsec. (a), “chapters 1 to 11 and [section 1302 of title 40][/us/usc/t40/s1302] and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.) and [section 321 of the Act of June 30, 1932][/us/act/1932-06-30/s321] ([40 U.S.C. 303b][/us/usc/t40/s303b])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79, § 7602(1)][/us/pl/113/79/s7602/1], added par. (1) and struck out former par. (1) which read as follows: “negotiate agreements granting concessions at the National Arboretum to nonprofit scientific or educational organizations the interests of which are complementary to the mission of the National Arboretum, except that the net proceeds of the organizations from the concessions shall be used exclusively for research and educational work for the benefit of the National Arboretum;”.
+
+    Subsec. (d). [Pub. L. 113–79, § 7602(2)][/us/pl/113/79/s7602/2], added subsec. (d).
 
     1998—Subsec. (b). [Pub. L. 105–185][/us/pl/105/185] substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
 
@@ -65,6 +79,8 @@
 [/us/stat/110/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1181
 [/us/pl/105/185/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs601%2Fb
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
+[/us/pl/113/79/s7602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7602
+[/us/stat/128/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F911
 [/us/usc/t40/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1302
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
 [/us/act/1932-06-30/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fs321
@@ -73,6 +89,8 @@
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/79/s7602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7602%2F1
+[/us/pl/113/79/s7602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7602%2F2
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 
 
