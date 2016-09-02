@@ -31,7 +31,7 @@
 
         (2) __Location__ 
 
-        Of the sites selected under subsection (c)—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph (1)—”. </sup></sup> 
+        Of the sites selected under subsection (c)—
 
             (A) at least one shall be located on the northern border of the United States; and
 

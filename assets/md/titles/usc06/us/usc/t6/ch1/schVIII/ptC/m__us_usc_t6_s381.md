@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_ch1_schVIII_ptC.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s382.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs381)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_ch1_schVIII_ptC.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_ch1_schVIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs381)
 
 ## § 381. Functions transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_ch1_schVIII_ptC.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s382.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs381)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_ch1_schVIII_ptC.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_ch1_schVIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs381)
 
 ----------
 ----------

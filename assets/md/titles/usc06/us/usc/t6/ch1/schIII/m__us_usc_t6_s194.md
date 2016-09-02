@@ -195,7 +195,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303]. Subsec. (d) of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303] enacted [section 321 of this title][/us/usc/t6/s321]. Subsec. (h) of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303] amended sections 238 and 314 of this title.
+    Section is comprised of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303]. Subsec. (d) of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303] enacted [section 321 of this title][/us/usc/t6/s321]. Subsec. (h) of [section 7303 of Pub. L. 108–458][/us/pl/108/458/s7303] amended sections 238 and 312 of this title.
 
     Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 

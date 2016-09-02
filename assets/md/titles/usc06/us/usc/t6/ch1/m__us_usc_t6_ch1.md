@@ -1337,14 +1337,6 @@ Part C—United States Secret Service  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs382" data-uslm-ref="/us/usc/t6/s382">382.</a>  </td>
-
-    <td> Use of proceeds derived from criminal investigations.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> 
 
 Part D—Acquisitions  </td>
@@ -1804,14 +1796,6 @@ Part H—Miscellaneous Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs470" data-uslm-ref="/us/usc/t6/s470">470.</a>  </td>
 
     <td> Disclosures regarding homeland security grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs471" data-uslm-ref="/us/usc/t6/s471">471.</a>  </td>
-
-    <td> Annual ammunition report.  </td>
 
   </tr>
 
