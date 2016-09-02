@@ -33,7 +33,7 @@
 
     2006—Par. (2). [Pub. L. 109–163, § 323(a)][/us/pl/109/163/s323/a], inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
 
- __Consideration of Army Arsenals’ Capabilities to Fulfill Manufacturing Requirements__ 
+ __Consideration of Army Arsenals’ Capabilities To Fulfill Manufacturing Requirements__ 
 
 [Pub. L. 113–66, div. A, title III, § 323][/us/pl/113/66/s323], Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
 

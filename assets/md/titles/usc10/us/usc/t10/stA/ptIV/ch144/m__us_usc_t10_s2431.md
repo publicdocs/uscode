@@ -133,7 +133,7 @@
 
 >             “(B) A description of the manner in which the United States will maintain such capabilities so as to ensure the deployment of the capabilities in time to support the missile defense of the United States from long-range ballistic missile threats from Iran.”
 
- __Plans to Improve the Ground-Based Midcourse Defense System__ 
+ __Plans To Improve the Ground-Based Midcourse Defense System__ 
 
 [Pub. L. 113–66, div. A, title II, § 237][/us/pl/113/66/s237], Dec. 26, 2013, [127 Stat. 717][/us/stat/127/717], provided that:
 

@@ -3037,6 +3037,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_stA_ptII_ch55.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1072.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071)
@@ -3231,5 +3233,6 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/85/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F361
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 

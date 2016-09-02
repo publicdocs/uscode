@@ -329,19 +329,17 @@
 
  __Ex. Ord. No. 12019. Defense Meritorious Service Medal__ 
 
-    Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, provided:
+    Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, as amended by Ex. Ord. No. 13666, Apr. 18, 2014, 79 F.R. 22591, provided:
 
     By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-    Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+    Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
     Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
     Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to any one person, but for each succeeding outstanding meritorious achievement or service justifying such an award a suitable device to be worn with that medal may be awarded under such regulations as the Secretary of Defense may prescribe.
 
     Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
-
-                              Jimmy Carter.
 
  __Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge__ 
 

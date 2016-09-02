@@ -265,7 +265,7 @@
 
 [Pub. L. 113–66, div. A, title V, § 501(c)][/us/pl/113/66/s501/c], Dec. 26, 2013, [127 Stat. 749][/us/stat/127/749], provided that: 
 
-> “The amendments made by this is section \[amending this section\] shall take effect on January 1, 2014.”
+> “The amendments made by this is \[sic\] section \[amending this section\] shall take effect on January 1, 2014.”
 
  __Effective Date of 2011 Amendment__ 
 

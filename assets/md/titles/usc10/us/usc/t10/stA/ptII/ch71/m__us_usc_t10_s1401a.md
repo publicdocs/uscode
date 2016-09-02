@@ -177,7 +177,7 @@
 
  __References in Text__ 
 
-    [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37][/us/usc/t37/s322] (as in effect before January 28, 2008), referred to in subsecs. (d), and (e), mean [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181] on January 28, 2008. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
+    [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37][/us/usc/t37/s322] (as in effect before January 28, 2008), referred to in subsecs. (d) and (e), mean [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181] on January 28, 2008. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
 
  __Amendments__ 
 

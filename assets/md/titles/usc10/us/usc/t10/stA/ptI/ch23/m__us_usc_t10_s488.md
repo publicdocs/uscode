@@ -17,7 +17,7 @@
 
     (a)  __Requirement for Strategic Plan__  __.—__ 
 
-    Every three years  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
+    Every three years the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
 
         (1) An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
 

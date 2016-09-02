@@ -33,7 +33,7 @@
 
         (2) was not an eligible program described in subsection (a) at any time during the most recent two-year period;
 
-        (3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such programs or authorities; and
+        (3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such 1 programs or authorities; and
 
         (4) the institution providing the program does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 

@@ -179,7 +179,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         The term ‘budget’ means the budget that is submitted to Congress by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.”
 
-    \[[Pub. L. 113–66, div. A, title X, § 1027(2)(B)][/us/pl/113/66/s1027/2/B], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], which directed insertion of “in the analysis of alternatives” after “nuclear power system” in subsec. (a) of [section 1012 of Pub. L. 110–181][/us/pl/110/181/s1012] (as redesignated by section 1027(1) of Pub. 113–66), set out above, was executed by making the insertion after “nuclear power system” the first time appearing to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–66, div. A, title X, § 1027(2)(B)][/us/pl/113/66/s1027/2/B], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], which directed insertion of “in the analysis of alternatives” after “nuclear power system” in subsec. (a) of [section 1012 of Pub. L. 110–181][/us/pl/110/181/s1012] (as redesignated by [section 1027(1) of Pub. L. 113–66][/us/pl/113/66/s1027/1]), set out above, was executed by making the insertion after “nuclear power system” the first time appearing to reflect the probable intent of Congress.\]
 
  __Alternative Technologies for Future Surface Combatants__ 
 
@@ -546,6 +546,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 [/us/pl/113/66/s1027/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027%2F2%2FB
 [/us/stat/127/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F849
 [/us/pl/110/181/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1012
+[/us/pl/113/66/s1027/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027%2F1
 [/us/pl/109/364/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs128
 [/us/stat/120/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2109
 [/us/pl/108/136/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs126

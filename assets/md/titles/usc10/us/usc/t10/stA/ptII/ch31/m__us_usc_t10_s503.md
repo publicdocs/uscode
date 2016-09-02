@@ -175,13 +175,13 @@
 
 >     In the case of any test, assessment, or screening tool utilized under the policy on recruitment and enlistment required by subsection (b) of section 532 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1403][/us/stat/125/1403]; [10 U.S.C. 503][/us/usc/t10/s503] note) for the purpose of identifying persons for recruitment and enlistment in the Armed Forces, the Secretary of Defense shall—
 
->         “(1) implement a means for ensuring that graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
+>         “(1) implement a means for ensuring that graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
 
 >         “(2) use uniform testing requirements and grading standards.
 
 >     “(b)  __Rule of Construction__  __.—__ 
 
->     Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
+>     Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
 
 [Pub. L. 112–81, div. A, title V, § 532][/us/pl/112/81/s532], Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], provided that:
 
