@@ -309,7 +309,7 @@
 
         (1) __In general__ 
 
-            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(a)(1)(D)”. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
 
         (2) __“Professional athlete” defined__ 
 
@@ -321,7 +321,7 @@
 
     (j) __Job flexibility for long delayed applicants for adjustment of status to permanent residence__ 
 
-        A petition under subsection (a)(1)(D) of this section for an individual whose application for adjustment of status pursuant to [section 1255 of this title][/us/usc/t8/s1255] has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
+        A petition under subsection (a)(1)(D) 4 of this section for an individual whose application for adjustment of status pursuant to [section 1255 of this title][/us/usc/t8/s1255] has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
 
     (k) __Procedures for unmarried sons and daughters of citizens__ 
 
@@ -374,6 +374,8 @@
     The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is [Pub. L. 107–208][/us/pl/107/208], Aug. 6, 2002, [116 Stat. 927][/us/stat/116/927], which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
     The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is [Pub. L. 106–279][/us/pl/106/279], Oct. 6, 2000, [114 Stat. 825][/us/stat/114/825], which is classified principally to chapter 143 (§ 14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of Title 42][/us/usc/t42/s14901] and Tables.
+
+    Subsection (a)(4)(D) and subsection (a)(1)(D), referred to in subsecs. (i)(1) and (j), probably should refer to subsec. (a)(1)(F) of this section. The reference to subsec. (a)(4)(D) probably should have been to subsec. “(a)(1)(D)”, as no par. (4) of subsec. (a) has been enacted. Subsec. (a)(1)(D) of this section was redesignated subsec. (a)(1)(F) by [Pub. L. 106–386, § 1503(d)(1)][/us/pl/106/386/s1503/d/1]. See 2000 Amendment note below.
 
  __Amendments__ 
 
@@ -718,6 +720,7 @@
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
+[/us/pl/106/386/s1503/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1503%2Fd%2F1
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
