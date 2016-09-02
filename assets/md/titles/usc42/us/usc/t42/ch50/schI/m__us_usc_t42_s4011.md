@@ -51,7 +51,7 @@
 
         (2) other appropriate participation, on other than a risk-sharing basis, by insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations,
 
-        in accordance with the provisions of subchapter II of this chapter.
+        in accordance with the provisions of subchapter II.
 
 ([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1304, Aug. 1, 1968, [82 Stat. 574][/us/stat/82/574]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1), (2)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 555(a), Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274]; [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 105(a), June 30, 2004, [118 Stat. 723][/us/stat/118/723]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100225(f), 100238(b)(1), July 6, 2012, [126 Stat. 942][/us/stat/126/942], 958.)
 

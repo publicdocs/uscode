@@ -15,7 +15,7 @@
 
 ## § 1962d–2. Delegation of functions
 
-    The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title][/us/usc/t42/s1962a–4] and the detailed administration of the grant program under subchapter III of this chapter.
+    The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title][/us/usc/t42/s1962a–4] and the detailed administration of the grant program under subchapter III.
 
 ([Pub. L. 89–80, title IV][/us/pl/89/80/tIV], § 403, July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
 

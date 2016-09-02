@@ -27,11 +27,15 @@
 
     (5) facilitate the development of community residences for eligible persons under [section 12910 of this title][/us/usc/t42/s12910];
 
-    (6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under [section 12903(c)(3) of this title][/us/usc/t42/s12903/c/3].
+    (6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
 
 ([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 855, Nov. 28, 1990, [104 Stat. 4378][/us/stat/104/4378]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(e), (h)(2), (j)(3), Oct. 28, 1992, [106 Stat. 3808][/us/stat/106/3808], 3810.)
+
+ __References in Text__ 
+
+    [Section 12903(c)(3) of this title][/us/usc/t42/s12903/c/3], referred to in par. (6), was redesignated [section 12903(c)(5) of this title][/us/usc/t42/s12903/c/5] by [Pub. L. 114–201, title VII][/us/pl/114/201/tVII], § 701(a)(1), July 29, 2016, [130 Stat. 812][/us/stat/130/812].
 
  __Amendments__ 
 
@@ -55,11 +59,14 @@
 [/us/usc/t42/s12908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12908
 [/us/usc/t42/s12909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12909
 [/us/usc/t42/s12910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12910
-[/us/usc/t42/s12903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12903%2Fc%2F3
 [/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4378
 [/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3808
+[/us/usc/t42/s12903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12903%2Fc%2F3
+[/us/usc/t42/s12903/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12903%2Fc%2F5
+[/us/pl/114/201/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtVII
+[/us/stat/130/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F812
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

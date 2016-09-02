@@ -15,7 +15,7 @@
 
 ## § 5876. Comptroller General audit
 
-    (a) Section 166 of the Atomic Energy Act of 1954, as amended \[[42 U.S.C. 2206][/us/usc/t42/s2206]\], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I of this chapter and to the activities under subchapter II of this chapter.
+    (a) Section 166 of the Atomic Energy Act of 1954, as amended \[[42 U.S.C. 2206][/us/usc/t42/s2206]\], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I and to the activities under subchapter II.
 
     (b)
 
@@ -25,7 +25,7 @@
 
         (2) an evaluation of the effect of such Commission activities on the efficiency, effectiveness, and safety with which the activities licensed under the Atomic Energy Act of 1954, as amended \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\], are carried out;
 
-        (3) recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of subchapter II of this chapter.
+        (3) recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of subchapter II.
 
 ([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 306, Oct. 11, 1974, [88 Stat. 1251][/us/stat/88/1251].)
 

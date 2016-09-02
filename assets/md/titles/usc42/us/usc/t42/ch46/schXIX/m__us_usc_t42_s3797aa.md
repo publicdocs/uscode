@@ -369,7 +369,61 @@
 
             The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
 
-    (i) __Authorization of appropriations__ 
+    (i) __Assisting veterans__ 
+
+        (1) __Definitions__ 
+
+        In this subsection:
+
+            (A) __Peer-to-peer services or programs__ 
+
+                The term “peer-to-peer services or programs” means services or programs that connect qualified veterans with other veterans for the purpose of providing support and mentorship to assist qualified veterans in obtaining treatment, recovery, stabilization, or rehabilitation.
+
+            (B) __Qualified veteran__ 
+
+            The term “qualified veteran” means a preliminarily qualified offender who—
+
+                (i) served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+
+                (ii) was discharged or released from such service under conditions other than dishonorable, unless the reason for the dishonorable discharge was attributable to a substance abuse disorder.
+
+            (C) __Veterans treatment court program__ 
+
+            The term “veterans treatment court program” means a court program involving collaboration among criminal justice, veterans, and mental health and substance abuse agencies that provides qualified veterans with—
+
+                (i) intensive judicial supervision and case management, which may include random and frequent drug testing where appropriate;
+
+                (ii) a full continuum of treatment services, including mental health services, substance abuse services, medical services, and services to address trauma;
+
+                (iii) alternatives to incarceration; or
+
+                (iv) other appropriate services, including housing, transportation, mentoring, employment, job training, education, or assistance in applying for and obtaining available benefits.
+
+        (2) __Veterans assistance program__ 
+
+            (A) __In general__ 
+
+            The Attorney General, in consultation with the Secretary of Veterans Affairs, may award grants under this subsection to applicants to establish or expand—
+
+                (i) veterans treatment court programs;
+
+                (ii) peer-to-peer services or programs for qualified veterans;
+
+                (iii) practices that identify and provide treatment, rehabilitation, legal, transitional, and other appropriate services to qualified veterans who have been incarcerated; or
+
+                (iv) training programs to teach criminal justice, law enforcement, corrections, mental health, and substance abuse personnel how to identify and appropriately respond to incidents involving qualified veterans.
+
+            (B) __Priority__ 
+
+            In awarding grants under this subsection, the Attorney General shall give priority to applications that—
+
+                (i) demonstrate collaboration between and joint investments by criminal justice, mental health, substance abuse, and veterans service agencies;
+
+                (ii) promote effective strategies to identify and reduce the risk of harm to qualified veterans and public safety; and
+
+                (iii) propose interventions with empirical support to improve outcomes for qualified veterans.
+
+    (j) __Authorization of appropriations__ 
 
         (1) __In general__ 
 
@@ -385,13 +439,15 @@
 
             For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
 
-([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2991, as added [Pub. L. 108–414][/us/pl/108/414], § 4(a), Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328]; amended [Pub. L. 110–416][/us/pl/110/416], §§ 3, 4, Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], 4353.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2991, as added [Pub. L. 108–414][/us/pl/108/414], § 4(a), Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328]; amended [Pub. L. 110–416][/us/pl/110/416], §§ 3, 4, Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], 4353; [Pub. L. 114–198, title V][/us/pl/114/198/tV], § 502, July 22, 2016, [130 Stat. 728][/us/stat/130/728].)
 
  __References in Text__ 
 
     The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(E), is [Pub. L. 108–414][/us/pl/108/414], Oct. 30, 2004, [118 Stat. 2327][/us/stat/118/2327], which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under [section 3711 of this title][/us/usc/t42/s3711] and Tables.
 
  __Amendments__ 
+
+    2016—Subsecs. (i), (j). [Pub. L. 114–198][/us/pl/114/198] added subsec. (i) and redesignated former subsec. (i) as (j).
 
     2008—Subsec. (c). [Pub. L. 110–416][/us/pl/110/416], § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
@@ -477,9 +533,12 @@
 [/us/stat/118/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2328
 [/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
 [/us/stat/122/4352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4352
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F728
 [/us/pl/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414
 [/us/stat/118/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2327
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
 [/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
 [/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416

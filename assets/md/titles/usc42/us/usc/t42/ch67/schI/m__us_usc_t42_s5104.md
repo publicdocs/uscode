@@ -31,7 +31,9 @@
 
         (4) maintain and disseminate information about the best practices used for achieving improvements in child protective systems;
 
-        (5)
+        (5) maintain and disseminate information about the requirements of [section 5106a(b)(2)(B)(iii) of this title][/us/usc/t42/s5106a/b/2/B/iii] and best practices relating to the development of plans of safe care as described in such section for infants born and identified as being affected by substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+
+        (6)
 
          maintain and disseminate information relating to—
 
@@ -41,7 +43,7 @@
 
             (C) the incidence of any such cases related to substance abuse;
 
-        (6)
+        (7)
 
          provide technical assistance upon request that may include an evaluation or identification of—
 
@@ -49,9 +51,9 @@
 
             (B) ways to mitigate psychological trauma to the child victim; and
 
-            (C) effective programs carried out by the States under this subchapter and subchapter III of this chapter;
+            (C) effective programs carried out by the States under this subchapter and subchapter III;
 
-        (7)
+        (8)
 
          collect and disseminate information relating to various training resources available at the State and local level to—
 
@@ -59,7 +61,7 @@
 
             (B) appropriate State and local officials to assist in training law enforcement, legal, judicial, medical, mental health, education, child welfare, substance abuse treatment services, and domestic violence services personnel; and
 
-        (8) collect and disseminate information, in conjunction with the National Resource Centers authorized in [section 10410(b) of this title][/us/usc/t42/s10410/b], on effective programs and best practices for developing and carrying out collaboration between entities providing child protective services and entities providing domestic violence services.
+        (9) collect and disseminate information, in conjunction with the National Resource Centers authorized in [section 10410(b) of this title][/us/usc/t42/s10410/b], on effective programs and best practices for developing and carrying out collaboration between entities providing child protective services and entities providing domestic violence services.
 
     (c) __Coordination with available resources__ 
 
@@ -95,17 +97,19 @@
 
             In carrying out paragraph (1)(D), the Secretary shall ensure that methods are established and implemented to preserve the confidentiality of records relating to case specific data.
 
-([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 103, formerly § 5, Jan. 31, 1974, [88 Stat. 7][/us/stat/88/7]; [Pub. L. 95–266, title I][/us/pl/95/266/tI], § 104, Apr. 24, 1978, [92 Stat. 206][/us/stat/92/206]; [Pub. L. 98–457, title I][/us/pl/98/457/tI], § 104, Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 105][/us/stat/102/105]; renumbered title I, § 104, and amended [Pub. L. 101–126][/us/pl/101/126], §§ 3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765, 768; renumbered § 103 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 104, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3066][/us/stat/110/3066], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 111, June 25, 2003, [117 Stat. 802][/us/stat/117/802]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 112, Dec. 20, 2010, [124 Stat. 3461][/us/stat/124/3461].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 103, formerly § 5, Jan. 31, 1974, [88 Stat. 7][/us/stat/88/7]; [Pub. L. 95–266, title I][/us/pl/95/266/tI], § 104, Apr. 24, 1978, [92 Stat. 206][/us/stat/92/206]; [Pub. L. 98–457, title I][/us/pl/98/457/tI], § 104, Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 105][/us/stat/102/105]; renumbered title I, § 104, and amended [Pub. L. 101–126][/us/pl/101/126], §§ 3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765, 768; renumbered § 103 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 104, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3066][/us/stat/110/3066], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 111, June 25, 2003, [117 Stat. 802][/us/stat/117/802]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 112, Dec. 20, 2010, [124 Stat. 3461][/us/stat/124/3461]; [Pub. L. 114–198, title V][/us/pl/114/198/tV], § 503(a), July 22, 2016, [130 Stat. 729][/us/stat/130/729].)
 
  __References in Text__ 
 
-    Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(5)(B), is [section 105(a)(1) of Pub. L. 100–294][/us/pl/100/294/s105/a/1], which is set out as a note under [section 5105 of this title][/us/usc/t42/s5105].
+    Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(6)(B), is [section 105(a)(1) of Pub. L. 100–294][/us/pl/100/294/s105/a/1], which is set out as a note under [section 5105 of this title][/us/usc/t42/s5105].
 
  __Prior Provisions__ 
 
     A prior [section 103 of Pub. L. 93–247][/us/pl/93/247/s103] was classified to [section 5103 of this title][/us/usc/t42/s5103] prior to repeal by [Pub. L. 104–235][/us/pl/104/235].
 
  __Amendments__ 
+
+    2016—Subsec. (b)(5) to (9). [Pub. L. 114–198][/us/pl/114/198] added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
     2010—Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 112(1), inserted “and neglect” before period at end.
 
@@ -186,6 +190,7 @@
 ----------
 ----------
 
+[/us/usc/t42/s5106a/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fb%2F2%2FB%2Fiii
 [/us/usc/t42/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5105
 [/us/usc/t42/s10410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10410%2Fb
 [/us/usc/t42/s5105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5105%2Fa
@@ -205,11 +210,14 @@
 [/us/stat/117/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F802
 [/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3461
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F729
 [/us/pl/100/294/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs105%2Fa%2F1
 [/us/usc/t42/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5105
 [/us/pl/93/247/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs103
 [/us/usc/t42/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5103
 [/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5105

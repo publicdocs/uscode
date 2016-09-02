@@ -39,17 +39,17 @@
 
         (4)
 
-         for any manufacturer of a new motor vehicle or new motor vehicle engine subject to standards prescribed under [section 7521 of this title][/us/usc/t42/s7521] or part C of this subchapter—
+         for any manufacturer of a new motor vehicle or new motor vehicle engine subject to standards prescribed under [section 7521 of this title][/us/usc/t42/s7521] or part C—
 
-            (A) to sell or lease any such vehicle or engine unless such manufacturer has complied with (i) the requirements of section 7541(a) and (b) of this title with respect to such vehicle or engine, and unless a label or tag is affixed to such vehicle or engine in accordance with [section 7541(c)(3) of this title][/us/usc/t42/s7541/c/3], or (ii) the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles unless the manufacturer has complied with the corresponding requirements of part C of this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup> 
+            (A) to sell or lease any such vehicle or engine unless such manufacturer has complied with (i) the requirements of section 7541(a) and (b) of this title with respect to such vehicle or engine, and unless a label or tag is affixed to such vehicle or engine in accordance with [section 7541(c)(3) of this title][/us/usc/t42/s7541/c/3], or (ii) the corresponding requirements of part C in the case of clean fuel vehicles unless the manufacturer has complied with the corresponding requirements of part C  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup> 
 
-            (B) to fail or refuse to comply with the requirements of section 7541(c) or (e) of this title, or the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles 1
+            (B) to fail or refuse to comply with the requirements of section 7541(c) or (e) of this title, or the corresponding requirements of part C in the case of clean fuel vehicles 1
 
-            (C) except as provided in subsection (c)(3) of [section 7541 of this title][/us/usc/t42/s7541] and the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles, to provide directly or indirectly in any communication to the ultimate purchaser or any subsequent purchaser that the coverage of any warranty under this chapter is conditioned upon use of any part, component, or system manufactured by such manufacturer or any person acting for such manufacturer or under his control, or conditioned upon service performed by any such person, or
+            (C) except as provided in subsection (c)(3) of [section 7541 of this title][/us/usc/t42/s7541] and the corresponding requirements of part C in the case of clean fuel vehicles, to provide directly or indirectly in any communication to the ultimate purchaser or any subsequent purchaser that the coverage of any warranty under this chapter is conditioned upon use of any part, component, or system manufactured by such manufacturer or any person acting for such manufacturer or under his control, or conditioned upon service performed by any such person, or
 
-            (D) to fail or refuse to comply with the terms and conditions of the warranty under section 7541(a) or (b) of this title or the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles with respect to any vehicle; or
+            (D) to fail or refuse to comply with the terms and conditions of the warranty under section 7541(a) or (b) of this title or the corresponding requirements of part C in the case of clean fuel vehicles with respect to any vehicle; or
 
-        (5) for any person to violate [section 7553 of this title][/us/usc/t42/s7553], 7554 of this title, or part C of this subchapter or any regulations under [section 7553 of this title][/us/usc/t42/s7553], 7554 of this title, or part C of this subchapter.
+        (5) for any person to violate [section 7553 of this title][/us/usc/t42/s7553], 7554 of this title, or part C of this subchapter or any regulations under [section 7553 of this title][/us/usc/t42/s7553], 7554 of this title, or part C.
 
         No action with respect to any element of design referred to in paragraph (3) (including any adjustment or alteration of such element) shall be treated as a prohibited act under such paragraph (3) if such action is in accordance with [section 7549 of this title][/us/usc/t42/s7549]. Nothing in paragraph (3) shall be construed to require the use of manufacturer parts in maintaining or repairing any motor vehicle or motor vehicle engine. For the purposes of the preceding sentence, the term “manufacturer parts” means, with respect to a motor vehicle engine, parts produced or sold by the manufacturer of the motor vehicle or motor vehicle engine. No action with respect to any device or element of design referred to in paragraph (3) shall be treated as a prohibited act under that paragraph if (i) the action is for the purpose of repair or replacement of the device or element, or is a necessary and temporary procedure to repair or replace any other item and the device or element is replaced upon completion of the procedure, and (ii) such action thereafter results in the proper functioning of the device or element referred to in paragraph (3). No action with respect to any device or element of design referred to in paragraph (3) shall be treated as a prohibited act under that paragraph if the action is for the purpose of a conversion of a motor vehicle for use of a clean alternative fuel (as defined in this subchapter) and if such vehicle complies with the applicable standard under [section 7521 of this title][/us/usc/t42/s7521] when operating on such fuel, and if in the case of a clean alternative fuel vehicle (as defined by rule by the Administrator), the device or element is replaced upon completion of the conversion procedure and such action results in proper functioning of the device or element when the motor vehicle operates on conventional fuel.
 
@@ -71,7 +71,7 @@
 
     1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], § 228(b)(2), inserted two sentences at end which set forth conditions under which actions with respect to devices or elements of design, referred to in par. (3), would not be deemed prohibited acts.
 
-    Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(1), inserted “or part C of this subchapter in the case of clean-fuel vehicles” before “(except”.
+    Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(1), inserted “or part C in the case of clean-fuel vehicles” before “(except”.
 
     Subsec. (a)(2). [Pub. L. 101–549][/us/pl/101/549], § 228(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for any person to fail or refuse to permit access to or copying of records or to fail to make reports or provide information, required under [section 7542 of this title][/us/usc/t42/s7542] or for any person to fail or refuse to permit entry, testing, or inspection authorized under [section 7525(c) of this title][/us/usc/t42/s7525/c];”.
 
@@ -81,15 +81,15 @@
 
     “(B) for any person engaged in the business of repairing, servicing, selling, leasing, or trading motor vehicles or motor vehicle engines, or who operates a fleet of motor vehicles, knowingly to remove or render inoperative any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter following its sale and delivery to the ultimate purchaser; or”.
 
-    Subsec. (a)(4). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(2), inserted “part C of this subchapter” after “[section 7521 of this title][/us/usc/t42/s7521]”.
+    Subsec. (a)(4). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(2), inserted “or part C” after “[section 7521 of this title][/us/usc/t42/s7521]”.
 
     Subsec. (a)(4)(A). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(3), inserted cl. (i) designation and added cl. (ii).
 
-    Subsec. (a)(4)(B). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(4), inserted at end “or the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles”.
+    Subsec. (a)(4)(B). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(4), inserted at end “or the corresponding requirements of part C in the case of clean fuel vehicles”.
 
-    Subsec. (a)(4)(C). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(5), inserted “and the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles” after “[section 7541 of this title][/us/usc/t42/s7541]”.
+    Subsec. (a)(4)(C). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(5), inserted “and the corresponding requirements of part C in the case of clean fuel vehicles” after “[section 7541 of this title][/us/usc/t42/s7541]”.
 
-    Subsec. (a)(4)(D). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(6), inserted “or the corresponding requirements of part C of this subchapter in the case of clean fuel vehicles” before “with respect to any vehicle”.
+    Subsec. (a)(4)(D). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(6), inserted “or the corresponding requirements of part C in the case of clean fuel vehicles” before “with respect to any vehicle”.
 
     Subsec. (a)(5). [Pub. L. 101–549][/us/pl/101/549], § 228(e)(7), added par. (5).
 

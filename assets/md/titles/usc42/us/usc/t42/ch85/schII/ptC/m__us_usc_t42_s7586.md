@@ -19,7 +19,7 @@
 
         (1) __SIP revision__ 
 
-            Each State in which there is located all or part of a covered area (as defined in paragraph (2)) shall submit, within 42 months after November 15, 1990, a State implementation plan revision under [section 7410 of this title][/us/usc/t42/s7410] and part D of subchapter I of this chapter to establish a clean-fuel vehicle program for fleets under this section.
+            Each State in which there is located all or part of a covered area (as defined in paragraph (2)) shall submit, within 42 months after November 15, 1990, a State implementation plan revision under [section 7410 of this title][/us/usc/t42/s7410] and part D of subchapter I to establish a clean-fuel vehicle program for fleets under this section.
 
         (2) __Covered areas__ 
 
@@ -35,7 +35,7 @@
 
         (3) __Plan revisions for reclassified areas__ 
 
-            In the case of ozone nonattainment areas reclassified as Serious, Severe, or Extreme under part D of subchapter I of this chapter with a 1980 population of 250,000 or more, the State shall submit a plan revision meeting the requirements of this subsection within 1 year after reclassification. Such plan revision shall implement the requirements applicable under this subsection at the time of reclassification and thereafter, except that the Administrator may adjust for a limited period the deadlines for compliance where compliance with such deadlines would be infeasible.
+            In the case of ozone nonattainment areas reclassified as Serious, Severe, or Extreme under part D of subchapter I with a 1980 population of 250,000 or more, the State shall submit a plan revision meeting the requirements of this subsection within 1 year after reclassification. Such plan revision shall implement the requirements applicable under this subsection at the time of reclassification and thereafter, except that the Administrator may adjust for a limited period the deadlines for compliance where compliance with such deadlines would be infeasible.
 
         (4) __Consultation; consideration of factors__ 
 
@@ -189,7 +189,7 @@
 
     (h) __Transportation control measures__ 
 
-        The Administrator shall by rule, within 1 year after November 15, 1990, ensure that certain transportation control measures including time-of-day or day-of-week restrictions, and other similar measures that restrict vehicle usage, do not apply to any clean-fuel vehicle that meets the requirements of this section. This subsection shall apply notwithstanding subchapter I of this chapter.
+        The Administrator shall by rule, within 1 year after November 15, 1990, ensure that certain transportation control measures including time-of-day or day-of-week restrictions, and other similar measures that restrict vehicle usage, do not apply to any clean-fuel vehicle that meets the requirements of this section. This subsection shall apply notwithstanding subchapter I.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 246, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2520][/us/stat/104/2520].)
 

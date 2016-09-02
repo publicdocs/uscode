@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–7.md) | [Next](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z%E2%80%938)
+[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–7.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z%E2%80%938)
 
 ## § 1437z–8. Collection of information on tenants in tax credit projects
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–7.md) | [Next](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z%E2%80%938)
+[Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–7.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437z–9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z%E2%80%938)
 
 ----------
 ----------

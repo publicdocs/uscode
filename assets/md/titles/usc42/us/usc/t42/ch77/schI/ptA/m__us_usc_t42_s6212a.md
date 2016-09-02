@@ -23,7 +23,7 @@
 
     (c) __Savings clause__ 
 
-        Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the National Emergencies Act ([50 U.S.C. 1601][/us/usc/t50/s1601] et seq.), part B of title II of the Energy Policy and Conservation Act ([42 U.S.C. 6271][/us/usc/t42/s6271] et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
+        Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the National Emergencies Act ([50 U.S.C. 1601][/us/usc/t50/s1601] et seq.), part B of title II of the Energy Policy and Conservation Act ([42 U.S.C. 6271][/us/usc/t42/s6271] et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
 
     (d) __Exceptions and presidential authority__ 
 
@@ -77,7 +77,6 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t42/s6271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6271
-[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

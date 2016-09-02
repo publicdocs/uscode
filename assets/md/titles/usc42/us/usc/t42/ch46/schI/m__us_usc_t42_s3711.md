@@ -43,6 +43,10 @@
 
  __Short Title of 2016 Amendment__ 
 
+[Pub. L. 114–199][/us/pl/114/199], § 1, July 22, 2016, [130 Stat. 780][/us/stat/130/780], provided that: 
+
+> “This Act \[amending [section 3796dd of this title][/us/usc/t42/s3796dd]\] may be cited as the ‘Protecting Our Lives by Initiating COPS Expansion Act of 2016’ or the ‘POLICE Act of 2016’.”
+
 [Pub. L. 114–155][/us/pl/114/155], § 1, May 16, 2016, [130 Stat. 389][/us/stat/130/389], provided that: 
 
 > “This Act \[amending sections 3766a, 3793, and 3796ll of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015’.”
@@ -261,6 +265,9 @@
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 [/us/pl/98/411/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs204
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
+[/us/pl/114/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F199
+[/us/stat/130/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F780
+[/us/usc/t42/s3796dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd
 [/us/pl/114/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F155
 [/us/stat/130/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F389
 [/us/pl/114/22/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtX

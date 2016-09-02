@@ -2731,7 +2731,7 @@
 
                     (V) The subcategory of patient safety and practice assessment, such as through use of clinical or surgical checklists and practice assessments related to maintaining certification.
 
-                    (VI) The subcategory of participation in an alternative payment model (as defined in section 1395l(z)(3)(C) of this title).
+                    (VI) The subcategory of participation in an alternative payment model (as defined in section 1395l(z)(3)(C) 2 of this title).
 
                  In establishing activities under this clause, the Secretary shall give consideration to the circumstances of small practices (consisting of 15 or fewer professionals) and practices located in rural areas and in health professional shortage areas (as designated under [section 254e(a)(1)(A) of this title][/us/usc/t42/s254e/a/1/A].
 

@@ -2367,6 +2367,70 @@ SUBCHAPTER XXI—SEX OFFENDER APPREHENSION GRANTS; JUVENILE SEX OFFENDER TREATME
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+SUBCHAPTER XXII–COMPREHENSIVE OPIOID ABUSE GRANT PROGRAM  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff" data-uslm-ref="/us/usc/t42/s3797ff">3797ff.</a>  </td>
+
+    <td> Description.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%931" data-uslm-ref="/us/usc/t42/s3797ff–1">3797ff–1.</a>  </td>
+
+    <td> Applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%932" data-uslm-ref="/us/usc/t42/s3797ff–2">3797ff–2.</a>  </td>
+
+    <td> Review of applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%933" data-uslm-ref="/us/usc/t42/s3797ff–3">3797ff–3.</a>  </td>
+
+    <td> Equitable distribution of funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%934" data-uslm-ref="/us/usc/t42/s3797ff–4">3797ff–4.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%935" data-uslm-ref="/us/usc/t42/s3797ff–5">3797ff–5.</a>  </td>
+
+    <td> Grant accountability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797ff%E2%80%936" data-uslm-ref="/us/usc/t42/s3797ff–6">3797ff–6.</a>  </td>
+
+    <td> Evaluation of performance of Department of Justice programs.  </td>
+
+  </tr>
+
 </table>
 
  __Codification__ 

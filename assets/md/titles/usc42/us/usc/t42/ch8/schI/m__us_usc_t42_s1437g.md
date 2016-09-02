@@ -185,9 +185,15 @@
 
     (g) __Limitations on use of funds__ 
 
-        (1) __Flexibility for Capital Fund amounts__ 
+        (1) __Flexibility in use of funds__ 
 
-            Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) of this section for assistance with amounts from the Operating Fund, but only if the public housing agency plan for the agency provides for such use.
+            (A) __Flexibility for Capital Fund amounts__ 
+
+                Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) of this section for assistance with amounts from the Operating Fund, but only if the public housing agency plan for the agency provides for such use.
+
+            (B) __Flexibility for Operating Fund amounts__ 
+
+                Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter that are allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] for the agency provides for such use.
 
         (2) __Full flexibility for small PHAs__ 
 
@@ -325,6 +331,10 @@
 
             Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligated amounts for violation by the public housing agency of the requirements of this subsection.
 
+        (7) __Treatment of replacement reserve__ 
+
+            The requirements of this subsection shall not apply to funds held in replacement reserves established pursuant to subsection (n).
+
     (k) __Treatment of nonrental income__ 
 
         A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
@@ -355,7 +365,41 @@
 
             This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 9, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 666][/us/stat/88/666]; amended [Pub. L. 94–375][/us/pl/94/375], § 2(c), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 101(b), Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(f), Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(g), Oct. 31, 1978, [92 Stat. 2093][/us/stat/92/2093]; [Pub. L. 96–153, title II][/us/pl/96/153/tII], §§ 201(c), 207, 211(a), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1109, 1110; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 201(b), (d), Oct. 8, 1980, [94 Stat. 1625][/us/stat/94/1625]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 321(d), 322(c), Aug. 13, 1981, [95 Stat. 399][/us/stat/95/399], 402; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 212\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3003, Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 112(b)(4), 118, Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824], 1828; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 507, 572(2), title VIII, § 802(p), Nov. 28, 1990, [104 Stat. 4186][/us/stat/104/4186], 4236, 4317; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 114, title VI, § 673, Oct. 28, 1992, [106 Stat. 3691][/us/stat/106/3691], 3827; [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 304, Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 218\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(5), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 210, title V, § 519(a), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2551; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 214(a)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–27; [Pub. L. 108–7, div. K, title II][/us/pl/108/7/dK/tII], § 212(a), Feb. 20, 2003, [117 Stat. 503][/us/stat/117/503]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 151, Aug. 8, 2005, [119 Stat. 648][/us/stat/119/648]; [Pub. L. 110–161, div. K, title II][/us/pl/110/161/dK/tII], § 229, Dec. 26, 2007, [121 Stat. 2438][/us/stat/121/2438]; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2804, July 30, 2008, [122 Stat. 2866][/us/stat/122/2866].)
+    (n) __Establishment of replacement reserves__ 
+
+        (1) __In general__ 
+
+            Public housing agencies shall be permitted to establish a replacement reserve to fund any of the capital activities listed in subsection (d)(1).
+
+        (2) __Source and amount of funds for replacement reserve__ 
+
+        At any time, a public housing agency may deposit funds from such agency’s Capital Fund into a replacement reserve, subject to the following:
+
+            (A) At the discretion of the Secretary, public housing agencies may transfer and hold in a replacement reserve funds originating from additional sources.
+
+            (B) No minimum transfer of funds to a replacement reserve shall be required.
+
+            (C) At any time, a public housing agency may not hold in a replacement reserve more than the amount the public housing authority has determined necessary to satisfy the anticipated capital needs of properties in its portfolio assisted under this section, as outlined in its Capital Fund 5-Year Action Plan, or a comparable plan, as determined by the Secretary.
+
+            (D) The Secretary may establish, by regulation, a maximum replacement reserve level or levels that are below amounts determined under subparagraph (C), which may be based upon the size of the portfolio assisted under this section or other factors.
+
+        (3) __Transfer of operating funds__ 
+
+            In first establishing a replacement reserve, the Secretary may allow public housing agencies to transfer more than 20 percent of its operating funds into its replacement reserve.
+
+        (4) __Expenditure__ 
+
+            Funds in a replacement reserve may be used for purposes authorized by subsection (d)(1) and contained in its Capital Fund 5-Year Action Plan.
+
+        (5) __Management and report__ 
+
+            The Secretary shall establish appropriate accounting and reporting requirements to ensure that public housing agencies are spending funds on eligible projects and that funds in the replacement reserve are connected to capital needs.
+
+    (o) __Public housing heating guidelines__ 
+
+        The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.
+
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 9, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 666][/us/stat/88/666]; amended [Pub. L. 94–375][/us/pl/94/375], § 2(c), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 101(b), Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(f), Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(g), Oct. 31, 1978, [92 Stat. 2093][/us/stat/92/2093]; [Pub. L. 96–153, title II][/us/pl/96/153/tII], §§ 201(c), 207, 211(a), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1109, 1110; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 201(b), (d), Oct. 8, 1980, [94 Stat. 1625][/us/stat/94/1625]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 321(d), 322(c), Aug. 13, 1981, [95 Stat. 399][/us/stat/95/399], 402; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 212\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3003, Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 112(b)(4), 118, Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824], 1828; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 507, 572(2), title VIII, § 802(p), Nov. 28, 1990, [104 Stat. 4186][/us/stat/104/4186], 4236, 4317; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 114, title VI, § 673, Oct. 28, 1992, [106 Stat. 3691][/us/stat/106/3691], 3827; [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 304, Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 218\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(5), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 210, title V, § 519(a), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2551; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 214(a)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–27; [Pub. L. 108–7, div. K, title II][/us/pl/108/7/dK/tII], § 212(a), Feb. 20, 2003, [117 Stat. 503][/us/stat/117/503]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 151, Aug. 8, 2005, [119 Stat. 648][/us/stat/119/648]; [Pub. L. 110–161, div. K, title II][/us/pl/110/161/dK/tII], § 229, Dec. 26, 2007, [121 Stat. 2438][/us/stat/121/2438]; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2804, July 30, 2008, [122 Stat. 2866][/us/stat/122/2866]; [Pub. L. 114–201, title I][/us/pl/114/201/tI], §§ 109, 111, July 29, 2016, [130 Stat. 801][/us/stat/130/801], 803.)
 
  __References in Text__ 
 
@@ -368,6 +412,14 @@
     A prior section 9 of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], [50 Stat. 891][/us/stat/50/891], as amended, authorized loans for low-rent housing and slum clearance projects and was classified to [section 1409 of this title][/us/usc/t42/s1409], prior to the general revision of this chapter by [Pub. L. 93–383][/us/pl/93/383]. Similar provisions are contained in [section 1437b of this title][/us/usc/t42/s1437b].
 
  __Amendments__ 
+
+    2016—Subsec. (g)(1). [Pub. L. 114–201][/us/pl/114/201], § 109(b), substituted “Flexibility in use of funds” for “Flexibility for Capital Fund amounts” in heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+    Subsec. (j)(7). [Pub. L. 114–201][/us/pl/114/201], § 109(a)(1), added par. (7).
+
+    Subsec. (n). [Pub. L. 114–201][/us/pl/114/201], § 109(a)(2), added subsec. (n).
+
+    Subsec. (o). [Pub. L. 114–201][/us/pl/114/201], § 111, added subsec. (o).
 
     2008—Subsecs. (k) to (n). [Pub. L. 110–289][/us/pl/110/289] redesignated subsecs. (l) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
 
@@ -602,6 +654,7 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t42/s1437j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437j
 [/us/usc/t42/s1437u/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437u%2Fd%2F2
 [/us/usc/t42/s1437u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437u
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s1437d/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F2
 [/us/usc/t42/s1437d/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj
 [/us/usc/t42/s1437d/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj
@@ -659,6 +712,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/121/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2438
 [/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2866
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F801
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/stat/112/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2518
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
@@ -670,6 +725,10 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t42/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1409
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/usc/t42/s1437b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437b
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

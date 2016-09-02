@@ -47,7 +47,7 @@
 
  __Assistance for Self-Help Housing Providers__ 
 
-[Pub. L. 104–120][/us/pl/104/120], § 11, Mar. 28, 1996, [110 Stat. 841][/us/stat/110/841], as amended by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(a), Oct. 21, 1998, [112 Stat. 2663][/us/stat/112/2663]; [Pub. L. 106–569, title II][/us/pl/106/569/tII], § 202, Dec. 27, 2000, [114 Stat. 2951][/us/stat/114/2951]; [Pub. L. 108–285][/us/pl/108/285], § 2, Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], provided that:
+[Pub. L. 104–120][/us/pl/104/120], § 11, Mar. 28, 1996, [110 Stat. 841][/us/stat/110/841], as amended by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(a), Oct. 21, 1998, [112 Stat. 2663][/us/stat/112/2663]; [Pub. L. 106–569, title II][/us/pl/106/569/tII], § 202, Dec. 27, 2000, [114 Stat. 2951][/us/stat/114/2951]; [Pub. L. 108–285][/us/pl/108/285], § 2, Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917]; [Pub. L. 114–201, title V][/us/pl/114/201/tV], § 502, July 29, 2016, [130 Stat. 811][/us/stat/130/811], provided that:
 
 >     “(a)  __Grant Authority__  __.—__ 
 
@@ -121,7 +121,9 @@
 
 >         “(3) a grant agreement entered into under subsection (i).
 
->     “\[(g) Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(a)(6), Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664].\]
+>     “(g)  __Energy Efficiency Requirements__  __.—__ 
+
+>     The Secretary may not require any dwelling developed using amounts from a grant made under this section to meet any energy efficiency standards other than the standards applicable at such time pursuant to section 109 of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12709][/us/usc/t42/s12709]) to housing specified in subsection (a) of such section.
 
 >     “(h)  __Geographical Diversity__  __.—__ 
 
@@ -250,8 +252,9 @@
 [/us/stat/114/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2951
 [/us/pl/108/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F285
 [/us/stat/118/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F917
-[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
-[/us/stat/112/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2664
+[/us/pl/114/201/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtV
+[/us/stat/130/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F811
+[/us/usc/t42/s12709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12709
 [/us/usc/t42/s3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3547
 [/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2664

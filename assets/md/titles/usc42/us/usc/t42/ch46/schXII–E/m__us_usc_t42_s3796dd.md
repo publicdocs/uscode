@@ -53,9 +53,11 @@
 
         (15) to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
 
-        (16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing; and
+        (16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing;
 
-        (17) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (16).
+        (17) to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities; and
+
+        (18) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (17).
 
     (c) __Preferential consideration of applications for certain grants__ 
 
@@ -163,7 +165,7 @@
 
         (3) __an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.__ 
 
-([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1701, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 119, Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302][/us/pl/105/302], § 1(1), Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 341, Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1163(a), Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 243, July 29, 2010, [124 Stat. 2292][/us/stat/124/2292]; [Pub. L. 114–22, title VI][/us/pl/114/22/tVI], § 601(1), title X, § 1002, May 29, 2015, [129 Stat. 258][/us/stat/129/258], 266.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1701, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 119, Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302][/us/pl/105/302], § 1(1), Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 341, Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1163(a), Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 243, July 29, 2010, [124 Stat. 2292][/us/stat/124/2292]; [Pub. L. 114–22, title VI][/us/pl/114/22/tVI], § 601(1), title X, § 1002, May 29, 2015, [129 Stat. 258][/us/stat/129/258], 266; [Pub. L. 114–199][/us/pl/114/199], § 2, July 22, 2016, [130 Stat. 780][/us/stat/130/780].)
 
  __References in Text__ 
 
@@ -174,6 +176,10 @@
     A prior [section 1701 of Pub. L. 90–351][/us/pl/90/351/s1701] was renumbered section 2601 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
 
  __Amendments__ 
+
+    2016—Subsec. (b)(17). [Pub. L. 114–199][/us/pl/114/199], § 2(1), (3), added par. (17). Former par. (17) redesignated (18).
+
+    Subsec. (b)(18). [Pub. L. 114–199][/us/pl/114/199], § 2(2), (4), redesignated par. (17) as (18) and substituted “(17)” for “(16)”.
 
     2015—Subsec. (c). [Pub. L. 114–22][/us/pl/114/22], § 601(1), substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
 
@@ -322,11 +328,15 @@
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
 [/us/pl/114/22/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVI
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
+[/us/pl/114/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F199
+[/us/stat/130/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F780
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1807
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/pl/90/351/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1701
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
+[/us/pl/114/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F199
+[/us/pl/114/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F199
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211

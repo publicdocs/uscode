@@ -445,7 +445,7 @@
 
                 (i) __In general__ 
 
-                    Upon the application of the Governor of a State, the Administrator shall apply the prohibition set forth in paragraph (5) in any area in the State classified under subpart 2 of part D of subchapter I of this chapter as a Marginal, Moderate, Serious, or Severe Area (without regard to whether or not the 1980 population of the area exceeds 250,000). In any such case, the Administrator shall establish an effective date for such prohibition as he deems appropriate, not later than January 1, 1995, or 1 year after such application is received, whichever is later. The Administrator shall publish such application in the Federal Register upon receipt.
+                    Upon the application of the Governor of a State, the Administrator shall apply the prohibition set forth in paragraph (5) in any area in the State classified under subpart 2 of part D of subchapter I as a Marginal, Moderate, Serious, or Severe Area (without regard to whether or not the 1980 population of the area exceeds 250,000). In any such case, the Administrator shall establish an effective date for such prohibition as he deems appropriate, not later than January 1, 1995, or 1 year after such application is received, whichever is later. The Administrator shall publish such application in the Federal Register upon receipt.
 
                 (ii) __Effect of insufficient domestic capacity to produce reformulated gasoline__ 
 
@@ -457,7 +457,7 @@
 
                     (I) __In general__ 
 
-                        On application of the Governor of a State in the ozone transport region established by [section 7511c(a) of this title][/us/usc/t42/s7511c/a], the Administrator, not later than 180 days after the date of receipt of the application, shall apply the prohibition specified in paragraph (5) to any area in the State (other than an area classified as a marginal, moderate, serious, or severe ozone nonattainment area under subpart 2 of part D of subchapter I of this chapter) unless the Administrator determines under clause (iii) that there is insufficient capacity to supply reformulated gasoline.
+                        On application of the Governor of a State in the ozone transport region established by [section 7511c(a) of this title][/us/usc/t42/s7511c/a], the Administrator, not later than 180 days after the date of receipt of the application, shall apply the prohibition specified in paragraph (5) to any area in the State (other than an area classified as a marginal, moderate, serious, or severe ozone nonattainment area under subpart 2 of part D of subchapter I) unless the Administrator determines under clause (iii) that there is insufficient capacity to supply reformulated gasoline.
 
                     (II) __Publication of application__ 
 
@@ -755,7 +755,7 @@
 
         (1) __Plan revisions for CO nonattainment areas__ 
 
-            (A) Each State in which there is located all or part of an area which is designated under subchapter I of this chapter as a nonattainment area for carbon monoxide and which has a carbon monoxide design value of 9.5 parts per million (ppm) or above based on data for the 2-year period of 1988 and 1989 and calculated according to the most recent interpretation methodology issued by the Administrator prior to November 15, 1990, shall submit to the Administrator a State implementation plan revision under [section 7410 of this title][/us/usc/t42/s7410] and part D of subchapter I of this chapter for such area which shall contain the provisions specified under this subsection regarding oxygenated gasoline.
+            (A) Each State in which there is located all or part of an area which is designated under subchapter I as a nonattainment area for carbon monoxide and which has a carbon monoxide design value of 9.5 parts per million (ppm) or above based on data for the 2-year period of 1988 and 1989 and calculated according to the most recent interpretation methodology issued by the Administrator prior to November 15, 1990, shall submit to the Administrator a State implementation plan revision under [section 7410 of this title][/us/usc/t42/s7410] and part D of subchapter I for such area which shall contain the provisions specified under this subsection regarding oxygenated gasoline.
 
             (B) A plan revision which contains such provisions shall also be submitted by each State in which there is located any area which, for any 2-year period after 1989 has a carbon monoxide design value of 9.5 ppm or above. The revision shall be submitted within 18 months after such 2-year period.
 

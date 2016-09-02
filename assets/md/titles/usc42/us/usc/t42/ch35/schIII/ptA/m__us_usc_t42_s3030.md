@@ -17,17 +17,17 @@
 
     (a) __Application; limitations__ 
 
-        (1) The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X of this chapter), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
+        (1) The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
 
-        (2) Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+        (2) Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV.
 
         (3) If the Assistant Secretary decides, in the 5-day period beginning on the date such disaster is declared by the President, to provide an amount of reimbursement under paragraph (1) to a State or such tribal organization, then the Assistant Secretary shall provide not less than 75 percent of such amount to such State or such tribal organization not later than 5 days after the date of such decision.
 
     (b) __Setting aside of funds by Assistant Secretary__ 
 
-        (1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+        (1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV.
 
-        (2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV of this chapter.
+        (2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV.
 
     (c) __Effect on other laws__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
+    2000—Subsec. (a)(1). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
 
     Subsec. (a)(2). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(B), inserted “and such tribal organizations” after “States”.
 
@@ -55,13 +55,13 @@
 
     1992—Subsec. (a)(1). [Pub. L. 102–375][/us/pl/102/375], §§ 102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for “area agencies” and inserted “(and related supplies)” after “supportive services”.
 
-    Subsec. (a)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (a)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
     Subsec. (a)(3). [Pub. L. 102–375][/us/pl/102/375], § 309(1)(B), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
-    Subsec. (b)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2)(B), substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (b)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2)(B), substituted “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
     1988—Subsec. (a)(1). [Pub. L. 100–707][/us/pl/100/707] substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 

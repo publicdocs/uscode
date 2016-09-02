@@ -127,13 +127,19 @@
 
                 (ii)
 
-                 policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+                 policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
                     (I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
                     (II) require prosecution for any illegal action;
 
-                (iii) the development of a plan of safe care for the infant born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+                (iii)
+
+                 the development of a plan of safe care for the infant born and identified as being affected by substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
+
+                    (I) addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
+
+                    (II) the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver;
 
                 (iv) procedures for the immediate screening, risk and safety assessment, and prompt investigation of such reports;
 
@@ -145,7 +151,7 @@
 
                 (viii)
 
-                 methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III of this chapter shall only be made available to—
+                 methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
                     (I) individuals who are the subject of the report;
 
@@ -411,6 +417,16 @@
 
         (16) The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431][/us/usc/t20/s1431] et seq.).
 
+        (17)
+
+         The number of infants—
+
+            (A) identified under subsection (b)(2)(B)(ii);
+
+            (B) for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
+
+            (C) for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
+
     (e) __Annual report by Secretary__ 
 
         Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
@@ -469,9 +485,11 @@
 
             Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 106, formerly § 8, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 110][/us/stat/102/110]; renumbered title I, § 107, [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; amended [Pub. L. 102–295, title I][/us/pl/102/295/tI], § 114(a)–(c), May 28, 1992, [106 Stat. 192][/us/stat/106/192], 195; [Pub. L. 102–586][/us/pl/102/586], § 9(b), Nov. 4, 1992, [106 Stat. 5037][/us/stat/106/5037]; renumbered § 106 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 107, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3071][/us/stat/110/3071], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 114(a)–(d), June 25, 2003, [117 Stat. 808–812][/us/stat/117/808-812]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 115, Dec. 20, 2010, [124 Stat. 3467][/us/stat/124/3467]; [Pub. L. 114–22, title VIII][/us/pl/114/22/tVIII], § 802(b), May 29, 2015, [129 Stat. 263][/us/stat/129/263].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 106, formerly § 8, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 110][/us/stat/102/110]; renumbered title I, § 107, [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; amended [Pub. L. 102–295, title I][/us/pl/102/295/tI], § 114(a)–(c), May 28, 1992, [106 Stat. 192][/us/stat/106/192], 195; [Pub. L. 102–586][/us/pl/102/586], § 9(b), Nov. 4, 1992, [106 Stat. 5037][/us/stat/106/5037]; renumbered § 106 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 107, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3071][/us/stat/110/3071], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 114(a)–(d), June 25, 2003, [117 Stat. 808–812][/us/stat/117/808-812]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 115, Dec. 20, 2010, [124 Stat. 3467][/us/stat/124/3467]; [Pub. L. 114–22, title VIII][/us/pl/114/22/tVIII], § 802(b), May 29, 2015, [129 Stat. 263][/us/stat/129/263]; [Pub. L. 114–198, title V][/us/pl/114/198/tV], § 503(b), (c), July 22, 2016, [130 Stat. 729][/us/stat/130/729], 730.)
 
  __Amendment of Section__ 
+
+    [Pub. L. 114–198, title V][/us/pl/114/198/tV], § 503(c)(2), July 22, 2016, [130 Stat. 730][/us/stat/130/730], provided that, effective May 29, 2017, subsection (d) of this section is amended by redesignating the paragraph (17) added by [Pub. L. 114–198][/us/pl/114/198] as (18). See 2016 Amendment note below.
 
     [Pub. L. 114–22, title VIII][/us/pl/114/22/tVIII], § 802(a), (b), May 29, 2015, [129 Stat. 263][/us/stat/129/263], provided that, effective 2 years after May 29, 2015, this section is amended—
 
@@ -505,9 +523,21 @@
 
  __Amendments__ 
 
+    2016—Subsec. (b)(2)(B)(ii). [Pub. L. 114–198][/us/pl/114/198], § 503(b)(1), substituted “substance abuse” for “illegal substance abuse” in introductory provisions.
+
+    Subsec. (b)(2)(B)(iii). [Pub. L. 114–198][/us/pl/114/198], § 503(b)(2), substituted “substance abuse” for “illegal substance abuse” and inserted before semicolon at end “to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
+
+    “(I) addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
+
+    “(II) the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver”.
+
+    Subsec. (d)(17). [Pub. L. 114–198][/us/pl/114/198], § 503(c)(1), added par. (17) relating to the number of infants described in subsec. (b)(2)(B)(ii) and (iii).
+
+    Subsec. (d)(18). [Pub. L. 114–198][/us/pl/114/198], § 503(c)(2), redesignated par. (17) relating to the number of infants described in subsec. (b)(2)(B)(ii) and (iii) as (18).
+
     2015—Subsec. (b)(2)(B)(xxiv), (xxv). [Pub. L. 114–22][/us/pl/114/22], § 802(b)(1), added cls. (xxiv) and (xxv).
 
-    Subsec. (d)(17). [Pub. L. 114–22][/us/pl/114/22], § 802(b)(2), added par. (17).
+    Subsec. (d)(17). [Pub. L. 114–22][/us/pl/114/22], § 802(b)(2), added par. (17) relating to the number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
 
     2010—[Pub. L. 111–320][/us/pl/111/320], § 115(a), substituted “child abuse or neglect” for “child abuse and neglect” in section catchline.
 
@@ -705,6 +735,10 @@
 
     Subsecs. (e) to (g). [Pub. L. 102–295][/us/pl/102/295], § 114(b)(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
+ __Effective Date of 2016 Amendment__ 
+
+    [Pub. L. 114–198, title V][/us/pl/114/198/tV], § 503(c)(2), July 22, 2016, [130 Stat. 730][/us/stat/130/730], provided that the amendment made by section 503(c)(2) is effective on May 29, 2017.
+
  __Effective Date of 2015 Amendment__ 
 
 [Pub. L. 114–22, title VIII][/us/pl/114/22/tVIII], § 802(a), May 29, 2015, [129 Stat. 263][/us/stat/129/263], provided that: 
@@ -722,6 +756,12 @@
 > “The amendments made by subsection (a) \[amending [section 114(d) of Pub. L. 102–295][/us/pl/102/295/s114/d], set out above\] take effect on September 30, 1993.”
 
 \]
+
+ __Construction of 2016 Amendment__ 
+
+[Pub. L. 114–198, title V][/us/pl/114/198/tV], § 503(e), July 22, 2016, [130 Stat. 731][/us/stat/130/731], provided that: 
+
+> “Nothing in this section \[enacting [section 5108 of this title][/us/usc/t42/s5108], amending this section and [section 5104 of this title][/us/usc/t42/s5104], and enacting provisions set out as a note above\], or the amendments made by this section, shall be construed to authorize the Secretary of Health and Human Services or any other officer of the Federal Government to add new requirements to section 106(b) of the Child Abuse Prevention and Treatment Act ([42 U.S.C. 5106a(b)][/us/usc/t42/s5106a/b]), as amended by this section.”
 
  __Report__ 
 
@@ -791,6 +831,11 @@
 [/us/stat/124/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3467
 [/us/pl/114/22/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVIII
 [/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F729
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F730
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/114/22/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVIII
 [/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
 [/us/usc/t22/s7102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F10
@@ -805,6 +850,10 @@
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/93/247/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs106
 [/us/usc/t42/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
@@ -908,6 +957,8 @@
 [/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
 [/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
 [/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F730
 [/us/pl/114/22/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVIII
 [/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
@@ -921,6 +972,11 @@
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
 [/us/pl/102/295/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs114%2Fd
+[/us/pl/114/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtV
+[/us/stat/130/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F731
+[/us/usc/t42/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5108
+[/us/usc/t42/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5104
+[/us/usc/t42/s5106a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fb
 [/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F812
 [/us/usc/t42/s5106a/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fb%2F2%2FB%2Fii

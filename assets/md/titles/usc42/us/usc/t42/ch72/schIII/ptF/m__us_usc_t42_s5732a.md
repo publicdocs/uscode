@@ -65,11 +65,11 @@
 
          who is—
 
-            (i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A of this subchapter, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  facilities; and
+            (i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  facilities; and
 
             (ii)
 
-             for the purposes of part B of this subchapter, not less than 16 years of age and either—
+             for the purposes of part B, not less than 16 years of age and either—
 
                 (I) less than 22 years of age; or
 
@@ -157,7 +157,7 @@
 
     Pars. (4) to (8). [Pub. L. 110–378][/us/pl/110/378], § 10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-    2003—Subsec. (3)(A)(i). [Pub. L. 108–96][/us/pl/108/96] inserted “, or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age” after “of age”.
+    2003—Subsec. (3)(A)(i). [Pub. L. 108–96][/us/pl/108/96] inserted “, or, in the case of a youth seeking shelter in a center under part A, not more than 18 years of age” after “of age”.
 
 ----------
 

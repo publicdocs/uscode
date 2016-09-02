@@ -49,7 +49,7 @@
 
         (1) allocate a minimum of 25 percent of available financial assistance to existing small municipal and rural powerplants; and
 
-        (2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III of this chapter (or under [section 792 of title 15][/us/usc/t15/s792]).
+        (2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III (or under [section 792 of title 15][/us/usc/t15/s792]).
 
     (d) __Definitions__ 
 

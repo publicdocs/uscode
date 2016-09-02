@@ -41,9 +41,9 @@
 
     (f) __Underground storage tanks__ 
 
-        (1) There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX of this chapter (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
+        (1) There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
 
-        (2) There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX of this chapter.
+        (2) There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX.
 
 ([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2007, formerly § 2006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805], renumbered [Pub. L. 96–463][/us/pl/96/463], § 4(a), Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; amended [Pub. L. 96–482][/us/pl/96/482], §§ 6, 31(a), Oct. 21, 1980, [94 Stat. 2336][/us/stat/94/2336], 2352; [Pub. L. 98–616][/us/pl/98/616], § 2(a), (i), Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222], 3223.)
 

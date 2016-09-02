@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptE/m__us_usc_t42_s258a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptF/m__us_usc_t42_ch6A_schII_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs259...261a)
 
-## §§ 259 to 261a. Repealed. [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3405(a), Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221]
+## §§ 259 to 261a. Repealed. [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3405(a), Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221], as amended by [Pub. L. 114–198, title I][/us/pl/114/198/tI], § 110(b), July 22, 2016, [130 Stat. 710][/us/stat/130/710]
 
     Section 259, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 343, [58 Stat. 699][/us/stat/58/699]; [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 2(a)(2)(A), (3), (4), Oct. 27, 1970, [84 Stat. 1240][/us/stat/84/1240]; [Pub. L. 92–293][/us/pl/92/293], § 3, May 11, 1972, [86 Stat. 136][/us/stat/86/136]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 232(b), Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], related to convict addicts or other persons with drug abuse or drug dependence problems.
 
@@ -25,6 +25,10 @@
 
     Section 261a, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 347, as added [May 8, 1954, ch. 195][/us/act/1954-05-08/ch195], § 4, [68 Stat. 80][/us/stat/68/80]; amended [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 2(a)(4), Oct. 27, 1970, [84 Stat. 1240][/us/stat/84/1240], related to release of patients and determination by Surgeon General.
 
+ __Effective Date of 2016 Amendment__ 
+
+    [Pub. L. 114–198, title I][/us/pl/114/198/tI], § 110(b), July 22, 2016, [130 Stat. 710][/us/stat/130/710], provided that the amendment made by section 110(b) (amending directory language of [section 3405(a) of Pub. L. 106–310][/us/pl/106/310/s3405/a], which repealed sections 259 to 261a of this title) is effective as if included in the enactment of [Pub. L. 106–310][/us/pl/106/310].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptE/m__us_usc_t42_s258a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptF/m__us_usc_t42_ch6A_schII_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs259...261a)
@@ -34,6 +38,8 @@
 
 [/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1221
+[/us/pl/114/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtI
+[/us/stat/130/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F710
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F699
 [/us/pl/91/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtI
@@ -68,5 +74,9 @@
 [/us/stat/68/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F80
 [/us/pl/91/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtI
 [/us/stat/84/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1240
+[/us/pl/114/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtI
+[/us/stat/130/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F710
+[/us/pl/106/310/s3405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3405%2Fa
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 
 

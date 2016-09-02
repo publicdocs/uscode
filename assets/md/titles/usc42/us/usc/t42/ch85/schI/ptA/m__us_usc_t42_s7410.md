@@ -33,7 +33,7 @@
 
                 (ii) upon request, make such data available to the Administrator;
 
-            (C) include a program to provide for the enforcement of the measures described in subparagraph (A), and regulation of the modification and construction of any stationary source within the areas covered by the plan as necessary to assure that national ambient air quality standards are achieved, including a permit program as required in parts C and D of this subchapter;
+            (C) include a program to provide for the enforcement of the measures described in subparagraph (A), and regulation of the modification and construction of any stationary source within the areas covered by the plan as necessary to assure that national ambient air quality standards are achieved, including a permit program as required in parts C and D;
 
             (D)
 
@@ -45,7 +45,7 @@
 
                     (I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
-                    (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C of this subchapter to prevent significant deterioration of air quality or to protect visibility,
+                    (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility,
 
                 (ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
@@ -71,9 +71,9 @@
 
                 (ii) except as provided in paragraph (3)(C), whenever the Administrator finds on the basis of information available to the Administrator that the plan is substantially inadequate to attain the national ambient air quality standard which it implements or to otherwise comply with any additional requirements established under this chapter;
 
-            (I) in the case of a plan or plan revision for an area designated as a nonattainment area, meet the applicable requirements of part D of this subchapter (relating to nonattainment areas);
+            (I) in the case of a plan or plan revision for an area designated as a nonattainment area, meet the applicable requirements of part D (relating to nonattainment areas);
 
-            (J) meet the applicable requirements of [section 7421 of this title][/us/usc/t42/s7421] (relating to consultation), [section 7427 of this title][/us/usc/t42/s7427] (relating to public notification), and part C of this subchapter (relating to prevention of significant deterioration of air quality and visibility protection);
+            (J) meet the applicable requirements of [section 7421 of this title][/us/usc/t42/s7421] (relating to consultation), [section 7427 of this title][/us/usc/t42/s7427] (relating to public notification), and part C (relating to prevention of significant deterioration of air quality and visibility protection);
 
             (K)
 
@@ -91,7 +91,7 @@
 
                 (ii) if the owner or operator receives a permit for such source, the reasonable costs of implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
-                until such fee requirement is superseded with respect to such sources by the Administrator’s approval of a fee program under subchapter V of this chapter; and
+                until such fee requirement is superseded with respect to such sources by the Administrator’s approval of a fee program under subchapter V; and
 
             (M) provide for consultation and participation by local political subdivisions affected by the plan.
 
@@ -185,7 +185,7 @@
 
                 and such revised plan shall, for the purpose of implementing such comprehensive public transportation measures, include requirements to use (insofar as is necessary) Federal grants, State or local funds, or any combination of such grants and funds as may be consistent with the terms of the legislation providing such grants and funds. Such measures shall, as a substitute for the tolls or charges eliminated under subparagraph (A), provide for emissions reductions equivalent to the reductions which may reasonably be expected to be achieved through the use of the tolls or charges eliminated.
 
-            (C) Any revision of an implementation plan for purposes of meeting the requirements of subparagraph (B) shall be submitted in coordination with any plan revision required under part D of this subchapter.
+            (C) Any revision of an implementation plan for purposes of meeting the requirements of subparagraph (B) shall be submitted in coordination with any plan revision required under part D.
 
     (d) __, (e) Repealed.__  __[__  __Pub. L. 101–549, title I__  __][/us/pl/101/549/tI]__  __, § 101(d)(4), (5),__  __Nov. 15, 1990__  __,__  __[__  __104 Stat. 2409__  __][/us/stat/104/2409]__ 
 
@@ -277,7 +277,7 @@
 
         (5) __Calls for plan revisions__ 
 
-            Whenever the Administrator finds that the applicable implementation plan for any area is substantially inadequate to attain or maintain the relevant national ambient air quality standard, to mitigate adequately the interstate pollutant transport described in [section 7506a of this title][/us/usc/t42/s7506a] or [section 7511c of this title][/us/usc/t42/s7511c], or to otherwise comply with any requirement of this chapter, the Administrator shall require the State to revise the plan as necessary to correct such inadequacies. The Administrator shall notify the State of the inadequacies, and may establish reasonable deadlines (not to exceed 18 months after the date of such notice) for the submission of such plan revisions. Such findings and notice shall be public. Any finding under this paragraph shall, to the extent the Administrator deems appropriate, subject the State to the requirements of this chapter to which the State was subject when it developed and submitted the plan for which such finding was made, except that the Administrator may adjust any dates applicable under such requirements as appropriate (except that the Administrator may not adjust any attainment date prescribed under part D of this subchapter, unless such date has elapsed).
+            Whenever the Administrator finds that the applicable implementation plan for any area is substantially inadequate to attain or maintain the relevant national ambient air quality standard, to mitigate adequately the interstate pollutant transport described in [section 7506a of this title][/us/usc/t42/s7506a] or [section 7511c of this title][/us/usc/t42/s7511c], or to otherwise comply with any requirement of this chapter, the Administrator shall require the State to revise the plan as necessary to correct such inadequacies. The Administrator shall notify the State of the inadequacies, and may establish reasonable deadlines (not to exceed 18 months after the date of such notice) for the submission of such plan revisions. Such findings and notice shall be public. Any finding under this paragraph shall, to the extent the Administrator deems appropriate, subject the State to the requirements of this chapter to which the State was subject when it developed and submitted the plan for which such finding was made, except that the Administrator may adjust any dates applicable under such requirements as appropriate (except that the Administrator may not adjust any attainment date prescribed under part D, unless such date has elapsed).
 
         (6) __Corrections__ 
 
@@ -309,7 +309,7 @@
 
         (3) __Retention of construction moratorium in certain areas__ 
 
-            In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of [section 7502(b)(6) of this title][/us/usc/t42/s7502/b/6] (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of [section 7502(c)(5) of this title][/us/usc/t42/s7502/c/5] (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+            In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of [section 7502(b)(6) of this title][/us/usc/t42/s7502/b/6] (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of [section 7502(c)(5) of this title][/us/usc/t42/s7502/c/5] (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
     (o) __Indian tribes__ 
 

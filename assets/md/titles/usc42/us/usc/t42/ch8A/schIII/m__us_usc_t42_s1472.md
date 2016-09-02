@@ -477,7 +477,21 @@
 
                 The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 502, [63 Stat. 433][/us/stat/63/433]; [Pub. L. 87–70, title VIII][/us/pl/87/70/tVIII], § 801(b), June 30, 1961, [75 Stat. 186][/us/stat/75/186]; [Pub. L. 87–723][/us/pl/87/723], § 4(a)(2), Sept. 28, 1962, [76 Stat. 671][/us/stat/76/671]; [Pub. L. 89–117, title X][/us/pl/89/117/tX], § 1002, Aug. 10, 1965, [79 Stat. 497][/us/stat/79/497]; [Pub. L. 89–754, title VIII][/us/pl/89/754/tVIII], § 802, Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 505(b), Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–128, title V][/us/pl/95/128/tV], § 502(a), Oct. 12, 1977, [91 Stat. 1139][/us/stat/91/1139]; [Pub. L. 96–153, title V][/us/pl/96/153/tV], § 503, Dec. 21, 1979, [93 Stat. 1134][/us/stat/93/1134]; [Pub. L. 96–399, title V][/us/pl/96/399/tV], § 514(a), Oct. 8, 1980, [94 Stat. 1671][/us/stat/94/1671]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 503(a), (d)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240], 1241; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 105(b)(1), Oct. 17, 1984, [98 Stat. 2226][/us/stat/98/2226]; [Pub. L. 100–242, title II][/us/pl/100/242/tII], § 241, title III, § 314, Feb. 5, 1988, [101 Stat. 1886][/us/stat/101/1886], 1897; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1028, Nov. 7, 1988, [102 Stat. 3271][/us/stat/102/3271]; [Pub. L. 101–235, title II][/us/pl/101/235/tII], § 206, Dec. 15, 1989, [103 Stat. 2041][/us/stat/103/2041]; [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], §§ 704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, [104 Stat. 4283][/us/stat/104/4283], 4284, 4297; [Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 743(b), Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915]; [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], §§ 701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, [106 Stat. 3834][/us/stat/106/3834], 3835, 3841; [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 734(c)(3)(A), (B), Aug. 6, 1996, [110 Stat. 1602][/us/stat/110/1602]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599C(e)(2)(A), (f), Oct. 21, 1998, [112 Stat. 2662][/us/stat/112/2662], 2663; [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 701, Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013]; [Pub. L. 108–285][/us/pl/108/285], § 3(b), (c), Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], 918; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 726(b), Dec. 8, 2004, [118 Stat. 2842][/us/stat/118/2842]; [Pub. L. 111–22, div. A, title I][/us/pl/111/22/dA/tI], § 101(a), (b), May 20, 2009, [123 Stat. 1633][/us/stat/123/1633], 1635; [Pub. L. 111–212, title I][/us/pl/111/212/tI], § 102(a), July 29, 2010, [124 Stat. 2303][/us/stat/124/2303].)
+        (18) __Delegation of approval__ 
+
+            The Secretary may delegate, in part or in full, the Secretary’s authority to approve and execute binding Rural Housing Service loan guarantees pursuant to this subsection to certain preferred lenders, in accordance with standards established by the Secretary.
+
+    (i) __Guaranteed underwriting user fee__ 
+
+        (1) __Authority; maximum amount__ 
+
+            The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+
+        (2) __Crediting; availability__ 
+
+            Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
+
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 502, [63 Stat. 433][/us/stat/63/433]; [Pub. L. 87–70, title VIII][/us/pl/87/70/tVIII], § 801(b), June 30, 1961, [75 Stat. 186][/us/stat/75/186]; [Pub. L. 87–723][/us/pl/87/723], § 4(a)(2), Sept. 28, 1962, [76 Stat. 671][/us/stat/76/671]; [Pub. L. 89–117, title X][/us/pl/89/117/tX], § 1002, Aug. 10, 1965, [79 Stat. 497][/us/stat/79/497]; [Pub. L. 89–754, title VIII][/us/pl/89/754/tVIII], § 802, Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 505(b), Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–128, title V][/us/pl/95/128/tV], § 502(a), Oct. 12, 1977, [91 Stat. 1139][/us/stat/91/1139]; [Pub. L. 96–153, title V][/us/pl/96/153/tV], § 503, Dec. 21, 1979, [93 Stat. 1134][/us/stat/93/1134]; [Pub. L. 96–399, title V][/us/pl/96/399/tV], § 514(a), Oct. 8, 1980, [94 Stat. 1671][/us/stat/94/1671]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 503(a), (d)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240], 1241; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 105(b)(1), Oct. 17, 1984, [98 Stat. 2226][/us/stat/98/2226]; [Pub. L. 100–242, title II][/us/pl/100/242/tII], § 241, title III, § 314, Feb. 5, 1988, [101 Stat. 1886][/us/stat/101/1886], 1897; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1028, Nov. 7, 1988, [102 Stat. 3271][/us/stat/102/3271]; [Pub. L. 101–235, title II][/us/pl/101/235/tII], § 206, Dec. 15, 1989, [103 Stat. 2041][/us/stat/103/2041]; [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], §§ 704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, [104 Stat. 4283][/us/stat/104/4283], 4284, 4297; [Pub. L. 102–142, title VII][/us/pl/102/142/tVII], § 743(b), Oct. 28, 1991, [105 Stat. 915][/us/stat/105/915]; [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], §§ 701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, [106 Stat. 3834][/us/stat/106/3834], 3835, 3841; [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 734(c)(3)(A), (B), Aug. 6, 1996, [110 Stat. 1602][/us/stat/110/1602]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599C(e)(2)(A), (f), Oct. 21, 1998, [112 Stat. 2662][/us/stat/112/2662], 2663; [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 701, Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013]; [Pub. L. 108–285][/us/pl/108/285], § 3(b), (c), Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], 918; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 726(b), Dec. 8, 2004, [118 Stat. 2842][/us/stat/118/2842]; [Pub. L. 111–22, div. A, title I][/us/pl/111/22/dA/tI], § 101(a), (b), May 20, 2009, [123 Stat. 1633][/us/stat/123/1633], 1635; [Pub. L. 111–212, title I][/us/pl/111/212/tI], § 102(a), July 29, 2010, [124 Stat. 2303][/us/stat/124/2303]; [Pub. L. 114–201, title II][/us/pl/114/201/tII], §§ 201, 202, July 29, 2016, [130 Stat. 805][/us/stat/130/805].)
 
  __References in Text__ 
 
@@ -492,6 +506,10 @@
     This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
  __Amendments__ 
+
+    2016—Subsec. (h)(18). [Pub. L. 114–201][/us/pl/114/201], § 201, added par. (18).
+
+    Subsec. (i). [Pub. L. 114–201][/us/pl/114/201], § 202, added subsec. (i).
 
     2010—Subsec. (h)(8). [Pub. L. 111–212][/us/pl/111/212] amended par. (8) generally. Prior to amendment, text read as follows: “With respect to a guaranteed loan under this subsection, the Secretary may collect from the lender at the time of issuance of the guarantee a fee equal to not more than 1 percent of the principal obligation of the loan.”
 
@@ -848,6 +866,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/123/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1633
 [/us/pl/111/212/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtI
 [/us/stat/124/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2303
+[/us/pl/114/201/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtII
+[/us/stat/130/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F805
 [/us/usc/t42/s1484/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1484%2Fj
 [/us/pl/106/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVII
 [/us/stat/114/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3018
@@ -859,6 +879,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F433
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/111/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22

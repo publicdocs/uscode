@@ -21,7 +21,7 @@
 
         (2) An applicant for a grant under paragraph (1) shall determine whether the program to be supported by the grant is a program under part A, B, or C, and shall submit an application as required for such program.
 
-        (3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C of this subchapter under which the program supported by such grant is to be carried out.
+        (3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C under which the program supported by such grant is to be carried out.
 
         (4)
 

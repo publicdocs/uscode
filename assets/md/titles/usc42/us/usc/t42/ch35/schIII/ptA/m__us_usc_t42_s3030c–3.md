@@ -37,7 +37,7 @@
 
         (3) any State plan requirement described in [section 3027(a) of this title][/us/usc/t42/s3027/a] if granting the waiver will promote innovations or improve service delivery and will not diminish services already provided under this chapter;
 
-        (4) any restriction under paragraph (5) of [section 3028(b) of this title][/us/usc/t42/s3028/b], on the amount that may be transferred between programs carried out under part B of this subchapter and part C of this subchapter; and
+        (4) any restriction under paragraph (5) of [section 3028(b) of this title][/us/usc/t42/s3028/b], on the amount that may be transferred between programs carried out under part B and part C; and
 
         (5) the requirement of [section 3029(c) of this title][/us/usc/t42/s3029/c] that certain amounts of a State allotment be used for the provision of services, with respect to a State that reduces expenditures under the State plan of the State (but only to the extent that the non-Federal share of the expenditures is not reduced below any minimum specified in [section 3024(d) of this title][/us/usc/t42/s3024/d] or any other provision of this subchapter).
 

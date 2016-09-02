@@ -185,7 +185,7 @@
 
                 (i) __Criminal funds and property__ 
 
-                    All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+                    All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
 
                 (ii) __Civil funds and property__ 
 
@@ -381,7 +381,6 @@
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t26/s9602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9602

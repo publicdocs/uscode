@@ -319,7 +319,7 @@
 
              The Assistant Secretary shall make grants or enter into contracts with eligible entities to establish the National Aging Information Center (in this subsection referred to as the “Center”) to—
 
-                (i) provide information about grants and projects under subchapter IV of this chapter;
+                (i) provide information about grants and projects under subchapter IV;
 
                 (ii)
 

@@ -151,6 +151,12 @@
 
     Amendment by [Pub. L. 86–70][/us/pl/86/70] effective Jan. 3, 1959, see [section 47(d) of Pub. L. 86–70][/us/pl/86/70/s47/d].
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–198][/us/pl/114/198], § 1(a), July 22, 2016, [130 Stat. 695][/us/stat/130/695], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Comprehensive Addiction and Recovery Act of 2016’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–113, div. O, title III][/us/pl/114/113/dO/tIII], § 301, Dec. 18, 2015, [129 Stat. 2996][/us/stat/129/2996], provided that: 
@@ -1581,6 +1587,8 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/stat/130/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F695
 [/us/pl/114/113/dO/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIII
 [/us/stat/129/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2996
 [/us/pl/114/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104

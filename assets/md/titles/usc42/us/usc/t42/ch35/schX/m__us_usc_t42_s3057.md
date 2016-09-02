@@ -15,7 +15,7 @@
 
 ## § 3057. Statement of purpose
 
-    It is the purpose of this subchapter to promote the delivery of supportive services, including nutrition services to American Indians, Alaskan Natives, and Native Hawaiians that are comparable to services provided under subchapter III of this chapter.
+    It is the purpose of this subchapter to promote the delivery of supportive services, including nutrition services to American Indians, Alaskan Natives, and Native Hawaiians that are comparable to services provided under subchapter III.
 
 ([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 601, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 959][/us/stat/101/959].)
 

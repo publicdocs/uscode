@@ -141,7 +141,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427] was renumbered section 432 and is classified to [section 11387 of this title][/us/usc/t42/s11387].
+    A prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427] was renumbered section 433 and is classified to [section 11387 of this title][/us/usc/t42/s11387].
 
     Another prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 453, Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236], which provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, was classified to [section 11387 of this title][/us/usc/t42/s11387] prior to repeal by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 

@@ -23,9 +23,9 @@
 
         (2) any regulation under [section 7411(d) of this title][/us/usc/t42/s7411/d],
 
-        (3) any regulation under part B  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of subchapter I of this chapter (relating to ozone and stratosphere protection),
+        (3) any regulation under part B  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of subchapter I (relating to ozone and stratosphere protection),
 
-        (4) any regulation under part C of subchapter I of this chapter (relating to prevention of significant deterioration of air quality),
+        (4) any regulation under part C of subchapter I (relating to prevention of significant deterioration of air quality),
 
         (5) any regulation establishing emission standards under [section 7521 of this title][/us/usc/t42/s7521] and any other regulation promulgated under that section,
 
@@ -81,7 +81,7 @@
 
  __References in Text__ 
 
-    Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 601, Nov. 15, 1990, [104 Stat. 2648][/us/stat/104/2648]. See subchapter VI (§ 7671 et seq.) of this chapter.
+    Part B of subchapter I, referred to in subsec. (a)(3), was repealed by [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 601, Nov. 15, 1990, [104 Stat. 2648][/us/stat/104/2648]. See subchapter VI (§ 7671 et seq.) of this chapter.
 
  __Codification__ 
 

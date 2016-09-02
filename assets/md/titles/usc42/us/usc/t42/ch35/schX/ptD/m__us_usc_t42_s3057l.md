@@ -15,7 +15,7 @@
 
 ## § 3057l. Administration
 
-    In establishing regulations for the purpose of part A of this subchapter the Assistant Secretary shall consult with the Secretary of the Interior.
+    In establishing regulations for the purpose of part A the Assistant Secretary shall consult with the Secretary of the Interior.
 
 ([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 641, formerly § 631, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 963][/us/stat/101/963]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; renumbered § 641, [Pub. L. 106–501, title VI][/us/pl/106/501/tVI], § 604(2), Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288].)
 

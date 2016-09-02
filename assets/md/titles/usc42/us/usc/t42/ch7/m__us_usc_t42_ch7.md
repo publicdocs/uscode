@@ -2273,6 +2273,14 @@ Part A—General Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937n" data-uslm-ref="/us/usc/t42/s1320a–7n">1320a–7n.</a>  </td>
+
+    <td> Disclosure of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938" data-uslm-ref="/us/usc/t42/s1320a–8">1320a–8.</a>  </td>
 
     <td> Civil monetary penalties and assessments for subchapters II, VIII and XVI.  </td>

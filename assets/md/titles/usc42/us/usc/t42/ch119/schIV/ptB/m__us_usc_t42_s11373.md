@@ -23,9 +23,9 @@
 
         If, under the allocation provisions applicable under this part, any metropolitan city or urban county would receive a grant of less than 0.05 percent of the amounts appropriated under [section 11364 of this title][/us/usc/t42/s11364] and made available to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a) of this section.
 
-    (c) __Distributions to nonprofit organizations__ 
+    (c) __Distributions to nonprofit organizations, public housing agencies, and local redevelopment authorities__ 
 
-        Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
+        Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, to public housing agencies (as defined under [section 1437a(b)(6) of this title][/us/usc/t42/s1437a/b/6]), or to local redevelopment authorities (as defined under State law). Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
 
     (d) __Reallocation of funds__ 
 
@@ -39,13 +39,15 @@
 
         In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
-([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 414, formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 421, Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(f)(3)–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(3), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679; [Pub. L. 114–94, div. G, title LXXIX][/us/pl/114/94/dG/tLXXIX], § 79002, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 414, formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 421, Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(f)(3)–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(3), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679; [Pub. L. 114–94, div. G, title LXXIX][/us/pl/114/94/dG/tLXXIX], § 79002, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792]; [Pub. L. 114–201, title IV][/us/pl/114/201/tIV], § 402, July 29, 2016, [130 Stat. 808][/us/stat/130/808].)
 
  __Prior Provisions__ 
 
     A prior [section 414 of Pub. L. 100–77][/us/pl/100/77/s414] was classified to [section 11374 of this title][/us/usc/t42/s11374] prior to renumbering as section 415 and repeal by [Pub. L. 111–22][/us/pl/111/22].
 
  __Amendments__ 
+
+    2016—Subsec. (c). [Pub. L. 114–201][/us/pl/114/201], inserted “, public housing agencies, and local redevelopment authorities” after “organizations” in heading and inserted “, to public housing agencies (as defined under [section 1437a(b)(6) of this title][/us/usc/t42/s1437a/b/6]), or to local redevelopment authorities (as defined under State law)” before period at end of first sentence.
 
     2015—Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94] substituted “once” for “twice”.
 
@@ -92,6 +94,7 @@
 
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s11364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11364
+[/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F496
 [/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
@@ -104,9 +107,13 @@
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/pl/114/94/dG/tLXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIX
 [/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
+[/us/pl/114/201/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtIV
+[/us/stat/130/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F808
 [/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t42/s11364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11364

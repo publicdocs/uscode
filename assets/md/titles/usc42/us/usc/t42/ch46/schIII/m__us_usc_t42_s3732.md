@@ -71,7 +71,7 @@
 
         (22) ensure conformance with security and privacy requirement of [section 3789g of this title][/us/usc/t42/s3789g] and identify, analyze, and participate in the development and implementation of privacy, security and information policies which impact on Federal, tribal, and State criminal justice operations and related statistical activities; and
 
-        (23) exercise the powers and functions set out in subchapter VIII of this chapter.
+        (23) exercise the powers and functions set out in subchapter VIII.
 
     (d) __Justice statistical collection, analysis, and dissemination__ 
 

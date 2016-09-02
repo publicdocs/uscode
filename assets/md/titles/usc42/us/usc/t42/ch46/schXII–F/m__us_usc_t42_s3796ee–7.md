@@ -29,7 +29,7 @@
 
     (b) __Chapter provisions__ 
 
-        Except as otherwise provided, the administrative provisions of subchapter VIII of this chapter shall apply to this subchapter and for purposes of this section any reference in such provisions to this chapter shall be deemed to include a reference to this subchapter.
+        Except as otherwise provided, the administrative provisions of subchapter VIII shall apply to this subchapter and for purposes of this section any reference in such provisions to this chapter shall be deemed to include a reference to this subchapter.
 
 ([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1807, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1866][/us/stat/116/1866].)
 

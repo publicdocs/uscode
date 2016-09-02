@@ -259,7 +259,7 @@
 
  __References in Text__ 
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of Title 20][/us/usc/t20/s1070g–2], Education.
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. A reference in this section to “highly qualified”, as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of Title 20][/us/usc/t20/s1070g–2], Education.
 
     Section 1114(a)(1)(A), referred to in subsec. (a)(10)(A)(iii)(III), probably means section 1114(a)(1)(A) of the Elementary and Secondary Education Act of 1965, which is classified to [section 6314(a)(1)(A) of Title 20][/us/usc/t20/s6314/a/1/A], Education.
 
@@ -273,7 +273,7 @@
 
     2015—Subsec. (a)(10)(A)(iii)(III). [Pub. L. 114–95][/us/pl/114/95], § 9215(ggg)(2)(A), which directed substitution of “(as described in section 1114(a)(1)(A))” for “(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6314(a)(1)][/us/usc/t20/s6314/a/1])” was executed by making the substitution for “(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)” to reflect the probable intent of Congress.
 
-    Subsec. (c)(4). [Pub. L. 114–95][/us/pl/114/95], § 9215(ggg)(2)(B), which directed substitution of “other programs with similar purposes” for “the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6601][/us/usc/t20/s6601] et seq.)”, was executed by making the substitution for “the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965” to reflect the probable intent of Congress.
+    Subsec. (c)(4). [Pub. L. 114–95][/us/pl/114/95], § 9215(ggg)(2)(B), substituted “other programs with similar purposes” for “the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6601][/us/usc/t20/s6601] et seq.)”.
 
     2007—Subsec. (a)(2)(A). [Pub. L. 110–69][/us/pl/110/69], § 7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
 
@@ -441,7 +441,6 @@
 [/us/stat/121/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F696
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2186
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s9214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9214%2Fa%2F2
 [/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932

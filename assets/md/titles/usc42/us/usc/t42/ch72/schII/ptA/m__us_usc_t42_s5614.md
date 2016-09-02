@@ -51,9 +51,9 @@
 
         (5)
 
-            (A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter; and
+            (A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-            (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter;
+            (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
 
         (6) provide for the auditing of monitoring systems required under section 5633(a)(15)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title to review the adequacy of such systems; and
 

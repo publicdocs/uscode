@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/m__us_usc_t42_ch6A_schIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9312...290aa%E2%80%9314)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–15.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9312...290aa%E2%80%9314)
 
 ## §§ 290aa–12 to 290aa–14. Repealed. [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 120(a), July 10, 1992, [106 Stat. 358][/us/stat/106/358]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/m__us_usc_t42_ch6A_schIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9312...290aa%E2%80%9314)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–15.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9312...290aa%E2%80%9314)
 
 ----------
 ----------

@@ -29,7 +29,11 @@
 
     (c) __Contents and purposes of contracts for assistance payments; amount and scope of monthly assistance payments__ 
 
-        (1) An assistance contract entered into pursuant to this section shall establish the maximum monthly rent (including utilities and all maintenance and management charges) which the owner is entitled to receive for each dwelling unit with respect to which such assistance payments are to be made. The maximum monthly rent shall not exceed by more than 10 per centum the fair market rental established by the Secretary periodically but not less than annually for existing or newly constructed rental dwelling units of various sizes and types in the market area suitable for occupancy by persons assisted under this section, except that the maximum monthly rent may exceed the fair market rental (A) by more than 10 but not more than 20 per centum where the Secretary determines that special circumstances warrant such higher maximum rent or that such higher rent is necessary to the implementation of a housing strategy as defined in [section 12705 of this title][/us/usc/t42/s12705], or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B). In the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after October 1, 1980. Proposed fair market rentals for an area shall be published in the Federal Register with reasonable time for public comment, and shall become effective upon the date of publication in final form in the Federal Register. Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section. Notwithstanding any other provision of this section, after October 12, 1977, the Secretary shall prohibit high-rise elevator projects for families with children unless there is no practical alternative. The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York. The Secretary shall also establish separate fair market rentals under this paragraph for Monroe County in the Commonwealth of Pennsylvania. In establishing fair market rentals for the remaining portion of the market area in which Monroe County is located, the Secretary shall establish the fair market rentals as if such portion included Monroe County. If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.
+        (1)
+
+            (A) An assistance contract entered into pursuant to this section shall establish the maximum monthly rent (including utilities and all maintenance and management charges) which the owner is entitled to receive for each dwelling unit with respect to which such assistance payments are to be made. The maximum monthly rent shall not exceed by more than 10 per centum the fair market rental established by the Secretary periodically but not less than annually for existing or newly constructed rental dwelling units of various sizes and types in the market area suitable for occupancy by persons assisted under this section, except that the maximum monthly rent may exceed the fair market rental (A) by more than 10 but not more than 20 per centum where the Secretary determines that special circumstances warrant such higher maximum rent or that such higher rent is necessary to the implementation of a housing strategy as defined in [section 12705 of this title][/us/usc/t42/s12705], or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B). In the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after October 1, 1980. Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section. Notwithstanding any other provision of this section, after October 12, 1977, the Secretary shall prohibit high-rise elevator projects for families with children unless there is no practical alternative. If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.
+
+            (B) Fair market rentals for an area shall be published not less than annually by the Secretary on the site of the Department on the World Wide Web and in any other manner specified by the Secretary. Notice that such fair market rentals are being published shall be published in the Federal Register, and such fair market rentals shall become effective no earlier than 30 days after the date of such publication. The Secretary shall establish a procedure for public housing agencies and other interested parties to comment on such fair market rentals and to request, within a time specified by the Secretary, reevaluation of the fair market rentals in a jurisdiction before such rentals become effective. The Secretary shall cause to be published for comment in the Federal Register notices of proposed material changes in the methodology for estimating fair market rentals and notices specifying the final decisions regarding such proposed substantial methodological changes and responses to public comments.
 
         (2)
 
@@ -171,7 +175,7 @@
 
             (B) __Establishment of payment standard__ 
 
-                Except as provided under subparagraph (D), the payment standard for each size of dwelling unit in a market area shall not exceed 110 percent of the fair market rental established under subsection (c) of this section for the same size of dwelling unit in the same market area and shall be not less than 90 percent of that fair market rental.
+                Except as provided under subparagraph (D), the payment standard for each size of dwelling unit in a market area shall not exceed 110 percent of the fair market rental established under subsection (c) of this section for the same size of dwelling unit in the same market area and shall be not less than 90 percent of that fair market rental, except that no public housing agency shall be required as a result of a reduction in the fair market rental to reduce the payment standard applied to a family continuing to reside in a unit for which the family was receiving assistance under this section at the time the fair market rental was reduced. The Secretary shall allow public housing agencies to request exception payment standards within fair market rental areas subject to criteria and procedures established by the Secretary.
 
             (C) __Set-aside__ 
 
@@ -407,7 +411,13 @@
 
         (11) __Leasing of units owned by PHA__ 
 
-            If an eligible family assisted under this subsection leases a dwelling unit (other than a public housing dwelling unit) that is owned by a public housing agency administering assistance under this subsection, the Secretary shall require the unit of general local government or another entity approved by the Secretary, to make inspections required under paragraph (8) and rent determinations required under paragraph (10). The agency shall be responsible for any expenses of such inspections and determinations.
+            (A) __Inspections and rent determinations__ 
+
+                If an eligible family assisted under this subsection leases a dwelling unit (other than a public housing dwelling unit) that is owned by a public housing agency administering assistance under this subsection, the Secretary shall require the unit of general local government or another entity approved by the Secretary, to make inspections required under paragraph (8) and rent determinations required under paragraph (10). The agency shall be responsible for any expenses of such inspections and determinations.
+
+            (B) __Units owned by PHA__ 
+
+                For purposes of this subsection, the term “owned by a public housing agency” means, with respect to a dwelling unit, that the dwelling unit is in a project that is owned by such agency, by an entity wholly controlled by such agency, or by a limited liability company or limited partnership in which such agency (or an entity wholly controlled by such agency) holds a controlling interest in the managing member or general partner. A dwelling unit shall not be deemed to be owned by a public housing agency for purposes of this subsection because the agency holds a fee interest as ground lessor in the property on which the unit is situated, holds a security interest under a mortgage or deed of trust on the unit, or holds a non-controlling interest in an entity which owns the unit or in the managing member or general partner of an entity which owns the unit.
 
         (12) __Assistance for rental of manufactured housing__ 
 
@@ -607,6 +617,20 @@
 
                 In any fiscal year, to the extent that this paragraph requires the Secretary to set aside rental assistance amounts for use under this paragraph in an amount that exceeds the amount set aside in the preceding fiscal year, such requirement shall be effective only to such extent or in such amounts as are or have been provided in appropriation Acts for such fiscal year for incremental rental assistance under this subsection.
 
+        (20) __Collection of utility data__ 
+
+            (A) __Publication__ 
+
+                The Secretary shall, to the extent that data can be collected cost effectively, regularly publish such data regarding utility consumption and costs in local areas as the Secretary determines will be useful for the establishment of allowances for tenant-paid utilities for families assisted under this subsection.
+
+            (B) __Use of data__ 
+
+            The Secretary shall provide such data in a manner that—
+
+                (i) avoids unnecessary administrative burdens for public housing agencies and owners; and
+
+                (ii) protects families in various unit sizes and building types, and using various utilities, from high rent and utility cost burdens relative to income.
+
     (p) __Shared housing for elderly and handicapped__ 
 
         In order to assist elderly families (as defined in [section 1437a(b)(3) of this title][/us/usc/t42/s1437a/b/3] who elect to live in a shared housing arrangement in which they benefit as a result of sharing the facilities of a dwelling with others in a manner that effectively and efficiently meets their housing needs and thereby reduces their cost of housing, the Secretary shall permit assistance provided under the existing housing and moderate rehabilitation programs to be used by such families in such arrangements. In carrying out this subsection, the Secretary shall issue minimum habitability standards for the purpose of assuring decent, safe, and sanitary housing for such families while taking into account the special circumstances of shared housing.
@@ -761,13 +785,27 @@
 
         (2) __Use of funds__ 
 
-            The amounts made available under this subsection shall be used only in connection with tenant-based assistance under this section on behalf of (A) any family (i) who is otherwise eligible for such assistance, and (ii) who the public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family’s child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care and (B) for a period not to exceed 18 months, otherwise eligible youths who have attained at least 18 years of age and not more than 21 years of age and who have left foster care at age 16 or older.
+            The amounts made available under this subsection shall be used only in connection with tenant-based assistance under this section on behalf of (A) any family (i) who is otherwise eligible for such assistance, and (ii) who the public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family’s child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care and (B) for a period not to exceed 36 months, otherwise eligible youths who have attained at least 18 years of age and not more than 24 years of age and who have left foster care, or will leave foster care within 90 days, in accordance with a transition plan described in section 475(5)(H) of the Social Security Act \[[42 U.S.C. 675(5)(H)][/us/usc/t42/s675/5/H]\], and is homeless or is at risk of becoming homeless at age 16 or older.
 
         (3) __Allocation__ 
 
             The amounts made available under this subsection shall be allocated by the Secretary through a national competition among applicants based on demonstrated need for the assistance under this subsection. To be considered for assistance, an applicant shall submit to the Secretary a written proposal containing a report from the public child welfare agency serving the jurisdiction of the applicant that describes how a lack of adequate housing in the jurisdiction is resulting in the initial or prolonged separation of children from their families, and how the applicant will coordinate with the public child welfare agency to identify eligible families and provide the families with assistance under this subsection.
 
-        (4) __Definitions__ 
+        (4) __Coordination between public housing agencies and public child welfare agencies__ 
+
+        The Secretary shall, not later than the expiration of the 180-day period beginning on July 29, 2016, and after consultation with other appropriate Federal agencies, issue guidance to improve coordination between public housing agencies and public child welfare agencies in carrying out the program under this subsection, which shall provide guidance on—
+
+            (A) identifying eligible recipients for assistance under this subsection;
+
+            (B) coordinating with other local youth and family providers in the community and participating in the Continuum of Care program established under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11381][/us/usc/t42/s11381] et seq.);
+
+            (C) implementing housing strategies to assist eligible families and youth;
+
+            (D) aligning system goals to improve outcomes for families and youth and reducing lapses in housing for families and youth; and
+
+            (E) identifying resources that are available to eligible families and youth to provide supportive services available through parts B and E of title IV of the Social Security Act ([42 U.S.C. 621][/us/usc/t42/s621] et seq.; 670 et seq.) or that the head of household of a family or youth may be entitled to receive under section 477 of the Social Security Act ([42 U.S.C. 677][/us/usc/t42/s677]).
+
+        (5) __Definitions__ 
 
         For purposes of this subsection:
 
@@ -931,7 +969,239 @@
 
         Subject to amounts provided in appropriation Acts, starting in fiscal year 1999, the Secretary shall renew all expiring tenant-based annual contribution contracts under this section by applying an inflation factor based on local or regional factors to an allocation baseline. The allocation baseline shall be calculated by including, at a minimum, amounts sufficient to ensure continued assistance for the actual number of families assisted as of October 1, 1997, with appropriate upward adjustments for incremental assistance and additional families authorized subsequent to that date.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375][/us/pl/94/375], § 2(d), (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 101(c), Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(c)–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(d)(1), (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153/tII], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 203, title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 102(b)(6)–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 127, title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(c)(2), (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I][/us/pl/104/19/tI], § 1003, July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 903(a)(2), Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 201(g), Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 10002, June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33/tII], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 209(a), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 223, title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2801, July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III][/us/pl/106/569/tIII], § 301(a), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95][/us/pl/107/95], § 12, Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 632, Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 606, Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271][/us/pl/109/271], § 5(d), (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 710, Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2835(a), July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III][/us/pl/111/372/tIII], § 302, Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(b)(2), Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636; [Pub. L. 114–94, div. G, title LXXVIII][/us/pl/114/94/dG/tLXXVIII], § 78001(b), Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375][/us/pl/94/375], § 2(d), (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 101(c), Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(c)–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(d)(1), (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153/tII], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 203, title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 102(b)(6)–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 127, title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(c)(2), (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I][/us/pl/104/19/tI], § 1003, July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 903(a)(2), Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 201(g), Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 10002, June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33/tII], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 209(a), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 223, title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2801, July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III][/us/pl/106/569/tIII], § 301(a), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95][/us/pl/107/95], § 12, Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 632, Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 606, Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271][/us/pl/109/271], § 5(d), (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 710, Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2835(a), July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III][/us/pl/111/372/tIII], § 302, Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(b)(2), Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636; [Pub. L. 114–94, div. G, title LXXVIII][/us/pl/114/94/dG/tLXXVIII], § 78001(b), Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791]; [Pub. L. 114–201, title I][/us/pl/114/201/tI], §§ 101(a), 102(d)–(f), 105, 106(a), 107(a), (b), 108, 110, 112(a), July 29, 2016, [130 Stat. 783][/us/stat/130/783], 790, 791, 796, 800, 801, 803.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 101, July 29, 2016, [130 Stat. 783][/us/stat/130/783], provided that, effective upon the issuance of notice or regulations implementing subsection (a) of [section 101 of Pub. L. 114–201][/us/pl/114/201/s101], subsection (o)(8) of this section is amended as follows:
+
+    (1) by striking subparagraph (A) and inserting the following new subparagraph:
+
+    “(A) Initial inspection
+
+    “(i) In general
+
+    “For each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency (or other entity pursuant to paragraph (11)) shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B), except as provided in clause (ii) or (iii) of this subparagraph.
+
+    “(ii) Correction of non-life-threatening conditions
+
+    “In the case of any dwelling unit that is determined, pursuant to an inspection under clause (i), not to meet the housing quality standards under subparagraph (B), assistance payments may be made for the unit notwithstanding subparagraph (C) if failure to meet such standards is a result only of non-life-threatening conditions, as such conditions are established by the Secretary. A public housing agency making assistance payments pursuant to this clause for a dwelling unit shall, 30 days after the beginning of the period for which such payments are made, withhold any assistance payments for the unit if any deficiency resulting in noncompliance with the housing quality standards has not been corrected by such time. The public housing agency shall recommence assistance payments when such deficiency has been corrected, and may use any payments withheld to make assistance payments relating to the period during which payments were withheld.
+
+    “(iii) Use of alternative inspection method for interim period
+
+    “In the case of any property that within the previous 24 months has met the requirements of an inspection that qualifies as an alternative inspection method pursuant to subparagraph (E), a public housing agency may authorize occupancy before the inspection under clause (i) has been completed, and may make assistance payments retroactive to the beginning of the lease term after the unit has been determined pursuant to an inspection under clause (i) to meet the housing quality standards under subparagraph (B). This clause may not be construed to exempt any dwelling unit from compliance with the requirements of subparagraph (D).”;
+
+    (2) by redesignating subparagraph (G) as subparagraph (H); and
+
+    (3) by inserting after subparagraph (F) the following new subparagraph:
+
+    “(G) Enforcement of housing quality standards
+
+    “(i) Determination of noncompliance
+
+    “A dwelling unit that is covered by a housing assistance payments contract under this subsection shall be considered, for purposes of subparagraphs (D) and (F), to be in noncompliance with the housing quality standards under subparagraph (B) if—
+
+    “(I) the public housing agency or an inspector authorized by the State or unit of local government determines upon inspection of the unit that the unit fails to comply with such standards;
+
+    “(II) the agency or inspector notifies the owner of the unit in writing of such failure to comply; and
+
+    “(III) the failure to comply is not corrected—
+
+    “(aa) in the case of any such failure that is a result of life-threatening conditions, within 24 hours after such notice has been provided; and
+
+    “(bb) in the case of any such failure that is a result of non-life-threatening conditions, within 30 days after such notice has been provided or such other reasonable longer period as the public housing agency may establish.
+
+    “(ii) Withholding of assistance amounts during correction
+
+    “The public housing agency may withhold assistance amounts under this subsection with respect to a dwelling unit for which a notice pursuant to clause (i)(II), of failure to comply with housing quality standards under subparagraph (B) as determined pursuant to an inspection conducted under subparagraph (D) or (F), has been provided. If the unit is brought into compliance with such housing quality standards during the periods referred to in clause (i)(III), the public housing agency shall recommence assistance payments and may use any amounts withheld during the correction period to make assistance payments relating to the period during which payments were withheld.
+
+    “(iii) Abatement of assistance amounts
+
+    “The public housing agency shall abate all of the assistance amounts under this subsection with respect to a dwelling unit that is determined, pursuant to clause (i) of this subparagraph, to be in noncompliance with housing quality standards under subparagraph (B). Upon completion of repairs by the public housing agency or the owner sufficient so that the dwelling unit complies with such housing quality standards, the agency shall recommence payments under the housing assistance payments contract to the owner of the dwelling unit.
+
+    “(iv) Notification
+
+    “If a public housing agency providing assistance under this subsection abates rental assistance payments pursuant to clause (iii) with respect to a dwelling unit, the agency shall, upon commencement of such abatement—
+
+    “(I) notify the tenant and the owner of the dwelling unit that—
+
+    “(aa) such abatement has commenced; and
+
+    “(bb) if the dwelling unit is not brought into compliance with housing quality standards within 60 days after the effective date of the determination of noncompliance under clause (i) or such reasonable longer period as the agency may establish, the tenant will have to move; and
+
+    “(II) issue the tenant the necessary forms to allow the tenant to move to another dwelling unit and transfer the rental assistance to that unit.
+
+    “(v) Protection of tenants
+
+    “An owner of a dwelling unit may not terminate the tenancy of any tenant because of the withholding or abatement of assistance pursuant to this subparagraph. During the period that assistance is abated pursuant to this subparagraph, the tenant may terminate the tenancy by notifying the owner.
+
+    “(vi) Termination of lease or assistance payments contract
+
+    “If assistance amounts under this section for a dwelling unit are abated pursuant to clause (iii) and the owner does not correct the noncompliance within 60 days after the effective date of the determination of noncompliance under clause (i), or such other reasonable longer period as the public housing agency may establish, the agency shall terminate the housing assistance payments contract for the dwelling unit.
+
+    “(vii) Relocation
+
+    “(I) Lease of new unit
+
+    “The agency shall provide the family residing in such a dwelling unit a period of 90 days or such longer period as the public housing agency determines is reasonably necessary to lease a new unit, beginning upon termination of the contract, to lease a new residence with tenant-based rental assistance under this section.
+
+    “(II) Availability of public housing units
+
+    “If the family is unable to lease such a new residence during such period, the public housing agency shall, at the option of the family, provide such family a preference for occupancy in a dwelling unit of public housing that is owned or operated by the agency that first becomes available for occupancy after the expiration of such period.
+
+    “(III) Assistance in finding unit
+
+    “The public housing agency may provide assistance to the family in finding a new residence, including use of up to two months of any assistance amounts withheld or abated pursuant to clause (ii) or (iii), respectively, for costs directly associated with relocation of the family to a new residence, which shall include security deposits as necessary and may include reimbursements for reasonable moving expenses incurred by the household, as established by the Secretary. The agency may require that a family receiving assistance for a security deposit shall remit, to the extent of such assistance, the amount of any security deposit refunds made by the owner of the dwelling unit for which the lease was terminated.
+
+    “(viii) Tenant-caused damages
+
+    “If a public housing agency determines that any damage to a dwelling unit that results in a failure of the dwelling unit to comply with housing quality standards under subparagraph (B), other than any damage resulting from ordinary use, was caused by the tenant, any member of the tenant’s household, or any guest or other person under the tenant’s control, the agency may waive the applicability of this subparagraph, except that this clause shall not exonerate a tenant from any liability otherwise existing under applicable law for damages to the premises caused by such tenant.
+
+    “(ix) Applicability
+
+    “This subparagraph shall apply to any dwelling unit for which a housing assistance payments contract is entered into or renewed after the date of the effectiveness of the regulations implementing this subparagraph.”
+
+    [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 102(d)–(f), (h), July 29, 2016, [130 Stat. 790][/us/stat/130/790], 791, provided that, effective upon the issuance of notice or regulations implementing [section 102 of Pub. L. 114–201][/us/pl/114/201/s102], except that such section 102 may only take effect upon the commencement of a calendar year, this section is amended as follows:
+
+    (1) in subsection (c)(3), by striking the last sentence;
+
+    (2) in subsection (o)—
+
+    (A) in paragraph (1)(D), by inserting before the period at the end the following: “, except that a public housing agency may establish a payment standard of not more than 120 percent of the fair market rent where necessary as a reasonable accommodation for a person with a disability, without approval of the Secretary. A public housing agency may use a payment standard that is greater than 120 percent of the fair market rent as a reasonable accommodation for a person with a disability, but only with the approval of the Secretary. In connection with the use of any increased payment standard established or approved pursuant to either of the preceding two sentences as a reasonable accommodation for a person with a disability, the Secretary may not establish additional requirements regarding the amount of adjusted income paid by such person for rent”; and
+
+    (B) in paragraph (5)—
+
+    (i) in the heading, by striking “Annual review” and inserting “Reviews”;
+
+    (ii) in subparagraph (A), by striking “the provisions of” and inserting “paragraphs (1), (6), and (7) of [section 1437a(a) of this title][/us/usc/t42/s1437a/a] and to” and by striking “and shall be conducted” and all that follows through the end of the subparagraph and inserting a period; and
+
+    (iii) in subparagraph (B), by striking the second sentence; and
+
+    (3) in subsection (t)(1)(D), by striking “income” each place such term appears and inserting “annual adjusted income”.
+
+    [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 106, July 29, 2016, [130 Stat. 796][/us/stat/130/796], provided that, effective upon the issuance of notice or regulations implementing subsection (a) of [section 106 of Pub. L. 114–201][/us/pl/114/201/s106], subsection (o)(13) of this section is amended as follows:
+
+    (1) by striking “structure” each place such term appears and inserting “project”;
+
+    (2) by striking subparagraph (B) and inserting the following new subparagraph:
+
+    “(B) Percentage limitation
+
+    “(i) In general
+
+    “Subject to clause (ii), a public housing agency may use for project-based assistance under this paragraph not more than 20 percent of the authorized units for the agency.
+
+    “(ii) Exception
+
+    “A public housing agency may use up to an additional 10 percent of the authorized units for the agency for project-based assistance under this paragraph, to provide units that house individuals and families that meet the definition of homeless under section 103 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302][/us/usc/t42/s11302]), that house families with veterans, that provide supportive housing to persons with disabilities or elderly persons, or that are located in areas where vouchers under this subsection are difficult to use, as specified in subparagraph (D)(ii)(II). Any units of project-based assistance that are attached to units previously subject to federally required rent restrictions or receiving another type of long-term housing subsidy provided by the Secretary shall not count toward the percentage limitation under clause (i) of this subparagraph. The Secretary may, by regulation, establish additional categories for the exception under this clause.”;
+
+    (3) by striking subparagraph (D) and inserting the following new subparagraph:
+
+    “(D) Income-mixing requirement
+
+    “(i) In general
+
+    “Except as provided in clause (ii), not more than the greater of 25 dwelling units or 25 percent of the dwelling units in any project may be assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph. For purposes of this subparagraph, the term ‘project’ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.
+
+    “(ii) Exceptions
+
+    “(I) Certain families
+
+    “The limitation under clause (i) shall not apply to dwelling units assisted under a contract that are exclusively made available to elderly families or to households eligible for supportive services that are made available to the assisted residents of the project, according to standards for such services the Secretary may establish.
+
+    “(II) Certain areas
+
+    “With respect to areas in which tenant-based vouchers for assistance under this subsection are difficult to use, as determined by the Secretary, and with respect to census tracts with a poverty rate of 20 percent or less, clause (i) shall be applied by substituting ‘40 percent’ for ‘25 percent’, and the Secretary may, by regulation, establish additional conditions.
+
+    “(III) Certain contracts
+
+    “The limitation under clause (i) shall not apply with respect to contracts or renewal of contracts under which a greater percentage of the dwelling units in a project were assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph on July 29, 2016.
+
+    “(IV) Certain properties
+
+    “Any units of project-based assistance under this paragraph that are attached to units previously subject to federally required rent restrictions or receiving other project-based assistance provided by the Secretary shall not count toward the percentage limitation imposed by this subparagraph (D).
+
+    “(iii) Additional monitoring and oversight requirements
+
+    “The Secretary may establish additional requirements for monitoring and oversight of projects in which more than 40 percent of the dwelling units are assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph.”;
+
+    (4) by striking subparagraph (F) and inserting the following new subparagraph:
+
+    “(F) Contract term
+
+    “(i) Term
+
+    “A housing assistance payment contract pursuant to this paragraph between a public housing agency and the owner of a project may have a term of up to 20 years, subject to—
+
+    “(I) the availability of sufficient appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriation Acts and in the agency’s annual contributions contract with the Secretary, provided that in the event of insufficient appropriated funds, payments due under contracts under this paragraph shall take priority if other cost-saving measures that do not require the termination of an existing contract are available to the agency; and
+
+    “(II) compliance with the inspection requirements under paragraph (8), except that the agency shall not be required to make biennial inspections of each assisted unit in the development.
+
+    “(ii) Addition of eligible units
+
+    “Subject to the limitations of subparagraphs (B) and (D), the agency and the owner may add eligible units within the same project to a housing assistance payments contract at any time during the term thereof without being subject to any additional competitive selection procedures.
+
+    “(iii) Housing under construction or recently constructed
+
+    “An agency may enter into a housing assistance payments contract with an owner for any unit that does not qualify as existing housing and is under construction or recently has been constructed whether or not the agency has executed an agreement to enter into a contract with the owner, provided that the owner demonstrates compliance with applicable requirements prior to execution of the housing assistance payments contract. This clause shall not subject a housing assistance payments contract for existing housing under this paragraph to such requirements or otherwise limit the extent to which a unit may be assisted as existing housing.
+
+    “(iv) Additional conditions
+
+    “The contract may specify additional conditions, including with respect to continuation, termination, or expiration, and shall specify that upon termination or expiration of the contract without extension, each assisted family may elect to use its assistance under this subsection to remain in the same project if its unit complies with the inspection requirements under paragraph (8), the rent for the unit is reasonable as required by paragraph (10)(A), and the family pays its required share of the rent and the amount, if any, by which the unit rent (including the amount allowed for tenant-based utilities) exceeds the applicable payment standard.”;
+
+    (5) in subparagraph (G), by striking “15 years” and inserting “20 years”;
+
+    (6) by striking subparagraph (I) and inserting the following new subparagraph:
+
+    “(I) Rent adjustments
+
+    “A housing assistance payments contract pursuant to this paragraph entered into after July 29, 2016, shall provide for annual rent adjustments upon the request of the owner, except that—
+
+    “(i) by agreement of the parties, a contract may allow a public housing agency to adjust the rent for covered units using an operating cost adjustment factor established by the Secretary pursuant to section 524(c) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (which shall not result in a negative adjustment), in which case the contract may require an additional adjustment, if requested, up to the reasonable rent periodically during the term of the contract, and shall require such an adjustment, if requested, upon extension pursuant to subparagraph (G);
+
+    “(ii) the adjusted rent shall not exceed the maximum rent permitted under subparagraph (H);
+
+    “(iii) the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the units; and
+
+    “(iv) the provisions of subsection (c)(2)(C) shall not apply.”;
+
+    (7) in subparagraph (J)—
+
+    (A) in the first sentence, by striking “shall” and inserting “may” and by inserting before the period the following: “or may permit owners to select applicants from site-based waiting lists as specified in this subparagraph”;
+
+    (B) by striking the third sentence and inserting the following: “The agency or owner may establish preferences or criteria for selection for a unit assisted under this paragraph that are consistent with the public housing agency plan for the agency approved under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] and that give preference to families who qualify for voluntary services, including disability-specific services, offered in conjunction with assisted units.”; and
+
+    (C) by striking the fifth and sixth sentences and inserting the following: “A public housing agency may establish and utilize procedures for owner-maintained site-based waiting lists, under which applicants may apply at, or otherwise designate to the public housing agency, the project or projects in which they seek to reside, except that all eligible applicants on the waiting list of an agency for assistance under this subsection shall be permitted to place their names on such separate list, subject to policies and procedures established by the Secretary. All such procedures shall comply with title VI of the Civil Rights Act of 1964, the Fair Housing Act, [section 794 of title 29][/us/usc/t29/s794], and other applicable civil rights laws. The owner or manager of a project assisted under this paragraph shall not admit any family to a dwelling unit assisted under a contract pursuant to this paragraph other than a family referred by the public housing agency from its waiting list, or a family on a site-based waiting list that complies with the requirements of this subparagraph. A public housing agency shall disclose to each applicant all other options in the selection of a project in which to reside that are provided by the public housing agency and are available to the applicant.”;
+
+    (8) in subparagraph (M)(ii), by inserting before the period at the end the following: “relating to funding other than housing assistance payments”; and
+
+    (9) by adding at the end the following new subparagraphs:
+
+    “(N) Structure owned by agency
+
+    “A public housing agency engaged in an initiative to improve, develop, or replace a public housing property or site may attach assistance to an existing, newly constructed, or rehabilitated structure in which the agency has an ownership interest or which the agency has control of without following a competitive process, provided that the agency has notified the public of its intent through its public housing agency plan and subject to the limitations and requirements of this paragraph.
+
+    “(O) Special purpose vouchers
+
+    “A public housing agency that administers vouchers authorized under subsection (o)(19) or (x) of this section may provide such assistance in accordance with the limitations and requirements of this paragraph, without additional requirements for approval by the Secretary.”
+
+    [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 112, July 29, 2016, [130 Stat. 803][/us/stat/130/803], provided that, effective upon the issuance of notice implementing subsection (a) of [section 112 of Pub. L. 114–201][/us/pl/114/201/s112], subsection (o)(12) of this section is amended as follows:
+
+    (1) in subparagraph (A), by striking the period at the end of the first sentence and all that follows through “of” in the second sentence and inserting “and rents”; and
+
+    (2) in subparagraph (B)—
+
+    (A) in clause (i), by striking “the rent” and all that follows and inserting the following: “rent shall mean the sum of the monthly payments made by a family assisted under this paragraph to amortize the cost of purchasing the manufactured home, including any required insurance and property taxes, the monthly amount allowed for tenant-paid utilities, and the monthly rent charged for the real property on which the manufactured home is located, including monthly management and maintenance charges.”;
+
+    (B) by striking clause (ii); and
+
+    (C) in clause (iii)—
+
+    (i) by inserting after the period at the end the following: “If the amount of the monthly assistance payment for a family exceeds the monthly rent charged for the real property on which the manufactured home is located, including monthly management and maintenance charges, a public housing agency may pay the remainder to the family, lender or utility company, or may choose to make a single payment to the family for the entire monthly assistance amount.”; and
+
+    (ii) by redesignating such clause as clause (ii).
+
+    See 2016 Amendment notes below.
 
  __References in Text__ 
 
@@ -941,7 +1211,7 @@
 
     The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (f)(4) and (o)(4)(D), (8)(E)(i), (10)(F), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079]. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. Subtitle A of title II of the Act is classified generally to part A (§ 12741 et seq.) of subchapter II of chapter 130 of this title. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§ 1437aaa et seq.) of this chapter and subchapter IV (§ 12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and [section 1709 of Title 12][/us/usc/t12/s1709], Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
 
-    The Social Security Act, referred to in subsec. (k), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (k) and (x)(4)(E), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. Parts B and E of title IV of the Act are classified generally to parts B (§ 621 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
     The Food and Nutrition Act of 2008, referred to in subsec. (k), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under 2011 of Title 7 and Tables.
 
@@ -952,6 +1222,8 @@
     The effective date of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001, referred to in subsec. (t)(2), means the effective date of H.R. 5482, as enacted by [section 1(a)(1) of Pub. L. 106–377][/us/pl/106/377/s1/a/1], which was approved Oct. 27, 2000.
 
     Section 1437o of this title, referred to in subsec. (u), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+
+    The McKinney-Vento Homeless Assistance Act, referred to in subsec. (x)(4)(B), is [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482]. Subtitle C of title IV of the Act is classified generally to part C (§ 11381 et seq.) of subchapter IV of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title][/us/usc/t42/s11301] and Tables.
 
     Subsection (o)(8)(A) of this section, referred to in subsec. (y)(3)(B), does not contain a cl. (ii) and does not relate to annual inspections. For provisions of subsec. (o)(8) which relate to annual inspections, see subpar. (D).
 
@@ -974,6 +1246,70 @@
     A prior section 8 of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], [50 Stat. 891][/us/stat/50/891], as amended, authorized promulgation of rules and regulations by the Authority and was classified to [section 1408 of this title][/us/usc/t42/s1408], prior to the general revision of this chapter by [Pub. L. 93–383][/us/pl/93/383].
 
  __Amendments__ 
+
+    2016—Subsec. (c)(1). [Pub. L. 114–201][/us/pl/114/201], § 107(a), designated existing provisions as subpar. (A), struck out “Proposed fair market rentals for an area shall be published in the Federal Register with reasonable time for public comment, and shall become effective upon the date of publication in final form in the Federal Register.” after “October 1, 1980.” and “The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York. The Secretary shall also establish separate fair market rentals under this paragraph for Monroe County in the Commonwealth of Pennsylvania. In establishing fair market rentals for the remaining portion of the market area in which Monroe County is located, the Secretary shall establish the fair market rentals as if such portion included Monroe County.” after “no practical alternative.”, and added subpar. (B).
+
+    Subsec. (c)(3). [Pub. L. 114–201][/us/pl/114/201], § 102(f), struck out at end “Reviews of family income shall be made no less frequently than annually.”
+
+    Subsec. (o)(1)(B). [Pub. L. 114–201][/us/pl/114/201], § 107(b), inserted before period at end “, except that no public housing agency shall be required as a result of a reduction in the fair market rental to reduce the payment standard applied to a family continuing to reside in a unit for which the family was receiving assistance under this section at the time the fair market rental was reduced. The Secretary shall allow public housing agencies to request exception payment standards within fair market rental areas subject to criteria and procedures established by the Secretary”.
+
+    Subsec. (o)(1)(D). [Pub. L. 114–201][/us/pl/114/201], § 102(d)(1), inserted before period at end “, except that a public housing agency may establish a payment standard of not more than 120 percent of the fair market rent where necessary as a reasonable accommodation for a person with a disability, without approval of the Secretary. A public housing agency may use a payment standard that is greater than 120 percent of the fair market rent as a reasonable accommodation for a person with a disability, but only with the approval of the Secretary. In connection with the use of any increased payment standard established or approved pursuant to either of the preceding two sentences as a reasonable accommodation for a person with a disability, the Secretary may not establish additional requirements regarding the amount of adjusted income paid by such person for rent”.
+
+    Subsec. (o)(5). [Pub. L. 114–201][/us/pl/114/201], § 102(d)(2)(A), substituted “Reviews” for “Annual review” in heading.
+
+    Subsec. (o)(5)(A). [Pub. L. 114–201][/us/pl/114/201], § 102(d)(2)(B), substituted “paragraphs (1), (6), and (7) of [section 1437a(a) of this title][/us/usc/t42/s1437a/a] and to” for “the provisions of” and struck out “and shall be conducted upon the initial provision of housing assistance for the family and thereafter as required by [section 1437a(a)(1) of this title][/us/usc/t42/s1437a/a/1]” before period at end.
+
+    Subsec. (o)(5)(B). [Pub. L. 114–201][/us/pl/114/201], § 102(d)(2)(C), struck out at end “Each public housing agency shall, not less frequently than annually, conduct a review of the family income of each family receiving assistance under this subsection.”
+
+    Subsec. (o)(8)(A). [Pub. L. 114–201][/us/pl/114/201], § 101(a)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in paragraph (11), for each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B).”
+
+    Subsec. (o)(8)(G), (H). [Pub. L. 114–201][/us/pl/114/201], § 101(a)(2), (3), added subpar. (G) and redesignated former subpar. (G) as (H).
+
+    Subsec. (o)(11). [Pub. L. 114–201][/us/pl/114/201], § 105, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+    Subsec. (o)(12)(A). [Pub. L. 114–201][/us/pl/114/201], § 112(a)(1), substituted “residence and rents” for “residence. Such payments may be made only for the rental of”.
+
+    Subsec. (o)(12)(B)(i). [Pub. L. 114–201][/us/pl/114/201], § 112(a)(2)(A), substituted “rent shall mean the sum of the monthly payments made by a family assisted under this paragraph to amortize the cost of purchasing the manufactured home, including any required insurance and property taxes, the monthly amount allowed for tenant-paid utilities, and the monthly rent charged for the real property on which the manufactured home is located, including monthly management and maintenance charges.” for “the rent for the space on which a manufactured home is located and with respect to which assistance payments are to be made shall include maintenance and management charges and tenant-paid utilities.”
+
+    Subsec. (o)(12)(B)(ii). [Pub. L. 114–201][/us/pl/114/201], § 112(a)(2)(B), (C)(ii), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which related to establishment of payment standard for the purpose of determining monthly assistance.
+
+    Subsec. (o)(12)(B)(iii). [Pub. L. 114–201][/us/pl/114/201], § 112(a)(2)(C), inserted “If the amount of the monthly assistance payment for a family exceeds the monthly rent charged for the real property on which the manufactured home is located, including monthly management and maintenance charges, a public housing agency may pay the remainder to the family, lender or utility company, or may choose to make a single payment to the family for the entire monthly assistance amount.” after “paragraph (2).” and redesignated cl. (iii) as (ii).
+
+    Subsec. (o)(13)(A). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(1), substituted “project” for “structure” in two places.
+
+    Subsec. (o)(13)(B). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 20 percent of the funding available for tenant-based assistance under this section that is administered by the agency may be attached to structures pursuant to this paragraph.”
+
+    Subsec. (o)(13)(D). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(3), added subpar. (D) and struck out former subpar. (D). Prior to amendment, text read as follows:
+
+    “(i) In general.—Not more than 25 percent of the dwelling units in any project may be assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph. For purposes of this subparagraph, the term ‘project’ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.
+
+    “(ii) Exceptions.—The limitation under clause (i) shall not apply in the case of assistance under a contract for housing consisting of single family properties or for dwelling units that are specifically made available for households comprised of elderly families, disabled families, and families receiving supportive services.”
+
+    Subsec. (o)(13)(F). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(4), added subpar. (F) and struck out former subpar. (F). Prior to amendment, text read as follows: “A housing assistance payment contract pursuant to this paragraph between a public housing agency and the owner of a structure may have a term of up to 15 years, subject to the availability of sufficient appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriations Acts and in the agency’s annual contributions contract with the Secretary, and to annual compliance with the inspection requirements under paragraph (8), except that the agency shall not be required to make annual inspections of each assisted unit in the development. The contract may specify additional conditions for its continuation. If the units covered by the contract are owned by the agency, the term of the contract shall be agreed upon by the agency and the unit of general local government or other entity approved by the Secretary in the manner provided under paragraph (11).”
+
+    Subsec. (o)(13)(G). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(1), (5), substituted “project” for “structure” in two places and “20 years” for “15 years”.
+
+    Subsec. (o)(13)(I). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(6), added subpar. (I) and struck out former subpar. (I). Prior to amendment, text read as follows: “A housing assistance payments contract pursuant to this paragraph shall provide for rent adjustments, except that—
+
+    “(i) the adjusted rent for any unit assisted shall be reasonable in comparison with rents charged for comparable dwelling units in the private, unassisted, local market and may not exceed the maximum rent permitted under subparagraph (H), except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit; and
+
+    “(ii) the provisions of subsection (c)(2)(C) of this section shall not apply.”
+
+    Subsec. (o)(13)(J). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(1), (7), substituted “may select families” for “shall select families”, inserted “or may permit owners to select applicants from site-based waiting lists as specified in this subparagraph” before period at end of first sentence, and substituted “The agency or owner may establish preferences or criteria for selection for a unit assisted under this paragraph that are consistent with the public housing agency plan for the agency approved under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] and that give preference to families who qualify for voluntary services, including disability-specific services, offered in conjunction with assisted units.” for “The agency may establish preferences or criteria for selection for a unit assisted under this paragraph that are consistent with the public housing agency plan for the agency approved under [section 1437c–1 of this title][/us/usc/t42/s1437c–1].”, “admission to a project by the owner or manager of a project” for “admission to a structure by the owner or manager of a structure”, and “A public housing agency may establish and utilize procedures for owner-maintained site-based waiting lists, under which applicants may apply at, or otherwise designate to the public housing agency, the project or projects in which they seek to reside, except that all eligible applicants on the waiting list of an agency for assistance under this subsection shall be permitted to place their names on such separate list, subject to policies and procedures established by the Secretary. All such procedures shall comply with title VI of the Civil Rights Act of 1964, the Fair Housing Act, [section 794 of title 29][/us/usc/t29/s794], and other applicable civil rights laws. The owner or manager of a project assisted under this paragraph shall not admit any family to a dwelling unit assisted under a contract pursuant to this paragraph other than a family referred by the public housing agency from its waiting list, or a family on a site-based waiting list that complies with the requirements of this subparagraph. A public housing agency shall disclose to each applicant all other options in the selection of a project in which to reside that are provided by the public housing agency and are available to the applicant.” for “The owner or manager of a structure assisted under this paragraph shall not admit any family to a dwelling unit assisted under a contract pursuant to this paragraph other than a family referred by the public housing agency from its waiting list. Subject to its waiting list policies and selection preferences, a public housing agency may place on its waiting list a family referred by the owner or manager of a structure and may maintain a separate waiting list for assistance under this paragraph, but only if all families on the agency’s waiting list for assistance under this subsection are permitted to place their names on the separate list.”
+
+    Subsec. (o)(13)(M). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(1), substituted “project” for “structure” in cls. (i) and (ii).
+
+    Subsec. (o)(13)(M)(ii). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(8), inserted before period at end “relating to funding other than housing assistance payments”.
+
+    Subsec. (o)(13)(N), (O). [Pub. L. 114–201][/us/pl/114/201], § 106(a)(9), added subpars. (N) and (O).
+
+    Subsec. (o)(20). [Pub. L. 114–201][/us/pl/114/201], § 108, added par. (20).
+
+    Subsec. (t)(1)(D). [Pub. L. 114–201][/us/pl/114/201], § 102(e), substituted “annual adjusted income” for “income” wherever appearing.
+
+    Subsec. (x)(2)(B). [Pub. L. 114–201][/us/pl/114/201], § 110(1), substituted “36 months” for “18 months” and “24 years of age” for “21 years of age” and inserted “, or will leave foster care within 90 days, in accordance with a transition plan described in section 475(5)(H) of the Social Security Act, and is homeless or is at risk of becoming homeless” after “have left foster care”.
+
+    Subsec. (x)(4), (5). [Pub. L. 114–201][/us/pl/114/201], § 110(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
     2015—Subsec. (o)(5)(A). [Pub. L. 114–94][/us/pl/114/94] substituted “as required by [section 1437a(a)(1) of this title][/us/usc/t42/s1437a/a/1]” for “not less than annually”.
 
@@ -1598,6 +1934,26 @@
     Subsec. (e)(1). [Pub. L. 94–375][/us/pl/94/375], § 2(g), inserted “or the Farmers’ Home Administration” after “State or local agency”.
 
     Subsec. (f)(6). [Pub. L. 94–375][/us/pl/94/375], § 2(e), added par. (6).
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–201, title I][/us/pl/114/201/tI], § 101(b), July 29, 2016, [130 Stat. 786][/us/stat/130/786], provided that: 
+
+> “The Secretary of Housing and Urban Development shall issue notice or regulations to implement subsection (a) of this section \[amending this section\] and such subsection shall take effect upon such issuance.”
+
+    Amendment by section 102(d)–(f) of [Pub. L. 114–201][/us/pl/114/201] effective upon the issuance of notice or regulations by the Secretary of Housing and Urban Development implementing [section 102 of Pub. L. 114–201][/us/pl/114/201/s102], except that such section 102 may only take effect upon the commencement of a calendar year, see [section 102(h) of Pub. L. 114–201][/us/pl/114/201/s102/h], set out as a note under [section 1437a of this title][/us/usc/t42/s1437a].
+
+[Pub. L. 114–201, title I][/us/pl/114/201/tI], § 106(b), July 29, 2016, [130 Stat. 800][/us/stat/130/800], provided that: 
+
+> “The Secretary of Housing and Urban Development shall issue notice or regulations to implement subsection (a) of this section \[amending this section\] and such subsection shall take effect upon such issuance.”
+
+[Pub. L. 114–201, title I][/us/pl/114/201/tI], § 107(c), July 29, 2016, [130 Stat. 801][/us/stat/130/801], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect upon the date of the enactment of this Act \[July 29, 2016\].”
+
+[Pub. L. 114–201, title I][/us/pl/114/201/tI], § 112(b), July 29, 2016, [130 Stat. 804][/us/stat/130/804], provided that: 
+
+> “The Secretary of Housing and Urban Development shall issue notice to implement the amendments made by subsection (a) \[amending this section\] and such amendments shall take effect upon such issuance.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -4034,6 +4390,10 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1116
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
+[/us/usc/t42/s675/5/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FH
+[/us/usc/t42/s11381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11381
+[/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
+[/us/usc/t42/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
@@ -4131,6 +4491,24 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
 [/us/pl/114/94/dG/tLXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXVIII
 [/us/stat/129/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1791
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F783
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F783
+[/us/pl/114/201/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs101
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F790
+[/us/pl/114/201/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs102
+[/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F796
+[/us/pl/114/201/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs106
+[/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F803
+[/us/pl/114/201/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs112
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
@@ -4152,6 +4530,9 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
 [/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
+[/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
+[/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
+[/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
@@ -4174,6 +4555,39 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/stat/50/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F891
 [/us/usc/t42/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1408
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
+[/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
@@ -4490,6 +4904,18 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F786
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs102
+[/us/pl/114/201/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs102%2Fh
+[/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F800
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F801
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F804
 [/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
 [/us/pl/113/76/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220

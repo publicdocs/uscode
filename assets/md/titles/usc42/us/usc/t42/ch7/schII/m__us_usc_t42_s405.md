@@ -727,6 +727,8 @@
 
     In subsec. (g), act June 25, 1948, as amended by act May 24, 1949, substituted United States District Court for the District of Columbia, for District Court of the United States for the District of Columbia.
 
+    In subsec. (h), [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §2663(a)(4)(D), July 18, 1984, [98 Stat. 1162][/us/stat/98/1162], substituted “section 1331 or 1346 of title 28” for text which, in the original, was “section 24 of the Judicial Code of the United States”. See 1984 Amendment note below. Prior to the enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 869][/us/stat/62/869], section 24 of the Judicial Code was classified to section 41 of former Title 28, Judicial Code and Judiciary. For disposition of section 41 of former Title 28, see Table I.
+
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
@@ -1057,7 +1059,7 @@
 
     Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(4)(C), substituted “an order” for “on order”.
 
-    Subsec. (h). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(4)(D), substituted “section 1331 or 1346 of title 28” for “section 24 of the Judicial Code of the United States”.
+    Subsec. (h). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(4)(D), substituted “section 1331 or 1346 of title 28” for “section 24 of the Judicial Code of the United States”. See Codification note above.
 
     Subsec. (i). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(4)(E), substituted “the Fiscal Service of the Department of the Treasury” for “the Division of Disbursement of the Treasury Department”.
 
@@ -1871,6 +1873,10 @@
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
+[/us/stat/98/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1162
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
+[/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

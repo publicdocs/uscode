@@ -13,9 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptE/m__us_usc_t42_ch6A_schII_ptE.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptE/m__us_usc_t42_s257a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs257)
 
-## § 257. Repealed. [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3405(a), Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221]
+## § 257. Repealed. [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3405(a), Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221], as amended by [Pub. L. 114–198, title I][/us/pl/114/198/tI], § 110(b), July 22, 2016, [130 Stat. 710][/us/stat/130/710]
 
     Section, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 341, [58 Stat. 698][/us/stat/58/698]; [May 8, 1954, ch. 195][/us/act/1954-05-08/ch195], § 3, [68 Stat. 80][/us/stat/68/80]; [July 24, 1956, ch. 676][/us/act/1956-07-24/ch676], title III, § 302(a), [70 Stat. 622][/us/stat/70/622]; [Pub. L. 89–793, title VI][/us/pl/89/793/tVI], § 601, Nov. 8, 1966, [80 Stat. 1449][/us/stat/80/1449]; 1967 Reorg. Plan No. 3, § 401, eff. Nov. 3, 1967 (in part), 32 F.R. 11669, [81 Stat. 951][/us/stat/81/951]; [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 2(a)(1), Oct. 27, 1970, [84 Stat. 1240][/us/stat/84/1240]; [Pub. L. 92–255, title IV][/us/pl/92/255/tIV], § 402, Mar. 21, 1972, [86 Stat. 77][/us/stat/86/77]; [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 421, Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 232(a), Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031]; [Pub. L. 99–646][/us/pl/99/646], § 22(a), Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(1)(B)(i), June 13, 1991, [105 Stat. 278][/us/stat/105/278], related to care and treatment of narcotic addicts.
+
+ __Effective Date of 2016 Amendment__ 
+
+    [Pub. L. 114–198, title I][/us/pl/114/198/tI], § 110(b), July 22, 2016, [130 Stat. 710][/us/stat/130/710], provided that the amendment made by section 110(b) (amending directory language of [section 3405(a) of Pub. L. 106–310][/us/pl/106/310/s3405/a], which repealed this section) is effective as if included in the enactment of [Pub. L. 106–310][/us/pl/106/310].
 
 ----------
 
@@ -26,6 +30,8 @@
 
 [/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1221
+[/us/pl/114/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtI
+[/us/stat/130/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F710
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F698
 [/us/act/1954-05-08/ch195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-08%2Fch195
@@ -47,5 +53,9 @@
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F278
+[/us/pl/114/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtI
+[/us/stat/130/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F710
+[/us/pl/106/310/s3405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3405%2Fa
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 
 

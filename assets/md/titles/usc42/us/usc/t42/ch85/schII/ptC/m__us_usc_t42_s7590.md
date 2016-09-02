@@ -17,7 +17,7 @@
 
     (a) __State refueling facilities__ 
 
-        If any State adopts enforceable provisions in an implementation plan applicable to a nonattainment area which provides that existing State refueling facilities will be made available to the public for the purchase of clean alternative fuels or that State-operated refueling facilities for such fuels will be constructed and operated by the State and made available to the public at reasonable times, taking into consideration safety, costs, and other relevant factors, in approving such plan under [section 7410 of this title][/us/usc/t42/s7410] and part D, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “part D of subchapter I of this chapter”. </sup></sup>  the Administrator may credit a State with the emission reductions for purposes of part D  <sup>\[1\]</sup>  attributable to such actions.
+        If any State adopts enforceable provisions in an implementation plan applicable to a nonattainment area which provides that existing State refueling facilities will be made available to the public for the purchase of clean alternative fuels or that State-operated refueling facilities for such fuels will be constructed and operated by the State and made available to the public at reasonable times, taking into consideration safety, costs, and other relevant factors, in approving such plan under [section 7410 of this title][/us/usc/t42/s7410] and part D, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “part D of subchapter I”. </sup></sup>  the Administrator may credit a State with the emission reductions for purposes of part D  <sup>\[1\]</sup>  attributable to such actions.
 
     (b) __No production mandate__ 
 

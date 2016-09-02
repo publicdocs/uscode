@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Nothing in this subchapter and subchapter III of this chapter shall be construed—
+    Nothing in this subchapter and subchapter III shall be construed—
 
         (1) as establishing a Federal requirement that a parent or legal guardian provide a child any medical service or treatment against the religious beliefs of the parent or legal guardian; and
 

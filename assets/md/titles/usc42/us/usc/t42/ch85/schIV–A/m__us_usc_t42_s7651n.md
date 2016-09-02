@@ -27,7 +27,7 @@
 
         (2) __Temporary projects__ 
 
-            Installation, operation, cessation, or removal of a temporary clean coal technology demonstration project that is operated for a period of five years or less, and which complies with the State implementation plans for the State in which the project is located and other requirements necessary to attain and maintain the national ambient air quality standards during and after the project is terminated, shall not subject such facility to the requirements of [section 7411 of this title][/us/usc/t42/s7411] or part C or D of subchapter I of this chapter.
+            Installation, operation, cessation, or removal of a temporary clean coal technology demonstration project that is operated for a period of five years or less, and which complies with the State implementation plans for the State in which the project is located and other requirements necessary to attain and maintain the national ambient air quality standards during and after the project is terminated, shall not subject such facility to the requirements of [section 7411 of this title][/us/usc/t42/s7411] or part C or D of subchapter I.
 
         (3) __Permanent projects__ 
 

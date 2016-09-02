@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3537a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537)
+[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536a.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3537a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537)
 
 ## § 3537. Separability
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3537a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537)
+[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536a.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3537a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537)
 
 ----------
 ----------

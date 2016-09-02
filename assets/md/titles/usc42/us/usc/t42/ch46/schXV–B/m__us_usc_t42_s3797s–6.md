@@ -21,7 +21,7 @@
 
     The term “nonviolent parent drug offender” means an offender who is—
 
-        (A) a parent of an individual under 18 years of age; and
+        (A) pregnant or a parent of an individual under 18 years of age; and
 
         (B) convicted of a drug (or drug-related) felony that is a nonviolent offense.
 
@@ -31,13 +31,19 @@
 
     (3) __Prison-based family treatment program__ 
 
-        The term “prison-based family treatment program” means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
+        The term “prison-based family treatment program” means a program for incarcerated parents or pregnant women in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
 
-([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2927, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 113, Apr. 9, 2008, [122 Stat. 676][/us/stat/122/676].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2927, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 113, Apr. 9, 2008, [122 Stat. 676][/us/stat/122/676]; amended [Pub. L. 114–198, title II][/us/pl/114/198/tII], § 201(c)(2), July 22, 2016, [130 Stat. 714][/us/stat/130/714].)
 
  __Construction of 2008 Amendment__ 
 
     For construction of amendments by [Pub. L. 110–199][/us/pl/110/199] and requirements for grants made under such amendments, see [section 17504 of this title][/us/usc/t42/s17504].
+
+ __Amendments__ 
+
+    2016—Par. (1)(A). [Pub. L. 114–198][/us/pl/114/198], § 201(c)(2)(A), inserted “pregnant or” before “a parent”.
+
+    Par. (3). [Pub. L. 114–198][/us/pl/114/198], § 201(c)(2)(B), inserted “or pregnant women” after “incarcerated parents”.
 
 ----------
 
@@ -50,7 +56,11 @@
 [/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F676
+[/us/pl/114/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtII
+[/us/stat/130/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F714
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 
 

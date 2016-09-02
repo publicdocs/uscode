@@ -133,7 +133,7 @@
 
             (B) ways to mitigate psychological trauma to the child victim;
 
-            (C) effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+            (C) effective programs carried out by the States under this subchapter and subchapter III; and
 
             (D) effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
 

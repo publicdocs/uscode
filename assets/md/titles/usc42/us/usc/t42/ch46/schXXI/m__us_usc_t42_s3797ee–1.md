@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ee.md) | [Next](./../../../../..//us/usc/t42/ch47/m__us_usc_t42_ch47.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797ee%E2%80%931)
+[Previous](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ee.md) | [Next](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ff.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797ee%E2%80%931)
 
 ## § 3797ee–1. Juvenile sex offender treatment grants
 
@@ -35,9 +35,11 @@
 
 ([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 3012, as added [Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 623, July 27, 2006, [120 Stat. 635][/us/stat/120/635].)
 
+ __SUBCHAPTER XXII–COMPREHENSIVE OPIOID ABUSE GRANT PROGRAM__ 
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ee.md) | [Next](./../../../../..//us/usc/t42/ch47/m__us_usc_t42_ch47.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797ee%E2%80%931)
+[Previous](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ee.md) | [Next](./../../../../..//us/usc/t42/ch46/schXXI/m__us_usc_t42_s3797ff.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797ee%E2%80%931)
 
 ----------
 ----------

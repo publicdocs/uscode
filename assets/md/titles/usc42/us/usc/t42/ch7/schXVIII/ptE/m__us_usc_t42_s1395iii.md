@@ -37,9 +37,15 @@
 
             In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII][/us/pl/110/252/tVII], § 7002(a), June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 188(a)(2)(B), July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379][/us/pl/110/379], § 6, Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV][/us/pl/111/5/dB/tIV], § 4103(b), Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1011(b), Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3112, Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 207, Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 640, Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82][/us/pl/113/82], § 3, Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 219, Apr. 1, 2014, [128 Stat. 1070][/us/stat/128/1070]; [Pub. L. 113–185][/us/pl/113/185], § 3(e), Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969]; [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 518, Apr. 16, 2015, [129 Stat. 175][/us/stat/129/175]; [Pub. L. 114–60][/us/pl/114/60], § 2(c), Oct. 7, 2015, [129 Stat. 544][/us/stat/129/544]; [Pub. L. 114–113, div. O, title V][/us/pl/114/113/dO/tV], § 501, Dec. 18, 2015, [129 Stat. 3018][/us/stat/129/3018]; [Pub. L. 114–115][/us/pl/114/115], § 5, Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII][/us/pl/110/252/tVII], § 7002(a), June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 188(a)(2)(B), July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379][/us/pl/110/379], § 6, Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV][/us/pl/111/5/dB/tIV], § 4103(b), Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1011(b), Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3112, Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 207, Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 640, Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82][/us/pl/113/82], § 3, Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 219, Apr. 1, 2014, [128 Stat. 1070][/us/stat/128/1070]; [Pub. L. 113–185][/us/pl/113/185], § 3(e), Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969]; [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 518, Apr. 16, 2015, [129 Stat. 175][/us/stat/129/175]; [Pub. L. 114–60][/us/pl/114/60], § 2(c), Oct. 7, 2015, [129 Stat. 544][/us/stat/129/544]; [Pub. L. 114–113, div. O, title V][/us/pl/114/113/dO/tV], § 501, Dec. 18, 2015, [129 Stat. 3018][/us/stat/129/3018]; [Pub. L. 114–115][/us/pl/114/115], § 5, Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133]; [Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 704(h), July 22, 2016, [130 Stat. 752][/us/stat/130/752].)
+
+ __Amendment of Subsection (b)(1)__ 
+
+    [Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 704(g)(1), (h), July 22, 2016, [130 Stat. 751][/us/stat/130/751], 752, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, subsection (b)(1) of this section is amended by striking “during and after fiscal year 2020, $0” and inserting “during and after fiscal year 2021, $140,000,000”. See 2016 Amendment note below.
 
  __Amendments__ 
+
+    2016—Subsec. (b)(1). [Pub. L. 114–198][/us/pl/114/198] substituted “during and after fiscal year 2021, $140,000,000” for “during and after fiscal year 2020, $0”.
 
     2015—Subsec. (b)(1). [Pub. L. 114–115][/us/pl/114/115] substituted “$0” for “$5,000,000”.
 
@@ -97,6 +103,10 @@
 
     [Pub. L. 110–275][/us/pl/110/275] inserted “and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000” before period at end.
 
+ __Effective Date of 2016 Amendment__ 
+
+    Amendment by [Pub. L. 114–198][/us/pl/114/198] applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019, see [section 704(g)(1) of Pub. L. 114–198][/us/pl/114/198/s704/g/1], set out as a note under [section 1395w–101 of this title][/us/usc/t42/s1395w–101].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395hhh.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395jjj.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395iii)
@@ -135,6 +145,11 @@
 [/us/stat/129/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3018
 [/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
 [/us/stat/129/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3133
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F752
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F751
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
@@ -162,5 +177,8 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
+[/us/pl/114/198/s704/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2Fs704%2Fg%2F1
+[/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 
 

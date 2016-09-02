@@ -31,7 +31,7 @@
 
         (6) an alien lawfully admitted for temporary or permanent residence under [section 1255a of title 8][/us/usc/t8/s1255a]; or
 
-        (7) an alien who is lawfully resident in the United States and its territories and possessions under section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Marshall Islands, the Federated States of Micronesia ([48 U.S.C. 1901][/us/usc/t48/s1901] note) and Palau ([48 U.S.C. 1931][/us/usc/t48/s1931] note) while the applicable section is in effect: Provided, That, within Guam any such alien shall not be entitled to a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance.
+        (7) an alien who is lawfully resident in the United States and its territories and possessions under section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Marshall Islands, the Federated States of Micronesia ([48 U.S.C. 1901][/us/usc/t48/s1901] note) and Palau ([48 U.S.C. 1931][/us/usc/t48/s1931] note) while the applicable section is in effect: Provided, That, within Guam any any  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance.
 
     (b) __“Financial assistance” defined__ 
 
@@ -181,7 +181,7 @@
 
         A public housing agency (as that term is defined in section 3 of the United States Housing Act of 1937 \[[42 U.S.C. 1437a][/us/usc/t42/s1437a]\])—
 
-            (A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “; and”. </sup></sup> 
+            (A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “; and”. </sup></sup> 
 
             (B)
 
@@ -197,11 +197,9 @@
 
             For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
 
-([Pub. L. 96–399, title II][/us/pl/96/399/tII], § 214, Oct. 8, 1980, [94 Stat. 1637][/us/stat/94/1637]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329(a), Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(a)(2), Nov. 6, 1986, [100 Stat. 3386][/us/stat/100/3386]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 164(a)–(f)(1), Feb. 5, 1988, [101 Stat. 1860–1863][/us/stat/101/1860-1863]; [Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 441(a), Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(7)(D)(ii), title V, §§ 572–576, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–684, 3009–685, 3009–687; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 592(a), Oct. 21, 1998, [112 Stat. 2653][/us/stat/112/2653]; [Pub. L. 106–504][/us/pl/106/504], § 3(b), Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312].)
+([Pub. L. 96–399, title II][/us/pl/96/399/tII], § 214, Oct. 8, 1980, [94 Stat. 1637][/us/stat/94/1637]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329(a), Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(a)(2), Nov. 6, 1986, [100 Stat. 3386][/us/stat/100/3386]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 164(a)–(f)(1), Feb. 5, 1988, [101 Stat. 1860–1863][/us/stat/101/1860-1863]; [Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 441(a), Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(7)(D)(ii), title V, §§ 572–576, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–684, 3009–685, 3009–687; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 592(a), Oct. 21, 1998, [112 Stat. 2653][/us/stat/112/2653]; [Pub. L. 106–504][/us/pl/106/504], § 3(b), Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312]; [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 113, July 29, 2016, [130 Stat. 804][/us/stat/130/804].)
 
  __References in Text__ 
-
-    This Act, referred to in subsec. (a)(7), is [Pub. L. 96–399][/us/pl/96/399], Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], as amended, known as the Housing and Community Development Act of 1980. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 5301 of this title][/us/usc/t42/s5301] and Tables.
 
     The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
@@ -216,6 +214,8 @@
     Section was enacted as part of the Housing and Community Development Act of 1980, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 
  __Amendments__ 
+
+    2016—Subsec. (a)(7). [Pub. L. 114–201][/us/pl/114/201] substituted “any citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance.” for “such alien shall not be entitled to a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance.”
 
     2000—Subsec. (a)(7). [Pub. L. 106–504][/us/pl/106/504] added par. (7).
 
@@ -461,9 +461,8 @@
 [/us/stat/112/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2653
 [/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
 [/us/stat/114/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2312
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/stat/94/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1614
-[/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F804
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
@@ -477,6 +476,7 @@
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/stat/100/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3359
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276

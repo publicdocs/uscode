@@ -95,7 +95,7 @@
 
     (10) __Environmental impact statement__ 
 
-        The term “environmental impact statement” means the detailed written statement required under section 102(2)(C) of NEPA.
+        The term “environmental impact statement” means the detailed written statement required under section 102(2)(C) of NEPA \[[42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]\].
 
     (11) __Environmental review__ 
 
@@ -133,7 +133,7 @@
 
  __References in Text__ 
 
-    The National Environmental Policy Act of 1969, referred to in par. (16), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(A), (11), and (15) and defined in (16), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
  __Codification__ 
 
@@ -169,6 +169,7 @@
 [/us/usc/t23/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139
 [/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
 [/us/usc/t42/s4370m–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fb
+[/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s4370m–1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fb%2F1%2FA
 [/us/usc/t42/s4370m–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fa
 [/us/usc/t42/s4370m–1/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F1%2FA

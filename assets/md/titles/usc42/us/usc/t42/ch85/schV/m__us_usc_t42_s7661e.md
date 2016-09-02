@@ -21,7 +21,7 @@
 
     (b) __Permits implementing acid rain provisions__ 
 
-        The provisions of this subchapter, including provisions regarding schedules for submission and approval or disapproval of permit applications, shall apply to permits implementing the requirements of subchapter IV–A of this chapter except as modified by that subchapter.
+        The provisions of this subchapter, including provisions regarding schedules for submission and approval or disapproval of permit applications, shall apply to permits implementing the requirements of subchapter IV–A except as modified by that subchapter.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 506, as added [Pub. L. 101–549, title V][/us/pl/101/549/tV], § 501, Nov. 15, 1990, [104 Stat. 2645][/us/stat/104/2645].)
 

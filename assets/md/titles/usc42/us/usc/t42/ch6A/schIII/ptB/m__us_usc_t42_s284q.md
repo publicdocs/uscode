@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/m__us_usc_t42_ch6A_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284q)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284q)
 
 ## § 284q. Pain research
 
@@ -87,7 +87,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/m__us_usc_t42_ch6A_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284q)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284q)
 
 ----------
 ----------

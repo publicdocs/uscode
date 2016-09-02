@@ -41,7 +41,7 @@
 
         (1)
 
-         evaluate the impact of Corporation programs carried out under subchapter II of this chapter that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
+         evaluate the impact of Corporation programs carried out under subchapter II that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
 
             (A) the range and extent of service needs of, and the services provided to, family caregivers assisted by volunteers;
 
@@ -53,7 +53,7 @@
 
         (2)
 
-         evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II of this chapter without receiving a stipend have on such programs and shall include in such evaluation—
+         evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II without receiving a stipend have on such programs and shall include in such evaluation—
 
             (A) information on adminstrative  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “administrative”. </sup></sup>  costs associated with such volunteers;
 

@@ -15,7 +15,7 @@
 
 ## § 6232. Definitions
 
-    As used in this part and part C of this subchapter:
+    As used in this part and part C:
 
     (1) Repealed. [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(5)(A), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].
 
@@ -51,7 +51,7 @@
 
     Par. (11). [Pub. L. 106–469][/us/pl/106/469], § 103(5)(B), struck out “; such term includes the Industrial Petroleum Reserve, the Early Storage Reserve, and the Regional Petroleum Reserve” before period at end.
 
-    1990—[Pub. L. 101–383][/us/pl/101/383] inserted “and part C of this subchapter” after “this part”.
+    1990—[Pub. L. 101–383][/us/pl/101/383] inserted “and part C” after “this part”.
 
 ----------
 

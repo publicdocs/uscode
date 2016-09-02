@@ -883,7 +883,7 @@ Part B—Federal-State Cooperation  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs247" data-uslm-ref="/us/usc/t42/s247">247.</a>  </td>
 
-    <td> Omitted.  </td>
+    <td> Assisting veterans with military emergency medical training to meet requirements for becoming civilian health care professionals.  </td>
 
   </tr>
 
@@ -2827,7 +2827,7 @@ Part P—Additional Programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%933" data-uslm-ref="/us/usc/t42/s280g–3">280g–3.</a>  </td>
 
-    <td> .Controlled substance monitoring program.  </td>
+    <td> Controlled substance monitoring program.  </td>
 
   </tr>
 
@@ -3548,6 +3548,14 @@ Part B—General Provisions Respecting National Research Institutes  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284q" data-uslm-ref="/us/usc/t42/s284q">284q.</a>  </td>
 
     <td> Pain research.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284q%E2%80%931" data-uslm-ref="/us/usc/t42/s284q–1">284q–1.</a>  </td>
+
+    <td> NIH opioid research.  </td>
 
   </tr>
 
@@ -5385,6 +5393,22 @@ Part A—Organization and General Authorities  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9315" data-uslm-ref="/us/usc/t42/s290aa–15">290aa–15.</a>  </td>
+
+    <td> Department of Health and Human Services grant accountability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%9316" data-uslm-ref="/us/usc/t42/s290aa–16">290aa–16.</a>  </td>
+
+    <td> Evaluation of performance of Department of Health and Human Services programs.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part B—Centers and Programs  </td>
@@ -5481,6 +5505,14 @@ subpart 1—center for substance abuse treatment  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9310" data-uslm-ref="/us/usc/t42/s290bb–10">290bb–10.</a>  </td>
+
+    <td> Evidence-based prescription opioid and heroin treatment and interventions demonstration.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 subpart 2—center for substance abuse prevention  </td>
@@ -5572,6 +5604,14 @@ subpart 2—center for substance abuse prevention  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325f" data-uslm-ref="/us/usc/t42/s290bb–25f">290bb–25f.</a>  </td>
 
     <td> Prevention and education programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325g" data-uslm-ref="/us/usc/t42/s290bb–25g">290bb–25g.</a>  </td>
+
+    <td> Awareness campaigns.  </td>
 
   </tr>
 
@@ -5865,9 +5905,41 @@ Part D—Miscellaneous Provisions Relating to Substance Abuse and Mental Health 
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%933" data-uslm-ref="/us/usc/t42/s290dd–3">290dd–3</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290ee%E2%80%933" data-uslm-ref="/us/usc/t42/s290ee–3">290ee–3.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%933" data-uslm-ref="/us/usc/t42/s290dd–3">290dd–3.</a>  </td>
 
-    <td> Omitted.  </td>
+    <td> Grants for reducing overdose deaths.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290ee" data-uslm-ref="/us/usc/t42/s290ee">290ee.</a>  </td>
+
+    <td> Opioid overdose reversal medication access and education grant programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290ee%E2%80%931" data-uslm-ref="/us/usc/t42/s290ee–1">290ee–1.</a>  </td>
+
+    <td> First responder training.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290ee%E2%80%932" data-uslm-ref="/us/usc/t42/s290ee–2">290ee–2.</a>  </td>
+
+    <td> Building communities of recovery.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs290ee%E2%80%933" data-uslm-ref="/us/usc/t42/s290ee–3">290ee–3.</a>  </td>
+
+    <td> State demonstration grants for comprehensive opioid abuse response.  </td>
 
   </tr>
 

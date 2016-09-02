@@ -41,7 +41,7 @@
 
     (b) __Unused funds__ 
 
-        Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+        Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
     (c) __Withholding of funds; disbursement__ 
 
@@ -57,7 +57,7 @@
 
             (B) such amount (excluding any amount attributable to funds appropriated under [section 3023(a)(3) of this title][/us/usc/t42/s3023/a/3]) as the State agency determines to be adequate for conducting an effective ombudsman program under [section 3027(a)(9) of this title][/us/usc/t42/s3027/a/9] shall be available for conducting such program;
 
-            (C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B of this subchapter, shall be available for conducting outreach demonstration projects under [section 3058e of this title][/us/usc/t42/s3058e]; and
+            (C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B, shall be available for conducting outreach demonstration projects under [section 3058e of this title][/us/usc/t42/s3058e]; and
 
             (D) the remainder of such allotment shall be available to such State only for paying such percentage as the State agency determines, but not more than 85 percent of the cost of supportive services, senior centers, and nutrition services under this subchapter provided in the State as part of a comprehensive and coordinated system in planning and service areas for which there is an area plan approved by the State agency.
 
@@ -93,7 +93,7 @@ Another prior section 3024, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], §�
 
     “(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.”
 
-    Subsec. (b). [Pub. L. 106–501][/us/pl/106/501], § 303(b), substituted “part B or C of this subchapter, or subpart I of part E of this subchapter,” for “part B or C of this subchapter” in first sentence.
+    Subsec. (b). [Pub. L. 106–501][/us/pl/106/501], § 303(b), substituted “part B or C, or subpart I of part E,” for “part B or C” in first sentence.
 
     Subsec. (d)(1)(B). [Pub. L. 106–501][/us/pl/106/501], § 801(c)(2)(A), substituted “3027(a)(9)” for “3027(a)(12)”.
 

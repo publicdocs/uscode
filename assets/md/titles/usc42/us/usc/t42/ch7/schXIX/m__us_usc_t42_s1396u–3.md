@@ -167,7 +167,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (g)(2)(A) to (W). [Pub. L. 114–10][/us/pl/114/10], § 211(b)(1), redesignated subpars. (I) to (W) as (A) to (O), respectively, added subpars. (P) and (Q), and struck out former subpars. (A) to (H) which related to total allocation amounts for various periods beginning on January 1, 2004, and ending on December 31, 2007.
+    2015—Subsec. (g)(2). [Pub. L. 114–10][/us/pl/114/10], § 211(b)(1), redesignated subpars. (I) to (W) as (A) to (O), respectively, added subpars. (P) and (Q), and struck out former subpars. (A) to (H) which related to total allocation amounts for various periods beginning on January 1, 2004, and ending on December 31, 2007.
 
     Subsec. (g)(3). [Pub. L. 114–10][/us/pl/114/10], § 211(b)(2), substituted “or (P)” for “(P), (R), (T), or (V)” in introductory provisions.
 

@@ -15,7 +15,7 @@
 
 ## § 6246. Authorization of appropriations
 
-    There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this part and part D of this subchapter, to remain available until expended.
+    There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this part and part D, to remain available until expended.
 
 ([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 166, as added [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 301(a)(1), Aug. 8, 2005, [119 Stat. 683][/us/stat/119/683].)
 

@@ -119,7 +119,7 @@
 
     (g) __Continuous emission monitors__ 
 
-        In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A of this chapter provisions relating to continuous emissions monitoring.
+        In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
 
     (h) __Control technique guidelines__ 
 

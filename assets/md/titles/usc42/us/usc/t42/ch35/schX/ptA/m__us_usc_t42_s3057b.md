@@ -37,7 +37,7 @@
 
         (9) are served under this subchapter at a rate of less than 19 percent of the total national population of older individuals who are Indians living on Indian reservations; and
 
-        (10) are served under subchapter III of this chapter at a rate of less than 1 percent of the total participants under that subchapter.
+        (10) are served under subchapter III at a rate of less than 1 percent of the total participants under that subchapter.
 
 ([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 611, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 959][/us/stat/101/959]; amended [Pub. L. 102–375, title IX][/us/pl/102/375/tIX], § 904(a)(21), Sept. 30, 1992, [106 Stat. 1309][/us/stat/106/1309].)
 

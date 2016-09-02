@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B of this subchapter, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in [section 3030s–1 of this title][/us/usc/t42/s3030s–1] for caregivers described in [section 3030s–1 of this title][/us/usc/t42/s3030s–1].
+        The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in [section 3030s–1 of this title][/us/usc/t42/s3030s–1] for caregivers described in [section 3030s–1 of this title][/us/usc/t42/s3030s–1].
 
     (b) __Requirements__ 
 

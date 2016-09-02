@@ -25,7 +25,7 @@
 
         (3) recommends legislative and administrative initiatives that may improve the performance by the Department of Housing and Urban Development in combating lead hazards through the expansion of lead hazard evaluation and reduction activities;
 
-        (4) describes the results of research carried out in accordance with subchapter III of this chapter; and
+        (4) describes the results of research carried out in accordance with subchapter III; and
 
         (5) estimates the amount of Federal assistance annually expended on lead hazard evaluation and reduction activities.
 

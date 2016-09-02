@@ -143,6 +143,48 @@
 
     For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to transmittal to Congress of annual report, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 5th item on page 175 of House Document No. 103–7.
 
+ __Annual Supplemental Report on Veterans Homelessness__ 
+
+[Pub. L. 114–201, title IV][/us/pl/114/201/tIV], § 404, July 29, 2016, [130 Stat. 809][/us/stat/130/809], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Housing and Urban Development and the Secretary of Veterans Affairs, in coordination with the United States Interagency Council on Homelessness, shall submit annually to the Committees of the Congress specified in subsection (b), together with the annual reports required by such Secretaries under section 203(c)(1) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11313(c)(1)][/us/usc/t42/s11313/c/1]), a supplemental report that includes the following information with respect to the preceding year:
+
+>         “(1) The same information, for such preceding year, that was included with respect to 2010 in the report by the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs entitled ‘Veterans Homelessness: A Supplemental Report to the 2010 Annual Homeless Assessment Report to Congress’.
+
+>         “(2)
+
+>          Information regarding the activities of the Department of Housing and Urban Development relating to veterans during such preceding year, as follows:
+
+>             “(A) The number of veterans provided assistance under the housing choice voucher program for Veterans Affairs supported housing under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f](o)(19)), the socioeconomic characteristics of such homeless veterans, and the number, types, and locations of entities contracted under such section to administer the vouchers.
+
+>             “(B) A summary description of the special considerations made for veterans under public housing agency plans submitted pursuant to section 5A of the United States Housing Act of 1937 ([42 U.S.C. 1437c–1][/us/usc/t42/s1437c–1]) and under comprehensive housing affordability strategies submitted pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12705][/us/usc/t42/s12705]).
+
+>             “(C) A description of the activities of the Special Assistant for Veterans Affairs of the Department of Housing and Urban Development.
+
+>             “(D) A description of the efforts of the Department of Housing and Urban Development and the other members of the United States Interagency Council on Homelessness to coordinate the delivery of housing and services to veterans.
+
+>             “(E) The cost to the Department of Housing and Urban Development of administering the programs and activities relating to veterans.
+
+>             “(F) Any other information that the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs consider relevant in assessing the programs and activities of the Department of Housing and Urban Development relating to veterans.
+
+>     “(b)  __Committees__  __.—__ 
+
+>     The Committees of the Congress specified in this subsection are as follows:
+
+>         “(1) The Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+>         “(2) The Committee on Veterans’ Affairs of the Senate.
+
+>         “(3) The Committee on Appropriations of the Senate.
+
+>         “(4) The Committee on Financial Services of the House of Representatives.
+
+>         “(5) The Committee on Veterans’ Affairs of the House of Representatives.
+
+>         “(6) The Committee on Appropriations of the House of Representatives.”
+
  __Personnel From Federal Departments and Agencies__ 
 
 [Pub. L. 102–389, title III][/us/pl/102/389/tIII], Oct. 6, 1992, [106 Stat. 1608][/us/stat/106/1608], provided in part: 
@@ -200,6 +242,12 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/114/201/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtIV
+[/us/stat/130/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F809
+[/us/usc/t42/s11313/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fc%2F1
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/pl/102/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtIII
 [/us/stat/106/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1608
 [/us/usc/t42/s11313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fa%2F5

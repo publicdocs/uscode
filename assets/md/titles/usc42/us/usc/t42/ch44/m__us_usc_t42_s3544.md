@@ -155,6 +155,12 @@
 
     Amendment by title V of [Pub. L. 105–276][/us/pl/105/276] effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see [section 503 of Pub. L. 105–276][/us/pl/105/276/s503], set out as a note under [section 1437 of this title][/us/usc/t42/s1437].
 
+ __Inclusion of Disaster Housing Assistance Program in Certain Fraud and Abuse Prevention Measures__ 
+
+[Pub. L. 114–201, title V][/us/pl/114/201/tV], § 501, July 29, 2016, [130 Stat. 811][/us/stat/130/811], provided that: 
+
+> “The Disaster Housing Assistance Program administered by the Department of Housing and Urban Development shall be considered a ‘program of the Department of Housing and Urban Development’ under section 904 of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988 ([42 U.S.C. 3544][/us/usc/t42/s3544]) for the purpose of income verifications.”
+
  __Release Forms__ 
 
     [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 903(b), Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868], directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirements of this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
@@ -222,6 +228,9 @@
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
+[/us/pl/114/201/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtV
+[/us/stat/130/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F811
+[/us/usc/t42/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3544
 [/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3868
 

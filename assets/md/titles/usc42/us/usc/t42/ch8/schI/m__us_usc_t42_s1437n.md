@@ -83,6 +83,48 @@
 
                 For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1) of this section.
 
+        (5) __Limitations on tenancy for over-income families__ 
+
+            (A) __Limitations__ 
+
+            Except as provided in subparagraph (D), in the case of any family residing in a dwelling unit of public housing whose income for the most recent two consecutive years, as determined pursuant to income reviews conducted pursuant to [section 1437a(a)(6) of this title][/us/usc/t42/s1437a/a/6], has exceeded the applicable income limitation under subparagraph (C), the public housing agency shall—
+
+                (i)
+
+                 notwithstanding any other provision of this chapter, charge such family as monthly rent for the unit occupied by such family an amount equal to the greater of—
+
+                    (I) the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] for a dwelling unit in the same market area of the same size; or
+
+                    (II) the amount of the monthly subsidy provided under this chapter for the dwelling unit, which shall include any amounts from the Operating Fund and Capital Fund under [section 1437g of this title][/us/usc/t42/s1437g] used for the unit, as determined by the agency in accordance with regulations that the Secretary shall issue to carry out this subclause; or
+
+                (ii) terminate the tenancy of such family in public housing not later than 6 months after the income determination described in subparagraph (A).
+
+            (B) __Notice__ 
+
+                In the case of any family residing in a dwelling unit of public housing whose income for a year has exceeded the applicable income limitation under subparagraph (C), upon the conclusion of such year the public housing agency shall provide written notice to such family of the requirements under subparagraph (A).
+
+            (C) __Income limitation__ 
+
+                The income limitation under this subparagraph shall be 120 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income limitations higher or lower than 120 percent of such median income on the basis of the Secretary’s findings that such variations are necessary because of prevailing levels of construction costs, or unusually high or low family incomes, vacancy rates, or rental costs.
+
+            (D) __Exception__ 
+
+                Subparagraph (A) shall not apply to a family occupying a dwelling unit in public housing pursuant to paragraph (5) of [section 1437a(a) of this title][/us/usc/t42/s1437a/a].
+
+            (E) __Reports on over-income families and waiting lists__ 
+
+            The Secretary shall require that each public housing agency shall—
+
+                (i)
+
+                 submit a report annually, in a format required by the Secretary, that specifies—
+
+                    (I) the number of families residing, as of the end of the year for which the report is submitted, in public housing administered by the agency who had incomes exceeding the applicable income limitation under subparagraph (C); and
+
+                    (II) the number of families, as of the end of such year, on the waiting lists for admission to public housing projects of the agency; and
+
+                (ii) make the information reported pursuant to clause (i) publicly available.
+
     (b) __Income eligibility for tenant-based section 1437f assistance__ 
 
         (1) __In general__ 
@@ -137,7 +179,101 @@
 
         Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
 
-    (e) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 576(d)(2),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2640__  __][/us/stat/112/2640]__ 
+    (e) __Eligibility for assistance based on assets__ 
+
+        (1) __Limitation on assets__ 
+
+        Subject to paragraph (3) and notwithstanding any other provision of this chapter, a dwelling unit assisted under this chapter may not be rented and assistance under this chapter may not be provided, either initially or at each recertification of family income, to any family—
+
+            (A) whose net family assets exceed $100,000, as such amount is adjusted annually by applying an inflationary factor as the Secretary considers appropriate; or
+
+            (B)
+
+             who has a present ownership interest in, a legal right to reside in, and the effective legal authority to sell, real property that is suitable for occupancy by the family as a residence, except that the prohibition under this subparagraph shall not apply to—
+
+                (i) any property for which the family is receiving assistance under subsection (y) or (o)(12) of [section 1437f of this title][/us/usc/t42/s1437f];
+
+                (ii) any person that is a victim of domestic violence; or
+
+                (iii) any family that is offering such property for sale.
+
+        (2) __Net family assets__ 
+
+            (A) __In general__ 
+
+                For purposes of this subsection, the term “net family assets” means, for all members of the household, the net cash value of all assets after deducting reasonable costs that would be incurred in disposing of real property, savings, stocks, bonds, and other forms of capital investment. Such term does not include interests in Indian trust land, equity in property for which the family is receiving assistance under subsection (y) or (o)(12) of [section 1437f of this title][/us/usc/t42/s1437f], equity accounts in homeownership programs of the Department of Housing and Urban Development, or Family Self Sufficiency accounts.
+
+            (B) __Exclusions__ 
+
+            Such term does not include—
+
+                (i) the value of personal property, except for items of personal property of significant value, as the Secretary may establish or the public housing agency may determine;
+
+                (ii) the value of any retirement account;
+
+                (iii) real property for which the family does not have the effective legal authority necessary to sell such property;
+
+                (iv) any amounts recovered in any civil action or settlement based on a claim of malpractice, negligence, or other breach of duty owed to a member of the family and arising out of law, that resulted in a member of the family being disabled;
+
+                (v) the value of any Coverdell education savings account under [section 530 of title 26][/us/usc/t26/s530] or any qualified tuition program under section 529 of such title; and
+
+                (vi) such other exclusions as the Secretary may establish.
+
+            (C) __Trust funds__ 
+
+                In cases in which a trust fund has been established and the trust is not revocable by, or under the control of, any member of the family or household, the value of the trust fund shall not be considered an asset of a family if the fund continues to be held in trust. Any income distributed from the trust fund shall be considered income for purposes of [section 1437a(b) of this title][/us/usc/t42/s1437a/b] and any calculations of annual family income, except in the case of medical expenses for a minor.
+
+        (3) __Self-certification__ 
+
+            (A) __Net family assets__ 
+
+                A public housing agency or owner may determine the net assets of a family, for purposes of this section, based on a certification by the family that the net assets of such family do not exceed $50,000, as such amount is adjusted annually by applying an inflationary factor as the Secretary considers appropriate.
+
+            (B) __No current real property ownership__ 
+
+                A public housing agency or owner may determine compliance with paragraph (1)(B) based on a certification by the family that such family does not have any current ownership interest in any real property at the time the agency or owner reviews the family’s income.
+
+            (C) __Standardized forms__ 
+
+                The Secretary may develop standardized forms for the certifications referred to in subparagraphs (A) and (B).
+
+        (4) __Compliance for public housing dwelling units__ 
+
+            When recertifying family income with respect to families residing in public housing dwelling units, a public housing agency may, in the discretion of the agency and only pursuant to a policy that is set forth in the public housing agency plan under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] for the agency, choose not to enforce the limitation under paragraph (1).
+
+        (5) __Enforcement__ 
+
+            When recertifying the income of a family residing in a dwelling unit assisted under this chapter, a public housing agency or owner may choose not to enforce the limitation under paragraph (1) or may establish exceptions to such limitation based on eligibility criteria, but only pursuant to a policy that is set forth in the public housing agency plan under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] for the agency or under a policy adopted by the owner. Eligibility criteria for establishing exceptions may provide for separate treatment based on family type and may be based on different factors, such as age, disability, income, the ability of the family to find suitable alternative housing, and whether supportive services are being provided.
+
+        (6) __Authority to delay evictions__ 
+
+            In the case of a family residing in a dwelling unit assisted under this chapter who does not comply with the limitation under paragraph (1), the public housing agency or project owner may delay eviction or termination of the family based on such noncompliance for a period of not more than 6 months.
+
+        (7) __Verifying income__ 
+
+            (A) Beginning in fiscal year 2018, the Secretary shall require public housing agencies to require each applicant for, or recipient of, benefits under this chapter to provide authorization by the applicant or recipient (or by any other person whose income or resources are material to the determination of the eligibility of the applicant or recipient for such benefits) for the public housing agency to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[[12 U.S.C. 3415][/us/usc/t12/s3415]\]) from any financial institution (within the meaning of section 1101(1) of such Act \[[12 U.S.C. 3401(1)][/us/usc/t12/s3401/1]\]) any financial record (within the meaning of section 1101(2) of such Act \[[12 U.S.C. 3401(2)][/us/usc/t12/s3401/2]\]) held by the institution with respect to the applicant or recipient (or any such other person) whenever the public housing agency determines the record is needed in connection with a determination with respect to such eligibility or the amount of such benefits.
+
+            (B)
+
+             Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[[12 U.S.C. 3404(a)(1)][/us/usc/t12/s3404/a/1]\], an authorization provided by an applicant or recipient (or any other person whose income or resources are material to the determination of the eligibility of the applicant or recipient) pursuant to subparagraph (A) of this paragraph shall remain effective until the earliest of—
+
+                (i) the rendering of a final adverse decision on the applicant’s application for eligibility for benefits under this chapter;
+
+                (ii) the cessation of the recipient’s eligibility for benefits under this chapter; or
+
+                (iii) the express revocation by the applicant or recipient (or such other person referred to in subparagraph (A)) of the authorization, in a written notification to the Secretary.
+
+            (C)
+
+                (i) An authorization obtained by the public housing agency pursuant to this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[[12 U.S.C. 3401][/us/usc/t12/s3401] et seq.\] for purposes of section 1103(a) of such Act \[[12 U.S.C. 3403(a)][/us/usc/t12/s3403/a]\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[[12 U.S.C. 3404(a)][/us/usc/t12/s3404/a]\].
+
+                (ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[[12 U.S.C. 3403(b)][/us/usc/t12/s3403/b]\] shall not apply to requests by the public housing agency pursuant to an authorization provided under this clause.
+
+                (iii) A request by the public housing agency pursuant to an authorization provided under this clause is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act \[[12 U.S.C. 3404(a)(3)][/us/usc/t12/s3404/a/3]\] and the flush language of section 1102 of such Act \[[12 U.S.C. 3402][/us/usc/t12/s3402]\].
+
+                (iv) The public housing agency shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
+
+            (D) If an applicant for, or recipient of, benefits under this chapter (or any such other person referred to in subparagraph (A)) refuses to provide, or revokes, any authorization made by the applicant or recipient for the public housing agency to obtain from any financial institution any financial record, the public housing agency may, on that basis, determine that the applicant or recipient is ineligible for benefits under this subchapter.
 
     (f) __Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises__ 
 
@@ -147,7 +283,7 @@
 
         (2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under [section 1437f of this title][/us/usc/t42/s1437f] for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 323, Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1001(a), Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 105, Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(A)(v), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120][/us/pl/104/120], § 9(d), Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(7), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV][/us/pl/105/276/tIV], § 428, title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 123, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 205, Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 238(b), Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 323, Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1001(a), Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 105, Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(A)(v), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120][/us/pl/104/120], § 9(d), Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(7), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV][/us/pl/105/276/tIV], § 428, title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 123, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 205, Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 238(b), Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635]; [Pub. L. 114–201, title I][/us/pl/114/201/tI], §§ 103, 104, July 29, 2016, [130 Stat. 792][/us/stat/130/792], 793.)
 
  __References in Text__ 
 
@@ -159,11 +295,17 @@
 
     The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], which, as amended by [Pub. L. 101–625][/us/pl/101/625], is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of Title 12, Banks and Banking, and which amended [section 1715z–6 of Title 12][/us/usc/t12/s1715z–6], were amended generally by [Pub. L. 101–625][/us/pl/101/625] and are classified to subchapter I (§ 4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended [section 1715z–15 of Title 12][/us/usc/t12/s1715z–15] and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242], as added by [Pub. L. 102–550][/us/pl/102/550], is classified generally to subchapter II (§ 4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 12][/us/usc/t12/s4101] and Tables.
 
+    The Right to Financial Privacy Act, referred to in subsec. (e)(7)(C)(i), probably means the Right to Financial Privacy Act of 1978, title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
+
  __Codification__ 
 
     October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date”, meaning the effective date of subtitle A of title III of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 384][/us/stat/95/384], which was generally effective Oct. 1, 1981. See Effective Date note below.
 
  __Amendments__ 
+
+    2016—Subsec. (a)(5). [Pub. L. 114–201][/us/pl/114/201], § 103, added par. (5).
+
+    Subsec. (e). [Pub. L. 114–201][/us/pl/114/201], § 104, added subsec. (e).
 
     2014—Subsec. (a)(2)(A). [Pub. L. 113–76][/us/pl/113/76], § 238(b)(1), substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
@@ -243,6 +385,10 @@
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437a/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F6
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
+[/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
+[/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -257,8 +403,22 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
 [/us/usc/t12/s1715z–1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Ff%2F2
-[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
-[/us/stat/112/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2640
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t26/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530
+[/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
+[/us/usc/t12/s3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3415
+[/us/usc/t12/s3401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F1
+[/us/usc/t12/s3401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F2
+[/us/usc/t12/s3404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa%2F1
+[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
+[/us/usc/t12/s3403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fa
+[/us/usc/t12/s3404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa
+[/us/usc/t12/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fb
+[/us/usc/t12/s3404/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa%2F3
+[/us/usc/t12/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3402
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -291,6 +451,8 @@
 [/us/stat/113/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1069
 [/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F792
 [/us/usc/t42/s1437d/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fs
 [/us/usc/t42/s1437d/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fr
 [/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
@@ -309,8 +471,13 @@
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
+[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76

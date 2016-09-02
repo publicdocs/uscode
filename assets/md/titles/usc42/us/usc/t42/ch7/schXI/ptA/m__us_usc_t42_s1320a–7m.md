@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937m)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937m)
 
 ## § 1320a–7m. Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare fee-for-service program
 
@@ -239,7 +239,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937m)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937m)
 
 ----------
 ----------

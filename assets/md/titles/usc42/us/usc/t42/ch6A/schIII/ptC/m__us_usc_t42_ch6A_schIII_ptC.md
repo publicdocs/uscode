@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/spt1/m__us_usc_t42_ch6A_schIII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/spt1/m__us_usc_t42_ch6A_schIII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptC)
 
 #### Part C—Specific Provisions Respecting National Research Institutes
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/spt1/m__us_usc_t42_ch6A_schIII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptB/m__us_usc_t42_s284q–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptC/spt1/m__us_usc_t42_ch6A_schIII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptC)
 
 ----------
 ----------

@@ -71,7 +71,7 @@
 
     (b) __Cross reference__ 
 
-        The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], includes 1 emergency preparedness activities conducted pursuant to this subchapter.
+        The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  includes  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “include”. </sup></sup>  emergency preparedness activities conducted pursuant to this subchapter.
 
 ([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 602, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3101][/us/stat/108/3101]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
@@ -103,7 +103,6 @@
 ----------
 
 [/us/usc/t42/s5196/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fh
-[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
 [/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3101

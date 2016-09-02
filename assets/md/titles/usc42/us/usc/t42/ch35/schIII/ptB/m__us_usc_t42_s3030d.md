@@ -69,7 +69,7 @@
 
         (14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
-        (15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and [section 3027(a)(12) of this title][/us/usc/t42/s3027/a/12], and screening for elder abuse, neglect, and exploitation;
+        (15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI and [section 3027(a)(12) of this title][/us/usc/t42/s3027/a/12], and screening for elder abuse, neglect, and exploitation;
 
         (16) inservice training and State leadership for legal assistance activities;
 
@@ -173,7 +173,7 @@
 
     1993—Subsec. (a). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
 
-    Subsec. (a)(15). [Pub. L. 103–171][/us/pl/103/171], § 2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and [section 3027(a)(16) of this title][/us/usc/t42/s3027/a/16]” for “clause (16) of [section 3027(a) of this title][/us/usc/t42/s3027/a]”, was executed by making the substitution for “paragraph (16) of [section 3027(a) of this title][/us/usc/t42/s3027/a]” to reflect the probable intent of Congress and amendment by [Pub. L. 102–375][/us/pl/102/375], § 904(a)(15)(C). See 1992 Amendment note below.
+    Subsec. (a)(15). [Pub. L. 103–171][/us/pl/103/171], § 2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI and [section 3027(a)(16) of this title][/us/usc/t42/s3027/a/16]” for “clause (16) of [section 3027(a) of this title][/us/usc/t42/s3027/a]”, was executed by making the substitution for “paragraph (16) of [section 3027(a) of this title][/us/usc/t42/s3027/a]” to reflect the probable intent of Congress and amendment by [Pub. L. 102–375][/us/pl/102/375], § 904(a)(15)(C). See 1992 Amendment note below.
 
     Subsec. (b)(1). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 

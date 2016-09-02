@@ -77,7 +77,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428] was renumbered section 433 and is classified to [section 11388 of this title][/us/usc/t42/s11388].
+    A prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428] was renumbered section 434 and is classified to [section 11388 of this title][/us/usc/t42/s11388].
 
     Another prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], §§ 454, 455, Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 833(a), Nov. 28, 1990, [104 Stat. 4362][/us/stat/104/4362], which authorized appropriations for the supportive housing demonstration program, was classified to [section 11388 of this title][/us/usc/t42/s11388] prior to repeal by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 

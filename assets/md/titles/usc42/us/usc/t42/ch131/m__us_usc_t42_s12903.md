@@ -25,27 +25,89 @@
 
     (c) __Allocation of resources__ 
 
-        (1) __Formula allocation__ 
+        (1) __Allocation of resources__ 
 
-        The Secretary shall allocate 90 percent of the amounts approved in appropriation Acts under [section 12912 of this title][/us/usc/t42/s12912] among States and cities whose most recent comprehensive housing affordability strategy (or abbreviated strategy) has been approved by the Secretary under [section 12705 of this title][/us/usc/t42/s12705]. Such amounts shall be allocated as follows:
+            (A) __Allocation formula__ 
+
+            The Secretary shall allocate 90 percent of the amount approved in appropriations Acts under [section 12912 of this title][/us/usc/t42/s12912] among States and metropolitan statistical areas as follows:
+
+                (I)
+
+  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(i)”. </sup></sup>  75 percent of such amounts among—    (I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
+
+                    (II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
+
+    (ii)
+
+     25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).    (B) __Source of data__ 
+
+            For purposes of allocating amounts under this paragraph for any fiscal year, the number of individuals living with HIV or AIDS shall be the number of such individuals as confirmed by the Director of the Centers for Disease Control and Prevention, as of December 31 of the most recent calendar year for which such data is available.
+
+        (C) __Allocation under subparagraph (A)(ii)__ 
+
+        For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—    (I) 1 differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to [section 1437f(c) of this title][/us/usc/t42/s1437f/c] or another methodology established by the Secretary through regulation; and
+
+    (ii)
+
+     differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation.    (2) __Maintaining grants__ 
+
+            (A) __Continued eligibility of fiscal year 2016 grantees__ 
+
+            A grantee that received an allocation in fiscal year 2016 shall continue to be eligible for allocations under paragraph (1) in subsequent fiscal years, subject to—    (I) 1 the amounts available from appropriations Acts under [section 12912 of this title][/us/usc/t42/s12912];
+
+    (ii) approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of title;  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and
+
+    (iii)
+
+     the requirements of subparagraph (C).    (B) __Adjustments__ 
+
+            Allocations to grantees described in subparagraph (A) shall be adjusted annually based on the administrative provisions included in fiscal year 2016 appropriations Acts.
+
+        (C) __Redetermination of continued eligibility__ 
+
+            The Secretary shall redetermine the continued eligibility of a grantee that received an allocation in fiscal year 2016 at least once during the 10-year period following fiscal year 2016.
+
+        (D) __Adjustment to grants__ 
+
+            For each of fiscal years 2017, 2018, 2019, 2020, and 2021, the Secretary shall ensure that a grantee that received an allocation in the prior fiscal year does not receive an allocation that is 5 percent less than or 10 percent greater than the amount allocated to such grantee in the preceding fiscal year.
+
+        (3) __Alternative grantees__ 
+
+            (A) __Requirements__ 
+
+            The Secretary may award funds reserved for a grantee eligible under paragraph (1) to an alternative grantee if—
+
+                (I) 1 the grantee submits to the Secretary a written agreement between the grantee and the alternative grantee that describes how the alternative grantee will take actions consistent with the applicable comprehensive housing affordability strategy approved under [section 12705 of this title][/us/usc/t42/s12705]; 2
+
+                (ii) the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
+
+    (iii)
+
+     the written agreement does not exceed a term of 10 years.    (B) __Renewal__ 
+
+            An agreement approved pursuant to subparagraph (A) may be renewed by the parties with the approval of the Secretary.
+
+        (C) __Definition__ 
+
+            In this paragraph, the term “alternative grantee” means a public housing agency (as defined in [section 1437a(b) of this title][/us/usc/t42/s1437a/b]), a unified funding agency (as defined in [section 11360 of this title][/us/usc/t42/s11360]), a State, a unit of general local government, or an instrumentality of State or local government.
+
+        (4) __Reallocations__ 
+
+        If a State or metropolitan statistical area declines an allocation under paragraph (1)(A), or the Secretary determines, in accordance with criteria specified in regulation, that a State or metropolitan statistical area that is eligible for an allocation under paragraph (1)(A) is unable to properly administer such allocation, the Secretary shall reallocate any funds reserved for such State or metropolitan statistical area as follows:
 
             (A)
 
-             75 percent among—
+             For funds reserved for a State—
 
-                (i) cities that are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome; and
+                (I) 1 to eligible metropolitan statistical areas within the State on a pro rata basis; or
 
-                (ii) States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in clause (i); and
+                (ii) if there is no eligible metropolitan statistical areas within a State, to metropolitan cities and urban counties within the State that are eligible for grant under [section 5306 of this title][/us/usc/t42/s5306], on a pro rata basis.
 
-            (B) 25 percent among cities that (i) are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, and (ii) have a higher than average per capita incidence of acquired immunodeficiency syndrome.
+            (B) For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
 
-            A single city may receive assistance allocated under subparagraph (A) and subparagraph (B). For purposes of allocating amounts under this paragraph for any fiscal year, the number of cases of acquired immunodeficiency syndrome shall be the number of such cases reported to and confirmed by the Director of the Centers for Disease Control of the Public Health Service as of March 31 of the fiscal year immediately preceding the fiscal year for which the amounts are appropriated and to be allocated.
+            (C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
 
-        (2) __Minimum grant__ 
-
-            Subject only to the availability of amounts pursuant to appropriations Acts under [section 12912 of this title][/us/usc/t42/s12912], for each fiscal year each eligible grantee under paragraph (1) shall receive funding according to its proportionate share of the total, except that each entity shall receive a minimum allocation of $200,000 from subparagraphs (A) and (B) of paragraph (1) combined, and any increase this entails from the formula amount will be deducted from all other allocations exceeding $200,000 on a pro rata basis. If allocation under subparagraph (A) of paragraph (1) would allocate less than $200,000 for any State, the allocation for such State shall be $200,000 and the amount of the increase under this sentence shall be deducted on a pro rata basis from the allocations of the other States, except that a reduction under this subparagraph may not reduce the amount allocated to any eligible entity to less than $200,000.
-
-        (3) __Nonformula allocation__ 
+        (5) __Nonformula allocation__ 
 
             (A) __In general__ 
 
@@ -87,9 +149,15 @@
 
         In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1) of this section, a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
 
-([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 854, Nov. 28, 1990, [104 Stat. 4376][/us/stat/104/4376]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(d), (j)(2), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807], 3810.)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 854, Nov. 28, 1990, [104 Stat. 4376][/us/stat/104/4376]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(d), (j)(2), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807], 3810; [Pub. L. 114–201, title VII][/us/pl/114/201/tVII], § 701(a), July 29, 2016, [130 Stat. 812][/us/stat/130/812].)
+
+ __References in Text__ 
+
+    [Section 12705 of this title][/us/usc/t42/s12705], referred to in subsec. (c)(2)(A)(ii) and (3)(A)(I), was in the original “section 105 of this Act”, meaning section 105 of the AIDS Housing Opportunity Act, and was translated as meaning section 105 of the Cranston-Gonzalez National Affordable Housing Act, to reflect the probable intent of Congress. The AIDS Housing Opportunity Act does not contain a section 105.
 
  __Amendments__ 
+
+    2016—Subsec. (c). [Pub. L. 114–201][/us/pl/114/201] added pars. (1) to (4), redesignated former par. (3) as (5), and struck out former pars. (1) and (2) which related to formula allocation and minimum grant, respectively.
 
     1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(1), substituted “, units of general local government, and nonprofit organizations” for “and units of general local government”.
 
@@ -131,13 +199,21 @@
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
 [/us/usc/t42/s12904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12904
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
-[/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
+[/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
+[/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
+[/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360
+[/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
 [/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4376
 [/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3807
+[/us/pl/114/201/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtVII
+[/us/stat/130/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F812
+[/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705

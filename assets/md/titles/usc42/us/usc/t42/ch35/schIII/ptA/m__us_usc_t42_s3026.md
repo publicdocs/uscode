@@ -23,7 +23,7 @@
 
         (2)
 
-         provide assurances that an adequate proportion, as required under [section 3027(a)(2) of this title][/us/usc/t42/s3027/a/2], of the amount allotted for part B of this subchapter to the planning and service area will be expended for the delivery of each of the following categories of services—
+         provide assurances that an adequate proportion, as required under [section 3027(a)(2) of this title][/us/usc/t42/s3027/a/2], of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
             (A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
@@ -197,7 +197,7 @@
 
             (A) information concerning whether there is a significant population of older Native Americans in the planning and service area and if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
 
-            (B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X of this chapter; and
+            (B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X; and
 
             (C) an assurance that the area agency on aging will make services under the area plan available, to the same extent as such services are available to older individuals within the planning and service area, to older Native Americans; and  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The word “and” probably should not appear. </sup></sup> 
 

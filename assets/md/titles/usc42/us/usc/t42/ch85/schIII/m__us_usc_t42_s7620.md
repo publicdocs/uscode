@@ -17,7 +17,7 @@
 
     (a) __Conferences__ 
 
-        Not later than six months after August 7, 1977, and at least every three years thereafter, the Administrator shall conduct a conference on air quality modeling. In conducting such conference, special attention shall be given to appropriate modeling necessary for carrying out part C of subchapter I of this chapter (relating to prevention of significant deterioration of air quality).
+        Not later than six months after August 7, 1977, and at least every three years thereafter, the Administrator shall conduct a conference on air quality modeling. In conducting such conference, special attention shall be given to appropriate modeling necessary for carrying out part C of subchapter I (relating to prevention of significant deterioration of air quality).
 
     (b) __Conferees__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Promulgation and revision of regulations relating to air quality modeling__ 
 
-        The comments submitted and the transcript maintained pursuant to subsection (c) of this section shall be included in the docket required to be established for purposes of promulgating or revising any regulation relating to air quality modeling under part C of subchapter I of this chapter.
+        The comments submitted and the transcript maintained pursuant to subsection (c) of this section shall be included in the docket required to be established for purposes of promulgating or revising any regulation relating to air quality modeling under part C of subchapter I.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 320, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 310, Aug. 7, 1977, [91 Stat. 782][/us/stat/91/782]; amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 

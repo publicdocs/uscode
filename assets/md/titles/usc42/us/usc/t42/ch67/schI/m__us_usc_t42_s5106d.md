@@ -19,11 +19,11 @@
 
         (1) __Restriction on use of funds__ 
 
-            Assistance provided under this subchapter and subchapter III of this chapter may not be used for construction of facilities.
+            Assistance provided under this subchapter and subchapter III may not be used for construction of facilities.
 
         (2) __Lease, rental, or repair__ 
 
-        The Secretary may authorize the use of funds received under this subchapter and subchapter III of this chapter—
+        The Secretary may authorize the use of funds received under this subchapter and subchapter III—
 
             (A) where adequate facilities are not otherwise available, for the lease or rental of facilities; or
 
@@ -31,11 +31,11 @@
 
     (b) __Geographical distribution__ 
 
-        The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III of this chapter among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III of this chapter.
+        The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III.
 
     (c) __Limitation__ 
 
-        No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
+        No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III may be used for any purpose other than that for which such funds were authorized to be appropriated.
 
     (d) __Sense of Congress__ 
 
@@ -47,7 +47,7 @@
 
     (e) __Annual report__ 
 
-        A State that receives funds under [section 5106a(a) of this title][/us/usc/t42/s5106a/a] shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of [section 5106a of this title][/us/usc/t42/s5106a].
+        A State that receives funds under [section 5106a(a) of this title][/us/usc/t42/s5106a/a] shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of [section 5106a of this title][/us/usc/t42/s5106a].
 
 ([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 108, formerly § 11, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 115][/us/stat/102/115]; renumbered title I, § 110, [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; renumbered § 108 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 109, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 116, June 25, 2003, [117 Stat. 812][/us/stat/117/812]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 117, Dec. 20, 2010, [124 Stat. 3475][/us/stat/124/3475].)
 

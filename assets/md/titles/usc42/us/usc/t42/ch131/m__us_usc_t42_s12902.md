@@ -17,7 +17,7 @@
 
     For purposes of this chapter:
 
-    (1) The term “acquired immunodeficiency syndrome and related diseases” means the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.
+    (1) The term “acquired immunodeficiency syndrome and related diseases” or “AIDS” means the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.
 
     (2) The term “applicant” means a State, a unit of general local government, or a nonprofit organization eligible to receive assistance under this chapter.
 
@@ -55,13 +55,27 @@
 
     (14) The term “project sponsor” means a nonprofit organization or a housing agency of a State or unit of general local government that contracts with a grantee to receive assistance under this chapter.
 
-([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 853, Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(c), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807].)
+    (15) The term “HIV” means infection with the human immunodeficiency virus.
+
+    (16)
+
+     The term “individuals living with HIV or AIDS” means, with respect to the counting of cases in a geographic area during a period of time, the sum of—
+
+        (A) the number of living non-AIDS cases of HIV in the area; and
+
+        (B) the number of living cases of AIDS in the area.
+
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 853, Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(c), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807]; [Pub. L. 114–201, title VII][/us/pl/114/201/tVII], § 701(b), July 29, 2016, [130 Stat. 814][/us/stat/130/814].)
 
  __References in Text__ 
 
     This chapter, referred to in par. (7), was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle D (§§ 851–863) of title VIII of [Pub. L. 101–625][/us/pl/101/625], to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2016—Par. (1). [Pub. L. 114–201][/us/pl/114/201], § 701(b)(1), inserted “or ‘AIDS’ ” before “means”.
+
+    Pars. (15), (16). [Pub. L. 114–201][/us/pl/114/201], § 701(b)(2), added pars. (15) and (16).
 
     1992—Par. (2). [Pub. L. 102–550][/us/pl/102/550], § 606(c)(1), substituted “organization eligible to receive assistance under this chapter” for “sponsor receiving assistance from a grantee”.
 
@@ -82,7 +96,11 @@
 [/us/stat/104/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4375
 [/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3807
+[/us/pl/114/201/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtVII
+[/us/stat/130/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F814
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

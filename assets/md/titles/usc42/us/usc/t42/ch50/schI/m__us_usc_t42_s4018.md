@@ -23,7 +23,7 @@
 
         (2) a current schedule of operating allowances applicable to risk-sharing insurance companies and other insurers,
 
-        which may be payable in accordance with the provisions of subchapter II of this chapter, and such schedules shall from time to time be prescribed in regulations.
+        which may be payable in accordance with the provisions of subchapter II, and such schedules shall from time to time be prescribed in regulations.
 
     (b)
 

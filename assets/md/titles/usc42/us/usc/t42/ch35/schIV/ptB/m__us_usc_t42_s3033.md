@@ -25,7 +25,7 @@
 
     (c) __Consultation__ 
 
-    The Assistant Secretary shall make no grant or contract under this subchapter in any State that has established or designated a State agency for purposes of subchapter III of this chapter unless the Assistant Secretary—
+    The Assistant Secretary shall make no grant or contract under this subchapter in any State that has established or designated a State agency for purposes of subchapter III unless the Assistant Secretary—
 
         (1) consults with the State agency prior to issuing the grant or contract; and
 

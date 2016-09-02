@@ -379,7 +379,7 @@
 
     (44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-    (45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+    (45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
 
     (46)
 
@@ -547,7 +547,7 @@
 
     Par. (12). [Pub. L. 100–628][/us/pl/100/628], § 705(1)(B), redesignated par. (8) defining “Trust Territory of the Pacific Islands” as (12).
 
-    1987—Par. (1). [Pub. L. 100–175][/us/pl/100/175], § 182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
+    1987—Par. (1). [Pub. L. 100–175][/us/pl/100/175], § 182(a), substituted “except that for purposes of subchapter IX such term means the Secretary of Labor” for “other than for purposes of subchapter IX”.
 
     Par. (3). [Pub. L. 100–175][/us/pl/100/175], § 182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
@@ -567,7 +567,7 @@
 
     Pars. (6), (7). [Pub. L. 97–115][/us/pl/97/115], § 2(a)(3)(B), (C), substituted “Except for the purposes of subchapter X of this chapter, the term” for “The term”.
 
-    1978—Par. (1). [Pub. L. 95–478][/us/pl/95/478], § 503(a)(1), inserted “, other than for purposes of subchapter IX of this chapter”.
+    1978—Par. (1). [Pub. L. 95–478][/us/pl/95/478], § 503(a)(1), inserted “, other than for purposes of subchapter IX”.
 
     Pars. (4) to (7). [Pub. L. 95–478][/us/pl/95/478], § 503(a)(2), redesignated second par. (4), which was enacted by [Pub. L. 94–135][/us/pl/94/135], § 104(b), as par. (5) and redesignated existing pars. (5) and (6) as (6) and (7), respectively.
 

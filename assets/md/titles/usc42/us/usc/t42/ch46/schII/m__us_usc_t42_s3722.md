@@ -57,7 +57,7 @@
 
         (7) serve as a national and international clearinghouse for the exchange of information with respect to the purposes of this subchapter;
 
-        (8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
+        (8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V;
 
         (9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development, maintenance, and coordination of criminal and civil justice programs and services; and
 
@@ -77,7 +77,7 @@
 
         (4) seek the cooperation of the judicial branches of Federal and State Government in coordinating civil and criminal justice research and development; and
 
-        (5) exercise the powers and functions set out in subchapter VIII of this chapter.
+        (5) exercise the powers and functions set out in subchapter VIII.
 
 ([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 202, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 604(b), Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330001(h)(1), Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 237, Nov. 25, 2002, [116 Stat. 2162][/us/stat/116/2162]; [Pub. L. 112–166][/us/pl/112/166], § 2(h)(3), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
 
@@ -105,7 +105,7 @@
 
     Subsec. (c)(4) to (7). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
-    Subsec. (c)(8). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
+    Subsec. (c)(8). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V” for “subchapter VI”. Former par. (8) redesignated (7).
 
     Subsec. (c)(9). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 

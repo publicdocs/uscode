@@ -23,7 +23,7 @@
 
         (A) The term “biomass” means any organic matter which is available on a renewable basis, including agricultural crops and agricultural wastes and residues, wood and wood wastes and residues, animal wastes, municipal wastes, and aquatic plants.
 
-        (B) For purposes of subchapter I of this chapter, such term does not include municipal wastes; and for purposes of subchapter III of this chapter, such term does not include aquatic plants and municipal wastes.
+        (B) For purposes of subchapter I, such term does not include municipal wastes; and for purposes of subchapter III, such term does not include aquatic plants and municipal wastes.
 
     (3) The term “biomass fuel” means any gaseous, liquid, or solid fuel produced by conversion of biomass.
 
@@ -137,7 +137,7 @@
 
     This chapter, referred to in introductory provisions and pars. (11)(A) and (14)(B), was in the original “this title”, meaning title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 683][/us/stat/94/683], known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title][/us/usc/t42/s8801] and Tables.
 
-    Subchapter III of this chapter, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C of title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 705][/us/stat/94/705], which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16.
+    Subchapter III, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C of title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 705][/us/stat/94/705], which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16.
 
     The Alaska Native Claims Settlement Act, referred to in par. (12), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 

@@ -39,7 +39,7 @@
 
         (1) __Required membership__ 
 
-        Except as provided in paragraph (2), the membership of the board of directors or similar governing body of each public housing agency shall contain not less than 1 member—
+        Except as provided in paragraphs (2) and (3), the membership of the board of directors or similar governing body of each public housing agency shall contain not less than 1 member—
 
             (A) who is directly assisted by the public housing agency; and
 
@@ -59,11 +59,29 @@
 
                 (ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to [section 1437c–1(e) of this title][/us/usc/t42/s1437c–1/e] of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
 
-        (3) __Nondiscrimination__ 
+        (3) __Exception for certain jurisdictions__ 
+
+            (A) __Exception__ 
+
+                A covered agency (as such term is defined in subparagraph (C) of this paragraph) shall not be required to include on the board of directors or a similar governing board of such agency a member described in paragraph (1).
+
+            (B) __Advisory board requirement__ 
+
+                Each covered agency that administers Federal housing assistance under [section 1437f of this title][/us/usc/t42/s1437f] that chooses not to include a member described in paragraph (1) on the board of directors or a similar governing board of the agency shall establish an advisory board of not less than 6 residents of public housing or recipients of assistance under [section 1437f of this title][/us/usc/t42/s1437f] to provide advice and comment to the agency or other administering entity on issues related to public housing and [section 1437f of this title][/us/usc/t42/s1437f]. Such advisory board shall meet not less than quarterly.
+
+            (C) __Covered agency or entity__ 
+
+            For purposes of this paragraph, the term “covered agency” means a public housing agency or such other entity that administers Federal housing assistance for—
+
+                (I)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(i)”. </sup></sup>  the Housing Authority of the county of Los Angeles, California; or
+
+    (ii)
+
+     any of the States of Alaska, Iowa, and Mississippi.    (4) __Nondiscrimination__ 
 
             No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under [section 1437f of this title][/us/usc/t42/s1437f].
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 2, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; amended [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 322(c), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 572(2), Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 505, Oct. 21, 1998, [112 Stat. 2522][/us/stat/112/2522].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 2, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; amended [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 322(c), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 572(2), Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 505, Oct. 21, 1998, [112 Stat. 2522][/us/stat/112/2522]; [Pub. L. 114–201, title I][/us/pl/114/201/tI], § 114, July 29, 2016, [130 Stat. 804][/us/stat/130/804].)
 
  __Prior Provisions__ 
 
@@ -72,6 +90,10 @@
     Prior similar provisions were contained in section 1 of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], [50 Stat. 888][/us/stat/50/888], which was classified to [section 1401 of this title][/us/usc/t42/s1401] prior to the general revision of this chapter by [Pub. L. 93–383][/us/pl/93/383].
 
  __Amendments__ 
+
+    2016—Subsec. (b)(1). [Pub. L. 114–201][/us/pl/114/201], § 114(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+
+    Subsec. (b)(3), (4). [Pub. L. 114–201][/us/pl/114/201], § 114(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
     1998—[Pub. L. 105–276][/us/pl/105/276] amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
 
@@ -124,6 +146,12 @@
 > “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[[section 1437a(1) of this title][/us/usc/t42/s1437a/1]\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[[section 1437f of this title][/us/usc/t42/s1437f]\] as so amended shall be effective not later than January 1, 1975.”
 
     Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under [section 1437a of this title][/us/usc/t42/s1437a].
+
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–201][/us/pl/114/201], § 1(a), July 29, 2016, [130 Stat. 782][/us/stat/130/782], provided that: 
+
+> “This Act \[enacting sections 1437z–9, 3536a, and 11386f of this title, amending this section, sections 1436a, 1437a, 1437f, 1437g, 1437n, 1472, 3533, 11373, 11387, 11388, 12902, and 12903 of this title, and [section 1709 of Title 12][/us/usc/t12/s1709], Banks and Banking, enacting provisions set out as notes under sections 1437a, 1437f, 1437z–9, 3533, 3544, and 11313 of this title, and amending provisions set out as a note under [section 12805 of this title][/us/usc/t42/s12805]\] may be cited as the ‘Housing Opportunity Through Modernization Act of 2016’.”
 
  __Short Title of 2008 Amendment__ 
 
@@ -394,6 +422,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/usc/t42/s1437c–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931%2Fe
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
@@ -405,6 +436,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/104/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4236
 [/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2522
+[/us/pl/114/201/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtI
+[/us/stat/130/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F804
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/stat/50/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F888
 [/us/usc/t42/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1402
@@ -413,6 +446,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/50/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F888
 [/us/usc/t42/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1401
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -428,6 +463,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s1437a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2F1
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
+[/us/stat/130/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F782
+[/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
+[/us/usc/t42/s12805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12805
 [/us/pl/110/289/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVII
 [/us/stat/122/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2863
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931

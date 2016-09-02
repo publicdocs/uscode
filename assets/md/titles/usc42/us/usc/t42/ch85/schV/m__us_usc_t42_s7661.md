@@ -19,7 +19,7 @@
 
     (1) __Affected source__ 
 
-        The term “affected source” shall have the meaning given such term in subchapter IV–A of this chapter.
+        The term “affected source” shall have the meaning given such term in subchapter IV–A.
 
     (2) __Major source__ 
 
@@ -27,7 +27,7 @@
 
         (A) A major source as defined in [section 7412 of this title][/us/usc/t42/s7412].
 
-        (B) A major stationary source as defined in [section 7602 of this title][/us/usc/t42/s7602] or part D of subchapter I of this chapter.
+        (B) A major stationary source as defined in [section 7602 of this title][/us/usc/t42/s7602] or part D of subchapter I.
 
     (3) __Schedule of compliance__ 
 

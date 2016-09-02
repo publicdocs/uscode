@@ -143,7 +143,43 @@
 
             In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
-([Pub. L. 89–174][/us/pl/89/174], § 4, Sept. 9, 1965, [79 Stat. 668][/us/stat/79/668]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 808(b)(1), Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 90–448, title XVII][/us/pl/90/448/tXVII], § 1708(a), Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 917, Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 818(a), Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740]; [Pub. L. 95–128, title IX][/us/pl/95/128/tIX], § 901, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], §§ 121, 122, 140, Dec. 15, 1989, [103 Stat. 2021][/us/stat/103/2021], 2030; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(c)(2), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 902(a)(1), Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1442, July 21, 2010, [124 Stat. 2163][/us/stat/124/2163]; [Pub. L. 112–166][/us/pl/112/166], § 2(g), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+    (h) __Special Assistant for Veterans Affairs__ 
+
+        (1) __Position__ 
+
+            There shall be in the Office of the Secretary a Special Assistant for Veterans Affairs, who shall report directly to the Secretary.
+
+        (2) __Appointment__ 
+
+            The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, governing appointments in the competitive service.
+
+        (3) __Responsibilities__ 
+
+        The Special Assistant for Veterans Affairs shall be responsible for—
+
+            (A) ensuring veterans have fair access to housing and homeless assistance under each program of the Department providing either such assistance;
+
+            (B) coordinating all programs and activities of the Department relating to veterans;
+
+            (C) serving as a liaison for the Department with the Department of Veterans Affairs, including establishing and maintaining relationships with the Secretary of Veterans Affairs;
+
+            (D) serving as a liaison for the Department, and establishing and maintaining relationships with the United States Interagency Council on Homelessness and officials of State, local, regional, and nongovernmental organizations concerned with veterans;
+
+            (E)
+
+             providing information and advice regarding—
+
+                (i) sponsoring housing projects for veterans assisted under programs administered by the Department; or
+
+                (ii) assisting veterans in obtaining housing or homeless assistance under programs administered by the Department;
+
+            (F) coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 404 of the Housing Opportunity Through Modernization Act of 2016;
+
+            (G) collaborating with the Department of Veterans Affairs on making joint recommendations to the Congress, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs on how to better coordinate and improve services to veterans under both Department of Housing and Urban Development and Department of Veteran Affairs veterans housing programs, including ways to improve the Independent Living Program of the Department of Veteran Affairs; and
+
+            (H) carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
+
+([Pub. L. 89–174][/us/pl/89/174], § 4, Sept. 9, 1965, [79 Stat. 668][/us/stat/79/668]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 808(b)(1), Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 90–448, title XVII][/us/pl/90/448/tXVII], § 1708(a), Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 917, Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 818(a), Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740]; [Pub. L. 95–128, title IX][/us/pl/95/128/tIX], § 901, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], §§ 121, 122, 140, Dec. 15, 1989, [103 Stat. 2021][/us/stat/103/2021], 2030; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(c)(2), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 902(a)(1), Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1442, July 21, 2010, [124 Stat. 2163][/us/stat/124/2163]; [Pub. L. 112–166][/us/pl/112/166], § 2(g), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285]; [Pub. L. 114–201, title IV][/us/pl/114/201/tIV], § 403(a), July 29, 2016, [130 Stat. 808][/us/stat/130/808].)
 
  __References in Text__ 
 
@@ -151,11 +187,15 @@
 
     Section 6 of the Expand and Preserve Home Ownership Through Counseling Act, referred to in subsec. (g)(3)(B)(vi), probably means section 1446 of subtitle D of title XIV of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 2172][/us/stat/124/2172], which is not classified to the Code.
 
+    Section 404 of the Housing Opportunity Through Modernization Act of 2016, referred to in subsec. (h)(3)(F), is [section 404 of Pub. L. 114–201][/us/pl/114/201/s404], which is set out as a note under [section 11313 of this title][/us/usc/t42/s11313].
+
  __Codification__ 
 
     Section was formerly classified to section 624b of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
+
+    2016—Subsec. (h). [Pub. L. 114–201][/us/pl/114/201] added subsec. (h).
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] designated existing provisions as par. (1), substituted “7” for “eight” in par. (1), and added par. (2).
 
@@ -213,9 +253,15 @@
 
     Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see [section 11 of Pub. L. 89–174][/us/pl/89/174/s11], set out as a note under [section 3531 of this title][/us/usc/t42/s3531].
 
+ __Transfer of Position in Office of Deputy Assistant Secretary for Special Needs__ 
+
+[Pub. L. 114–201, title IV][/us/pl/114/201/tIV], § 403(b), July 29, 2016, [130 Stat. 809][/us/stat/130/809], provided that: 
+
+> “On the date that the initial Special Assistant for Veterans Affairs is appointed pursuant to section 4(h)(2) of the Department of Housing and Urban Development Act \[[42 U.S.C. 3533(h)(2)][/us/usc/t42/s3533/h/2]\], as added by subsection (a) of this section, the position of Special Assistant for Veterans Programs in the Office of the Deputy Assistant Secretary for Special Needs of the Department of Housing and Urban Development shall be terminated.”
+
  __Transfer of Functions__ 
 
-Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 902(a)(2), (3), Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866], 3867, provided that:
 
 >     “(2)  __Transfer of functions__  __.—__ 
 
@@ -268,13 +314,18 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 [/us/stat/124/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2163
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
+[/us/pl/114/201/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtIV
+[/us/stat/130/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F808
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2172
+[/us/pl/114/201/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2Fs404
+[/us/usc/t42/s11313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/114/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
@@ -307,7 +358,11 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 [/us/usc/t20/s3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3404
 [/us/pl/89/174/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs11
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/114/201/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F201%2FtIV
+[/us/stat/130/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F809
+[/us/usc/t42/s3533/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3533%2Fh%2F2
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
+[/us/stat/106/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3866
 [/us/usc/t42/s3533/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3533%2Fe%2F1%2FB
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

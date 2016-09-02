@@ -93,7 +93,7 @@
 
                 (iv) the Administrator has fully approved a maintenance plan for the area as meeting the requirements of [section 7505a of this title][/us/usc/t42/s7505a]; and
 
-                (v) the State containing such area has met all requirements applicable to the area under [section 7410 of this title][/us/usc/t42/s7410] and part D of this subchapter.
+                (v) the State containing such area has met all requirements applicable to the area under [section 7410 of this title][/us/usc/t42/s7410] and part D.
 
             (F) The Administrator shall not promulgate any redesignation of any area (or portion thereof) from nonattainment to unclassifiable.
 

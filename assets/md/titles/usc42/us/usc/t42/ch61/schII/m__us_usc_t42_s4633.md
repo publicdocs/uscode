@@ -45,7 +45,7 @@
 
     (c) __Applicability to Tennessee Valley Authority and Rural Electrification Administration__ 
 
-        The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
+        The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I.
 
     (d) __Adjustment of payments__ 
 

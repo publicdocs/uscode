@@ -41,11 +41,11 @@
 
                 (i) __Ombudsman program__ 
 
-                    No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out subpart II of this part, less than the amount allotted to the State under [section 3024 of this title][/us/usc/t42/s3024] in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III of this chapter.
+                    No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out subpart II of this part, less than the amount allotted to the State under [section 3024 of this title][/us/usc/t42/s3024] in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
 
                 (ii) __Elder abuse programs__ 
 
-                    No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out subpart III of this part, less than the amount allotted to the State under [section 3024 of this title][/us/usc/t42/s3024] in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
+                    No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out subpart III of this part, less than the amount allotted to the State under [section 3024 of this title][/us/usc/t42/s3024] in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III.
 
             (D) __“State” defined__ 
 

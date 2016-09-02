@@ -23,27 +23,27 @@
 
         (2) __Allocation__ 
 
-            (A) __Parts A and B of this subchapter__ 
+            (A) __Parts A and B__ 
 
-                From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B of this subchapter.
+                From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B.
 
-            (B) __Part B of this subchapter__ 
+            (B) __Part B__ 
 
-                Of the amount reserved under subparagraph (A), 45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent, shall be reserved to carry out part B of this subchapter.
+                Of the amount reserved under subparagraph (A), 45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent, shall be reserved to carry out part B.
 
-        (3) __Parts C and D of this subchapter__ 
+        (3) __Parts C and D__ 
 
             (A) __In general__ 
 
-                In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D of this subchapter (other than [section 5714–25 of this title][/us/usc/t42/s5714–25]).
+                In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D (other than [section 5714–25 of this title][/us/usc/t42/s5714–25]).
 
             (B) __Periodic estimate__ 
 
                 There are authorized to be appropriated to carry out [section 5714–25 of this title][/us/usc/t42/s5714–25] such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.
 
-        (4) __Part E of this subchapter__ 
+        (4) __Part E__ 
 
-            There are authorized to be appropriated to carry out part E of this subchapter $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
+            There are authorized to be appropriated to carry out part E $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
 
     (b) __Separate identification required__ 
 
@@ -61,7 +61,7 @@
 
     2003—Subsec. (a)(1). [Pub. L. 108–96][/us/pl/108/96], § 117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
 
-    Subsec. (a)(2)(B). [Pub. L. 108–96][/us/pl/108/96], § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
+    Subsec. (a)(2)(B). [Pub. L. 108–96][/us/pl/108/96], § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
 
     Subsec. (a)(4). [Pub. L. 108–96][/us/pl/108/96], § 117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
 

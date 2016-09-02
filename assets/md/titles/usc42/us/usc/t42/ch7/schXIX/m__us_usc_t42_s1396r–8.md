@@ -403,7 +403,7 @@
 
                 (iii) the total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
 
-                In this subparagraph, the term “line extension” means, with respect to a drug, a new formulation of the drug, such as an extended release formulation.
+                In this subparagraph, the term “line extension” means, with respect to a drug, a new formulation of the drug, such as an extended release formulation, but does not include an abuse-deterrent formulation of the drug (as determined by the Secretary), regardless of whether such abuse-deterrent formulation is an extended release formulation.
 
             (D) __Maximum rebate amount__ 
 
@@ -953,7 +953,7 @@
 
             The term “wholesaler” means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including (but not limited to) manufacturers, repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including manufacturer’s and distributor’s warehouses, chain drug warehouses, and wholesale drug warehouses) independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1927, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4401(a)(3), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143]; amended [Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 601(a)–(c), Nov. 4, 1992, [106 Stat. 4962–4964][/us/stat/106/4962-4964]; [Pub. L. 103–18][/us/pl/103/18], § 2(a), Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13602(a), Aug. 10, 1993, [107 Stat. 613][/us/stat/107/613]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4701(b)(2)(A)(x), 4756, Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 527; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, §§ 606(a), 608(u)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, 1501A–398; [Pub. L. 108–173, title I][/us/pl/108/173/tI], §§ 101(e)(4), (9), 103(e)(1), 105(b), title III, § 303(i)(4), title IX, § 900(e)(1)(K), (L), title X, § 1002, Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2152, 2159, 2166, 2254, 2372, 2431; [Pub. L. 109–91, title I][/us/pl/109/91/tI], § 104(a), Oct. 20, 2005, [119 Stat. 2092][/us/stat/119/2092]; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], §§ 6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, [120 Stat. 54–61][/us/stat/120/54-61]; [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(c)(2)(A)(ii), Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 221(a), Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], §§ 2501(a), (b), (c)(2), (d)(1), (e), 2502(a), 2503(a)–(c), title III, § 3301(d)(2), title IV, § 4107(b), Mar. 23, 2010, [124 Stat. 306–310][/us/stat/124/306-310], 312, 468, 560; [Pub. L. 111–152, title I][/us/pl/111/152/tI], §§ 1101(c), 1206(a), Mar. 30, 2010, [124 Stat. 1039][/us/stat/124/1039], 1056; [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 202, Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394]; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 204(b), Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290]; [Pub. L. 114–74, title VI][/us/pl/114/74/tVI], § 602(a), Nov. 2, 2015, [129 Stat. 596][/us/stat/129/596].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1927, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4401(a)(3), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143]; amended [Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 601(a)–(c), Nov. 4, 1992, [106 Stat. 4962–4964][/us/stat/106/4962-4964]; [Pub. L. 103–18][/us/pl/103/18], § 2(a), Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13602(a), Aug. 10, 1993, [107 Stat. 613][/us/stat/107/613]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4701(b)(2)(A)(x), 4756, Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 527; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, §§ 606(a), 608(u)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, 1501A–398; [Pub. L. 108–173, title I][/us/pl/108/173/tI], §§ 101(e)(4), (9), 103(e)(1), 105(b), title III, § 303(i)(4), title IX, § 900(e)(1)(K), (L), title X, § 1002, Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2152, 2159, 2166, 2254, 2372, 2431; [Pub. L. 109–91, title I][/us/pl/109/91/tI], § 104(a), Oct. 20, 2005, [119 Stat. 2092][/us/stat/119/2092]; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], §§ 6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, [120 Stat. 54–61][/us/stat/120/54-61]; [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(c)(2)(A)(ii), Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 221(a), Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], §§ 2501(a), (b), (c)(2), (d)(1), (e), 2502(a), 2503(a)–(c), title III, § 3301(d)(2), title IV, § 4107(b), Mar. 23, 2010, [124 Stat. 306–310][/us/stat/124/306-310], 312, 468, 560; [Pub. L. 111–152, title I][/us/pl/111/152/tI], §§ 1101(c), 1206(a), Mar. 30, 2010, [124 Stat. 1039][/us/stat/124/1039], 1056; [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 202, Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394]; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 204(b), Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290]; [Pub. L. 114–74, title VI][/us/pl/114/74/tVI], § 602(a), Nov. 2, 2015, [129 Stat. 596][/us/stat/129/596]; [Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 705(a), July 22, 2016, [130 Stat. 753][/us/stat/130/753].)
 
  __References in Text__ 
 
@@ -984,6 +984,8 @@
     A prior section 1927 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Amendments__ 
+
+    2016—Subsec. (c)(2)(C). [Pub. L. 114–198][/us/pl/114/198] inserted before period at end of concluding provisions “, but does not include an abuse-deterrent formulation of the drug (as determined by the Secretary), regardless of whether such abuse-deterrent formulation is an extended release formulation”.
 
     2015—Subsec. (c)(3)(A). [Pub. L. 114–74][/us/pl/114/74], § 602(a)(1), substituted “Except as provided in subparagraph (C), the amount” for “The amount”.
 
@@ -1200,6 +1202,12 @@
     “(II) the difference between the average manufacturer price for a drug and the best price (as defined in paragraph (2)(B)) for such quarter (or period) for such drug.”
 
     Subsec. (c)(1)(C). [Pub. L. 102–585][/us/pl/102/585], § 601(a), substituted “(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under [section 1741 of title 38][/us/usc/t38/s1741], the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a State pharmaceutical assistance program, and excluding” for “(excluding”.
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 705(b), July 22, 2016, [130 Stat. 753][/us/stat/130/753], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to drugs that are paid for by a State in calendar quarters beginning on or after the date of the enactment of this Act \[July 22, 2016\].”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -1468,6 +1476,8 @@
 [/us/stat/124/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3290
 [/us/pl/114/74/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVI
 [/us/stat/129/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F596
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F753
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/usc/t42/s1395w–104/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104%2Fc%2F2%2FE
@@ -1487,6 +1497,7 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309
@@ -1603,6 +1614,8 @@
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F753
 [/us/pl/114/74/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVI
 [/us/stat/129/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F597
 [/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII

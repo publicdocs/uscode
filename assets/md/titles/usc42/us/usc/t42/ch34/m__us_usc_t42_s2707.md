@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a)(2). [Pub. L. 94–341][/us/pl/94/341], § 3(d)(1), inserted “of such Act” after “section 221”.
+    1976—Subsec. (a)(2). [Pub. L. 94–341][/us/pl/94/341], § 3(d)(1), inserted “of this title” after “section 2808”.
 
     Subsec. (c). [Pub. L. 94–341][/us/pl/94/341], § 3(d)(2), added subsec. (c).
 

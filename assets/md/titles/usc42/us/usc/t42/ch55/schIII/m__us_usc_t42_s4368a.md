@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    The Older Americans Act of 1965, referred to in subsec. (a), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of this title. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Older Americans Act of 1965, referred to in subsec. (a), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218]. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Subsection D of title I of the Act is classified generally to part D (§ 3221 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 

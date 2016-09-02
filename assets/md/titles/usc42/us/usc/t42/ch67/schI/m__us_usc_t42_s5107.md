@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106i.md) | [Next](./../../../../..//us/usc/t42/ch67/schII/m__us_usc_t42_ch67_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5107)
+[Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106i.md) | [Next](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5108.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5107)
 
 ## § 5107. Discretionary programs; authorization of appropriations
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106i.md) | [Next](./../../../../..//us/usc/t42/ch67/schII/m__us_usc_t42_ch67_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5107)
+[Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106i.md) | [Next](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5108.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5107)
 
 ----------
 ----------

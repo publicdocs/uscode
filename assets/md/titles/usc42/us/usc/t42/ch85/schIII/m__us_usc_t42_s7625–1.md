@@ -17,7 +17,7 @@
 
     (a)
 
-        (1) Upon petition by the governor  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  of Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Administrator is authorized to exempt any person or source or class of persons or sources in such territory from any requirement under this chapter other than [section 7412 of this title][/us/usc/t42/s7412] or any requirement under [section 7410 of this title][/us/usc/t42/s7410] or part D of subchapter I of this chapter necessary to attain or maintain a national primary ambient air quality standard. Such exemption may be granted if the Administrator finds that compliance with such requirement is not feasible or is unreasonable due to unique geographical, meteorological, or economic factors of such territory, or such other local factors as the Administrator deems significant. Any such petition shall be considered in accordance with [section 7607(d) of this title][/us/usc/t42/s7607/d] and any exemption under this subsection shall be considered final action by the Administrator for the purposes of [section 7607(b) of this title][/us/usc/t42/s7607/b].
+        (1) Upon petition by the governor  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  of Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Administrator is authorized to exempt any person or source or class of persons or sources in such territory from any requirement under this chapter other than [section 7412 of this title][/us/usc/t42/s7412] or any requirement under [section 7410 of this title][/us/usc/t42/s7410] or part D  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  necessary to attain or maintain a national primary ambient air quality standard. Such exemption may be granted if the Administrator finds that compliance with such requirement is not feasible or is unreasonable due to unique geographical, meteorological, or economic factors of such territory, or such other local factors as the Administrator deems significant. Any such petition shall be considered in accordance with [section 7607(d) of this title][/us/usc/t42/s7607/d] and any exemption under this subsection shall be considered final action by the Administrator for the purposes of [section 7607(b) of this title][/us/usc/t42/s7607/b].
 
         (2) The Administrator shall promptly notify the Committees on Energy and Commerce and on Natural Resources of the House of Representatives and the Committees on Environment and Public Works and on Energy and Natural Resources of the Senate upon receipt of any petition under this subsection and of the approval or rejection of such petition and the basis for such action.
 
@@ -30,6 +30,10 @@
         (2) any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under [section 7410 of this title][/us/usc/t42/s7410] as of December 8, 1983: Provided, That such exemption shall expire eighteen months after December 8, 1983, unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 325, as added [Pub. L. 98–213][/us/pl/98/213], § 11, Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; amended [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 806, Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689]; [Pub. L. 103–437][/us/pl/103/437], § 15(s), Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594].)
+
+ __References in Text__ 
+
+    Part D, referred to in subsec. (a)(1), probably means part D of subchapter I of this chapter.
 
  __Prior Provisions__ 
 

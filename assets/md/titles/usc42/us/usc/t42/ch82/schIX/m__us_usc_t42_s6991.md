@@ -47,7 +47,7 @@
 
      The term “regulated substance” means—
 
-        (A) any substance defined in [section 9601(14) of this title][/us/usc/t42/s9601/14] (but not including any substance regulated as a hazardous waste under subchapter III of this chapter), and
+        (A) any substance defined in [section 9601(14) of this title][/us/usc/t42/s9601/14] (but not including any substance regulated as a hazardous waste under subchapter III), and
 
         (B) petroleum.
 

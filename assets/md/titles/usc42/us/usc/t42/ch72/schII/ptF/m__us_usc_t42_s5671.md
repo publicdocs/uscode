@@ -23,19 +23,19 @@
 
          Of such sums as are appropriated for a fiscal year to carry out this subchapter (other than parts C and E)—
 
-            (A) not more than 5 percent shall be available to carry out part A of this subchapter;
+            (A) not more than 5 percent shall be available to carry out part A;
 
-            (B) not less than 80 percent shall be available to carry out part B of this subchapter; and
+            (B) not less than 80 percent shall be available to carry out part B; and
 
-            (C) not more than 15 percent shall be available to carry out part D of this subchapter.
+            (C) not more than 15 percent shall be available to carry out part D.
 
     (b) __Authorization of appropriations for part C__ 
 
-        There are authorized to be appropriated to carry out part C of this subchapter such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
+        There are authorized to be appropriated to carry out part C such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
 
     (c) __Authorization of appropriations for part E__ 
 
-        There are authorized to be appropriated to carry out part E of this subchapter, and authorized to remain available until expended, such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
+        There are authorized to be appropriated to carry out part E, and authorized to remain available until expended, such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
 
     (d) __Experimentation on individuals; prohibition; “behavior control” defined__ 
 

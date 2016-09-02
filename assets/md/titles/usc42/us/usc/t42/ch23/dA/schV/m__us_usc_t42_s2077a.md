@@ -165,6 +165,22 @@
 
     Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see [section 3 of Pub. L. 114–92][/us/pl/114/92/s3], [129 Stat. 745][/us/stat/129/745]. See note under [section 101 of Title 10][/us/usc/t10/s101], Armed Forces.
 
+ __Delegation of Authority Pursuant to Section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016__ 
+
+    Memorandum of President of the United States, May 10, 2016, 81 F.R. 31161, provided:
+
+    Memorandum for the Secretary of State
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby order as follows:
+
+    I hereby delegate functions and authorities vested in the President by section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016 ([Public Law 114–92][/us/pl/114/92]) (the “Act”) to the Secretary of State.
+
+    Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2078.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077a)
@@ -192,5 +208,7 @@
 [/us/pl/114/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3
 [/us/stat/129/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F745
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 
