@@ -275,6 +275,40 @@ Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553
 
     [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
+ __Expansion of Training and Use of Information Technology Cadres__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 835][/us/pl/113/291/s835], Dec. 19, 2014, [128 Stat. 3449][/us/stat/128/3449], provided that:
+
+>     “(a)  __Purpose__  __.—__ 
+
+>     The purpose of this section is to ensure timely progress by Federal agencies toward developing, strengthening, and deploying information technology acquisition cadres consisting of personnel with highly specialized skills in information technology acquisition, including program and project managers.
+
+>     “(b) __Strategic Planning.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Administrator for Federal Procurement Policy, in consultation with the Administrator for E-Government and Information Technology, shall work with Federal agencies, other than the Department of Defense, to update their acquisition human capital plans that were developed pursuant to the October 27, 2009, guidance issued by the Administrator for Federal Procurement Policy in furtherance of [section 1704(g) of title 41][/us/usc/t41/s1704/g], United States Code (originally enacted as section 869 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ([Public Law 110–417][/us/pl/110/417]; [122 Stat. 4553][/us/stat/122/4553])), to address how the agencies are meeting their human capital requirements to support the timely and effective acquisition of information technology.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The updates required by paragraph (1) shall be submitted to the Administrator for Federal Procurement Policy and shall address, at a minimum, each Federal agency’s consideration or use of the following procedures:
+
+>             “(A) Development of an information technology acquisition cadre within the agency or use of memoranda of understanding with other agencies that have such cadres or personnel with experience relevant to the agency’s information technology acquisition needs.
+
+>             “(B) Development of personnel assigned to information technology acquisitions, including cross-functional training of acquisition information technology and program personnel.
+
+>             “(C) Use of the specialized career path for information technology program managers as designated by the Office of Personnel Management and plans for strengthening information technology program management.
+
+>             “(D) Use of direct hire authority.
+
+>             “(E) Conduct of peer reviews.
+
+>             “(F) Piloting of innovative approaches to information technology acquisition workforce development, such as industry-government rotations.
+
+>     “(c)  __Federal Agency Defined__  __.—__ 
+
+>     In this section, the term ‘Federal agency’ means each agency listed in [section 901(b) of title 31][/us/usc/t31/s901/b], United States Code.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/ch17/m__us_usc_t41_s1703.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch17/m__us_usc_t41_s1705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1704)
@@ -317,5 +351,11 @@ Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553
 [/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/113/291/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs835
+[/us/stat/128/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3449
+[/us/usc/t41/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1704%2Fg
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/stat/122/4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4553
+[/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 
 

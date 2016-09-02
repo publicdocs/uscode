@@ -69,6 +69,20 @@
 
         (7) To the maximum extent practicable, information similar to the information covered by paragraphs (1) to (4) in connection with the award or performance of a contract or grant with a State government.
 
+        (8)
+
+         Whether the person is included on any of the following lists maintained by the Office of Foreign Assets Control of the Department of the Treasury:
+
+            (A) The specially designated nationals and blocked persons list (commonly known as the “SDN list”).
+
+            (B) The sectoral sanctions identification list.
+
+            (C) The foreign sanctions evaders list.
+
+            (D) The list of persons sanctioned under the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note) that do not appear on the SDN list (commonly known as the “Non-SDN Iranian Sanctions Act list”).
+
+            (E) The list of foreign financial institutions subject to part 561 of title 31, Code of Federal Regulations.
+
     (d) __Requirements Relating to Database Information.—__ 
 
         (1)  __Direct input and update__  __.—__ 
@@ -117,7 +131,7 @@
 
     The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3740][/us/stat/124/3740]; [Pub. L. 111–212, title III, § 3010][/us/pl/111/212/s3010], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340]; [Pub. L. 111–383, div. A, title VIII, § 834(d)][/us/pl/111/383/s834/d], Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279]; [Pub. L. 112–239, div. A, title VIII, § 852][/us/pl/112/239/s852], title XVII, § 1704(d)(2), Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], 2096.)
+([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3740][/us/stat/124/3740]; [Pub. L. 111–212, title III, § 3010][/us/pl/111/212/s3010], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340]; [Pub. L. 111–383, div. A, title VIII, § 834(d)][/us/pl/111/383/s834/d], Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279]; [Pub. L. 112–239, div. A, title VIII, § 852][/us/pl/112/239/s852], title XVII, § 1704(d)(2), Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], 2096; [Pub. L. 113–291, div. A, title XII, § 1270][/us/pl/113/291/s1270], Dec. 19, 2014, [128 Stat. 3587][/us/stat/128/3587].)
 
  __Amendments Not Shown in Text__ 
 
@@ -185,6 +199,8 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 
  __Amendments__ 
 
+    2014—Subsec. (c)(8). [Pub. L. 113–291][/us/pl/113/291] added par. (8).
+
     2013—Subsec. (c)(1)(E). [Pub. L. 112–239, § 1704(d)(2)][/us/pl/112/239/s1704/d/2], amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by [Pub. L. 111–383, § 834(d)][/us/pl/111/383/s834/d], read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302][/us/usc/t10/s2302] note).” See Amendments Not Shown in Text note above.
 
     Subsec. (d)(3). [Pub. L. 112–239, § 852][/us/pl/112/239/s852], added par. (3).
@@ -212,6 +228,8 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t41/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs113
+[/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3740
@@ -221,6 +239,8 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 [/us/stat/124/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4279
 [/us/pl/112/239/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs852
 [/us/stat/126/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1856
+[/us/pl/113/291/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1270
+[/us/stat/128/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3587
 [/us/pl/111/212/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs3010
 [/us/stat/124/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2340
 [/us/pl/111/383/s834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fd
@@ -232,6 +252,7 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/112/239/s1704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1704%2Fb
 [/us/usc/t22/s7104b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104b%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s1704/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1704%2Fd%2F2
 [/us/pl/111/383/s834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fd
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

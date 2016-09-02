@@ -149,11 +149,29 @@ June 30, 1949, ch. 288, title III, § 303(h), as added Pub. L. 104–106, titl
 
     [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (b)(2), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
+ __Regulations__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 836][/us/pl/113/291/s836], Dec. 19, 2014, [128 Stat. 3449][/us/stat/128/3449], provided that: 
+
+> “Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Administrator for Federal Procurement Policy shall prescribe regulations providing that when the Federal Government makes a purchase of services and supplies offered under the Federal Strategic Sourcing Initiative (managed by the Office of Federal Procurement Policy) but such Initiative is not used, the contract file for the purchase shall include a brief analysis of the comparative value, including price and nonprice factors, between the services and supplies offered under such Initiative and services and supplies offered under the source or sources used for the purchase.”
+
  __Construction__ 
 
 [Pub. L. 98–369, div. B, title VII, § 2711(c)][/us/pl/98/369/s2711/c], July 18, 1984, [98 Stat. 1181][/us/stat/98/1181], provided that: 
 
 > “The amendments made by this section \[see Tables for classification\] do not supersede or affect the provisions of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]).”
+
+ __Governmentwide Software Purchasing Program__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 837][/us/pl/113/291/s837], Dec. 19, 2014, [128 Stat. 3450][/us/stat/128/3450], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Administrator of General Services shall identify and develop a strategic sourcing initiative to enhance Governmentwide acquisition, shared use, and dissemination of software, as well as compliance with end user license agreements.
+
+>     “(b)  __Governmentwide User License Agreement__  __.—__ 
+
+>     The Administrator, in developing the initiative under subsection (a), shall allow for the purchase of a license agreement that is available for use by all Executive agencies (as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code) as one user to the maximum extent practicable and as appropriate.”
 
 ----------
 
@@ -167,8 +185,13 @@ June 30, 1949, ch. 288, title III, § 303(h), as added Pub. L. 104–106, titl
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
+[/us/pl/113/291/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs836
+[/us/stat/128/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3449
 [/us/pl/98/369/s2711/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2711%2Fc
 [/us/stat/98/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1181
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
+[/us/pl/113/291/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs837
+[/us/stat/128/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3450
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 
 
