@@ -347,6 +347,62 @@ June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12
 
     In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
 
+ __Justification and Approval of Sole-Source Contracts__ 
+
+[Pub. L. 111–84, div. A, title VIII, § 811][/us/pl/111/84/s811], Oct. 28, 2009, [123 Stat. 2405][/us/stat/123/2405], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Federal Acquisition Regulation shall be revised to provide that the head of an agency may not award a sole-source contract in a covered procurement for an amount exceeding $20,000,000 unless—
+
+>         “(1) the contracting officer for the contract justifies the use of a sole-source contract in writing;
+
+>         “(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
+
+>         “(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)(1)(C)][/us/usc/t41/s253/f/1/C] and 253(j)) \[now [41 U.S.C. 3304(e)(1)(C)][/us/usc/t41/s3304/e/1/C] and 3304(f)\], as applicable.
+
+>     “(b)  __Elements of Justification__  __.—__ 
+
+>     The justification of a sole-source contract required pursuant to subsection (a) shall include the following:
+
+>         “(1) A description of the needs of the agency concerned for the matters covered by the contract.
+
+>         “(2) A specification of the statutory provision providing the exception from the requirement to use competitive procedures in entering into the contract.
+
+>         “(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned.
+
+>         “(4) A determination that the anticipated cost of the contract will be fair and reasonable.
+
+>         “(5) Such other matters as the head of the agency concerned shall specify for purposes of this section.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Covered procurement__  __.—__ 
+
+>         The term ‘covered procurement’ means either of the following:
+
+>             “(A) A procurement described in [section 2304(f)(2)(D)(ii) of title 10][/us/usc/t10/s2304/f/2/D/ii], United States Code.
+
+>             “(B) A procurement described in section 303(f)(2)(D)(ii) of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 253(f)(2)(D)(ii)][/us/usc/t41/s253/f/2/D/ii]) \[see [41 U.S.C. 3304(e)(4)(D)][/us/usc/t41/s3304/e/4/D]\].
+
+>         “(2)  __Head of an agency__  __.—__ 
+
+>         The term ‘head of an agency’—
+
+>             “(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in [section 2302(1) of title 10][/us/usc/t10/s2302/1], United States Code; and
+
+>             “(B) in the case of a covered procurement as defined in paragraph (1)(B), has the meaning provided the term ‘agency head’ in section 309(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 259(a)][/us/usc/t41/s259/a]) \[now [41 U.S.C. 151][/us/usc/t41/s151]\].
+
+>         “(3)  __Appropriate official__  __.—__ 
+
+>         The term ‘appropriate official’ means—
+
+>             “(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in [section 2304(f)(1)(B) of title 10][/us/usc/t10/s2304/f/1/B], United States Code; and
+
+>             “(B) in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)(1)(B)][/us/usc/t41/s253/f/1/B]) \[now [41 U.S.C. 3304(e)(1)(B)][/us/usc/t41/s3304/e/1/B]\].”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dC/ch33/m__us_usc_t41_s3303.md) | [Next](./../../../../../..//us/usc/t41/stI/dC/ch33/m__us_usc_t41_s3305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304)
@@ -366,5 +422,18 @@ June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12
 [/us/stat/104/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1442
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
+[/us/pl/111/84/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs811
+[/us/stat/123/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2405
+[/us/usc/t41/s253/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff%2F1%2FC
+[/us/usc/t41/s3304/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe%2F1%2FC
+[/us/usc/t10/s2304/f/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Ff%2F2%2FD%2Fii
+[/us/usc/t41/s253/f/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff%2F2%2FD%2Fii
+[/us/usc/t41/s3304/e/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe%2F4%2FD
+[/us/usc/t10/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F1
+[/us/usc/t41/s259/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs259%2Fa
+[/us/usc/t41/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs151
+[/us/usc/t10/s2304/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Ff%2F1%2FB
+[/us/usc/t41/s253/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff%2F1%2FB
+[/us/usc/t41/s3304/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe%2F1%2FB
 
 
