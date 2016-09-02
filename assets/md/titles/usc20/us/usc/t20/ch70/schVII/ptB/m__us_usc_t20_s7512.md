@@ -71,7 +71,7 @@
 
         (D) the Native American Graves Protection and Repatriation Act ([25 U.S.C. 3001][/us/usc/t25/s3001] et seq.);
 
-        (E) the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.);
+        (E) division A of subtitle III of title 54;
 
         (F) the Native American Languages Act ([25 U.S.C. 2901][/us/usc/t25/s2901] et seq.);
 
@@ -139,7 +139,7 @@
 
         (C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-([Pub. L. 89–10, title VII, § 7202][/us/pl/89/10/s7202], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1932][/us/stat/115/1932]; amended [Pub. L. 111–256, § 2(c)][/us/pl/111/256/s2/c], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title V, § 512(i)(5)][/us/pl/113/128/s512/i/5], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+([Pub. L. 89–10, title VII, § 7202][/us/pl/89/10/s7202], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1932][/us/stat/115/1932]; amended [Pub. L. 111–256, § 2(c)][/us/pl/111/256/s2/c], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title V, § 512(i)(5)][/us/pl/113/128/s512/i/5], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709]; [Pub. L. 113–287, § 5(e)(3)][/us/pl/113/287/s5/e/3], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __Amendment of Paragraph (13)(H)__ 
 
@@ -165,8 +165,6 @@
 
     The Native American Graves Protection and Repatriation Act, referred to in par. (13)(D), is [Pub. L. 101–601][/us/pl/101/601], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 25][/us/usc/t25/s3001] and Tables.
 
-    The National Historic Preservation Act, referred to in par. (13)(E), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
-
     The Native American Languages Act, referred to in par. (13)(F), is title I of [Pub. L. 101–477][/us/pl/101/477], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153], which is classified generally to chapter 31 (§ 2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of Title 25][/us/usc/t25/s2901] and Tables.
 
     The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of [Pub. L. 99–498][/us/pl/99/498], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600], which is classified generally to chapter 56 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title][/us/usc/t20/s4401] and Tables.
@@ -183,7 +181,9 @@
 
  __Amendments__ 
 
-    2014—Par. (13)(H). [Pub. L. 113–128][/us/pl/113/128] substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+    2014—Par. (13)(E). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.)”.
+
+    Par. (13)(H). [Pub. L. 113–128][/us/pl/113/128] substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
     2010—Par. (16)(E). [Pub. L. 111–256][/us/pl/111/256] substituted “mild intellectual disabilities,” for “mild mental retardation,”.
 
@@ -213,7 +213,6 @@
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t20/s80q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t25/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2901
 [/us/usc/t20/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4401
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
@@ -226,6 +225,8 @@
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
 [/us/pl/113/128/s512/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F5
 [/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
+[/us/pl/113/287/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fe%2F3
+[/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
@@ -254,9 +255,6 @@
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/stat/104/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1153
 [/us/usc/t25/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2901
@@ -277,6 +275,8 @@
 [/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
 [/us/stat/108/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3737
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256

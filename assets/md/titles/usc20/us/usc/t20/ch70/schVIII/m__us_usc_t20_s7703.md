@@ -577,7 +577,7 @@
 
  __Effective and Termination Dates of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 112–239][/us/pl/112/239] effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c] set out as a note under [section 7702 of this title][/us/usc/t20/s7702].
+    Amendment by [Pub. L. 112–239][/us/pl/112/239] effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted, see [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c], set out as a note under [section 7702 of this title][/us/usc/t20/s7702].
 
  __Effective Date of 2003 Amendment__ 
 

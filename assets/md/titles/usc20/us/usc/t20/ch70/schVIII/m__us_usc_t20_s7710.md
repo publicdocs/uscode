@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(1). [Pub. L. 112–239, § 563(b)(3)(A)][/us/pl/112/239/s563/b/3/A], (c)(4), temporarily substituted “paragraph (2)” for “paragraph (3) of this subsection” in subpars. (A) and (B). See Effective and Termination Dates of 2013 Amendment note below.
+    2013—Subsec. (c)(1). [Pub. L. 112–239, § 563(b)(3)(A)][/us/pl/112/239/s563/b/3/A], substituted “paragraph (2)” for “paragraph (3) of this subsection” in subpars. (A) and (B).
 
     Subsec. (d). [Pub. L. 112–239, § 563(b)(3)(B)][/us/pl/112/239/s563/b/3/B], (c)(4), temporarily added subsec. (d). See Effective and Termination Dates of 2013 Amendment note below.
 
@@ -85,7 +85,7 @@
 
  __Effective and Termination Dates of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 112–239][/us/pl/112/239] effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c] set out as a note under [section 7702 of this title][/us/usc/t20/s7702].
+    Amendment by [section 563(b)(3)(B) of Pub. L. 112–239][/us/pl/112/239/s563/b/3/B] effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted, see [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c], set out as a note under [section 7702 of this title][/us/usc/t20/s7702].
 
 ----------
 
@@ -117,7 +117,7 @@
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/usc/t20/s7703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7703%2Fb
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/s563/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs563%2Fb%2F3%2FB
 [/us/pl/112/239/s563/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs563%2Fc
 [/us/usc/t20/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7702
 

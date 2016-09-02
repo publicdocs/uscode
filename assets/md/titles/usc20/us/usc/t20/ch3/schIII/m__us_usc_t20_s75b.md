@@ -59,7 +59,7 @@
 
 >         “(2)  __Status of smithsonian__  __.—__ 
 
->         In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with [section 16 of the Act of June 20, 1938][/us/act/1938-06-20/s16] (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]).”
+>         In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with [section 16 of the Act of June 20, 1938][/us/act/1938-06-20/s16] (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) \[now [54 U.S.C. 306108][/us/usc/t54/s306108]\].”
 
 ----------
 
@@ -81,5 +81,6 @@
 [/us/act/1938-06-20/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fs16
 [/us/act/1938-06-20/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fs16
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 
 

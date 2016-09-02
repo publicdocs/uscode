@@ -37,7 +37,7 @@
 
      “teacher” means an individual—
 
-        (A) who is a citizen of the United States,
+        (A) who is a citizen of the United States or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction,
 
         (B) who is a civilian, and
 
@@ -47,7 +47,7 @@
 
     (4) “United States”, when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
 
-([Pub. L. 86–91, § 2][/us/pl/86/91/s2], July 17, 1959, [73 Stat. 213][/us/stat/73/213]; [Pub. L. 104–201, div. A, title XVI, § 1606(a)][/us/pl/104/201/s1606/a], Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736]; [Pub. L. 105–85, div. A, title X, § 1073(c)(9)(A)][/us/pl/105/85/s1073/c/9/A], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904].)
+([Pub. L. 86–91, § 2][/us/pl/86/91/s2], July 17, 1959, [73 Stat. 213][/us/stat/73/213]; [Pub. L. 104–201, div. A, title XVI, § 1606(a)][/us/pl/104/201/s1606/a], Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736]; [Pub. L. 105–85, div. A, title X, § 1073(c)(9)(A)][/us/pl/105/85/s1073/c/9/A], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 113–291, div. A, title V, § 564][/us/pl/113/291/s564], Dec. 19, 2014, [128 Stat. 3384][/us/stat/128/3384].)
 
  __References in Text__ 
 
@@ -58,6 +58,8 @@
     Section was formerly classified to [section 2351 of Title 5][/us/usc/t5/s2351] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
+
+    2014—Par. (2)(A). [Pub. L. 113–291][/us/pl/113/291] inserted “or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction” before comma at end.
 
     1997—Par. (1)(A). [Pub. L. 105–85][/us/pl/105/85] made technical corrections to [Pub. L. 104–201, § 1606(a)(1)][/us/pl/104/201/s1606/a/1]. See 1996 Amendment note below.
 
@@ -92,10 +94,13 @@
 [/us/stat/110/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2736
 [/us/pl/105/85/s1073/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F9%2FA
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
+[/us/pl/113/291/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs564
+[/us/stat/128/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3384
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t5/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2351
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201/s1606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1606%2Fa%2F1
 [/us/pl/104/201/s1606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1606%2Fa%2F1
