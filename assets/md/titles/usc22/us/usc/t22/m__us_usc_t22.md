@@ -15,7 +15,7 @@
 
 # Title 22—FOREIGN RELATIONS AND INTERCOURSE
 
-Current through 114-72
+Current through 114-73
 
 <table>
 
