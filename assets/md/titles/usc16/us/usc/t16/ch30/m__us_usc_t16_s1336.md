@@ -27,10 +27,6 @@
 
 >     “(b) During fiscal year 2012 and subsequent fiscal years, in carrying out work involving cooperation with any State or political subdivision thereof, the Bureau of Land Management may record obligations against accounts receivable from any such entities.”
 
-    Similar provisions were contained in the following appropriation act:
-
-    [Pub. L. 113–76, div. G, title I, § 111][/us/pl/113/76/s111], Jan. 17, 2014, [128 Stat. 312][/us/stat/128/312].
-
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch30/m__us_usc_t16_s1335.md) | [Next](./../../../..//us/usc/t16/ch30/m__us_usc_t16_s1337.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1336)
@@ -46,7 +42,5 @@
 [/us/usc/t41/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254c
 [/us/usc/t41/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903
 [/us/usc/t41/s3903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903%2Fa
-[/us/pl/113/76/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs111
-[/us/stat/128/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F312
 
 

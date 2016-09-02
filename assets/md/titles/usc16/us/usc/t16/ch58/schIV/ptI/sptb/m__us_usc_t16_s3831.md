@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+        Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
     (b) __Eligible land__ 
 
@@ -33,19 +33,11 @@
 
                 (ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II of this chapter; and
 
-            (B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date);
+            (B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding the date of enactment of the Food, Conservation, and Energy Act of 2008 (except for land enrolled in the conservation reserve program as of that date);
 
-        (2) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
+        (2) marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-        (3)
-
-         grasslands that—
-
-            (A) contain forbs or shrubland (including improved rangeland and pastureland) for which grazing is the predominant use;
-
-            (B) are located in an area historically dominated by grasslands; and
-
-            (C) could provide habitat for animal and plant populations of significant ecological value if the land is retained in its current use or restored to a natural condition;
+        (3) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
         (4)
 
@@ -67,7 +59,7 @@
 
                 (ii) a contour grass sod strip established and maintained as part of an approved conservation plan;
 
-            (C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips or riparian buffers devoted to trees, shrubs, or grasses;
+            (C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs;
 
             (D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; or
 
@@ -75,9 +67,9 @@
 
         (5)
 
-         the portion of land in a field not enrolled in the conservation reserve in a case in which—
+         the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
 
-            (A) more than 50 percent of the land in the field is enrolled as a buffer or filterstrip, or more than 75 percent of the land in the field is enrolled as a conservation practice other than as a buffer or filterstrip; and
+            (A) the land is enrolled as part of the buffer; and
 
             (B)
 
@@ -89,37 +81,19 @@
 
     (c) __Planting status of certain land__ 
 
-        For purposes of determining the eligibility of land to be placed in the conservation reserve established under this subpart, land shall be considered to be planted to an agricultural commodity during a crop year if, during the crop year, the land was devoted to a conserving use.
+    For purposes of determining the eligibility of land to be placed in the conservation reserve established under this subpart, land shall be considered to be planted to an agricultural commodity during a crop year if—
 
-    (d) __Enrollment__ 
+        (1) during the crop year, the land was devoted to a conserving use; or
 
-        (1) __Maximum acreage enrolled__ 
+        (2)
 
-        The Secretary may maintain in the conservation reserve at any one time during—
+            (A) during the crop year or during any of the 2 years preceding the crop year, the land was enrolled in the water bank program; and
 
-            (A) fiscal year 2014, no more than 27,500,000 acres;
+            (B) the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002.
 
-            (B) fiscal year 2015, no more than 26,000,000 acres;
+    (d) __Maximum enrollment__ 
 
-            (C) fiscal year 2016, no more than 25,000,000 acres;
-
-            (D) fiscal year 2017, no more than 24,000,000 acres; and
-
-            (E) fiscal year 2018, no more than 24,000,000 acres.
-
-        (2) __Grasslands__ 
-
-            (A) __Limitation__ 
-
-                For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
-
-            (B) __Priority__ 
-
-                In enrolling acres under subparagraph (A), the Secretary may give priority to land with expiring conservation reserve program contracts.
-
-            (C) __Method of enrollment__ 
-
-                In enrolling acres under subparagraph (A), the Secretary shall make the program available to owners or operators of eligible land on a continuous enrollment basis with one or more ranking periods.
+        The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([16 U.S.C. 3831][/us/usc/t16/s3831] note; [Public Law 101–624][/us/pl/101/624])). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.
 
     (e) __Duration of contract__ 
 
@@ -127,23 +101,37 @@
 
             For the purpose of carrying out this subpart, the Secretary shall enter into contracts of not less than 10, nor more than 15, years.
 
-        (2) __Special rule for certain land__ 
+        (2) __Certain land__ 
 
-            In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart, the owner or operator of the land may, within the limitations prescribed under paragraph (1), specify the duration of the contract.
+            (A) __In general__ 
+
+                In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart after October 1, 1990, and land devoted to such uses under contracts modified under [section 3835a of this title][/us/usc/t16/s3835a], the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
+
+            (B) __Hardwood trees__ 
+
+                In the case of land that is devoted to hardwood trees under a contract entered into under this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
+
+        (3) __1-year extension__ 
+
+            In the case of a contract described in paragraph (1) the term of which expires during calendar year 2002, an owner or operator of land enrolled under the contract may extend the contract for 1 additional year.
 
     (f) __Conservation priority areas__ 
 
         (1) __Designation__ 
 
-            On application by the appropriate State agency, the Secretary shall designate areas of special environmental sensitivity as conservation priority areas.
+            On application by the appropriate State agency, the Secretary shall designate watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other areas of special environmental sensitivity as conservation priority areas.
 
-        (2) __Eligible areas__ 
+        (2) __Eligible watersheds__ 
 
-            Areas eligible for designation under this subsection shall include areas with actual and significant adverse water quality or habitat impacts related to agricultural production activities.
+            Watersheds eligible for designation under this subsection shall include areas with actual and significant adverse water quality or habitat impacts related to agricultural production activities.
 
         (3) __Expiration__ 
 
-            Conservation priority area designation under this subsection shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw an area’s designation if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.
+        Conservation priority area designation under this subsection shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw a watershed’s designation—
+
+            (A) on application by the appropriate State agency; or
+
+            (B) in the case of an area covered by this subsection, if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.
 
         (4) __Duty of Secretary__ 
 
@@ -167,7 +155,11 @@
 
         In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
-([Pub. L. 99–198, title XII, § 1231][/us/pl/99/198/s1231], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 238][/us/stat/116/238]; amended [Pub. L. 109–148, div. B, title I, § 107(a)][/us/pl/109/148/s107/a], Dec. 30, 2005, [119 Stat. 2750][/us/stat/119/2750]; [Pub. L. 109–234, title III, § 3022][/us/pl/109/234/s3022], June 15, 2006, [120 Stat. 478][/us/stat/120/478]; [Pub. L. 110–28, title IV, § 4101][/us/pl/110/28/s4101], May 25, 2007, [121 Stat. 152][/us/stat/121/152]; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2101–2105, 2106(a)(2), (b)(1), May 22, 2008, [122 Stat. 1028][/us/stat/122/1028], 1029, 1031, 1032; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2101–2105, 2106(a)(2), (b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756, 1757, 1759, 1760; [Pub. L. 112–240, title VII, § 701(c)(1)][/us/pl/112/240/s701/c/1], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title II, § 2001][/us/pl/113/79/s2001], Feb. 7, 2014, [128 Stat. 713][/us/stat/128/713].)
+([Pub. L. 99–198, title XII, § 1231][/us/pl/99/198/s1231], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 238][/us/stat/116/238]; amended [Pub. L. 109–148, div. B, title I, § 107(a)][/us/pl/109/148/s107/a], Dec. 30, 2005, [119 Stat. 2750][/us/stat/119/2750]; [Pub. L. 109–234, title III, § 3022][/us/pl/109/234/s3022], June 15, 2006, [120 Stat. 478][/us/stat/120/478]; [Pub. L. 110–28, title IV, § 4101][/us/pl/110/28/s4101], May 25, 2007, [121 Stat. 152][/us/stat/121/152]; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2101–2105, 2106(a)(2), (b)(1), May 22, 2008, [122 Stat. 1028][/us/stat/122/1028], 1029, 1031, 1032; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2101–2105, 2106(a)(2), (b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756, 1757, 1759, 1760; [Pub. L. 112–240, title VII, § 701(c)(1)][/us/pl/112/240/s701/c/1], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363].)
+
+ __References in Text__ 
+
+    The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
  __Codification__ 
 
@@ -178,46 +170,6 @@
     A prior section 3831, [Pub. L. 99–198, title XII, § 1231][/us/pl/99/198/s1231], Dec. 23, 1985, [99 Stat. 1509][/us/stat/99/1509]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 643\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–36, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 643\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–36; [Pub. L. 99–641, title II, § 205][/us/pl/99/641/s205], Nov. 10, 1986, [100 Stat. 3563][/us/stat/100/3563]; [Pub. L. 101–624, title XIV][/us/pl/101/624], §§ 1432(2), 1447(a), Nov. 28, 1990, [104 Stat. 3577][/us/stat/104/3577], 3605; [Pub. L. 102–324, § 1(a)][/us/pl/102/324/s1/a], July 22, 1992, [106 Stat. 447][/us/stat/106/447]; [Pub. L. 103–66, title I, § 1402(b)][/us/pl/103/66/s1402/b], Aug. 10, 1993, [107 Stat. 332][/us/stat/107/332]; [Pub. L. 104–127, title III, § 332(a)(1)][/us/pl/104/127/s332/a/1], (b), Apr. 4, 1996, [110 Stat. 994][/us/stat/110/994]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XI, § 1102(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–75; [Pub. L. 107–76, title VII, § 758(a)][/us/pl/107/76/s758/a], Nov. 28, 2001, [115 Stat. 741][/us/stat/115/741], related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
-
-    2014—Subsec. (a). [Pub. L. 113–79, § 2001(a)][/us/pl/113/79/s2001/a], substituted “2018” for “2012”.
-
-    Subsec. (b)(1)(B). [Pub. L. 113–79, § 2001(b)(1)][/us/pl/113/79/s2001/b/1], substituted “February 7, 2014” for “the date of enactment of the Food, Conservation, and Energy Act of 2008”.
-
-    Subsec. (b)(2), (3). [Pub. L. 113–79, § 2001(b)(2)][/us/pl/113/79/s2001/b/2], (3), redesignated par. (3) as (2), added par. (3), and struck out former par. (2) which read as follows: “marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;”.
-
-    Subsec. (b)(4)(C). [Pub. L. 113–79, § 2001(b)(4)][/us/pl/113/79/s2001/b/4], substituted “filterstrips or riparian buffers devoted to trees, shrubs, or grasses” for “filterstrips devoted to trees or shrubs”.
-
-    Subsec. (b)(5). [Pub. L. 113–79, § 2001(b)(5)][/us/pl/113/79/s2001/b/5], added par. (5) and struck out former par. (5) which read as follows: “the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
-
-    “(A) the land is enrolled as part of the buffer; and
-
-    “(B) the remainder of the field is—
-
-    “(i) infeasible to farm; and
-
-    “(ii) enrolled at regular rental rates.”
-
-    Subsec. (c). [Pub. L. 113–79, § 2001(c)][/us/pl/113/79/s2001/c], substituted “if, during the crop year, the land was devoted to a conserving use.” for “if—” and struck out pars. (1) and (2) which read as follows:
-
-    “(1) during the crop year, the land was devoted to a conserving use; or
-
-    “(2)(A) during the crop year or during any of the 2 years preceding the crop year, the land was enrolled in the water bank program; and
-
-    “(B) the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002.”
-
-    Subsec. (d). [Pub. L. 113–79, § 2001(d)][/us/pl/113/79/s2001/d], amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([16 U.S.C. 3831][/us/usc/t16/s3831] note; [Public Law 101–624][/us/pl/101/624])). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
-
-    Subsec. (e)(2), (3). [Pub. L. 113–79, § 2001(e)][/us/pl/113/79/s2001/e], added par. (2) and struck out former pars. (2) and (3) which related to duration of contracts for certain land and 1-year extensions, respectively.
-
-    Subsec. (f)(1). [Pub. L. 113–79, § 2001(f)(1)][/us/pl/113/79/s2001/f/1], struck out “watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other” before “areas of special”.
-
-    Subsec. (f)(2). [Pub. L. 113–79, § 2001(f)(2)][/us/pl/113/79/s2001/f/2], substituted “areas” for “watersheds” in heading and “Areas” for “Watersheds” in text.
-
-    Subsec. (f)(3). [Pub. L. 113–79, § 2001(f)(3)][/us/pl/113/79/s2001/f/3], substituted “an area’s designation if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.” for “a watershed’s designation—” and struck out subpars. (A) and (B) which read as follows:
-
-    “(A) on application by the appropriate State agency; or
-
-    “(B) in the case of an area covered by this subsection, if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.”
 
     2013—Subsec. (d). [Pub. L. 112–240][/us/pl/112/240] substituted “2012, and 2013” for “and 2012”.
 
@@ -254,18 +206,6 @@
  __Regulations__ 
 
     [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XI, § 1105\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–78, required the Secretary of Agriculture, as soon as practicable after Oct. 28, 2000, to promulgate regulations to implement the amendments by section 1(a) \[title XI\] of [Pub. L. 106–387][/us/pl/106/387], amending former sections 3831 and 3832 of this title.
-
- __Effect on Existing Contracts__ 
-
-[Pub. L. 113–79, title II, § 2008][/us/pl/113/79/s2008], Feb. 7, 2014, [128 Stat. 720][/us/stat/128/720], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     Except as provided in paragraph (2), the amendments made by this subtitle \[subtitle A (§§ 2001–2008) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
-
->     “(b)  __Updating of Existing Contracts__  __.—__ 
-
->     The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act \[[16 U.S.C. 3833(b)][/us/usc/t16/s3833/b]\] (as amended by section 2004 \[of [Pub. L. 113–79][/us/pl/113/79]\]), as determined appropriate by the Secretary.”
 
  __Study on Economic Effects__ 
 
@@ -314,6 +254,9 @@
 ----------
 ----------
 
+[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
 [/us/pl/99/198/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1231
 [/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
 [/us/stat/116/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F238
@@ -329,8 +272,7 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fc%2F1
 [/us/stat/126/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2363
-[/us/pl/113/79/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001
-[/us/stat/128/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F713
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -356,19 +298,6 @@
 [/us/pl/107/76/s758/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs758%2Fa
 [/us/stat/115/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F741
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fa
-[/us/pl/113/79/s2001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fb%2F1
-[/us/pl/113/79/s2001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fb%2F2
-[/us/pl/113/79/s2001/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fb%2F4
-[/us/pl/113/79/s2001/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fb%2F5
-[/us/pl/113/79/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fc
-[/us/pl/113/79/s2001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fd
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/113/79/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Fe
-[/us/pl/113/79/s2001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Ff%2F1
-[/us/pl/113/79/s2001/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Ff%2F2
-[/us/pl/113/79/s2001/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2001%2Ff%2F3
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/110/246/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2101
 [/us/pl/110/246/s2102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2102%2F1
@@ -393,13 +322,6 @@
 [/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
-[/us/pl/113/79/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2008
-[/us/stat/128/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F720
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/usc/t16/s3833/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3833%2Fb
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/107/171/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fb
 [/us/stat/116/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F252
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831

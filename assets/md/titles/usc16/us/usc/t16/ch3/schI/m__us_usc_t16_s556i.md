@@ -17,7 +17,7 @@
 
     None of the funds made available to the Forest Service in this Act or any other Act with respect to any fiscal year shall be subject to transfer under the provisions of [section 2257 of title 7][/us/usc/t7/s2257], [section 7772 of title 7][/us/usc/t7/s7772], or [section 8316(b) of title 7][/us/usc/t7/s8316/b].
 
-([Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 326][/us/stat/128/326].)
+([Pub. L. 112–74, div. E, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1025][/us/stat/125/1025].)
 
  __References in Text__ 
 
@@ -26,8 +26,6 @@
  __Similar Provisions__ 
 
 Provisions similar to this section were contained in the following prior appropriation acts:
-
-    [Pub. L. 112–74, div. E, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1025][/us/stat/125/1025].
 
     [Pub. L. 111–88, div. A, title III][/us/pl/111/88], Oct. 30, 2009, [123 Stat. 2944][/us/stat/123/2944].
 
@@ -45,14 +43,12 @@ Provisions similar to this section were contained in the following prior appropr
 [/us/usc/t7/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2257
 [/us/usc/t7/s7772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7772
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F326
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/stat/125/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1025
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb
 [/us/pl/107/107/s10417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs10417%2Fb
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb
 [/us/pl/107/171/s10417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10417%2Fb
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/stat/125/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1025
 [/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
 [/us/stat/123/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2944
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8

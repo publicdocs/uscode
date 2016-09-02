@@ -53,11 +53,9 @@
 
         (3) the State Technical Committee;
 
-        (4) applicable Federal land management agencies;
+        (4) applicable Federal land management agencies; and
 
-        (5) as feasible, appropriate military installations where the voluntary participation and management of private or State-owned or other public forestland is able to support, promote, and contribute to the missions of such installations; and
-
-        (6) for purposes of the Forest Legacy Program under [section 2103c of this title][/us/usc/t16/s2103c], the State lead agency designated by the Governor.
+        (5) for purposes of the Forest Legacy Program under [section 2103c of this title][/us/usc/t16/s2103c], the State lead agency designated by the Governor.
 
     (d) __Incorporation of other plans__ 
 
@@ -71,7 +69,7 @@
 
         (1) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2018.
+            There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2012.
 
         (2) __Additional funding sources__ 
 
@@ -81,7 +79,7 @@
 
         The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
 
-([Pub. L. 95–313, § 2A][/us/pl/95/313/s2A], as added [Pub. L. 110–234, title VIII, § 8002][/us/pl/110/234/s8002], May 22, 2008, [122 Stat. 1280][/us/stat/122/1280], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041; amended [Pub. L. 113–79, title VIII, § 8101][/us/pl/113/79/s8101], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
+([Pub. L. 95–313, § 2A][/us/pl/95/313/s2A], as added [Pub. L. 110–234, title VIII, § 8002][/us/pl/110/234/s8002], May 22, 2008, [122 Stat. 1280][/us/stat/122/1280], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041.)
 
  __References in Text__ 
 
@@ -92,12 +90,6 @@
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
-
- __Amendments__ 
-
-    2014—Subsec. (c)(5), (6). [Pub. L. 113–79, § 8101(1)][/us/pl/113/79/s8101/1], added par. (5) and redesignated former par. (5) as (6).
-
-    Subsec. (f)(1). [Pub. L. 113–79, § 8101(2)][/us/pl/113/79/s8101/2], substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -118,8 +110,6 @@
 [/us/stat/122/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1280
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101
-[/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
@@ -128,8 +118,6 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s8101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101%2F1
-[/us/pl/113/79/s8101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101%2F2
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

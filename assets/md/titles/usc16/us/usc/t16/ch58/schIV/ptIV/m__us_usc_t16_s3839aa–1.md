@@ -39,11 +39,15 @@
 
             (vi) Other agricultural land (including cropped woodland, marshes, and agricultural land used for the production of livestock) on which resource concerns related to agricultural production could be addressed through a contract under the program, as determined by the Secretary.
 
-    (2) __Organic system plan__ 
+    (2) __National organic program__ 
 
-        The term “organic system plan” means an organic plan approved under the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.).
+        The term “national organic program” means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et. seq.).
 
-    (3) __Payment__ 
+    (3) __Organic system plan__ 
+
+        The term “organic system plan” means an organic plan approved under the national organic program.
+
+    (4) __Payment__ 
 
     The term “payment” means financial assistance provided to a producer for performing practices under this part, including compensation for—
 
@@ -51,7 +55,7 @@
 
         (B) income forgone by the producer.
 
-    (4) __Practice__ 
+    (5) __Practice__ 
 
     The term “practice” means 1 or more improvements and conservation activities that are consistent with the purposes of the program under this part, as determined by the Secretary, including—
 
@@ -77,11 +81,11 @@
 
             (ii) other plans that the Secretary determines would further the purposes of the program under this part.
 
-    (5) __Program__ 
+    (6) __Program__ 
 
         The term “program” means the environmental quality incentives program established by this part.
 
-([Pub. L. 99–198, title XII, § 1240A][/us/pl/99/198/s1240A], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 253][/us/stat/116/253]; amended [Pub. L. 110–234, title II, § 2502][/us/pl/110/234/s2502], May 22, 2008, [122 Stat. 1058][/us/stat/122/1058]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1786; [Pub. L. 113–79, title II, § 2202][/us/pl/113/79/s2202], Feb. 7, 2014, [128 Stat. 729][/us/stat/128/729].)
+([Pub. L. 99–198, title XII, § 1240A][/us/pl/99/198/s1240A], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 253][/us/stat/116/253]; amended [Pub. L. 110–234, title II, § 2502][/us/pl/110/234/s2502], May 22, 2008, [122 Stat. 1058][/us/stat/122/1058]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1786.)
 
  __References in Text__ 
 
@@ -97,23 +101,11 @@
 
  __Amendments__ 
 
-    2014—Pars. (2) to (6). [Pub. L. 113–79][/us/pl/113/79] redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et. seq.).”
-
     2008—[Pub. L. 110–246, § 2502][/us/pl/110/246/s2502], amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
  __Effective Date of 2008 Amendment__ 
 
-Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.(ii) by striking subparagraph (B) and inserting the following new subparagraph:
-
-    (B) Advance payments
-
-    (i) In general
-
-    Not more than 50 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.
-
-    (ii) Return of funds
-
-    If funds provided in advance are not expended during the 90-day period beginning on the date of receipt of the funds, the funds shall be returned within a reasonable timeframe, as determined by the Secretary.
+    Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
 ----------
 
@@ -130,8 +122,6 @@ Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [
 [/us/stat/122/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1058
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2202
-[/us/stat/128/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F729
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
@@ -143,9 +133,6 @@ Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [
 [/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
 [/us/stat/110/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F997
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/pl/110/246/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2502
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

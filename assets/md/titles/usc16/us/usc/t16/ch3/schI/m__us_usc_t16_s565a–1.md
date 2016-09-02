@@ -23,34 +23,6 @@
 
     “Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; [31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
- __Forest Service Partnership Agreements__ 
-
-[Pub. L. 113–76, div. G, title IV, § 426][/us/pl/113/76/s426], Jan. 17, 2014, [128 Stat. 344][/us/stat/128/344], provided that:
-
->     “(a)  __Agreements Authorized__  __.—__ 
-
->     The Secretary of Agriculture may enter into an agreement under [section 1 of Public Law 94–148][/us/pl/94/148/s1] ([16 U.S.C. 565a–1][/us/usc/t16/s565a–1]) with a Federal, tribal, State, or local government or a nonprofit entity for the following additional purposes:
-
->         “(1) To develop, produce, publish, distribute, or sell educational and interpretive materials and products.
-
->         “(2) To develop, conduct, or sell educational and interpretive programs and services.
-
->         “(3) To construct, maintain, or improve facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands for the sale or distribution of educational and interpretive materials, products, programs, and services.
-
->         “(4) To operate facilities (including providing the services of Forest Service employees to staff facilities) in any public or private building or on land not under the jurisdiction, custody, or control of the Administrator of General Services for the sale or distribution of educational and interpretive materials, products, programs, and services, pertaining to National Forest System lands, private lands, and lands administered by other public entities.
-
->         “(5) To sell health and safety products, visitor convenience items, or other similar items (as determined by the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
-
->         “(6) To collect funds on behalf of cooperators from the sale of materials, products, programs, and services, as authorized by a preceding paragraph, when the collection of such funds is incidental to other duties of Forest Service employees.
-
->     “(b)  __Treatment of Contributions of Volunteers__  __.—__ 
-
->     The Forest Service may consider the value of services performed by persons who volunteer their services to the Forest Service and who are recruited, trained, and supported by a cooperator as an in-kind contribution of the cooperator for purposes of any cost sharing requirement under any Forest Service authority to enter into mutual benefit agreements.
-
->     “(c)  __Duration__  __.—__ 
-
->     The authority provided by subsections (a) and (b) expires September 30, 2019.”
-
  __Mutual Benefit of Agreements to Forest Service and Other Parties__ 
 
 [Pub. L. 108–7, div. F, title III, § 321][/us/pl/108/7/s321], Feb. 20, 2003, [117 Stat. 274][/us/stat/117/274], as amended by [Pub. L. 109–54, title IV, § 426][/us/pl/109/54/s426], Aug. 2, 2005, [119 Stat. 555][/us/stat/119/555]; [Pub. L. 110–161, div. F, title IV, § 417][/us/pl/110/161/s417], Dec. 26, 2007, [121 Stat. 2149][/us/stat/121/2149], provided that: 
@@ -73,10 +45,6 @@
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/113/76/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs426
-[/us/stat/128/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F344
-[/us/pl/94/148/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F148%2Fs1
-[/us/usc/t16/s565a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a%E2%80%931
 [/us/pl/108/7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs321
 [/us/stat/117/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F274
 [/us/pl/109/54/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs426

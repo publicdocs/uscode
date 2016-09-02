@@ -31,7 +31,7 @@
 
 >     “(a) Subject to subsection (b), any agreement entered into under the Water Bank Act ([16 U.S.C. 1301][/us/usc/t16/s1301] et seq.) and due to expire on December 31, 1994, may be extended for 1 year under section 6 of the Water Bank Act ([16 U.S.C. 1305][/us/usc/t16/s1305]).
 
->     “(b) The authority to extend Water Bank Act agreements under this Act may only be exercised to the extent that the amount available for obligation under the Wetlands Reserve Program ([16 U.S.C. 1637][/us/usc/t16/s1637] et seq.) \[probably means former [16 U.S.C. 3837][/us/usc/t16/s3837] et seq.\], and the amount used for the extension of Water Bank Act agreements under subsection (a), does not exceed $93,200,000 as provided for the Wetlands Reserve Program under the Agricultural, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1995 \[[Pub. L. 103–330][/us/pl/103/330], [108 Stat. 2453][/us/stat/108/2453]\].”
+>     “(b) The authority to extend Water Bank Act agreements under this Act may only be exercised to the extent that the amount available for obligation under the Wetlands Reserve Program ([16 U.S.C. 1637][/us/usc/t16/s1637] et seq.) \[probably means [16 U.S.C. 3837][/us/usc/t16/s3837] et seq.\], and the amount used for the extension of Water Bank Act agreements under subsection (a), does not exceed $93,200,000 as provided for the Wetlands Reserve Program under the Agricultural, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1995 \[[Pub. L. 103–330][/us/pl/103/330], [108 Stat. 2453][/us/stat/108/2453]\].”
 
 ----------
 

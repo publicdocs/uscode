@@ -77,31 +77,13 @@
 
         (3) __Acreage owned by Indian tribes__ 
 
-            (A) __Definition of acreage owned by Indian tribes__ 
+        In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
 
-            In this paragraph, the term “acreage owned by Indian tribes” includes—
+            (A) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
 
-                (i) land that is held in trust by the United States for Indian tribes or individual Indians;
+            (B) a 10-year cost-share agreement; or
 
-                (ii) land, the title to which is held by Indian tribes or individual Indians subject to Federal restrictions against alienation or encumbrance;
-
-                (iii) land that is subject to rights of use, occupancy, and benefit of certain Indian tribes;
-
-                (iv) land that is held in fee title by an Indian tribe; or
-
-                (v) land that is owned by a native corporation formed under [section 477 of title 25][/us/usc/t25/s477] or [section 1607 of title 43][/us/usc/t43/s1607]; or
-
-                (vi) a combination of 1 or more types of land described in clauses (i) through (v).
-
-            (B) __Enrollment of acreage__ 
-
-            In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
-
-                (i) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
-
-                (ii) a 10-year cost-share agreement; or
-
-                (iii) any combination of the options described in clauses (i) and (ii).
+            (C) any combination of the options described in subparagraphs (A) and (B).
 
     (f) __Enrollment priority__ 
 
@@ -123,17 +105,13 @@
 
             The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.
 
-([Pub. L. 108–148, title V, § 502][/us/pl/108/148/s502], Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911]; [Pub. L. 110–234, title VIII, § 8205(a)][/us/pl/110/234/s8205/a], May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8205(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056; [Pub. L. 113–79, title VIII, § 8203(a)][/us/pl/113/79/s8203/a], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
+([Pub. L. 108–148, title V, § 502][/us/pl/108/148/s502], Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911]; [Pub. L. 110–234, title VIII, § 8205(a)][/us/pl/110/234/s8205/a], May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8205(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—Subsec. (e)(3). [Pub. L. 113–79, § 8203(a)(2)][/us/pl/113/79/s8203/a/2], (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
-
-    Subsec. (e)(3)(C). [Pub. L. 113–79, § 8203(a)(1)][/us/pl/113/79/s8203/a/1], substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
 
     2008—Subsecs. (e) to (g). [Pub. L. 110–246, § 8205(a)][/us/pl/110/246/s8205/a], added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
 
@@ -150,8 +128,6 @@
 
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/usc/t25/s477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs477
-[/us/usc/t43/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1607
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/pl/108/148/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs502
@@ -160,14 +136,10 @@
 [/us/stat/122/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1294
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s8203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa
-[/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s8203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa%2F2
-[/us/pl/113/79/s8203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa%2F1
 [/us/pl/110/246/s8205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8205%2Fa
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

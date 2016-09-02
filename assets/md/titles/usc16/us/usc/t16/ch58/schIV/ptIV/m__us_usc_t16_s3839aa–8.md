@@ -29,13 +29,9 @@
 
             (B) leverage Federal funds made available to carry out the program under this part with matching funds provided by State and local governments and private organizations to promote environmental enhancement and protection in conjunction with agricultural production;
 
-            (C) ensure efficient and effective transfer of innovative technologies and approaches demonstrated through projects that receive funding under this section, such as market systems for pollution reduction and practices for the storage of carbon in soil;
+            (C) ensure efficient and effective transfer of innovative technologies and approaches demonstrated through projects that receive funding under this section, such as market systems for pollution reduction and practices for the storage of carbon in soil; and
 
-            (D) provide environmental and resource conservation benefits through increased participation by producers of specialty crops;
-
-            (E) facilitate on-farm conservation research and demonstration activities; and
-
-            (F) facilitate pilot testing of new technologies or innovative conservation practices.
+            (D) provide environmental and resource conservation benefits through increased participation by producers of specialty crops.
 
     (b) __Air quality concerns from agricultural operations__ 
 
@@ -45,19 +41,9 @@
 
         (2) __Funding__ 
 
-            Of the funds made available to carry out this part, the Secretary shall carry out this subsection using $25,000,000 for each of fiscal years 2009 through 2018.
+            Of the funds made available to carry out this part, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2009 through 2012.
 
-    (c) __Reporting__ 
-
-    Not later than December 31, 2014, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report on the status of projects funded under this section, including—
-
-        (1) funding awarded;
-
-        (2) project results; and
-
-        (3) incorporation of project findings, such as new technology and innovative approaches, into the conservation efforts implemented by the Secretary.
-
-([Pub. L. 99–198, title XII, § 1240H][/us/pl/99/198/s1240H], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 257][/us/stat/116/257]; amended [Pub. L. 110–234, title II, § 2509][/us/pl/110/234/s2509], May 22, 2008, [122 Stat. 1064][/us/stat/122/1064]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2509, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1792; [Pub. L. 113–79, title II, § 2207][/us/pl/113/79/s2207], Feb. 7, 2014, [128 Stat. 731][/us/stat/128/731].)
+([Pub. L. 99–198, title XII, § 1240H][/us/pl/99/198/s1240H], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 257][/us/stat/116/257]; amended [Pub. L. 110–234, title II, § 2509][/us/pl/110/234/s2509], May 22, 2008, [122 Stat. 1064][/us/stat/122/1064]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2509, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1792.)
 
  __Codification__ 
 
@@ -68,12 +54,6 @@
     A prior section 3839aa–8, [Pub. L. 99–198, title XII, § 1240H][/us/pl/99/198/s1240H], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 1002][/us/stat/110/1002], related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
-
-    2014—Subsec. (a)(2)(E), (F). [Pub. L. 113–79, § 2207(1)][/us/pl/113/79/s2207/1], added subpars. (E) and (F).
-
-    Subsec. (b)(2). [Pub. L. 113–79, § 2207(2)][/us/pl/113/79/s2207/2], substituted “$25,000,000” for “$37,500,000” and “2018” for “2012”.
-
-    Subsec. (c). [Pub. L. 113–79, § 2207(3)][/us/pl/113/79/s2207/3], added subsec. (c).
 
     2008—[Pub. L. 110–246, § 2509][/us/pl/110/246/s2509], amended section generally. Prior to amendment, section related to conservation innovation grants.
 
@@ -95,8 +75,6 @@
 [/us/stat/122/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1064
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2207
-[/us/stat/128/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F731
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -105,9 +83,6 @@
 [/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
 [/us/stat/110/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1002
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2207%2F1
-[/us/pl/113/79/s2207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2207%2F2
-[/us/pl/113/79/s2207/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2207%2F3
 [/us/pl/110/246/s2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2509
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

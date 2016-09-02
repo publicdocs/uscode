@@ -29,7 +29,7 @@
 
             (B) at the option of the Secretary, at any time prior to such date during the year that the obligation is incurred.
 
-    (b) __Cost sharing payments__ 
+    (b) __Federal percentage of cost sharing payments__ 
 
         (1) __In general__ 
 
@@ -43,17 +43,27 @@
 
             (A) __Applicability__ 
 
-                This paragraph applies to land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990.
+            This paragraph applies to—
+
+                (i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
+
+                (ii) land converted to such production under [section 3835a of this title][/us/usc/t16/s3835a]; and
+
+                (iii) land on which an owner or operator agrees to conduct thinning authorized by [section 3832(a)(9) of this title][/us/usc/t16/s3832/a/9], if the thinning is necessary to improve the condition of resources on the land.
 
             (B) __Payments__ 
 
                 (i) __Percentage__ 
 
-                    In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator).
+                    In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator) or thinning.
 
                 (ii) __Duration__ 
 
-                    The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of the planting of the trees or shrubs.
+                The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
+
+                    (I) the planting of the trees or shrubs; or
+
+                    (II) the thinning of existing stands to improve the condition of resources on the land.
 
         (4) __Hardwood tree planting__ 
 
@@ -63,35 +73,19 @@
 
             An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistance with respect to the land under any other provision of law.
 
-    (c) __Incentive payments__ 
+    (c) __Annual rental payments__ 
 
         (1) __In general__ 
 
-            The Secretary may make incentive payments to an owner or operator of eligible land in an amount sufficient to encourage proper thinning and other practices to improve the condition of resources, promote forest management, or enhance wildlife habitat on the land.
+            In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland normally devoted to the production of an agricultural commodity to less intensive use, the Secretary may consider, among other things, the amount necessary to encourage owners or operators of highly erodible cropland to participate in the program established by this subpart.
 
-        (2) __Limitation__ 
+        (2) __Method of determination__ 
 
-            A payment described in paragraph (1) may not exceed 150 percent of the total cost of thinning and other practices conducted by the owner or operator.
+        The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
 
-    (d) __Annual rental payments__ 
+            (A) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
 
-        (1) __In general__ 
-
-            In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary may consider, among other things, the amount necessary to encourage owners or operators of highly erodible cropland or other eligible lands to participate in the program established by this subpart.
-
-        (2) __Methods of determination__ 
-
-            (A) __In general__ 
-
-            The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
-
-                (i) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
-
-                (ii) such other means as the Secretary determines are appropriate.
-
-            (B) __Grasslands__ 
-
-                In the case of eligible land described in [section 3831(b)(3) of this title][/us/usc/t16/s3831/b/3], the Secretary shall make annual payments in an amount that is not more than 75 percent of the grazing value of the land covered by the contract.
+            (B) such other means as the Secretary determines are appropriate.
 
         (3) __Acceptance of contract offers__ 
 
@@ -115,37 +109,59 @@
 
             (A) __Annual estimates__ 
 
-                The Secretary (acting through the National Agricultural Statistics Service) shall, not less frequently than once every other year, conduct a survey of per acre estimates of county average market dryland and irrigated cash rental rates for cropland and pastureland in all counties or equivalent subdivisions within each State that have 20,000 acres or more of cropland and pastureland.
+                The Secretary (acting through the National Agricultural Statistics Service) shall conduct an annual survey of per acre estimates of county average market dryland and irrigated cash rental rates for cropland and pastureland in all counties or equivalent subdivisions within each State that have 20,000 acres or more of cropland and pastureland.
 
             (B) __Public availability of estimates__ 
 
-                The estimates derived from the survey conducted under subparagraph (A) shall be maintained on a website of the Department of Agriculture for use by the general public.
+                The estimates derived from the annual survey conducted under subparagraph (A) shall be maintained on a website of the Department of Agriculture for use by the general public.
 
-            (C) __Use__ 
-
-                The Secretary may use the estimates derived from the survey conducted under subparagraph (A) relating to dryland cash rental rates as a factor in determining rental rates under this section in a manner determined appropriate by the Secretary.
-
-    (e) __Payment schedule__ 
+    (d) __Cash or in-kind payments__ 
 
         (1) __In general__ 
 
-            Except as otherwise provided in this section, payments under this subpart shall be made in cash in such amount and on such time schedule as is agreed on and specified in the contract.
+        Except as otherwise provided in this section, payments under this subpart—
 
-        (2) __Advance payment__ 
+            (A) shall be made in cash or in commodities in such amount and on such time schedule as is agreed on and specified in the contract; and
 
-            Payments under this subpart may be made in advance of determination of performance.
+            (B) may be made in advance of determination of performance.
 
-    (f) __Payments on death, disability, or succession__ 
+        (2) __Method of providing in-kind payments__ 
+
+        If the payment to an owner or operator is made with in-kind commodities, the payment shall be made by the Commodity Credit Corporation—
+
+            (A) by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreed to by the Secretary and the owner or operator;
+
+            (B) by the transfer of negotiable warehouse receipts; or
+
+            (C) by such other method, including the sale of the commodity in commercial markets, as is determined by the Secretary to be appropriate to enable the owner or operator to receive efficient and expeditious possession of the commodity.
+
+        (3) __Cash payments__ 
+
+            (A) __Commodity Credit Corporation stocks__ 
+
+                If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary may substitute full or partial payment in cash for payment in kind.
+
+            (B) __Special conservation reserve enhancement program__ 
+
+                Payments to an owner or operator under a special conservation reserve enhancement program described in subsection (f)(4) of this section shall be in the form of cash only.
+
+    (e) __Payments on death, disability, or succession__ 
 
         If an owner or operator that is entitled to a payment under a contract entered into under this subpart dies, becomes incompetent, is otherwise unable to receive the payment, or is succeeded by another person that renders or completes the required performance, the Secretary shall make the payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
 
-    (g) __Payment limitation for rental payments__ 
+    (f) __Payment limitation for rental payments__ 
 
         (1) __In general__ 
 
-            The total amount of rental payments received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
+            The total amount of rental payments, including rental payments made in the form of in-kind commodities, received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
 
-        (2) __Special conservation reserve enhancement program__ 
+        (2) __Repealed.__  __[__  __Pub. L. 110–234, title II, § 2110(c)(2)__  __][/us/pl/110/234/s2110/c/2]__  __,__  __May 22, 2008__  __,__  __[__  __122 Stat. 1035__  __][/us/stat/122/1035]__  __, and__  __[__  __Pub. L. 110–246, § 4(a)__  __][/us/pl/110/246/s4/a]__  __, title II, § 2110(c)(2),__  __June 18, 2008__  __,__  __[__  __122 Stat. 1664__  __][/us/stat/122/1664]__  __, 1763__ 
+
+        (3) __Other payments__ 
+
+            Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.
+
+        (4) __Special conservation reserve enhancement program__ 
 
             (A) __In general__ 
 
@@ -155,11 +171,15 @@
 
                 The Secretary may enter into such agreements for payments to States (including political subdivisions and agencies of States) that the Secretary determines will advance the purposes of this subpart.
 
-    (h) __Other State or local assistance__ 
+    (g) __Other State or local assistance__ 
 
         In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
-([Pub. L. 99–198, title XII, § 1234][/us/pl/99/198/s1234], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 245][/us/stat/116/245]; amended [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, [122 Stat. 1034][/us/stat/122/1034], 1035; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1762, 1763; [Pub. L. 113–79, title II, § 2005][/us/pl/113/79/s2005], Feb. 7, 2014, [128 Stat. 718][/us/stat/128/718].)
+([Pub. L. 99–198, title XII, § 1234][/us/pl/99/198/s1234], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 245][/us/stat/116/245]; amended [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, [122 Stat. 1034][/us/stat/122/1034], 1035; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1762, 1763.)
+
+ __References in Text__ 
+
+    The Farm Security and Rural Investment Act of 2002, referred to in subsec. (f)(3), is [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 134][/us/stat/116/134]. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of Title 7][/us/usc/t7/s7901], Agriculture, and Tables.
 
  __Codification__ 
 
@@ -170,52 +190,6 @@
     A prior section 3834, [Pub. L. 99–198, title XII, § 1234][/us/pl/99/198/s1234], Dec. 23, 1985, [99 Stat. 1511][/us/stat/99/1511]; [Pub. L. 100–387, title III, § 322][/us/pl/100/387/s322], Aug. 11, 1988, [102 Stat. 950][/us/stat/102/950]; [Pub. L. 101–624, title XIV][/us/pl/101/624], §§ 1434, 1447(a), Nov. 28, 1990, [104 Stat. 3581][/us/stat/104/3581], 3605, related to payments for obligations, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
-
-    2014—Subsec. (b). [Pub. L. 113–79, § 2005(b)(1)(A)][/us/pl/113/79/s2005/b/1/A], struck out “Federal percentage of” before “cost sharing payments” in heading.
-
-    Subsec. (b)(3)(A). [Pub. L. 113–79, § 2005(a)][/us/pl/113/79/s2005/a], amended subpar. (A) generally. Prior to amendment, text read as follows: “This paragraph applies to—
-
-    “(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
-
-    “(ii) land converted to such production under [section 3835a of this title][/us/usc/t16/s3835a]; and
-
-    “(iii) land on which an owner or operator agrees to conduct thinning authorized by [section 3832(a)(9) of this title][/us/usc/t16/s3832/a/9], if the thinning is necessary to improve the condition of resources on the land.”
-
-    Subsec. (b)(3)(B)(i). [Pub. L. 113–79, § 2005(b)(1)(B)(i)][/us/pl/113/79/s2005/b/1/B/i], struck out “or thinning” before period at end.
-
-    Subsec. (b)(3)(B)(ii). [Pub. L. 113–79, § 2005(b)(1)(B)(ii)][/us/pl/113/79/s2005/b/1/B/ii], amended cl. (ii) generally. Prior to amendment, text read as follows: “The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
-
-    “(I) the planting of the trees or shrubs; or
-
-    “(II) the thinning of existing stands to improve the condition of resources on the land.”
-
-    Subsecs. (c), (d). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
-
-    Subsec. (d)(1). [Pub. L. 113–79, § 2005(c)(1)][/us/pl/113/79/s2005/c/1], inserted “or other eligible lands” after “highly erodible cropland” in two places.
-
-    Subsec. (d)(2). [Pub. L. 113–79, § 2005(c)(2)][/us/pl/113/79/s2005/c/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
-
-    “(A) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
-
-    “(B) such other means as the Secretary determines are appropriate.”
-
-    Subsec. (d)(5)(A). [Pub. L. 113–79, § 2005(c)(3)(A)][/us/pl/113/79/s2005/c/3/A], substituted “, not less frequently than once every other year, conduct a survey” for “conduct an annual survey”.
-
-    Subsec. (d)(5)(B). [Pub. L. 113–79, § 2005(c)(3)(B)][/us/pl/113/79/s2005/c/3/B], struck out “annual” before “survey”.
-
-    Subsec. (d)(5)(C). [Pub. L. 113–79, § 2005(c)(3)(C)][/us/pl/113/79/s2005/c/3/C], added subpar. (C).
-
-    Subsec. (e). [Pub. L. 113–79, § 2005(d)][/us/pl/113/79/s2005/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to cash or in-kind payments.
-
-    [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
-
-    Subsecs. (f), (g). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
-
-    Subsec. (g)(1). [Pub. L. 113–79, § 2005(e)(1)][/us/pl/113/79/s2005/e/1], struck out “, including rental payments made in the form of in-kind commodities,” after “total amount of rental payments”.
-
-    Subsec. (g)(2) to (4). [Pub. L. 113–79, § 2005(e)(2)][/us/pl/113/79/s2005/e/2], (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: “Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.”
-
-    Subsec. (h). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsec. (g) as (h).
 
     2008—Subsec. (b)(3). [Pub. L. 110–246, § 2109][/us/pl/110/246/s2109], added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
@@ -241,7 +215,7 @@
 
 [Pub. L. 110–234, title II, § 2110(b)(2)][/us/pl/110/234/s2110/b/2], May 22, 2008, [122 Stat. 1035][/us/stat/122/1035], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2110(b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763, provided that: 
 
-> “The first survey required by paragraph (5) of section 1234(c) \[now 1234(d)\] of the Food Security Act of 1985 ([16 U.S.C. 3834(c)][/us/usc/t16/s3834/c] \[now [16 U.S.C. 3834(d)][/us/usc/t16/s3834/d]\]), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
+> “The first survey required by paragraph (5) of section 1234(c) of the Food Security Act of 1985 ([16 U.S.C. 3834(c)][/us/usc/t16/s3834/c]), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
@@ -256,7 +230,12 @@
 ----------
 ----------
 
-[/us/usc/t16/s3831/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831%2Fb%2F3
+[/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
+[/us/usc/t16/s3832/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3832%2Fa%2F9
+[/us/pl/110/234/s2110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2110%2Fc%2F2
+[/us/stat/122/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1035
+[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/198/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1234
@@ -266,8 +245,9 @@
 [/us/stat/122/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1034
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005
-[/us/stat/128/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F718
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/stat/116/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F134
+[/us/usc/t7/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7901
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -279,24 +259,6 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3581
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2005/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FA
-[/us/pl/113/79/s2005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fa
-[/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
-[/us/usc/t16/s3832/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3832%2Fa%2F9
-[/us/pl/113/79/s2005/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FB%2Fi
-[/us/pl/113/79/s2005/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FB%2Fii
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F1
-[/us/pl/113/79/s2005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F2
-[/us/pl/113/79/s2005/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FA
-[/us/pl/113/79/s2005/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FB
-[/us/pl/113/79/s2005/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FC
-[/us/pl/113/79/s2005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fd
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fe%2F1
-[/us/pl/113/79/s2005/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fe%2F2
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
 [/us/pl/110/246/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2109
 [/us/pl/110/246/s2110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fa
 [/us/pl/110/246/s2110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fb%2F1
@@ -313,7 +275,6 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t16/s3834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fc
-[/us/usc/t16/s3834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

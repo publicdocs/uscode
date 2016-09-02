@@ -145,9 +145,9 @@
 
     (e) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
+        There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2012.
 
-([Pub. L. 99–198, title XII, § 1240M][/us/pl/99/198/s1240M], as added [Pub. L. 104–127, title III, § 335][/us/pl/104/127/s335], Apr. 4, 1996, [110 Stat. 1002][/us/stat/110/1002]; amended [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 264][/us/stat/116/264]; [Pub. L. 110–234, title II, § 2601][/us/pl/110/234/s2601], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796; [Pub. L. 113–79, title II, § 2501][/us/pl/113/79/s2501], Feb. 7, 2014, [128 Stat. 751][/us/stat/128/751].)
+([Pub. L. 99–198, title XII, § 1240M][/us/pl/99/198/s1240M], as added [Pub. L. 104–127, title III, § 335][/us/pl/104/127/s335], Apr. 4, 1996, [110 Stat. 1002][/us/stat/110/1002]; amended [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 264][/us/stat/116/264]; [Pub. L. 110–234, title II, § 2601][/us/pl/110/234/s2601], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796.)
 
  __References in Text__ 
 
@@ -158,8 +158,6 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (e). [Pub. L. 110–246, § 2601][/us/pl/110/246/s2601], substituted “2012” for “2007”.
 
@@ -187,8 +185,6 @@
 [/us/stat/122/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1068
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2501
-[/us/stat/128/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F751
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
@@ -196,7 +192,6 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2601
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

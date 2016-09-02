@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497e.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s499.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497d.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s499.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498)
 
 ## § 498. Cooperative work agreements: disposal of moneys received; refund of excess; payment from appropriation; conflict of interest
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497e.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s499.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497d.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s499.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498)
 
 ----------
 ----------

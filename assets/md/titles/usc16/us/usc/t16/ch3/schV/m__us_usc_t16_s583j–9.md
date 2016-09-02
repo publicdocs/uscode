@@ -15,9 +15,9 @@
 
 ## § 583j–9. Federal funds
 
-    For fiscal year 2014 and thereafter, the National Forest Foundation may hold Federal funds made available but not immediately disbursed and may use any interest or other investment income earned (before, on, or after January 17, 2014) on Federal funds to carry out the purposes of [Public Law 101–593][/us/pl/101/593]: Provided further, That such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+    On and after November 5, 2001, the National Forest Foundation may hold Federal funds made available but not immediately disbursed and may use any interest or other investment income earned (before, on, or after November 5, 2001) on Federal funds to carry out the purposes of [Public Law 101–593][/us/pl/101/593]: Provided further, That such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
-([Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 327][/us/stat/128/327].)
+([Pub. L. 107–63, title II][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 450][/us/stat/115/450].)
 
  __References in Text__ 
 
@@ -25,13 +25,11 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the National Forest Foundation Act which comprises this subchapter.
+    Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2002, and not as part of the National Forest Foundation Act which comprises this subchapter.
 
  __Prior Provisions__ 
 
 Provisions similar to this section were contained in the following prior appropriation acts:
-
-    [Pub. L. 107–63, title II][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 450][/us/stat/115/450].
 
     [Pub. L. 106–291, title II][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 972][/us/stat/114/972].
 
@@ -59,8 +57,8 @@ Provisions similar to the proviso in this section were contained in the Departme
 ----------
 
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F327
+[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/stat/115/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F450
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/stat/104/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2954
@@ -68,8 +66,6 @@ Provisions similar to the proviso in this section were contained in the Departme
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
-[/us/stat/115/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F450
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/stat/114/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F972
 [/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3

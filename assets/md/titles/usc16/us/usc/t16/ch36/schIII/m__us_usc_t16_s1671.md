@@ -31,9 +31,9 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 95–306, § 8][/us/pl/95/306/s8], June 30, 1978, [92 Stat. 352][/us/stat/92/352], as amended by [Pub. L. 100–231, § 2(2)][/us/pl/100/231/s2/2], Jan. 5, 1988, [101 Stat. 1565][/us/stat/101/1565]; [Pub. L. 107–171, title VIII, § 8101(b)(2)][/us/pl/107/171/s8101/b/2], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 110–234, title VII, § 7413(b)][/us/pl/110/234/s7413/b], May 22, 2008, [110 Stat. 1256][/us/stat/110/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7413(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017; [Pub. L. 113–79, title VII, § 7405(b)][/us/pl/113/79/s7405/b], Feb. 7, 2014, [128 Stat. 898][/us/stat/128/898], provided that: 
+[Pub. L. 95–306, § 8][/us/pl/95/306/s8], June 30, 1978, [92 Stat. 352][/us/stat/92/352], as amended by [Pub. L. 100–231, § 2(2)][/us/pl/100/231/s2/2], Jan. 5, 1988, [101 Stat. 1565][/us/stat/101/1565]; [Pub. L. 107–171, title VIII, § 8101(b)(2)][/us/pl/107/171/s8101/b/2], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 110–234, title VII, § 7413(b)][/us/pl/110/234/s7413/b], May 22, 2008, [110 Stat. 1256][/us/stat/110/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7413(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017, provided that: 
 
-> “The provisions of this Act \[enacting this subchapter and provision set out as a note under [section 1600 of this title][/us/usc/t16/s1600]\] shall be effective for the period beginning October 1, 1978, and ending September 30, 2018.”
+> “The provisions of this Act \[enacting this subchapter and provision set out as a note under [section 1600 of this title][/us/usc/t16/s1600]\] shall be effective for the period beginning October 1, 1978, and ending September 30, 2012 \[extended to Sept. 30, 2013, see [section 701(a) of Pub. L. 112–240][/us/pl/112/240/s701/a], set out as a 1-Year Extension of Agricultural Programs note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture\].”
 
  __Short Title__ 
 
@@ -58,9 +58,9 @@
 [/us/stat/110/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1256
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7405%2Fb
-[/us/stat/128/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F898
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
+[/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
+[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 
 

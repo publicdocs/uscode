@@ -63,23 +63,9 @@
 
         The Secretary of Agriculture, under such rules and regulations as he may prescribe, is authorized to dispose of, by sale or otherwise, trees, portions of trees, or other forest products related to research and demonstration projects.
 
-    (g) __Designation and supervision of harvesting__ 
+    (g) __Designation, marking, and supervision of harvesting; personnel__ 
 
-        (1) __In general__ 
-
-            Designation, including marking when necessary, designation by description, or designation by prescription, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture.
-
-        (2) __Requirement__ 
-
-        Persons employed by the Secretary of Agriculture under paragraph (1)—
-
-            (A) shall have no personal interest in the purchase or harvest of the products; and
-
-            (B) shall not be directly or indirectly in the employment of the purchaser of the products.
-
-        (3) __Methods for designation__ 
-
-            Designation by prescription and designation by description shall be considered valid methods for designation, and may be supervised by use of post-harvest cruise, sample weight scaling, or other methods determined by the Secretary of Agriculture to be appropriate.
+        Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
 
     (h) __Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury__ 
 
@@ -93,7 +79,7 @@
 
         (3) The provisions of this subsection shall become effective on October 1, 1976.
 
-([Pub. L. 94–588, § 14][/us/pl/94/588/s14], Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958]; [Pub. L. 95–233][/us/pl/95/233], Feb. 20, 1978, [92 Stat. 32][/us/stat/92/32]; [Pub. L. 101–626, title I, § 105(a)][/us/pl/101/626/s105/a], Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427]; [Pub. L. 113–79, title VIII, § 8303][/us/pl/113/79/s8303], Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
+([Pub. L. 94–588, § 14][/us/pl/94/588/s14], Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958]; [Pub. L. 95–233][/us/pl/95/233], Feb. 20, 1978, [92 Stat. 32][/us/stat/92/32]; [Pub. L. 101–626, title I, § 105(a)][/us/pl/101/626/s105/a], Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427].)
 
  __References in Text__ 
 
@@ -106,8 +92,6 @@
     The Small Business Act, referred to in subsec. (i)(1), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
-
-    2014—Subsec. (g). [Pub. L. 113–79][/us/pl/113/79] added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.”
 
     1990—Subsec. (i)(1). [Pub. L. 101–626][/us/pl/101/626] struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 
@@ -269,8 +253,6 @@
 [/us/stat/92/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F32
 [/us/pl/101/626/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs105%2Fa
 [/us/stat/104/4427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4427
-[/us/pl/113/79/s8303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8303
-[/us/stat/128/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F924
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
@@ -283,7 +265,6 @@
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626
 [/us/pl/95/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F233
 [/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626

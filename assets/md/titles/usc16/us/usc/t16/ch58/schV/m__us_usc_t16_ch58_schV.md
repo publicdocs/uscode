@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–6.md) | [Next](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch58%2FschV)
+[Previous](./../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–5.md) | [Next](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch58%2FschV)
 
 ### SUBCHAPTER V—FUNDING AND ADMINISTRATION
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–6.md) | [Next](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch58%2FschV)
+[Previous](./../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–5.md) | [Next](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch58%2FschV)
 
 ----------
 ----------

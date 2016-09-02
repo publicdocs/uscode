@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_ch58_schV–A.md) | [Next](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_s3851a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851)
+[Previous](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_ch58_schV–A.md) | [Next](./../../../../..//us/usc/t16/ch58/schVI/m__us_usc_t16_ch58_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851)
 
 ## § 3851. Agriculture conservation experienced services program
 
@@ -41,9 +41,17 @@
 
             Except as provided in paragraph (2), the Secretary may carry out the ACES program using funds made available to carry out each program under this chapter.
 
-        (2) __Exclusion__ 
+        (2) __Exclusions__ 
 
-            Funds made available to carry out the conservation reserve program may not be used to carry out the ACES program.
+        Funds made available to carry out the following programs may not be used to carry out the ACES program:
+
+            (A) The conservation reserve program.
+
+            (B) The wetlands reserve program.
+
+            (C) The grassland reserve program.
+
+            (D) The conservation stewardship program.
 
     (d) __Liability__ 
 
@@ -53,7 +61,7 @@
 
         (2) is acting within the scope of the agreement.
 
-([Pub. L. 99–198, title XII, § 1252][/us/pl/99/198/s1252], as added [Pub. L. 110–234, title II, § 2710][/us/pl/110/234/s2710], May 22, 2008, [122 Stat. 1082][/us/stat/122/1082], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2710, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1810; amended [Pub. L. 113–79, title II, § 2504][/us/pl/113/79/s2504], Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
+([Pub. L. 99–198, title XII, § 1252][/us/pl/99/198/s1252], as added [Pub. L. 110–234, title II, § 2710][/us/pl/110/234/s2710], May 22, 2008, [122 Stat. 1082][/us/stat/122/1082], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2710, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1810.)
 
  __References in Text__ 
 
@@ -71,25 +79,13 @@
 
     A prior [section 1252 of Pub. L. 99–198][/us/pl/99/198/s1252], title XII, Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516], amended sections 2004, 2005, 2006, and 2009 of this title, prior to repeal by [Pub. L. 104–127, title III, § 336(e)][/us/pl/104/127/s336/e], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
- __Amendments__ 
-
-    2014—Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79] amended par. (2) generally. Prior to amendment, text read as follows: “Funds made available to carry out the following programs may not be used to carry out the ACES program:
-
-    “(A) The conservation reserve program.
-
-    “(B) The wetlands reserve program.
-
-    “(C) The grassland reserve program.
-
-    “(D) The conservation stewardship program.”
-
  __Effective Date__ 
 
     Enactment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_ch58_schV–A.md) | [Next](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_s3851a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851)
+[Previous](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_ch58_schV–A.md) | [Next](./../../../../..//us/usc/t16/ch58/schVI/m__us_usc_t16_ch58_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851)
 
 ----------
 ----------
@@ -100,8 +96,6 @@
 [/us/stat/122/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1082
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2504
-[/us/stat/128/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F752
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
@@ -122,7 +116,6 @@
 [/us/stat/99/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1516
 [/us/pl/104/127/s336/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fe
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

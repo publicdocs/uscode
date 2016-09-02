@@ -203,39 +203,21 @@
 
         Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Natural”. </sup></sup>  Resources Conservation Service.
 
-    (k) __Mitigation banking__ 
+    (k) __Mitigation banking program__ 
 
-        (1) __Mitigation banking program__ 
+        Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.
 
-            (A) __In general__ 
-
-                Using authorities available to the Secretary, the Secretary shall operate a program or work with third parties to establish mitigation banks to assist persons in complying with the provisions of this section while mitigating any loss of wetland values and functions.
-
-            (B) __Funding__ 
-
-                Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.
-
-        (2) __Applicability__ 
-
-            Subsection (f)(2)(C) shall not apply to this subsection.
-
-        (3) __Policy and criteria__ 
-
-            The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
-
-([Pub. L. 99–198, title XII, § 1222][/us/pl/99/198/s1222], Dec. 23, 1985, [99 Stat. 1508][/us/stat/99/1508]; [Pub. L. 101–624, title XIV, § 1422][/us/pl/101/624/s1422], Nov. 28, 1990, [104 Stat. 3573][/us/stat/104/3573]; [Pub. L. 104–127, title III, § 322][/us/pl/104/127/s322], Apr. 4, 1996, [110 Stat. 987][/us/stat/110/987]; [Pub. L. 110–234, title II, § 2003][/us/pl/110/234/s2003], May 22, 2008, [122 Stat. 1028][/us/stat/122/1028]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756; [Pub. L. 113–79, title II, § 2609][/us/pl/113/79/s2609], Feb. 7, 2014, [128 Stat. 761][/us/stat/128/761].)
+([Pub. L. 99–198, title XII, § 1222][/us/pl/99/198/s1222], Dec. 23, 1985, [99 Stat. 1508][/us/stat/99/1508]; [Pub. L. 101–624, title XIV, § 1422][/us/pl/101/624/s1422], Nov. 28, 1990, [104 Stat. 3573][/us/stat/104/3573]; [Pub. L. 104–127, title III, § 322][/us/pl/104/127/s322], Apr. 4, 1996, [110 Stat. 987][/us/stat/110/987]; [Pub. L. 110–234, title II, § 2003][/us/pl/110/234/s2003], May 22, 2008, [122 Stat. 1028][/us/stat/122/1028]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756.)
 
  __References in Text__ 
 
-    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008] and was subsequently repealed by [Pub. L. 113–79, title II, § 2710(a)][/us/pl/113/79/s2710/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]. The new section 3843 did not relate to appeal procedures.
+    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]. The new section 3843 does not relate to appeal procedures.
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—Subsec. (k). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (k) generally. Prior to amendment, text read as follows: “Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.”
 
     2008—Subsec. (h)(2), (3). [Pub. L. 110–246, § 2003][/us/pl/110/246/s2003], added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
 
@@ -292,18 +274,13 @@
 [/us/stat/122/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1028
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2609
-[/us/stat/128/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F761
 [/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843
 [/us/pl/104/127/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs341
 [/us/stat/110/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1008
-[/us/pl/113/79/s2710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2710%2Fa
-[/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2003
 [/us/pl/104/127/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fa
 [/us/pl/104/127/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fb

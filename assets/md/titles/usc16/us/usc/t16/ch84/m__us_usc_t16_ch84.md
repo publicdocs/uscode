@@ -147,7 +147,7 @@ SUBCHAPTER III—WATERSHED FORESTRY ASSISTANCE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6542" data-uslm-ref="/us/usc/t16/s6542">6542.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Tribal watershed forestry assistance.  </td>
 
   </tr>
 
@@ -292,30 +292,6 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6591" data-uslm-ref="/us/usc/t16/s6591">6591.</a>  </td>
 
     <td> Forest stands inventory and monitoring program to improve detection of and response to environmental threats.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6591a" data-uslm-ref="/us/usc/t16/s6591a">6591a.</a>  </td>
-
-    <td> Designation of treatment areas.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6591b" data-uslm-ref="/us/usc/t16/s6591b">6591b.</a>  </td>
-
-    <td> Administrative review.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6591c" data-uslm-ref="/us/usc/t16/s6591c">6591c.</a>  </td>
-
-    <td> Stewardship end result contracting projects.  </td>
 
   </tr>
 

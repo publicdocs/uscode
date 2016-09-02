@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591c.md) | [Next](./../../../..//us/usc/t16/ch85/m__us_usc_t16_s6601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch85)
+[Previous](./../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591.md) | [Next](./../../../..//us/usc/t16/ch85/m__us_usc_t16_s6601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch85)
 
 ## CHAPTER 85—MARINE TURTLE CONSERVATION
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591c.md) | [Next](./../../../..//us/usc/t16/ch85/m__us_usc_t16_s6601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch85)
+[Previous](./../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591.md) | [Next](./../../../..//us/usc/t16/ch85/m__us_usc_t16_s6601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch85)
 
 ----------
 ----------

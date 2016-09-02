@@ -27,7 +27,7 @@
 
  __Pilot Program of Charges and Fees for Harvest of Forest Botanical Products__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960]; [Pub. L. 113–76, div. G, title IV, § 432][/us/pl/113/76/s432], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345], provided that:
+[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960], provided that:
 
 >     “(a)  __Definition of Forest Botanical Product__  __.—__ 
 
@@ -105,7 +105,7 @@
 
 >         “(1)  __Collection of fees__  __.—__ 
 
->         The Secretary of Agriculture may collect fees under the authority of subsection (c) through fiscal year 2019.
+>         The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2014.
 
 >         “(2)  __Use of special account__  __.—__ 
 
@@ -132,8 +132,6 @@
 [/us/stat/117/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1312
 [/us/pl/111/88/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs420
 [/us/stat/123/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2960
-[/us/pl/113/76/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs432
-[/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/act/1911-03-01/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fs13

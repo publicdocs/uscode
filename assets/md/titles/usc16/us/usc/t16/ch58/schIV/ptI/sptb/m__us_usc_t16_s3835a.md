@@ -13,9 +13,47 @@
 
 [Previous](./../../../../../../..//us/usc/t16/ch58/schIV/ptI/sptb/m__us_usc_t16_s3835.md) | [Next](./../../../../../../..//us/usc/t16/ch58/schIV/ptI/sptc/m__us_usc_t16_ch58_schIV_ptI_sptc.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a)
 
-## § 3835a. Repealed. [Pub. L. 113–79, title II, § 2007][/us/pl/113/79/s2007], Feb. 7, 2014, [128 Stat. 720][/us/stat/128/720]
+## § 3835a. Conversion of land subject to contract to other conserving uses
 
-    Section, [Pub. L. 99–198, title XII, § 1235A][/us/pl/99/198/s1235A], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 251][/us/stat/116/251], related to conversion of land subject to contract to other conserving uses.
+    (a) __Conversion to trees__ 
+
+        (1) __In general__ 
+
+            The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to convert areas of highly erodible cropland that are subject to the contract, and that are devoted to vegetative cover, from that use to hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+
+        (2) __Terms__ 
+
+            (A) __Extension of contract__ 
+
+                With respect to a contract that is modified under this section that provides for the planting of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, if the original term of the contract was less than 15 years, the owner or operator may extend the contract to a term of not to exceed 15 years.
+
+            (B) __Cost share assistance__ 
+
+                The Secretary shall pay 50 percent of the cost of establishing conservation measures and practices authorized under this subsection for which the Secretary determines the cost sharing is appropriate and in the public interest.
+
+    (b) __Conversion to wetland__ 
+
+    The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to restore areas of highly erodible cropland that are devoted to vegetative cover under the contract to wetland if—
+
+        (1) the areas are prior converted wetland;
+
+        (2) the owner or operator of the areas enters into an agreement to provide the Secretary with a long-term or permanent easement under subpart C covering the areas;
+
+        (3) there is a high probability that the prior converted area can be successfully restored to wetland status; and
+
+        (4) the restoration of the areas otherwise meets the requirements of subpart C.
+
+    (c) __Limitation__ 
+
+        The Secretary shall not incur, through a conversion under this section, any additional expense on the acres, including the expense involved in the original establishment of the vegetative cover, that would result in cost share for costs under this section in excess of the costs that would have been subject to cost share for the new practice had that practice been the original practice.
+
+    (d) __Condition of contract__ 
+
+        An owner or operator shall as a condition of entering into a contract under subsection (a) of this section participate in the Forest Stewardship Program established under [section 2103a of this title][/us/usc/t16/s2103a].
+
+([Pub. L. 99–198, title XII, § 1235A][/us/pl/99/198/s1235A], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 251][/us/stat/116/251].)
+
+ __Prior Provisions__ 
 
     Prior sections 3835a and 3836 were omitted in the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
@@ -32,8 +70,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2007
-[/us/stat/128/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F720
+[/us/usc/t16/s2103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103a
 [/us/pl/99/198/s1235A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1235A
 [/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
 [/us/stat/116/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F251

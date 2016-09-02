@@ -129,7 +129,7 @@
 
             If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.
 
-    (i) __Addressing concerns of specialty crop, organic, and precision agriculture producers__ 
+    (i) __Addressing concerns of speciality crop, organic, and precision agriculture producers__ 
 
         (1) __In general__ 
 
@@ -153,7 +153,7 @@
 
                 (ii) program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
 
-([Pub. L. 99–198, title XII, § 1242][/us/pl/99/198/s1242], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 279][/us/stat/116/279]; amended [Pub. L. 110–234, title II, § 2706][/us/pl/110/234/s2706], May 22, 2008, [122 Stat. 1074][/us/stat/122/1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2706, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1802; [Pub. L. 113–79, title II, § 2713(c)][/us/pl/113/79/s2713/c], Feb. 7, 2014, [128 Stat. 772][/us/stat/128/772].)
+([Pub. L. 99–198, title XII, § 1242][/us/pl/99/198/s1242], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 279][/us/stat/116/279]; amended [Pub. L. 110–234, title II, § 2706][/us/pl/110/234/s2706], May 22, 2008, [122 Stat. 1074][/us/stat/122/1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2706, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1802.)
 
  __References in Text__ 
 
@@ -174,8 +174,6 @@
     Another prior section 3842, [Pub. L. 99–198, title XII, § 1242][/us/pl/99/198/s1242], Dec. 23, 1985, [99 Stat. 1515][/us/stat/99/1515], related to use of other agencies, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
-
-    2014—Subsec. (i). [Pub. L. 113–79][/us/pl/113/79] substituted “specialty” for “speciality” in heading.
 
     2008—[Pub. L. 110–246, § 2706][/us/pl/110/246/s2706], amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
 
@@ -200,8 +198,6 @@
 [/us/stat/122/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1074
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2713%2Fc
-[/us/stat/128/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F772
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
@@ -219,7 +215,6 @@
 [/us/pl/99/198/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1242
 [/us/stat/99/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1515
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2706
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

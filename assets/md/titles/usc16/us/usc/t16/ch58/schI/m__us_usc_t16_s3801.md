@@ -17,7 +17,7 @@
 
     (a)
 
-     For purposes of subchapters I through VIII of this chapter:
+     For purposes of subchapters I through V of this chapter:
 
         (1)
 
@@ -197,7 +197,7 @@
 
         (2) lists of such soils and such vegetation.
 
-([Pub. L. 99–198, title XII, § 1201][/us/pl/99/198/s1201], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504]; [Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [100 Stat. 714][/us/stat/100/714]; [Pub. L. 101–624, title XIV, § 1421(a)][/us/pl/101/624/s1421/a], Nov. 28, 1990, [104 Stat. 3572][/us/stat/104/3572]; [Pub. L. 104–127, title III, § 301(a)][/us/pl/104/127/s301/a]–(c), Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], 981; [Pub. L. 110–234, title II, § 2001][/us/pl/110/234/s2001], May 22, 2008, [122 Stat. 1025][/us/stat/122/1025]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753; [Pub. L. 113–79, title II, § 2713(a)][/us/pl/113/79/s2713/a], Feb. 7, 2014, [128 Stat. 772][/us/stat/128/772].)
+([Pub. L. 99–198, title XII, § 1201][/us/pl/99/198/s1201], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504]; [Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [100 Stat. 714][/us/stat/100/714]; [Pub. L. 101–624, title XIV, § 1421(a)][/us/pl/101/624/s1421/a], Nov. 28, 1990, [104 Stat. 3572][/us/stat/104/3572]; [Pub. L. 104–127, title III, § 301(a)][/us/pl/104/127/s301/a]–(c), Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], 981; [Pub. L. 110–234, title II, § 2001][/us/pl/110/234/s2001], May 22, 2008, [122 Stat. 1025][/us/stat/122/1025]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1753.)
 
  __References in Text__ 
 
@@ -212,8 +212,6 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] substituted “VIII” for “V” in introductory provisions.
 
     2008—Subsec. (a)(2) to (27). [Pub. L. 110–246, § 2001][/us/pl/110/246/s2001], added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
 
@@ -334,42 +332,6 @@
  __Termination of Trust Territory of the Pacific Islands__ 
 
     For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
-
- __Temporary Administration of Conservation Programs__ 
-
-[Pub. L. 113–79, title II, § 2712][/us/pl/113/79/s2712], Feb. 7, 2014, [128 Stat. 771][/us/stat/128/771], provided that:
-
->     “(a)  __Applicability__  __.—__ 
-
->     This section is applicable to activities under—
-
->         “(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending [section 3844 of this title][/us/usc/t16/s3844]\];
-
->         “(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[§ 2201 et seq., amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title and enacting provisions set out as a note under [section 3839aa of this title][/us/usc/t16/s3839aa]\];
-
->         “(3) the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 \[enacting sections 3871 to 3871f of this title\]; and
-
->         “(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A \[§ 2001 et seq., amending sections 3831, 3831b, and 3832 to 3835 of this title, repealing [section 3835a of this title][/us/usc/t16/s3835a], and enacting provisions set out as a note under [section 3831 of this title][/us/usc/t16/s3831]\] and into the agricultural conservation easement program under the amendment made by section 2301.
-
->     “(b)  __Interim Administration__  __.—__ 
-
->     Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3865][/us/usc/t16/s3865] et seq.\], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3871][/us/usc/t16/s3871] et seq.\], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary \[of Agriculture\] shall use the regulations in existence as of the day before the date of enactment of this Act \[Feb. 7, 2014\] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle \[subtitle H (§ 2701et seq.) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\], to the extent that the terms and conditions of such regulations are consistent with—
-
->         “(1) the provisions of the agricultural conservation easement program and the regional conservation partnership program; and
-
->         “(2) the amendments to the environmental quality incentives program and the conservation reserve program made by this title.
-
->     “(c)  __Funding__  __.—__ 
-
->     The Secretary may only use funds authorized in this title \[see Tables for classification\] or in the amendments made by this title for the specific programs listed in subsection (b), including any restrictions on the use of those funds, for the purposes identified in paragraphs (1) and (2) of subsection (b).
-
->     “(d)  __Termination of Authority__  __.—__ 
-
->     The authority of the Secretary to carry out subsection (b) shall terminate on the date that is 270 days after the date of enactment of this Act.
-
->     “(e)  __Permanent Administration__  __.—__ 
-
->     Effective beginning on the termination date described in subsection (d), the Secretary shall provide technical assistance, financial assistance, and easement enrollment in accordance with any final regulations that the Secretary considers necessary to carry out this title and the amendments made by this title.”
 
  __Continuation of Programs in Fiscal Year 2008__ 
 
@@ -632,8 +594,6 @@
 [/us/stat/122/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1025
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2713%2Fa
-[/us/stat/128/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F772
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
@@ -645,7 +605,6 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2001
 [/us/pl/104/127/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs301%2Fa
 [/us/pl/104/127/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs301%2Fb
@@ -688,15 +647,6 @@
 [/us/stat/116/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F279
 [/us/usc/t5/s808/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs808%2F2
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/113/79/s2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2712
-[/us/stat/128/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F771
-[/us/usc/t16/s3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3844
-[/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
-[/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/usc/t16/s3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865
-[/us/usc/t16/s3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234/s2903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2903%2Fa
 [/us/stat/122/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1091
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa

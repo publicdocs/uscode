@@ -17,23 +17,21 @@
 
     For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
 
-    (1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2018;
+    (1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2012;
 
-    (2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2018; and
+    (2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2012; and
 
-    (3) to the Department of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of the”. </sup></sup>  Interior, $1,000,000 for each of fiscal years 1991 through 2018.
+    (3) to the Department of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of the”. </sup></sup>  Interior, $1,000,000 for each of fiscal years 1991 through 2012.
 
     Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
-([Pub. L. 96–362, § 10][/us/pl/96/362/s10], Sept. 26, 1980, [94 Stat. 1205][/us/stat/94/1205]; [Pub. L. 98–623, title IV, § 402][/us/pl/98/623/s402], Nov. 8, 1984, [98 Stat. 3407][/us/stat/98/3407]; [Pub. L. 99–198, title XVII, § 1737][/us/pl/99/198/s1737], Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643]; [Pub. L. 101–624, title XVI, § 1614(d)][/us/pl/101/624/s1614/d], Nov. 28, 1990, [104 Stat. 3728][/us/stat/104/3728]; [Pub. L. 105–185, title III, § 301(i)][/us/pl/105/185/s301/i], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7139][/us/pl/107/171/s7139], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7414][/us/pl/110/234/s7414], May 22, 2008, [122 Stat. 1256][/us/stat/122/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7414, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017; [Pub. L. 113–79, title VII, § 7406][/us/pl/113/79/s7406], Feb. 7, 2014, [128 Stat. 898][/us/stat/128/898].)
+([Pub. L. 96–362, § 10][/us/pl/96/362/s10], Sept. 26, 1980, [94 Stat. 1205][/us/stat/94/1205]; [Pub. L. 98–623, title IV, § 402][/us/pl/98/623/s402], Nov. 8, 1984, [98 Stat. 3407][/us/stat/98/3407]; [Pub. L. 99–198, title XVII, § 1737][/us/pl/99/198/s1737], Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643]; [Pub. L. 101–624, title XVI, § 1614(d)][/us/pl/101/624/s1614/d], Nov. 28, 1990, [104 Stat. 3728][/us/stat/104/3728]; [Pub. L. 105–185, title III, § 301(i)][/us/pl/105/185/s301/i], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7139][/us/pl/107/171/s7139], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7414][/us/pl/110/234/s7414], May 22, 2008, [122 Stat. 1256][/us/stat/122/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7414, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—[Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012” wherever appearing.
 
     2008—Pars. (1) to (3). [Pub. L. 110–246, § 7414][/us/pl/110/246/s7414], substituted “2012” for “2007”.
 
@@ -82,13 +80,10 @@
 [/us/stat/122/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1256
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s7406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7406
-[/us/stat/128/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F898
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7414
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

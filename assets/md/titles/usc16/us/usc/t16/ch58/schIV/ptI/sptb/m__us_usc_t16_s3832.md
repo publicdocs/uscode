@@ -61,7 +61,45 @@
 
             unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
 
-        (8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except as provided in subsection (b) or (c) of [section 3833 of this title][/us/usc/t16/s3833];
+        (8)
+
+         not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
+
+            (A)
+
+             managed harvesting (including the managed harvesting of biomass), except that in permitting managed harvesting, the Secretary, in coordination with the State technical committee—
+
+                (i) shall develop appropriate vegetation management requirements; and
+
+                (ii) shall identify periods during which managed harvesting may be conducted;
+
+            (B) harvesting and grazing or other commercial use of the forage on the land that is subject to the contract in response to a drought or other emergency;
+
+            (C)
+
+             routine grazing or prescribed grazing for the control of invasive species, except that in permitting such routine grazing or prescribed grazing, the Secretary, in coordination with the State technical committee—
+
+                (i) shall develop appropriate vegetation management requirements and stocking rates for the land that are suitable for continued routine grazing; and
+
+                (ii)
+
+                 shall establish the frequency during which routine grazing may be conducted, taking into consideration regional differences such as—
+
+                    (I) climate, soil type, and natural resources;
+
+                    (II) the number of years that should be required between routine grazing activities; and
+
+                    (III) how often during a year in which routine grazing is permitted that routine grazing should be allowed to occur; and
+
+            (D)
+
+             the installation of wind turbines, except that in permitting the installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
+
+                (i) the location, size, and other physical characteristics of the land;
+
+                (ii) the extent to which the land contains wildlife and wildlife habitat; and
+
+                (iii) the purposes of the conservation reserve program under this subpart;
 
         (9) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
 
@@ -71,11 +109,17 @@
 
     (b) __Conservation plans__ 
 
-    The plan referred to in subsection (a)(1) shall set forth—
+    The plan referred to in subsection (a)(1) of this section—
 
-        (1) the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
+        (1)
 
-        (2) the commercial use, if any, to be permitted on the land during the term.
+         shall set forth—
+
+            (A) the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
+
+            (B) the commercial use, if any, to be permitted on the land during the term; and
+
+        (2) may provide for the permanent retirement of any existing cropland base and allotment history for the land.
 
     (c) __Foreclosure__ 
 
@@ -93,7 +137,11 @@
 
                 On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-([Pub. L. 99–198, title XII, § 1232][/us/pl/99/198/s1232], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 242][/us/stat/116/242]; amended [Pub. L. 108–7, div. N, title II, § 212][/us/pl/108/7/s212], Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545]; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2107, 2108, May 22, 2008, [122 Stat. 1032][/us/stat/122/1032], 1033; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2107, 2108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1760, 1761; [Pub. L. 113–79, title II, § 2003][/us/pl/113/79/s2003], Feb. 7, 2014, [128 Stat. 715][/us/stat/128/715].)
+    (d) __Rental payment reduction for certain authorized uses of enrolled land__ 
+
+        In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.
+
+([Pub. L. 99–198, title XII, § 1232][/us/pl/99/198/s1232], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 242][/us/stat/116/242]; amended [Pub. L. 108–7, div. N, title II, § 212][/us/pl/108/7/s212], Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545]; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2107, 2108, May 22, 2008, [122 Stat. 1032][/us/stat/122/1032], 1033; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2107, 2108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1760, 1761.)
 
  __Codification__ 
 
@@ -104,20 +152,6 @@
     A prior section 3832, [Pub. L. 99–198, title XII, § 1232][/us/pl/99/198/s1232], Dec. 23, 1985, [99 Stat. 1509][/us/stat/99/1509]; [Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1919][/us/stat/104/1919]; [Pub. L. 101–624, title XIV][/us/pl/101/624], §§ 1433, 1447(a), Nov. 28, 1990, [104 Stat. 3579][/us/stat/104/3579], 3605; [Pub. L. 102–237, title II, § 204(5)][/us/pl/102/237/s204/5], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855]; [Pub. L. 102–552, title V, § 516(a)][/us/pl/102/552/s516/a], Oct. 28, 1992, [106 Stat. 4136][/us/stat/106/4136]; [Pub. L. 104–127, title III, § 332(a)(2)][/us/pl/104/127/s332/a/2], Apr. 4, 1996, [110 Stat. 994][/us/stat/110/994]; [Pub. L. 106–78, title VII][/us/pl/106/78], §§ 763, 769, Oct. 22, 1999, [113 Stat. 1173][/us/stat/113/1173], 1174; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 817, title XI, § 1103\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–58, 1549A–77; [Pub. L. 107–76, title VII][/us/pl/107/76], §§ 758(b), 759(b)(2), Nov. 28, 2001, [115 Stat. 741][/us/stat/115/741], related to duties of owners and operators, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
-
-    2014—Subsec. (a)(8). [Pub. L. 113–79, § 2003(a)][/us/pl/113/79/s2003/a], substituted “except as provided in subsection (b) or (c) of [section 3833 of this title][/us/usc/t16/s3833];” for “except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—” and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
-
-    Subsec. (b). [Pub. L. 113–79, § 2003(b)][/us/pl/113/79/s2003/b], amended subsec. (b) generally. Prior to amendment, text read as follows: “The plan referred to in subsection (a)(1) of this section—
-
-    “(1) shall set forth—
-
-    “(A) the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
-
-    “(B) the commercial use, if any, to be permitted on the land during the term; and
-
-    “(2) may provide for the permanent retirement of any existing cropland base and allotment history for the land.”
-
-    Subsec. (d). [Pub. L. 113–79, § 2003(c)][/us/pl/113/79/s2003/c], struck out subsec. (d). Text read as follows: “In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.”
 
     2008—Subsec. (a)(5) to (7). [Pub. L. 110–246, § 2107][/us/pl/110/246/s2107], added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
@@ -142,7 +176,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3833
 [/us/pl/99/198/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1232
 [/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
 [/us/stat/116/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F242
@@ -152,8 +185,6 @@
 [/us/stat/122/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1032
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2003
-[/us/stat/128/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F715
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -177,10 +208,6 @@
 [/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
 [/us/stat/115/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F741
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2003%2Fa
-[/us/usc/t16/s3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3833
-[/us/pl/113/79/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2003%2Fb
-[/us/pl/113/79/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2003%2Fc
 [/us/pl/110/246/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2107
 [/us/pl/110/246/s2108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2108%2Fa
 [/us/pl/110/246/s2107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2107%2F1

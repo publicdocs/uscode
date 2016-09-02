@@ -97,13 +97,11 @@
 
             (D) $60,000,000 for fiscal year 2006;
 
-            (E) $65,000,000 for fiscal year 2007;
+            (E) $65,000,000 for fiscal year 2007; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
 
-            (F) $0 for fiscal year 2008;
+            (F) $0 for fiscal year 2008. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be “; and” </sup></sup> 
 
-            (G) $100,000,000 for fiscal year 2009, to be available until expended; and
-
-            (H) $250,000,000 for fiscal year 2014, to remain available until expended.
+            (G) $100,000,000 for fiscal year 2009, to be available until expended.
 
         (2) __Authorization of appropriations__ 
 
@@ -117,7 +115,7 @@
 
             (D) $75,000,000 for fiscal year 2006; and
 
-            (E) $85,000,000 for each of fiscal years 2008 through 2018.
+            (E) $85,000,000 for each of fiscal years 2008 through 2012.
 
     (i) __Assessment of rehabilitation needs__ 
 
@@ -133,7 +131,7 @@
 
             Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-([Aug. 4, 1954, ch. 656, § 14][/us/act/1954-08-04/ch656/s14], as added [Pub. L. 106–472, title III, § 313][/us/pl/106/472/s313], Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077]; amended [Pub. L. 107–171, title II, § 2505][/us/pl/107/171/s2505], May 13, 2002, [116 Stat. 274][/us/stat/116/274]; [Pub. L. 110–234, title II, § 2803][/us/pl/110/234/s2803], May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2803, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814; [Pub. L. 113–79, title II, § 2505][/us/pl/113/79/s2505], Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
+([Aug. 4, 1954, ch. 656, § 14][/us/act/1954-08-04/ch656/s14], as added [Pub. L. 106–472, title III, § 313][/us/pl/106/472/s313], Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077]; amended [Pub. L. 107–171, title II, § 2505][/us/pl/107/171/s2505], May 13, 2002, [116 Stat. 274][/us/stat/116/274]; [Pub. L. 110–234, title II, § 2803][/us/pl/110/234/s2803], May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2803, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814.)
 
  __References in Text__ 
 
@@ -148,10 +146,6 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
-
-    2014—Subsec. (h)(1)(H). [Pub. L. 113–79, § 2505(a)][/us/pl/113/79/s2505/a], added subpar. (H).
-
-    Subsec. (h)(2)(E). [Pub. L. 113–79, § 2505(b)][/us/pl/113/79/s2505/b], substituted “2018” for “2012”.
 
     2008—Subsec. (h)(1)(G). [Pub. L. 110–246, § 2803(a)][/us/pl/110/246/s2803/a], added subpar. (G).
 
@@ -194,8 +188,6 @@
 [/us/stat/122/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1086
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505
-[/us/stat/128/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F752
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/act/1944-12-22/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch665
 [/us/stat/58/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F905
@@ -207,8 +199,6 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s2505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505%2Fa
-[/us/pl/113/79/s2505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505%2Fb
 [/us/pl/110/246/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2803%2Fa
 [/us/pl/110/246/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2803%2Fb
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

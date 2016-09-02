@@ -309,7 +309,7 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
 > “SEC. 1265. __RURAL TREE PLANTING AND FOREST MANAGEMENT PROGRAM.__ 
 
->     “The Secretary of Agriculture is authorized to establish a rural tree planting and forest management program as a special component of the forest stewardship program and the stewardship incentive program established under sections 5 and 6 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2102][/us/usc/t16/s2102]) \[[16 U.S.C. 2103a][/us/usc/t16/s2103a], former [16 U.S.C. 2103b][/us/usc/t16/s2103b]\] (as amended by subtitle A). Such program shall terminate on December 31, 2001.
+>     “The Secretary of Agriculture is authorized to establish a rural tree planting and forest management program as a special component of the forest stewardship program and the stewardship incentive program established under sections 5 and 6 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2102][/us/usc/t16/s2102]) \[[16 U.S.C. 2103a][/us/usc/t16/s2103a], 2103b\] (as amended by subtitle A). Such program shall terminate on December 31, 2001.
 
 > “SEC. 1266. __COMMUNITY TREE PLANTING AND IMPROVEMENT PROGRAM.__ 
 
@@ -384,7 +384,6 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t16/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2102
 [/us/usc/t16/s2103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103a
-[/us/usc/t16/s2103b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103b
 [/us/usc/t16/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2105
 [/us/pl/99/198/s1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1256
 [/us/pl/101/624/s1441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1441%2Fa

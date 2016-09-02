@@ -23,11 +23,11 @@
 
     In evaluating applications under this part, the Secretary shall prioritize applications—
 
-        (1) based on their overall level of cost-effectiveness to ensure that the conservation practices and approaches proposed are the most efficient means of achieving the anticipated conservation benefits of the project;
+        (1) based on their overall level of cost-effectiveness to ensure that the conservation practices and approaches proposed are the most efficient means of achieving the anticipated environmental benefits of the project;
 
         (2) based on how effectively and comprehensively the project addresses the designated resource concern or resource concerns;
 
-        (3) that best fulfill the purposes of the program; and
+        (3) that best fulfill the purpose of the environmental quality incentives program specified in [section 3839aa(1) of this title][/us/usc/t16/s3839aa/1]; and
 
         (4) that improve conservation practices or systems in place on the operation at the time the contract offer is accepted or that will complete a conservation system.
 
@@ -35,7 +35,7 @@
 
         To the greatest extent practicable, the Secretary shall group applications of similar crop or livestock operations for evaluation purposes or otherwise evaluate applications relative to other applications for similar farming operations.
 
-([Pub. L. 99–198, title XII, § 1240C][/us/pl/99/198/s1240C], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II, § 2504][/us/pl/110/234/s2504], May 22, 2008, [122 Stat. 1062][/us/stat/122/1062]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1790; [Pub. L. 113–79, title II, § 2204][/us/pl/113/79/s2204], Feb. 7, 2014, [128 Stat. 730][/us/stat/128/730].)
+([Pub. L. 99–198, title XII, § 1240C][/us/pl/99/198/s1240C], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II, § 2504][/us/pl/110/234/s2504], May 22, 2008, [122 Stat. 1062][/us/stat/122/1062]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2504, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1790.)
 
  __Codification__ 
 
@@ -46,10 +46,6 @@
     A prior section 3839aa–3, [Pub. L. 99–198, title XII, § 1240C][/us/pl/99/198/s1240C], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 1000][/us/stat/110/1000], related to evaluation of offers and payments, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
-
-    2014—Subsec. (b)(1). [Pub. L. 113–79, § 2204(1)][/us/pl/113/79/s2204/1], substituted “conservation” for “environmental” before “benefits”.
-
-    Subsec. (b)(3). [Pub. L. 113–79, § 2204(2)][/us/pl/113/79/s2204/2], substituted “purposes of the program” for “purpose of the environmental quality incentives program specified in [section 3839aa(1) of this title][/us/usc/t16/s3839aa/1]” before semicolon.
 
     2008—[Pub. L. 110–246, § 2504][/us/pl/110/246/s2504], amended section generally. Prior to amendment, text read as follows: “In evaluating applications for cost-share payments and incentive payments, the Secretary shall accord a higher priority to assistance and payments that—
 
@@ -68,6 +64,7 @@
 ----------
 ----------
 
+[/us/usc/t16/s3839aa/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%2F1
 [/us/pl/99/198/s1240C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240C
 [/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
 [/us/stat/116/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F256
@@ -75,8 +72,6 @@
 [/us/stat/122/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1062
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2204
-[/us/stat/128/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F730
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -85,9 +80,6 @@
 [/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
 [/us/stat/110/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1000
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2204%2F1
-[/us/pl/113/79/s2204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2204%2F2
-[/us/usc/t16/s3839aa/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%2F1
 [/us/pl/110/246/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2504
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

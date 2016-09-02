@@ -179,10 +179,6 @@
 
  __Everglades Ecosystem Restoration__ 
 
-[Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 295][/us/stat/128/295], provided in part: 
-
-> “That in addition, the National Park Service may accept and use other Federal or non-Federal funds to implement the Tamiami Trail project, and may enter into a cooperative agreement or other agreements with the State of Florida to transfer funds to the State to plan and construct the Tamiami Trail project: Provided further, That a contract for the Tamiami Trail project may not be awarded until sufficient Federal funds and written commitments from non-Federal entities are available to cover the total estimated cost of the contract: Provided further, That because the Tamiami Trail project provides significant environmental benefits for Everglades National Park, the requirements of [49 U.S.C. 303][/us/usc/t49/s303] are deemed satisfied with respect to such project and no additional documentation shall be required under such section.”
-
 [Pub. L. 112–74, div. E, title I, § 107][/us/pl/112/74/s107], Dec. 23, 2011, [125 Stat. 1008][/us/stat/125/1008], provided that: 
 
 > “This \[fiscal year 2012\] and any subsequent fiscal year, the National Park Service is authorized to implement modifications to the Tamiami Trail as described in, and in accordance with, the preferred alternative identified in the final environmental impact statement noticed in the Federal Register on December 14, 2010, (75 Fed. Reg. 77896), relating to restoration efforts of the Everglades ecosystem.”
@@ -197,9 +193,6 @@
 [/us/usc/t16/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410
 [/us/pl/85/482/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F482%2Fs1
 [/us/stat/72/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F280
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F295
-[/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/pl/112/74/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs107
 [/us/stat/125/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1008
 
