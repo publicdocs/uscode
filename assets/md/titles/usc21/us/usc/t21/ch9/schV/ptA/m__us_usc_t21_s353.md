@@ -139,27 +139,159 @@
 
             (F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
-    (e) __Wholesale distributors; guidelines for licensing; definitions__ 
+        (4) In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.
 
-        (1)
+    (e) __Licensing and reporting requirements for wholesale distributors; fees; definitions__ 
 
-            (A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
+        (1)  __Requirement__  __.—__ 
 
-            (B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
+        Subject to [section 360eee–2 of this title][/us/usc/t21/s360eee–2]:
 
-        (2)
+            (A)  __In general__  __.—__ 
 
-            (A) No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
+            No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
 
-            (B) The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
+                (i)
 
-        (3)
+                    (I) is licensed by the State from which the drug is distributed; or
 
-         For the purposes of this subsection and subsection (d) of this section—
+                    (II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
 
-            (A) the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products, and
+                (ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
 
-            (B) the term “wholesale distribution” means distribution of drugs subject to subsection (b) of this section to other than the consumer or patient but does not include intracompany sales and does not include distributions of drugs described in subsection (c)(3)(B) of this section.
+            (B)  __Standards__  __.—__ 
+
+            Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under [section 360eee–2 of this title][/us/usc/t21/s360eee–2].
+
+        (2) __Reporting and database.—__ 
+
+            (A)  __Reporting__  __.—__ 
+
+            Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—
+
+                (i)
+
+                 report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+
+                    (I) each State by which the person is licensed and the appropriate identification number of each such license; and
+
+                    (II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
+
+                (ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
+
+            (B)  __Database__  __.—__ 
+
+            Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
+
+                (i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
+
+                (ii) be available to the public on the Internet Web site of the Food and Drug Administration; and
+
+                (iii) be regularly updated on a schedule determined by the Secretary.
+
+            (C)  __Coordination__  __.—__ 
+
+            The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
+
+            (D)  __Confidentiality__  __.—__ 
+
+            Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] or [section 1905 of title 18][/us/usc/t18/s1905].
+
+        (3) __Costs.—__ 
+
+            (A)  __Authorized fees of secretary__  __.—__ 
+
+            If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+
+            (B)  __State licensing fees__  __.—__ 
+
+            Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
+
+        (4)
+
+         For the purposes of this subsection and subsection (d), the term “wholesale distribution” means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+
+            (A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
+
+            (B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
+
+            (C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to [section 247d of title 42][/us/usc/t42/s247d], except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+
+            (D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
+
+            (E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
+
+            (F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+
+            (G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+
+            (H) the distribution of a drug by the manufacturer of such drug;
+
+            (I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
+
+            (J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
+
+            (K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with [section 360eee–1(e) of this title][/us/usc/t21/s360eee–1/e];
+
+            (L) salable drug returns when conducted by a dispenser;
+
+            (M)
+
+             the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a “medical convenience kit”) if—
+
+                (i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with [section 360(b)(2) of this title][/us/usc/t21/s360/b/2];
+
+                (ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\];
+
+                (iii)
+
+                 in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+
+                    (I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+                    (II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+                (iv)
+
+                 in the case of a medical convenience kit that includes a product, the product is—
+
+                    (I) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+                    (II) a product intended to maintain the equilibrium of water and minerals in the body;
+
+                    (III) a product intended for irrigation or reconstitution;
+
+                    (IV) an anesthetic;
+
+                    (V) an anticoagulant;
+
+                    (VI) a vasopressor; or
+
+                    (VII) a sympathomimetic;
+
+            (N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+
+            (O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+
+            (P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+
+            (Q) the distribution of medical gas, as defined in [section 360ddd of this title][/us/usc/t21/s360ddd];
+
+            (R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
+
+            (S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in [section 360eee(16)(B) of this title][/us/usc/t21/s360eee/16/B] and registered under [section 360 of this title][/us/usc/t21/s360] for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
+
+        (5)  __Third-party logistics providers__  __.—__ 
+
+        Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under [section 360eee(22) of this title][/us/usc/t21/s360eee/22] shall obtain a license as a third-party logistics provider as described in [section 360eee–3(a) of this title][/us/usc/t21/s360eee–3/a] and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+
+        (6)  __Affiliate__  __.—__ 
+
+        For purposes of this subsection, the term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+            (A) one business entity controls, or has the power to control, the other business entity; or
+
+            (B) a third party controls, or has the power to control, both of the business entities.
 
     (f) __Veterinary prescription drugs__ 
 
@@ -277,135 +409,9 @@
 
 ([June 25, 1938, ch. 675, § 503][/us/act/1938-06-25/ch675/s503], [52 Stat. 1051][/us/stat/52/1051]; [Oct. 26, 1951, ch. 578, § 1][/us/act/1951-10-26/ch578/s1], [65 Stat. 648][/us/stat/65/648]; [Pub. L. 87–781, title I, § 104(e)(2)][/us/pl/87/781/s104/e/2], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 91–601, § 6(e)][/us/pl/91/601/s6/e], formerly § 7(e), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 100–293][/us/pl/100/293], §§ 4–6, Apr. 22, 1988, [102 Stat. 96–98][/us/stat/102/96-98]; [Pub. L. 100–670, title I, § 105][/us/pl/100/670/s105], Nov. 16, 1988, [102 Stat. 3983][/us/stat/102/3983]; [Pub. L. 101–629, § 16(a)][/us/pl/101/629/s16/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 102–108, § 2(d)][/us/pl/102/108/s2/d], Aug. 17, 1991, [105 Stat. 550][/us/stat/105/550]; [Pub. L. 102–300, § 6(d)][/us/pl/102/300/s6/d], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–353][/us/pl/102/353], §§ 2(a)–(c), 4, Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941], 942; [Pub. L. 104–250, § 5(a)][/us/pl/104/250/s5/a], Oct. 9, 1996, [110 Stat. 3155][/us/stat/110/3155]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 123(e), 126(a), (c)(1), (2), Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324], 2327, 2328; [Pub. L. 107–250, title II, § 204][/us/pl/107/250/s204], Oct. 26, 2002, [116 Stat. 1611][/us/stat/116/1611]; [Pub. L. 108–282, title I, § 102(b)(5)(F)][/us/pl/108/282/s102/b/5/F], Aug. 2, 2004, [118 Stat. 903][/us/stat/118/903]; [Pub. L. 113–54, title II, § 204(a)(1)][/us/pl/113/54/s204/a/1]–(4), (b), Nov. 27, 2013, [127 Stat. 630–635][/us/stat/127/630-635].)
 
- __Amendment of Subsections (d) and (e)__ 
-
-[Pub. L. 113–54, title II, § 204(a)(1)][/us/pl/113/54/s204/a/1]–(4), (b), (c), Nov. 27, 2013, [127 Stat. 630–636][/us/stat/127/630-636], provided that, effective Jan. 1, 2015, this section is amended as follows:
-
-    (1) in subsection (d), by adding at the end the following:
-
-    (4) In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.; and
-
-    (2) in subsection (e), by striking paragraphs (1) to (3) and adding the following:
-
-    (1) Requirement.—Subject to [section 360eee–2 of this title][/us/usc/t21/s360eee–2]:
-
-    (A) In general.—No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
-
-    (i)(I) is licensed by the State from which the drug is distributed; or
-
-    (II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
-
-    (ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
-
-    (B) Standards.—Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under [section 360eee–2 of this title][/us/usc/t21/s360eee–2].
-
-    (2) Reporting and database.—
-
-    (A) Reporting.—Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—
-
-    (i) report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
-
-    (I) each State by which the person is licensed and the appropriate identification number of each such license; and
-
-    (II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
-
-    (ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
-
-    (B) Database.—Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
-
-    (i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
-
-    (ii) be available to the public on the Internet Web site of the Food and Drug Administration; and
-
-    (iii) be regularly updated on a schedule determined by the Secretary.
-
-    (C) Coordination.—The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
-
-    (D) Confidentiality.—Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] or [section 1905 of title 18][/us/usc/t18/s1905].
-
-    (3) Costs.—
-
-    (A) Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
-
-    (B) State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
-
-    (4) For the purposes of this subsection and subsection (d), the term “wholesale distribution” means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
-
-    (A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
-
-    (B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
-
-    (C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to [section 247d of title 42][/us/usc/t42/s247d], except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
-
-    (D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
-
-    (E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
-
-    (F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
-
-    (G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
-
-    (H) the distribution of a drug by the manufacturer of such drug;
-
-    (I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
-
-    (J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
-
-    (K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with [section 360eee–1(e) of this title][/us/usc/t21/s360eee–1/e];
-
-    (L) salable drug returns when conducted by a dispenser;
-
-    (M) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a “medical convenience kit”) if—
-
-    (i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with [section 360(b)(2) of this title][/us/usc/t21/s360/b/2];
-
-    (ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970;
-
-    (iii) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
-
-    (I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
-
-    (II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
-
-    (iv) in the case of a medical convenience kit that includes a product, the product is—
-
-    (I) an intravenous solution intended for the replenishment of fluids and electrolytes;
-
-    (II) a product intended to maintain the equilibrium of water and minerals in the body;
-
-    (III) a product intended for irrigation or reconstitution;
-
-    (IV) an anesthetic;
-
-    (V) an anticoagulant;
-
-    (VI) a vasopressor; or
-
-    (VII) a sympathomimetic;
-
-    (N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
-
-    (O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
-
-    (P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
-
-    (Q) the distribution of medical gas, as defined in [section 360ddd of this title][/us/usc/t21/s360ddd];
-
-    (R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
-
-    (S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in [section 360eee(16)(B) of this title][/us/usc/t21/s360eee/16/B] and registered under [section 360 of this title][/us/usc/t21/s360] for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
-
-    (5) Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under [section 360eee(22) of this title][/us/usc/t21/s360eee/22] shall obtain a license as a third-party logistics provider as described in [section 360eee–3(a) of this title][/us/usc/t21/s360eee–3/a] and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
-
-    (6) Affiliate.—For purposes of this subsection, the term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
-
-    (A) one business entity controls, or has the power to control, the other business entity; or
-
-    (B) a third party controls, or has the power to control, both of the business entities.
-
-    See 2013 Amendment notes below.
-
  __References in Text__ 
+
+    The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e)(4)(M)(ii), is [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236], which is classified principally to chapter 13 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
     [Section 357 of this title][/us/usc/t21/s357], referred to in subsec. (g)(5)(C)(i), was repealed by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
@@ -609,6 +615,19 @@
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t26/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4761
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
+[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
+[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
+[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
+[/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
+[/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
+[/us/usc/t21/s360eee–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931%2Fe
+[/us/usc/t21/s360/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fb%2F2
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s360ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ddd
+[/us/usc/t21/s360eee/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F16%2FB
+[/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
+[/us/usc/t21/s360eee/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F22
+[/us/usc/t21/s360eee–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933%2Fa
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
@@ -647,20 +666,9 @@
 [/us/stat/118/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F903
 [/us/pl/113/54/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F1
 [/us/stat/127/630-635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F630-635
-[/us/pl/113/54/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F1
-[/us/stat/127/630-636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F630-636
-[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
-[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
-[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
-[/us/usc/t21/s360eee–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931%2Fe
-[/us/usc/t21/s360/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fb%2F2
-[/us/usc/t21/s360ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ddd
-[/us/usc/t21/s360eee/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F16%2FB
-[/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/usc/t21/s360eee/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F22
-[/us/usc/t21/s360eee–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933%2Fa
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/pl/105/115/s125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F1
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325

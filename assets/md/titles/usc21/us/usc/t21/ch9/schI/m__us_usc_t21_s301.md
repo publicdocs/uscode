@@ -51,6 +51,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–233, § 1][/us/pl/113/233/s1], Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127], provided that: 
+
+> “This Act \[amending [section 360n of this title][/us/usc/t21/s360n]\] may be cited as the ‘Adding Ebola to the FDA Priority Review Voucher Program Act’.”
+
 [Pub. L. 113–195, § 1][/us/pl/113/195/s1], Nov. 26, 2014, [128 Stat. 2035][/us/stat/128/2035], provided that: 
 
 > “This Act \[enacting part I of subchapter V of this chapter and provisions set out as a note under [section 360fff of this title][/us/usc/t21/s360fff]\] may be cited as the ‘Sunscreen Innovation Act’.”
@@ -447,6 +451,9 @@
 [/us/usc/t21/s321b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321b
 [/us/stat/41/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F271
 [/us/usc/t21/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372a
+[/us/pl/113/233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs1
+[/us/stat/128/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2127
+[/us/usc/t21/s360n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360n
 [/us/pl/113/195/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs1
 [/us/stat/128/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2035
 [/us/usc/t21/s360fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff

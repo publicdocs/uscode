@@ -33,7 +33,7 @@
 
             (C) knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase, or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of [section 353(c)(2) of this title][/us/usc/t21/s353/c/2], or
 
-            (D) knowingly distributing drugs in violation of [section 353(e)(2)(A) of this title][/us/usc/t21/s353/e/2/A],
+            (D) knowingly distributing drugs in violation of [section 353(e)(1) of this title][/us/usc/t21/s353/e/1],
 
             shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
 
@@ -234,10 +234,6 @@
             the Attorney General of the United States shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
 ([June 25, 1938, ch. 675, § 303][/us/act/1938-06-25/ch675/s303], [52 Stat. 1043][/us/stat/52/1043]; [Oct. 26, 1951, ch. 578, § 2][/us/act/1951-10-26/ch578/s2], [65 Stat. 649][/us/stat/65/649]; [Pub. L. 86–618, title I, § 105(b)][/us/pl/86/618/s105/b], July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 89–74][/us/pl/89/74], §§ 7, 9(d), July 15, 1965, [79 Stat. 233][/us/stat/79/233], 235; [Pub. L. 90–639, § 3][/us/pl/90/639/s3], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(b)][/us/pl/91/513/s701/b], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 94–278, title V, § 502(a)(2)(B)][/us/pl/94/278/s502/a/2/B], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 100–293, § 7(b)][/us/pl/100/293/s7/b], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 100–690, title II, § 2403][/us/pl/100/690/s2403], Nov. 18, 1988, [102 Stat. 4230][/us/stat/102/4230]; [Pub. L. 101–629, § 17(a)][/us/pl/101/629/s17/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 101–647, title XIX, § 1904][/us/pl/101/647/s1904], Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853]; [Pub. L. 102–353, § 3][/us/pl/102/353/s3], Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941]; [Pub. L. 103–80, § 3(e)][/us/pl/103/80/s3/e], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–322, title XXXIII, § 330015][/us/pl/103/322/s330015], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 104–170, title IV, § 407][/us/pl/104/170/s407], Aug. 3, 1996, [110 Stat. 1535][/us/stat/110/1535]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–40; [Pub. L. 107–250, title II, § 201(c)][/us/pl/107/250/s201/c], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–173, title XI, § 1121(b)(2)][/us/pl/108/173/s1121/b/2], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 110–85, title II, § 226(b)][/us/pl/110/85/s226/b], title VIII, § 801(b)(2), title IX, §§ 901(d)(4), 902(b), Sept. 27, 2007, [121 Stat. 854][/us/stat/121/854], 920, 940, 943; [Pub. L. 111–31, div. A, title I, § 103(c)][/us/pl/111/31/s103/c], June 22, 2009, [123 Stat. 1835][/us/stat/123/1835]; [Pub. L. 111–353, title II, § 206(c)][/us/pl/111/353/s206/c], Jan. 4, 2011, [124 Stat. 3943][/us/stat/124/3943]; [Pub. L. 112–144, title VII, § 716][/us/pl/112/144/s716], July 9, 2012, [126 Stat. 1075][/us/stat/126/1075]; [Pub. L. 113–54, title II, § 207(a)][/us/pl/113/54/s207/a], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640].)
-
- __Amendment of Subsection (b)(1)(D)__ 
-
-    [Pub. L. 113–54, title II, § 207][/us/pl/113/54/s207], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640], provided that, effective Jan. 1, 2015, subsection (b)(1)(D) of this section is amended by striking “353(e)(2)(A)” and inserting “353(e)(1)”. See 2013 Amendment note below.
 
  __References in Text__ 
 
@@ -534,7 +530,7 @@
 [/us/usc/t21/s381/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fd%2F1
 [/us/usc/t21/s353/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fc%2F1
 [/us/usc/t21/s353/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fc%2F2
-[/us/usc/t21/s353/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe%2F2%2FA
+[/us/usc/t21/s353/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe%2F1
 [/us/usc/t21/s331/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Ft
 [/us/usc/t21/s353/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fc%2F1
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
@@ -619,8 +615,6 @@
 [/us/pl/112/144/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs716
 [/us/stat/126/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1075
 [/us/pl/113/54/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs207%2Fa
-[/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
-[/us/pl/113/54/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs207
 [/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

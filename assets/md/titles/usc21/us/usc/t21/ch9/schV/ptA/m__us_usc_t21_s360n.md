@@ -63,7 +63,9 @@
 
             (P) Yaws.
 
-            (Q) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
+            (Q) Filoviruses.
+
+            (R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
         (4) __Tropical disease product application__ 
 
@@ -89,7 +91,7 @@
 
         (2) __Transferability__ 
 
-            The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under [section 355(b)(1) of this title][/us/usc/t21/s355/b/1] or [section 262 of title 42][/us/usc/t42/s262] will be submitted after the date of the approval of the tropical disease product application.
+            The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under [section 355(b)(1) of this title][/us/usc/t21/s355/b/1] or [section 262 of title 42][/us/usc/t42/s262] will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
 
         (3) __Limitation__ 
 
@@ -103,7 +105,7 @@
 
         (4) __Notification__ 
 
-            The sponsor of a human drug application shall notify the Secretary not later than 365 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+            The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
 
     (c) __Priority review user fee__ 
 
@@ -141,11 +143,19 @@
 
             (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-([June 25, 1938, ch. 675, § 524][/us/act/1938-06-25/ch675/s524], as added [Pub. L. 110–85, title XI, § 1102][/us/pl/110/85/s1102], Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972].)
+([June 25, 1938, ch. 675, § 524][/us/act/1938-06-25/ch675/s524], as added [Pub. L. 110–85, title XI, § 1102][/us/pl/110/85/s1102], Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972]; amended [Pub. L. 113–233, § 2][/us/pl/113/233/s2], Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127].)
 
  __References in Text__ 
 
     Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is [section 101(c) of Pub. L. 110–85][/us/pl/110/85/s101/c], which is set out as a note under [section 379g of this title][/us/usc/t21/s379g].
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(3)(Q), (R). [Pub. L. 113–233, § 2(1)][/us/pl/113/233/s2/1], added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”.
+
+    Subsec. (b)(2). [Pub. L. 113–233, § 2(2)(A)][/us/pl/113/233/s2/2/A], inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.”
+
+    Subsec. (b)(4). [Pub. L. 113–233, § 2(2)(B)][/us/pl/113/233/s2/2/B], substituted “90 days” for “365 days”.
 
 ----------
 
@@ -167,7 +177,12 @@
 [/us/act/1938-06-25/ch675/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs524
 [/us/pl/110/85/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1102
 [/us/stat/121/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F972
+[/us/pl/113/233/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2
+[/us/stat/128/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2127
 [/us/pl/110/85/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs101%2Fc
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
+[/us/pl/113/233/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F1
+[/us/pl/113/233/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F2%2FA
+[/us/pl/113/233/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F2%2FB
 
 
