@@ -103,7 +103,7 @@
 
         (1)
 
-         To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use. The application shall contain—
+         To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i)). The application shall contain—
 
             (A) the identity of the approved product and the Federal statute under which regulatory review occurred;
 
@@ -311,27 +311,63 @@
 
     (h) The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
-(Added [Pub. L. 98–417, title II, § 201(a)][/us/pl/98/417/s201/a], Sept. 24, 1984, [98 Stat. 1598][/us/stat/98/1598]; amended [Pub. L. 100–670, title II, § 201(a)][/us/pl/100/670/s201/a]–(h), Nov. 16, 1988, [102 Stat. 3984–3987][/us/stat/102/3984-3987]; [Pub. L. 103–179][/us/pl/103/179], §§ 5, 6, Dec. 3, 1993, [107 Stat. 2040][/us/stat/107/2040], 2042; [Pub. L. 103–465, title V, § 532(c)(1)][/us/pl/103/465/s532/c/1], Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 105–115, title I, § 125(b)(2)(P)][/us/pl/105/115/s125/b/2/P], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4404, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(9)][/us/pl/107/273/s13206/a/9], (b)(1)(B), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], 1906; [Pub. L. 112–29, § 37(a)][/us/pl/112/29/s37/a], Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341].)
+    (i)
+
+        (1)
+
+         For purposes of this section, if the Secretary of Health and Human Services provides notice to the sponsor of an application or request for approval, conditional approval, or indexing of a drug product for which the Secretary intends to recommend controls under the Controlled Substances Act, beginning on the covered date, the drug product shall be considered to—
+
+            (A) have been approved or indexed under the relevant provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act; and
+
+            (B) have permission for commercial marketing or use.
+
+        (2)
+
+         In this subsection, the term “covered date” means the later of—
+
+            (A)
+
+             the date an application is approved—
+
+                (i) under section 351(a)(2)(C) of the Public Health Service Act; or
+
+                (ii) under section 505(b) or 512(c) of the Federal Food, Drug, and Cosmetic Act;
+
+            (B) the date an application is conditionally approved under section 571(b) of the Federal Food, Drug, and Cosmetic Act;
+
+            (C) the date a request for indexing is granted under section 572(d) of the Federal Food, Drug, and Cosmetic Act; or
+
+            (D) the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
+
+(Added [Pub. L. 98–417, title II, § 201(a)][/us/pl/98/417/s201/a], Sept. 24, 1984, [98 Stat. 1598][/us/stat/98/1598]; amended [Pub. L. 100–670, title II, § 201(a)][/us/pl/100/670/s201/a]–(h), Nov. 16, 1988, [102 Stat. 3984–3987][/us/stat/102/3984-3987]; [Pub. L. 103–179][/us/pl/103/179], §§ 5, 6, Dec. 3, 1993, [107 Stat. 2040][/us/stat/107/2040], 2042; [Pub. L. 103–465, title V, § 532(c)(1)][/us/pl/103/465/s532/c/1], Dec. 8, 1994, [108 Stat. 4987][/us/stat/108/4987]; [Pub. L. 105–115, title I, § 125(b)(2)(P)][/us/pl/105/115/s125/b/2/P], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4404, 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(9)][/us/pl/107/273/s13206/a/9], (b)(1)(B), Nov. 2, 2002, [116 Stat. 1904][/us/stat/116/1904], 1906; [Pub. L. 112–29, § 37(a)][/us/pl/112/29/s37/a], Sept. 16, 2011, [125 Stat. 341][/us/stat/125/341]; [Pub. L. 114–89, § 2(c)][/us/pl/114/89/s2/c], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
 
  __References in Text__ 
 
     The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of [act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], [37 Stat. 828][/us/stat/37/828], as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21][/us/usc/t21/s151] and Tables.
 
-    The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
+    The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), (g)(2)(B), (3)(B)(ii), (6)(C), and (i)(1)(A), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i), (f)(2)(A), and (i)(1)(A), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
-    Sections 503, 505, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B), (3)(B), are classified, respectively, to sections 353, 355, 360b, and 360e of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21][/us/usc/t21/s357], prior to repeal by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+    Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21][/us/usc/t21/s357], prior to repeal by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
     Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to [section 321 of Title 21][/us/usc/t21/s321], was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
 
-    Section 351 of the Public Health Service Act, referred to in subsecs. (f)(4)(A) and (g)(1)(B)(i), (ii), is classified to [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare.
+    Section 351 of the Public Health Service Act, referred to in subsecs. (f)(4)(A), (g)(1)(B)(i), (ii), and (i)(2)(A)(i), is classified to [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare.
 
     The date of enactment of the Generic Animal Drug and Patent Term Restoration Act, referred to in subsec. (f)(8), is the date of enactment of [Pub. L. 100–670][/us/pl/100/670], which was approved Nov. 16, 1988.
 
     The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of [Pub. L. 98–417][/us/pl/98/417], which was approved Sept. 24, 1984.
 
+    The Controlled Substances Act, referred to in subsec. (i)(1), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801] and Tables.
+
+    Section 201 of the Controlled Substances Act, referred to in subsec. (i)(2)(D), is classified to [section 811 of Title 21][/us/usc/t21/s811], Food and Drugs.
+
  __Amendments__ 
+
+    2015—Subsec. (d)(1). [Pub. L. 114–89, § 2(c)(1)][/us/pl/114/89/s2/c/1], in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
+
+    Subsec. (i). [Pub. L. 114–89, § 2(c)(2)][/us/pl/114/89/s2/c/2], added subsec. (i).
 
     2011—Subsec. (d)(1). [Pub. L. 112–29][/us/pl/112/29] inserted concluding provisions.
 
@@ -460,6 +496,8 @@
 [/us/stat/116/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1904
 [/us/pl/112/29/s37/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs37%2Fa
 [/us/stat/125/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F341
+[/us/pl/114/89/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc
+[/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
 [/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F828
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
@@ -476,6 +514,12 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/pl/100/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
+[/us/pl/114/89/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc%2F1
+[/us/pl/114/89/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fc%2F2
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/107/273/s13206/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F9%2FA
 [/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
