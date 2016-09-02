@@ -225,7 +225,7 @@
 
     2013—Subsec. (c)(4). [Pub. L. 113–4, § 806(b)(2)][/us/pl/113/4/s806/b/2], which, in concluding provisions, directed the substitution of “Secretary of Homeland Security” for “Attorney General” in the first sentence and “Secretary” for “Attorney General” in the second to fourth sentences, could not be executed because of the prior amendment by [Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B]. See 2011 Amendment note below.
 
-    [Pub. L. 113–4, § 806(b)(1)][/us/pl/113/4/s806/b/1], which directed the substitution of “The Secretary of Homeland Security, in the Secretary’s” for “The Attorney General, in the Attorney General’s” in introductory provisions, was executed by making the substitution for “The Secretary of Homeland Security, in the Attorney General’s”, to reflect the probable intent of Congress and the prior amendment by [Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B]. See 2011 Amendment note below.
+    [Pub. L. 113–4, § 806(b)(1)][/us/pl/113/4/s806/b/1], which directed the substitution of “The Secretary of Homeland Security, in the Secretary’s” for “The Attorney General, in the Attorney General’s” in introductory provisions, made the substitution for “The Secretary of Homeland Security, in the Attorney General’s”, to reflect the probable intent of Congress and the prior amendment by [Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B]. See 2011 Amendment note below.
 
     Subsec. (c)(4)(D). [Pub. L. 113–4, § 806(a)][/us/pl/113/4/s806/a], added subpar. (D).
 

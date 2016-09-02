@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress.
+    Repeal effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 72a of Title 2][/us/usc/t2/s72a], The Congress.
 
  __Abolition of Joint Committee on Immigration and Nationality__ 
 
@@ -37,7 +37,7 @@
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F274
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
+[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
 [/us/pl/91/510/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs421
 [/us/stat/84/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1189
 

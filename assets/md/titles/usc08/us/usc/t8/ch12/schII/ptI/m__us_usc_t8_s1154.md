@@ -371,7 +371,7 @@
 
  __Amendment of Section__ 
 
-    For termination of amendment by section 563 of Pub. L. 113—6, see Effective and Termination Dates of 2013 Amendment note below.
+    For termination of amendment by section 563 of Pub. L. 113—6, See Effective and Termination Dates of 2013 Amendment note below.
 
  __References in Text__ 
 
