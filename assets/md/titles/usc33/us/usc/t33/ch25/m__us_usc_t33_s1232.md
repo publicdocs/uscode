@@ -39,7 +39,7 @@
 
     (e) __Denial of entry__ 
 
-        Except as provided in [section 1228 of this title][/us/usc/t33/s1228], the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States to any port or place under the jurisdiction of the United States or to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+        Except as provided in [section 1228 of this title][/us/usc/t33/s1228], the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 
     (f) __Withholding of clearance__ 
 
