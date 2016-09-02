@@ -125,15 +125,15 @@
 
 [Pub. L. 110–229, title III, § 351][/us/pl/110/229/s351], May 8, 2008, [122 Stat. 800][/us/stat/122/800], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Corporation.—__ 
+>         “(1)  __Corporation__  __.—__ 
 
 >         The term ‘Corporation’ means the Alaska Railroad Corporation owned by the State of Alaska.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
@@ -141,37 +141,37 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Easement expanded.—__ 
+>             “(A)  __Easement expanded__  __.—__ 
 
 >             The Secretary is authorized to grant to the Alaska Railroad Corporation an exclusive-use easement on land that is identified by the Secretary within Denali National Park for the purpose of providing a location to the Corporation for construction, maintenance, and on-going operation of track and associated support facilities for turning railroad trains around near Denali Park Station.
 
->             “(B) __Easement relinquished.—__ 
+>             “(B)  __Easement relinquished__  __.—__ 
 
 >             In exchange for the easement granted in subparagraph (A), the Secretary shall require the relinquishment of certain portions of the Corporation’s existing exclusive use easement within the boundary of Denali National Park.
 
 >         “(2) __Conditions of the exchange.—__ 
 
->             “(A) __Equal exchange.—__ 
+>             “(A)  __Equal exchange__  __.—__ 
 
 >             The exchange of easements under this section shall be on an approximately equal-acre basis.
 
->             “(B) __Total acres.—__ 
+>             “(B)  __Total acres__  __.—__ 
 
 >             The easement granted under paragraph (1)(A) shall not exceed 25 acres.
 
->             “(C) __Interests conveyed.—__ 
+>             “(C)  __Interests conveyed__  __.—__ 
 
 >             The easement conveyed to the Alaska Railroad Corporation by the Secretary under this section shall be under the same terms as the exclusive use easement granted to the Railroad in Denali National Park in the Deed for Exclusive Use Easement and Railroad Related Improvements filed in Book 33, pages 985–994 of the Nenana Recording District, Alaska, pursuant to the Alaska Railroad Transfer Act of 1982 ([45 U.S.C. 1201][/us/usc/t45/s1201] et seq.). The easement relinquished by the Alaska Railroad Corporation to the United States under this section shall, with respect to the portion being exchanged, be the full title and interest received by the Alaska Railroad in the Deed for Exclusive Use Easement and Railroad Related Improvements filed in Book 33, pages 985–994 of the Nenana Recording District, Alaska, pursuant to the Alaska Railroad Transfer Act of 1982 ([45 U.S.C. 1201][/us/usc/t45/s1201] et seq.).
 
->             “(D) __Costs.—__ 
+>             “(D)  __Costs__  __.—__ 
 
 >             The Alaska Railroad shall pay all costs associated with the exchange under this section, including the costs of compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), the costs of any surveys, and other reasonable costs.
 
->             “(E) __Land to be part of wilderness.—__ 
+>             “(E)  __Land to be part of wilderness__  __.—__ 
 
 >             The land underlying any easement relinquished to the United States under this section that is adjacent to designated wilderness is hereby designated as wilderness and added to the Denali Wilderness, the boundaries of which are modified accordingly, and shall be managed in accordance with applicable provisions of the Wilderness Act ([78 Stat. 892][/us/stat/78/892]) \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] and the Alaska National Interest Lands Conservation Act of 1980 ([94 Stat. 2371][/us/stat/94/2371]) \[see Tables for classification\].
 
->             “(F) __Other terms and conditions.—__ 
+>             “(F)  __Other terms and conditions__  __.—__ 
 
 >             The Secretary shall require any additional terms and conditions under this section that the Secretary determines to be appropriate to protect the interests of the United States and of Denali National Park.”
 

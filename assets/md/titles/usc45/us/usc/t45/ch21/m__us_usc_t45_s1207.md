@@ -97,11 +97,11 @@
 
 [Pub. L. 109–59, title IX, § 9006][/us/pl/109/59/s9006], Aug. 10, 2005, [119 Stat. 1925][/us/stat/119/1925], provided that:
 
->     “(a) __Grants.—__ 
+>     “(a)  __Grants__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall make grants to the Alaska Railroad for capital rehabilitation and improvements benefiting its passenger operations.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary.”
 

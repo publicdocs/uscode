@@ -45,7 +45,7 @@
 
                 (iii) ensuring that the process occurs without interference, influence, or coercion.
 
-    (b) __Immediate Review of certification procedures__ 
+    (b) __Immediate review of certification procedures__ 
 
     Not later than 180 days after February 14, 2012, the Comptroller General shall review the processes applied by the Mediation Board to certify or decertify representation of employees by a labor organization and make recommendations to the Board and appropriate congressional committees regarding actions that may be taken by the Board or Congress to ensure that the processes are fair and reasonable for all parties. Such review shall be conducted separately from any evaluation and audit under subsection (a) and shall include, at a minimum—
 

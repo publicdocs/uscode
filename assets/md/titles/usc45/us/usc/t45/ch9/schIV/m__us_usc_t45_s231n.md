@@ -309,11 +309,11 @@
 
 [Pub. L. 107–90, title I, § 106(e)][/us/pl/107/90/s106/e], Dec. 21, 2001, [115 Stat. 887][/us/stat/115/887], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by subsections (a), (b), and (c) \[amending this section and [section 231f of this title][/us/usc/t45/s231f]\] shall take effect January 1, 2002.
 
->     “(2) __Account in existence until transfer made.—__ 
+>     “(2)  __Account in existence until transfer made__  __.—__ 
 
 >     The Railroad Retirement Supplemental Account under section 15(c) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n(c)][/us/usc/t45/s231n/c]) shall continue to exist until the date that the Secretary of the Treasury makes the transfer described in subsection (d)(2) \[set out as a note below\].”
 
@@ -361,7 +361,7 @@
 
 [Pub. L. 107–90, title I, § 106(d)][/us/pl/107/90/s106/d], Dec. 21, 2001, [115 Stat. 887][/us/stat/115/887], provided that:
 
->     “(1) __Determination.—__ 
+>     “(1)  __Determination__  __.—__ 
 
 >     As soon as possible after December 31, 2001, the Railroad Retirement Board shall—
 
@@ -369,7 +369,7 @@
 
 >         “(B) direct the Secretary of the Treasury to transfer such funds to the National Railroad Retirement Investment Trust under section 15(j) of such Act \[[45 U.S.C. 231n(j)][/us/usc/t45/s231n/j]\] (as added by section 105).
 
->     “(2) __Transfer by the secretary of the treasury.—__ 
+>     “(2)  __Transfer by the secretary of the treasury__  __.—__ 
 
 >     The Secretary of the Treasury shall make the transfer described in paragraph (1).”
 
@@ -389,23 +389,23 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __Transfers to railroad retirement account.—__ 
+>         “(A)  __Transfers to railroad retirement account__  __.—__ 
 
 >         There are hereby appropriated to the Railroad Retirement Account amounts (other than amounts described in subparagraph (B)) equivalent to the aggregate increase in tax liabilities under chapter 1 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] which is attributable to the application of section 72(r) of the Internal Revenue Code of 1986 \[[26 U.S.C. 72(r)][/us/usc/t26/s72/r]\] (as added by this Act).
 
->         “(B) __Revenue increases attributable to windfall benefits received after__  __september 30, 1988__  __, transferred to dual benefits payments account.—__ 
+>         “(B)  __Revenue increases attributable to windfall benefits received after __  __september 30, 1988__  __, transferred to dual benefits payments account__  __.—__ 
 
 >         There are hereby appropriated to the Dual Benefits Payments Account amounts equivalent to the aggregate increase in tax liabilities under chapter 1 of such Code which is attributable to the application of section 72(r) of such Code (as added by this Act) with respect to windfall benefits received after September 30, 1988.
 
->         “(C) __Windfall benefits defined.—__ 
+>         “(C)  __Windfall benefits defined__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘windfall benefits’ means any benefit paid under section 3(h), 4(e), or 4(h) of the Railroad Retirement Act of 1974 \[sections 231b(h), 231(e), (h) of this title\].
 
->     “(2) __Transfers.—__ 
+>     “(2)  __Transfers__  __.—__ 
 
 >     The amounts appropriated by paragraph (1) shall be transferred from time to time (but not less frequently than quarterly) from the general fund of the Treasury on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1). Any such quarterly payment shall be made on the first day of such quarter and shall take into account benefits estimated to be received during such quarter. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
->     “(3) __Revenue increases from tax on supplemental annuities not included.—__ 
+>     “(3)  __Revenue increases from tax on supplemental annuities not included__  __.—__ 
 
 >     Paragraph (1) shall not apply to tax liabilities attributable to supplemental annuities paid under section 2(b) of the Railroad Retirement Act of 1974 \[[section 231a(b) of this title][/us/usc/t45/s231a/b]\].”
 
@@ -415,25 +415,25 @@
 
 >     “(a) __Transfer to Railroad Retirement Account.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall transfer from the general fund of the Treasury to the Railroad Retirement Account an amount equal to the additional railroad unemployment taxes received in the Treasury.
 
 >         “(2) __Taxes credited against loans to railroad unemployment insurance account.—__ 
 
->             “(A) __Taxes attributable to basic rate to reduce railroad unemployment loans made before__  __october 1, 1985__  __.—__ 
+>             “(A)  __Taxes attributable to basic rate to reduce railroad unemployment loans made before __  __october 1, 1985__  __.—__ 
 
 >             So much of the amount transferred under paragraph (1) as is not attributable to the surtax rate under section 7106(b) of the Railroad Unemployment Insurance and Retirement Improvement Act of 1988 \[[Pub. L. 100–647][/us/pl/100/647], set out as a note under [section 3321 of Title 26][/us/usc/t26/s3321], Internal Revenue Code\] shall be credited against, and operate to reduce, the outstanding balance of railroad unemployment loans made before October 1, 1985.
 
->             “(B) __Taxes attributable to surtax rate to reduce railroad unemployment loans made after__  __september 30, 1985__  __.—__ 
+>             “(B)  __Taxes attributable to surtax rate to reduce railroad unemployment loans made after __  __september 30, 1985__  __.—__ 
 
 >             So much of the amount transferred under paragraph (1) as is attributable to the surtax rate under section 7106(b) of such Act shall be credited against, and operate to reduce, the outstanding balance of railroad unemployment loans made after September 30, 1985.
 
->     “(b) __Transfers Made Monthly.—__ 
+>     “(b)  __Transfers Made Monthly__  __.—__ 
 
 >     Transfers under subsection (a) shall be made at least monthly on the basis of estimates made by the Secretary of the Treasury of the amount of the additional railroad unemployment taxes received in the Treasury. Proper adjustments shall be made in the amount subsequently transferred to the extent prior estimates were in excess of or were less than the amounts required to be transferred.
 
->     “(c) __Transfers to Railroad Unemployment Fund After Loans Repaid.—__ 
+>     “(c)  __Transfers to Railroad Unemployment Fund After Loans Repaid__  __.—__ 
 
 >     If—
 
@@ -443,19 +443,19 @@
 
 >         such transfer (to the extent it exceeds such outstanding balance) shall be made to the Railroad Unemployment Account.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Additional railroad unemployment taxes.—__ 
+>         “(1)  __Additional railroad unemployment taxes__  __.—__ 
 
 >         The term ‘additional railroad unemployment taxes’ means the taxes imposed by chapter 23A of the Internal Revenue Code of 1986 \[[26 U.S.C. 3321][/us/usc/t26/s3321] et seq.\].
 
->         “(2) __Railroad unemployment account.—__ 
+>         “(2)  __Railroad unemployment account__  __.—__ 
 
 >         The term ‘Railroad Unemployment Account’ means the railroad unemployment insurance account in the unemployment trust fund established pursuant to section 904 of the Social Security Act \[[42 U.S.C. 1104][/us/usc/t42/s1104]\].
 
->         “(3) __Railroad unemployment loans.—__ 
+>         “(3)  __Railroad unemployment loans__  __.—__ 
 
 >         The term ‘railroad unemployment loans’ means transfers under section 10(d) of the Railroad Unemployment Insurance Act \[[45 U.S.C. 360(d)][/us/usc/t45/s360/d]\] from the Railroad Retirement Account to the Railroad Unemployment Account. The outstanding balance of such loans shall include any interest required to be paid under such section 10(d).”
 

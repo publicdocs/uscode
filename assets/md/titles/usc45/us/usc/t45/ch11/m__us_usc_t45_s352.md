@@ -21,29 +21,29 @@
 
             (A) __Payment of Unemployment Benefits.—__ 
 
-                (i) __Generally.—__ 
+                (i)  __Generally__  __.—__ 
 
                 Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period within a period of continuing unemployment.
 
-                (ii) __Waiting period for first registration period.—__ 
+                (ii)  __Waiting period for first registration period__  __.—__ 
 
                 Benefits shall be payable to any qualified employee for each day of unemployment in excess of 7 during that employee’s first registration period in a period of continuing unemployment if such period of continuing unemployment is the employee’s initial period of continuing unemployment commencing in the benefit year.
 
                 (iii) __Strikes.—__ 
 
-                    (I) __Initial 14-day waiting period.—__ 
+                    (I)  __Initial 14-day waiting period__  __.—__ 
 
                     If the Board finds that a qualified employee has a period of continuing unemployment that includes days of unemployment due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which such employee was last employed, no benefits shall be payable for such employee’s first 14 days of unemployment due to such stoppage of work.
 
-                    (II) __Subsequent days of unemployment.—__ 
+                    (II)  __Subsequent days of unemployment__  __.—__ 
 
                     For subsequent days of unemployment due to the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
 
-                    (III) __Subsequent periods of continuing unemployment.—__ 
+                    (III)  __Subsequent periods of continuing unemployment__  __.—__ 
 
                     If such period of continuing unemployment ends by reason of clause (v) but the stoppage of work continues, the waiting period established in clause (ii) shall apply to the employee’s first registration period in a new period of continuing unemployment based upon the same stoppage of work.
 
-                (iv) __Definition of period of continuing unemployment.—__ 
+                (iv)  __Definition of period of continuing unemployment__  __.—__ 
 
                 Except as limited by clause (v), for the purposes of this subparagraph, the term “period of continuing unemployment” means—
 
@@ -53,25 +53,25 @@
 
                     (III) a series of successive registration periods, each of which includes more than 4 days of unemployment, if each succeeding registration period begins within 15 days after the last day of the immediately preceding registration period.
 
-                (v) __Special rule regarding end of period.—__ 
+                (v)  __Special rule regarding end of period__  __.—__ 
 
                 For purposes of applying clause (ii), a period of continuing unemployment ends when an employee exhausts rights to unemployment benefits under subsection (c) of this section.
 
-                (vi) __Limit on amount of benefits.—__ 
+                (vi)  __Limit on amount of benefits__  __.—__ 
 
                 No benefits shall be payable to an otherwise eligible employee for any day of unemployment in a registration period where the total amount of the remuneration (as defined in [section 351(j) of this title][/us/usc/t45/s351/j]) payable or accruing to him for days within such registration period exceeds the amount of the base year monthly compensation base. For purposes of the preceding sentence, an employee’s remuneration shall be deemed to include the gross amount of any remuneration that would have become payable to that employee but did not become payable because that employee was not ready or willing to perform suitable work available to that employee on any day within such registration period.
 
             (B) __Payment of Sickness Benefits.—__ 
 
-                (i) __Generally.—__ 
+                (i)  __Generally__  __.—__ 
 
                 Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of sickness after the 4th consecutive day of sickness in a period of continuing sickness but excluding 4 days of sickness in any registration period in such period of continuing sickness.
 
-                (ii) __Waiting period for first registration period.—__ 
+                (ii)  __Waiting period for first registration period__  __.—__ 
 
                 Benefits shall be payable to any qualified employee for each day of sickness in excess of 7 during that employee’s first registration period in a period of continuing sickness if such period of continuing sickness is the employee’s initial period of continuing sickness commencing in the benefit year. For the purposes of this clause, the first registration period in a period of continuing sickness is that registration period that first begins with 4 consecutive days of sickness and includes more than 4 days of sickness.
 
-                (iii) __Definition of period of continuing sickness.—__ 
+                (iii)  __Definition of period of continuing sickness__  __.—__ 
 
                 For the purposes of this subparagraph, a period of continuing sickness means—
 
@@ -79,7 +79,7 @@
 
                     (II) a period of successive days of sickness due to a single cause without interruption of more than 90 consecutive days which are not days of sickness.
 
-                (iv) __Special rule regarding end of period.—__ 
+                (iv)  __Special rule regarding end of period__  __.—__ 
 
                 For purposes of applying clause (ii), a period of continuing sickness ends when an employee exhausts rights to sickness benefits under subsection (c) of this section.
 
@@ -359,11 +359,11 @@
 
 [Pub. L. 112–240, title V, § 504(b)][/us/pl/112/240/s504/b], (c), Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], provided that:
 
->     “(b) __Clarification on Authority to Use Funds.—__ 
+>     “(b)  __Clarification on Authority to Use Funds__  __.—__ 
 
 >     Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[[45 U.S.C. 352(c)(2)(D)][/us/usc/t45/s352/c/2/D]\] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act \[Jan. 2, 2013\].
 
->     “(c) __Funding for Administration.—__ 
+>     “(c)  __Funding for Administration__  __.—__ 
 
 >     Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Railroad Retirement Board $250,000 for administrative expenses associated with the payment of additional extended unemployment benefits provided under section 2(c)(2)(D) of the Railroad Unemployment Insurance Act by reason of the amendments made by subsection (a), to remain available until expended.”
 
@@ -371,31 +371,31 @@
 
 [Pub. L. 102–164, title V, § 501][/us/pl/102/164/s501], Nov. 15, 1991, [105 Stat. 1064][/us/stat/105/1064], as amended by [Pub. L. 102–182, § 3(a)(6)][/us/pl/102/182/s3/a/6], (7), Dec. 4, 1991, [105 Stat. 1234][/us/stat/105/1234]; [Pub. L. 102–244, § 5][/us/pl/102/244/s5], Feb. 7, 1992, [106 Stat. 5][/us/stat/106/5]; [Pub. L. 102–318, title I, § 105][/us/pl/102/318/s105], July 3, 1992, [106 Stat. 293][/us/stat/106/293]; [Pub. L. 103–6, § 3(a)][/us/pl/103/6/s3/a], (b), Mar. 4, 1993, [107 Stat. 33][/us/stat/107/33]; [Pub. L. 103–152][/us/pl/103/152], §§ 8, 9(b), Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 2(h) of the Railroad Unemployment Insurance Act ([45 U.S.C. 352(h)(2)][/us/usc/t45/s352/h/2]), a ‘period of high unemployment’ includes any month during the period November 1991 through February 1994.
 
 >     “(b) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraphs (2) and (3), no employee shall have an extended benefit period under the second proviso of section 2(c) of the Railroad Unemployment Insurance Act beginning before November 17, 1991, or after February 5, 1994.
 
->         “(2) __Transition.—__ 
+>         “(2)  __Transition__  __.—__ 
 
 >         If an employee has established an extended benefit period under the second proviso of section 2(c) of the Railroad Unemployment Insurance Act and the last day of such extended benefit period, as established, is after February 5, 1994, such employee shall continue to be entitled to extended unemployment benefits for days of unemployment in registration periods included in such extended benefit period, provided that such employee meets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[[45 U.S.C. 351][/us/usc/t45/s351] et seq.\].
 
->         “(3) __Reachback Provisions.—__ 
+>         “(3)  __Reachback Provisions__  __.—__ 
 
 >         If an employee has exhausted that employee’s rights to normal unemployment benefits under section 2(c) of the Railroad Unemployment Insurance Act \[[45 U.S.C. 352(c)][/us/usc/t45/s352/c]\] after February 28, 1991, but before November 17, 1991, such employee shall, for the purposes of the application of this section, be deemed to have exhausted such rights after November 17, 1991.
 
->     “(c) __Limitation on Payment.—__ 
+>     “(c)  __Limitation on Payment__  __.—__ 
 
 >     Extended benefits under this section shall be payable for a maximum of 65 days of unemployment, including any extended benefits payable by reason of the application of the reachback provisions.
 
 >     “(d) __Enlargement of Benefits.—__ 
 
->         “(1) __Generally.—__ 
+>         “(1)  __Generally__  __.—__ 
 
 >         During the period that begins on the date of the enactment of this subsection \[Feb. 7, 1992\]—
 
@@ -413,7 +413,7 @@
 
 >         “(2) __Phase-out.—__ 
 
->             “(A) __Benefits on or after__  __june 14, 1992__  __.—__ 
+>             “(A)  __Benefits on or after __  __june 14, 1992__  __.—__ 
 
 >             Effective on and after June 14, 1992, paragraph (1) of this section shall be applied by substituting ‘100’ for ‘130’ each place it appears, and by substituting ‘10’ for ‘13’ each place it appears.
 
@@ -423,11 +423,11 @@
 
 >                 “(ii) Effective after October 2, 1993, subparagraph (A) of this paragraph and subparagraphs (B) and (C) of paragraph (1) shall not apply and subparagraph (A) of paragraph (1) shall be applied by substituting ‘35’ for ‘130’.
 
->             “(C) __Limitations on reductions.—__ 
+>             “(C)  __Limitations on reductions__  __.—__ 
 
 >             Notwithstanding subparagraphs (A) and (B), in the case of an individual who is receiving extended benefits under section 2(c) of the Railroad Unemployment Insurance Act \[[45 U.S.C. 352(c)][/us/usc/t45/s352/c]\] for persons with 10 or more but less than 15 years of service, or extended benefits by reason of this section, for any day during a week which precedes a period for which a reduction under this paragraph takes effect, such reduction shall not apply for purposes of determining the amount of benefits payable to such individual for any day thereafter for which the individual meets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[[45 U.S.C. 351][/us/usc/t45/s351] et seq.\].
 
->     “(e) __Termination of Benefits.—__ 
+>     “(e)  __Termination of Benefits__  __.—__ 
 
 >     In the case of an individual who is receiving extended benefits by reason of this section on February 5, 1994, such benefits shall not continue to be payable to such individual after April 30, 1994.”
 

@@ -21,7 +21,7 @@
 
 [Pub. L. 99–509, title IV, § 4024(c)][/us/pl/99/509/s4024/c]–(f), Oct. 21, 1986, [100 Stat. 1904][/us/stat/100/1904], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(c) __Repeal of Section 701.—__ 
+>     “(c)  __Repeal of Section__  __701.—__ 
 
 >     Section 701 of the Regional Rail Reorganization Act of 1973 \[[45 U.S.C. 797][/us/usc/t45/s797]\] is repealed effective on the sale date \[Apr. 2, 1987, see [45 U.S.C. 702][/us/usc/t45/s702](17A)\]. Notwithstanding this repeal—
 
@@ -29,7 +29,7 @@
 
 >         “(2) the Railroad Retirement Board shall take such actions as may be necessary to complete administration and closeout of the section 701 program and the Board is authorized to receive and apply Corporation funds for this purpose.
 
->     “(d) __Continuing Responsibilities.—__ 
+>     “(d)  __Continuing Responsibilities__  __.—__ 
 
 >         (1) On and after the sale date, the Corporation shall provide the protection for its employees described in ‘Part III, Article III, Employee Protection’, of the ‘Definitive Agreement of September 17, 1985, By and Between Conrail and the Undersigned Representatives of Conrail’s Agreement Employees’ and Appendix 3 thereto, together with any amendments thereto, or under any other terms and conditions as shall be agreed between the Corporation and the representatives of its employees.
 
@@ -39,11 +39,11 @@
 
 >         “(4) The United States shall have no liability for benefits under this subsection.
 
->     “(e) __Compensation for Wages Below Industry Standard.—__ 
+>     “(e)  __Compensation for Wages Below Industry Standard__  __.—__ 
 
 >     The Corporation shall pay $200,000,000 to present and former employees subject to collective bargaining agreements, in accordance with the terms and conditions in the Definitive Agreement referred to in subsection (d)(1), or as otherwise agreed between the parties.
 
->     “(f) __ESOP Transactions.—__ 
+>     “(f) __ESOP__  __Transactions__  __.—__ 
 
 >         (1)
 

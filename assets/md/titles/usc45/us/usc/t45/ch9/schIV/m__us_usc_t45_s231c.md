@@ -227,7 +227,7 @@
 
 [Pub. L. 107–90, title I, § 101(b)][/us/pl/107/90/s101/b], Dec. 21, 2001, [115 Stat. 879][/us/stat/115/879], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 30 days after enactment \[Dec. 21, 2001\], and shall apply to annuity amounts accruing for months after the effective date in the case of annuities awarded—
 
@@ -235,17 +235,17 @@
 
 >         “(B) before that date, but only if the annuity amount under section 4(g) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231c(g)][/us/usc/t45/s231c/g]) was computed under such section, as amended by the Omnibus Budget Reconciliation Act of 1981 ([Public Law 97–35][/us/pl/97/35]; [95 Stat. 357][/us/stat/95/357]).
 
->     “(2) __Special rule for annuities awarded before the effective date.—__ 
+>     “(2)  __Special rule for annuities awarded before the effective date__  __.—__ 
 
 >     In applying the amendment made by this section to annuities awarded before the effective date, the calculation of the initial minimum amount under new section 4(g)(10)(ii) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231c(g)(10)(ii)][/us/usc/t45/s231c/g/10/ii]), as added by subsection (a), shall be made as of the date of the award of the widow’s or widower’s annuity.”
 
 [Pub. L. 107–90, title I, § 102(d)][/us/pl/107/90/s102/d], Dec. 21, 2001, [115 Stat. 879][/us/stat/115/879], provided that:
 
->     “(1) __Generally.—__ 
+>     “(1)  __Generally__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 231b of this title][/us/usc/t45/s231b]\] shall apply to annuities that begin to accrue on or after January 1, 2002.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amount of the annuity provided for a spouse under section 4(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231c(a)][/us/usc/t45/s231c/a]) shall be computed under section 4(a)(3) of such Act, as in effect on December 31, 2001, if the annuity amount provided under section 3(a) of such Act ([45 U.S.C. 231b(a)][/us/usc/t45/s231b/a]) for the individual on whose employment record the spouse annuity is based was computed under section 3(a)(3) of such Act, as in effect on December 31, 2001.”
 

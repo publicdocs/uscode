@@ -35,13 +35,13 @@
 
     (i)
 
-        (1) __In General.—__ 
+        (1)  __In General__  __.—__ 
 
         The term “compensation” means any form of money remuneration, including pay for time lost but excluding tips, paid for services rendered as an employee to one or more employers, or as an employee representative, except that in computing the compensation paid to any employee, no part of any month’s compensation in excess of the monthly compensation base (as defined in subdivision (2)) for any month shall be recognized. Solely for the purpose of determining the compensation received by an employee in a base year, the term “compensation” shall include any separation allowance or subsistence allowance paid under any benefit schedule provided under section 701  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title VII of the Regional Rail Reorganization Act of 1973 \[[45 U.S.C. 797][/us/usc/t45/s797]\] and any termination allowance paid under section 702 of that Act \[[45 U.S.C. 797a][/us/usc/t45/s797a]\], but does not include any other benefits payable under that title \[[45 U.S.C. 797][/us/usc/t45/s797] et seq.\]. The total amount of any subsistence allowance payable under a benefit schedule provided pursuant to section 701  <sup>\[1\]</sup>  of the Regional Rail Reorganization Act of 1973 shall be considered as being compensation in the month in which the employee first timely filed a claim for such an allowance. Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15] and which is performed to carry out the purpose specified in subparagraph (F) or (J) as the case may be. A payment made by an employer to an individual through the employer’s pay roll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment is made. An employee shall be deemed to be paid, “for time lost” the amount he is paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he is paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation. If a payment is made by an employer with respect to a personal injury and includes pay for time lost, the total payment shall be deemed to be paid for time lost unless, at the time of payment, a part of such payment is specifically apportioned to factors other than time lost, in which event only such part of the payment as is not so apportioned shall be deemed to be paid for time lost. Compensation earned in any calendar month before 1947 shall be deemed paid in such month regardless of whether or when payment will have been in fact made, and compensation earned in any calendar year after 1946 but paid after the end of such calendar year shall be deemed to be compensation paid in the calendar year in which it will have been earned if it is so reported by the employer before February 1 of the next succeeding calendar year or, if the employee establishes, subject to the provisions of [section 356 of this title][/us/usc/t45/s356], the period during which such compensation will have been earned.
 
         (2) __Monthly Compensation Base.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For purposes of subdivision (1), the term “monthly compensation base” means the amount—
 
@@ -53,7 +53,7 @@
 
             (B) __Computation.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The amount of the monthly compensation base for each calendar year beginning after December 31, 1988, is the greater of—
 
@@ -157,7 +157,7 @@
 
                     </table>
 
-                (ii) __Meaning of symbols.—__ 
+                (ii)  __Meaning of symbols__  __.—__ 
 
                 For the purposes of the formula in clause (i)—
 
@@ -165,7 +165,7 @@
 
                     (II) “A” is the amount of the applicable base with respect to tier 1 taxes, for the calendar year for which the monthly compensation base is being computed, as determined under [section 3231(e)(2) of title 26][/us/usc/t26/s3231/e/2].
 
-                (iii) __Rounding rule.—__ 
+                (iii)  __Rounding rule__  __.—__ 
 
                 If the monthly compensation base computed under this formula is not a multiple of $5, it shall be rounded to the nearest multiple of $5, with such rounding being upward in the event the amount computed is equidistant between two multiples of $5.
 
