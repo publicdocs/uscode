@@ -153,6 +153,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–48, § 1][/us/pl/113/48/s1], Nov. 13, 2013, [127 Stat. 575][/us/stat/127/575], provided that: 
+
+> “This Act \[amending [section 280g of this title][/us/usc/t42/s280g]\] may be cited as the ‘School Access to Emergency Epinephrine Act’.”
+
 [Pub. L. 113–5, § 1(a)][/us/pl/113/5/s1/a], Mar. 13, 2013, [127 Stat. 161][/us/stat/127/161], provided that: 
 
 > “This Act \[enacting [section 300hh–10a of this title][/us/usc/t42/s300hh–10a] and sections 360bbb–3a and 360bbb–3b of Title 21, Food and Drugs, amending sections 247d, 247d–1, 247d–3a to 247d–4, 247d–6 to 247d–6b, 247d–6d, 247d–7b, 247d–7e, 247d–7f, 284m, 284m–1, 300hh–1, 300hh–10, 300hh–11, 300hh–15, and 300hh–16 of this title, sections 355, 355–1, 355a, 360bbb–3, and 360bbb–4 of Title 21, and [section 8117 of Title 38][/us/usc/t38/s8117], Veterans’ Benefits, repealing [section 247d–6c of this title][/us/usc/t42/s247d–6c], enacting provisions set out as notes under sections 247d–6a and 300hh–10 of this title, and amending provisions set out as a note under [section 247d–6a of this title][/us/usc/t42/s247d–6a]\] may be cited as the ‘Pandemic and All-Hazards Preparedness Reauthorization Act of 2013’.”
@@ -1489,6 +1493,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/48/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48%2Fs1
+[/us/stat/127/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F575
+[/us/usc/t42/s280g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g
 [/us/pl/113/5/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs1%2Fa
 [/us/stat/127/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F161
 [/us/usc/t42/s300hh–10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9310a
