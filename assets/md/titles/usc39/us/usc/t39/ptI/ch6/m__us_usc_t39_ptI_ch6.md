@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs601" data-uslm-ref="/us/usc/t39/s601">601.</a>  </td>
 
     <td> Letters carried out of the mail.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs602" data-uslm-ref="/us/usc/t39/s602">602.</a>  </td>
 
     <td> Foreign letters out of the mails.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs603" data-uslm-ref="/us/usc/t39/s603">603.</a>  </td>
 
     <td> Searches authorized.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs604" data-uslm-ref="/us/usc/t39/s604">604.</a>  </td>
 
     <td> Seizing and detaining letters.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs605" data-uslm-ref="/us/usc/t39/s605">605.</a>  </td>
 
     <td> Searching vessels for letters.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs606" data-uslm-ref="/us/usc/t39/s606">606.</a>  </td>
 
     <td> Disposition of seized mail.  </td>
 

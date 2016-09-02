@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2601" data-uslm-ref="/us/usc/t39/s2601">2601.</a>  </td>
 
     <td> Collection and adjustment of debts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2602" data-uslm-ref="/us/usc/t39/s2602">2602.</a>  </td>
 
     <td> Transportation of international mail by air carriers of the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2603" data-uslm-ref="/us/usc/t39/s2603">2603.</a>  </td>
 
     <td> Settlement of claims for damages caused by the Postal Service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2604" data-uslm-ref="/us/usc/t39/s2604">2604.</a>  </td>
 
     <td> Delivery of stolen money to owner.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2605" data-uslm-ref="/us/usc/t39/s2605">2605.</a>  </td>
 
     <td> Suits to recover wrongful or fraudulent payments.  </td>
 

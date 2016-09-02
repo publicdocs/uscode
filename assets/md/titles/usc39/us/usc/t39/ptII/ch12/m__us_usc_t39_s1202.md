@@ -15,7 +15,7 @@
 
 ## § 1202. Bargaining units
 
-The National Labor Relations Board shall decide in each case the unit appropriate for collective bargaining in the Postal Service. The National Labor Relations Board shall not include in any bargaining unit—
+    The National Labor Relations Board shall decide in each case the unit appropriate for collective bargaining in the Postal Service. The National Labor Relations Board shall not include in any bargaining unit—
 
     (1) any management official or supervisor;
 

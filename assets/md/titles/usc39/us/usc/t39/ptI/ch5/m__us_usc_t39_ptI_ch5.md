@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs501" data-uslm-ref="/us/usc/t39/s501">501.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs502" data-uslm-ref="/us/usc/t39/s502">502.</a>  </td>
 
     <td> Commissioners.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs503" data-uslm-ref="/us/usc/t39/s503">503.</a>  </td>
 
     <td> Rules; regulations; procedures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs504" data-uslm-ref="/us/usc/t39/s504">504.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs505" data-uslm-ref="/us/usc/t39/s505">505.</a>  </td>
 
     <td> Officer of the Postal Regulatory Commission representing the general public.  </td>
 

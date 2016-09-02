@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3401" data-uslm-ref="/us/usc/t39/s3401">3401.</a>  </td>
 
     <td> Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [3402.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3402" data-uslm-ref="/us/usc/t39/s3402">3402.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3403" data-uslm-ref="/us/usc/t39/s3403">3403.</a>  </td>
 
     <td> Matter for blind and other handicapped persons.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3404" data-uslm-ref="/us/usc/t39/s3404">3404.</a>  </td>
 
     <td> Unsealed letters sent by blind or physically handicapped persons.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3405" data-uslm-ref="/us/usc/t39/s3405">3405.</a>  </td>
 
     <td> Markings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3406" data-uslm-ref="/us/usc/t39/s3406">3406.</a>  </td>
 
     <td> Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act.  </td>
 

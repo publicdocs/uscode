@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs101" data-uslm-ref="/us/usc/t39/s101">101.</a>  </td>
 
     <td> Postal policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs102" data-uslm-ref="/us/usc/t39/s102">102.</a>  </td>
 
     <td> Definitions.  </td>
 

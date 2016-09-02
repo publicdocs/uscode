@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptII%2Fch10" data-uslm-ref="/us/usc/t39/ptII/ch10">10.</a>  </td>
 
     <td> Employment Within the Postal Service  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1001" data-uslm-ref="/us/usc/t39/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptII%2Fch12" data-uslm-ref="/us/usc/t39/ptII/ch12">12.</a>  </td>
 
     <td> Employee-Management Agreements  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1201" data-uslm-ref="/us/usc/t39/s1201">1201</a>  </td>
 
   </tr>
 

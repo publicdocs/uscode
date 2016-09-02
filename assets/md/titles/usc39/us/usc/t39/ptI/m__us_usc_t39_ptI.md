@@ -29,57 +29,63 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI%2Fch1" data-uslm-ref="/us/usc/t39/ptI/ch1">1.</a>  </td>
 
     <td> Postal Policy and Definitions  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs101" data-uslm-ref="/us/usc/t39/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI%2Fch2" data-uslm-ref="/us/usc/t39/ptI/ch2">2.</a>  </td>
 
     <td> Organization  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs201" data-uslm-ref="/us/usc/t39/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI%2Fch4" data-uslm-ref="/us/usc/t39/ptI/ch4">4.</a>  </td>
 
     <td> General Authority  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs401" data-uslm-ref="/us/usc/t39/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI%2Fch5" data-uslm-ref="/us/usc/t39/ptI/ch5">5.</a>  </td>
 
     <td> Postal Regulatory Commission  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs501" data-uslm-ref="/us/usc/t39/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI%2Fch6" data-uslm-ref="/us/usc/t39/ptI/ch6">6.</a>  </td>
 
     <td> Private Carriage of Letters  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs601" data-uslm-ref="/us/usc/t39/s601">601</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Amendments  </td>
 
   </tr>
 
 </table>
-
- __Amendments__ 
 
     2006—[Pub. L. 109–435, title VI, § 601(c)][/us/pl/109/435/s601/c], Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239], added item for chapter 5.
 

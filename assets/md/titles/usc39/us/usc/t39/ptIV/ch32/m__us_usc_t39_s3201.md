@@ -15,7 +15,7 @@
 
 ## § 3201. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “penalty mail” means official mail, other than franked mail, which is authorized by law to be transmitted in the mail without prepayment of postage;
 

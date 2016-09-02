@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs401" data-uslm-ref="/us/usc/t39/s401">401.</a>  </td>
 
     <td> General powers of the Postal Service.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs402" data-uslm-ref="/us/usc/t39/s402">402.</a>  </td>
 
     <td> Delegation of authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs403" data-uslm-ref="/us/usc/t39/s403">403.</a>  </td>
 
     <td> General duties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs404" data-uslm-ref="/us/usc/t39/s404">404.</a>  </td>
 
     <td> Specific powers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 404a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs404a" data-uslm-ref="/us/usc/t39/s404a">404a.</a>  </td>
 
     <td> Specific limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs405" data-uslm-ref="/us/usc/t39/s405">405.</a>  </td>
 
     <td> Printing of illustrations of United States postage stamps.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs406" data-uslm-ref="/us/usc/t39/s406">406.</a>  </td>
 
     <td> Postal services at Armed Forces installations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs407" data-uslm-ref="/us/usc/t39/s407">407.</a>  </td>
 
     <td> International postal arrangements.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs408" data-uslm-ref="/us/usc/t39/s408">408.</a>  </td>
 
     <td> International money-order exchanges.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs409" data-uslm-ref="/us/usc/t39/s409">409.</a>  </td>
 
     <td> Suits by and against the Postal Service.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs410" data-uslm-ref="/us/usc/t39/s410">410.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs411" data-uslm-ref="/us/usc/t39/s411">411.</a>  </td>
 
     <td> Cooperation with other Government agencies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs412" data-uslm-ref="/us/usc/t39/s412">412.</a>  </td>
 
     <td> Nondisclosure of lists of names and ad­dresses.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs413" data-uslm-ref="/us/usc/t39/s413">413.</a>  </td>
 
     <td> Postal services at diplomatic posts.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs414" data-uslm-ref="/us/usc/t39/s414">414.</a>  </td>
 
     <td> Special postage stamps.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs415" data-uslm-ref="/us/usc/t39/s415">415.</a>  </td>
 
     <td> Prohibition on restriction or elimination of services.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs416" data-uslm-ref="/us/usc/t39/s416">416.</a>  </td>
 
     <td> Authority to issue semipostals.  </td>
 

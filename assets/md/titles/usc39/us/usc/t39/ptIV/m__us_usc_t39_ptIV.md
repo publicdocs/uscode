@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIV%2Fch30" data-uslm-ref="/us/usc/t39/ptIV/ch30">30.</a>  </td>
 
     <td> Nonmailable Matter  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3001" data-uslm-ref="/us/usc/t39/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIV%2Fch32" data-uslm-ref="/us/usc/t39/ptIV/ch32">32.</a>  </td>
 
     <td> Penalty and Franked Mail  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3201" data-uslm-ref="/us/usc/t39/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIV%2Fch34" data-uslm-ref="/us/usc/t39/ptIV/ch34">34.</a>  </td>
 
     <td> Armed Forces and Free Postage  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3401" data-uslm-ref="/us/usc/t39/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIV%2Fch36" data-uslm-ref="/us/usc/t39/ptIV/ch36">36.</a>  </td>
 
     <td> Postal Rates, Classes, and Services  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3601" data-uslm-ref="/us/usc/t39/s3601">3601</a>  </td>
 
   </tr>
 

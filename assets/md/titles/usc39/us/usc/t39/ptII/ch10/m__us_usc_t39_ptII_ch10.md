@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1001" data-uslm-ref="/us/usc/t39/s1001">1001.</a>  </td>
 
     <td> Appointment and status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1002" data-uslm-ref="/us/usc/t39/s1002">1002.</a>  </td>
 
     <td> Political recommendations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1003" data-uslm-ref="/us/usc/t39/s1003">1003.</a>  </td>
 
     <td> Employment policy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1004" data-uslm-ref="/us/usc/t39/s1004">1004.</a>  </td>
 
     <td> Supervisory and other managerial organizations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1005" data-uslm-ref="/us/usc/t39/s1005">1005.</a>  </td>
 
     <td> Applicability of laws relating to Federal employees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1006" data-uslm-ref="/us/usc/t39/s1006">1006.</a>  </td>
 
     <td> Right of transfer.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1007" data-uslm-ref="/us/usc/t39/s1007">1007.</a>  </td>
 
     <td> Seniority for employees in rural service.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1008" data-uslm-ref="/us/usc/t39/s1008">1008.</a>  </td>
 
     <td> Temporary employees or carriers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1009" data-uslm-ref="/us/usc/t39/s1009">1009.</a>  </td>
 
     <td> Personnel not to receive fees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1010" data-uslm-ref="/us/usc/t39/s1010">1010.</a>  </td>
 
     <td> Administration of oaths related to postal inspection matters.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1011" data-uslm-ref="/us/usc/t39/s1011">1011.</a>  </td>
 
     <td> Oath of office.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 401. General powers of the Postal Service
 
-Subject to the provisions of section 404a, the Postal Service shall have the following general powers:
+    Subject to the provisions of section 404a, the Postal Service shall have the following general powers:
 
     (1) to sue and be sued in its official name;
 

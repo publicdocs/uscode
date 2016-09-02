@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5001" data-uslm-ref="/us/usc/t39/s5001">5001.</a>  </td>
 
     <td> Provisions for carrying mail.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5002" data-uslm-ref="/us/usc/t39/s5002">5002.</a>  </td>
 
     <td> Transportation of mail of adjoining countries through the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5003" data-uslm-ref="/us/usc/t39/s5003">5003.</a>  </td>
 
     <td> Establishment of post roads.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5004" data-uslm-ref="/us/usc/t39/s5004">5004.</a>  </td>
 
     <td> Discontinuance of service on post roads.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5005" data-uslm-ref="/us/usc/t39/s5005">5005.</a>  </td>
 
     <td> Mail transportation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5006" data-uslm-ref="/us/usc/t39/s5006">5006.</a>  </td>
 
     <td> Lien on compensation of contractor.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5007" data-uslm-ref="/us/usc/t39/s5007">5007.</a>  </td>
 
     <td> Free transportation of postal employees.  </td>
 

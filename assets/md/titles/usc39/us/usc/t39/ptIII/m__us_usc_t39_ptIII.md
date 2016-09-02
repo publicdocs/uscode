@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII%2Fch20" data-uslm-ref="/us/usc/t39/ptIII/ch20">20.</a>  </td>
 
     <td> Finance  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2001" data-uslm-ref="/us/usc/t39/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII%2Fch22" data-uslm-ref="/us/usc/t39/ptIII/ch22">22.</a>  </td>
 
     <td> Convict Labor  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2201" data-uslm-ref="/us/usc/t39/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII%2Fch24" data-uslm-ref="/us/usc/t39/ptIII/ch24">24.</a>  </td>
 
     <td> Appropriations and Annual Report  </td>
 
-    <td> 2401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2401" data-uslm-ref="/us/usc/t39/s2401">2401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII%2Fch26" data-uslm-ref="/us/usc/t39/ptIII/ch26">26.</a>  </td>
 
     <td> Debts and Collection  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2601" data-uslm-ref="/us/usc/t39/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII%2Fch28" data-uslm-ref="/us/usc/t39/ptIII/ch28">28.</a>  </td>
 
     <td> Strategic Planning and Performance Management  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2801" data-uslm-ref="/us/usc/t39/s2801">2801</a>  </td>
 
   </tr>
 

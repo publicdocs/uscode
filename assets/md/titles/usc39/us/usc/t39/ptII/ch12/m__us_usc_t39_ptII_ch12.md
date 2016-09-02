@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1201" data-uslm-ref="/us/usc/t39/s1201">1201.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1202" data-uslm-ref="/us/usc/t39/s1202">1202.</a>  </td>
 
     <td> Bargaining units.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1203" data-uslm-ref="/us/usc/t39/s1203">1203.</a>  </td>
 
     <td> Recognition of labor organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1204" data-uslm-ref="/us/usc/t39/s1204">1204.</a>  </td>
 
     <td> Elections.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1205" data-uslm-ref="/us/usc/t39/s1205">1205.</a>  </td>
 
     <td> Deductions of dues.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1206" data-uslm-ref="/us/usc/t39/s1206">1206.</a>  </td>
 
     <td> Collective-bargaining agreements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1207" data-uslm-ref="/us/usc/t39/s1207">1207.</a>  </td>
 
     <td> Labor disputes.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1208" data-uslm-ref="/us/usc/t39/s1208">1208.</a>  </td>
 
     <td> Suits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1209" data-uslm-ref="/us/usc/t39/s1209">1209.</a>  </td>
 
     <td> Applicability of Federal labor laws.  </td>
 

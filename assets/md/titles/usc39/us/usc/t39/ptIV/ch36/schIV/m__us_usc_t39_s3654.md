@@ -35,7 +35,9 @@
 
         For purposes of defining the reports required by paragraph (1)(B), the Postal Service shall comply with the rules prescribed by the Securities and Exchange Commission implementing section 404 of the Sarbanes-Oxley Act of 2002 ([15 U.S.C. 7262][/us/usc/t15/s7262]), beginning with the annual report for fiscal year 2010.
 
-    (b) __Financial reporting.—__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be capitalized.__  __ </sup></sup> __ 
+    (b) __Financial reporting.—__ 
+
+  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup> 
 
         (1)
 

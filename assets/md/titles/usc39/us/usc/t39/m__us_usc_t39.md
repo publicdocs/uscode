@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t39/ptI/m__us_usc_t39_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39)
 
-# 
-
-Title 39—POSTAL SERVICE
+# Title 39—POSTAL SERVICE
 
 This title was enacted by [Pub. L. 86–682, § 1][/us/pl/86/682/s1], Sept. 2, 1960, [74 Stat. 578][/us/stat/74/578], and was revised and reenacted by [Pub. L. 91–375, § 2][/us/pl/91/375/s2], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719]
+
+Current through 113–44
 
 <table>
 
@@ -33,51 +33,51 @@ This title was enacted by [Pub. L. 86–682, § 1][/us/pl/86/682/s1], Sept. 2,
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptI" data-uslm-ref="/us/usc/t39/ptI">I.</a>  </td>
 
     <td> General  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs101" data-uslm-ref="/us/usc/t39/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptII" data-uslm-ref="/us/usc/t39/ptII">II.</a>  </td>
 
     <td> Personnel  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs1001" data-uslm-ref="/us/usc/t39/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIII" data-uslm-ref="/us/usc/t39/ptIII">III.</a>  </td>
 
     <td> Modernization and Fiscal Administration  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2001" data-uslm-ref="/us/usc/t39/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptIV" data-uslm-ref="/us/usc/t39/ptIV">IV.</a>  </td>
 
     <td> Mail Matter  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3001" data-uslm-ref="/us/usc/t39/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptV" data-uslm-ref="/us/usc/t39/ptV">V.</a>  </td>
 
     <td> Transportation of Mail  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5001" data-uslm-ref="/us/usc/t39/s5001">5001</a>  </td>
 
   </tr>
 

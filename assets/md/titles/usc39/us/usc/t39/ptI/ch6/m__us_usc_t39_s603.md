@@ -15,7 +15,7 @@
 
 ## § 603. Searches authorized
 
-The Postal Service may authorize any officer or employee of the Postal Service to make searches for mail matter transported in violation of law. When the authorized officer has reason to believe that mailable matter transported contrary to law may be found therein, he may open and search any—
+    The Postal Service may authorize any officer or employee of the Postal Service to make searches for mail matter transported in violation of law. When the authorized officer has reason to believe that mailable matter transported contrary to law may be found therein, he may open and search any—
 
     (1) vehicle passing, or having lately passed, from a place at which there is a post office of the United States;
 

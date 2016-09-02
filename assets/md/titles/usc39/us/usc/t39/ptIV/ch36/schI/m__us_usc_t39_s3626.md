@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623 to 3625.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3622.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
 
 ## § 3626. Reduced rates
 
@@ -291,7 +291,7 @@
 
 >     “(iii) the pages of which were customarily secured by 2 staples before March 19, 1989;
 
->         shall not be considered to be a bound publication solely because its pages continue to be secured by 2 staples after that date.”
+>     shall not be considered to be a bound publication solely because its pages continue to be secured by 2 staples after that date.”
 
  __Forbearance Regarding Certain Postage Deficiencies__ 
 
@@ -313,7 +313,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623 to 3625.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3622.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
 
 ----------
 ----------

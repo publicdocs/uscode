@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptV%2Fch50" data-uslm-ref="/us/usc/t39/ptV/ch50">50.</a>  </td>
 
     <td> General  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5001" data-uslm-ref="/us/usc/t39/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [52.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptV%2Fch52" data-uslm-ref="/us/usc/t39/ptV/ch52">52.</a>  </td>
 
     <td> Repealed]  </td>
 
-    <td> 5201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5201" data-uslm-ref="/us/usc/t39/s5201">5201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptV%2Fch54" data-uslm-ref="/us/usc/t39/ptV/ch54">54.</a>  </td>
 
     <td> Transportation of Mail by Air  </td>
 
-    <td> 5401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5401" data-uslm-ref="/us/usc/t39/s5401">5401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2FptV%2Fch56" data-uslm-ref="/us/usc/t39/ptV/ch56">56.</a>  </td>
 
     <td> Transportation of Mail by Vessel  </td>
 
-    <td> 5601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs5601" data-uslm-ref="/us/usc/t39/s5601">5601</a>  </td>
 
   </tr>
 

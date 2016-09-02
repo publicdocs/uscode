@@ -111,19 +111,19 @@
 
         (1) “supervisors’ organization” means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors;
 
-        (2)
+        (2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
 
-         “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
+        (3) “postmaster” means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
 
-            (3) “postmaster” means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
+        (4) “postmasters’ organization” means an organization recognized by the Postal Service under subsection (b) as representing at least 20 percent of postmasters; and
 
-            (4) “postmasters’ organization” means an organization recognized by the Postal Service under subsection (b) as representing at least 20 percent of postmasters; and
+        (5)
 
-            (5) “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
+         “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
 
-        (A) between the Postal Service and the postmasters’ organization as represented by the organization; or
+            (A) between the Postal Service and the postmasters’ organization as represented by the organization; or
 
-        (B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
+            (B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
 
 ([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 731][/us/stat/84/731]; [Pub. L. 96–326][/us/pl/96/326], Aug. 8, 1980, [94 Stat. 1023][/us/stat/94/1023]; [Pub. L. 108–86, § 2(a)][/us/pl/108/86/s2/a]–(c), Sept. 30, 2003, [117 Stat. 1052][/us/stat/117/1052].)
 

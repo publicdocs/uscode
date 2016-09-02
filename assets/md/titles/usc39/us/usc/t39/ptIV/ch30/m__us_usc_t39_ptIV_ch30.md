@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3001" data-uslm-ref="/us/usc/t39/s3001">3001.</a>  </td>
 
     <td> Nonmailable matter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3002" data-uslm-ref="/us/usc/t39/s3002">3002.</a>  </td>
 
     <td> Nonmailable motor vehicle master keys.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3002a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3002a" data-uslm-ref="/us/usc/t39/s3002a">3002a.</a>  </td>
 
     <td> Nonmailability of locksmithing devices.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3003" data-uslm-ref="/us/usc/t39/s3003">3003.</a>  </td>
 
     <td> Mail bearing a fictitious name or address.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3004" data-uslm-ref="/us/usc/t39/s3004">3004.</a>  </td>
 
     <td> Delivery of mail to persons not residents of the place of address.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3005" data-uslm-ref="/us/usc/t39/s3005">3005.</a>  </td>
 
     <td> False representations; lotteries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3006.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3006" data-uslm-ref="/us/usc/t39/s3006">3006.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3007" data-uslm-ref="/us/usc/t39/s3007">3007.</a>  </td>
 
     <td> Detention of mail for temporary periods.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3008" data-uslm-ref="/us/usc/t39/s3008">3008.</a>  </td>
 
     <td> Prohibition of pandering advertisements.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3009" data-uslm-ref="/us/usc/t39/s3009">3009.</a>  </td>
 
     <td> Mailing of unordered merchandise.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3010" data-uslm-ref="/us/usc/t39/s3010">3010.</a>  </td>
 
     <td> Mailing of sexually oriented advertisements.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3011" data-uslm-ref="/us/usc/t39/s3011">3011.</a>  </td>
 
     <td> Judicial enforcement.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3012" data-uslm-ref="/us/usc/t39/s3012">3012.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3013" data-uslm-ref="/us/usc/t39/s3013">3013.</a>  </td>
 
     <td> Semiannual reports on investigative activities of the Postal Service.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3014" data-uslm-ref="/us/usc/t39/s3014">3014.</a>  </td>
 
     <td> Nonmailable plants.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3015" data-uslm-ref="/us/usc/t39/s3015">3015.</a>  </td>
 
     <td> Nonmailable plant pests and injurious animals.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3016" data-uslm-ref="/us/usc/t39/s3016">3016.</a>  </td>
 
     <td> Administrative subpoenas.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3017" data-uslm-ref="/us/usc/t39/s3017">3017.</a>  </td>
 
     <td> Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs3018" data-uslm-ref="/us/usc/t39/s3018">3018.</a>  </td>
 
     <td> Hazardous material.  </td>
 

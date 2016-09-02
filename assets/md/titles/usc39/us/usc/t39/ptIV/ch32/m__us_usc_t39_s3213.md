@@ -15,7 +15,7 @@
 
 ## § 3213. Seeds and reports from Department of Agriculture
 
-Seeds and agricultural reports emanating from the Department of Agriculture may be mailed—
+    Seeds and agricultural reports emanating from the Department of Agriculture may be mailed—
 
     (1) as penalty mail by the Secretary of Agriculture; and
 

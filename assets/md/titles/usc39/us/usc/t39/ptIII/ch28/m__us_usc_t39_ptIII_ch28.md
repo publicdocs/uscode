@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2801" data-uslm-ref="/us/usc/t39/s2801">2801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2802" data-uslm-ref="/us/usc/t39/s2802">2802.</a>  </td>
 
     <td> Strategic plans.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2803" data-uslm-ref="/us/usc/t39/s2803">2803.</a>  </td>
 
     <td> Performance plans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2804" data-uslm-ref="/us/usc/t39/s2804">2804.</a>  </td>
 
     <td> Program performance reports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft39%2Fs2805" data-uslm-ref="/us/usc/t39/s2805">2805.</a>  </td>
 
     <td> Inherently Governmental functions.  </td>
 

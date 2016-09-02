@@ -15,7 +15,7 @@
 
 ## § 2001. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “Fund” means the Postal Service Fund established by section 2003 of this chapter;
 
