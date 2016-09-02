@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6432b.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6434.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433)
+[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6432b.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433)
 
 ## § 6433. Report of Commission
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6432b.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6434.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433)
+[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6432b.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433)
 
 ----------
 ----------

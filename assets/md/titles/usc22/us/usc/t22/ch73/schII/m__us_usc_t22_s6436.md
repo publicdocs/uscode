@@ -15,11 +15,13 @@
 
 ## § 6436. Termination
 
-    The Commission shall terminate on September 30, 2015.
+    The Commission shall terminate on September 30, 2019.
 
-([Pub. L. 105–292, title II, § 209][/us/pl/105/292/s209], formerly § 206, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; renumbered § 209 and amended [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], (c), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401], 405; [Pub. L. 107–228, div. A, title VI, § 681(g)][/us/pl/107/228/s681/g], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75, § 6][/us/pl/112/75/s6], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273]; [Pub. L. 113–271, § 1(2)][/us/pl/113/271/s1/2], Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951].)
+([Pub. L. 105–292, title II, § 209][/us/pl/105/292/s209], formerly § 206, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; renumbered § 209 and amended [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], (c), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401], 405; [Pub. L. 107–228, div. A, title VI, § 681(g)][/us/pl/107/228/s681/g], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75, § 6][/us/pl/112/75/s6], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273]; [Pub. L. 113–271, § 1(2)][/us/pl/113/271/s1/2], Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951]; [Pub. L. 114–71, § 3][/us/pl/114/71/s3], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–71][/us/pl/114/71] substituted “September 30, 2019” for “September 30, 2015”.
 
     2014—[Pub. L. 113–271][/us/pl/113/271] substituted “September 30, 2015” for “September 30, 2014”.
 
@@ -56,6 +58,9 @@
 [/us/stat/125/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1273
 [/us/pl/113/271/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271%2Fs1%2F2
 [/us/stat/128/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2951
+[/us/pl/114/71/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs3
+[/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
+[/us/pl/114/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71
 [/us/pl/113/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271
 [/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228

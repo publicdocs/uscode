@@ -45,6 +45,16 @@
 
     1999—Subsec. (f). [Pub. L. 106–55][/us/pl/106/55] struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
 
+ __Sense of Congress__ 
+
+[Pub. L. 114–71, § 2][/us/pl/114/71/s2], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
+
+> “It is the sense of the Congress that the United States Commission on International Religious Freedom—
+
+>     “(1) was created by Congress to independently assess and to accurately and unflinchingly describe threats to religious freedom around the world; and
+
+>     “(2) in carrying out its prescribed duties, should use its authorized powers to ensure that efforts by the United States to advance religious freedom abroad are timely, appropriate to the circumstances, prudent, and effective.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6431.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6432a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432)
@@ -57,5 +67,7 @@
 [/us/pl/106/55/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F1
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
 [/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
+[/us/pl/114/71/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs2
+[/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
 
 

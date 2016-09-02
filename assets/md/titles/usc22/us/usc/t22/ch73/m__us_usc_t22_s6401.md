@@ -69,6 +69,12 @@
 
     2014—Subsec. (a)(4). [Pub. L. 113–154][/us/pl/113/154] inserted “desecration of cemeteries,” after “confiscations of property,”.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–71, § 1][/us/pl/114/71/s1], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
+
+> “This Act \[enacting [section 6433a of this title][/us/usc/t22/s6433a], amending sections 6435 and 6436 of this title, and enacting provisions set out as a note under section 6432 of this section\] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2015’.”
+
  __Short Title of 2011 Amendment__ 
 
 [Pub. L. 112–75, § 1][/us/pl/112/75/s1], Dec. 23, 2011, [125 Stat. 1272][/us/stat/125/1272], provided that: 
@@ -115,6 +121,9 @@
 [/us/stat/91/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1067
 [/us/usc/t22/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs261
 [/us/pl/113/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154
+[/us/pl/114/71/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs1
+[/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
+[/us/usc/t22/s6433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433a
 [/us/pl/112/75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs1
 [/us/stat/125/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1272
 [/us/usc/t22/s6432b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432b

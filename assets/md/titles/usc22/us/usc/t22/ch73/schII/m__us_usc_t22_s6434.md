@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6435.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6434)
+[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433a.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6435.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6434)
 
 ## § 6434. Applicability of other laws
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6435.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6434)
+[Previous](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6433a.md) | [Next](./../../../../..//us/usc/t22/ch73/schII/m__us_usc_t22_s6435.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6434)
 
 ----------
 ----------

@@ -153,6 +153,14 @@ SUBCHAPTER II—COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6433a" data-uslm-ref="/us/usc/t22/s6433a">6433a.</a>  </td>
+
+    <td> Strategic plan.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6434" data-uslm-ref="/us/usc/t22/s6434">6434.</a>  </td>
 
     <td> Applicability of other laws.  </td>
