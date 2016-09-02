@@ -473,10 +473,6 @@ Provisions prohibiting expenditure of funds made available for official expenses
 
     \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
- __Former President Eisenhower; Allowance; Compensation of Office Staff; Widow’s Pension__ 
-
-    Allowance to former President Eisenhower as precluding entitlement to pay of General of the Army, compensation of office staff to former President to be reduced by pay of military assistants to the General of the Army, and benefits of widow of former President unaffected by restoration of military status, see Appointment of General of the Army note under former sections 1691 to 1697 of Title 50, Appendix, War and National Defense.
-
 ----------
 
 [Previous](./../../../..//us/usc/t3/ch2/m__us_usc_t3_s101.md) | [Next](./../../../..//us/usc/t3/ch2/m__us_usc_t3_s103.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102)

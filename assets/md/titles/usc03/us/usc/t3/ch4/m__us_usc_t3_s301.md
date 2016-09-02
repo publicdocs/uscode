@@ -917,7 +917,7 @@ Section 1. The Secretary of Defense is designated to perform, without approval, 
 
     (e) The Director of Central Intelligence shall submit the following reports:
 
-    1. Report on Foreign Economic Collection and Industrial Espionage, consistent with [section 809(b) of Public Law 103–359][/us/pl/103/359/s809/b] (50 U.S.C. App. 2170\[b\](b)); and
+    1. Report on Foreign Economic Collection and Industrial Espionage, consistent with [section 809(b) of Public Law 103–359][/us/pl/103/359/s809/b] (\[former\] 50 U.S.C. App. 2170\[b\](b)); and
 
     2. Reports on Commerce With, and Assistance to, Cuba from Other Foreign Countries, consistent with [section 108(a) of Public Law 104–114][/us/pl/104/114/s108/a] ([22 U.S.C. 6038(a)][/us/usc/t22/s6038/a]).
 
