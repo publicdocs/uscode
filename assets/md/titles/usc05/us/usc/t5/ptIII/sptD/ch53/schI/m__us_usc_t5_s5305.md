@@ -143,7 +143,7 @@
 
 >     “(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, § 405\] of [Pub. L. 101–509][/us/pl/101/509], set out in a note below\].”
 
-Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509], as amended by [Pub. L. 102–378, § 3(5)][/us/pl/102/378/s3/5]–(9), Oct. 2, 1992, [106 Stat. 1356][/us/stat/106/1356]; [Pub. L. 103–123, title VI, § 628][/us/pl/103/123/s628], Oct. 28, 1993, [107 Stat. 1266][/us/stat/107/1266]; [Pub. L. 103–178, title III, § 303(a)][/us/pl/103/178/s303/a], Dec. 3, 1993, [107 Stat. 2034][/us/stat/107/2034]; [Pub. L. 105–61, title I, § 118(e)][/us/pl/105/61/s118/e], Oct. 10, 1997, [111 Stat. 1288][/us/stat/111/1288]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 907(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309; [Pub. L. 108–411, title I, § 101(b)][/us/pl/108/411/s101/b], title III, § 301(b), Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], 2317, provided that:
+[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, §§ 401–407\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1465, as amended by [Pub. L. 102–378, § 3(5)][/us/pl/102/378/s3/5]–(9), Oct. 2, 1992, [106 Stat. 1356][/us/stat/106/1356]; [Pub. L. 103–123, title VI, § 628][/us/pl/103/123/s628], Oct. 28, 1993, [107 Stat. 1266][/us/stat/107/1266]; [Pub. L. 103–178, title III, § 303(a)][/us/pl/103/178/s303/a], Dec. 3, 1993, [107 Stat. 2034][/us/stat/107/2034]; [Pub. L. 105–61, title I, § 118(e)][/us/pl/105/61/s118/e], Oct. 10, 1997, [111 Stat. 1288][/us/stat/111/1288]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 907(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309; [Pub. L. 108–411, title I, § 101(b)][/us/pl/108/411/s101/b], title III, § 301(b), Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], 2317, provided that:
 
 > “SEC. 401. __SHORT TITLE.__ 
 
@@ -650,7 +650,8 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 [/us/usc/t18/s3056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/102/378/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs3%2F5
 [/us/stat/106/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1356
 [/us/pl/103/123/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs628

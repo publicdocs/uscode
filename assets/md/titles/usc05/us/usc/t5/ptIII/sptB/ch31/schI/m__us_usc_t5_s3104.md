@@ -215,6 +215,12 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
     Amendment by [Pub. L. 91–375][/us/pl/91/375] effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see [section 15(a) of Pub. L. 91–375][/us/pl/91/375/s15/a], set out as an Effective Date note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
 
+ __Retention Pay for Employees Subject to a Reduction in Pay Upon Termination of Bureau’s Personnel Management Demonstration Project__ 
+
+[Pub. L. 114–113, div. B, title II, § 206][/us/pl/114/113/s206], Dec. 18, 2015, [129 Stat. 2312][/us/stat/129/2312], provided that: 
+
+> “Funds appropriated by this \[Act\] \[div. B of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act, with respect to any fiscal year, under the heading ‘Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses’ shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau’s Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, [Public Law 107–296][/us/pl/107/296] ([28 U.S.C. 599B][/us/usc/t28/s599B])): Provided, That such retention pay shall comply with [section 5363 of title 5][/us/usc/t5/s5363], United States Code, and related Office of Personnel Management regulations, except as provided in this section: Provided further, That such retention pay shall be paid at the employee’s rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in [section 5304(g)(1) of title 5][/us/usc/t5/s5304/g/1], United States Code, and related regulations.”
+
  __Experimental Personnel Program for Scientific and Technical Personnel__ 
 
 [Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973; [Pub. L. 113–291, div. A, title XI, § 1104][/us/pl/113/291/s1104], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1075(b), 1081(b)(5), Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997], 1001, provided that:
@@ -428,6 +434,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
+[/us/pl/114/113/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206
+[/us/stat/129/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2312
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t28/s599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599B
+[/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363
+[/us/usc/t5/s5304/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304%2Fg%2F1
 [/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101
 [/us/stat/112/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2139
 [/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3

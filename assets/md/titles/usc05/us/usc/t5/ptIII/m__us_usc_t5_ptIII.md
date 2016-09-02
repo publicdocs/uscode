@@ -549,11 +549,31 @@ Subpart I—Miscellaneous  </td>
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+Subpart J—Enhanced Personnel Security Programs  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptJ%2Fch110" data-uslm-ref="/us/usc/t5/ptIII/sptJ/ch110">110.</a>  </td>
+
+    <td> Enhanced personnel  <sup>[2]</sup>  security  <sup>[2]</sup>  programs  <sup>[2]</sup>   </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs11001" data-uslm-ref="/us/usc/t5/s11001">11001</a>  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–47, § 2(b)][/us/pl/114/47/s2/b], Aug. 7, 2015, [129 Stat. 487][/us/stat/129/487], added item for chapter 96.
+    2015—[Pub. L. 114–113, div. M, title III, § 306(a)(2)][/us/pl/114/113/s306/a/2], Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916], added items for subpart J and chapter 110.
+
+    [Pub. L. 114–47, § 2(b)][/us/pl/114/47/s2/b], Aug. 7, 2015, [129 Stat. 487][/us/stat/129/487], added item for chapter 96.
 
     2011—[Pub. L. 112–81, div. A, title XI, § 1101(d)(2)][/us/pl/112/81/s1101/d/2], Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], added item for chapter 99 and struck out former item for chapter 99 “Department of Defense National Security Personnel System”.
 
@@ -598,6 +618,8 @@ Subpart I—Miscellaneous  </td>
 ----------
 ----------
 
+[/us/pl/114/113/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306%2Fa%2F2
+[/us/stat/129/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2916
 [/us/pl/114/47/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47%2Fs2%2Fb
 [/us/stat/129/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F487
 [/us/pl/112/81/s1101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fd%2F2

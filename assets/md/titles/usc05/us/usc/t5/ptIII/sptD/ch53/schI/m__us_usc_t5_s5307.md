@@ -43,7 +43,7 @@
 
          Notwithstanding any other provision of this section, subsection (a)(1) shall be applied by substituting “the total annual compensation payable to the Vice President under [section 104 of title 3][/us/usc/t3/s104]” for “the annual rate of basic pay payable for level I of the Executive Schedule” in the case of any employee who—
 
-            (A) is paid under section 5376 or 5383 of this title or section 332(f), 603, or 604 of title 28; and
+            (A) is paid under section 5376 or 5383 of this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 ([2 U.S.C. 1849][/us/usc/t2/s1849]); and
 
             (B) holds a position in or under an agency which is described in paragraph (2).
 
@@ -59,7 +59,21 @@
 
         (4) Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection with respect to employees within the judicial branch shall be the responsibility of the Director of the Administrative Office of the United States Courts. However, the regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1950][/us/stat/84/1950]; amended [Pub. L. 97–258, § 3(a)(10)][/us/pl/97/258/s3/a/10], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1438; [Pub. L. 102–77, § 2][/us/pl/102/77/s2], July 26, 1991, [105 Stat. 369][/us/stat/105/369]; [Pub. L. 107–273, div. A, title II, § 207(b)][/us/pl/107/273/s207/b], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780]; [Pub. L. 107–296, title XIII, § 1322][/us/pl/107/296/s1322], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297]; [Pub. L. 110–372, § 3(a)][/us/pl/110/372/s3/a], Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045].)
+        (5)
+
+            (A)
+
+             Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection—
+
+                (i) with respect to employees of the Library of Congress shall be the responsibility of the Librarian of Congress;
+
+                (ii) with respect to employees of the Office of the Architect of the Capitol shall be the responsibility of the Architect of the Capitol; and
+
+                (iii) with respect to employees of the Government Publishing Office shall be the responsibility of the Director of the Government Publishing Office.
+
+            (B) The regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
+
+(Added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1950][/us/stat/84/1950]; amended [Pub. L. 97–258, § 3(a)(10)][/us/pl/97/258/s3/a/10], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1438; [Pub. L. 102–77, § 2][/us/pl/102/77/s2], July 26, 1991, [105 Stat. 369][/us/stat/105/369]; [Pub. L. 107–273, div. A, title II, § 207(b)][/us/pl/107/273/s207/b], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780]; [Pub. L. 107–296, title XIII, § 1322][/us/pl/107/296/s1322], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297]; [Pub. L. 110–372, § 3(a)][/us/pl/110/372/s3/a], Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045]; [Pub. L. 114–113, div. I, title II, § 210(a)][/us/pl/114/113/s210/a], Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674].)
 
  __References in Text__ 
 
@@ -68,6 +82,10 @@
     Section 5757, referred to in subsec. (a)(2)(B), probably means the [section 5757 of this title][/us/usc/t5/s5757] added by [Pub. L. 107–273][/us/pl/107/273], relating to extended assignment incentive.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1)(A). [Pub. L. 114–113, § 210(a)(1)][/us/pl/114/113/s210/a/1], substituted “this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 ([2 U.S.C. 1849][/us/usc/t2/s1849])” for “this title or section 332(f), 603, or 604 of title 28”.
+
+    Subsec. (d)(5). [Pub. L. 114–113, § 210(a)(2)][/us/pl/114/113/s210/a/2], added par. (5).
 
     2008—Subsec. (d)(2). [Pub. L. 110–372, § 3(a)(1)][/us/pl/110/372/s3/a/1], substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
 
@@ -88,6 +106,12 @@
     1990—[Pub. L. 101–509][/us/pl/101/509] amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
     1982—Subsec. (a). [Pub. L. 97–258][/us/pl/97/258] substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. I, title II, § 210(b)][/us/pl/114/113/s210/b], Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -167,6 +191,7 @@
 ----------
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
+[/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849
 [/us/pl/91/656/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fa
 [/us/stat/84/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1950
 [/us/pl/97/258/s3/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F10
@@ -181,9 +206,14 @@
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/pl/110/372/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa
 [/us/stat/122/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4045
+[/us/pl/114/113/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa
+[/us/stat/129/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2674
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t5/s5757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/114/113/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa%2F1
+[/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849
+[/us/pl/114/113/s210/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa%2F2
 [/us/pl/110/372/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa%2F1
 [/us/pl/110/372/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa%2F2
 [/us/pl/107/296/s1322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1322%2Fb%2F1
@@ -194,6 +224,8 @@
 [/us/pl/102/77/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77%2Fs2%2F4
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
+[/us/pl/114/113/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fb
+[/us/stat/129/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2674
 [/us/pl/110/372/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fc
 [/us/stat/122/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4046
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

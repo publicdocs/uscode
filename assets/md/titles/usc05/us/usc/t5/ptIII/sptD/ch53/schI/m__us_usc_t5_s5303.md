@@ -163,23 +163,23 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
  __Federal Employee Pay Adjustments__ 
 
-2015—[Pub. L. 113–235, div. E, title VII, § 738][/us/pl/113/235/s738], Dec. 16, 2014, [128 Stat. 2388][/us/stat/128/2388], provided that:
+[Pub. L. 114–113, div. E, title VII, § 738][/us/pl/114/113/s738], Dec. 18, 2015, [129 Stat. 2482][/us/stat/129/2482], provided that:
 
->     “(a) The Vice President may not receive a pay raise in calendar year 2015, notwithstanding the rate adjustment made under [section 104 of title 3][/us/usc/t3/s104], United States Code, or any other provision of law.
+>     “(a) The Vice President may not receive a pay raise in calendar year 2016, notwithstanding the rate adjustment made under [section 104 of title 3][/us/usc/t3/s104], United States Code, or any other provision of law.
 
->     “(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2015, notwithstanding schedule adjustments made under [section 5318 of title 5][/us/usc/t5/s5318], United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment.
+>     “(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2016, notwithstanding schedule adjustments made under [section 5318 of title 5][/us/usc/t5/s5318], United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment.
 
->     “(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2015, notwithstanding section 401 of the Foreign Service Act of 1980 ([Public Law 96–465][/us/pl/96/465]) \[[22 U.S.C. 3961][/us/usc/t22/s3961]\] or any other provision of law, except as provided in subsection (g), (h), or (i).
+>     “(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2016, notwithstanding section 401 of the Foreign Service Act of 1980 ([Public Law 96–465][/us/pl/96/465]) \[[22 U.S.C. 3961][/us/usc/t22/s3961]\] or any other provision of law, except as provided in subsection (g), (h), or (i).
 
 >     “(d)
 
->      Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2015 (except as provided in subsection (g), (h), or (i)) by—
+>      Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2016 (except as provided in subsection (g), (h), or (i)) by—
 
 >         “(1) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above level IV of the Executive Schedule \[[5 U.S.C. 5315][/us/usc/t5/s5315]\]; or
 
 >         “(2) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above level IV of the Executive Schedule.
 
->     “(e) Any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5][/us/usc/t5/s5304], United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2015, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system \[see [5 U.S.C. 5331][/us/usc/t5/s5331] et seq.\] or the Foreign Service pay system \[see [22 U.S.C. 3961][/us/usc/t22/s3961] et seq.\], or to employees appointed under [section 3161 of title 5][/us/usc/t5/s3161], United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+>     “(e) Any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5][/us/usc/t5/s5304], United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2016, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system \[see [5 U.S.C. 5331][/us/usc/t5/s5331] et seq.\] or the Foreign Service pay system \[see [22 U.S.C. 3961][/us/usc/t22/s3961] et seq.\], or to employees appointed under [section 3161 of title 5][/us/usc/t5/s3161], United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
 
 >     “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
 
@@ -191,9 +191,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >     “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013.
 
->     “(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2015 but ends in calendar year 2016, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period.”
+>     “(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2016 but ends in calendar year 2017, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period.”
 
 Similar provisions were contained in the following prior acts:
+
+    2015—[Pub. L. 113–235, div. E, title VII, § 738][/us/pl/113/235/s738], Dec. 16, 2014, [128 Stat. 2388][/us/stat/128/2388].
 
     2014—[Pub. L. 113–76, div. E, title VII, § 741][/us/pl/113/76/s741], Jan. 17, 2014, [128 Stat. 241][/us/stat/128/241].
 
@@ -703,8 +705,8 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/106/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1343
 [/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/113/235/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs738
-[/us/stat/128/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2388
+[/us/pl/114/113/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs738
+[/us/stat/129/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2482
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
@@ -717,6 +719,8 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3392
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb
+[/us/pl/113/235/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs738
+[/us/stat/128/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2388
 [/us/pl/113/76/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs741
 [/us/stat/128/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F241
 [/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147

@@ -77,6 +77,142 @@ The words “or military department” are inserted to preserve the application 
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+ __Federal Cybersecurity Workforce Assessment__ 
+
+[Pub. L. 114–113, div. N, title III][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2975][/us/stat/129/2975], provided that:
+
+> “SEC. 301. __SHORT TITLE.__ 
+
+>     “This title may be cited as the ‘Federal Cybersecurity Workforce Assessment Act of 2015’.
+
+> “SEC. 302. __DEFINITIONS.__ 
+
+> “In this title:
+
+>     “(1)  __Appropriate congressional committees__  __.—__ 
+
+>     The term ‘appropriate congressional committees’ means—
+
+>         “(A) the Committee on Armed Services of the Senate;
+
+>         “(B) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+>         “(C) the Select Committee on Intelligence of the Senate;
+
+>         “(D) the Committee on Commerce, Science, and Transportation of the Senate;
+
+>         “(E) the Committee on Armed Services of the House of Representatives;
+
+>         “(F) the Committee on Homeland Security of the House of Representatives;
+
+>         “(G) the Committee on Oversight and Government Reform of the House of Representatives; and
+
+>         “(H) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+>     “(2)  __Director__  __.—__ 
+
+>     The term ‘Director’ means the Director of the Office of Personnel Management.
+
+>     “(3)  __National initiative for cybersecurity education__  __.—__ 
+
+>     The term ‘National Initiative for Cybersecurity Education’ means the initiative under the national cybersecurity awareness and education program, as authorized under section 401 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7451][/us/usc/t15/s7451]).
+
+>     “(4)  __Work roles__  __.—__ 
+
+>     The term ‘ work roles’ means a specialized set of tasks and functions requiring specific knowledge, skills, and abilities.
+
+> “SEC. 303. __NATIONAL CYBERSECURITY WORKFORCE MEASUREMENT INITIATIVE.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The head of each Federal agency shall—
+
+>         “(1) identify all positions within the agency that require the performance of cybersecurity or other cyber-related functions; and
+
+>         “(2) assign the corresponding employment code under the National Initiative for Cybersecurity Education in accordance with subsection (b).
+
+>     “(b) __Employment Codes.—__ 
+
+>         “(1) __Procedures.—__ 
+
+>             “(A)  __Coding structure__  __.—__ 
+
+>             Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Director, in coordination with the National Institute of Standards and Technology, shall develop a coding structure under the National Initiative for Cybersecurity Education.
+
+>             “(B)  __Identification of civilian cyber personnel__  __.—__ 
+
+>             Not later than 9 months after the date of enactment of this Act, the Director, in coordination with the Secretary of Homeland Security, the Director of the National Institute of Standards and Technology, and the Director of National Intelligence, shall establish procedures to implement the National Initiative for Cybersecurity Education coding structure to identify all Federal civilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions.
+
+>             “(C)  __Identification of noncivilian cyber personnel__  __.—__ 
+
+>             Not later than 18 months after the date of enactment of this Act, the Secretary of Defense shall establish procedures to implement the National Initiative for Cybersecurity Education’s coding structure to identify all Federal noncivilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions.
+
+>             “(D)  __Baseline assessment of existing cybersecurity workforce__  __.—__ 
+
+>             Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall submit to the appropriate congressional committees of jurisdiction a report that identifies—
+
+>                 “(i) the percentage of personnel with information technology, cybersecurity, or other cyber-related job functions who currently hold the appropriate industry-recognized certifications as identified under the National Initiative for Cybersecurity Education;
+
+>                 “(ii) the level of preparedness of other civilian and noncivilian cyber personnel without existing credentials to take certification exams; and
+
+>                 “(iii) a strategy for mitigating any gaps identified in clause (i) or (ii) with the appropriate training and certification for existing personnel.
+
+>             “(E)  __Procedures for assigning codes__  __.—__ 
+
+>             Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall establish procedures—
+
+>                 “(i) to identify all encumbered and vacant positions with information technology, cybersecurity, or other cyber-related functions (as defined in the National Initiative for Cybersecurity Education’s coding structure); and
+
+>                 “(ii) to assign the appropriate employment code to each such position, using agreed standards and definitions.
+
+>         “(2)  __Code assignments__  __.—__ 
+
+>         Not later than 1 year after the date after the procedures are established under paragraph (1)(E), the head of each Federal agency shall complete assignment of the appropriate employment code to each position within the agency with information technology, cybersecurity, or other cyber-related functions.
+
+>     “(c)  __Progress Report__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act, the Director shall submit a progress report on the implementation of this section to the appropriate congressional committees.
+
+> “SEC. 304. __IDENTIFICATION OF CYBER-RELATED WORK ROLES OF CRITICAL NEED.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Beginning not later than 1 year after the date on which the employment codes are assigned to employees pursuant to section 303(b)(2), and annually thereafter through 2022, the head of each Federal agency, in consultation with the Director, the Director of the National Institute of Standards and Technology, and the Secretary of Homeland Security, shall—
+
+>         “(1) identify information technology, cybersecurity, or other cyber-related work roles of critical need in the agency’s workforce; and
+
+>         “(2)
+
+>          submit a report to the Director that—
+
+>             “(A) describes the information technology, cybersecurity, or other cyber-related roles identified under paragraph (1); and
+
+>             “(B) substantiates the critical need designations.
+
+>     “(b)  __Guidance__  __.—__ 
+
+>     The Director shall provide Federal agencies with timely guidance for identifying information technology, cybersecurity, or other cyber-related roles of critical need, including—
+
+>         “(1) current information technology, cybersecurity, and other cyber-related roles with acute skill shortages; and
+
+>         “(2) information technology, cybersecurity, or other cyber-related roles with emerging skill shortages.
+
+>     “(c)  __Cybersecurity Needs Report__  __.—__ 
+
+>     Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], the Director, in consultation with the Secretary of Homeland Security, shall—
+
+>         “(1) identify critical needs for information technology, cybersecurity, or other cyber-related workforce across all Federal agencies; and
+
+>         “(2) submit a progress report on the implementation of this section to the appropriate congressional committees.
+
+> “SEC. 305. __GOVERNMENT ACCOUNTABILITY OFFICE STATUS REPORTS.__ 
+
+> “The Comptroller General of the United States shall—
+
+>     “(1) analyze and monitor the implementation of sections 303 and 304; and
+
+>     “(2) not later than 3 years after the date of the enactment of this Act \[Dec. 18, 2015\], submit a report to the appropriate congressional committees that describes the status of such implementation.”
+
  __Plain Writing in Government Documents__ 
 
 [Pub. L. 111–274][/us/pl/111/274], Oct. 13, 2010, [124 Stat. 2861][/us/stat/124/2861], provided that:
@@ -430,6 +566,9 @@ The words “or military department” are inserted to preserve the application 
 [/us/act/1949-08-10/ch412/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs4
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/usc/t5/s171–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%E2%80%931
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2975
+[/us/usc/t15/s7451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7451
 [/us/pl/111/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F274
 [/us/stat/124/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2861
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105

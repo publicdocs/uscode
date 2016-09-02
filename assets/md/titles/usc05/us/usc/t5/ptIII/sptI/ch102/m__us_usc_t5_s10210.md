@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch102/m__us_usc_t5_s10209.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10210)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch102/m__us_usc_t5_s10209.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptJ/m__us_usc_t5_ptIII_sptJ.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10210)
 
 ## § 10210. Reporting requirement
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch102/m__us_usc_t5_s10209.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10210)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch102/m__us_usc_t5_s10209.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptJ/m__us_usc_t5_ptIII_sptJ.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10210)
 
 ----------
 ----------
