@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Section 635a(l) of this title, as amended by section 51005, referred to in subsec. (a), is section 635a(1) of this title, as amended by [section 51005 of Pub. L. 114–94][/us/pl/114/94/s51005].
+    Section 635a(l) of this title, as amended by section 51005, referred to in subsec. (a), is section 635a(l) of this title, as amended by [section 51005 of Pub. L. 114–94][/us/pl/114/94/s51005].
 
  __Codification__ 
 

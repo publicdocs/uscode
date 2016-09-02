@@ -73,6 +73,20 @@
 
 > “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to reports required to be submitted under section 11(b) of the Export-Import Bank Reauthorization Act of 2012 ([12 U.S.C. 635a–5(b)][/us/usc/t12/s635a–5/b]) after the date of the enactment of this Act \[Dec. 4, 2015\].”
 
+ __Delegation of Authority Under Section 11 of the Export-Import Bank Reauthorization Act of 2012__ 
+
+    Memorandum of President of the United States, Mar. 11, 2016, 81 F.R. 14367, provided:
+
+    Memorandum for the Secretary of the Treasury
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to you the functions and authorities vested in the President by section 11 of the Export-Import Bank Reauthorization Act of 2012, as amended.
+
+    In exercising functions and authority delegated by this memorandum, you shall ensure that all actions taken by you are consistent with the President’s constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; and (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive’s constitutional duties.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–4.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635a–6.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%935)
@@ -91,5 +105,6 @@
 [/us/pl/114/94/dE/tLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLV
 [/us/stat/129/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1770
 [/us/usc/t12/s635a–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%935%2Fb
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 
 
