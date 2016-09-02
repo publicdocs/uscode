@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1494.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1493)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492a.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1494.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1493)
 
 ## § 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1494.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1493)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492a.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1494.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1493)
 
 ----------
 ----------

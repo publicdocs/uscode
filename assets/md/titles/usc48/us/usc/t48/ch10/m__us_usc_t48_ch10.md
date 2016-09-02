@@ -137,6 +137,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1492a" data-uslm-ref="/us/usc/t48/s1492a">1492a.</a>  </td>
+
+    <td> Study of Electric Rates in the Insular Areas.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1493" data-uslm-ref="/us/usc/t48/s1493">1493.</a>  </td>
 
     <td> Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders.  </td>

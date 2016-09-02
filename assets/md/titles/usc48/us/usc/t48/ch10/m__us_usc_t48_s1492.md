@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1491.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1493.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1491.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492)
 
 ## § 1492. Energy resources of Caribbean and Pacific insular areas
 
@@ -231,7 +231,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1491.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1493.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1491.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492)
 
 ----------
 ----------

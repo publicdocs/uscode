@@ -23,7 +23,7 @@
 
         (2) __Transition period__ 
 
-            There shall be a transition period beginning on the transition program effective date and ending on December 31, 2014, except as provided in subsections (b) and (d), during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the “transition program”).
+            There shall be a transition period beginning on the transition program effective date and ending on December 31, 2019, during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the “transition program”).
 
         (3) __Delay of commencement of transition period__ 
 
@@ -83,39 +83,13 @@
 
         (1) Such an alien shall be treated as a nonimmigrant described in section 101(a)(15) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]), including the ability to apply, if otherwise eligible, for a change of nonimmigrant classification under section 248 of such Act ([8 U.S.C. 1258][/us/usc/t8/s1258]) or adjustment of status under this section and section 245 of such Act ([8 U.S.C. 1255][/us/usc/t8/s1255]).
 
-        (2) The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.). In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection. In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
+        (2) The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.). In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period “ending on December 31, 2019”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The quotation marks probably should not appear. </sup></sup> . In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
 
         (3) The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(38)][/us/usc/t8/s1101/a/38]), except admission to the Commonwealth. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
 
         (4) Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien’s authorized stay therein, without permission of the employee’s current or prior employer, within the alien’s occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce.
 
-        (5)
-
-            (A) Not later than 180 days prior to the expiration of the transition period, or any extension thereof, the Secretary of Labor, in consultation with the Secretary of Homeland Security, the Secretary of Defense, the Secretary of the Interior, and the Governor of the Commonwealth, shall ascertain the current and anticipated labor needs of the Commonwealth and determine whether an extension of up to 5 years of the provisions of this subsection is necessary to ensure an adequate number of workers will be available for legitimate businesses in the Commonwealth. For the purpose of this subparagraph, a business shall not be considered legitimate if it engages directly or indirectly in prostitution, trafficking in minors, or any other activity that is illegal under Federal or local law. The determinations of whether a business is legitimate and to what extent, if any, it may require alien workers to supplement the resident workforce, shall be made by the Secretary of Homeland Security, in the Secretary’s sole discretion.
-
-            (B) If the Secretary of Labor determines that such an extension is necessary to ensure an adequate number of workers for legitimate businesses in the Commonwealth, the Secretary of Labor may, through notice published in the Federal Register, provide for an additional extension period of up to 5 years.
-
-            (C)
-
-             In making the determination of whether alien workers are necessary to ensure an adequate number of workers for legitimate businesses in the Commonwealth, and if so, the number of such workers that are necessary, the Secretary of Labor may consider, among other relevant factors—
-
-                (i) government, industry, or independent workforce studies reporting on the need, or lack thereof, for alien workers in the Commonwealth’s businesses;
-
-                (ii) the unemployment rate of United States citizen workers residing in the Commonwealth;
-
-                (iii) the unemployment rate of aliens in the Commonwealth who have been lawfully admitted for permanent residence;
-
-                (iv) the number of unemployed alien workers in the Commonwealth;
-
-                (v) any good faith efforts to locate, educate, train, or otherwise prepare United States citizen residents, lawful permanent residents, and unemployed alien workers already within the Commonwealth, to assume those jobs;
-
-                (vi) any available evidence tending to show that United States citizen residents, lawful permanent residents, and unemployed alien workers already in the Commonwealth are not willing to accept jobs of the type offered;
-
-                (vii) the extent to which admittance of alien workers will affect the compensation, benefits, and living standards of existing workers within those industries and other industries authorized to employ alien workers; and
-
-                (viii) the prior use, if any, of alien workers to fill those industry jobs, and whether the industry requires alien workers to fill those jobs.
-
-        (6) The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
+        (5) The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
 
     (e) __Persons lawfully admitted under the Commonwealth immigration law__ 
 
@@ -175,13 +149,21 @@
 
         (5) such recommendations to the Congress, as the Secretary may deem appropriate, related to whether or not the Congress should consider permitting lawfully admitted guest workers lawfully residing in the Commonwealth on May 8, 2008, to apply for long-term status under the immigration and nationality laws of the United States.
 
-([Pub. L. 94–241, § 6][/us/pl/94/241/s6], as added [Pub. L. 110–229, title VII, § 702(a)][/us/pl/110/229/s702/a], May 8, 2008, [122 Stat. 854][/us/stat/122/854].)
+([Pub. L. 94–241, § 6][/us/pl/94/241/s6], as added [Pub. L. 110–229, title VII, § 702(a)][/us/pl/110/229/s702/a], May 8, 2008, [122 Stat. 854][/us/stat/122/854]; amended [Pub. L. 113–235, § 10][/us/pl/113/235/s10], Dec. 16, 2014, [128 Stat. 2134][/us/stat/128/2134].)
 
  __References in Text__ 
 
     The Immigration and Nationality Act, referred to in subsecs. (a), (d)(2), and (e)(3), (4), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8][/us/usc/t8/s1101] and Tables.
 
     The Consolidated Natural Resources Act of 2008, referred to in subsec. (e)(1)(B), (3), is [Pub. L. 110–229][/us/pl/110/229], May 8, 2008, [122 Stat. 754][/us/stat/122/754]. Section 702(i) of the Act is set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 1 of Title 16][/us/usc/t16/s1], Conservation, and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–235, § 10(1)][/us/pl/113/235/s10/1], substituted “December 31, 2019” for “December 31, 2014, except as provided in subsections (b) and (d)”.
+
+    Subsec. (d)(2). [Pub. L. 113–235, § 10(2)(A)][/us/pl/113/235/s10/2/A], substituted “ ‘ending on December 31, 2019’ ” for “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection”.
+
+    Subsec. (d)(5), (6). [Pub. L. 113–235, § 10(2)(B)][/us/pl/113/235/s10/2/B], (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
 
  __Effective Date__ 
 
@@ -299,12 +281,17 @@
 [/us/pl/94/241/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241%2Fs6
 [/us/pl/110/229/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fa
 [/us/stat/122/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F854
+[/us/pl/113/235/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10
+[/us/stat/128/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2134
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/stat/122/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F754
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/pl/113/235/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F1
+[/us/pl/113/235/s10/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F2%2FA
+[/us/pl/113/235/s10/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs10%2F2%2FB
 [/us/pl/110/229/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs705
 [/us/stat/122/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F867
 [/us/pl/113/4/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs809
