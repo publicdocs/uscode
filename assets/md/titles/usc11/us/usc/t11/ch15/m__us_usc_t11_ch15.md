@@ -323,7 +323,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
  __Prior Provisions__ 
 
-    A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by [Pub. L. 99–554, title II, § 231][/us/pl/99/554/s231], Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103].
+    A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 231, Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103].
 
 ----------
 
@@ -332,7 +332,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 ----------
 ----------
 
-[/us/pl/99/554/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs231
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3103
 
 

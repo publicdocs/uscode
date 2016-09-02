@@ -85,7 +85,7 @@
 
             (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2645][/us/stat/92/2645]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 314, 525, July 10, 1984, [98 Stat. 356][/us/stat/98/356], 388; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 228, 283(w), Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103], 3118; [Pub. L. 103–394, title V, § 501(d)(37)][/us/pl/103/394/s501/d/37], Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147]; [Pub. L. 109–8, title II, § 219(d)][/us/pl/109/8/s219/d], Apr. 20, 2005, [119 Stat. 58][/us/stat/119/58]; [Pub. L. 111–327, § 2(a)(39)][/us/pl/111/327/s2/a/39], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2645][/us/stat/92/2645]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 314, 525, July 10, 1984, [98 Stat. 356][/us/stat/98/356], 388; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 228, 283(w), Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103], 3118; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(37), Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 219(d), Apr. 20, 2005, [119 Stat. 58][/us/stat/119/58]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(39), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -113,7 +113,7 @@
 
  __References in Text__ 
 
-    Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 930][/us/stat/52/930], which was classified to chapter 13 (§ 1001 et seq.) of former Title 11.
+    Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 930][/us/stat/52/930], which was classified to chapter 13 (§ 1001 et seq.) of former Title 11.
 
     Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
@@ -121,19 +121,19 @@
 
     2010—Subsec. (b)(1). [Pub. L. 111–327][/us/pl/111/327] substituted “704(a)(2), 704(a)(3), 704(a)(4), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(4), 704(5), 704(6), 704(7), and 704(9)”.
 
-    2005—Subsec. (b)(6). [Pub. L. 109–8, § 219(d)(1)][/us/pl/109/8/s219/d/1], added par. (6).
+    2005—Subsec. (b)(6). [Pub. L. 109–8][/us/pl/109/8], § 219(d)(1), added par. (6).
 
-    Subsec. (d). [Pub. L. 109–8, § 219(d)(2)][/us/pl/109/8/s219/d/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 219(d)(2), added subsec. (d).
 
     1994—Subsec. (b)(3). [Pub. L. 103–394][/us/pl/103/394] struck out “and” at end.
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 228(1)][/us/pl/99/554/s228/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under [section 322 of this title][/us/usc/t11/s322], then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under [section 322 of this title][/us/usc/t11/s322], then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
 
-    Subsec. (d). [Pub. L. 99–554, § 228(2)][/us/pl/99/554/s228/2], struck out subsec. (d) which read as follows: “If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.”
+    Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 228(2), struck out subsec. (d) which read as follows: “If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.”
 
-    Subsec. (e). [Pub. L. 99–554, § 283(w)][/us/pl/99/554/s283/w], which directed the amendment of par. (1) by substituting “set for such individual” for “fix” could not be executed in view of the repeal of subsec. (e) by [section 228(2) of Pub. L. 99–554][/us/pl/99/554/s228/2]. See 1984 Amendment note below.
+    Subsec. (e). [Pub. L. 99–554][/us/pl/99/554], § 283(w), which directed the amendment of par. (1) by substituting “set for such individual” for “fix” could not be executed in view of the repeal of subsec. (e) by [section 228(2) of Pub. L. 99–554][/us/pl/99/554/s228/2]. See 1984 Amendment note below.
 
-    [Pub. L. 99–554, § 228(2)][/us/pl/99/554/s228/2], struck out subsec. (e) which read as follows:
+    [Pub. L. 99–554][/us/pl/99/554], § 228(2), struck out subsec. (e) which read as follows:
 
     “(1) A court that has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter shall set for such individual—
 
@@ -151,19 +151,19 @@
 
     “(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases.”
 
-    1984—Subsec. (b)(1). [Pub. L. 98–353, § 314(1)][/us/pl/98/353/s314/1], substituted “704(7), and 704(9) of this title” for “and 704(8) of this title”.
+    1984—Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 314(1), substituted “704(7), and 704(9) of this title” for “and 704(8) of this title”.
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 314(2)][/us/pl/98/353/s314/2], struck out “and” at the end.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 314(2), struck out “and” at the end.
 
-    Subsec. (b)(3) to (5). [Pub. L. 98–353, § 525(a)][/us/pl/98/353/s525/a], added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (b)(3) to (5). [Pub. L. 98–353][/us/pl/98/353], § 525(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    [Pub. L. 98–353, § 314(3)][/us/pl/98/353/s314/3], (4), substituted “; and” for the period at end of par. (3) and added par. (4).
+    [Pub. L. 98–353][/us/pl/98/353], § 314(3), (4), substituted “; and” for the period at end of par. (3) and added par. (4).
 
-    Subsec. (e)(1). [Pub. L. 98–353, § 525(b)(1)][/us/pl/98/353/s525/b/1], which directed the amendment of par. (4) by substituting “set for such individual” for “fix” was executed to par. (1) as the probable intent of Congress.
+    Subsec. (e)(1). [Pub. L. 98–353][/us/pl/98/353], § 525(b)(1), which directed the amendment of par. (4) by substituting “set for such individual” for “fix” was executed to par. (1) as the probable intent of Congress.
 
-    Subsec. (e)(1)(A). [Pub. L. 98–353, § 525(b)(2)][/us/pl/98/353/s525/b/2], struck out “for such individual” after “a maximum annual compensation”.
+    Subsec. (e)(1)(A). [Pub. L. 98–353][/us/pl/98/353], § 525(b)(2), struck out “for such individual” after “a maximum annual compensation”.
 
-    Subsec. (e)(2)(A). [Pub. L. 98–353, § 525(b)(3)][/us/pl/98/353/s525/b/3], substituted “received by” for “of”, and “of all such payments made” for “upon all payments”.
+    Subsec. (e)(2)(A). [Pub. L. 98–353][/us/pl/98/353], § 525(b)(3), substituted “received by” for “of”, and “of all such payments made” for “upon all payments”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -195,39 +195,39 @@
 [/us/usc/t11/s1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1326
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2645
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F356
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3103
-[/us/pl/103/394/s501/d/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F37
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4147
-[/us/pl/109/8/s219/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fd
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F58
-[/us/pl/111/327/s2/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F39
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
 [/us/usc/t11/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs704
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F930
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s219/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fd%2F1
-[/us/pl/109/8/s219/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fd%2F2
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s228/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs228%2F1
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554/s228/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs228%2F2
-[/us/pl/99/554/s283/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fw
-[/us/pl/99/554/s228/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs228%2F2
-[/us/pl/99/554/s228/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs228%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/98/353/s314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs314%2F1
-[/us/pl/98/353/s314/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs314%2F2
-[/us/pl/98/353/s525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs525%2Fa
-[/us/pl/98/353/s314/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs314%2F3
-[/us/pl/98/353/s525/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs525%2Fb%2F1
-[/us/pl/98/353/s525/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs525%2Fb%2F2
-[/us/pl/98/353/s525/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs525%2Fb%2F3
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

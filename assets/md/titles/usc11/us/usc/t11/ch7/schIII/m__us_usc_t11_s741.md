@@ -131,7 +131,7 @@
 
     (9) “SIPC” means Securities Investor Protection Corporation.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2611][/us/stat/92/2611]; [Pub. L. 97–222, § 8][/us/pl/97/222/s8], July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 98–353, title III, § 482][/us/pl/98/353/s482], July 10, 1984, [98 Stat. 382][/us/stat/98/382]; [Pub. L. 103–394, title V, § 501(d)(25)][/us/pl/103/394/s501/d/25], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title IX, § 907(a)(2)][/us/pl/109/8/s907/a/2], Apr. 20, 2005, [119 Stat. 173][/us/stat/119/173]; [Pub. L. 109–390, § 5(a)(3)][/us/pl/109/390/s5/a/3], Dec. 12, 2006, [120 Stat. 2697][/us/stat/120/2697].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2611][/us/stat/92/2611]; [Pub. L. 97–222][/us/pl/97/222], § 8, July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 482, July 10, 1984, [98 Stat. 382][/us/stat/98/382]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(25), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(a)(2), Apr. 20, 2005, [119 Stat. 173][/us/stat/119/173]; [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3), Dec. 12, 2006, [120 Stat. 2697][/us/stat/120/2697].)
 
  __Historical and Revision Notes__ 
 
@@ -165,45 +165,45 @@
 
  __Amendments__ 
 
-    2006—Par. (7)(A)(i). [Pub. L. 109–390, § 5(a)(3)(A)][/us/pl/109/390/s5/a/3/A], substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
+    2006—Par. (7)(A)(i). [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
 
-    Par. (7)(A)(iii). [Pub. L. 109–390, § 5(a)(3)(B)][/us/pl/109/390/s5/a/3/B], inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
+    Par. (7)(A)(iii). [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
 
-    Par. (7)(A)(v) to (vii). [Pub. L. 109–390, § 5(a)(3)(D)][/us/pl/109/390/s5/a/3/D], (E), added cls. (v) and (vi) and redesignated former cl. (v) as (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
+    Par. (7)(A)(v) to (vii). [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(D), (E), added cls. (v) and (vi) and redesignated former cl. (v) as (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
 
-    Par. (7)(A)(viii). [Pub. L. 109–390, § 5(a)(3)(D)][/us/pl/109/390/s5/a/3/D], redesignated cl. (vi) as (viii). Former cl. (viii) redesignated (x).
+    Par. (7)(A)(viii). [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(D), redesignated cl. (vi) as (viii). Former cl. (viii) redesignated (x).
 
-    [Pub. L. 109–390, § 5(a)(3)(C)][/us/pl/109/390/s5/a/3/C], substituted “(vii), (viii), or (ix)” for “or (vii)” in two places.
+    [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(C), substituted “(vii), (viii), or (ix)” for “or (vii)” in two places.
 
-    Par. (7)(A)(ix) to (xi). [Pub. L. 109–390, § 5(a)(3)(D)][/us/pl/109/390/s5/a/3/D], redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
+    Par. (7)(A)(ix) to (xi). [Pub. L. 109–390][/us/pl/109/390], § 5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
 
     2005—Par. (7). [Pub. L. 109–8][/us/pl/109/8] added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
 
     1994—Par. (4)(A)(iii). [Pub. L. 103–394][/us/pl/103/394] struck out “([15 U.S.C. 78a][/us/usc/t15/s78a] et seq.)” after “Act of 1934”.
 
-    1984—Par. (2)(A). [Pub. L. 98–353, § 482(1)][/us/pl/98/353/s482/1], substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person’s business as a stockbroker,” for “business as a stockbroker”.
+    1984—Par. (2)(A). [Pub. L. 98–353][/us/pl/98/353], § 482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person’s business as a stockbroker,” for “business as a stockbroker”.
 
-    Par. (2)(B). [Pub. L. 98–353, § 482(2)(A)][/us/pl/98/353/s482/2/A], (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
+    Par. (2)(B). [Pub. L. 98–353][/us/pl/98/353], § 482(2)(A), (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
 
-    Par. (2)(B)(ii). [Pub. L. 98–353, § 482(2)(C)][/us/pl/98/353/s482/2/C], substituted “such person” for “the debtor”.
+    Par. (2)(B)(ii). [Pub. L. 98–353][/us/pl/98/353], § 482(2)(C), substituted “such person” for “the debtor”.
 
-    Par. (4)(A)(i). [Pub. L. 98–353, § 482(3)][/us/pl/98/353/s482/3], substituted “from and that is the lawful” for “and that is”.
+    Par. (4)(A)(i). [Pub. L. 98–353][/us/pl/98/353], § 482(3), substituted “from and that is the lawful” for “and that is”.
 
-    Par. (6)(A)(i). [Pub. L. 98–353, § 482(4)][/us/pl/98/353/s482/4], inserted a comma after “petition” and “any” after “except”.
+    Par. (6)(A)(i). [Pub. L. 98–353][/us/pl/98/353], § 482(4), inserted a comma after “petition” and “any” after “except”.
 
-    Par. (7). [Pub. L. 98–353, § 482(5)][/us/pl/98/353/s482/5], amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+    Par. (7). [Pub. L. 98–353][/us/pl/98/353], § 482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
 
-    Par. (8). [Pub. L. 98–353, § 482(6)][/us/pl/98/353/s482/6], inserted “a final settlement payment,”.
+    Par. (8). [Pub. L. 98–353][/us/pl/98/353], § 482(6), inserted “a final settlement payment,”.
 
-    1982—Par. (4). [Pub. L. 97–222, § 8(1)][/us/pl/97/222/s8/1], struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
+    1982—Par. (4). [Pub. L. 97–222][/us/pl/97/222], § 8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
 
-    Par. (5). [Pub. L. 97–222, § 8(3)][/us/pl/97/222/s8/3], added par. (5). Former par. (5) redesignated (6).
+    Par. (5). [Pub. L. 97–222][/us/pl/97/222], § 8(3), added par. (5). Former par. (5) redesignated (6).
 
-    Par. (6). [Pub. L. 97–222, § 8(2)][/us/pl/97/222/s8/2], (4), redesignated former par. (5) as (6), in provisions preceding subpar. (A), substituted “all accounts of a customer that such customer has” for “the aggregate of all of a customer’s accounts that such customer holds”, in subpar. (A)(2) inserted “in such capacity”, and in subpar. (B) inserted “in such capacity”. Former par. (6) redesignated (9).
+    Par. (6). [Pub. L. 97–222][/us/pl/97/222], § 8(2), (4), redesignated former par. (5) as (6), in provisions preceding subpar. (A), substituted “all accounts of a customer that such customer has” for “the aggregate of all of a customer’s accounts that such customer holds”, in subpar. (A)(2) inserted “in such capacity”, and in subpar. (B) inserted “in such capacity”. Former par. (6) redesignated (9).
 
-    Pars. (7), (8). [Pub. L. 97–222, § 8(5)][/us/pl/97/222/s8/5], added pars. (7) and (8).
+    Pars. (7), (8). [Pub. L. 97–222][/us/pl/97/222], § 8(5), added pars. (7) and (8).
 
-    Par. (9). [Pub. L. 97–222, § 8(2)][/us/pl/97/222/s8/2], (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
+    Par. (9). [Pub. L. 97–222][/us/pl/97/222], § 8(2), (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -232,41 +232,41 @@
 [/us/usc/t11/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs342
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2611
-[/us/pl/97/222/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F237
-[/us/pl/98/353/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F382
-[/us/pl/103/394/s501/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F25
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
-[/us/pl/109/8/s907/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fa%2F2
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F173
-[/us/pl/109/390/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/stat/120/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2697
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/109/390/s5/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FA
-[/us/pl/109/390/s5/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FB
-[/us/pl/109/390/s5/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FD
-[/us/pl/109/390/s5/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FD
-[/us/pl/109/390/s5/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FC
-[/us/pl/109/390/s5/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fa%2F3%2FD
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/98/353/s482/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F1
-[/us/pl/98/353/s482/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F2%2FA
-[/us/pl/98/353/s482/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F2%2FC
-[/us/pl/98/353/s482/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F3
-[/us/pl/98/353/s482/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F4
-[/us/pl/98/353/s482/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F5
-[/us/pl/98/353/s482/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs482%2F6
-[/us/pl/97/222/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8%2F1
-[/us/pl/97/222/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8%2F3
-[/us/pl/97/222/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8%2F2
-[/us/pl/97/222/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8%2F5
-[/us/pl/97/222/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs8%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/pl/109/390/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs7
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -29,7 +29,7 @@
 
     Whenever the Board appoints or designates a trustee, chapter 3 and sections 704 and 705 of this title shall apply to the Board in the same way and to the same extent that they apply to a United States trustee.
 
-(Added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

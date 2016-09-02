@@ -93,7 +93,7 @@
 
                 (ii) willfully attempted in any manner to evade or to defeat such tax or such customs duty.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2638][/us/stat/92/2638]; [Pub. L. 98–353, title III, § 513][/us/pl/98/353/s513], July 10, 1984, [98 Stat. 387][/us/stat/98/387]; [Pub. L. 109–8, title III][/us/pl/109/8], §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 101, 126; [Pub. L. 111–327, § 2(a)(36)][/us/pl/111/327/s2/a/36], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2638][/us/stat/92/2638]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 513, July 10, 1984, [98 Stat. 387][/us/stat/98/387]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 101, 126; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(36), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -121,21 +121,21 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(5)(B)(iii). [Pub. L. 111–327, § 2(a)(36)(A)][/us/pl/111/327/s2/a/36/A], added cl. (iii).
+    2010—Subsec. (d)(5)(B)(iii). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(36)(A), added cl. (iii).
 
-    Subsec. (d)(5)(C). [Pub. L. 111–327, § 2(a)(36)(B)][/us/pl/111/327/s2/a/36/B], substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
+    Subsec. (d)(5)(C). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(36)(B), substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
 
-    2005—Subsec. (d)(2). [Pub. L. 109–8, § 321(d)(1)][/us/pl/109/8/s321/d/1], substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
+    2005—Subsec. (d)(2). [Pub. L. 109–8][/us/pl/109/8], § 321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
 
-    Subsec. (d)(5). [Pub. L. 109–8, § 321(d)(2)][/us/pl/109/8/s321/d/2], added par. (5).
+    Subsec. (d)(5). [Pub. L. 109–8][/us/pl/109/8], § 321(d)(2), added par. (5).
 
-    Subsec. (d)(5)(C). [Pub. L. 109–8, § 330(b)][/us/pl/109/8/s330/b], added subpar. (C).
+    Subsec. (d)(5)(C). [Pub. L. 109–8][/us/pl/109/8], § 330(b), added subpar. (C).
 
-    Subsec. (d)(6). [Pub. L. 109–8, § 708][/us/pl/109/8/s708], added par. (6).
+    Subsec. (d)(6). [Pub. L. 109–8][/us/pl/109/8], § 708, added par. (6).
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 513(a)][/us/pl/98/353/s513/a], substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
 
-    Subsec. (c). [Pub. L. 98–353, § 513(b)][/us/pl/98/353/s513/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
 
  __Effective Date of 2005 Amendment__ 
 
@@ -158,20 +158,20 @@
 [/us/usc/t11/s727/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs727%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2638
-[/us/pl/98/353/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F387
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F95
-[/us/pl/111/327/s2/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
-[/us/pl/111/327/s2/a/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36%2FA
-[/us/pl/111/327/s2/a/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36%2FB
-[/us/pl/109/8/s321/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fd%2F1
-[/us/pl/109/8/s321/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fd%2F2
-[/us/pl/109/8/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fb
-[/us/pl/109/8/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs708
-[/us/pl/98/353/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513%2Fa
-[/us/pl/98/353/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513%2Fb
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fb

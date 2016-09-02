@@ -17,7 +17,7 @@
 
     At any time before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court may terminate the trustee’s appointment and restore the debtor to possession and management of the property of the estate and of the operation of the debtor’s business.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2628][/us/stat/92/2628]; [Pub. L. 98–353, title III, § 501][/us/pl/98/353/s501], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II, § 223][/us/pl/99/554/s223], Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2628][/us/stat/92/2628]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 501, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 223, Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102].)
 
  __Historical and Revision Notes__ 
 
@@ -52,9 +52,9 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2628
-[/us/pl/98/353/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs501
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/99/554/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs223
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3102
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

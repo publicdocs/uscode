@@ -21,7 +21,7 @@
 
     (c) The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2618][/us/stat/92/2618]; [Pub. L. 98–353, title III, § 486][/us/pl/98/353/s486], July 10, 1984, [98 Stat. 383][/us/stat/98/383].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2618][/us/stat/92/2618]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 486, July 10, 1984, [98 Stat. 383][/us/stat/98/383].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2618
-[/us/pl/98/353/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs486
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

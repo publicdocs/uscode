@@ -35,7 +35,7 @@
 
         (3) revests the property of the estate in the entity in which such property was vested immediately before the commencement of the case under this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2569][/us/stat/92/2569]; [Pub. L. 98–353, title III, § 303][/us/pl/98/353/s303], July 10, 1984, [98 Stat. 352][/us/stat/98/352]; [Pub. L. 103–394, title V, § 501(d)(6)][/us/pl/103/394/s501/d/6], Oct. 22, 1994, [108 Stat. 4144][/us/stat/108/4144].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2569][/us/stat/92/2569]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 303, July 10, 1984, [98 Stat. 352][/us/stat/98/352]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(6), Oct. 22, 1994, [108 Stat. 4144][/us/stat/108/4144].)
 
  __Historical and Revision Notes__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t11/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs506%2Fd
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2569
-[/us/pl/98/353/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs303
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F352
-[/us/pl/103/394/s501/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F6
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4144
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

@@ -27,7 +27,7 @@
 
         (2) may, if none of the disinterested members of such panel is willing to serve as trustee, serve as trustee in the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 98–353, title III, § 473][/us/pl/98/353/s473], July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II, § 216][/us/pl/99/554/s216], Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 473, July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 216, Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
 
  __Historical and Revision Notes__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t28/s586/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Fa%2F1
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2605
-[/us/pl/98/353/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs473
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F381
-[/us/pl/99/554/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs216
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3100
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs701

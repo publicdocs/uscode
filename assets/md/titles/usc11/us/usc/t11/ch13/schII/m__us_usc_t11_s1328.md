@@ -79,7 +79,7 @@
 
         (2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2650][/us/stat/92/2650]; [Pub. L. 98–353, title III, § 532][/us/pl/98/353/s532], July 10, 1984, [98 Stat. 389][/us/stat/98/389]; [Pub. L. 101–508, title III, § 3007(b)(1)][/us/pl/101/508/s3007/b/1], Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 101–581][/us/pl/101/581], §§ 2(b), 3, Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865]; [Pub. L. 101–647, title XXXI][/us/pl/101/647], §§ 3102(b), 3103, Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916]; [Pub. L. 103–394, title III, § 302][/us/pl/103/394/s302], title V, § 501(d)(38), Oct. 22, 1994, [108 Stat. 4132][/us/stat/108/4132], 4147; [Pub. L. 109–8, title I, § 106(c)][/us/pl/109/8/s106/c], title II, § 213(11), title III, §§ 312(2), 314(b), 330(d), title VII, § 707, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 53, 87, 88, 102, 126.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2650][/us/stat/92/2650]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 532, July 10, 1984, [98 Stat. 389][/us/stat/98/389]; [Pub. L. 101–508, title III][/us/pl/101/508/tIII], § 3007(b)(1), Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 101–581][/us/pl/101/581], §§ 2(b), 3, Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865]; [Pub. L. 101–647, title XXXI][/us/pl/101/647/tXXXI], §§ 3102(b), 3103, Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 302, title V, § 501(d)(38), Oct. 22, 1994, [108 Stat. 4132][/us/stat/108/4132], 4147; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(c), title II, § 213(11), title III, §§ 312(2), 314(b), 330(d), title VII, § 707, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 53, 87, 88, 102, 126.)
 
  __Historical and Revision Notes__ 
 
@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 330(d)(1)][/us/pl/109/8/s330/d/1], substituted “Subject to subsection (d), as” for “As” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 330(d)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
 
-    [Pub. L. 109–8, § 314(b)][/us/pl/109/8/s314/b], added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
+    [Pub. L. 109–8][/us/pl/109/8], § 314(b), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) provided for under [section 1322(b)(5) of this title][/us/usc/t11/s1322/b/5];
 
@@ -109,37 +109,37 @@
 
     “(3) for restitution, or a criminal fine, included in a sentence on the debtor’s conviction of a crime.”
 
-    [Pub. L. 109–8, § 213(11)][/us/pl/109/8/s213/11], inserted “, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid” after “completion by the debtor of all payments under the plan” in introductory provisions.
+    [Pub. L. 109–8][/us/pl/109/8], § 213(11), inserted “, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid” after “completion by the debtor of all payments under the plan” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–8, § 707][/us/pl/109/8/s707], substituted “section 507(a)(8)(C) or in paragraph (1)(B), (1)(C),” for “paragraph”.
+    Subsec. (a)(2). [Pub. L. 109–8][/us/pl/109/8], § 707, substituted “section 507(a)(8)(C) or in paragraph (1)(B), (1)(C),” for “paragraph”.
 
-    Subsec. (b). [Pub. L. 109–8, § 330(d)(2)][/us/pl/109/8/s330/d/2], substituted “Subject to subsection (d), at” for “At” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 330(d)(2), substituted “Subject to subsection (d), at” for “At” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 109–8, § 312(2)][/us/pl/109/8/s312/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–8][/us/pl/109/8], § 312(2), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 109–8, § 106(c)][/us/pl/109/8/s106/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–8][/us/pl/109/8], § 106(c), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 109–8, § 330(d)(3)][/us/pl/109/8/s330/d/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–8][/us/pl/109/8], § 330(d)(3), added subsec. (h).
 
-    1994—Subsec. (a)(2). [Pub. L. 103–394, § 501(d)(38)(A)][/us/pl/103/394/s501/d/38/A], substituted “(5), (8), or (9)” for “(5) or (8)”.
+    1994—Subsec. (a)(2). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(38)(A), substituted “(5), (8), or (9)” for “(5) or (8)”.
 
-    Subsec. (a)(3). [Pub. L. 103–394, § 501(d)(38)(B)][/us/pl/103/394/s501/d/38/B], struck out last par. (3). See 1990 Amendment note below.
+    Subsec. (a)(3). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(38)(B), struck out last par. (3). See 1990 Amendment note below.
 
-    [Pub. L. 103–394, § 302][/us/pl/103/394/s302], inserted “, or a criminal fine,” after “restitution”.
+    [Pub. L. 103–394][/us/pl/103/394], § 302, inserted “, or a criminal fine,” after “restitution”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–581, § 3(1)][/us/pl/101/581/s3/1], and [Pub. L. 101–647, § 3103(1)][/us/pl/101/647/s3103/1], made identical amendments striking “or” at end.
+    1990—Subsec. (a)(1). [Pub. L. 101–581][/us/pl/101/581], § 3(1), and [Pub. L. 101–647][/us/pl/101/647], § 3103(1), made identical amendments striking “or” at end.
 
-    Subsec. (a)(2). [Pub. L. 101–581, § 3(2)][/us/pl/101/581/s3/2], and [Pub. L. 101–647, § 3103(2)][/us/pl/101/647/s3103/2], made identical amendments substituting “; or” for period at end.
+    Subsec. (a)(2). [Pub. L. 101–581][/us/pl/101/581], § 3(2), and [Pub. L. 101–647][/us/pl/101/647], § 3103(2), made identical amendments substituting “; or” for period at end.
 
-    [Pub. L. 101–581, § 2(b)][/us/pl/101/581/s2/b], and [Pub. L. 101–647, § 3102(b)][/us/pl/101/647/s3102/b], which directed identical insertions of “or 523(a)(9)” after “523(a)(5)”, could not be executed because of prior amendment by [Pub. L. 101–508][/us/pl/101/508]. See below.
+    [Pub. L. 101–581][/us/pl/101/581], § 2(b), and [Pub. L. 101–647][/us/pl/101/647], § 3102(b), which directed identical insertions of “or 523(a)(9)” after “523(a)(5)”, could not be executed because of prior amendment by [Pub. L. 101–508][/us/pl/101/508]. See below.
 
     [Pub. L. 101–508][/us/pl/101/508] substituted “paragraph (5) or (8) of section 523(a)” for “section 523(a)(5)”.
 
-    Subsec. (a)(3). [Pub. L. 101–581, § 3(3)][/us/pl/101/581/s3/3], and [Pub. L. 101–647, § 3103(3)][/us/pl/101/647/s3103/3], made identical amendments adding par. (3).
+    Subsec. (a)(3). [Pub. L. 101–581][/us/pl/101/581], § 3(3), and [Pub. L. 101–647][/us/pl/101/647], § 3103(3), made identical amendments adding par. (3).
 
-    1984—Subsec. (e)(1). [Pub. L. 98–353, § 532(1)][/us/pl/98/353/s532/1], inserted “by the debtor” after “obtained”.
+    1984—Subsec. (e)(1). [Pub. L. 98–353][/us/pl/98/353], § 532(1), inserted “by the debtor” after “obtained”.
 
-    Subsec. (e)(2). [Pub. L. 98–353, § 532(2)][/us/pl/98/353/s532/2], substituted “the requesting party did not know of such fraud until” for “knowledge of such fraud came to the requesting party”.
+    Subsec. (e)(2). [Pub. L. 98–353][/us/pl/98/353], § 532(2), substituted “the requesting party did not know of such fraud until” for “knowledge of such fraud came to the requesting party”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -155,7 +155,7 @@
 
     Amendment by [Pub. L. 101–581][/us/pl/101/581] effective Nov. 15, 1990, but not applicable with respect to cases commenced under this title before Nov. 15, 1990, see [section 4 of Pub. L. 101–581][/us/pl/101/581/s4], set out as a note under [section 523 of this title][/us/usc/t11/s523].
 
-[Pub. L. 101–508, title III, § 3007(b)(2)][/us/pl/101/508/s3007/b/2], Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29], provided that: 
+[Pub. L. 101–508, title III][/us/pl/101/508/tIII], § 3007(b)(2), Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -178,44 +178,44 @@
 [/us/usc/t11/s1305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1305%2Fa%2F2
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2650
-[/us/pl/98/353/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs532
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F389
-[/us/pl/101/508/s3007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3007%2Fb%2F1
+[/us/pl/101/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIII
 [/us/stat/104/1388-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-28
 [/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
 [/us/stat/104/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2865
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXI
 [/us/stat/104/4916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4916
-[/us/pl/103/394/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs302
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4132
-[/us/pl/109/8/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fc
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F38
 [/us/usc/t11/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523%2Fa
-[/us/pl/109/8/s330/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fd%2F1
-[/us/pl/109/8/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs314%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t11/s1322/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1322%2Fb%2F5
 [/us/usc/t11/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523%2Fa
-[/us/pl/109/8/s213/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F11
-[/us/pl/109/8/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs707
-[/us/pl/109/8/s330/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fd%2F2
-[/us/pl/109/8/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs312%2F2
-[/us/pl/109/8/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fc
-[/us/pl/109/8/s330/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fd%2F3
-[/us/pl/103/394/s501/d/38/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F38%2FA
-[/us/pl/103/394/s501/d/38/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F38%2FB
-[/us/pl/103/394/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs302
-[/us/pl/101/581/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs3%2F1
-[/us/pl/101/647/s3103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3103%2F1
-[/us/pl/101/581/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs3%2F2
-[/us/pl/101/647/s3103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3103%2F2
-[/us/pl/101/581/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs2%2Fb
-[/us/pl/101/647/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3102%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/581/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs3%2F3
-[/us/pl/101/647/s3103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3103%2F3
-[/us/pl/98/353/s532/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs532%2F1
-[/us/pl/98/353/s532/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs532%2F2
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fd
@@ -230,7 +230,7 @@
 [/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
 [/us/pl/101/581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs4
 [/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523
-[/us/pl/101/508/s3007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3007%2Fb%2F2
+[/us/pl/101/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIII
 [/us/stat/104/1388-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-29
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa

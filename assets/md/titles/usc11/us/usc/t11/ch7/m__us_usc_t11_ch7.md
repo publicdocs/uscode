@@ -379,11 +379,11 @@ SUBCHAPTER V—CLEARING BANK LIQUIDATION  </td>
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, title I, § 102(k)][/us/pl/109/8/s102/k], title VII, § 719(b)(2), title IX, § 907(p)(2), Apr. 20, 2005, [119 Stat. 35][/us/stat/119/35], 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
+    2005—[Pub. L. 109–8, title I][/us/pl/109/8/tI], § 102(k), title VII, § 719(b)(2), title IX, § 907(p)(2), Apr. 20, 2005, [119 Stat. 35][/us/stat/119/35], 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
 
-    2000—[Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396, added subchapter V heading and items 781 to 784.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–396, added subchapter V heading and items 781 to 784.
 
-    1984—[Pub. L. 98–353, title III, § 471][/us/pl/98/353/s471], July 10, 1984, [98 Stat. 380][/us/stat/98/380], substituted “Successor” for “Succesor” in item 703.
+    1984—[Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 471, July 10, 1984, [98 Stat. 380][/us/stat/98/380], substituted “Successor” for “Succesor” in item 703.
 
 ----------
 
@@ -392,11 +392,11 @@ SUBCHAPTER V—CLEARING BANK LIQUIDATION  </td>
 ----------
 ----------
 
-[/us/pl/109/8/s102/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fk
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F35
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/98/353/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs471
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F380
 
 

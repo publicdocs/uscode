@@ -15,9 +15,9 @@
 
 # Title 11—BANKRUPTCY
 
-This title was enacted by [Pub. L. 95–598, title I, § 101][/us/pl/95/598/s101], Nov. 6, 1978, [92 Stat. 2549][/us/stat/92/2549]
+This title was enacted by [Pub. L. 95–598, title I][/us/pl/95/598/tI], § 101, Nov. 6, 1978, [92 Stat. 2549][/us/stat/92/2549]
 
-Current through 114-153
+Current through 114-156
 
 <table>
 
@@ -125,11 +125,11 @@ Current through 114-153
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, title VIII, § 801(b)][/us/pl/109/8/s801/b], title X, § 1007(d), Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145], 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
+    2005—[Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(b), title X, § 1007(d), Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145], 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
 
-    1994—[Pub. L. 103–394, title V, § 501(d)(39)][/us/pl/103/394/s501/d/39], Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147], struck out item for chapter 15, “United States Trustees”.
+    1994—[Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(39), Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147], struck out item for chapter 15, “United States Trustees”.
 
-    1986—[Pub. L. 99–554, title II, § 257(a)][/us/pl/99/554/s257/a], Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114], added item for chapter 12.
+    1986—[Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(a), Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114], added item for chapter 12.
 
 <table>
 
@@ -13141,19 +13141,19 @@ T. 15 § 78c(a)(4), (5)  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 95–598, title I, § 101][/us/pl/95/598/s101], Nov. 6, 1978, [92 Stat. 2549][/us/stat/92/2549], provided in part: 
+[Pub. L. 95–598, title I][/us/pl/95/598/tI], § 101, Nov. 6, 1978, [92 Stat. 2549][/us/stat/92/2549], provided in part: 
 
 > “The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled ‘Bankruptcy’, and may be cited as 11 U.S.C. § —.”
 
  __Repeals__ 
 
-[Pub. L. 95–598, title IV, § 401(a)][/us/pl/95/598/s401/a], Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], provided that: 
+[Pub. L. 95–598, title IV][/us/pl/95/598/tIV], § 401(a), Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], provided that: 
 
 > “The Bankruptcy Act \[[act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 544][/us/stat/30/544], as amended\] is repealed.”
 
  __Effective Date__ 
 
-[Pub. L. 95–598, title IV, § 402][/us/pl/95/598/s402], Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], as amended by [Pub. L. 98–249, § 1(a)][/us/pl/98/249/s1/a], Mar. 31, 1984, [98 Stat. 116][/us/stat/98/116]; [Pub. L. 98–271, § 1(a)][/us/pl/98/271/s1/a], Apr. 30, 1984, [98 Stat. 163][/us/stat/98/163]; [Pub. L. 98–299, § 1(a)][/us/pl/98/299/s1/a], May 25, 1984, [98 Stat. 214][/us/stat/98/214]; [Pub. L. 98–325, § 1(a)][/us/pl/98/325/s1/a], June 20, 1984, [98 Stat. 268][/us/stat/98/268]; [Pub. L. 98–353, title I][/us/pl/98/353], §§ 113, 121(a), July 10, 1984, [98 Stat. 343][/us/stat/98/343], 345; [Pub. L. 98–454, title X, § 1001][/us/pl/98/454/s1001], Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745], provided that:
+[Pub. L. 95–598, title IV][/us/pl/95/598/tIV], § 402, Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], as amended by [Pub. L. 98–249][/us/pl/98/249], § 1(a), Mar. 31, 1984, [98 Stat. 116][/us/stat/98/116]; [Pub. L. 98–271][/us/pl/98/271], § 1(a), Apr. 30, 1984, [98 Stat. 163][/us/stat/98/163]; [Pub. L. 98–299][/us/pl/98/299], § 1(a), May 25, 1984, [98 Stat. 214][/us/stat/98/214]; [Pub. L. 98–325][/us/pl/98/325], § 1(a), June 20, 1984, [98 Stat. 268][/us/stat/98/268]; [Pub. L. 98–353, title I][/us/pl/98/353/tI], §§ 113, 121(a), July 10, 1984, [98 Stat. 343][/us/stat/98/343], 345; [Pub. L. 98–454, title X][/us/pl/98/454/tX], § 1001, Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745], provided that:
 
 >     “(a) Except as otherwise provided in this title \[sections 401 to 411\], this Act \[for classification to the Code, see Tables\] shall take effect on October 1, 1979.
 
@@ -13163,13 +13163,13 @@ T. 15 § 78c(a)(4), (5)  </td>
 
 >     “(d) The amendments made by sections 217, 218, 230, 247, 302, 314(j), 317, 327, 328, 338, and 411 of this Act shall take effect on the date of enactment of this Act \[Nov. 6, 1978\].
 
->     “(e) \[Repealed. [Pub. L. 98–454, title X, § 1001][/us/pl/98/454/s1001], Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745]\].”
+>     “(e) \[Repealed. [Pub. L. 98–454, title X][/us/pl/98/454/tX], § 1001, Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745]\].”
 
     \[Amendment of [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], set out above, by [section 113 of Pub. L. 98–353][/us/pl/98/353/s113] effective June 27, 1984, see [section 122(c) of Pub. L. 98–353][/us/pl/98/353/s122/c], set out as an Effective Date note under [section 151 of Title 28][/us/usc/t28/s151], Judiciary and Judicial Procedure.\]
 
  __Savings Provision__ 
 
-[Pub. L. 95–598, title IV, § 403][/us/pl/95/598/s403], Nov. 6, 1978, [92 Stat. 2683][/us/stat/92/2683], as amended by [Pub. L. 98–353, title III, § 382][/us/pl/98/353/s382], July 10, 1984, [98 Stat. 364][/us/stat/98/364], provided that:
+[Pub. L. 95–598, title IV][/us/pl/95/598/tIV], § 403, Nov. 6, 1978, [92 Stat. 2683][/us/stat/92/2683], as amended by [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 382, July 10, 1984, [98 Stat. 364][/us/stat/98/364], provided that:
 
 >     “(a) A case commenced under the Bankruptcy Act, \[[act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 544][/us/stat/30/544], as amended\], and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the \[this\] Act had not been enacted.
 
@@ -13197,7 +13197,7 @@ T. 15 § 78c(a)(4), (5)  </td>
 
 >         “(4) any balance in the referees’ salary and expense fund in the Treasury on October 1, 1979, shall be transferred to the general fund of the Treasury and the referees’ salary and expense fund account shall be closed.”
 
-[Pub. L. 98–353, title III, § 381][/us/pl/98/353/s381], July 10, 1984, [98 Stat. 364][/us/stat/98/364], provided that: 
+[Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 381, July 10, 1984, [98 Stat. 364][/us/stat/98/364], provided that: 
 
 > “This subtitle \[(§§ 381, 382) amending [section 403(e) of Pub. L. 95–598][/us/pl/95/598/s403/e], set out above\] may be cited as the ‘Referees Salary and Expense Fund Act of 1984’.”
 
@@ -13219,11 +13219,11 @@ Earlier bankruptcy laws included the following acts:
 
  __National Bankruptcy Review Commission__ 
 
-    [Pub. L. 103–394, title VI][/us/pl/103/394], Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147], established the National Bankruptcy Review Commission to (1) investigate and study issues and problems relating to title 11, United States Code, (2) evaluate the advisability of proposals and current arrangements with respect to such issues and problems, (3) solicit divergent views of all parties concerned with the operation of the bankruptcy system, and (4) prepare and submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting, and provided for termination of the Commission 30 days after submission of the report which was submitted on Oct. 20, 1997.
+    [Pub. L. 103–394, title VI][/us/pl/103/394/tVI], Oct. 22, 1994, [108 Stat. 4147][/us/stat/108/4147], established the National Bankruptcy Review Commission to (1) investigate and study issues and problems relating to title 11, United States Code, (2) evaluate the advisability of proposals and current arrangements with respect to such issues and problems, (3) solicit divergent views of all parties concerned with the operation of the bankruptcy system, and (4) prepare and submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting, and provided for termination of the Commission 30 days after submission of the report which was submitted on Oct. 20, 1997.
 
  __Commission on the Bankruptcy Laws of the United States__ 
 
-    [Pub. L. 91–354][/us/pl/91/354], §§ 1–6, July 24, 1970, [84 Stat. 468][/us/stat/84/468], as amended by [Pub. L. 92–251][/us/pl/92/251], Mar. 17, 1972, [86 Stat. 63][/us/stat/86/63]; [Pub. L. 93–56, § 1][/us/pl/93/56/s1], July 1, 1973, [87 Stat. 140][/us/stat/87/140], established the Commission on the Bankruptcy Laws of the United States, to study and recommend changes to this title, which ceased to exist 30 days after the date of submission of its final report which was required prior to July 31, 1973.
+    [Pub. L. 91–354][/us/pl/91/354], §§ 1–6, July 24, 1970, [84 Stat. 468][/us/stat/84/468], as amended by [Pub. L. 92–251][/us/pl/92/251], Mar. 17, 1972, [86 Stat. 63][/us/stat/86/63]; [Pub. L. 93–56][/us/pl/93/56], § 1, July 1, 1973, [87 Stat. 140][/us/stat/87/140], established the Commission on the Bankruptcy Laws of the United States, to study and recommend changes to this title, which ceased to exist 30 days after the date of submission of its final report which was required prior to July 31, 1973.
 
 ----------
 
@@ -13232,50 +13232,50 @@ Earlier bankruptcy laws included the following acts:
 ----------
 ----------
 
-[/us/pl/95/598/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs101
+[/us/pl/95/598/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtI
 [/us/stat/92/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2549
-[/us/pl/109/8/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fb
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F145
-[/us/pl/103/394/s501/d/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F39
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4147
-[/us/pl/99/554/s257/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fa
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3114
-[/us/pl/95/598/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs101
+[/us/pl/95/598/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtI
 [/us/stat/92/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2549
-[/us/pl/95/598/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs401%2Fa
+[/us/pl/95/598/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIV
 [/us/stat/92/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2682
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F544
-[/us/pl/95/598/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402
+[/us/pl/95/598/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIV
 [/us/stat/92/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2682
-[/us/pl/98/249/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F249%2Fs1%2Fa
+[/us/pl/98/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F249
 [/us/stat/98/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F116
-[/us/pl/98/271/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F271%2Fs1%2Fa
+[/us/pl/98/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F271
 [/us/stat/98/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F163
-[/us/pl/98/299/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F299%2Fs1%2Fa
+[/us/pl/98/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F299
 [/us/stat/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F214
-[/us/pl/98/325/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F325%2Fs1%2Fa
+[/us/pl/98/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F325
 [/us/stat/98/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F268
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F343
-[/us/pl/98/454/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1001
+[/us/pl/98/454/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtX
 [/us/stat/98/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1745
-[/us/pl/98/454/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1001
+[/us/pl/98/454/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtX
 [/us/stat/98/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1745
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/pl/98/353/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs113
 [/us/pl/98/353/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs122%2Fc
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151
-[/us/pl/95/598/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs403
+[/us/pl/95/598/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIV
 [/us/stat/92/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2683
-[/us/pl/98/353/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs382
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F364
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F544
 [/us/usc/t11/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs205
 [/us/usc/t18/s3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3284
 [/us/usc/t11/s68/c/2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs68%2Fc%2F2%2Fa
-[/us/pl/98/353/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs381
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F364
 [/us/pl/95/598/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs403%2Fe
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
@@ -13300,13 +13300,13 @@ Earlier bankruptcy laws included the following acts:
 [/us/act/1938-07-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-07-22%2Fch575
 [/us/stat/52/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F883
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
-[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtVI
 [/us/stat/108/4147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4147
 [/us/pl/91/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F354
 [/us/stat/84/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F468
 [/us/pl/92/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F251
 [/us/stat/86/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F63
-[/us/pl/93/56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F56%2Fs1
+[/us/pl/93/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F56
 [/us/stat/87/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F140
 
 

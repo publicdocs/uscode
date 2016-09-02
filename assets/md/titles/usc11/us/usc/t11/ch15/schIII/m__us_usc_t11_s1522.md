@@ -23,7 +23,7 @@
 
     (d) Section 1104(d) shall apply to the appointment of an examiner under this chapter. Any examiner shall comply with the qualification requirements imposed on a trustee by section 322.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 142][/us/stat/119/142].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 142][/us/stat/119/142].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F142
 
 

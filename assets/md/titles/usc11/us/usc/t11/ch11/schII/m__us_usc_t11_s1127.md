@@ -39,7 +39,7 @@
 
         (2) The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2635][/us/stat/92/2635]; [Pub. L. 98–353, title III, § 511][/us/pl/98/353/s511], July 10, 1984, [98 Stat. 386][/us/stat/98/386]; [Pub. L. 109–8, title III, § 321(e)][/us/pl/109/8/s321/e], Apr. 20, 2005, [119 Stat. 96][/us/stat/119/96]; [Pub. L. 111–327, § 2(a)(34)][/us/pl/111/327/s2/a/34], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2635][/us/stat/92/2635]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 511, July 10, 1984, [98 Stat. 386][/us/stat/98/386]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 321(e), Apr. 20, 2005, [119 Stat. 96][/us/stat/119/96]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(34), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -73,9 +73,9 @@
 
     2005—Subsecs. (e), (f). [Pub. L. 109–8][/us/pl/109/8] added subsecs. (e) and (f).
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 511(a)][/us/pl/98/353/s511/a], inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
 
-    Subsec. (b). [Pub. L. 98–353, § 511(b)][/us/pl/98/353/s511/b], substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under [section 1129 of this title][/us/usc/t11/s1129]” for “the court, after notice and a hearing, confirms such plan, as modified, under [section 1129 of this title][/us/usc/t11/s1129], and circumstances warrant such modification”.
+    Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under [section 1129 of this title][/us/usc/t11/s1129]” for “the court, after notice and a hearing, confirms such plan, as modified, under [section 1129 of this title][/us/usc/t11/s1129], and circumstances warrant such modification”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -96,16 +96,16 @@
 [/us/usc/t11/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1125
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2635
-[/us/pl/98/353/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs511
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F386
-[/us/pl/109/8/s321/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fe
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F96
-[/us/pl/111/327/s2/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F34
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/98/353/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs511%2Fa
-[/us/pl/98/353/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs511%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129
 [/us/usc/t11/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

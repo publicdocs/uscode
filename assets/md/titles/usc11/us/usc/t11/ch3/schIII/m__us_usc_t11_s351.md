@@ -35,7 +35,7 @@
 
         (B) if the records are magnetic, optical, or other electronic records, by otherwise destroying those records so that those records cannot be retrieved.
 
-(Added [Pub. L. 109–8, title XI, § 1102(a)][/us/pl/109/8/s1102/a], Apr. 20, 2005, [119 Stat. 189][/us/stat/119/189].)
+(Added [Pub. L. 109–8, title XI][/us/pl/109/8/tXI], § 1102(a), Apr. 20, 2005, [119 Stat. 189][/us/stat/119/189].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1102%2Fa
+[/us/pl/109/8/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXI
 [/us/stat/119/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F189
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

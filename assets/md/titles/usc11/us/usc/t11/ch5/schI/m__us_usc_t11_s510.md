@@ -27,7 +27,7 @@
 
         (2) order that any lien securing such a subordinated claim be transferred to the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III, § 451][/us/pl/98/353/s451], July 10, 1984, [98 Stat. 375][/us/stat/98/375].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 451, July 10, 1984, [98 Stat. 375][/us/stat/98/375].)
 
  __Historical and Revision Notes__ 
 
@@ -62,7 +62,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2586
-[/us/pl/98/353/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs451
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F375
 [/us/usc/t11/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1126
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

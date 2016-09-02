@@ -17,7 +17,7 @@
 
     The estate shall have the benefit of any defense available to the debtor as against any entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.
 
-(Added [Pub. L. 98–353, title III, § 470(a)][/us/pl/98/353/s470/a], July 10, 1984, [98 Stat. 380][/us/stat/98/380].)
+(Added [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 470(a), July 10, 1984, [98 Stat. 380][/us/stat/98/380].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/353/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs470%2Fa
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F380
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -33,7 +33,7 @@
 
     (c) Notwithstanding any assertion of sovereign immunity by a governmental unit, there shall be offset against a claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2555][/us/stat/92/2555]; [Pub. L. 103–394, title I, § 113][/us/pl/103/394/s113], Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117]; [Pub. L. 111–327, § 2(a)(4)][/us/pl/111/327/s2/a/4], Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2555][/us/stat/92/2555]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 113, Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(4), Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
 
  __Historical and Revision Notes__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2555
-[/us/pl/103/394/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs113
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4117
-[/us/pl/111/327/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F4
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3557
 [/us/usc/t11/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501%2Fc
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327

@@ -31,7 +31,7 @@
 
     (c) A consumer privacy ombudsman shall not disclose any personally identifiable information obtained by the ombudsman under this title.
 
-(Added [Pub. L. 109–8, title II, § 232(a)][/us/pl/109/8/s232/a], Apr. 20, 2005, [119 Stat. 73][/us/stat/119/73]; amended [Pub. L. 111–16, § 2(3)][/us/pl/111/16/s2/3], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 232(a), Apr. 20, 2005, [119 Stat. 73][/us/stat/119/73]; amended [Pub. L. 111–16][/us/pl/111/16], § 2(3), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/109/8/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs232%2Fa
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F73
-[/us/pl/111/16/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F3
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16

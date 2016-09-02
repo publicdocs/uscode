@@ -25,7 +25,7 @@
 
         (2) the liquidation of a securities contract entered into or carried by or through the debtor on behalf of a customer.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2614][/us/stat/92/2614]; [Pub. L. 97–222, § 14][/us/pl/97/222/s14], July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 111–16, § 2(8)][/us/pl/111/16/s2/8], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2614][/us/stat/92/2614]; [Pub. L. 97–222][/us/pl/97/222], § 14, July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 111–16][/us/pl/111/16], § 2(8), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __Historical and Revision Notes__ 
 
@@ -52,9 +52,9 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2614
-[/us/pl/97/222/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs14
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F238
-[/us/pl/111/16/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F8
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222

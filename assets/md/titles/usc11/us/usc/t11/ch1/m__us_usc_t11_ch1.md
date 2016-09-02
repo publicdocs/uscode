@@ -123,9 +123,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, title I, § 106(e)(2)][/us/pl/109/8/s106/e/2], title II, § 233(b), Apr. 20, 2005, [119 Stat. 41][/us/stat/119/41], 74, added items 111 and 112.
+    2005—[Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(e)(2), title II, § 233(b), Apr. 20, 2005, [119 Stat. 41][/us/stat/119/41], 74, added items 111 and 112.
 
-    1994—[Pub. L. 103–394, title III, § 308(b)][/us/pl/103/394/s308/b], Oct. 22, 1994, [108 Stat. 4137][/us/stat/108/4137], added item 110.
+    1994—[Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 308(b), Oct. 22, 1994, [108 Stat. 4137][/us/stat/108/4137], added item 110.
 
 ----------
 
@@ -134,9 +134,9 @@
 ----------
 ----------
 
-[/us/pl/109/8/s106/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fe%2F2
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F41
-[/us/pl/103/394/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs308%2Fb
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4137
 
 

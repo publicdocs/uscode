@@ -49,7 +49,7 @@
 
     (c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2651][/us/stat/92/2651]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 319, 533, July 10, 1984, [98 Stat. 357][/us/stat/98/357], 389; [Pub. L. 109–8, title I, § 102(i)][/us/pl/109/8/s102/i], title III, § 318(4), Apr. 20, 2005, [119 Stat. 34][/us/stat/119/34], 94.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2651][/us/stat/92/2651]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 319, 533, July 10, 1984, [98 Stat. 357][/us/stat/98/357], 389; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 102(i), title III, § 318(4), Apr. 20, 2005, [119 Stat. 34][/us/stat/119/34], 94.)
 
  __Historical and Revision Notes__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(4). [Pub. L. 109–8, § 102(i)][/us/pl/109/8/s102/i], added par. (4).
+    2005—Subsec. (a)(4). [Pub. L. 109–8][/us/pl/109/8], § 102(i), added par. (4).
 
-    Subsec. (c). [Pub. L. 109–8, § 318(4)][/us/pl/109/8/s318/4], substituted “the applicable commitment period under section 1325(b)(1)(B)” for “three years”.
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 318(4), substituted “the applicable commitment period under section 1325(b)(1)(B)” for “three years”.
 
     1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], §§ 319, 533(1), (2), inserted “of the plan” after “confirmation”, substituted “such plan” for “a plan”, and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
 
-    Subsec. (a)(3). [Pub. L. 98–353, § 533(3)][/us/pl/98/353/s533/3], substituted “plan to” for “plan, to”.
+    Subsec. (a)(3). [Pub. L. 98–353][/us/pl/98/353], § 533(3), substituted “plan to” for “plan, to”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -86,14 +86,14 @@
 [/us/usc/t11/s1325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1325%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2651
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F357
-[/us/pl/109/8/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fi
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F34
-[/us/pl/109/8/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fi
-[/us/pl/109/8/s318/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs318%2F4
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/98/353/s533/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs533%2F3
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

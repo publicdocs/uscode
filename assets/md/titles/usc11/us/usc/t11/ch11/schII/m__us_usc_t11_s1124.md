@@ -33,7 +33,7 @@
 
         (E) does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2633][/us/stat/92/2633]; [Pub. L. 98–353, title III, § 508][/us/pl/98/353/s508], July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II, § 213(d)][/us/pl/103/394/s213/d], Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126]; [Pub. L. 109–8, title III, § 328(b)][/us/pl/109/8/s328/b], Apr. 20, 2005, [119 Stat. 100][/us/stat/119/100].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2633][/us/stat/92/2633]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 508, July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 213(d), Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 328(b), Apr. 20, 2005, [119 Stat. 100][/us/stat/119/100].)
 
  __Historical and Revision Notes__ 
 
@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2005—Par. (2)(A). [Pub. L. 109–8, § 328(b)(1)][/us/pl/109/8/s328/b/1], inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
+    2005—Par. (2)(A). [Pub. L. 109–8][/us/pl/109/8], § 328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
 
-    Par. (2)(D), (E). [Pub. L. 109–8, § 328(b)(2)][/us/pl/109/8/s328/b/2]–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+    Par. (2)(D), (E). [Pub. L. 109–8][/us/pl/109/8], § 328(b)(2)–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
     1994—Par. (3). [Pub. L. 103–394][/us/pl/103/394] struck out par. (3) which read as follows: “provides that, on the effective date of the plan, the holder of such claim or interest receives, on account of such claim or interest, cash equal to—
 
@@ -89,9 +89,9 @@
 
     “(ii) any fixed price at which the debtor, under the terms of such security, may redeem such security from such holder.”
 
-    1984—Par. (2)(A). [Pub. L. 98–353, § 508(1)][/us/pl/98/353/s508/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in [section 365(b)(2) of this title][/us/usc/t11/s365/b/2], that occurred before or after the commencement of the case under this title;”.
+    1984—Par. (2)(A). [Pub. L. 98–353][/us/pl/98/353], § 508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in [section 365(b)(2) of this title][/us/usc/t11/s365/b/2], that occurred before or after the commencement of the case under this title;”.
 
-    Par. (3)(B)(i). [Pub. L. 98–353, § 508(2)][/us/pl/98/353/s508/2], substituted “or” for “and”.
+    Par. (3)(B)(i). [Pub. L. 98–353][/us/pl/98/353], § 508(2), substituted “or” for “and”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -116,20 +116,20 @@
 [/us/usc/t11/s365/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365%2Fb%2F2
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2633
-[/us/pl/98/353/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs508
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F385
-[/us/pl/103/394/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs213%2Fd
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4126
-[/us/pl/109/8/s328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs328%2Fb
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F100
 [/us/usc/t11/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507
 [/us/usc/t11/s1179/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1179%2Fa%2F7%2FB
-[/us/pl/109/8/s328/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs328%2Fb%2F1
-[/us/pl/109/8/s328/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs328%2Fb%2F2
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s508/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs508%2F1
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s365/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365%2Fb%2F2
-[/us/pl/98/353/s508/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs508%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

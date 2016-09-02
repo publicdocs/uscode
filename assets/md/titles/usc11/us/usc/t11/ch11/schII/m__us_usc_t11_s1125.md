@@ -57,7 +57,7 @@
 
     (g) Notwithstanding subsection (b), an acceptance or rejection of the plan may be solicited from a holder of a claim or interest if such solicitation complies with applicable nonbankruptcy law and if such holder was solicited before the commencement of the case in a manner complying with applicable nonbankruptcy law.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2633][/us/stat/92/2633]; [Pub. L. 98–353, title III, § 509][/us/pl/98/353/s509], July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II, § 217(e)][/us/pl/103/394/s217/e], Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8], §§ 408, 431, title VII, § 717, Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106], 109, 131.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2633][/us/stat/92/2633]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 509, July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 217(e), Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], §§ 408, 431, title VII, § 717, Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106], 109, 131.)
 
  __Historical and Revision Notes__ 
 
@@ -109,11 +109,11 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 717][/us/pl/109/8/s717], inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
 
-    [Pub. L. 109–8, § 431(1)][/us/pl/109/8/s431/1], inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
+    [Pub. L. 109–8][/us/pl/109/8], § 431(1), inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
 
-    Subsec. (f). [Pub. L. 109–8, § 431(2)][/us/pl/109/8/s431/2], added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
+    Subsec. (f). [Pub. L. 109–8][/us/pl/109/8], § 431(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
 
     “(1) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
 
@@ -121,19 +121,19 @@
 
     “(3) a hearing on the disclosure statement may be combined with a hearing on confirmation of a plan.”
 
-    Subsec. (g). [Pub. L. 109–8, § 408][/us/pl/109/8/s408], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–8][/us/pl/109/8], § 408, added subsec. (g).
 
     1994—Subsec. (f). [Pub. L. 103–394][/us/pl/103/394] added subsec. (f).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–353, § 509(a)(1)][/us/pl/98/353/s509/a/1], inserted “, but adequate information need not include such information about any other possible or proposed plan”.
+    1984—Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
 
-    Subsec. (a)(2)(B). [Pub. L. 98–353, § 509(a)(2)][/us/pl/98/353/s509/a/2], inserted “the” after “with”.
+    Subsec. (a)(2)(B). [Pub. L. 98–353][/us/pl/98/353], § 509(a)(2), inserted “the” after “with”.
 
-    Subsec. (a)(2)(C). [Pub. L. 98–353, § 509(a)(3)][/us/pl/98/353/s509/a/3], inserted “of” after “holders”.
+    Subsec. (a)(2)(C). [Pub. L. 98–353][/us/pl/98/353], § 509(a)(3), inserted “of” after “holders”.
 
-    Subsec. (d). [Pub. L. 98–353, § 509(b)][/us/pl/98/353/s509/b], inserted “required under subsection (b) of this section” and “, or otherwise seek review of,”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 509(b), inserted “required under subsection (b) of this section” and “, or otherwise seek review of,”.
 
-    Subsec. (e). [Pub. L. 98–353, § 509(c)][/us/pl/98/353/s509/c], inserted “acceptance or rejection of a plan” after “solicits”, and “solicitation of acceptance or rejection of a plan or” after “governing”.
+    Subsec. (e). [Pub. L. 98–353][/us/pl/98/353], § 509(c), inserted “acceptance or rejection of a plan” after “solicits”, and “solicitation of acceptance or rejection of a plan or” after “governing”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -157,11 +157,11 @@
 [/us/usc/t28/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2075
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2633
-[/us/pl/98/353/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F385
-[/us/pl/103/394/s217/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs217%2Fe
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4127
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F106
 [/us/usc/t11/s1130/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1130%2Fa%2F11
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
@@ -169,16 +169,16 @@
 [/us/usc/t11/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1145
 [/us/usc/t15/s78n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78n
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
-[/us/pl/109/8/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs717
-[/us/pl/109/8/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs431%2F1
-[/us/pl/109/8/s431/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs431%2F2
-[/us/pl/109/8/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs408
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s509/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509%2Fa%2F1
-[/us/pl/98/353/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509%2Fa%2F2
-[/us/pl/98/353/s509/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509%2Fa%2F3
-[/us/pl/98/353/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509%2Fb
-[/us/pl/98/353/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs509%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

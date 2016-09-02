@@ -69,7 +69,7 @@
 
         (2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 302, 435, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 370; [Pub. L. 103–394, title II, § 225][/us/pl/103/394/s225], Oct. 22, 1994, [108 Stat. 4131][/us/stat/108/4131]; [Pub. L. 109–8, title I][/us/pl/109/8], §§ 102(d), 104, title II, § 234(b), title III, § 315(a), Apr. 20, 2005, [119 Stat. 33][/us/stat/119/33], 35, 75, 88; [Pub. L. 111–16, § 2(4)][/us/pl/111/16/s2/4], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 302, 435, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 370; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 225, Oct. 22, 1994, [108 Stat. 4131][/us/stat/108/4131]; [Pub. L. 109–8, title I][/us/pl/109/8/tI], §§ 102(d), 104, title II, § 234(b), title III, § 315(a), Apr. 20, 2005, [119 Stat. 33][/us/stat/119/33], 35, 75, 88; [Pub. L. 111–16][/us/pl/111/16], § 2(4), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __Historical and Revision Notes__ 
 
@@ -89,23 +89,23 @@
 
     2009—Subsec. (e)(2). [Pub. L. 111–16][/us/pl/111/16] substituted “7 days” for “5 days”.
 
-    2005—Subsec. (b). [Pub. L. 109–8, § 104][/us/pl/109/8/s104], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
+    2005—Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
 
-    Subsec. (c). [Pub. L. 109–8, § 315(a)(1)][/us/pl/109/8/s315/a/1] designated existing provisions as par. (1), struck out “, but the failure of such notice to contain such information shall not invalidate the legal effect of such notice” after “number of the debtor”, and added par. (2).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 315(a)(1) designated existing provisions as par. (1), struck out “, but the failure of such notice to contain such information shall not invalidate the legal effect of such notice” after “number of the debtor”, and added par. (2).
 
-    [Pub. L. 109–8, § 234(b)][/us/pl/109/8/s234/b], inserted “last 4 digits of the” before “taxpayer identification number” and “If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court.” at end.
+    [Pub. L. 109–8][/us/pl/109/8], § 234(b), inserted “last 4 digits of the” before “taxpayer identification number” and “If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court.” at end.
 
-    Subsec. (d). [Pub. L. 109–8, § 102(d)][/us/pl/109/8/s102/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 102(d), added subsec. (d).
 
-    Subsecs. (e) to (g). [Pub. L. 109–8, § 315(a)(2)][/us/pl/109/8/s315/a/2], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 109–8][/us/pl/109/8], § 315(a)(2), added subsecs. (e) to (g).
 
     1994—Subsec. (c). [Pub. L. 103–394][/us/pl/103/394] added subsec. (c).
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 435][/us/pl/98/353/s435], amended subsec. (a) generally, inserting requirement respecting notice to any holder of a community claim.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 435, amended subsec. (a) generally, inserting requirement respecting notice to any holder of a community claim.
 
-    [Pub. L. 98–353, § 302(1)][/us/pl/98/353/s302/1], designated existing provisions as subsec. (a).
+    [Pub. L. 98–353][/us/pl/98/353], § 302(1), designated existing provisions as subsec. (a).
 
-    Subsec. (b). [Pub. L. 98–353, § 302(2)][/us/pl/98/353/s302/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 302(2), added subsec. (b).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -132,24 +132,24 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2565
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F352
-[/us/pl/103/394/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs225
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4131
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F33
-[/us/pl/111/16/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F4
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
-[/us/pl/109/8/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs104
-[/us/pl/109/8/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fa%2F1
-[/us/pl/109/8/s234/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs234%2Fb
-[/us/pl/109/8/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fd
-[/us/pl/109/8/s315/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fa%2F2
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs435
-[/us/pl/98/353/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs302%2F1
-[/us/pl/98/353/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs302%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

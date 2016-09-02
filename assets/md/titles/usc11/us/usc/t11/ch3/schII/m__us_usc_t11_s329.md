@@ -31,7 +31,7 @@
 
         (2) the entity that made such payment.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 98–353, title III, § 432][/us/pl/98/353/s432], July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II, § 257(c)][/us/pl/99/554/s257/c], Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 432, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(c), Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114].)
 
  __Historical and Revision Notes__ 
 
@@ -47,9 +47,9 @@
 
     1986—Subsec. (b)(1)(B). [Pub. L. 99–554][/us/pl/99/554] inserted reference to chapter 12.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 432(a)][/us/pl/98/353/s432/a], substituted “or” for “and” after “in contemplation of”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 432(a), substituted “or” for “and” after “in contemplation of”.
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 432(b)][/us/pl/98/353/s432/b], substituted “estate” for “trustee”.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 432(b), substituted “estate” for “trustee”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -68,13 +68,13 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2564
-[/us/pl/98/353/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs432
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/99/554/s257/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fc
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3114
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs432%2Fa
-[/us/pl/98/353/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs432%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581

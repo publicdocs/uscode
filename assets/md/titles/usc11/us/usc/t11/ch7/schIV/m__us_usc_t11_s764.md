@@ -25,7 +25,7 @@
 
         (2) the liquidation of a commodity contract entered into or carried by or through the debtor on behalf of a customer.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2618][/us/stat/92/2618]; [Pub. L. 97–222, § 17][/us/pl/97/222/s17], July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III, § 487][/us/pl/98/353/s487], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 111–16, § 2(9)][/us/pl/111/16/s2/9], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2618][/us/stat/92/2618]; [Pub. L. 97–222][/us/pl/97/222], § 17, July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 487, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 111–16][/us/pl/111/16], § 2(9), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __Historical and Revision Notes__ 
 
@@ -51,11 +51,11 @@
 
     1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353] substituted “any transfer by the debtor” for “any transfer”.
 
-    1982—Subsec. (a). [Pub. L. 97–222, § 17(a)][/us/pl/97/222/s17/a], substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
+    1982—Subsec. (a). [Pub. L. 97–222][/us/pl/97/222], § 17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
 
-    Subsec. (b). [Pub. L. 97–222, § 17(b)][/us/pl/97/222/s17/b], substituted “order for relief” for “date of the filing of the petition”.
+    Subsec. (b). [Pub. L. 97–222][/us/pl/97/222], § 17(b), substituted “order for relief” for “date of the filing of the petition”.
 
-    Subsec. (c). [Pub. L. 97–222, § 17(c)][/us/pl/97/222/s17/c], struck out subsec. (c) which provided that the trustee could not avoid a transfer that was a margin payment to or deposit with a commodity broker or forward contract merchant or was a settlement payment made by a clearing organization and that occurred before the commencement of the case.
+    Subsec. (c). [Pub. L. 97–222][/us/pl/97/222], § 17(c), struck out subsec. (c) which provided that the trustee could not avoid a transfer that was a margin payment to or deposit with a commodity broker or forward contract merchant or was a settlement payment made by a clearing organization and that occurred before the commencement of the case.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -74,17 +74,17 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2618
-[/us/pl/97/222/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs17
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F240
-[/us/pl/98/353/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs487
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/111/16/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F9
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/97/222/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs17%2Fa
-[/us/pl/97/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs17%2Fb
-[/us/pl/97/222/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs17%2Fc
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

@@ -17,7 +17,7 @@
 
     The United States trustee may raise and may appear and be heard on any issue in any case or proceeding under this title but may not file a plan pursuant to [section 1121(c) of this title][/us/usc/t11/s1121/c].
 
-(Added [Pub. L. 99–554, title II, § 205(a)][/us/pl/99/554/s205/a], Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098].)
+(Added [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 205(a), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098].)
 
  __Effective Date__ 
 
@@ -25,7 +25,7 @@
 
  __Standing and Authority of Bankruptcy Administrator__ 
 
-[Pub. L. 101–650, title III, § 317(b)][/us/pl/101/650/s317/b], Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
+[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 317(b), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
 
 > “A bankruptcy administrator may raise and may appear and be heard on any issue in any case under title 11, United States Code, but may not file a plan pursuant to section 1121(c) of such title.”
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t11/s1121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1121%2Fc
-[/us/pl/99/554/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs205%2Fa
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
-[/us/pl/101/650/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs317%2Fb
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
 
 

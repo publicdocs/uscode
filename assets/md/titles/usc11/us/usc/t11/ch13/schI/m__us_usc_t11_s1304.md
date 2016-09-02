@@ -21,7 +21,7 @@
 
     (c) A debtor engaged in business shall perform the duties of the trustee specified in [section 704(a)(8) of this title][/us/usc/t11/s704/a/8].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2646][/us/stat/92/2646]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 311(b)(2), 526, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 389; [Pub. L. 111–327, § 2(a)(40)][/us/pl/111/327/s2/a/40], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2646][/us/stat/92/2646]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 311(b)(2), 526, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 389; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(40), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __Historical and Revision Notes__ 
 
@@ -43,9 +43,9 @@
 
     2010—Subsec. (c). [Pub. L. 111–327][/us/pl/111/327] substituted “704(a)(8)” for “704(8)”.
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 526][/us/pl/98/353/s526], struck out the comma after “of the debtor”.
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 526, struck out the comma after “of the debtor”.
 
-    Subsec. (c). [Pub. L. 98–353, § 311(b)(2)][/us/pl/98/353/s311/b/2], substituted “section 704(8)” for “section 704(7)”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 311(b)(2), substituted “section 704(8)” for “section 704(7)”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -61,13 +61,13 @@
 [/us/usc/t11/s704/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs704%2Fa%2F8
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2646
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F355
-[/us/pl/111/327/s2/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F40
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/98/353/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs526
-[/us/pl/98/353/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs311%2Fb%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

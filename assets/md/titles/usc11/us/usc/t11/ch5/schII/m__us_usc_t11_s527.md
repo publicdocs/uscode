@@ -61,7 +61,7 @@
 
     (d) A debt relief agency shall maintain a copy of the notices required under subsection (a) of this section for 2 years after the date on which the notice is given the assisted person.
 
-(Added [Pub. L. 109–8, title II, § 228(a)][/us/pl/109/8/s228/a], Apr. 20, 2005, [119 Stat. 69][/us/stat/119/69]; amended [Pub. L. 111–327, § 2(a)(21)][/us/pl/111/327/s2/a/21], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 228(a), Apr. 20, 2005, [119 Stat. 69][/us/stat/119/69]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(21), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/109/8/s228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs228%2Fa
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F69
-[/us/pl/111/327/s2/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F21
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

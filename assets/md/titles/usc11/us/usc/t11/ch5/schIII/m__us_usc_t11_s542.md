@@ -25,7 +25,7 @@
 
     (e) Subject to any applicable privilege, after notice and a hearing, the court may order an attorney, accountant, or other person that holds recorded information, including books, documents, records, and papers, relating to the debtor’s property or financial affairs, to turn over or disclose such recorded information to the trustee.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2595][/us/stat/92/2595]; [Pub. L. 98–353, title III, § 457][/us/pl/98/353/s457], July 10, 1984, [98 Stat. 376][/us/stat/98/376]; [Pub. L. 103–394, title V, § 501(d)(16)][/us/pl/103/394/s501/d/16], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2595][/us/stat/92/2595]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 457, July 10, 1984, [98 Stat. 376][/us/stat/98/376]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(16), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
 
  __Historical and Revision Notes__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t11/s362/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362%2Fa%2F7
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2595
-[/us/pl/98/353/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs457
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F376
-[/us/pl/103/394/s501/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F16
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
 [/us/usc/t11/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs550
 [/us/usc/t11/s362/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362%2Fa%2F7

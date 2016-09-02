@@ -363,11 +363,11 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–327, § 2(a)(49)][/us/pl/111/327/s2/a/49], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562], inserted “patient care” before “ombudsman” in item 333.
+    2010—[Pub. L. 111–327][/us/pl/111/327], § 2(a)(49), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562], inserted “patient care” before “ombudsman” in item 333.
 
-    2005—[Pub. L. 109–8, title II, § 232(c)][/us/pl/109/8/s232/c], title IV, § 434(a)(2), title VII, § 719(a)(2), title VIII, § 802(d)(4), title XI, §§ 1102(b), 1104(a)(2), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 111, 133, 146, 190, 192, added items 308, 332, 333, and 351, substituted “Special provisions related to the treatment of State and local taxes” for “Special tax provisions” in item 346, and struck out item 304 “Cases ancillary to foreign proceedings”.
+    2005—[Pub. L. 109–8, title II][/us/pl/109/8/tII], § 232(c), title IV, § 434(a)(2), title VII, § 719(a)(2), title VIII, § 802(d)(4), title XI, §§ 1102(b), 1104(a)(2), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 111, 133, 146, 190, 192, added items 308, 332, 333, and 351, substituted “Special provisions related to the treatment of State and local taxes” for “Special tax provisions” in item 346, and struck out item 304 “Cases ancillary to foreign proceedings”.
 
-    1986—[Pub. L. 99–554, title II, § 205(b)][/us/pl/99/554/s205/b], Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], added item 307.
+    1986—[Pub. L. 99–554, title II][/us/pl/99/554/tII], § 205(b), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], added item 307.
 
 ----------
 
@@ -376,11 +376,11 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS  </td>
 ----------
 ----------
 
-[/us/pl/111/327/s2/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F49
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
-[/us/pl/109/8/s232/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs232%2Fc
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F74
-[/us/pl/99/554/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs205%2Fb
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
 
 

@@ -53,7 +53,7 @@
 
         (2) Claims for contributions to an employee benefit plan entitled to priority under section 507(a)(5).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2607][/us/stat/92/2607]; [Pub. L. 98–353, title III, § 477][/us/pl/98/353/s477], July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II, § 283(r)][/us/pl/99/554/s283/r], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 103–394, title III, § 304(h)(4)][/us/pl/103/394/s304/h/4], title V, § 501(d)(23), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], 4146; [Pub. L. 109–8, title VII, § 701(a)][/us/pl/109/8/s701/a], Apr. 20, 2005, [119 Stat. 124][/us/stat/119/124]; [Pub. L. 111–327, § 2(a)(27)][/us/pl/111/327/s2/a/27], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2607][/us/stat/92/2607]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 477, July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(r), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 304(h)(4), title V, § 501(d)(23), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], 4146; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 701(a), Apr. 20, 2005, [119 Stat. 124][/us/stat/119/124]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(27), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -83,27 +83,27 @@
 
     2010—Subsec. (b)(2). [Pub. L. 111–327][/us/pl/111/327] substituted “507(a)(1)(C) or 507(a)(2)” for “507(a)(1)”, “this chapter” for “chapter 7 of this title”, and “507(a)(1)(A), 507(a)(1)(B),” for “507(a)(2),” and inserted “under each such section” after “such expenses”.
 
-    2005—Subsec. (b). [Pub. L. 109–8, § 701(a)(1)][/us/pl/109/8/s701/a/1], inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
+    2005—Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 109–8, § 701(a)(2)][/us/pl/109/8/s701/a/2], inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
+    Subsec. (b)(2). [Pub. L. 109–8][/us/pl/109/8], § 701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
 
-    Subsecs. (e), (f). [Pub. L. 109–8, § 701(a)(3)][/us/pl/109/8/s701/a/3], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 109–8][/us/pl/109/8], § 701(a)(3), added subsecs. (e) and (f).
 
-    1994—Subsec. (b)(2). [Pub. L. 103–394, § 304(h)(4)][/us/pl/103/394/s304/h/4], substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
+    1994—Subsec. (b)(2). [Pub. L. 103–394][/us/pl/103/394], § 304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
-    Subsec. (d). [Pub. L. 103–394, § 501(d)(23)][/us/pl/103/394/s501/d/23], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 ([26 U.S.C. 6323][/us/usc/t26/s6323])”.
+    Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(23), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 ([26 U.S.C. 6323][/us/usc/t26/s6323])”.
 
     1986—Subsec. (b)(2). [Pub. L. 99–554][/us/pl/99/554] inserted reference to [section 507(a)(6) of this title][/us/usc/t11/s507/a/6].
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 477(a)(1)][/us/pl/98/353/s477/a/1], substituted “a tax” for “taxes” in provisions preceding par. (1).
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 477(a)(2)][/us/pl/98/353/s477/a/2], substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
 
-    Subsec. (b)(3). [Pub. L. 98–353, § 477(a)(3)][/us/pl/98/353/s477/a/3], substituted “allowed tax claim” for “allowed claim”.
+    Subsec. (b)(3). [Pub. L. 98–353][/us/pl/98/353], § 477(a)(3), substituted “allowed tax claim” for “allowed claim”.
 
-    Subsec. (c). [Pub. L. 98–353, § 477(b)][/us/pl/98/353/s477/b], substituted “holder of a claim is entitled” for “creditor is entitled” and “holders” for “creditors” in two places.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 477(b), substituted “holder of a claim is entitled” for “creditor is entitled” and “holders” for “creditors” in two places.
 
-    Subsec. (d). [Pub. L. 98–353, § 477(c)][/us/pl/98/353/s477/c], substituted “the priority of which” for “whose priority” and “the same as if such lien were a tax lien” for “the same as a tax lien”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 477(c), substituted “the priority of which” for “whose priority” and “the same as if such lien were a tax lien” for “the same as a tax lien”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -131,32 +131,32 @@
 [/us/usc/t11/s726/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726%2Fa%2F4
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2607
-[/us/pl/98/353/s477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F381
-[/us/pl/99/554/s283/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fr
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/103/394/s304/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F4
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4134
-[/us/pl/109/8/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs701%2Fa
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F124
-[/us/pl/111/327/s2/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F27
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs701%2Fa%2F1
-[/us/pl/109/8/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs701%2Fa%2F2
-[/us/pl/109/8/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs701%2Fa%2F3
-[/us/pl/103/394/s304/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F4
-[/us/pl/103/394/s501/d/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F23
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s507/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa%2F6
-[/us/pl/98/353/s477/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477%2Fa%2F1
-[/us/pl/98/353/s477/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477%2Fa%2F2
-[/us/pl/98/353/s477/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477%2Fa%2F3
-[/us/pl/98/353/s477/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477%2Fb
-[/us/pl/98/353/s477/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs477%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

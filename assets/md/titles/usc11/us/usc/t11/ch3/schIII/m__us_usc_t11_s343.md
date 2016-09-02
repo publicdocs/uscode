@@ -17,7 +17,7 @@
 
     The debtor shall appear and submit to examination under oath at the meeting of creditors under [section 341(a) of this title][/us/usc/t11/s341/a]. Creditors, any indenture trustee, any trustee or examiner in the case, or the United States trustee may examine the debtor. The United States trustee may administer the oath required under this section.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 98–353, title III, § 436][/us/pl/98/353/s436], July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II, § 213][/us/pl/99/554/s213], Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 436, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 213, Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099].)
 
  __Historical and Revision Notes__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t11/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs341%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2565
-[/us/pl/98/353/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs436
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/99/554/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs213
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3099
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs341%2Fa

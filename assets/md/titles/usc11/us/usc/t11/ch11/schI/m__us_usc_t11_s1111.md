@@ -39,7 +39,7 @@
 
         (2) If such an election is made, then notwithstanding [section 506(a) of this title][/us/usc/t11/s506/a], such claim is a secured claim to the extent that such claim is allowed.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2630][/us/stat/92/2630]; [Pub. L. 111–327, § 2(a)(32)][/us/pl/111/327/s2/a/32], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2630][/us/stat/92/2630]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(32), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t11/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs506%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2630
-[/us/pl/111/327/s2/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F32
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 

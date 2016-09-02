@@ -19,7 +19,7 @@
 
     (b) The hearing on confirmation of the plan may be held not earlier than 20 days and not later than 45 days after the date of the meeting of creditors under section 341(a), unless the court determines that it would be in the best interests of the creditors and the estate to hold such hearing at an earlier date and there is no objection to such earlier date.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2649][/us/stat/92/2649]; [Pub. L. 98–353, title III, § 529][/us/pl/98/353/s529], July 10, 1984, [98 Stat. 389][/us/stat/98/389]; [Pub. L. 99–554, title II, § 283(x)][/us/pl/99/554/s283/x], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 109–8, title III, § 317][/us/pl/109/8/s317], Apr. 20, 2005, [119 Stat. 92][/us/stat/119/92].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2649][/us/stat/92/2649]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 529, July 10, 1984, [98 Stat. 389][/us/stat/98/389]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(x), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 317, Apr. 20, 2005, [119 Stat. 92][/us/stat/119/92].)
 
  __Historical and Revision Notes__ 
 
@@ -56,11 +56,11 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2649
-[/us/pl/98/353/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs529
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F389
-[/us/pl/99/554/s283/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fx
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/109/8/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs317
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F92
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

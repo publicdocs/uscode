@@ -19,7 +19,7 @@
 
     (b) Any unsecured claim against the debtor that would have been entitled to priority if a receiver in equity of the property of the debtor had been appointed by a Federal court on the date of the order for relief under this title shall be entitled to the same priority in the case under this chapter.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 98–353, title III, § 522][/us/pl/98/353/s522], July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 522, July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
 
  __Historical and Revision Notes__ 
 
@@ -50,7 +50,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2643
-[/us/pl/98/353/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs522
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

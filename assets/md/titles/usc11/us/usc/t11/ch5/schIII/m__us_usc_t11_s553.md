@@ -57,7 +57,7 @@
 
     (c) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2602][/us/stat/92/2602]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 395, 467, July 10, 1984, [98 Stat. 365][/us/stat/98/365], 380; [Pub. L. 101–311, title I, § 105][/us/pl/101/311/s105], June 25, 1990, [104 Stat. 268][/us/stat/104/268]; [Pub. L. 103–394, title II][/us/pl/103/394], §§ 205(b), 222(b), title V, § 501(d)(19), Oct. 22, 1994, [108 Stat. 4123][/us/stat/108/4123], 4129, 4146; [Pub. L. 109–8, title IX, § 907(n)][/us/pl/109/8/s907/n], Apr. 20, 2005, [119 Stat. 181][/us/stat/119/181].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2602][/us/stat/92/2602]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 395, 467, July 10, 1984, [98 Stat. 365][/us/stat/98/365], 380; [Pub. L. 101–311, title I][/us/pl/101/311/tI], § 105, June 25, 1990, [104 Stat. 268][/us/stat/104/268]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], §§ 205(b), 222(b), title V, § 501(d)(19), Oct. 22, 1994, [108 Stat. 4123][/us/stat/108/4123], 4129, 4146; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(n), Apr. 20, 2005, [119 Stat. 181][/us/stat/119/181].)
 
  __Historical and Revision Notes__ 
 
@@ -75,19 +75,19 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(2)(B)(ii). [Pub. L. 109–8, § 907(n)(1)][/us/pl/109/8/s907/n/1], inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
+    2005—Subsec. (a)(2)(B)(ii). [Pub. L. 109–8][/us/pl/109/8], § 907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
 
-    Subsec. (a)(3)(C). [Pub. L. 109–8, § 907(n)(2)][/us/pl/109/8/s907/n/2], inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
+    Subsec. (a)(3)(C). [Pub. L. 109–8][/us/pl/109/8], § 907(n)(2), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
 
-    Subsec. (b)(1). [Pub. L. 109–8, § 907(n)(3)][/us/pl/109/8/s907/n/3], substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–8][/us/pl/109/8], § 907(n)(3), substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–394, § 501(d)(19)(A)][/us/pl/103/394/s501/d/19/A], struck out before semicolon at end “other than under [section 502(b)(3) of this title][/us/usc/t11/s502/b/3]”.
+    1994—Subsec. (a)(1). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(19)(A), struck out before semicolon at end “other than under [section 502(b)(3) of this title][/us/usc/t11/s502/b/3]”.
 
-    Subsec. (b)(1). [Pub. L. 103–394, § 501(d)(19)(B)][/us/pl/103/394/s501/d/19/B], substituted “section 362(b)(14),” for “section 362(b)(14),,”.
+    Subsec. (b)(1). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(19)(B), substituted “section 362(b)(14),” for “section 362(b)(14),,”.
 
-    [Pub. L. 103–394, § 222(b)][/us/pl/103/394/s222/b], which directed the amendment of section 553(b)(1) by inserting “546(h),” after “365(h),” was executed by making the insertion in [section 553(b)(1) of this title][/us/usc/t11/s553/b/1] to reflect the probable intent of Congress.
+    [Pub. L. 103–394][/us/pl/103/394], § 222(b), which directed the amendment of section 553(b)(1) by inserting “546(h),” after “365(h),” was executed by making the insertion in [section 553(b)(1) of this title][/us/usc/t11/s553/b/1] to reflect the probable intent of Congress.
 
-    [Pub. L. 103–394, § 205(b)][/us/pl/103/394/s205/b], substituted “365(h)” for “365(h)(2)”.
+    [Pub. L. 103–394][/us/pl/103/394], § 205(b), substituted “365(h)” for “365(h)(2)”.
 
     1990—Subsec. (b)(1). [Pub. L. 101–311][/us/pl/101/311] substituted “362(b)(7), 362(b)(14),” for “362(b)(7),”.
 
@@ -114,24 +114,24 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2602
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F365
-[/us/pl/101/311/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2Fs105
+[/us/pl/101/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2FtI
 [/us/stat/104/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F268
-[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4123
-[/us/pl/109/8/s907/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fn
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F181
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
-[/us/pl/109/8/s907/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fn%2F1
-[/us/pl/109/8/s907/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fn%2F2
-[/us/pl/109/8/s907/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fn%2F3
-[/us/pl/103/394/s501/d/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F19%2FA
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t11/s502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502%2Fb%2F3
-[/us/pl/103/394/s501/d/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F19%2FB
-[/us/pl/103/394/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs222%2Fb
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t11/s553/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs553%2Fb%2F1
-[/us/pl/103/394/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs205%2Fb
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/101/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

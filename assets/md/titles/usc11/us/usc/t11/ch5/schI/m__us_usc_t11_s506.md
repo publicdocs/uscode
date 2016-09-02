@@ -33,7 +33,7 @@
 
         (2) such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under [section 501 of this title][/us/usc/t11/s501].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2583][/us/stat/92/2583]; [Pub. L. 98–353, title III, § 448][/us/pl/98/353/s448], July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 109–8, title III, § 327][/us/pl/109/8/s327], title VII, § 712(d), Apr. 20, 2005, [119 Stat. 99][/us/stat/119/99], 128.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2583][/us/stat/92/2583]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 448, July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 327, title VII, § 712(d), Apr. 20, 2005, [119 Stat. 99][/us/stat/119/99], 128.)
 
  __Historical and Revision Notes__ 
 
@@ -65,17 +65,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 327][/us/pl/109/8/s327], designated existing provisions as par. (1) and added par. (2).
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 327, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 109–8, § 712(d)(1)][/us/pl/109/8/s712/d/1], inserted “or State statute” after “agreement”.
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 712(d)(1), inserted “or State statute” after “agreement”.
 
-    Subsec. (c). [Pub. L. 109–8, § 712(d)(2)][/us/pl/109/8/s712/d/2], inserted “, including the payment of all ad valorem property taxes with respect to the property” before period at end.
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 712(d)(2), inserted “, including the payment of all ad valorem property taxes with respect to the property” before period at end.
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 448(a)][/us/pl/98/353/s448/a], inserted “for” after “provided”.
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 448(a), inserted “for” after “provided”.
 
-    Subsec. (d)(1). [Pub. L. 98–353, § 448(b)][/us/pl/98/353/s448/b], substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under [section 502 of this title][/us/usc/t11/s502]”.
+    Subsec. (d)(1). [Pub. L. 98–353][/us/pl/98/353], § 448(b), substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under [section 502 of this title][/us/usc/t11/s502]”.
 
-    Subsec. (d)(2). [Pub. L. 98–353, § 448(b)][/us/pl/98/353/s448/b], substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under [section 501 of this title][/us/usc/t11/s501]” for “such claim was disallowed only under [section 502(e) of this title][/us/usc/t11/s502/e]”.
+    Subsec. (d)(2). [Pub. L. 98–353][/us/pl/98/353], § 448(b), substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under [section 501 of this title][/us/usc/t11/s501]” for “such claim was disallowed only under [section 502(e) of this title][/us/usc/t11/s502/e]”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -96,17 +96,17 @@
 [/us/usc/t11/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2583
-[/us/pl/98/353/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs448
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F374
-[/us/pl/109/8/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs327
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F99
-[/us/pl/109/8/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs327
-[/us/pl/109/8/s712/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs712%2Fd%2F1
-[/us/pl/109/8/s712/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs712%2Fd%2F2
-[/us/pl/98/353/s448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs448%2Fa
-[/us/pl/98/353/s448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs448%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502
-[/us/pl/98/353/s448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs448%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501
 [/us/usc/t11/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502%2Fe
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

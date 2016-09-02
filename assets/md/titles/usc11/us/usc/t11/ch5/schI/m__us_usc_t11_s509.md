@@ -35,7 +35,7 @@
 
     (c) The court shall subordinate to the claim of a creditor and for the benefit of such creditor an allowed claim, by way of subrogation under this section, or for reimbursement or contribution, of an entity that is liable with the debtor on, or that has secured, such creditor’s claim, until such creditor’s claim is paid in full, either through payments under this title or otherwise.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2585][/us/stat/92/2585]; [Pub. L. 98–353, title III, § 450][/us/pl/98/353/s450], July 10, 1984, [98 Stat. 375][/us/stat/98/375].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2585][/us/stat/92/2585]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 450, July 10, 1984, [98 Stat. 375][/us/stat/98/375].)
 
  __Historical and Revision Notes__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 450(a)][/us/pl/98/353/s450/a], substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 450(a), substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 450(b)][/us/pl/98/353/s450/b], substituted “of such” for “of a” after “account”.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 450(b), substituted “of such” for “of a” after “account”.
 
-    Subsec. (c). [Pub. L. 98–353, § 450(c)][/us/pl/98/353/s450/c], substituted “this section” for “[section 509 of this title][/us/usc/t11/s509]”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 450(c), substituted “this section” for “[section 509 of this title][/us/usc/t11/s509]”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -75,12 +75,12 @@
 [/us/usc/t11/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs510
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2585
-[/us/pl/98/353/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs450
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F375
 [/us/usc/t11/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs924
-[/us/pl/98/353/s450/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs450%2Fa
-[/us/pl/98/353/s450/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs450%2Fb
-[/us/pl/98/353/s450/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs450%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs509
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa

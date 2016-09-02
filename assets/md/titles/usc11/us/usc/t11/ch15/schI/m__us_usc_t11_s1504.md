@@ -17,7 +17,7 @@
 
     A case under this chapter is commenced by the filing of a petition for recognition of a foreign proceeding under section 1515.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 136][/us/stat/119/136].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 136][/us/stat/119/136].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F136
 
 

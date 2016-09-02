@@ -37,7 +37,7 @@
 
         (2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2644][/us/stat/92/2644]; [Pub. L. 96–448, title II, § 227(b)][/us/pl/96/448/s227/b], Oct. 14, 1980, [94 Stat. 1931][/us/stat/94/1931]; [Pub. L. 104–88, title III, § 302(2)][/us/pl/104/88/s302/2], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 109–8, title XII, § 1218][/us/pl/109/8/s1218], Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2644][/us/stat/92/2644]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 227(b), Oct. 14, 1980, [94 Stat. 1931][/us/stat/94/1931]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 302(2), Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1218, Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
 
  __Historical and Revision Notes__ 
 
@@ -103,11 +103,11 @@
 [/us/usc/t49/s11326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11326%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2644
-[/us/pl/96/448/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs227%2Fb
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1931
-[/us/pl/104/88/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs302%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
-[/us/pl/109/8/s1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1218
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F195
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t11/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1161

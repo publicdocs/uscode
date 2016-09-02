@@ -35,7 +35,7 @@
 
     (e) Notwithstanding subsections (a) and (b), the court, on the request of a party in interest and after notice and a hearing, for cause may order that the United States trustee not convene a meeting of creditors or equity security holders if the debtor has filed a plan as to which the debtor solicited acceptances prior to the commencement of the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 99–554, title II, § 212][/us/pl/99/554/s212], Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099]; [Pub. L. 103–394, title I, § 115][/us/pl/103/394/s115], Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; [Pub. L. 109–8, title IV][/us/pl/109/8], §§ 402, 413, Apr. 20, 2005, [119 Stat. 104][/us/stat/119/104], 107.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 212, Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 115, Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], §§ 402, 413, Apr. 20, 2005, [119 Stat. 104][/us/stat/119/104], 107.)
 
  __Historical and Revision Notes__ 
 
@@ -53,17 +53,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c). [Pub. L. 109–8, § 413][/us/pl/109/8/s413], inserted at end “Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.”
+    2005—Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 413, inserted at end “Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.”
 
-    Subsec. (e). [Pub. L. 109–8, § 402][/us/pl/109/8/s402], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 402, added subsec. (e).
 
     1994—Subsec. (d). [Pub. L. 103–394][/us/pl/103/394] added subsec. (d).
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 212(1)][/us/pl/99/554/s212/1], substituted “the United States trustee shall convene and preside at a meeting of creditors” for “there shall be a meeting of creditors”.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 212(1), substituted “the United States trustee shall convene and preside at a meeting of creditors” for “there shall be a meeting of creditors”.
 
-    Subsec. (b). [Pub. L. 99–554, § 212(2)][/us/pl/99/554/s212/2], substituted “United States trustee may convene” for “court may order”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 212(2), substituted “United States trustee may convene” for “court may order”.
 
-    Subsec. (c). [Pub. L. 99–554, § 212(3)][/us/pl/99/554/s212/3], inserted “including any final meeting of creditors”.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 212(3), inserted “including any final meeting of creditors”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -79,7 +79,7 @@
 
  __Participation by Bankruptcy Administrator at Meetings of Creditors and Equity Security Holders__ 
 
-[Pub. L. 103–394, title I, § 105][/us/pl/103/394/s105], Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111], provided that:
+[Pub. L. 103–394, title I][/us/pl/103/394/tI], § 105, Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111], provided that:
 
 >     “(a)  __Presiding Officer__  __.—__ 
 
@@ -99,18 +99,18 @@
 [/us/usc/t11/s524/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs524%2Fd
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2564
-[/us/pl/99/554/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs212
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3099
-[/us/pl/103/394/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs115
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4118
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F104
-[/us/pl/109/8/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs413
-[/us/pl/109/8/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs402
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs212%2F1
-[/us/pl/99/554/s212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs212%2F2
-[/us/pl/99/554/s212/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs212%2F3
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
@@ -120,7 +120,7 @@
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
-[/us/pl/103/394/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs105
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4111
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

@@ -43,7 +43,7 @@
 
     (f) The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362(o) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 141][/us/stat/119/141]; amended [Pub. L. 111–327, § 2(a)(47)][/us/pl/111/327/s2/a/47], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 141][/us/stat/119/141]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(47), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F141
-[/us/pl/111/327/s2/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F47
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 

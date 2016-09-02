@@ -31,7 +31,7 @@
 
     (c) Subsection (a) does not affect the right of a foreign representative or an entity to file a petition commencing a case under this title or the right of any party to file claims or take other proper actions in such a case.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 141][/us/stat/119/141].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 141][/us/stat/119/141].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F141
 
 

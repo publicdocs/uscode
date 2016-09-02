@@ -21,7 +21,7 @@
 
     (c) During any such operation, such lessor is deemed a carrier subject to the provisions of subtitle IV of title 49 that are applicable to railroads.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 97–449, § 5(a)(3)][/us/pl/97/449/s5/a/3], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–353, title III, § 520][/us/pl/98/353/s520], July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 97–449][/us/pl/97/449], § 5(a)(3), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 520, July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
 
  __Historical and Revision Notes__ 
 
@@ -58,9 +58,9 @@
 [/us/usc/t11/s1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1170
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2643
-[/us/pl/97/449/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Fa%2F3
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
-[/us/pl/98/353/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs520
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
 [/us/usc/t28/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1407
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101

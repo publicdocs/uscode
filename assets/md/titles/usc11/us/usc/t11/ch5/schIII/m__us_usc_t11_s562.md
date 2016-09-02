@@ -35,7 +35,7 @@
 
         has the burden of proving that there were no commercially reasonable determinants of value as of such date or dates.
 
-(Added [Pub. L. 109–8, title IX, § 910(a)(1)][/us/pl/109/8/s910/a/1], Apr. 20, 2005, [119 Stat. 184][/us/stat/119/184].)
+(Added [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 910(a)(1), Apr. 20, 2005, [119 Stat. 184][/us/stat/119/184].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s910/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs910%2Fa%2F1
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F184
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

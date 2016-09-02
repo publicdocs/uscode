@@ -21,7 +21,7 @@
 
     (2) any other foreign proceeding regarding the debtor that becomes known to the foreign representative.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 140][/us/stat/119/140].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 140][/us/stat/119/140].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F140
 
 

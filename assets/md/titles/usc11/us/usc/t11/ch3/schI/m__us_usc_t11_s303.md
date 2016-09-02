@@ -101,7 +101,7 @@
 
         (3) Upon the expiration of the statute of limitations described in [section 3282 of title 18][/us/usc/t18/s3282], for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2559][/us/stat/92/2559]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 426, 427, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 204, 254, 283(b), Oct. 27, 1986, [100 Stat. 3097][/us/stat/100/3097], 3105, 3116; [Pub. L. 103–394, title I, § 108(b)][/us/pl/103/394/s108/b], Oct. 22, 1994, [108 Stat. 4112][/us/stat/108/4112]; [Pub. L. 109–8, title III, § 332(b)][/us/pl/109/8/s332/b], title VIII, § 802(d)(2), title XII, § 1234(a), Apr. 20, 2005, [119 Stat. 103][/us/stat/119/103], 146, 204; [Pub. L. 111–327, § 2(a)(9)][/us/pl/111/327/s2/a/9], Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2559][/us/stat/92/2559]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 426, 427, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 204, 254, 283(b), Oct. 27, 1986, [100 Stat. 3097][/us/stat/100/3097], 3105, 3116; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 108(b), Oct. 22, 1994, [108 Stat. 4112][/us/stat/108/4112]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 332(b), title VIII, § 802(d)(2), title XII, § 1234(a), Apr. 20, 2005, [119 Stat. 103][/us/stat/119/103], 146, 204; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(9), Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -153,37 +153,37 @@
 
     2010—Subsecs. (k), (l). [Pub. L. 111–327][/us/pl/111/327] redesignated subsec. (l) as (k).
 
-    2005—Subsec. (b)(1). [Pub. L. 109–8, § 1234(a)(1)][/us/pl/109/8/s1234/a/1], inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
+    2005—Subsec. (b)(1). [Pub. L. 109–8][/us/pl/109/8], § 1234(a)(1), inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
 
-    Subsec. (h)(1). [Pub. L. 109–8, § 1234(a)(2)][/us/pl/109/8/s1234/a/2], inserted “as to liability or amount” before semicolon.
+    Subsec. (h)(1). [Pub. L. 109–8][/us/pl/109/8], § 1234(a)(2), inserted “as to liability or amount” before semicolon.
 
-    Subsec. (k). [Pub. L. 109–8, § 802(d)(2)][/us/pl/109/8/s802/d/2], struck out subsec. (k) which read as follows: “Notwithstanding subsection (a) of this section, an involuntary case may be commenced against a foreign bank that is not engaged in such business in the United States only under chapter 7 of this title and only if a foreign proceeding concerning such bank is pending.”
+    Subsec. (k). [Pub. L. 109–8][/us/pl/109/8], § 802(d)(2), struck out subsec. (k) which read as follows: “Notwithstanding subsection (a) of this section, an involuntary case may be commenced against a foreign bank that is not engaged in such business in the United States only under chapter 7 of this title and only if a foreign proceeding concerning such bank is pending.”
 
-    Subsec. (l). [Pub. L. 109–8, § 332(b)][/us/pl/109/8/s332/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 109–8][/us/pl/109/8], § 332(b), added subsec. (l).
 
     1994—Subsec. (b). [Pub. L. 103–394][/us/pl/103/394] substituted “$10,000” for “$5,000” in pars. (1) and (2).
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 254][/us/pl/99/554/s254], inserted reference to family farmer.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 254, inserted reference to family farmer.
 
-    Subsec. (b). [Pub. L. 99–554, § 283(b)(1)][/us/pl/99/554/s283/b/1], substituted “subject of” for “subject on”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 283(b)(1), substituted “subject of” for “subject on”.
 
-    Subsec. (g). [Pub. L. 99–554, § 204(1)][/us/pl/99/554/s204/1], substituted “may order the United States trustee to appoint” for “may appoint”.
+    Subsec. (g). [Pub. L. 99–554][/us/pl/99/554], § 204(1), substituted “may order the United States trustee to appoint” for “may appoint”.
 
-    Subsec. (h)(1). [Pub. L. 99–554, § 283(b)(2)][/us/pl/99/554/s283/b/2], substituted “are the” for “that are the”.
+    Subsec. (h)(1). [Pub. L. 99–554][/us/pl/99/554], § 283(b)(2), substituted “are the” for “that are the”.
 
-    Subsec. (i)(1). [Pub. L. 99–554, § 204(2)][/us/pl/99/554/s204/2], inserted “or” at end of subpar. (A) and struck out subpar. (C) which read as follows: “any damages proximately caused by the taking of possession of the debtor’s property by a trustee appointed under subsection (g) of this section or [section 1104 of this title][/us/usc/t11/s1104]; or”.
+    Subsec. (i)(1). [Pub. L. 99–554][/us/pl/99/554], § 204(2), inserted “or” at end of subpar. (A) and struck out subpar. (C) which read as follows: “any damages proximately caused by the taking of possession of the debtor’s property by a trustee appointed under subsection (g) of this section or [section 1104 of this title][/us/usc/t11/s1104]; or”.
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 426(a)][/us/pl/98/353/s426/a], inserted “against a person” after “involuntary case”.
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 426(a), inserted “against a person” after “involuntary case”.
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 426(b)(1)][/us/pl/98/353/s426/b/1], inserted “or the subject on a bona fide dispute,”.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 426(b)(1), inserted “or the subject on a bona fide dispute,”.
 
-    Subsec. (h)(1). [Pub. L. 98–353, § 426(b)(2)][/us/pl/98/353/s426/b/2], inserted “unless such debts that are the subject of a bona fide dispute”.
+    Subsec. (h)(1). [Pub. L. 98–353][/us/pl/98/353], § 426(b)(2), inserted “unless such debts that are the subject of a bona fide dispute”.
 
-    Subsec. (j)(2). [Pub. L. 98–353, § 427][/us/pl/98/353/s427], substituted “debtor” for “debtors”.
+    Subsec. (j)(2). [Pub. L. 98–353][/us/pl/98/353], § 427, substituted “debtor” for “debtors”.
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–8, title XII, § 1234(b)][/us/pl/109/8/s1234/b], Apr. 20, 2005, [119 Stat. 204][/us/stat/119/204], provided that: 
+[Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1234(b), Apr. 20, 2005, [119 Stat. 204][/us/stat/119/204], provided that: 
 
 > “This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\] and shall apply with respect to cases commenced under title 11 of the United States Code before, on, and after such date.”
 
@@ -209,7 +209,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title][/us/usc/t11/s104] as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(1), (2), dollar amount “14,425” was adjusted to “15,325”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount “15,325” was adjusted to “15,775”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(1), (2), dollar amount “14,425” was adjusted to “15,325”.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(1), (2), dollar amount “13,475” was adjusted to “14,425”.
 
@@ -234,34 +236,34 @@
 [/us/usc/t18/s3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3282
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2559
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3097
-[/us/pl/103/394/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fb
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4112
-[/us/pl/109/8/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs332%2Fb
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F103
-[/us/pl/111/327/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F9
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3558
 [/us/usc/t11/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs543
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1234%2Fa%2F1
-[/us/pl/109/8/s1234/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1234%2Fa%2F2
-[/us/pl/109/8/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F2
-[/us/pl/109/8/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs332%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs254
-[/us/pl/99/554/s283/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fb%2F1
-[/us/pl/99/554/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs204%2F1
-[/us/pl/99/554/s283/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fb%2F2
-[/us/pl/99/554/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs204%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1104
-[/us/pl/98/353/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs426%2Fa
-[/us/pl/98/353/s426/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs426%2Fb%2F1
-[/us/pl/98/353/s426/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs426%2Fb%2F2
-[/us/pl/98/353/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs427
-[/us/pl/109/8/s1234/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1234%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F204
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

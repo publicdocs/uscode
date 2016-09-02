@@ -23,7 +23,7 @@
 
     (d) The court may deny allowance of compensation for services or reimbursement of expenses of the trustee if the trustee failed to make diligent inquiry into facts that would permit denial of allowance under [section 328(c) of this title][/us/usc/t11/s328/c] or, with knowledge of such facts, employed a professional person under [section 327 of this title][/us/usc/t11/s327].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 98–353, title III, § 430(a)][/us/pl/98/353/s430/a], (b), July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II, § 209][/us/pl/99/554/s209], Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098]; [Pub. L. 103–394, title I, § 107][/us/pl/103/394/s107], Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 430(a), (b), July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 209, Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 107, Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111].)
 
  __Historical and Revision Notes__ 
 
@@ -55,9 +55,9 @@
 
     1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554] amended subsec. (b) generally, substituting “under chapter 12 or 13 of this title” for “under chapter 13 of this title”, “expenses of the United States trustee or of a standing trustee appointed under [section 586(b) of title 28][/us/usc/t28/s586/b]” for “expenses of a standing trustee appointed under [section 1302(d) of this title][/us/usc/t11/s1302/d]”, and “under section 1202(a) or 1302(a) of this title” for “under [section 1302(a) of this title][/us/usc/t11/s1302/a]”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 430(a)][/us/pl/98/353/s430/a], substituted “and three percent on any amount in excess of $3000” for “three percent on any amount in excess of $3,000 but not in excess of $20,000, two percent on any amount in excess of $20,000 but not in excess of $50,000, and one percent on any amount in excess of $50,000”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 430(a), substituted “and three percent on any amount in excess of $3000” for “three percent on any amount in excess of $3,000 but not in excess of $20,000, two percent on any amount in excess of $20,000 but not in excess of $50,000, and one percent on any amount in excess of $50,000”.
 
-    Subsec. (d). [Pub. L. 98–353, § 430(b)][/us/pl/98/353/s430/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court may deny allowance of compensation for services and reimbursement of expenses of the trustee if the trustee—
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 430(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court may deny allowance of compensation for services and reimbursement of expenses of the trustee if the trustee—
 
     “(1) failed to make diligent inquiry into facts that would permit denial of allowance under [section 328(c) of this title][/us/usc/t11/s328/c]; or
 
@@ -101,11 +101,11 @@
 [/us/usc/t11/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs327
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2562
-[/us/pl/98/353/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs430%2Fa
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs209
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
-[/us/pl/103/394/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs107
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4111
 [/us/usc/t11/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1302%2Fa
 [/us/usc/t11/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs330
@@ -114,8 +114,8 @@
 [/us/usc/t28/s586/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Fb
 [/us/usc/t11/s1302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1302%2Fd
 [/us/usc/t11/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1302%2Fa
-[/us/pl/98/353/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs430%2Fa
-[/us/pl/98/353/s430/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs430%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s328/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs328%2Fc
 [/us/usc/t11/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs327
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394

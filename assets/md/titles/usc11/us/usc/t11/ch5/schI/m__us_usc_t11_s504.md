@@ -31,7 +31,7 @@
 
     (c) This section shall not apply with respect to sharing, or agreeing to share, compensation with a bona fide public service attorney referral program that operates in accordance with non-Federal law regulating attorney referral services and with rules of professional responsibility applicable to attorney acceptance of referrals.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2582][/us/stat/92/2582]; [Pub. L. 109–8, title III, § 326][/us/pl/109/8/s326], Apr. 20, 2005, [119 Stat. 99][/us/stat/119/99].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2582][/us/stat/92/2582]; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 326, Apr. 20, 2005, [119 Stat. 99][/us/stat/119/99].)
 
  __Historical and Revision Notes__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t11/s503/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb%2F4
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2582
-[/us/pl/109/8/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs326
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F99
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

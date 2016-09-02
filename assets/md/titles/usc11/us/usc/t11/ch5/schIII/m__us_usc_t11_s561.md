@@ -57,7 +57,7 @@
 
     (d) Any provisions of this title relating to securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements, or master netting agreements shall apply in a case under chapter 15, so that enforcement of contractual provisions of such contracts and agreements in accordance with their terms will not be stayed or otherwise limited by operation of any provision of this title or by order of a court in any case under this title, and to limit avoidance powers to the same extent as in a proceeding under chapter 7 or 11 of this title (such enforcement not to be limited based on the presence or absence of assets of the debtor in the United States).
 
-(Added [Pub. L. 109–8, title IX, § 907(k)(1)][/us/pl/109/8/s907/k/1], Apr. 20, 2005, [119 Stat. 179][/us/stat/119/179].)
+(Added [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(k)(1), Apr. 20, 2005, [119 Stat. 179][/us/stat/119/179].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s907/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fk%2F1
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F179
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

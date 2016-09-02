@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t11/ch3/schI/m__us_usc_t11_s303.md) | [Next](./../../../../..//us/usc/t11/ch3/schI/m__us_usc_t11_s305.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs304)
 
-## \[§ 304. Repealed. [Pub. L. 109–8, title VIII, § 802(d)(3)][/us/pl/109/8/s802/d/3], Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146]\]
+## \[§ 304. Repealed. [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(d)(3), Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146]\]
 
     Section, [Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2560][/us/stat/92/2560], related to cases ancillary to foreign proceedings.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s802/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F3
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F146
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2560

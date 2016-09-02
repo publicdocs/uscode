@@ -51,7 +51,7 @@
 
             (B) include the following statement: “We are a debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code.” or a substantially similar statement.
 
-(Added [Pub. L. 109–8, title II, § 229(a)][/us/pl/109/8/s229/a], Apr. 20, 2005, [119 Stat. 71][/us/stat/119/71].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 229(a), Apr. 20, 2005, [119 Stat. 71][/us/stat/119/71].)
 
  __Effective Date__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs229%2Fa
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F71
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

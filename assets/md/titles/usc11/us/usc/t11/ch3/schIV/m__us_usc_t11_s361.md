@@ -23,7 +23,7 @@
 
     (3) granting such other relief, other than entitling such entity to compensation allowable under [section 503(b)(1) of this title][/us/usc/t11/s503/b/1] as an administrative expense, as will result in the realization by such entity of the indubitable equivalent of such entity’s interest in such property.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2569][/us/stat/92/2569]; [Pub. L. 98–353, title III, § 440][/us/pl/98/353/s440], July 10, 1984, [98 Stat. 370][/us/stat/98/370].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2569][/us/stat/92/2569]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 440, July 10, 1984, [98 Stat. 370][/us/stat/98/370].)
 
  __Historical and Revision Notes__ 
 
@@ -138,7 +138,7 @@
 [/us/usc/t11/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb%2F1
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2569
-[/us/pl/98/353/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs440
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

@@ -17,7 +17,7 @@
 
     If a creditor of a partnership debtor receives, from a general partner that is not a debtor in a case under chapter 7 of this title, payment of, or a transfer of property on account of, a claim that is allowed under this title and that is not secured by a lien on property of such partner, such creditor may not receive any payment under this title on account of such claim until each of the other holders of claims on account of which such holders are entitled to share equally with such creditor under this title has received payment under this title equal in value to the consideration received by such creditor from such general partner.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2585][/us/stat/92/2585]; [Pub. L. 109–8, title VIII, § 802(d)(7)][/us/pl/109/8/s802/d/7], Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2585][/us/stat/92/2585]; [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(d)(7), Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2585
-[/us/pl/109/8/s802/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F7
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F146
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

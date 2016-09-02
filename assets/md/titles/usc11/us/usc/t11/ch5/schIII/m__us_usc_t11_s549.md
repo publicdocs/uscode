@@ -39,7 +39,7 @@
 
         (2) the time the case is closed or dismissed.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2601][/us/stat/92/2601]; [Pub. L. 98–353, title III, § 464][/us/pl/98/353/s464], July 10, 1984, [98 Stat. 379][/us/stat/98/379]; [Pub. L. 99–554, title II, § 283][/us/pl/99/554/s283](o), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 103–394, title V, § 501(d)(18)][/us/pl/103/394/s501/d/18], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title XII, § 1214][/us/pl/109/8/s1214], Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2601][/us/stat/92/2601]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 464, July 10, 1984, [98 Stat. 379][/us/stat/98/379]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(o), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(18), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1214, Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
 
  __Historical and Revision Notes__ 
 
@@ -59,11 +59,11 @@
 
     1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554] substituted “made” for “that occurs”, and “to the extent” for “is valid against the trustee to the extent of”, and inserted “is” before “given”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 464(a)(1)][/us/pl/98/353/s464/a/1], (2), substituted “(b) or (c)” for “(b) and (c)” in provisions preceding par. (1) and inserted “only” between “authorized” and “under” in par. (2)(A). In the original of [Pub. L. 98–353][/us/pl/98/353], subsec. (a)(2) of section 464 thereof ended with a period but was followed by pars. (3), (4), and (5). Such pars. (3), (4), and (5) purported to amend subsec. (a) of this section in ways not susceptible of execution. In a predecessor bill \[S. 445\], these pars. (3), (4), and (5) formed a part of a subsec. (b) of section 361 thereof which amended subsec. (b) of this section. Such subsec. (b) of section 361 of S. 445 was not carried into [Pub. L. 98–353, § 464][/us/pl/98/353/s464].
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 464(a)(1), (2), substituted “(b) or (c)” for “(b) and (c)” in provisions preceding par. (1) and inserted “only” between “authorized” and “under” in par. (2)(A). In the original of [Pub. L. 98–353][/us/pl/98/353], subsec. (a)(2) of section 464 thereof ended with a period but was followed by pars. (3), (4), and (5). Such pars. (3), (4), and (5) purported to amend subsec. (a) of this section in ways not susceptible of execution. In a predecessor bill \[S. 445\], these pars. (3), (4), and (5) formed a part of a subsec. (b) of section 361 thereof which amended subsec. (b) of this section. Such subsec. (b) of section 361 of S. 445 was not carried into [Pub. L. 98–353][/us/pl/98/353], § 464.
 
-    Subsec. (c). [Pub. L. 98–353, § 464(c)][/us/pl/98/353/s464/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The trustee may not avoid under subsection (a) of this section a transfer, to a good faith purchaser without knowledge of the commencement of the case and for present fair equivalent value or to a purchaser at a judicial sale, of real property located other than in the county in which the case is commenced, unless a copy of the petition was filed in the office where conveyances of real property in such county are recorded before such transfer was so far perfected that a bona fide purchaser of such property against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of such good faith or judicial sale purchaser. A good faith purchaser, without knowledge of the commencement of the case and for less than present fair equivalent value, of real property located other than in the county in which the case is commenced, under a transfer that the trustee may avoid under this section, has a lien on the property transferred to the extent of any present value given, unless a copy of the petition was so filed before such transfer was so perfected.”
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 464(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The trustee may not avoid under subsection (a) of this section a transfer, to a good faith purchaser without knowledge of the commencement of the case and for present fair equivalent value or to a purchaser at a judicial sale, of real property located other than in the county in which the case is commenced, unless a copy of the petition was filed in the office where conveyances of real property in such county are recorded before such transfer was so far perfected that a bona fide purchaser of such property against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of such good faith or judicial sale purchaser. A good faith purchaser, without knowledge of the commencement of the case and for less than present fair equivalent value, of real property located other than in the county in which the case is commenced, under a transfer that the trustee may avoid under this section, has a lien on the property transferred to the extent of any present value given, unless a copy of the petition was so filed before such transfer was so perfected.”
 
-    Subsec. (d)(1). [Pub. L. 98–353, § 464(d)][/us/pl/98/353/s464/d], substituted “or” for “and”.
+    Subsec. (d)(1). [Pub. L. 98–353][/us/pl/98/353], § 464(d), substituted “or” for “and”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -90,22 +90,22 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2601
-[/us/pl/98/353/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs464
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F379
-[/us/pl/99/554/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3117
-[/us/pl/103/394/s501/d/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F18
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
-[/us/pl/109/8/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1214
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F195
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s464/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs464%2Fa%2F1
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/98/353/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs464
-[/us/pl/98/353/s464/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs464%2Fc
-[/us/pl/98/353/s464/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs464%2Fd
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -35,7 +35,7 @@
 
     (g) Notwithstanding any other provision of this section, a class is deemed not to have accepted a plan if such plan provides that the claims or interests of such class do not entitle the holders of such claims or interests to receive or retain any property under the plan on account of such claims or interests.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2634][/us/stat/92/2634]; [Pub. L. 98–353, title III, § 510][/us/pl/98/353/s510], July 10, 1984, [98 Stat. 386][/us/stat/98/386].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2634][/us/stat/92/2634]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 510, July 10, 1984, [98 Stat. 386][/us/stat/98/386].)
 
  __Historical and Revision Notes__ 
 
@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    1984—Subsec. (b)(2). [Pub. L. 98–353, § 510(a)][/us/pl/98/353/s510/a], substituted “1125(a)” for “1125(a)(1)”.
+    1984—Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 510(a), substituted “1125(a)” for “1125(a)(1)”.
 
-    Subsec. (d). [Pub. L. 98–353, § 510(b)][/us/pl/98/353/s510/b], inserted a comma after “such interests”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 510(b), inserted a comma after “such interests”.
 
-    Subsec. (f). [Pub. L. 98–353, § 510(c)][/us/pl/98/353/s510/c], substituted “, and each holder of a claim or interest of such class, are conclusively presumed” for “is deemed”, “solicitation” for “solicititation”, and “interests” for “interest”.
+    Subsec. (f). [Pub. L. 98–353][/us/pl/98/353], § 510(c), substituted “, and each holder of a claim or interest of such class, are conclusively presumed” for “is deemed”, “solicitation” for “solicititation”, and “interests” for “interest”.
 
-    Subsec. (g). [Pub. L. 98–353, § 510(d)][/us/pl/98/353/s510/d], substituted “receive or retain any property” for “any payment or compensation”.
+    Subsec. (g). [Pub. L. 98–353][/us/pl/98/353], § 510(d), substituted “receive or retain any property” for “any payment or compensation”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -90,14 +90,14 @@
 [/us/usc/t11/s1125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1125%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2634
-[/us/pl/98/353/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs510
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F386
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t11/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1145
-[/us/pl/98/353/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs510%2Fa
-[/us/pl/98/353/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs510%2Fb
-[/us/pl/98/353/s510/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs510%2Fc
-[/us/pl/98/353/s510/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs510%2Fd
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

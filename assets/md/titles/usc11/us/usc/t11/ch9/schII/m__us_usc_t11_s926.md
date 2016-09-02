@@ -19,7 +19,7 @@
 
     (b) A transfer of property of the debtor to or for the benefit of any holder of a bond or note, on account of such bond or note, may not be avoided under [section 547 of this title][/us/usc/t11/s547].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623]; [Pub. L. 100–597, § 6][/us/pl/100/597/s6], Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623]; [Pub. L. 100–597][/us/pl/100/597], § 6, Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t11/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs547
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2623
-[/us/pl/100/597/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs6
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3029
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597

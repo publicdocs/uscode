@@ -23,7 +23,7 @@
 
         (2) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, and notwithstanding [section 546(b) of this title][/us/usc/t11/s546/b], if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to amounts paid as rents of such property or the fees, charges, accounts, or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties, then such security interest extends to such rents and such fees, charges, accounts, or other payments acquired by the estate after the commencement of the case to the extent provided in such security agreement, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2602][/us/stat/92/2602]; [Pub. L. 98–353, title III, § 466][/us/pl/98/353/s466], July 10, 1984, [98 Stat. 380][/us/stat/98/380]; [Pub. L. 103–394, title II, § 214(a)][/us/pl/103/394/s214/a], Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126]; [Pub. L. 109–8, title XII, § 1204(2)][/us/pl/109/8/s1204/2], Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2602][/us/stat/92/2602]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 466, July 10, 1984, [98 Stat. 380][/us/stat/98/380]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 214(a), Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1204(2), Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
 
  __Historical and Revision Notes__ 
 
@@ -75,11 +75,11 @@
 [/us/usc/t11/s546/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs546%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2602
-[/us/pl/98/353/s466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs466
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F380
-[/us/pl/103/394/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs214%2Fa
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4126
-[/us/pl/109/8/s1204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1204%2F2
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F194
 [/us/usc/t11/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs506%2Fc
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

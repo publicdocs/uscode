@@ -193,7 +193,7 @@ Amendments  </td>
 
 </table>
 
-    2005—[Pub. L. 109–8, title VII, § 716(b)(2)][/us/pl/109/8/s716/b/2], Apr. 20, 2005, [119 Stat. 130][/us/stat/119/130], added item 1308.
+    2005—[Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 716(b)(2), Apr. 20, 2005, [119 Stat. 130][/us/stat/119/130], added item 1308.
 
 ----------
 
@@ -202,7 +202,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/109/8/s716/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs716%2Fb%2F2
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F130
 
 

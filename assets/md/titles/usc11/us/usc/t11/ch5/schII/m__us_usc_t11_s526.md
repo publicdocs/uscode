@@ -83,7 +83,7 @@
 
             (B) of a Federal court to determine and enforce the qualifications for the practice of law before that court.
 
-(Added [Pub. L. 109–8, title II, § 227(a)][/us/pl/109/8/s227/a], Apr. 20, 2005, [119 Stat. 67][/us/stat/119/67]; amended [Pub. L. 111–327, § 2(a)(20)][/us/pl/111/327/s2/a/20], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 227(a), Apr. 20, 2005, [119 Stat. 67][/us/stat/119/67]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(20), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–327, § 2(a)(20)(A)][/us/pl/111/327/s2/a/20/A], substituted “that is untrue or” for “that is untrue and”.
+    2010—Subsec. (a)(2). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
 
-    Subsec. (a)(4). [Pub. L. 111–327, § 2(a)(20)(B)][/us/pl/111/327/s2/a/20/B], inserted “a” after “preparer”.
+    Subsec. (a)(4). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(20)(B), inserted “a” after “preparer”.
 
  __Effective Date__ 
 
@@ -106,12 +106,12 @@
 ----------
 ----------
 
-[/us/pl/109/8/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs227%2Fa
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F67
-[/us/pl/111/327/s2/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F20
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
-[/us/pl/111/327/s2/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F20%2FA
-[/us/pl/111/327/s2/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F20%2FB
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 

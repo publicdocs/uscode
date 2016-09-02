@@ -115,7 +115,7 @@
 
             (B) any court costs or reasonable attorneys’ fees (as determined by the court) incurred in an action to recover those damages.
 
-(Added [Pub. L. 109–8, title I, § 106(e)(1)][/us/pl/109/8/s106/e/1], Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38]; amended [Pub. L. 111–327, § 2(a)(8)][/us/pl/111/327/s2/a/8], Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
+(Added [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(e)(1), Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(8), Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
 
  __Amendments__ 
 
@@ -127,7 +127,7 @@
 
  __Debtor Financial Management Training Test Program__ 
 
-[Pub. L. 109–8, title I, § 105][/us/pl/109/8/s105], Apr. 20, 2005, [119 Stat. 36][/us/stat/119/36], provided that:
+[Pub. L. 109–8, title I][/us/pl/109/8/tI], § 105, Apr. 20, 2005, [119 Stat. 36][/us/stat/119/36], provided that:
 
 >     “(a)  __Development of Financial Management and Training Curriculum and Materials__  __.—__ 
 
@@ -164,14 +164,14 @@
 ----------
 ----------
 
-[/us/pl/109/8/s106/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fe%2F1
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F38
-[/us/pl/111/327/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F8
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3558
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/109/8/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs105
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F36
 [/us/usc/t11/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs111
 

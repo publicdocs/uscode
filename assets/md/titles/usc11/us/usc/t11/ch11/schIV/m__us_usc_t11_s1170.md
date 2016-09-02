@@ -43,7 +43,7 @@
 
         (2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 96–448, title II, § 227(a)][/us/pl/96/448/s227/a], Oct. 14, 1980, [94 Stat. 1931][/us/stat/94/1931]; [Pub. L. 98–353, title III, § 521][/us/pl/98/353/s521], July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 104–88, title III, § 302(2)][/us/pl/104/88/s302/2], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 109–8, title XII, § 1217][/us/pl/109/8/s1217], Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2643][/us/stat/92/2643]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 227(a), Oct. 14, 1980, [94 Stat. 1931][/us/stat/94/1931]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 521, July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 302(2), Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1217, Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
 
  __Historical and Revision Notes__ 
 
@@ -63,11 +63,11 @@
 
     1995—Subsecs. (b), (c), (d)(2). [Pub. L. 104–88][/us/pl/104/88] substituted “Board” for “Commission” wherever appearing.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 521(a)][/us/pl/98/353/s521/a], inserted “of all or a portion” after “the abandonment”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 521(a), inserted “of all or a portion” after “the abandonment”.
 
-    Subsec. (c). [Pub. L. 98–353, § 521(b)][/us/pl/98/353/s521/b], inserted a comma after “abandonment”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 521(b), inserted a comma after “abandonment”.
 
-    Subsec. (d)(2). [Pub. L. 98–353, § 521(c)][/us/pl/98/353/s521/c], substituted “such abandonment” for “the abandonment of a railroad line”, and “suspension” for “termination” in two places.
+    Subsec. (d)(2). [Pub. L. 98–353][/us/pl/98/353], § 521(c), substituted “such abandonment” for “the abandonment of a railroad line”, and “suspension” for “termination” in two places.
 
     1980—Subsec. (e). [Pub. L. 96–448][/us/pl/96/448] added subsec. (e).
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–448, title VII, § 710][/us/pl/96/448/s710], Oct. 14, 1980, [94 Stat. 1966][/us/stat/94/1966], provided that:
+[Pub. L. 96–448, title VII][/us/pl/96/448/tVII], § 710, Oct. 14, 1980, [94 Stat. 1966][/us/stat/94/1966], provided that:
 
 >     “(a) Except as provided in subsections (b), (c), and (d) of this section, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on October 1, 1980.
 
@@ -105,19 +105,19 @@
 [/us/usc/t49/s11326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11326%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2643
-[/us/pl/96/448/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs227%2Fa
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1931
-[/us/pl/98/353/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs521
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
-[/us/pl/104/88/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs302%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
-[/us/pl/109/8/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1217
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F195
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/98/353/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs521%2Fa
-[/us/pl/98/353/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs521%2Fb
-[/us/pl/98/353/s521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs521%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/96/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
@@ -128,7 +128,7 @@
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/96/448/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs710
+[/us/pl/96/448/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtVII
 [/us/stat/94/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1966
 [/us/usc/t49/s10712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10712
 [/us/usc/t49/s10705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10705

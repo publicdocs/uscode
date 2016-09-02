@@ -479,13 +479,13 @@ While there are other examples of large publicly held companies which have succe
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, title III, § 321(a)(2)][/us/pl/109/8/s321/a/2], title IV, § 436(b), Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 113, added items 1115 and 1116.
+    2005—[Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 321(a)(2), title IV, § 436(b), Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 113, added items 1115 and 1116.
 
-    1988—[Pub. L. 100–334, § 2(c)][/us/pl/100/334/s2/c], June 16, 1988, [102 Stat. 613][/us/stat/102/613], added item 1114.
+    1988—[Pub. L. 100–334][/us/pl/100/334], § 2(c), June 16, 1988, [102 Stat. 613][/us/stat/102/613], added item 1114.
 
-    1984—[Pub. L. 98–353, title III][/us/pl/98/353], §§ 514(b), 541(b), July 10, 1984, [98 Stat. 387][/us/stat/98/387], 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
+    1984—[Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 514(b), 541(b), July 10, 1984, [98 Stat. 387][/us/stat/98/387], 391, added item 1113 and substituted “Implementation” for “Execution” in item 1142.
 
-    1983—[Pub. L. 97–449, § 5(a)(1)][/us/pl/97/449/s5/a/1], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442], substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
+    1983—[Pub. L. 97–449][/us/pl/97/449], § 5(a)(1), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442], substituted “subtitle IV of title 49” for “Interstate Commerce Act” in item 1166.
 
 ----------
 
@@ -504,13 +504,13 @@ While there are other examples of large publicly held companies which have succe
 [/us/usc/t15/s77ggg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77ggg
 [/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F883
-[/us/pl/109/8/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fa%2F2
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F95
-[/us/pl/100/334/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334%2Fs2%2Fc
+[/us/pl/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334
 [/us/stat/102/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F613
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F387
-[/us/pl/97/449/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Fa%2F1
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
 
 

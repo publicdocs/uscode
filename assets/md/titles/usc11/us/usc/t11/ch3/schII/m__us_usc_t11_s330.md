@@ -85,7 +85,7 @@
 
     (d) In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by [section 589a of title 28][/us/usc/t28/s589a].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 433, 434, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 211, 257(f), Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099], 3114; [Pub. L. 103–394, title I, § 117][/us/pl/103/394/s117], title II, § 224(b), Oct. 22, 1994, [108 Stat. 4119][/us/stat/108/4119], 4130; [Pub. L. 109–8, title II, § 232(b)][/us/pl/109/8/s232/b], title IV, §§ 407, 415, title XI, § 1104(b), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 106, 107, 192.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2564][/us/stat/92/2564]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 433, 434, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 211, 257(f), Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099], 3114; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 117, title II, § 224(b), Oct. 22, 1994, [108 Stat. 4119][/us/stat/108/4119], 4130; [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 232(b), title IV, §§ 407, 415, title XI, § 1104(b), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 106, 107, 192.)
 
  __Historical and Revision Notes__ 
 
@@ -129,39 +129,39 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 1104(b)(1)][/us/pl/109/8/s1104/b/1], inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
 
-    [Pub. L. 109–8, § 232(b)][/us/pl/109/8/s232/b], inserted “a consumer privacy ombudsman appointed under section 332,” before “an examiner” in introductory provisions.
+    [Pub. L. 109–8][/us/pl/109/8], § 232(b), inserted “a consumer privacy ombudsman appointed under section 332,” before “an examiner” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 109–8, § 1104(b)(2)][/us/pl/109/8/s1104/b/2], inserted “ombudsman,” before “professional person”.
+    Subsec. (a)(1)(A). [Pub. L. 109–8][/us/pl/109/8], § 1104(b)(2), inserted “ombudsman,” before “professional person”.
 
-    Subsec. (a)(3). [Pub. L. 109–8, § 407(1)][/us/pl/109/8/s407/1], in introductory provisions, substituted “In” for “(A) In” and inserted “to an examiner, trustee under chapter 11, or professional person” after “awarded”.
+    Subsec. (a)(3). [Pub. L. 109–8][/us/pl/109/8], § 407(1), in introductory provisions, substituted “In” for “(A) In” and inserted “to an examiner, trustee under chapter 11, or professional person” after “awarded”.
 
-    Subsec. (a)(3)(E), (F). [Pub. L. 109–8, § 415][/us/pl/109/8/s415], added subpar. (E) and redesignated former subpar. (E) as (F).
+    Subsec. (a)(3)(E), (F). [Pub. L. 109–8][/us/pl/109/8], § 415, added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    Subsec. (a)(7). [Pub. L. 109–8, § 407(2)][/us/pl/109/8/s407/2], added par. (7).
+    Subsec. (a)(7). [Pub. L. 109–8][/us/pl/109/8], § 407(2), added par. (7).
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 224(b)][/us/pl/103/394/s224/b], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “After notice to any parties in interest and to the United States trustee and a hearing, and subject to sections 326, 328, and 329 of this title, the court may award to a trustee, to an examiner, to a professional person employed under section 327 or 1103 of this title, or to the debtor’s attorney—
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 224(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “After notice to any parties in interest and to the United States trustee and a hearing, and subject to sections 326, 328, and 329 of this title, the court may award to a trustee, to an examiner, to a professional person employed under section 327 or 1103 of this title, or to the debtor’s attorney—
 
     “(1) reasonable compensation for actual, necessary services rendered by such trustee, examiner, professional person, or attorney, as the case may be, and by any paraprofessional persons employed by such trustee, professional person, or attorney, as the case may be, based on the nature, the extent, and the value of such services, the time spent on such services, and the cost of comparable services other than in a case under this title; and
 
     “(2) reimbursement for actual, necessary expenses.”
 
-    Subsec. (b). [Pub. L. 103–394, § 117][/us/pl/103/394/s117], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], § 117, designated existing provisions as par. (1) and added par. (2).
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 211(1)][/us/pl/99/554/s211/1], inserted “to any parties in interest and to the United States trustee” after “notice”.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 211(1), inserted “to any parties in interest and to the United States trustee” after “notice”.
 
-    Subsec. (c). [Pub. L. 99–554, § 257(f)][/us/pl/99/554/s257/f], inserted reference to chapter 12.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 257(f), inserted reference to chapter 12.
 
-    Subsec. (d). [Pub. L. 99–554, § 211(2)][/us/pl/99/554/s211/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 211(2), added subsec. (d).
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 433(1)][/us/pl/98/353/s433/1], struck out “to any parties in interest and to the United States trustee” after “After notice”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 433(1), struck out “to any parties in interest and to the United States trustee” after “After notice”.
 
-    Subsec. (a)(1). [Pub. L. 98–353, § 433(2)][/us/pl/98/353/s433/2], substituted “nature, the extent, and the value of such services, the time spent on such services” for “time, the nature, the extent, and the value of such services”.
+    Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 433(2), substituted “nature, the extent, and the value of such services, the time spent on such services” for “time, the nature, the extent, and the value of such services”.
 
-    Subsec. (b). [Pub. L. 98–353, § 434(a)][/us/pl/98/353/s434/a], substituted “$45” for “$20”.
+    Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 434(a), substituted “$45” for “$20”.
 
-    Subsec. (c). [Pub. L. 98–353, § 434(b)][/us/pl/98/353/s434/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 434(b), added subsec. (c).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -192,31 +192,31 @@
 [/us/usc/t28/s589a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs589a
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2564
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3099
-[/us/pl/103/394/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs117
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4119
-[/us/pl/109/8/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs232%2Fb
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F74
 [/us/usc/t11/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs649
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/109/8/s1104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1104%2Fb%2F1
-[/us/pl/109/8/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs232%2Fb
-[/us/pl/109/8/s1104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1104%2Fb%2F2
-[/us/pl/109/8/s407/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs407%2F1
-[/us/pl/109/8/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs415
-[/us/pl/109/8/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs407%2F2
-[/us/pl/103/394/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs224%2Fb
-[/us/pl/103/394/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs117
-[/us/pl/99/554/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs211%2F1
-[/us/pl/99/554/s257/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Ff
-[/us/pl/99/554/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs211%2F2
-[/us/pl/98/353/s433/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs433%2F1
-[/us/pl/98/353/s433/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs433%2F2
-[/us/pl/98/353/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs434%2Fa
-[/us/pl/98/353/s434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs434%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

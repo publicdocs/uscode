@@ -75,7 +75,7 @@
 
         (2) the time the case is closed or dismissed.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2601][/us/stat/92/2601]; [Pub. L. 98–353, title III, § 465][/us/pl/98/353/s465], July 10, 1984, [98 Stat. 379][/us/stat/98/379]; [Pub. L. 103–394, title II, § 202][/us/pl/103/394/s202], Oct. 22, 1994, [108 Stat. 4121][/us/stat/108/4121].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2601][/us/stat/92/2601]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 465, July 10, 1984, [98 Stat. 379][/us/stat/98/379]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 202, Oct. 22, 1994, [108 Stat. 4121][/us/stat/108/4121].)
 
  __Historical and Revision Notes__ 
 
@@ -99,17 +99,17 @@
 
     1994—Subsecs. (c) to (f). [Pub. L. 103–394][/us/pl/103/394] added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 465(a)][/us/pl/98/353/s465/a], substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 465(a), substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
 
-    Subsec. (d)(1)(A). [Pub. L. 98–353, § 465(b)(1)][/us/pl/98/353/s465/b/1], inserted “or accruing to” after “by”.
+    Subsec. (d)(1)(A). [Pub. L. 98–353][/us/pl/98/353], § 465(b)(1), inserted “or accruing to” after “by”.
 
-    Subsec. (d)(1)(B). [Pub. L. 98–353, § 465(b)(2)][/us/pl/98/353/s465/b/2], substituted “the value of such property” for “value”.
+    Subsec. (d)(1)(B). [Pub. L. 98–353][/us/pl/98/353], § 465(b)(2), substituted “the value of such property” for “value”.
 
-    Subsec. (d)(2)(D). [Pub. L. 98–353, § 465(b)(3)][/us/pl/98/353/s465/b/3], substituted “payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and” for “payment of any debt secured by a lien on such property.”
+    Subsec. (d)(2)(D). [Pub. L. 98–353][/us/pl/98/353], § 465(b)(3), substituted “payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and” for “payment of any debt secured by a lien on such property.”
 
-    Subsec. (d)(2)(E), (F). [Pub. L. 98–353, § 465(b)(3)][/us/pl/98/353/s465/b/3], (4), struck out subpar. (E) “discharge of any lien against such property that is superior or equal to the rights of the trustee; and” and redesignated subpar. (F) as (E).
+    Subsec. (d)(2)(E), (F). [Pub. L. 98–353][/us/pl/98/353], § 465(b)(3), (4), struck out subpar. (E) “discharge of any lien against such property that is superior or equal to the rights of the trustee; and” and redesignated subpar. (F) as (E).
 
-    Subsec. (e)(1). [Pub. L. 98–353, § 465(c)][/us/pl/98/353/s465/c], substituted “or” for “and”.
+    Subsec. (e)(1). [Pub. L. 98–353][/us/pl/98/353], § 465(c), substituted “or” for “and”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -129,18 +129,18 @@
 [/us/usc/t11/s547/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs547%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2601
-[/us/pl/98/353/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F379
-[/us/pl/103/394/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs202
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4121
 [/us/usc/t11/s549/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs549%2Fb
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s465/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fa
-[/us/pl/98/353/s465/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fb%2F1
-[/us/pl/98/353/s465/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fb%2F2
-[/us/pl/98/353/s465/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fb%2F3
-[/us/pl/98/353/s465/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fb%2F3
-[/us/pl/98/353/s465/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs465%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

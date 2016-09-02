@@ -33,7 +33,7 @@
 
     (8) “within the territorial jurisdiction of the United States”, when used with reference to property of a debtor, refers to tangible property located within the territory of the United States and intangible property deemed under applicable nonbankruptcy law to be located within that territory, including any property subject to attachment or garnishment that may properly be seized or garnished by an action in a Federal or State court in the United States.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 135][/us/stat/119/135].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 135][/us/stat/119/135].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F135
 
 

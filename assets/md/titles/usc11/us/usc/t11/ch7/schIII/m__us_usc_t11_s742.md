@@ -17,7 +17,7 @@
 
     Notwithstanding [section 362 of this title][/us/usc/t11/s362], SIPC may file an application for a protective decree under the Securities Investor Protection Act of 1970. The filing of such application stays all proceedings in the case under this title unless and until such application is dismissed. If SIPC completes the liquidation of the debtor, then the court shall dismiss the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222, § 9][/us/pl/97/222/s9], July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 103–394, title V, § 501(d)(26)][/us/pl/103/394/s501/d/26], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222][/us/pl/97/222], § 9, July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(26), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
 
  __Historical and Revision Notes__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2613
-[/us/pl/97/222/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs9
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F237
-[/us/pl/103/394/s501/d/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F26
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
 [/us/usc/t15/s78ggg/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ggg%2Fb
 [/us/usc/t11/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs103

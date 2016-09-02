@@ -27,7 +27,7 @@
 
     (f) The trustee may not employ a person that has served as an examiner in the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2563][/us/stat/92/2563]; [Pub. L. 98–353, title III, § 430(c)][/us/pl/98/353/s430/c], July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 210, 257(e), Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099], 3114.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2563][/us/stat/92/2563]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 430(c), July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 210, 257(e), Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099], 3114.)
 
  __Historical and Revision Notes__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1986—Subsec. (b). [Pub. L. 99–554, § 257(e)(1)][/us/pl/99/554/s257/e/1], which directed the insertion of “, 1202,” after “section 721,” was executed by making the insertion after “section 721” to reflect the probable intent of Congress.
+    1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 257(e)(1), which directed the insertion of “, 1202,” after “section 721,” was executed by making the insertion after “section 721” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 99–554, § 257(e)(2)][/us/pl/99/554/s257/e/2], which directed the insertion of “, 12,” after “section 7,” was executed by making the insertion after “chapter 7” to reflect the probable intent of Congress.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 257(e)(2), which directed the insertion of “, 12,” after “section 7,” was executed by making the insertion after “chapter 7” to reflect the probable intent of Congress.
 
-    [Pub. L. 99–554, § 210][/us/pl/99/554/s210], inserted “or the United States trustee” after “another creditor”.
+    [Pub. L. 99–554][/us/pl/99/554], § 210, inserted “or the United States trustee” after “another creditor”.
 
     1984—Subsec. (c). [Pub. L. 98–353][/us/pl/98/353] substituted “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person’s employment by or representation of a creditor, unless there is objection by another creditor, in which case the court shall disapprove such employment if there is an actual conflict of interest.” for “In a case under chapter 7 or 11 of this title, a person is not disqualified for employment under this section solely because of such person’s employment by or representation of a creditor, but may not, while employed by the trustee, represent, in connection with the case, a creditor.”
 
@@ -84,13 +84,13 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2563
-[/us/pl/98/353/s430/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs430%2Fc
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3099
-[/us/pl/99/554/s257/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fe%2F1
-[/us/pl/99/554/s257/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fe%2F2
-[/us/pl/99/554/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs210
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/554/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs210
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

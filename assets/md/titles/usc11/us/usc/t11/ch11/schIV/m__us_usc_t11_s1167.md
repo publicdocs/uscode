@@ -17,7 +17,7 @@
 
     Notwithstanding [section 365 of this title][/us/usc/t11/s365], neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act except in accordance with section 6 of such Act.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2642][/us/stat/92/2642]; [Pub. L. 103–394, title V, § 501(d)(35)][/us/pl/103/394/s501/d/35], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2642][/us/stat/92/2642]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(35), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
 
  __Historical and Revision Notes__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t11/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2642
-[/us/pl/103/394/s501/d/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F35
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t45/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs156

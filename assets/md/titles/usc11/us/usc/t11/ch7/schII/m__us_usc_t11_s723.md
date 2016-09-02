@@ -23,7 +23,7 @@
 
     (d) If the aggregate that the trustee recovers from the estates of general partners under subsection (c) of this section is greater than any deficiency not recovered under subsection (b) of this section, the court, after notice and a hearing, shall determine an equitable distribution of the surplus so recovered, and the trustee shall distribute such surplus to the estates of the general partners in such partnership according to such determination.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2606][/us/stat/92/2606]; [Pub. L. 98–353, title III, § 476][/us/pl/98/353/s476], July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 103–394, title II, § 212][/us/pl/103/394/s212], Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125]; [Pub. L. 111–327, § 2(a)(26)][/us/pl/111/327/s2/a/26], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2606][/us/stat/92/2606]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 476, July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 212, Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(26), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -49,9 +49,9 @@
 
     1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394] substituted “to the extent that under applicable nonbankruptcy law such general partner is personally liable for such deficiency” for “for the full amount of the deficiency”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 476][/us/pl/98/353/s476], substituted provisions that the trustee shall have a claim for the full amount of the deficiency against a general partner who is personally liable with respect to claims concerning partnerships which are allowed in a case under this chapter, for provisions that each general partner in the partnership would be liable to the trustee for the full amount of such deficiency.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 476, substituted provisions that the trustee shall have a claim for the full amount of the deficiency against a general partner who is personally liable with respect to claims concerning partnerships which are allowed in a case under this chapter, for provisions that each general partner in the partnership would be liable to the trustee for the full amount of such deficiency.
 
-    Subsec. (c). [Pub. L. 98–353, § 476(b)][/us/pl/98/353/s476/b], substituted “such partner’s case” for “such case” in two places, “by property of such partnership” for “be property of such partnership”, and “a kind specified in such section” for “the kind specified in such section”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 476(b), substituted “such partner’s case” for “such case” in two places, “by property of such partnership” for “be property of such partnership”, and “a kind specified in such section” for “the kind specified in such section”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -72,17 +72,17 @@
 [/us/usc/t11/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726%2Fa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2606
-[/us/pl/98/353/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs476
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F381
-[/us/pl/103/394/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs212
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4125
-[/us/pl/111/327/s2/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F26
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/usc/t11/s728/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs728%2Fc
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs476
-[/us/pl/98/353/s476/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs476%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

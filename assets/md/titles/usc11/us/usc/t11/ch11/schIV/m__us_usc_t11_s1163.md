@@ -17,7 +17,7 @@
 
     As soon as practicable after the order for relief the Secretary of Transportation shall submit a list of five disinterested persons that are qualified and willing to serve as trustees in the case. The United States trustee shall appoint one of such persons to serve as trustee in the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 99–554, title II, § 226][/us/pl/99/554/s226], Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 226, Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102].)
 
  __Historical and Revision Notes__ 
 
@@ -52,7 +52,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2641
-[/us/pl/99/554/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs226
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3102
 [/us/usc/t28/s606/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs606%2Ff
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

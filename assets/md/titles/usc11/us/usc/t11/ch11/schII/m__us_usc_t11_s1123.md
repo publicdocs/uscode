@@ -83,7 +83,7 @@
 
     (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2631][/us/stat/92/2631]; [Pub. L. 98–353, title III, § 507][/us/pl/98/353/s507], July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II, § 206][/us/pl/103/394/s206], title III, §§ 304(h)(6), 305(a), title V, § 501(d)(31), Oct. 22, 1994, [108 Stat. 4123][/us/stat/108/4123], 4134, 4146; [Pub. L. 109–8, title III, § 321(b)][/us/pl/109/8/s321/b], title XV, § 1502(a)(7), Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 216.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2631][/us/stat/92/2631]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 507, July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 206, title III, §§ 304(h)(6), 305(a), title V, § 501(d)(31), Oct. 22, 1994, [108 Stat. 4123][/us/stat/108/4123], 4134, 4146; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 321(b), title XV, § 1502(a)(7), Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 216.)
 
  __Historical and Revision Notes__ 
 
@@ -113,27 +113,27 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 1502(a)(7)][/us/pl/109/8/s1502/a/7], substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
 
-    Subsec. (a)(8). [Pub. L. 109–8, § 321(b)][/us/pl/109/8/s321/b], added par. (8).
+    Subsec. (a)(8). [Pub. L. 109–8][/us/pl/109/8], § 321(b), added par. (8).
 
     1994—Subsec. (a)(1). [Pub. L. 103–394][/us/pl/103/394], §§ 304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
 
-    Subsec. (b)(5), (6). [Pub. L. 103–394, § 206][/us/pl/103/394/s206], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 103–394][/us/pl/103/394], § 206, added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (d). [Pub. L. 103–394, § 305(a)][/us/pl/103/394/s305/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], § 305(a), added subsec. (d).
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 507(a)(1)][/us/pl/98/353/s507/a/1], in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 507(a)(1), in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
 
-    Subsec. (a)(1). [Pub. L. 98–353, § 507(a)(2)][/us/pl/98/353/s507/a/2], inserted a comma after “classes of claims” and substituted “507(a)(7) of this title,” for “507(a)(6) of this title”.
+    Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 507(a)(2), inserted a comma after “classes of claims” and substituted “507(a)(7) of this title,” for “507(a)(6) of this title”.
 
-    Subsec. (a)(3). [Pub. L. 98–353, § 507(a)(3)][/us/pl/98/353/s507/a/3], struck out “shall” before “specify the treatment”.
+    Subsec. (a)(3). [Pub. L. 98–353][/us/pl/98/353], § 507(a)(3), struck out “shall” before “specify the treatment”.
 
-    Subsec. (a)(5). [Pub. L. 98–353, § 507(a)(4)][/us/pl/98/353/s507/a/4], substituted “implementation” for “execution”.
+    Subsec. (a)(5). [Pub. L. 98–353][/us/pl/98/353], § 507(a)(4), substituted “implementation” for “execution”.
 
-    Subsec. (a)(5)(G). [Pub. L. 98–353, § 507(a)(5)][/us/pl/98/353/s507/a/5], inserted “of” after “waiving”.
+    Subsec. (a)(5)(G). [Pub. L. 98–353][/us/pl/98/353], § 507(a)(5), inserted “of” after “waiving”.
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 507(b)][/us/pl/98/353/s507/b], substituted “rejection, or assignment” for “or rejection”, and “under such section” for “under [section 365 of this title][/us/usc/t11/s365]”.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 507(b), substituted “rejection, or assignment” for “or rejection”, and “under such section” for “under [section 365 of this title][/us/usc/t11/s365]”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -159,27 +159,27 @@
 [/us/usc/t11/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs522
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2631
-[/us/pl/98/353/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F385
-[/us/pl/103/394/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs206
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4123
-[/us/pl/109/8/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fb
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F95
 [/us/usc/t11/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365
 [/us/usc/t11/s1142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1142%2Fa
 [/us/usc/t11/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1141%2Fa
 [/us/usc/t11/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs616
-[/us/pl/109/8/s1502/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F7
-[/us/pl/109/8/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/103/394/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs206
-[/us/pl/103/394/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs305%2Fa
-[/us/pl/98/353/s507/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fa%2F1
-[/us/pl/98/353/s507/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fa%2F2
-[/us/pl/98/353/s507/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fa%2F3
-[/us/pl/98/353/s507/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fa%2F4
-[/us/pl/98/353/s507/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fa%2F5
-[/us/pl/98/353/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs507%2Fb
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

@@ -39,7 +39,7 @@
 
     (4) is a lien of distress for rent.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2597][/us/stat/92/2597]; [Pub. L. 98–353, title III, § 460][/us/pl/98/353/s460], July 10, 1984, [98 Stat. 377][/us/stat/98/377]; [Pub. L. 109–8, title VII, § 711][/us/pl/109/8/s711], Apr. 20, 2005, [119 Stat. 127][/us/stat/119/127].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2597][/us/stat/92/2597]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 460, July 10, 1984, [98 Stat. 377][/us/stat/98/377]; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 711, Apr. 20, 2005, [119 Stat. 127][/us/stat/119/127].)
 
  __Historical and Revision Notes__ 
 
@@ -63,11 +63,11 @@
 
     2005—Par. (2). [Pub. L. 109–8][/us/pl/109/8] inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
 
-    1984—Par. (1)(A). [Pub. L. 98–353, § 460(1)][/us/pl/98/353/s460/1], struck out “is” after “is”.
+    1984—Par. (1)(A). [Pub. L. 98–353][/us/pl/98/353], § 460(1), struck out “is” after “is”.
 
-    Par. (1)(C). [Pub. L. 98–353, § 460(2)][/us/pl/98/353/s460/2], substituted “appointed or authorized to take” for “apponted”.
+    Par. (1)(C). [Pub. L. 98–353][/us/pl/98/353], § 460(2), substituted “appointed or authorized to take” for “apponted”.
 
-    Par. (2). [Pub. L. 98–353, § 460(3)][/us/pl/98/353/s460/3], substituted “at the time of the commencement of the case” for “on the date of the filing of the petition” in two places.
+    Par. (2). [Pub. L. 98–353][/us/pl/98/353], § 460(3), substituted “at the time of the commencement of the case” for “on the date of the filing of the petition” in two places.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -86,16 +86,16 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2597
-[/us/pl/98/353/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F377
-[/us/pl/109/8/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs711
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F127
 [/us/usc/t11/s101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101%2F37
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/98/353/s460/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F1
-[/us/pl/98/353/s460/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F2
-[/us/pl/98/353/s460/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F3
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

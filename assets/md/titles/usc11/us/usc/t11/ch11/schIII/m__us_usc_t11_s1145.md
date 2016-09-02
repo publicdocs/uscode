@@ -91,7 +91,7 @@
 
     (d) The Trust Indenture Act of 1939 does not apply to a note issued under the plan that matures not later than one year after the effective date of the plan.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2639][/us/stat/92/2639]; [Pub. L. 98–353, title III, § 516][/us/pl/98/353/s516], July 10, 1984, [98 Stat. 387][/us/stat/98/387]; [Pub. L. 103–394, title V, § 501(d)(33)][/us/pl/103/394/s501/d/33], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 111–327, § 2(a)(37)][/us/pl/111/327/s2/a/37], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2639][/us/stat/92/2639]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 516, July 10, 1984, [98 Stat. 387][/us/stat/98/387]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(33), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(37), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -145,27 +145,27 @@
 
     2010—Subsec. (b). [Pub. L. 111–327][/us/pl/111/327] substituted “2(a)(11)” for “2(11)” wherever appearing.
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 501(d)(33)(A)][/us/pl/103/394/s501/d/33/A], in introductory provisions struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “([15 U.S.C. 78m][/us/usc/t15/s78m] or 78o(d))” after “Act of 1934”.
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(33)(A), in introductory provisions struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “([15 U.S.C. 78m][/us/usc/t15/s78m] or 78o(d))” after “Act of 1934”.
 
-    Subsec. (b)(1). [Pub. L. 103–394, § 501(d)(33)(B)][/us/pl/103/394/s501/d/33/B], struck out “([15 U.S.C. 77b(11)][/us/usc/t15/s77b/11])” after “Act of 1933”.
+    Subsec. (b)(1). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(33)(B), struck out “([15 U.S.C. 77b(11)][/us/usc/t15/s77b/11])” after “Act of 1933”.
 
-    Subsec. (d). [Pub. L. 103–394, § 501(d)(33)(C)][/us/pl/103/394/s501/d/33/C], struck out “([15 U.S.C. 77aaa][/us/usc/t15/s77aaa] et seq.)” after “Act of 1939”.
+    Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(33)(C), struck out “([15 U.S.C. 77aaa][/us/usc/t15/s77aaa] et seq.)” after “Act of 1939”.
 
-    1984—Subsec. (a)(3)(B)(i). [Pub. L. 98–353, § 516(a)(1)][/us/pl/98/353/s516/a/1], inserted “or 15(d)” after “13”, and “or 78o(d)” after “78m”.
+    1984—Subsec. (a)(3)(B)(i). [Pub. L. 98–353][/us/pl/98/353], § 516(a)(1), inserted “or 15(d)” after “13”, and “or 78o(d)” after “78m”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 98–353, § 516(a)(2)][/us/pl/98/353/s516/a/2], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 98–353][/us/pl/98/353], § 516(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
 
-    Subsec. (a)(4). [Pub. L. 98–353, § 516(a)(3)][/us/pl/98/353/s516/a/3], substituted “stockbroker” for “stockholder” in two places.
+    Subsec. (a)(4). [Pub. L. 98–353][/us/pl/98/353], § 516(a)(3), substituted “stockbroker” for “stockholder” in two places.
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 516(b)(1)][/us/pl/98/353/s516/b/1], inserted “and except with respect to ordinary trading transactions of an entity that is not an issuer”.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 516(b)(1), inserted “and except with respect to ordinary trading transactions of an entity that is not an issuer”.
 
-    Subsec. (b)(1)(C). [Pub. L. 98–353, § 516(b)(2)][/us/pl/98/353/s516/b/2], substituted “from” for “for”.
+    Subsec. (b)(1)(C). [Pub. L. 98–353][/us/pl/98/353], § 516(b)(2), substituted “from” for “for”.
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 98–353, § 516(b)(3)][/us/pl/98/353/s516/b/3], substituted “or combining” for “combination”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 98–353][/us/pl/98/353], § 516(b)(3), substituted “or combining” for “combination”.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 98–353, § 516(b)(4)][/us/pl/98/353/s516/b/4], substituted “from or to” for “among”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 98–353][/us/pl/98/353], § 516(b)(4), substituted “from or to” for “among”.
 
-    Subsec. (d). [Pub. L. 98–353, § 516(c)][/us/pl/98/353/s516/c], struck out “commercial” before “note”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 516(c), struck out “commercial” before “note”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -185,11 +185,11 @@
 [/us/usc/t11/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1125
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2639
-[/us/pl/98/353/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F387
-[/us/pl/103/394/s501/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F33
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
-[/us/pl/111/327/s2/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F37
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
 [/us/usc/t15/s77c/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F3
@@ -213,21 +213,21 @@
 [/us/stat/53/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1149
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/103/394/s501/d/33/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F33%2FA
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
-[/us/pl/103/394/s501/d/33/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F33%2FB
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s77b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2F11
-[/us/pl/103/394/s501/d/33/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F33%2FC
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
-[/us/pl/98/353/s516/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fa%2F1
-[/us/pl/98/353/s516/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fa%2F2
-[/us/pl/98/353/s516/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fa%2F3
-[/us/pl/98/353/s516/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fb%2F1
-[/us/pl/98/353/s516/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fb%2F2
-[/us/pl/98/353/s516/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fb%2F3
-[/us/pl/98/353/s516/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fb%2F4
-[/us/pl/98/353/s516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs516%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

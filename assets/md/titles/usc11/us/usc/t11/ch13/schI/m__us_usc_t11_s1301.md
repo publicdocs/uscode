@@ -37,7 +37,7 @@
 
     (d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2645][/us/stat/92/2645]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 313, 524, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 388.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2645][/us/stat/92/2645]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 313, 524, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 388.)
 
  __Historical and Revision Notes__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (c)(3). [Pub. L. 98–353, § 524][/us/pl/98/353/s524], inserted “continuation of” after “by”.
+    1984—Subsec. (c)(3). [Pub. L. 98–353][/us/pl/98/353], § 524, inserted “continuation of” after “by”.
 
-    Subsec. (d). [Pub. L. 98–353, § 313][/us/pl/98/353/s313], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 313, added subsec. (d).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -86,12 +86,12 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2645
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F355
 [/us/usc/t11/s101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101%2F7
 [/us/usc/t11/s101/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101%2F24
-[/us/pl/98/353/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs524
-[/us/pl/98/353/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs313
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

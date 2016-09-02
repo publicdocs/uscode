@@ -93,7 +93,7 @@
 
         (4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2557][/us/stat/92/2557]; [Pub. L. 97–320, title VII, § 703(d)][/us/pl/97/320/s703/d], Oct. 15, 1982, [96 Stat. 1539][/us/stat/96/1539]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 301, 425, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 369; [Pub. L. 99–554, title II, § 253][/us/pl/99/554/s253], Oct. 27, 1986, [100 Stat. 3105][/us/stat/100/3105]; [Pub. L. 100–597, § 2][/us/pl/100/597/s2], Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028]; [Pub. L. 103–394, title I, § 108(a)][/us/pl/103/394/s108/a], title II, § 220, title IV, § 402, title V, § 501(d)(2), Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111], 4129, 4141, 4143; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(1), (2)\], § 1(a)(8) \[§ 1(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–393, 2763A–665; [Pub. L. 109–8, title I, § 106(a)][/us/pl/109/8/s106/a], title VIII, § 802(d)(1), title X, § 1007(b), title XII, § 1204(1), Apr. 20, 2005, [119 Stat. 37][/us/stat/119/37], 146, 188, 193; [Pub. L. 111–16, § 2(1)][/us/pl/111/16/s2/1], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327, § 2(a)(6)][/us/pl/111/327/s2/a/6], Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2557][/us/stat/92/2557]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 703(d), Oct. 15, 1982, [96 Stat. 1539][/us/stat/96/1539]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 301, 425, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 369; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 253, Oct. 27, 1986, [100 Stat. 3105][/us/stat/100/3105]; [Pub. L. 100–597][/us/pl/100/597], § 2, Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 108(a), title II, § 220, title IV, § 402, title V, § 501(d)(2), Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111], 4129, 4141, 4143; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(1), (2)\], § 1(a)(8) \[§ 1(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–393, 2763A–665; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(a), title VIII, § 802(d)(1), title X, § 1007(b), title XII, § 1204(1), Apr. 20, 2005, [119 Stat. 37][/us/stat/119/37], 146, 188, 193; [Pub. L. 111–16][/us/pl/111/16], § 2(1), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(6), Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -147,51 +147,51 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3)(B). [Pub. L. 111–327, § 2(a)(6)(A)][/us/pl/111/327/s2/a/6/A], inserted closing parenthesis after “1978”.
+    2010—Subsec. (b)(3)(B). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(6)(A), inserted closing parenthesis after “1978”.
 
-    Subsec. (h)(1). [Pub. L. 111–327, § 2(a)(6)(B)][/us/pl/111/327/s2/a/6/B], inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
+    Subsec. (h)(1). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
 
     2009—Subsec. (h)(3)(A)(ii). [Pub. L. 111–16][/us/pl/111/16] substituted “7-day” for “5-day”.
 
-    2005—Subsec. (b)(2). [Pub. L. 109–8, § 1204(1)][/us/pl/109/8/s1204/1], struck out “subsection (c) or (d) of” before “section 301”.
+    2005—Subsec. (b)(2). [Pub. L. 109–8][/us/pl/109/8], § 1204(1), struck out “subsection (c) or (d) of” before “section 301”.
 
-    Subsec. (b)(3). [Pub. L. 109–8, § 802(d)(1)][/us/pl/109/8/s802/d/1], added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
+    Subsec. (b)(3). [Pub. L. 109–8][/us/pl/109/8], § 802(d)(1), added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
 
-    Subsec. (f). [Pub. L. 109–8, § 1007(b)][/us/pl/109/8/s1007/b], inserted “or family fisherman” after “family farmer”.
+    Subsec. (f). [Pub. L. 109–8][/us/pl/109/8], § 1007(b), inserted “or family fisherman” after “family farmer”.
 
-    Subsec. (h). [Pub. L. 109–8, § 106(a)][/us/pl/109/8/s106/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–8][/us/pl/109/8], § 106(a), added subsec. (h).
 
-    2000—Subsec. (b)(2). [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
+    2000—Subsec. (b)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(1)\], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(1)\], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(2)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(2)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
 
     1994—Subsec. (b)(2). [Pub. L. 103–394][/us/pl/103/394], §§ 220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “([12 U.S.C. 1813(h)][/us/usc/t12/s1813/h])” after “Insurance Act”.
 
-    Subsec. (c)(2). [Pub. L. 103–394, § 402][/us/pl/103/394/s402], substituted “specifically authorized, in its capacity as a municipality or by name,” for “generally authorized”.
+    Subsec. (c)(2). [Pub. L. 103–394][/us/pl/103/394], § 402, substituted “specifically authorized, in its capacity as a municipality or by name,” for “generally authorized”.
 
-    Subsec. (e). [Pub. L. 103–394, § 108(a)][/us/pl/103/394/s108/a], substituted “$250,000” and “$750,000” for “$100,000” and “$350,000”, respectively, in two places.
+    Subsec. (e). [Pub. L. 103–394][/us/pl/103/394], § 108(a), substituted “$250,000” and “$750,000” for “$100,000” and “$350,000”, respectively, in two places.
 
     1988—Subsec. (c)(3). [Pub. L. 100–597][/us/pl/100/597] struck out “or unable to meet such entity’s debts as such debts mature” after “insolvent”.
 
-    1986—Subsec. (f). [Pub. L. 99–554, § 253(1)(B)][/us/pl/99/554/s253/1/B], (2), added subsec. (f) and redesignated former subsec. (f) as (g).
+    1986—Subsec. (f). [Pub. L. 99–554][/us/pl/99/554], § 253(1)(B), (2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    Subsec. (g). [Pub. L. 99–554, § 253(1)][/us/pl/99/554/s253/1], redesignated former subsec. (f) as (g) and inserted reference to family farmer.
+    Subsec. (g). [Pub. L. 99–554][/us/pl/99/554], § 253(1), redesignated former subsec. (f) as (g) and inserted reference to family farmer.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 425(a)][/us/pl/98/353/s425/a], struck out “in the United States,” after “only a person that resides”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 425(a), struck out “in the United States,” after “only a person that resides”.
 
-    Subsec. (c)(5)(D). [Pub. L. 98–353, § 425(b)][/us/pl/98/353/s425/b], substituted “transfer that is avoidable under [section 547 of this title][/us/usc/t11/s547]” for “preference”.
+    Subsec. (c)(5)(D). [Pub. L. 98–353][/us/pl/98/353], § 425(b), substituted “transfer that is avoidable under [section 547 of this title][/us/usc/t11/s547]” for “preference”.
 
-    Subsec. (d). [Pub. L. 98–353, § 425(c)][/us/pl/98/353/s425/c], substituted “stockbroker” for “stockholder”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 425(c), substituted “stockbroker” for “stockholder”.
 
-    Subsec. (f). [Pub. L. 98–353, § 301][/us/pl/98/353/s301], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–353][/us/pl/98/353], § 301, added subsec. (f).
 
     1982—Subsec. (b)(2). [Pub. L. 97–320][/us/pl/97/320] inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(h)][/us/usc/t12/s1813/h]).
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–16, § 7][/us/pl/111/16/s7], May 7, 2009, [123 Stat. 1609][/us/stat/123/1609], provided that: 
+[Pub. L. 111–16][/us/pl/111/16], § 7, May 7, 2009, [123 Stat. 1609][/us/stat/123/1609], provided that: 
 
 > “The amendments made by this Act \[amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, [section 853 of Title 21][/us/usc/t21/s853], Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure\] shall take effect on December 1, 2009.”
 
@@ -219,7 +219,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title][/us/usc/t11/s104] as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts “360,475” and “1,081,400” were adjusted to “383,175” and “1,149,525”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts “383,175” and “1,149,525” were adjusted to “394,725” and “1,184,200”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts “360,475” and “1,081,400” were adjusted to “383,175” and “1,149,525”, respectively, each time they appeared.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (e), dollar amounts “336,900” and “1,010,650” were adjusted to “360,475” and “1,081,400”, respectively, each time they appeared.
 
@@ -242,23 +244,23 @@
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2557
-[/us/pl/97/320/s703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs703%2Fd
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1539
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F352
-[/us/pl/99/554/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs253
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3105
-[/us/pl/100/597/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs2
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3028
-[/us/pl/103/394/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fa
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4111
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/8/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fa
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F37
-[/us/pl/111/16/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F1
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
-[/us/pl/111/327/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F6
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3557
 [/us/usc/t15/s689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs689
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
@@ -266,31 +268,31 @@
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4422
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/111/327/s2/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F6%2FA
-[/us/pl/111/327/s2/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F6%2FB
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
-[/us/pl/109/8/s1204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1204%2F1
-[/us/pl/109/8/s802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F1
-[/us/pl/109/8/s1007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1007%2Fb
-[/us/pl/109/8/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fa
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t12/s1813/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fh
-[/us/pl/103/394/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs402
-[/us/pl/103/394/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fa
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
-[/us/pl/99/554/s253/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs253%2F1%2FB
-[/us/pl/99/554/s253/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs253%2F1
-[/us/pl/98/353/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs425%2Fa
-[/us/pl/98/353/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs425%2Fb
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs547
-[/us/pl/98/353/s425/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs425%2Fc
-[/us/pl/98/353/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs301
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s1813/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fh
-[/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1609
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

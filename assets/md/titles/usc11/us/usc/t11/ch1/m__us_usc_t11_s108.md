@@ -39,7 +39,7 @@
 
         (2) 30 days after notice of the termination or expiration of the stay under section 362, 922, 1201, or 1301 of this title, as the case may be, with respect to such claim.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2556][/us/stat/92/2556]; [Pub. L. 98–353, title III, § 424][/us/pl/98/353/s424], July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II, § 257(b)][/us/pl/99/554/s257/b], Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114]; [Pub. L. 109–8, title XII, § 1203][/us/pl/109/8/s1203], Apr. 20, 2005, [119 Stat. 193][/us/stat/119/193].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2556][/us/stat/92/2556]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 424, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(b), Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1203, Apr. 20, 2005, [119 Stat. 193][/us/stat/119/193].)
 
  __Historical and Revision Notes__ 
 
@@ -59,23 +59,23 @@
 
     2005—Subsec. (c)(2). [Pub. L. 109–8][/us/pl/109/8] substituted “922, 1201, or” for “922, or”.
 
-    1986—Subsec. (b). [Pub. L. 99–554, § 257(b)(1)][/us/pl/99/554/s257/b/1], inserted reference to [section 1201 of this title][/us/usc/t11/s1201].
+    1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 257(b)(1), inserted reference to [section 1201 of this title][/us/usc/t11/s1201].
 
-    Subsec. (c). [Pub. L. 99–554, § 257(b)(2)(A)][/us/pl/99/554/s257/b/2/A], inserted reference to [section 1201 of this title][/us/usc/t11/s1201] in provisions preceding par. (1).
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 257(b)(2)(A), inserted reference to [section 1201 of this title][/us/usc/t11/s1201] in provisions preceding par. (1).
 
-    Subsec. (c)(2). [Pub. L. 99–554, § 257(b)(2)(B)][/us/pl/99/554/s257/b/2/B], which directed the amendment of subsec. (c) by inserting “1201,” after “722,” could not be executed because “722,” did not appear in text.
+    Subsec. (c)(2). [Pub. L. 99–554][/us/pl/99/554], § 257(b)(2)(B), which directed the amendment of subsec. (c) by inserting “1201,” after “722,” could not be executed because “722,” did not appear in text.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 424(b)][/us/pl/98/353/s424/b], inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-    Subsec. (a)(1). [Pub. L. 98–353, § 424(a)][/us/pl/98/353/s424/a], substituted “or” for “and” after the semicolon.
+    Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 424(a), substituted “or” for “and” after the semicolon.
 
-    Subsec. (b). [Pub. L. 98–353, § 424(b)][/us/pl/98/353/s424/b], inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 424(a)][/us/pl/98/353/s424/a], substituted “or” for “and” after the semicolon.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 424(a), substituted “or” for “and” after the semicolon.
 
-    Subsec. (c). [Pub. L. 98–353, § 424(b)][/us/pl/98/353/s424/b], inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-    Subsec. (c)(1). [Pub. L. 98–353, § 424(a)][/us/pl/98/353/s424/a], substituted “or” for “and” after the semicolon.
+    Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 424(a), substituted “or” for “and” after the semicolon.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -99,25 +99,25 @@
 [/us/usc/t11/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs524
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2556
-[/us/pl/98/353/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fb
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3114
-[/us/pl/109/8/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1203
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F193
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/99/554/s257/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fb%2F1
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1201
-[/us/pl/99/554/s257/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fb%2F2%2FA
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1201
-[/us/pl/99/554/s257/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fb%2F2%2FB
-[/us/pl/98/353/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fb
-[/us/pl/98/353/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fa
-[/us/pl/98/353/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fb
-[/us/pl/98/353/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fa
-[/us/pl/98/353/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fb
-[/us/pl/98/353/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs424%2Fa
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

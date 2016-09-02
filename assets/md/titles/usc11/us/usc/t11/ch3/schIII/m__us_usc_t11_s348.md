@@ -45,7 +45,7 @@
 
         (2) If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property of the estate in the converted case shall consist of the property of the estate as of the date of conversion.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2568][/us/stat/92/2568]; [Pub. L. 99–554, title II, § 257(i)][/us/pl/99/554/s257/i], Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title III, § 311][/us/pl/103/394/s311], title V, § 501(d)(5), Oct. 22, 1994, [108 Stat. 4138][/us/stat/108/4138], 4144; [Pub. L. 109–8, title III, § 309(a)][/us/pl/109/8/s309/a], title XII, § 1207, Apr. 20, 2005, [119 Stat. 82][/us/stat/119/82], 194; [Pub. L. 111–327, § 2(a)(11)][/us/pl/111/327/s2/a/11], Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2568][/us/stat/92/2568]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(i), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 311, title V, § 501(d)(5), Oct. 22, 1994, [108 Stat. 4138][/us/stat/108/4138], 4144; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 309(a), title XII, § 1207, Apr. 20, 2005, [119 Stat. 82][/us/stat/119/82], 194; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(11), Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
 
  __Historical and Revision Notes__ 
 
@@ -67,25 +67,25 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–327, § 2(a)(11)(A)][/us/pl/111/327/s2/a/11/A], struck out “728(a), 728(b),” after “727(b),” and “1146(a), 1146(b),” after “1141(d)(4),”.
+    2010—Subsec. (b). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(11)(A), struck out “728(a), 728(b),” after “727(b),” and “1146(a), 1146(b),” after “1141(d)(4),”.
 
-    Subsec. (f)(1)(C)(i). [Pub. L. 111–327, § 2(a)(11)(B)][/us/pl/111/327/s2/a/11/B], which directed insertion of “of the filing” after “date”, was executed by making the insertion after “date” the first time appearing to reflect the probable intent of Congress.
+    Subsec. (f)(1)(C)(i). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(11)(B), which directed insertion of “of the filing” after “date”, was executed by making the insertion after “date” the first time appearing to reflect the probable intent of Congress.
 
-    2005—Subsec. (f)(1)(B). [Pub. L. 109–8, § 309(a)(2)(A)][/us/pl/109/8/s309/a/2/A], substituted “only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12” for “in the converted case, with allowed secured claims”.
+    2005—Subsec. (f)(1)(B). [Pub. L. 109–8][/us/pl/109/8], § 309(a)(2)(A), substituted “only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12” for “in the converted case, with allowed secured claims”.
 
-    Subsec. (f)(1)(C). [Pub. L. 109–8, § 309(a)(1)][/us/pl/109/8/s309/a/1], (2)(B), (3), added subpar. (C).
+    Subsec. (f)(1)(C). [Pub. L. 109–8][/us/pl/109/8], § 309(a)(1), (2)(B), (3), added subpar. (C).
 
-    Subsec. (f)(2). [Pub. L. 109–8, § 1207][/us/pl/109/8/s1207], inserted “of the estate” after “bad faith, the property”.
+    Subsec. (f)(2). [Pub. L. 109–8][/us/pl/109/8], § 1207, inserted “of the estate” after “bad faith, the property”.
 
-    1994—Subsec. (b). [Pub. L. 103–394, § 501(d)(5)][/us/pl/103/394/s501/d/5], substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
+    1994—Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(5), substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
 
-    Subsecs. (c) to (e). [Pub. L. 103–394, § 501(d)(5)(B)][/us/pl/103/394/s501/d/5/B], substituted “1208, or 1307” for “1307, or 1208”.
+    Subsecs. (c) to (e). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(5)(B), substituted “1208, or 1307” for “1307, or 1208”.
 
-    Subsec. (f). [Pub. L. 103–394, § 311][/us/pl/103/394/s311], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–394][/us/pl/103/394], § 311, added subsec. (f).
 
-    1986—Subsec. (b). [Pub. L. 99–554, § 257(i)(1)][/us/pl/99/554/s257/i/1], substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to [section 1328(a) of this title][/us/usc/t11/s1328/a], and inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
+    1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to [section 1328(a) of this title][/us/usc/t11/s1328/a], and inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
 
-    Subsecs. (c) to (e). [Pub. L. 99–554, § 257(i)(2)][/us/pl/99/554/s257/i/2], (3), inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
+    Subsecs. (c) to (e). [Pub. L. 99–554][/us/pl/99/554], § 257(i)(2), (3), inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -109,27 +109,27 @@
 [/us/usc/t11/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2568
-[/us/pl/99/554/s257/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fi
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115
-[/us/pl/103/394/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs311
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4138
-[/us/pl/109/8/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs309%2Fa
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F82
-[/us/pl/111/327/s2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F11
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3558
 [/us/usc/t11/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb
-[/us/pl/111/327/s2/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F11%2FA
-[/us/pl/111/327/s2/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F11%2FB
-[/us/pl/109/8/s309/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs309%2Fa%2F2%2FA
-[/us/pl/109/8/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs309%2Fa%2F1
-[/us/pl/109/8/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1207
-[/us/pl/103/394/s501/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F5
-[/us/pl/103/394/s501/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F5%2FB
-[/us/pl/103/394/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs311
-[/us/pl/99/554/s257/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fi%2F1
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1328%2Fa
 [/us/usc/t11/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1208
-[/us/pl/99/554/s257/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fi%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1208
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

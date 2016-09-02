@@ -65,7 +65,7 @@
 
     (d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Added and amended [Pub. L. 99–554, title II, § 255][/us/pl/99/554/s255], title III, § 302(f), Oct. 27, 1986, [100 Stat. 3109][/us/stat/100/3109], 3124; [Pub. L. 103–65, § 1][/us/pl/103/65/s1], Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 103–394, title III, § 305(b)][/us/pl/103/394/s305/b], Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134]; [Pub. L. 105–277, div. C, title I, § 149(a)][/us/pl/105/277/s149/a], Oct. 21, 1998, [112 Stat. 2681–610][/us/stat/112/2681-610]; [Pub. L. 106–5, § 1(1)][/us/pl/106/5/s1/1], (2), Mar. 30, 1999, [113 Stat. 9][/us/stat/113/9]; [Pub. L. 106–70, § 1][/us/pl/106/70/s1], Oct. 9, 1999, [113 Stat. 1031][/us/stat/113/1031]; [Pub. L. 107–8, § 1][/us/pl/107/8/s1], May 11, 2001, [115 Stat. 10][/us/stat/115/10]; [Pub. L. 107–17, § 1][/us/pl/107/17/s1], June 26, 2001, [115 Stat. 151][/us/stat/115/151]; [Pub. L. 107–170, § 1][/us/pl/107/170/s1], May 7, 2002, [116 Stat. 133][/us/stat/116/133]; [Pub. L. 107–171, title X, § 10814(a)][/us/pl/107/171/s10814/a], May 13, 2002, [116 Stat. 532][/us/stat/116/532]; [Pub. L. 107–377, § 2(a)][/us/pl/107/377/s2/a], Dec. 19, 2002, [116 Stat. 3115][/us/stat/116/3115]; [Pub. L. 108–73, § 2(a)][/us/pl/108/73/s2/a], Aug. 15, 2003, [117 Stat. 891][/us/stat/117/891]; [Pub. L. 108–369, § 2(a)][/us/pl/108/369/s2/a], Oct. 25, 2004, [118 Stat. 1749][/us/stat/118/1749]; [Pub. L. 109–8, title II, § 213(3)][/us/pl/109/8/s213/3], (4), title X, §§ 1001(a)(1), (c), 1003(a), Apr. 20, 2005, [119 Stat. 52][/us/stat/119/52], 185, 186.)
+(Added and amended [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 255, title III, § 302(f), Oct. 27, 1986, [100 Stat. 3109][/us/stat/100/3109], 3124; [Pub. L. 103–65][/us/pl/103/65], § 1, Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 305(b), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 149(a), Oct. 21, 1998, [112 Stat. 2681–610][/us/stat/112/2681-610]; [Pub. L. 106–5][/us/pl/106/5], § 1(1), (2), Mar. 30, 1999, [113 Stat. 9][/us/stat/113/9]; [Pub. L. 106–70][/us/pl/106/70], § 1, Oct. 9, 1999, [113 Stat. 1031][/us/stat/113/1031]; [Pub. L. 107–8][/us/pl/107/8], § 1, May 11, 2001, [115 Stat. 10][/us/stat/115/10]; [Pub. L. 107–17][/us/pl/107/17], § 1, June 26, 2001, [115 Stat. 151][/us/stat/115/151]; [Pub. L. 107–170][/us/pl/107/170], § 1, May 7, 2002, [116 Stat. 133][/us/stat/116/133]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10814(a), May 13, 2002, [116 Stat. 532][/us/stat/116/532]; [Pub. L. 107–377][/us/pl/107/377], § 2(a), Dec. 19, 2002, [116 Stat. 3115][/us/stat/116/3115]; [Pub. L. 108–73][/us/pl/108/73], § 2(a), Aug. 15, 2003, [117 Stat. 891][/us/stat/117/891]; [Pub. L. 108–369][/us/pl/108/369], § 2(a), Oct. 25, 2004, [118 Stat. 1749][/us/stat/118/1749]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 213(3), (4), title X, §§ 1001(a)(1), (c), 1003(a), Apr. 20, 2005, [119 Stat. 52][/us/stat/119/52], 185, 186.)
 
  __Codification__ 
 
@@ -73,17 +73,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(2). [Pub. L. 109–8, § 1003(a)][/us/pl/109/8/s1003/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under [section 507 of this title][/us/usc/t11/s507], unless the holder of a particular claim agrees to a different treatment of such claim;”.
+    2005—Subsec. (a)(2). [Pub. L. 109–8][/us/pl/109/8], § 1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under [section 507 of this title][/us/usc/t11/s507], unless the holder of a particular claim agrees to a different treatment of such claim;”.
 
-    Subsec. (a)(4). [Pub. L. 109–8, § 213(3)][/us/pl/109/8/s213/3], added par. (4).
+    Subsec. (a)(4). [Pub. L. 109–8][/us/pl/109/8], § 213(3), added par. (4).
 
-    Subsec. (b)(11), (12). [Pub. L. 109–8, § 213(4)][/us/pl/109/8/s213/4], added par. (11) and redesignated former par. (11) as (12).
+    Subsec. (b)(11), (12). [Pub. L. 109–8][/us/pl/109/8], § 213(4), added par. (11) and redesignated former par. (11) as (12).
 
     1994—Subsec. (d). [Pub. L. 103–394][/us/pl/103/394] added subsec. (d).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–8, title X, § 1003(c)][/us/pl/109/8/s1003/c], Apr. 20, 2005, [119 Stat. 186][/us/stat/119/186], provided that: 
+[Pub. L. 109–8, title X][/us/pl/109/8/tX], § 1003(c), Apr. 20, 2005, [119 Stat. 186][/us/stat/119/186], provided that: 
 
 > “This section \[amending this section and [section 1231 of this title][/us/usc/t11/s1231]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\] and shall not apply with respect to cases commenced under title 11 of the United States Code before such date.”
 
@@ -103,41 +103,41 @@
 [/us/usc/t11/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1122
 [/us/usc/t11/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365
 [/us/usc/t11/s1225/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1225%2Fa%2F5
-[/us/pl/99/554/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs255
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3109
-[/us/pl/103/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65%2Fs1
+[/us/pl/103/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65
 [/us/stat/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F311
-[/us/pl/103/394/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs305%2Fb
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4134
-[/us/pl/105/277/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs149%2Fa
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-610
-[/us/pl/106/5/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F5%2Fs1%2F1
+[/us/pl/106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F5
 [/us/stat/113/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F9
-[/us/pl/106/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F70%2Fs1
+[/us/pl/106/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F70
 [/us/stat/113/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1031
-[/us/pl/107/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F8%2Fs1
+[/us/pl/107/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F8
 [/us/stat/115/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F10
-[/us/pl/107/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F17%2Fs1
+[/us/pl/107/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F17
 [/us/stat/115/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F151
-[/us/pl/107/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F170%2Fs1
+[/us/pl/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F170
 [/us/stat/116/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F133
-[/us/pl/107/171/s10814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10814%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F532
-[/us/pl/107/377/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F377%2Fs2%2Fa
+[/us/pl/107/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F377
 [/us/stat/116/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3115
-[/us/pl/108/73/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F73%2Fs2%2Fa
+[/us/pl/108/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F73
 [/us/stat/117/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F891
-[/us/pl/108/369/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F369%2Fs2%2Fa
+[/us/pl/108/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F369
 [/us/stat/118/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1749
-[/us/pl/109/8/s213/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F3
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F52
 [/us/usc/t11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1201
-[/us/pl/109/8/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1003%2Fa
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t11/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507
-[/us/pl/109/8/s213/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F3
-[/us/pl/109/8/s213/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F4
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/109/8/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1003%2Fc
+[/us/pl/109/8/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtX
 [/us/stat/119/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F186
 [/us/usc/t11/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1231
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

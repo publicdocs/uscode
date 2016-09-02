@@ -127,7 +127,7 @@
 
     (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2649][/us/stat/92/2649]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 317, 530, July 10, 1984, [98 Stat. 356][/us/stat/98/356], 389; [Pub. L. 99–554, title II, § 283(y)][/us/pl/99/554/s283/y], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 105–183, § 4(a)][/us/pl/105/183/s4/a], June 19, 1998, [112 Stat. 518][/us/stat/112/518]; [Pub. L. 109–8, title I, § 102(g)][/us/pl/109/8/s102/g], (h), title II, § 213(10), title III, §§ 306(a), (b), 309(c)(1), 318(2), (3), title VII, § 716(a), Apr. 20, 2005, [119 Stat. 33][/us/stat/119/33], 53, 80, 83, 93, 129; [Pub. L. 109–439, § 2][/us/pl/109/439/s2], Dec. 20, 2006, [120 Stat. 3285][/us/stat/120/3285]; [Pub. L. 111–327, § 2(a)(44)][/us/pl/111/327/s2/a/44], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2649][/us/stat/92/2649]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 317, 530, July 10, 1984, [98 Stat. 356][/us/stat/98/356], 389; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(y), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 105–183][/us/pl/105/183], § 4(a), June 19, 1998, [112 Stat. 518][/us/stat/112/518]; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 102(g), (h), title II, § 213(10), title III, §§ 306(a), (b), 309(c)(1), 318(2), (3), title VII, § 716(a), Apr. 20, 2005, [119 Stat. 33][/us/stat/119/33], 53, 80, 83, 93, 129; [Pub. L. 109–439][/us/pl/109/439], § 2, Dec. 20, 2006, [120 Stat. 3285][/us/stat/120/3285]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(44), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -147,45 +147,45 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–327, § 2(a)(44)(A)][/us/pl/111/327/s2/a/44/A], inserted “period” after “910-day” in concluding provisions.
+    2010—Subsec. (a). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(44)(A), inserted “period” after “910-day” in concluding provisions.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 111–327, § 2(a)(44)(B)][/us/pl/111/327/s2/a/44/B], inserted closing parenthesis after “548(d)(3)”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(44)(B), inserted closing parenthesis after “548(d)(3)”.
 
     2006—Subsec. (b)(3). [Pub. L. 109–439][/us/pl/109/439] inserted “, other than subparagraph (A)(ii) of paragraph (2),” after “under paragraph (2)” in introductory provisions.
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 306(b)][/us/pl/109/8/s306/b], inserted concluding provisions at end “For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in [section 30102 of title 49][/us/usc/t49/s30102]) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.”
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 306(b), inserted concluding provisions at end “For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in [section 30102 of title 49][/us/usc/t49/s30102]) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.”
 
-    Subsec. (a)(5)(B)(i). [Pub. L. 109–8, § 306(a)][/us/pl/109/8/s306/a], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the plan provides that the holder of such claim retain the lien securing such claim; and”.
+    Subsec. (a)(5)(B)(i). [Pub. L. 109–8][/us/pl/109/8], § 306(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the plan provides that the holder of such claim retain the lien securing such claim; and”.
 
-    Subsec. (a)(5)(B)(iii). [Pub. L. 109–8, § 309(c)(1)][/us/pl/109/8/s309/c/1], added cl. (iii).
+    Subsec. (a)(5)(B)(iii). [Pub. L. 109–8][/us/pl/109/8], § 309(c)(1), added cl. (iii).
 
-    Subsec. (a)(7). [Pub. L. 109–8, § 102(g)][/us/pl/109/8/s102/g], added par. (7).
+    Subsec. (a)(7). [Pub. L. 109–8][/us/pl/109/8], § 102(g), added par. (7).
 
-    Subsec. (a)(8). [Pub. L. 109–8, § 213(10)][/us/pl/109/8/s213/10], added par. (8).
+    Subsec. (a)(8). [Pub. L. 109–8][/us/pl/109/8], § 213(10), added par. (8).
 
-    Subsec. (a)(9). [Pub. L. 109–8, § 716(a)][/us/pl/109/8/s716/a], added par. (9).
+    Subsec. (a)(9). [Pub. L. 109–8][/us/pl/109/8], § 716(a), added par. (9).
 
-    Subsec. (b)(1)(B). [Pub. L. 109–8, § 318(2)][/us/pl/109/8/s318/2], substituted “applicable commitment period” for “three-year period”.
+    Subsec. (b)(1)(B). [Pub. L. 109–8][/us/pl/109/8], § 318(2), substituted “applicable commitment period” for “three-year period”.
 
-    [Pub. L. 109–8, § 102(h)(1)][/us/pl/109/8/s102/h/1], inserted “to unsecured creditors” after “to make payments”.
+    [Pub. L. 109–8][/us/pl/109/8], § 102(h)(1), inserted “to unsecured creditors” after “to make payments”.
 
-    Subsec. (b)(2), (3). [Pub. L. 109–8, § 102(h)(2)][/us/pl/109/8/s102/h/2], added pars. (2) and (3) and struck out former par. (2) which read as follows: “For purposes of this subsection, ‘disposable income’ means income which is received by the debtor and which is not reasonably necessary to be expended—
+    Subsec. (b)(2), (3). [Pub. L. 109–8][/us/pl/109/8], § 102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “For purposes of this subsection, ‘disposable income’ means income which is received by the debtor and which is not reasonably necessary to be expended—
 
     “(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
 
     “(B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.”
 
-    Subsec. (b)(4). [Pub. L. 109–8, § 318(3)][/us/pl/109/8/s318/3], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–8][/us/pl/109/8], § 318(3), added par. (4).
 
     1998—Subsec. (b)(2)(A). [Pub. L. 105–183][/us/pl/105/183] inserted before semicolon “, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
 
     1986—Subsec. (b)(2)(A). [Pub. L. 99–554][/us/pl/99/554] substituted “; and” for “; or”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 317(1)][/us/pl/98/353/s317/1], substituted “Except as provided in subsection (b), the” for “The”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 317(1), substituted “Except as provided in subsection (b), the” for “The”.
 
-    Subsec. (a)(1). [Pub. L. 98–353, § 530][/us/pl/98/353/s530], inserted “the” before “other”.
+    Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 530, inserted “the” before “other”.
 
-    Subsecs. (b), (c). [Pub. L. 98–353, § 317(2)][/us/pl/98/353/s317/2], (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 98–353][/us/pl/98/353], § 317(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -207,7 +207,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title][/us/usc/t11/s104] as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amount “625” was adjusted to “675” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amount “675” was adjusted to “700” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amount “625” was adjusted to “675” each time it appeared.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3), (4), dollar amount “575” was adjusted to “625”.
 
@@ -223,37 +225,37 @@
 [/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2649
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F356
-[/us/pl/99/554/s283/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fy
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/105/183/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs4%2Fa
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/stat/112/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F518
-[/us/pl/109/8/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fg
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F33
-[/us/pl/109/439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F439%2Fs2
-[/us/stat/120/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3285
-[/us/pl/111/327/s2/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F44
-[/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
-[/us/pl/111/327/s2/a/44/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F44%2FA
-[/us/pl/111/327/s2/a/44/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F44%2FB
 [/us/pl/109/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F439
-[/us/pl/109/8/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs306%2Fb
+[/us/stat/120/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3285
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F439
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
-[/us/pl/109/8/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs306%2Fa
-[/us/pl/109/8/s309/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs309%2Fc%2F1
-[/us/pl/109/8/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fg
-[/us/pl/109/8/s213/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F10
-[/us/pl/109/8/s716/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs716%2Fa
-[/us/pl/109/8/s318/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs318%2F2
-[/us/pl/109/8/s102/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fh%2F1
-[/us/pl/109/8/s102/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fh%2F2
-[/us/pl/109/8/s318/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs318%2F3
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s317/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs317%2F1
-[/us/pl/98/353/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs530
-[/us/pl/98/353/s317/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs317%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

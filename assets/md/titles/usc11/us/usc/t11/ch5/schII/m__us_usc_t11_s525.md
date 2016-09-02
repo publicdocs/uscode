@@ -33,7 +33,7 @@
 
         (2) In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2593][/us/stat/92/2593]; [Pub. L. 98–353, title III, § 309][/us/pl/98/353/s309], July 10, 1984, [98 Stat. 354][/us/stat/98/354]; [Pub. L. 103–394, title III, § 313][/us/pl/103/394/s313], title V, § 501(d)(15), Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140], 4145; [Pub. L. 109–8, title XII, § 1211][/us/pl/109/8/s1211], Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2593][/us/stat/92/2593]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 309, July 10, 1984, [98 Stat. 354][/us/stat/98/354]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 313, title V, § 501(d)(15), Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140], 4145; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1211, Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
 
  __Historical and Revision Notes__ 
 
@@ -63,13 +63,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c)(1). [Pub. L. 109–8, § 1211(1)][/us/pl/109/8/s1211/1], inserted “student” before “grant, loan,”.
+    2005—Subsec. (c)(1). [Pub. L. 109–8][/us/pl/109/8], § 1211(1), inserted “student” before “grant, loan,”.
 
-    Subsec. (c)(2). [Pub. L. 109–8, § 1211(2)][/us/pl/109/8/s1211/2], substituted “any program operated under” for “the program operated under part B, D, or E of”.
+    Subsec. (c)(2). [Pub. L. 109–8][/us/pl/109/8], § 1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 501(d)(15)][/us/pl/103/394/s501/d/15], struck out “([7 U.S.C. 499a–499s][/us/usc/t7/s499a–499s])” after “Act, 1930”, “([7 U.S.C. 181–229][/us/usc/t7/s181–229])” after “Act, 1921”, and “([57 Stat. 422][/us/stat/57/422]; [7 U.S.C. 204][/us/usc/t7/s204])” after “July 12, 1943”.
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(15), struck out “([7 U.S.C. 499a–499s][/us/usc/t7/s499a–499s])” after “Act, 1930”, “([7 U.S.C. 181–229][/us/usc/t7/s181–229])” after “Act, 1921”, and “([57 Stat. 422][/us/stat/57/422]; [7 U.S.C. 204][/us/usc/t7/s204])” after “July 12, 1943”.
 
-    Subsec. (c). [Pub. L. 103–394, § 313][/us/pl/103/394/s313], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–394][/us/pl/103/394], § 313, added subsec. (c).
 
     1984—[Pub. L. 98–353][/us/pl/98/353] designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
 
@@ -94,11 +94,11 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2593
-[/us/pl/98/353/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs309
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F354
-[/us/pl/103/394/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs313
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4140
-[/us/pl/109/8/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1211
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F194
 [/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F531
@@ -112,14 +112,14 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/109/8/s1211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1211%2F1
-[/us/pl/109/8/s1211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1211%2F2
-[/us/pl/103/394/s501/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F15
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t7/s499a–499s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499a%E2%80%93499s
 [/us/usc/t7/s181–229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs181%E2%80%93229
 [/us/stat/57/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F422
 [/us/usc/t7/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs204
-[/us/pl/103/394/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs313
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

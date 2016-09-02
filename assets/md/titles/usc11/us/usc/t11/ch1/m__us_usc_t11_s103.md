@@ -45,7 +45,7 @@
 
         (2) section 1509 applies whether or not a case under this title is pending.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2555][/us/stat/92/2555]; [Pub. L. 97–222, § 2][/us/pl/97/222/s2], July 27, 1982, [96 Stat. 235][/us/stat/96/235]; [Pub. L. 98–353, title III, § 423][/us/pl/98/353/s423], July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II, § 252][/us/pl/99/554/s252], Oct. 27, 1986, [100 Stat. 3104][/us/stat/100/3104]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394; [Pub. L. 109–8, title VIII, § 802(a)][/us/pl/109/8/s802/a], Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145]; [Pub. L. 111–327, § 2(a)(2)][/us/pl/111/327/s2/a/2], Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2555][/us/stat/92/2555]; [Pub. L. 97–222][/us/pl/97/222], § 2, July 27, 1982, [96 Stat. 235][/us/stat/96/235]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 423, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 252, Oct. 27, 1986, [100 Stat. 3104][/us/stat/100/3104]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394; [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(a), Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(2), Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
 
  __Historical and Revision Notes__ 
 
@@ -63,15 +63,15 @@
 
     2010—Subsec. (a). [Pub. L. 111–327][/us/pl/111/327] substituted “362(o)” for “362(n)”.
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 802(a)(1)][/us/pl/109/8/s802/a/1], inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
 
-    Subsec. (k). [Pub. L. 109–8, § 802(a)(2)][/us/pl/109/8/s802/a/2], added subsec. (k).
+    Subsec. (k). [Pub. L. 109–8][/us/pl/109/8], § 802(a)(2), added subsec. (k).
 
     2000—Subsecs. (e) to (j). [Pub. L. 106–554][/us/pl/106/554] added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 252(1)][/us/pl/99/554/s252/1], inserted reference to chapter 12.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 252(1), inserted reference to chapter 12.
 
-    Subsec. (i). [Pub. L. 99–554, § 252(2)][/us/pl/99/554/s252/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 99–554][/us/pl/99/554], § 252(2), added subsec. (i).
 
     1984—Subsec. (c). [Pub. L. 98–353][/us/pl/98/353] substituted “stockbroker” for “stockholder”.
 
@@ -101,26 +101,26 @@
 [/us/usc/t11/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs901
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2555
-[/us/pl/97/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs2
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F235
-[/us/pl/98/353/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs423
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs252
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3104
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/8/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F145
-[/us/pl/111/327/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F2
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3557
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4422
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fa%2F1
-[/us/pl/109/8/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fa%2F2
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/99/554/s252/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs252%2F1
-[/us/pl/99/554/s252/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs252%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

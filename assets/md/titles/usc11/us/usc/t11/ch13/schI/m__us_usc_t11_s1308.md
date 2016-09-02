@@ -43,7 +43,7 @@
 
     (c) For purposes of this section, the term “return” includes a return prepared pursuant to subsection (a) or (b) of section 6020 of the Internal Revenue Code of 1986, or a similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal.
 
-(Added [Pub. L. 109–8, title VII, § 716(b)(1)][/us/pl/109/8/s716/b/1], Apr. 20, 2005, [119 Stat. 129][/us/stat/119/129]; amended [Pub. L. 111–327, § 2(a)(42)][/us/pl/111/327/s2/a/42], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+(Added [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 716(b)(1), Apr. 20, 2005, [119 Stat. 129][/us/stat/119/129]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(42), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2). [Pub. L. 111–327, § 2(a)(42)(C)][/us/pl/111/327/s2/a/42/C], substituted “paragraph (1)” for “this subsection” wherever appearing in introductory provisions.
+    2010—Subsec. (b)(2). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(42)(C), substituted “paragraph (1)” for “this subsection” wherever appearing in introductory provisions.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–327, § 2(a)(42)(A)][/us/pl/111/327/s2/a/42/A], substituted “paragraph (1)(A)” for “paragraph (1)”.
+    Subsec. (b)(2)(A). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(42)(A), substituted “paragraph (1)(A)” for “paragraph (1)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–327, § 2(a)(42)(B)][/us/pl/111/327/s2/a/42/B], substituted “paragraph (1)(B)” for “paragraph (2)”.
+    Subsec. (b)(2)(B). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(42)(B), substituted “paragraph (1)(B)” for “paragraph (2)”.
 
  __Effective Date__ 
 
@@ -68,14 +68,14 @@
 ----------
 ----------
 
-[/us/pl/109/8/s716/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs716%2Fb%2F1
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F129
-[/us/pl/111/327/s2/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F42
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
 [/us/usc/t26/s6020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6020
-[/us/pl/111/327/s2/a/42/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F42%2FC
-[/us/pl/111/327/s2/a/42/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F42%2FA
-[/us/pl/111/327/s2/a/42/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F42%2FB
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 

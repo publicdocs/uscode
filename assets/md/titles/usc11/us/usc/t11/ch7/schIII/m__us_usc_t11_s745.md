@@ -21,7 +21,7 @@
 
     (c) Each trustee’s account specified as such on the debtor’s books, and supported by a trust deed filed with, and qualified as such by, the Internal Revenue Service, and under the Internal Revenue Code of 1986, shall be treated as a separate customer account for each beneficiary under such trustee account.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222, § 11][/us/pl/97/222/s11], July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 98–353, title III, § 483][/us/pl/98/353/s483], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 103–394, title V, § 501(d)(28)][/us/pl/103/394/s501/d/28], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222][/us/pl/97/222], § 11, July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 483, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(28), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
 
  __Historical and Revision Notes__ 
 
@@ -62,11 +62,11 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2613
-[/us/pl/97/222/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs11
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F238
-[/us/pl/98/353/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs483
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/103/394/s501/d/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F28
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

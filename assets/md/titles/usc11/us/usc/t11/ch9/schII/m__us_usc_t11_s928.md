@@ -19,7 +19,7 @@
 
     (b) Any such lien on special revenues, other than municipal betterment assessments, derived from a project or system shall be subject to the necessary operating expenses of such project or system, as the case may be.
 
-(Added [Pub. L. 100–597, § 8][/us/pl/100/597/s8], Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
+(Added [Pub. L. 100–597][/us/pl/100/597], § 8, Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
 
  __Effective Date__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t11/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs552%2Fa
-[/us/pl/100/597/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs8
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3029
 [/us/pl/100/597/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs12
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

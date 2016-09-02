@@ -53,7 +53,7 @@
 
     (e) The United States trustee shall move for the appointment of a trustee under subsection (a) if there are reasonable grounds to suspect that current members of the governing body of the debtor, the debtor’s chief executive or chief financial officer, or members of the governing body who selected the debtor’s chief executive or chief financial officer, participated in actual fraud, dishonesty, or criminal conduct in the management of the debtor or the debtor’s public financial reporting.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2627][/us/stat/92/2627]; [Pub. L. 99–554, title II, § 222][/us/pl/99/554/s222], Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102]; [Pub. L. 103–394, title II, § 211(a)][/us/pl/103/394/s211/a], title V, § 501(d)(30), Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125], 4146; [Pub. L. 109–8, title IV][/us/pl/109/8], §§ 416, 442(b), title XIV, § 1405, Apr. 20, 2005, [119 Stat. 107][/us/stat/119/107], 116, 215; [Pub. L. 111–327, § 2(a)(30)][/us/pl/111/327/s2/a/30], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2627][/us/stat/92/2627]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 222, Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 211(a), title V, § 501(d)(30), Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125], 4146; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], §§ 416, 442(b), title XIV, § 1405, Apr. 20, 2005, [119 Stat. 107][/us/stat/119/107], 116, 215; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(30), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -87,25 +87,25 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–327, § 2(a)(30)(A)][/us/pl/111/327/s2/a/30/A], inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
+    2010—Subsec. (a). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(30)(A), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.”
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 111–327, § 2(a)(30)(B)][/us/pl/111/327/s2/a/30/B], substituted “subsection (a)” for “subsection (d)”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(30)(B), substituted “subsection (a)” for “subsection (d)”.
 
-    2005—Subsec. (a)(3). [Pub. L. 109–8, § 442(b)][/us/pl/109/8/s442/b], added par. (3).
+    2005—Subsec. (a)(3). [Pub. L. 109–8][/us/pl/109/8], § 442(b), added par. (3).
 
-    Subsec. (b). [Pub. L. 109–8, § 416][/us/pl/109/8/s416], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 416, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 109–8, § 1405][/us/pl/109/8/s1405], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 1405, added subsec. (e).
 
-    1994—Subsec. (b). [Pub. L. 103–394, § 211(a)(2)][/us/pl/103/394/s211/a/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    1994—Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], § 211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 103–394, § 211(a)(1)][/us/pl/103/394/s211/a/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 103–394][/us/pl/103/394], § 211(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], §§ 211(a)(1), 501(d)(30), redesignated subsec. (c) as (d) and inserted comma after “interest”.
 
-    1986—Subsecs. (a), (b). [Pub. L. 99–554, § 222(1)][/us/pl/99/554/s222/1], (2), inserted “or the United States trustee” after “party in interest”.
+    1986—Subsecs. (a), (b). [Pub. L. 99–554][/us/pl/99/554], § 222(1), (2), inserted “or the United States trustee” after “party in interest”.
 
-    Subsec. (c). [Pub. L. 99–554, § 222(3)][/us/pl/99/554/s222/3], substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court’s approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 222(3), substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court’s approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -134,27 +134,27 @@
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2627
-[/us/pl/99/554/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs222
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3102
-[/us/pl/103/394/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs211%2Fa
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4125
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F107
-[/us/pl/111/327/s2/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F30
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/usc/t11/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs516
 [/us/usc/t11/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1109
 [/us/usc/t28/s586/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Fa%2F1
-[/us/pl/111/327/s2/a/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F30%2FA
-[/us/pl/111/327/s2/a/30/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F30%2FB
-[/us/pl/109/8/s442/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs442%2Fb
-[/us/pl/109/8/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs416
-[/us/pl/109/8/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1405
-[/us/pl/103/394/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs211%2Fa%2F2
-[/us/pl/103/394/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs211%2Fa%2F1
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs222%2F1
-[/us/pl/99/554/s222/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs222%2F3
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/109/8/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1405
 [/us/pl/109/8/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1406
 [/us/usc/t11/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507

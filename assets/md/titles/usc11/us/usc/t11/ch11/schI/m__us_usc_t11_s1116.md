@@ -41,7 +41,7 @@
 
     (7) allow the United States trustee, or a designated representative of the United States trustee, to inspect the debtor’s business premises, books, and records at reasonable times, after reasonable prior written notice, unless notice is waived by the debtor.
 
-(Added [Pub. L. 109–8, title IV, § 436(a)][/us/pl/109/8/s436/a], Apr. 20, 2005, [119 Stat. 112][/us/stat/119/112].)
+(Added [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 436(a), Apr. 20, 2005, [119 Stat. 112][/us/stat/119/112].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s436/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs436%2Fa
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F112
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

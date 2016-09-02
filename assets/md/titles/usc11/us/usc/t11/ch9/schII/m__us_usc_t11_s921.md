@@ -25,7 +25,7 @@
 
     (e) The court may not, on account of an appeal from an order for relief, delay any proceeding under this chapter in the case in which the appeal is being taken; nor shall any court order a stay of such proceeding pending such appeal. The reversal on appeal of a finding of jurisdiction does not affect the validity of any debt incurred that is authorized by the court under section 364(c) or 364(d) of this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2622][/us/stat/92/2622]; [Pub. L. 98–353, title III, § 494][/us/pl/98/353/s494], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title V, § 501(a)][/us/pl/109/8/s501/a], Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2622][/us/stat/92/2622]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 494, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title V][/us/pl/109/8/tV], § 501(a), Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118].)
 
  __Historical and Revision Notes__ 
 
@@ -53,13 +53,13 @@
 
     2005—Subsec. (d). [Pub. L. 109–8][/us/pl/109/8] inserted “notwithstanding section 301(b)” before period at end.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 494(c)][/us/pl/98/353/s494/c], substituted “109(d)” for “109(c)”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 494(c), substituted “109(d)” for “109(c)”.
 
-    Subsec. (c). [Pub. L. 98–353, § 494(a)][/us/pl/98/353/s494/a], substituted “any” for “an”, and “petition if the debtor did not file the petition in good faith” for “petition, if the debtor did not file the petition in good faith,”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 494(a), substituted “any” for “an”, and “petition if the debtor did not file the petition in good faith” for “petition, if the debtor did not file the petition in good faith,”.
 
-    Subsec. (d). [Pub. L. 98–353, § 494(b)][/us/pl/98/353/s494/b], (d), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. No former subsec. (d) had been enacted.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 494(b), (d), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. No former subsec. (d) had been enacted.
 
-    Subsecs. (e), (f). [Pub. L. 98–353, § 494(b)][/us/pl/98/353/s494/b], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsecs. (e), (f). [Pub. L. 98–353][/us/pl/98/353], § 494(b), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -79,15 +79,15 @@
 [/us/usc/t11/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs301
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2622
-[/us/pl/98/353/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs494
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/109/8/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs501%2Fa
+[/us/pl/109/8/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtV
 [/us/stat/119/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F118
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/98/353/s494/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs494%2Fc
-[/us/pl/98/353/s494/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs494%2Fa
-[/us/pl/98/353/s494/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs494%2Fb
-[/us/pl/98/353/s494/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs494%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

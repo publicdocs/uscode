@@ -39,7 +39,7 @@
 
     (b) The court shall dismiss a case under this chapter if confirmation of a plan under this chapter is refused.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623], § 927; [Pub. L. 98–353, title III, § 496][/us/pl/98/353/s496], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; renumbered § 930, [Pub. L. 100–597, § 7(1)][/us/pl/100/597/s7/1], Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623], § 927; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 496, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; renumbered § 930, [Pub. L. 100–597][/us/pl/100/597], § 7(1), Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
 
  __Historical and Revision Notes__ 
 
@@ -78,9 +78,9 @@
 [/us/usc/t11/s943/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs943%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2623
-[/us/pl/98/353/s496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs496
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/100/597/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs7%2F1
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3029
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

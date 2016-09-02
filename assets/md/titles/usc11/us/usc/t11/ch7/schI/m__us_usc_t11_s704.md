@@ -113,7 +113,7 @@
 
             (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 311(a), 474, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 381; [Pub. L. 99–554, title II, § 217][/us/pl/99/554/s217], Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100]; [Pub. L. 109–8, title I, § 102(c)][/us/pl/109/8/s102/c], title II, § 219(a), title IV, § 446(b), title XI, § 1105(a), Apr. 20, 2005, [119 Stat. 32][/us/stat/119/32], 55, 118, 192; [Pub. L. 111–16, § 2(7)][/us/pl/111/16/s2/7], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327, § 2(a)(24)][/us/pl/111/327/s2/a/24], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 311(a), 474, July 10, 1984, [98 Stat. 355][/us/stat/98/355], 381; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 217, Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100]; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 102(c), title II, § 219(a), title IV, § 446(b), title XI, § 1105(a), Apr. 20, 2005, [119 Stat. 32][/us/stat/119/32], 55, 118, 192; [Pub. L. 111–16][/us/pl/111/16], § 2(7), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(24), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -141,25 +141,25 @@
 
     2009—Subsec. (b)(1)(B). [Pub. L. 111–16][/us/pl/111/16] substituted “7 days” for “5 days”.
 
-    2005—[Pub. L. 109–8, § 102(c)(1)][/us/pl/109/8/s102/c/1], designated existing provisions as subsec. (a).
+    2005—[Pub. L. 109–8][/us/pl/109/8], § 102(c)(1), designated existing provisions as subsec. (a).
 
-    Subsec. (a)(10). [Pub. L. 109–8, § 219(a)(1)][/us/pl/109/8/s219/a/1], added par. (10).
+    Subsec. (a)(10). [Pub. L. 109–8][/us/pl/109/8], § 219(a)(1), added par. (10).
 
-    Subsec. (a)(11). [Pub. L. 109–8, § 446(b)][/us/pl/109/8/s446/b], added par. (11).
+    Subsec. (a)(11). [Pub. L. 109–8][/us/pl/109/8], § 446(b), added par. (11).
 
-    Subsec. (a)(12). [Pub. L. 109–8, § 1105(a)][/us/pl/109/8/s1105/a], added par. (12).
+    Subsec. (a)(12). [Pub. L. 109–8][/us/pl/109/8], § 1105(a), added par. (12).
 
-    Subsec. (b). [Pub. L. 109–8, § 102(c)(2)][/us/pl/109/8/s102/c/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 102(c)(2), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 109–8, § 219(a)(2)][/us/pl/109/8/s219/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 219(a)(2), added subsec. (c).
 
-    1986—Par. (8). [Pub. L. 99–554, § 217(1)][/us/pl/99/554/s217/1], inserted “, with the United States trustee,” after “with the court” and “the United States trustee or” after “information as”.
+    1986—Par. (8). [Pub. L. 99–554][/us/pl/99/554], § 217(1), inserted “, with the United States trustee,” after “with the court” and “the United States trustee or” after “information as”.
 
-    Par. (9). [Pub. L. 99–554, § 217(2)][/us/pl/99/554/s217/2], inserted “with the United States trustee” after “court”.
+    Par. (9). [Pub. L. 99–554][/us/pl/99/554], § 217(2), inserted “with the United States trustee” after “court”.
 
-    1984—Par. (1). [Pub. L. 98–353, § 474][/us/pl/98/353/s474], substituted “close such estate” for “close up such estate”.
+    1984—Par. (1). [Pub. L. 98–353][/us/pl/98/353], § 474, substituted “close such estate” for “close up such estate”.
 
-    Pars. (3) to (9). [Pub. L. 98–353, § 311(a)][/us/pl/98/353/s311/a], added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+    Pars. (3) to (9). [Pub. L. 98–353][/us/pl/98/353], § 311(a), added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -187,30 +187,30 @@
 [/us/usc/t11/s521/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521%2Fa%2F2%2FB
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2605
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F355
-[/us/pl/99/554/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs217
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3100
-[/us/pl/109/8/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fc
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F32
-[/us/pl/111/16/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F7
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
-[/us/pl/111/327/s2/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F24
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/usc/t11/s549/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs549%2Fc
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
-[/us/pl/109/8/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fc%2F1
-[/us/pl/109/8/s219/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fa%2F1
-[/us/pl/109/8/s446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs446%2Fb
-[/us/pl/109/8/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1105%2Fa
-[/us/pl/109/8/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs102%2Fc%2F2
-[/us/pl/109/8/s219/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fa%2F2
-[/us/pl/99/554/s217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs217%2F1
-[/us/pl/99/554/s217/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs217%2F2
-[/us/pl/98/353/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs474
-[/us/pl/98/353/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs311%2Fa
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

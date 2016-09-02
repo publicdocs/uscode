@@ -85,7 +85,7 @@
 
             (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
-(Added and amended [Pub. L. 99–554, title II][/us/pl/99/554], §§ 227, 255, title III, § 302(f), Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103], 3106, 3124; [Pub. L. 103–65, § 1][/us/pl/103/65/s1], Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 105–277, div. C, title I, § 149(a)][/us/pl/105/277/s149/a], Oct. 21, 1998, [112 Stat. 2681–610][/us/stat/112/2681-610]; [Pub. L. 106–5, § 1(1)][/us/pl/106/5/s1/1], (2), Mar. 30, 1999, [113 Stat. 9][/us/stat/113/9]; [Pub. L. 106–70, § 1][/us/pl/106/70/s1], Oct. 9, 1999, [113 Stat. 1031][/us/stat/113/1031]; [Pub. L. 107–8, § 1][/us/pl/107/8/s1], May 11, 2001, [115 Stat. 10][/us/stat/115/10]; [Pub. L. 107–17, § 1][/us/pl/107/17/s1], June 26, 2001, [115 Stat. 151][/us/stat/115/151]; [Pub. L. 107–170, § 1][/us/pl/107/170/s1], May 7, 2002, [116 Stat. 133][/us/stat/116/133]; [Pub. L. 107–171, title X, § 10814(a)][/us/pl/107/171/s10814/a], May 13, 2002, [116 Stat. 532][/us/stat/116/532]; [Pub. L. 107–377, § 2(a)][/us/pl/107/377/s2/a], Dec. 19, 2002, [116 Stat. 3115][/us/stat/116/3115]; [Pub. L. 108–73, § 2(a)][/us/pl/108/73/s2/a], Aug. 15, 2003, [117 Stat. 891][/us/stat/117/891]; [Pub. L. 108–369, § 2(a)][/us/pl/108/369/s2/a], Oct. 25, 2004, [118 Stat. 1749][/us/stat/118/1749]; [Pub. L. 109–8, title II, § 219(c)][/us/pl/109/8/s219/c], title X, § 1001(a)(1), (c), Apr. 20, 2005, [119 Stat. 57][/us/stat/119/57], 185, 186; [Pub. L. 111–327, § 2(a)(38)][/us/pl/111/327/s2/a/38], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+(Added and amended [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 227, 255, title III, § 302(f), Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103], 3106, 3124; [Pub. L. 103–65][/us/pl/103/65], § 1, Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 149(a), Oct. 21, 1998, [112 Stat. 2681–610][/us/stat/112/2681-610]; [Pub. L. 106–5][/us/pl/106/5], § 1(1), (2), Mar. 30, 1999, [113 Stat. 9][/us/stat/113/9]; [Pub. L. 106–70][/us/pl/106/70], § 1, Oct. 9, 1999, [113 Stat. 1031][/us/stat/113/1031]; [Pub. L. 107–8][/us/pl/107/8], § 1, May 11, 2001, [115 Stat. 10][/us/stat/115/10]; [Pub. L. 107–17][/us/pl/107/17], § 1, June 26, 2001, [115 Stat. 151][/us/stat/115/151]; [Pub. L. 107–170][/us/pl/107/170], § 1, May 7, 2002, [116 Stat. 133][/us/stat/116/133]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10814(a), May 13, 2002, [116 Stat. 532][/us/stat/116/532]; [Pub. L. 107–377][/us/pl/107/377], § 2(a), Dec. 19, 2002, [116 Stat. 3115][/us/stat/116/3115]; [Pub. L. 108–73][/us/pl/108/73], § 2(a), Aug. 15, 2003, [117 Stat. 891][/us/stat/117/891]; [Pub. L. 108–369][/us/pl/108/369], § 2(a), Oct. 25, 2004, [118 Stat. 1749][/us/stat/118/1749]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 219(c), title X, § 1001(a)(1), (c), Apr. 20, 2005, [119 Stat. 57][/us/stat/119/57], 185, 186; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(38), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __References in Text__ 
 
@@ -97,15 +97,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–327, § 2(a)(38)(A)][/us/pl/111/327/s2/a/38/A], substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
+    2010—Subsec. (b)(1). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
 
-    Subsec. (b)(5). [Pub. L. 111–327, § 2(a)(38)(B)][/us/pl/111/327/s2/a/38/B], substituted “704(a)(8)” for “704(8)”.
+    Subsec. (b)(5). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(38)(B), substituted “704(a)(8)” for “704(8)”.
 
-    2005—Subsec. (b)(6). [Pub. L. 109–8, § 219(c)(1)][/us/pl/109/8/s219/c/1], added par. (6).
+    2005—Subsec. (b)(6). [Pub. L. 109–8][/us/pl/109/8], § 219(c)(1), added par. (6).
 
-    Subsec. (c). [Pub. L. 109–8, § 219(c)(2)][/us/pl/109/8/s219/c/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 219(c)(2), added subsec. (c).
 
-    1986—Subsecs. (c), (d). [Pub. L. 99–554, § 227][/us/pl/99/554/s227], struck out subsecs. (c) and (d) which read as follows:
+    1986—Subsecs. (c), (d). [Pub. L. 99–554][/us/pl/99/554], § 227, struck out subsecs. (c) and (d) which read as follows:
 
     “(c) If the number of cases under this chapter commenced in a particular judicial district so warrants, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.
 
@@ -162,40 +162,40 @@
 
 [/us/usc/t28/s586/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Fb
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3103
-[/us/pl/103/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65%2Fs1
+[/us/pl/103/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65
 [/us/stat/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F311
-[/us/pl/105/277/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs149%2Fa
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-610
-[/us/pl/106/5/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F5%2Fs1%2F1
+[/us/pl/106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F5
 [/us/stat/113/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F9
-[/us/pl/106/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F70%2Fs1
+[/us/pl/106/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F70
 [/us/stat/113/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1031
-[/us/pl/107/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F8%2Fs1
+[/us/pl/107/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F8
 [/us/stat/115/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F10
-[/us/pl/107/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F17%2Fs1
+[/us/pl/107/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F17
 [/us/stat/115/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F151
-[/us/pl/107/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F170%2Fs1
+[/us/pl/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F170
 [/us/stat/116/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F133
-[/us/pl/107/171/s10814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10814%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F532
-[/us/pl/107/377/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F377%2Fs2%2Fa
+[/us/pl/107/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F377
 [/us/stat/116/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3115
-[/us/pl/108/73/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F73%2Fs2%2Fa
+[/us/pl/108/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F73
 [/us/stat/117/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F891
-[/us/pl/108/369/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F369%2Fs2%2Fa
+[/us/pl/108/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F369
 [/us/stat/118/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1749
-[/us/pl/109/8/s219/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fc
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F57
-[/us/pl/111/327/s2/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F38
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/usc/t11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1201
-[/us/pl/111/327/s2/a/38/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F38%2FA
-[/us/pl/111/327/s2/a/38/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F38%2FB
-[/us/pl/109/8/s219/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fc%2F1
-[/us/pl/109/8/s219/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fc%2F2
-[/us/pl/99/554/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs227
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/109/8/s219/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs219%2Fc
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

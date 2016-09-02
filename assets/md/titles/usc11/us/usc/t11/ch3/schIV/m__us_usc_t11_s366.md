@@ -59,7 +59,7 @@
 
         (4) Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2578][/us/stat/92/2578]; [Pub. L. 98–353, title III, § 443][/us/pl/98/353/s443], July 10, 1984, [98 Stat. 373][/us/stat/98/373]; [Pub. L. 109–8, title IV, § 417][/us/pl/109/8/s417], Apr. 20, 2005, [119 Stat. 108][/us/stat/119/108].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2578][/us/stat/92/2578]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 443, July 10, 1984, [98 Stat. 373][/us/stat/98/373]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 417, Apr. 20, 2005, [119 Stat. 108][/us/stat/119/108].)
 
  __Historical and Revision Notes__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 417(1)][/us/pl/109/8/s417/1], substituted “subsections (b) and (c)” for “subsection (b)”.
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 417(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-    Subsec. (c). [Pub. L. 109–8, § 417(2)][/us/pl/109/8/s417/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 417(2), added subsec. (c).
 
     1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353] inserted “of the commencement of a case under this title or” after “basis”.
 
@@ -96,12 +96,12 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2578
-[/us/pl/98/353/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs443
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F373
-[/us/pl/109/8/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs417
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F108
-[/us/pl/109/8/s417/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs417%2F1
-[/us/pl/109/8/s417/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs417%2F2
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

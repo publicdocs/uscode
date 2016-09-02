@@ -17,7 +17,7 @@
 
     The exercise of a contractual right of a repo participant or financial participant to cause the liquidation, termination, or acceleration of a repurchase agreement because of a condition of the kind specified in [section 365(e)(1) of this title][/us/usc/t11/s365/e/1] shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title, unless, where the debtor is a stockbroker or securities clearing agency, such order is authorized under the provisions of the Securities Investor Protection Act of 1970 or any statute administered by the Securities and Exchange Commission. In the event that a repo participant or financial participant liquidates one or more repurchase agreements with a debtor and under the terms of one or more such agreements has agreed to deliver assets subject to repurchase agreements to the debtor, any excess of the market prices received on liquidation of such assets (or if any such assets are not disposed of on the date of liquidation of such repurchase agreements, at the prices available at the time of liquidation of such repurchase agreements from a generally recognized source or the most recent closing bid quotation from such a source) over the sum of the stated repurchase prices and all expenses in connection with the liquidation of such repurchase agreements shall be deemed property of the estate, subject to the available rights of setoff. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice.
 
-(Added [Pub. L. 98–353, title III, § 396(a)][/us/pl/98/353/s396/a], July 10, 1984, [98 Stat. 366][/us/stat/98/366]; amended [Pub. L. 103–394, title V, § 501(d)(21)][/us/pl/103/394/s501/d/21], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title IX, § 907(i)][/us/pl/109/8/s907/i], (o)(9), Apr. 20, 2005, [119 Stat. 178][/us/stat/119/178], 182.)
+(Added [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 396(a), July 10, 1984, [98 Stat. 366][/us/stat/98/366]; amended [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(21), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(i), (o)(9), Apr. 20, 2005, [119 Stat. 178][/us/stat/119/178], 182.)
 
  __References in Text__ 
 
@@ -29,9 +29,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, § 907][/us/pl/109/8/s907](o)(9), inserted “or financial participant” after “repo participant” in two places.
+    2005—[Pub. L. 109–8][/us/pl/109/8], § 907(o)(9), inserted “or financial participant” after “repo participant” in two places.
 
-    [Pub. L. 109–8, § 907(i)][/us/pl/109/8/s907/i], substituted “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw, applicable to each party to the repurchase agreement, of a national securities exchange, a national securities association, or a securities clearing agency, and a right,” in third sentence.
+    [Pub. L. 109–8][/us/pl/109/8], § 907(i), substituted “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw, applicable to each party to the repurchase agreement, of a national securities exchange, a national securities association, or a securities clearing agency, and a right,” in third sentence.
 
     1994—[Pub. L. 103–394][/us/pl/103/394] struck out “([15 U.S.C. 78aaa][/us/usc/t15/s78aaa] et seq.)” after “Act of 1970”.
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t11/s365/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365%2Fe%2F1
-[/us/pl/98/353/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs396%2Fa
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F366
-[/us/pl/103/394/s501/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F21
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
-[/us/pl/109/8/s907/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fi
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F178
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
@@ -70,8 +70,8 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2236
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/109/8/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907
-[/us/pl/109/8/s907/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fi
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s78aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78aaa
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

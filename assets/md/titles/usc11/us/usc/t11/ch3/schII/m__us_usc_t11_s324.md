@@ -19,7 +19,7 @@
 
     (b) Whenever the court removes a trustee or examiner under subsection (a) in a case under this title, such trustee or examiner shall thereby be removed in all other cases under this title in which such trustee or examiner is then serving unless the court orders otherwise.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 99–554, title II, § 208][/us/pl/99/554/s208], Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 208, Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2562
-[/us/pl/99/554/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs208
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

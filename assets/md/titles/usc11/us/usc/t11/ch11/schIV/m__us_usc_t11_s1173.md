@@ -29,7 +29,7 @@
 
     (b) If the requirements of subsection (a) of this section are met with respect to more than one plan, the court shall confirm the plan that is most likely to maintain adequate rail service in the public interest.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2644][/us/stat/92/2644]; [Pub. L. 98–353, title III, § 523][/us/pl/98/353/s523], July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2644][/us/stat/92/2644]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 523, July 10, 1984, [98 Stat. 388][/us/stat/98/388].)
 
  __Historical and Revision Notes__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t11/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2644
-[/us/pl/98/353/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs523
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

@@ -171,7 +171,7 @@
 
     (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2590][/us/stat/92/2590]; [Pub. L. 96–56, § 3][/us/pl/96/56/s3], Aug. 14, 1979, [93 Stat. 387][/us/stat/93/387]; [Pub. L. 97–35, title XXIII, § 2334(b)][/us/pl/97/35/s2334/b], Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 307, 371, 454, July 10, 1984, [98 Stat. 353][/us/stat/98/353], 364, 375; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 257(n), 281, 283(j), Oct. 27, 1986, [100 Stat. 3115–3117][/us/stat/100/3115-3117]; [Pub. L. 101–581, § 2(a)][/us/pl/101/581/s2/a], Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865]; [Pub. L. 101–647, title XXV, § 2522(a)][/us/pl/101/647/s2522/a], title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29, 1990, [104 Stat. 4865][/us/stat/104/4865], 4916, 4964; [Pub. L. 103–322, title XXXII, § 320934][/us/pl/103/322/s320934], Sept. 13, 1994, [108 Stat. 2135][/us/stat/108/2135]; [Pub. L. 103–394, title II, § 221][/us/pl/103/394/s221], title III, §§ 304(e), (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994, [108 Stat. 4129][/us/stat/108/4129], 4133–4135, 4137, 4145; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 804(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–74; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title III, § 374(a)][/us/pl/104/193/s374/a], Aug. 22, 1996, [110 Stat. 2255][/us/stat/110/2255]; [Pub. L. 105–244, title IX, § 971(a)][/us/pl/105/244/s971/a], Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837]; [Pub. L. 107–204, title VIII, § 803][/us/pl/107/204/s803], July 30, 2002, [116 Stat. 801][/us/stat/116/801]; [Pub. L. 109–8, title II][/us/pl/109/8], §§ 215, 220, 224(c), title III, §§ 301, 310, 314(a), title IV, § 412, title VII, § 714, title XII, §§ 1209, 1235, title XIV, § 1404(a), title XV, § 1502(a)(2), Apr. 20, 2005, [119 Stat. 54][/us/stat/119/54], 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; [Pub. L. 111–327, § 2(a)(18)][/us/pl/111/327/s2/a/18], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2590][/us/stat/92/2590]; [Pub. L. 96–56][/us/pl/96/56], § 3, Aug. 14, 1979, [93 Stat. 387][/us/stat/93/387]; [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2334(b), Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 307, 371, 454, July 10, 1984, [98 Stat. 353][/us/stat/98/353], 364, 375; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 257(n), 281, 283(j), Oct. 27, 1986, [100 Stat. 3115–3117][/us/stat/100/3115-3117]; [Pub. L. 101–581][/us/pl/101/581], § 2(a), Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2522(a), title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29, 1990, [104 Stat. 4865][/us/stat/104/4865], 4916, 4964; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320934, Sept. 13, 1994, [108 Stat. 2135][/us/stat/108/2135]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 221, title III, §§ 304(e), (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994, [108 Stat. 4129][/us/stat/108/4129], 4133–4135, 4137, 4145; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 804(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–74; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 374(a), Aug. 22, 1996, [110 Stat. 2255][/us/stat/110/2255]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 971(a), Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837]; [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 803, July 30, 2002, [116 Stat. 801][/us/stat/116/801]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], §§ 215, 220, 224(c), title III, §§ 301, 310, 314(a), title IV, § 412, title VII, § 714, title XII, §§ 1209, 1235, title XIV, § 1404(a), title XV, § 1502(a)(2), Apr. 20, 2005, [119 Stat. 54][/us/stat/119/54], 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(18), Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -281,149 +281,149 @@
 
     Section 3(a)(47) of the Securities Exchange Act of 1934, referred to in subsec. (a)(19)(A)(i), is classified to [section 78c(a)(47) of Title 15][/us/usc/t15/s78c/a/47], Commerce and Trade.
 
-    Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to [section 1087–3 of Title 20][/us/usc/t20/s1087–3], Education, and was repealed by [Pub. L. 95–598, title III, § 317][/us/pl/95/598/s317], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].
+    Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to [section 1087–3 of Title 20][/us/usc/t20/s1087–3], Education, and was repealed by [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 317, Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].
 
-    Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by [Pub. L. 95–598, title III, § 327][/us/pl/95/598/s327], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]. A subsec. (g), containing similar provisions, was added to section 733 by [Pub. L. 97–35, title XXVII, § 2730][/us/pl/97/35/s2730], Aug. 13, 1981, [95 Stat. 919][/us/stat/95/919]. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. See [section 292f(g) of Title 42][/us/usc/t42/s292f/g].
+    Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 327, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]. A subsec. (g), containing similar provisions, was added to section 733 by [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2730, Aug. 13, 1981, [95 Stat. 919][/us/stat/95/919]. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. See [section 292f(g) of Title 42][/us/usc/t42/s292f/g].
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(C)(ii)(II). [Pub. L. 111–327, § 2(a)(18)(A)][/us/pl/111/327/s2/a/18/A], substituted semicolon for period at end.
+    2010—Subsec. (a)(2)(C)(ii)(II). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(18)(A), substituted semicolon for period at end.
 
-    Subsec. (a)(3). [Pub. L. 111–327, § 2(a)(18)(B)][/us/pl/111/327/s2/a/18/B], substituted “521(a)(1)” for “521(1)” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
 
-    2005—[Pub. L. 109–8, § 1209(1)][/us/pl/109/8/s1209/1], transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
+    2005—[Pub. L. 109–8][/us/pl/109/8], § 1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
 
-    [Pub. L. 109–8, § 215(3)][/us/pl/109/8/s215/3], in par. (15), inserted “to a spouse, former spouse, or child of the debtor and” before “not of the kind” and “or” after “court of record,” and substituted a semicolon for “unless—
+    [Pub. L. 109–8][/us/pl/109/8], § 215(3), in par. (15), inserted “to a spouse, former spouse, or child of the debtor and” before “not of the kind” and “or” after “court of record,” and substituted a semicolon for “unless—
 
     “(A) the debtor does not have the ability to pay such debt from income or property of the debtor not reasonably necessary to be expended for the maintenance or support of the debtor or a dependent of the debtor and, if the debtor is engaged in a business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business; or
 
     “(B) discharging such debt would result in a benefit to the debtor that outweighs the detrimental consequences to a spouse, former spouse, or child of the debtor;”.
 
-    Subsec. (a). [Pub. L. 109–8, § 714(2)][/us/pl/109/8/s714/2], inserted at end “For purposes of this subsection, the term ‘return’ means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.”
+    Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 714(2), inserted at end “For purposes of this subsection, the term ‘return’ means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.”
 
-    Subsec. (a)(1)(A). [Pub. L. 109–8, § 1502(a)(2)][/us/pl/109/8/s1502/a/2], substituted “507(a)(3)” for “507(a)(2)”.
+    Subsec. (a)(1)(A). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(2), substituted “507(a)(3)” for “507(a)(2)”.
 
-    Subsec. (a)(1)(B). [Pub. L. 109–8, § 714(1)(A)][/us/pl/109/8/s714/1/A], inserted “or equivalent report or notice,” after “a return,” in introductory provisions.
+    Subsec. (a)(1)(B). [Pub. L. 109–8][/us/pl/109/8], § 714(1)(A), inserted “or equivalent report or notice,” after “a return,” in introductory provisions.
 
-    Subsec. (a)(1)(B)(i). [Pub. L. 109–8, § 714(1)(B)][/us/pl/109/8/s714/1/B], inserted “or given” after “filed”.
+    Subsec. (a)(1)(B)(i). [Pub. L. 109–8][/us/pl/109/8], § 714(1)(B), inserted “or given” after “filed”.
 
-    Subsec. (a)(1)(B)(ii). [Pub. L. 109–8, § 714(1)(C)][/us/pl/109/8/s714/1/C], inserted “or given” after “filed” and “, report, or notice” after “return”.
+    Subsec. (a)(1)(B)(ii). [Pub. L. 109–8][/us/pl/109/8], § 714(1)(C), inserted “or given” after “filed” and “, report, or notice” after “return”.
 
-    Subsec. (a)(2)(C). [Pub. L. 109–8, § 310][/us/pl/109/8/s310], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for ‘luxury goods or services’ incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; ‘luxury goods or services’ do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;”.
+    Subsec. (a)(2)(C). [Pub. L. 109–8][/us/pl/109/8], § 310, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for ‘luxury goods or services’ incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; ‘luxury goods or services’ do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;”.
 
-    Subsec. (a)(5). [Pub. L. 109–8, § 215(1)(A)][/us/pl/109/8/s215/1/A], added par. (5) and struck out former par. (5) which read as follows: “to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
+    Subsec. (a)(5). [Pub. L. 109–8][/us/pl/109/8], § 215(1)(A), added par. (5) and struck out former par. (5) which read as follows: “to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
 
     “(A) such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 408(a)(3) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State); or
 
     “(B) such debt includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance, or support;”
 
-    Subsec. (a)(8). [Pub. L. 109–8, § 220][/us/pl/109/8/s220], added par. (8) and struck out former par. (8) which read as follows: “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents;”.
+    Subsec. (a)(8). [Pub. L. 109–8][/us/pl/109/8], § 220, added par. (8) and struck out former par. (8) which read as follows: “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents;”.
 
-    Subsec. (a)(9). [Pub. L. 109–8, § 1209(2)][/us/pl/109/8/s1209/2], substituted “motor vehicle, vessel, or aircraft” for “motor vehicle”.
+    Subsec. (a)(9). [Pub. L. 109–8][/us/pl/109/8], § 1209(2), substituted “motor vehicle, vessel, or aircraft” for “motor vehicle”.
 
-    Subsec. (a)(14A). [Pub. L. 109–8, § 314(a)][/us/pl/109/8/s314/a], added par. (14A).
+    Subsec. (a)(14A). [Pub. L. 109–8][/us/pl/109/8], § 314(a), added par. (14A).
 
-    Subsec. (a)(14B). [Pub. L. 109–8, § 1235][/us/pl/109/8/s1235], added par. (14B).
+    Subsec. (a)(14B). [Pub. L. 109–8][/us/pl/109/8], § 1235, added par. (14B).
 
-    Subsec. (a)(16). [Pub. L. 109–8, § 412][/us/pl/109/8/s412], struck out “dwelling” after “debtor’s interest in a” and “housing” after “share of a cooperative” and substituted “ownership,” for “ownership or” and “or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot,” for “but only if such fee or assessment is payable for a period during which—
+    Subsec. (a)(16). [Pub. L. 109–8][/us/pl/109/8], § 412, struck out “dwelling” after “debtor’s interest in a” and “housing” after “share of a cooperative” and substituted “ownership,” for “ownership or” and “or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot,” for “but only if such fee or assessment is payable for a period during which—
 
     “(A) the debtor physically occupied a dwelling unit in the condominium or cooperative project; or
 
     “(B) the debtor rented the dwelling unit to a tenant and received payments from the tenant for such period,”.
 
-    Subsec. (a)(17). [Pub. L. 109–8, § 301][/us/pl/109/8/s301], substituted “on a prisoner by any court” for “by a court” and “subsection (b) or (f)(2) of section 1915” for “section 1915(b) or (f)” and inserted “(or a similar non-Federal law)” after “title 28” in two places.
+    Subsec. (a)(17). [Pub. L. 109–8][/us/pl/109/8], § 301, substituted “on a prisoner by any court” for “by a court” and “subsection (b) or (f)(2) of section 1915” for “section 1915(b) or (f)” and inserted “(or a similar non-Federal law)” after “title 28” in two places.
 
-    Subsec. (a)(18). [Pub. L. 109–8, § 224(c)][/us/pl/109/8/s224/c], added par. (18).
+    Subsec. (a)(18). [Pub. L. 109–8][/us/pl/109/8], § 224(c), added par. (18).
 
-    [Pub. L. 109–8, § 215(1)(B)][/us/pl/109/8/s215/1/B], struck out par. (18) which read as follows: “owed under State law to a State or municipality that is—
+    [Pub. L. 109–8][/us/pl/109/8], § 215(1)(B), struck out par. (18) which read as follows: “owed under State law to a State or municipality that is—
 
     “(A) in the nature of support, and
 
     “(B) enforceable under part D of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.); or”.
 
-    Subsec. (a)(19)(B). [Pub. L. 109–8, § 1404(a)][/us/pl/109/8/s1404/a], inserted “, before, on, or after the date on which the petition was filed,” after “results” in introductory provisions.
+    Subsec. (a)(19)(B). [Pub. L. 109–8][/us/pl/109/8], § 1404(a), inserted “, before, on, or after the date on which the petition was filed,” after “results” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–8, § 215(2)][/us/pl/109/8/s215/2], substituted “or (6)” for “(6), or (15)” in two places.
+    Subsec. (c)(1). [Pub. L. 109–8][/us/pl/109/8], § 215(2), substituted “or (6)” for “(6), or (15)” in two places.
 
-    Subsec. (e). [Pub. L. 109–8, § 1209(3)][/us/pl/109/8/s1209/3], substituted “an insured” for “a insured”.
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 1209(3), substituted “an insured” for “a insured”.
 
     2002—Subsec. (a)(19). [Pub. L. 107–204][/us/pl/107/204] added par. (19).
 
     1998—Subsec. (a)(8). [Pub. L. 105–244][/us/pl/105/244] substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
-    1996—Subsec. (a)(5)(A). [Pub. L. 104–193, § 374(a)(4)][/us/pl/104/193/s374/a/4], substituted “section 408(a)(3)” for “section 402(a)(26)”.
+    1996—Subsec. (a)(5)(A). [Pub. L. 104–193][/us/pl/104/193], § 374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
 
     Subsec. (a)(17). [Pub. L. 104–134][/us/pl/104/134] added par. (17).
 
-    Subsec. (a)(18). [Pub. L. 104–193, § 374(a)(1)][/us/pl/104/193/s374/a/1]–(3), added par. (18).
+    Subsec. (a)(18). [Pub. L. 104–193][/us/pl/104/193], § 374(a)(1)–(3), added par. (18).
 
-    1994—Par. (15). [Pub. L. 103–394, § 304(e)][/us/pl/103/394/s304/e]\[(1)\], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
+    1994—Par. (15). [Pub. L. 103–394][/us/pl/103/394], § 304(e)\[(1)\], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
 
-    Subsec. (a). [Pub. L. 103–394, § 501(d)(13)(A)(i)][/us/pl/103/394/s501/d/13/A/i], substituted “1141,” for “1141,,” in introductory provisions.
+    Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(13)(A)(i), substituted “1141,” for “1141,,” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 103–394, § 304(h)(3)][/us/pl/103/394/s304/h/3], substituted “507(a)(8)” for “507(a)(7)”.
+    Subsec. (a)(1)(A). [Pub. L. 103–394][/us/pl/103/394], § 304(h)(3), substituted “507(a)(8)” for “507(a)(7)”.
 
     Subsec. (a)(2)(C). [Pub. L. 103–394][/us/pl/103/394], §§ 306, 501(d)(13)(A)(ii), substituted “$1,000 for” for “$500 for”, “60” for “forty” after “incurred by an individual debtor on or within”, and “60” for “twenty” after “obtained by an individual debtor on or within”, and struck out “([15 U.S.C. 1601][/us/usc/t15/s1601] et seq.)” after “Protection Act”.
 
-    Subsec. (a)(11). [Pub. L. 103–322, § 320934(1)][/us/pl/103/322/s320934/1], struck out “or” after semicolon at end.
+    Subsec. (a)(11). [Pub. L. 103–322][/us/pl/103/322], § 320934(1), struck out “or” after semicolon at end.
 
-    Subsec. (a)(12). [Pub. L. 103–322, § 320934(2)][/us/pl/103/322/s320934/2], which directed the substitution of “; or” for a period at end of par. (12), could not be executed because a period did not appear at end.
+    Subsec. (a)(12). [Pub. L. 103–322][/us/pl/103/322], § 320934(2), which directed the substitution of “; or” for a period at end of par. (12), could not be executed because a period did not appear at end.
 
-    Subsec. (a)(13). [Pub. L. 103–394, § 221(1)][/us/pl/103/394/s221/1], substituted semicolon for period at end.
+    Subsec. (a)(13). [Pub. L. 103–394][/us/pl/103/394], § 221(1), substituted semicolon for period at end.
 
-    [Pub. L. 103–322, § 320934(3)][/us/pl/103/322/s320934/3], added par. (13).
+    [Pub. L. 103–322][/us/pl/103/322], § 320934(3), added par. (13).
 
-    Subsec. (a)(14). [Pub. L. 103–394, § 221(2)][/us/pl/103/394/s221/2], added par. (14).
+    Subsec. (a)(14). [Pub. L. 103–394][/us/pl/103/394], § 221(2), added par. (14).
 
-    Subsec. (a)(16). [Pub. L. 103–394, § 309][/us/pl/103/394/s309], added par. (16).
+    Subsec. (a)(16). [Pub. L. 103–394][/us/pl/103/394], § 309, added par. (16).
 
-    Subsec. (b). [Pub. L. 103–394, § 501(d)(13)(B)][/us/pl/103/394/s501/d/13/B], struck out “([20 U.S.C. 1087–3][/us/usc/t20/s1087–3])” after “Act of 1965” and “([42 U.S.C. 294f][/us/usc/t42/s294f])” after “Service Act”.
+    Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(13)(B), struck out “([20 U.S.C. 1087–3][/us/usc/t20/s1087–3])” after “Act of 1965” and “([42 U.S.C. 294f][/us/usc/t42/s294f])” after “Service Act”.
 
-    Subsec. (c)(1). [Pub. L. 103–394, § 304(e)(2)][/us/pl/103/394/s304/e/2], substituted “(6), or (15)” for “or (6)” in two places.
+    Subsec. (c)(1). [Pub. L. 103–394][/us/pl/103/394], § 304(e)(2), substituted “(6), or (15)” for “or (6)” in two places.
 
-    Subsec. (e). [Pub. L. 103–394, § 501(d)(13)(C)][/us/pl/103/394/s501/d/13/C], substituted “insured depository institution” for “depository institution or insured credit union”.
+    Subsec. (e). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(13)(C), substituted “insured depository institution” for “depository institution or insured credit union”.
 
-    1990—Subsec. (a)(8). [Pub. L. 101–647, § 3621][/us/pl/101/647/s3621], substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
+    1990—Subsec. (a)(8). [Pub. L. 101–647][/us/pl/101/647], § 3621, substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
-    Subsec. (a)(9). [Pub. L. 101–581][/us/pl/101/581] and [Pub. L. 101–647, § 3102(a)][/us/pl/101/647/s3102/a], identically amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to any entity, to the extent that such debt arises from a judgment or consent decree entered in a court of record against the debtor wherein liability was incurred by such debtor as a result of the debtor’s operation of a motor vehicle while legally intoxicated under the laws or regulations of any jurisdiction within the United States or its territories wherein such motor vehicle was operated and within which such liability was incurred; or”.
+    Subsec. (a)(9). [Pub. L. 101–581][/us/pl/101/581] and [Pub. L. 101–647][/us/pl/101/647], § 3102(a), identically amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to any entity, to the extent that such debt arises from a judgment or consent decree entered in a court of record against the debtor wherein liability was incurred by such debtor as a result of the debtor’s operation of a motor vehicle while legally intoxicated under the laws or regulations of any jurisdiction within the United States or its territories wherein such motor vehicle was operated and within which such liability was incurred; or”.
 
-    Subsec. (a)(11), (12). [Pub. L. 101–647, § 2522(a)(1)][/us/pl/101/647/s2522/a/1], added pars. (11) and (12).
+    Subsec. (a)(11), (12). [Pub. L. 101–647][/us/pl/101/647], § 2522(a)(1), added pars. (11) and (12).
 
-    Subsec. (c). [Pub. L. 101–647, § 2522(a)(3)][/us/pl/101/647/s2522/a/3], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 101–647][/us/pl/101/647], § 2522(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 101–647, § 2522(a)(2)][/us/pl/101/647/s2522/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–647][/us/pl/101/647], § 2522(a)(2), added subsec. (e).
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 257(n)][/us/pl/99/554/s257/n], inserted reference to sections 1228(a) and 1228(b) of this title.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 257(n), inserted reference to sections 1228(a) and 1228(b) of this title.
 
-    Subsec. (a)(1)(A). [Pub. L. 99–554, § 283(j)(1)(A)][/us/pl/99/554/s283/j/1/A], substituted “507(a)(7)” for “507(a)(6)”.
+    Subsec. (a)(1)(A). [Pub. L. 99–554][/us/pl/99/554], § 283(j)(1)(A), substituted “507(a)(7)” for “507(a)(6)”.
 
-    Subsec. (a)(5). [Pub. L. 99–554, § 281][/us/pl/99/554/s281], struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
+    Subsec. (a)(5). [Pub. L. 99–554][/us/pl/99/554], § 281, struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
 
-    Subsec. (a)(9), (10). [Pub. L. 99–554, § 283(j)(1)(B)][/us/pl/99/554/s283/j/1/B], redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by [Pub. L. 98–353][/us/pl/98/353], as (10).
+    Subsec. (a)(9), (10). [Pub. L. 99–554][/us/pl/99/554], § 283(j)(1)(B), redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by [Pub. L. 98–353][/us/pl/98/353], as (10).
 
-    Subsec. (b). [Pub. L. 99–554, § 283(j)(2)][/us/pl/99/554/s283/j/2], substituted “Service” for “Services”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 283(j)(2), substituted “Service” for “Services”.
 
-    1984—Subsec. (a)(2). [Pub. L. 98–353, § 454(a)(1)][/us/pl/98/353/s454/a/1], in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
+    1984—Subsec. (a)(2). [Pub. L. 98–353][/us/pl/98/353], § 454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
 
-    Subsec. (a)(2)(A). [Pub. L. 98–353, § 307(a)(1)][/us/pl/98/353/s307/a/1], struck out “or” at end.
+    Subsec. (a)(2)(A). [Pub. L. 98–353][/us/pl/98/353], § 307(a)(1), struck out “or” at end.
 
-    Subsec. (a)(2)(B). [Pub. L. 98–353, § 307(a)(2)][/us/pl/98/353/s307/a/2], inserted “or” at end.
+    Subsec. (a)(2)(B). [Pub. L. 98–353][/us/pl/98/353], § 307(a)(2), inserted “or” at end.
 
-    Subsec. (a)(2)(B)(iii). [Pub. L. 98–353, § 454(a)(1)(A)][/us/pl/98/353/s454/a/1/A], struck out “obtaining” before “such”.
+    Subsec. (a)(2)(B)(iii). [Pub. L. 98–353][/us/pl/98/353], § 454(a)(1)(A), struck out “obtaining” before “such”.
 
-    Subsec. (a)(2)(C). [Pub. L. 98–353, § 307(a)(3)][/us/pl/98/353/s307/a/3], added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 98–353][/us/pl/98/353], § 307(a)(3), added subpar. (C).
 
-    Subsec. (a)(5). [Pub. L. 98–353, § 454(b)(1)][/us/pl/98/353/s454/b/1], inserted “or other order of a court of record” after “divorce decree,” in provisions preceding subpar. (A).
+    Subsec. (a)(5). [Pub. L. 98–353][/us/pl/98/353], § 454(b)(1), inserted “or other order of a court of record” after “divorce decree,” in provisions preceding subpar. (A).
 
-    Subsec. (a)(5)(A). [Pub. L. 98–353, § 454(b)(2)][/us/pl/98/353/s454/b/2], inserted “, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State”.
+    Subsec. (a)(5)(A). [Pub. L. 98–353][/us/pl/98/353], § 454(b)(2), inserted “, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State”.
 
     Subsec. (a)(8). [Pub. L. 98–353][/us/pl/98/353], §§ 371(1), 454(a)(2), struck out “of higher education” after “a nonprofit institution of” and struck out “or” at end.
 
-    Subsec. (a)(9). [Pub. L. 98–353, § 371(2)][/us/pl/98/353/s371/2], added the par. (9) relating to debts incurred by persons driving while intoxicated.
+    Subsec. (a)(9). [Pub. L. 98–353][/us/pl/98/353], § 371(2), added the par. (9) relating to debts incurred by persons driving while intoxicated.
 
-    Subsec. (c). [Pub. L. 98–353, § 454(c)][/us/pl/98/353/s454/c], inserted “of a kind” after “debt”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 454(c), inserted “of a kind” after “debt”.
 
-    Subsec. (d). [Pub. L. 98–353, § 307(b)][/us/pl/98/353/s307/b], substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 307(b), substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
 
     1981—Subsec. (a)(5)(A). [Pub. L. 97–35][/us/pl/97/35] substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
 
@@ -431,7 +431,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–8, title XIV, § 1404(b)][/us/pl/109/8/s1404/b], Apr. 20, 2005, [119 Stat. 215][/us/stat/119/215], provided that: 
+[Pub. L. 109–8, title XIV][/us/pl/109/8/tXIV], § 1404(b), Apr. 20, 2005, [119 Stat. 215][/us/stat/119/215], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] is effective beginning July 30, 2002.”
 
@@ -439,13 +439,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–244, title IX, § 971(b)][/us/pl/105/244/s971/b], Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837], provided that: 
+[Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 971(b), Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to cases commenced under title 11, United States Code, after the date of enactment of this Act \[Oct. 7, 1998\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–193, title III, § 374(c)][/us/pl/104/193/s374/c], Aug. 22, 1996, [110 Stat. 2256][/us/stat/110/2256], provided that: 
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 374(c), Aug. 22, 1996, [110 Stat. 2256][/us/stat/110/2256], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 656 of Title 42][/us/usc/t42/s656], The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
@@ -457,7 +457,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XXXI, § 3104][/us/pl/101/647/s3104], Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916], provided that:
+[Pub. L. 101–647, title XXXI][/us/pl/101/647/tXXXI], § 3104, Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -469,7 +469,7 @@
 
     Amendment by [section 3621 of Pub. L. 101–647][/us/pl/101/647/s3621] effective 180 days after Nov. 29, 1990, see [section 3631 of Pub. L. 101–647][/us/pl/101/647/s3631], set out as an Effective Date note under [section 3001 of Title 28][/us/usc/t28/s3001], Judiciary and Judicial Procedure.
 
-[Pub. L. 101–581, § 4][/us/pl/101/581/s4], Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865], provided that:
+[Pub. L. 101–581][/us/pl/101/581], § 4, Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -497,7 +497,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title][/us/usc/t11/s104] as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount “600” was adjusted to “650” and, in subsec. (a)(2)(C)(i)(II), dollar amount “875” was adjusted to “925”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(2)(C)(i)(I), dollar amount “650” was adjusted to “675” and, in subsec. (a)(2)(C)(i)(II), dollar amount “925” was adjusted to “950”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount “600” was adjusted to “650” and, in subsec. (a)(2)(C)(i)(II), dollar amount “875” was adjusted to “925”.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount “550” was adjusted to “600” and, in subsec. (a)(2)(C)(i)(II), dollar amount “825” was adjusted to “875”.
 
@@ -521,35 +523,35 @@
 [/us/usc/t28/s1915/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1915%2Fh
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2590
-[/us/pl/96/56/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F56%2Fs3
+[/us/pl/96/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F56
 [/us/stat/93/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F387
-[/us/pl/97/35/s2334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2334%2Fb
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F863
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F353
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115-3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115-3117
-[/us/pl/101/581/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs2%2Fa
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
 [/us/stat/104/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2865
-[/us/pl/101/647/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2522%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4865
-[/us/pl/103/322/s320934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320934
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2135
-[/us/pl/103/394/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs221
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4129
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/193/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs374%2Fa
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2255
-[/us/pl/105/244/s971/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs971%2Fa
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1837
-[/us/pl/107/204/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs803
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F801
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F54
-[/us/pl/111/327/s2/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F18
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
 [/us/usc/t11/s507/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa%2F6
 [/us/usc/t28/s1334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1334%2Fb
@@ -563,92 +565,92 @@
 [/us/usc/t29/s1108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fb%2F1
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
 [/us/usc/t20/s1087–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933
-[/us/pl/95/598/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs317
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
-[/us/pl/95/598/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs327
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/97/35/s2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2730
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F919
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/usc/t42/s292f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292f%2Fg
-[/us/pl/111/327/s2/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F18%2FA
-[/us/pl/111/327/s2/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F18%2FB
-[/us/pl/109/8/s1209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1209%2F1
-[/us/pl/109/8/s215/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs215%2F3
-[/us/pl/109/8/s714/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs714%2F2
-[/us/pl/109/8/s1502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F2
-[/us/pl/109/8/s714/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs714%2F1%2FA
-[/us/pl/109/8/s714/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs714%2F1%2FB
-[/us/pl/109/8/s714/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs714%2F1%2FC
-[/us/pl/109/8/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs310
-[/us/pl/109/8/s215/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs215%2F1%2FA
-[/us/pl/109/8/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs220
-[/us/pl/109/8/s1209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1209%2F2
-[/us/pl/109/8/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs314%2Fa
-[/us/pl/109/8/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1235
-[/us/pl/109/8/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs412
-[/us/pl/109/8/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs301
-[/us/pl/109/8/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fc
-[/us/pl/109/8/s215/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs215%2F1%2FB
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/109/8/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1404%2Fa
-[/us/pl/109/8/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs215%2F2
-[/us/pl/109/8/s1209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1209%2F3
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/104/193/s374/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs374%2Fa%2F4
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/104/193/s374/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs374%2Fa%2F1
-[/us/pl/103/394/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fe
-[/us/pl/103/394/s501/d/13/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F13%2FA%2Fi
-[/us/pl/103/394/s304/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/103/322/s320934/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320934%2F1
-[/us/pl/103/322/s320934/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320934%2F2
-[/us/pl/103/394/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs221%2F1
-[/us/pl/103/322/s320934/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320934%2F3
-[/us/pl/103/394/s221/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs221%2F2
-[/us/pl/103/394/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs309
-[/us/pl/103/394/s501/d/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F13%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t20/s1087–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933
 [/us/usc/t42/s294f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294f
-[/us/pl/103/394/s304/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fe%2F2
-[/us/pl/103/394/s501/d/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F13%2FC
-[/us/pl/101/647/s3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3621
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
-[/us/pl/101/647/s3102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3102%2Fa
-[/us/pl/101/647/s2522/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2522%2Fa%2F1
-[/us/pl/101/647/s2522/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2522%2Fa%2F3
-[/us/pl/101/647/s2522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2522%2Fa%2F2
-[/us/pl/99/554/s257/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fn
-[/us/pl/99/554/s283/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fj%2F1%2FA
-[/us/pl/99/554/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs281
-[/us/pl/99/554/s283/j/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fj%2F1%2FB
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/99/554/s283/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fj%2F2
-[/us/pl/98/353/s454/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs454%2Fa%2F1
-[/us/pl/98/353/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs307%2Fa%2F1
-[/us/pl/98/353/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs307%2Fa%2F2
-[/us/pl/98/353/s454/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs454%2Fa%2F1%2FA
-[/us/pl/98/353/s307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs307%2Fa%2F3
-[/us/pl/98/353/s454/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs454%2Fb%2F1
-[/us/pl/98/353/s454/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs454%2Fb%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/98/353/s371/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs371%2F2
-[/us/pl/98/353/s454/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs454%2Fc
-[/us/pl/98/353/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs307%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F56
-[/us/pl/109/8/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1404%2Fb
+[/us/pl/109/8/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXIV
 [/us/stat/119/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F215
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/105/244/s971/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs971%2Fb
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1837
-[/us/pl/104/193/s374/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs374%2Fc
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2256
 [/us/usc/t42/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs656
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -657,7 +659,7 @@
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/101/647/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3104
+[/us/pl/101/647/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXI
 [/us/stat/104/4916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4916
 [/us/usc/t11/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1328
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
@@ -665,7 +667,7 @@
 [/us/pl/101/647/s3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3621
 [/us/pl/101/647/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3631
 [/us/usc/t28/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3001
-[/us/pl/101/581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581%2Fs4
+[/us/pl/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F581
 [/us/stat/104/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2865
 [/us/usc/t11/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1328
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

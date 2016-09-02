@@ -47,7 +47,7 @@
 
             (C) be subject to a court order that compels any additional report or disclosure to be made to the creditors described in subparagraph (A).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2626][/us/stat/92/2626]; [Pub. L. 98–353, title III, § 499][/us/pl/98/353/s499], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II, § 221][/us/pl/99/554/s221], Oct. 27, 1986, [100 Stat. 3101][/us/stat/100/3101]; [Pub. L. 103–394, title II, § 217(b)][/us/pl/103/394/s217/b], Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8], §§ 405, 432(b), Apr. 20, 2005, [119 Stat. 105][/us/stat/119/105], 110.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2626][/us/stat/92/2626]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 499, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 221, Oct. 27, 1986, [100 Stat. 3101][/us/stat/100/3101]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 217(b), Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], §§ 405, 432(b), Apr. 20, 2005, [119 Stat. 105][/us/stat/119/105], 110.)
 
  __Historical and Revision Notes__ 
 
@@ -81,17 +81,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(3). [Pub. L. 109–8, § 432(b)][/us/pl/109/8/s432/b], inserted “debtor” after “small business”.
+    2005—Subsec. (a)(3). [Pub. L. 109–8][/us/pl/109/8], § 432(b), inserted “debtor” after “small business”.
 
-    Subsec. (a)(4). [Pub. L. 109–8, § 405(a)][/us/pl/109/8/s405/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 109–8][/us/pl/109/8], § 405(a), added par. (4).
 
-    Subsec. (b)(3). [Pub. L. 109–8, § 405(b)][/us/pl/109/8/s405/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 109–8][/us/pl/109/8], § 405(b), added par. (3).
 
     1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394] substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 221(1)][/us/pl/99/554/s221/1], amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
 
-    Subsec. (c). [Pub. L. 99–554, § 221(2)][/us/pl/99/554/s221/2], struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 
     1984—Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353] substituted “commencement of the case” for “order for relief”.
 
@@ -120,21 +120,21 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2626
-[/us/pl/98/353/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs499
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/99/554/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs221
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3101
-[/us/pl/103/394/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs217%2Fb
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4127
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F105
 [/us/usc/t15/s632/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa%2F1
-[/us/pl/109/8/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs432%2Fb
-[/us/pl/109/8/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs405%2Fa
-[/us/pl/109/8/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs405%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs221%2F1
-[/us/pl/99/554/s221/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs221%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

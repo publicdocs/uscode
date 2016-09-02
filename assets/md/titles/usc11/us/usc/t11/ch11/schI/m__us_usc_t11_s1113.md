@@ -51,7 +51,7 @@
 
     (f) No provision of this title shall be construed to permit a trustee to unilaterally terminate or alter any provisions of a collective bargaining agreement prior to compliance with the provisions of this section.
 
-(Added [Pub. L. 98–353, title III, § 541(a)][/us/pl/98/353/s541/a], July 10, 1984, [98 Stat. 390][/us/stat/98/390].)
+(Added [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 541(a), July 10, 1984, [98 Stat. 390][/us/stat/98/390].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–353, title III, § 541(c)][/us/pl/98/353/s541/c], July 10, 1984, [98 Stat. 391][/us/stat/98/391], provided that: 
+[Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 541(c), July 10, 1984, [98 Stat. 391][/us/stat/98/391], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall become effective upon the date of enactment of this Act \[July 10, 1984\]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
 
@@ -70,12 +70,12 @@
 ----------
 ----------
 
-[/us/pl/98/353/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs541%2Fa
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F390
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/98/353/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs541%2Fc
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F391
 
 

@@ -39,7 +39,7 @@
 
     (5) “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) 1 or 901 of this title, means debtor, except as provided in [section 926 of this title][/us/usc/t11/s926].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2622][/us/stat/92/2622]; [Pub. L. 98–353, title III, § 491][/us/pl/98/353/s491], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 100–597, § 4][/us/pl/100/597/s4], Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2622][/us/stat/92/2622]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 491, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 100–597][/us/pl/100/597], § 4, Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028].)
 
  __Historical and Revision Notes__ 
 
@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in pars. (1) and (5), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
+    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in pars. (1) and (5), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
 
  __Amendments__ 
 
@@ -83,12 +83,12 @@
 [/us/usc/t11/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs926
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2622
-[/us/pl/98/353/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs491
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/100/597/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs4
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3028
 [/us/usc/t11/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs103%2Fe
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

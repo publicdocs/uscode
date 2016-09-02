@@ -21,7 +21,7 @@
 
     (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2621][/us/stat/92/2621]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 353, 490, July 10, 1984, [98 Stat. 361][/us/stat/98/361], 383; [Pub. L. 100–597, § 3][/us/pl/100/597/s3], Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028]; [Pub. L. 109–8, title V, § 502][/us/pl/109/8/s502], title XII, § 1216, title XV, § 1502(a)(5), Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118], 195, 216; [Pub. L. 111–327, § 2(a)(29)][/us/pl/111/327/s2/a/29], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2621][/us/stat/92/2621]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 353, 490, July 10, 1984, [98 Stat. 361][/us/stat/98/361], 383; [Pub. L. 100–597][/us/pl/100/597], § 3, Nov. 3, 1988, [102 Stat. 3028][/us/stat/102/3028]; [Pub. L. 109–8, title V][/us/pl/109/8/tV], § 502, title XII, § 1216, title XV, § 1502(a)(5), Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118], 195, 216; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(29), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -101,17 +101,17 @@
 
  __References in Text__ 
 
-    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
+    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
 
  __Amendments__ 
 
     2010—Subsec. (a). [Pub. L. 111–327][/us/pl/111/327] inserted “333,” after “301,” and “351,” after “350(b)”.
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 1502(a)(5)][/us/pl/109/8/s1502/a/5], substituted “507(a)(2)” for “507(a)(1)”.
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(5), substituted “507(a)(2)” for “507(a)(1)”.
 
-    [Pub. L. 109–8, § 1216][/us/pl/109/8/s1216], inserted “1123(d),” after “1123(b),”.
+    [Pub. L. 109–8][/us/pl/109/8], § 1216, inserted “1123(d),” after “1123(b),”.
 
-    [Pub. L. 109–8, § 502][/us/pl/109/8/s502], inserted “555, 556,” after “553,” and “559, 560, 561, 562,” after “557,”.
+    [Pub. L. 109–8][/us/pl/109/8], § 502, inserted “555, 556,” after “553,” and “559, 560, 561, 562,” after “557,”.
 
     1988—Subsec. (a). [Pub. L. 100–597][/us/pl/100/597] inserted “1129(a)(6),” after “1129(a)(3),”.
 
@@ -139,23 +139,23 @@
 [/us/usc/t11/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs902
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2621
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F361
-[/us/pl/100/597/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs3
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3028
-[/us/pl/109/8/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs502
+[/us/pl/109/8/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtV
 [/us/stat/119/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F118
-[/us/pl/111/327/s2/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F29
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/usc/t31/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs191
 [/us/usc/t31/s3713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fa
 [/us/usc/t11/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs103%2Fe
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s1502/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F5
-[/us/pl/109/8/s1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1216
-[/us/pl/109/8/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs502
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

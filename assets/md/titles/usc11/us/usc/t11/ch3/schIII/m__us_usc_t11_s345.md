@@ -45,7 +45,7 @@
 
     (c) An entity with which such moneys are deposited or invested is authorized to deposit or invest such moneys as may be required under this section.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 97–258, § 3(c)][/us/pl/97/258/s3/c], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 98–353, title III, § 437][/us/pl/98/353/s437], July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II, § 214][/us/pl/99/554/s214], Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099]; [Pub. L. 103–394, title II, § 210][/us/pl/103/394/s210], Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2565][/us/stat/92/2565]; [Pub. L. 97–258][/us/pl/97/258], § 3(c), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 437, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 214, Oct. 27, 1986, [100 Stat. 3099][/us/stat/100/3099]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 210, Oct. 22, 1994, [108 Stat. 4125][/us/stat/108/4125].)
 
  __Historical and Revision Notes__ 
 
@@ -93,13 +93,13 @@
 [/us/usc/t31/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9303
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2565
-[/us/pl/97/258/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fc
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1064
-[/us/pl/98/353/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs437
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/99/554/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs214
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3099
-[/us/pl/103/394/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs210
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4125
 [/us/usc/t11/s541/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs541%2Fa%2F6
 [/us/usc/t6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs15

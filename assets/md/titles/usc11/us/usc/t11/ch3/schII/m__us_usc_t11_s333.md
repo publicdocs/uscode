@@ -43,7 +43,7 @@
 
         (2) An ombudsman appointed under subsection (a)(2)(B) shall have access to patient records consistent with authority of such ombudsman under the Older Americans Act of 1965 and under non-Federal laws governing the State Long-Term Care Ombudsman program.
 
-(Added [Pub. L. 109–8, title XI, § 1104(a)(1)][/us/pl/109/8/s1104/a/1], Apr. 20, 2005, [119 Stat. 191][/us/stat/119/191].)
+(Added [Pub. L. 109–8, title XI][/us/pl/109/8/tXI], § 1104(a)(1), Apr. 20, 2005, [119 Stat. 191][/us/stat/119/191].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1104%2Fa%2F1
+[/us/pl/109/8/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXI
 [/us/stat/119/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F191
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218

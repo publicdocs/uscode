@@ -45,7 +45,7 @@
 
             (B) shall not disclose information specifically protected by the court under this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2556][/us/stat/92/2556]; [Pub. L. 109–8, title II][/us/pl/109/8], §§ 233(c), 234(a), (c), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 75; [Pub. L. 111–327, § 2(a)(5)][/us/pl/111/327/s2/a/5], Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2556][/us/stat/92/2556]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], §§ 233(c), 234(a), (c), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74], 75; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(5), Dec. 22, 2010, [124 Stat. 3557][/us/stat/124/3557].)
 
  __Historical and Revision Notes__ 
 
@@ -59,11 +59,11 @@
 
     2010—Subsec. (a). [Pub. L. 111–327][/us/pl/111/327] substituted “subsections (b) and (c)” for “subsection (b) of this section”.
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 234(c)][/us/pl/109/8/s234/c], which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
 
-    [Pub. L. 109–8, § 233(c)][/us/pl/109/8/s233/c], inserted “and subject to section 112” after “section”.
+    [Pub. L. 109–8][/us/pl/109/8], § 233(c), inserted “and subject to section 112” after “section”.
 
-    Subsec. (c). [Pub. L. 109–8, § 234(a)][/us/pl/109/8/s234/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 234(a), added subsec. (c).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -80,14 +80,14 @@
 [/us/usc/t28/s586/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Ff
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2556
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F74
-[/us/pl/111/327/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F5
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3557
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs234%2Fc
-[/us/pl/109/8/s233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs233%2Fc
-[/us/pl/109/8/s234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs234%2Fa
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

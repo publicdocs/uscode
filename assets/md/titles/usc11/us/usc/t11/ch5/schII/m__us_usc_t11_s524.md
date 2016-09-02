@@ -445,7 +445,7 @@
 
         (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2592][/us/stat/92/2592]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 308, 455, July 10, 1984, [98 Stat. 354][/us/stat/98/354], 376; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 257(o), 282, 283(k), Oct. 27, 1986, [100 Stat. 3115–3117][/us/stat/100/3115-3117]; [Pub. L. 103–394, title I][/us/pl/103/394], §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, [108 Stat. 4108][/us/stat/108/4108], 4113, 4145; [Pub. L. 109–8, title II][/us/pl/109/8], §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, [119 Stat. 43][/us/stat/119/43], 194; [Pub. L. 111–327, § 2(a)(19)][/us/pl/111/327/s2/a/19], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2592][/us/stat/92/2592]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 308, 455, July 10, 1984, [98 Stat. 354][/us/stat/98/354], 376; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 257(o), 282, 283(k), Oct. 27, 1986, [100 Stat. 3115–3117][/us/stat/100/3115-3117]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, [108 Stat. 4108][/us/stat/108/4108], 4113, 4145; [Pub. L. 109–8, title II][/us/pl/109/8/tII], §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, [119 Stat. 43][/us/stat/119/43], 194; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(19), Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
 
  __Historical and Revision Notes__ 
 
@@ -481,63 +481,63 @@
 
  __Amendments__ 
 
-    2010—Subsec. (k)(3)(J)(i). [Pub. L. 111–327, § 2(a)(19)(A)][/us/pl/111/327/s2/a/19/A], in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
+    2010—Subsec. (k)(3)(J)(i). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
 
-    Subsec. (k)(5)(B). [Pub. L. 111–327, § 2(a)(19)(B)][/us/pl/111/327/s2/a/19/B], substituted “that,” for “that”.
+    Subsec. (k)(5)(B). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(19)(B), substituted “that,” for “that”.
 
-    2005—Subsec. (a)(3). [Pub. L. 109–8, § 1210][/us/pl/109/8/s1210], substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
+    2005—Subsec. (a)(3). [Pub. L. 109–8][/us/pl/109/8], § 1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
 
-    Subsec. (c)(2). [Pub. L. 109–8, § 203(a)(1)][/us/pl/109/8/s203/a/1], added par. (2) and struck out former par. (2) which read as follows:
+    Subsec. (c)(2). [Pub. L. 109–8][/us/pl/109/8], § 203(a)(1), added par. (2) and struck out former par. (2) which read as follows:
 
     “(2)(A) such agreement contains a clear and conspicuous statement which advises the debtor that the agreement may be rescinded at any time prior to discharge or within sixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim; and
 
     “(B) such agreement contains a clear and conspicuous statement which advises the debtor that such agreement is not required under this title, under nonbankruptcy law, or under any agreement not in accordance with the provisions of this subsection;”.
 
-    Subsecs. (i), (j). [Pub. L. 109–8, § 202][/us/pl/109/8/s202], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 109–8][/us/pl/109/8], § 202, added subsecs. (i) and (j).
 
-    Subsecs. (k) to (m). [Pub. L. 109–8, § 203(a)(2)][/us/pl/109/8/s203/a/2], added subsecs. (k) to (m).
+    Subsecs. (k) to (m). [Pub. L. 109–8][/us/pl/109/8], § 203(a)(2), added subsecs. (k) to (m).
 
-    1994—Subsec. (a)(3). [Pub. L. 103–394, § 501(d)(14)(A)][/us/pl/103/394/s501/d/14/A], substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
+    1994—Subsec. (a)(3). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(14)(A), substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
 
-    Subsec. (c)(2). [Pub. L. 103–394, § 103(a)(1)][/us/pl/103/394/s103/a/1], designated existing provisions as subpar. (A), inserted “and” at end, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 103–394][/us/pl/103/394], § 103(a)(1), designated existing provisions as subpar. (A), inserted “and” at end, and added subpar. (B).
 
-    Subsec. (c)(3). [Pub. L. 103–394, § 103(a)(2)][/us/pl/103/394/s103/a/2], struck out “such agreement” after “which states that” in introductory provisions, struck out “and” at end of subpar. (A), inserted “such agreement” in subpars. (A) and (B), and added subpar. (C).
+    Subsec. (c)(3). [Pub. L. 103–394][/us/pl/103/394], § 103(a)(2), struck out “such agreement” after “which states that” in introductory provisions, struck out “and” at end of subpar. (A), inserted “such agreement” in subpars. (A) and (B), and added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 103–394, § 501(d)(14)(B)][/us/pl/103/394/s501/d/14/B], substituted “rescission” for “recission”.
+    Subsec. (c)(4). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(14)(B), substituted “rescission” for “recission”.
 
-    Subsec. (d). [Pub. L. 103–394, § 103(b)][/us/pl/103/394/s103/b], inserted “and was not represented by an attorney during the course of negotiating such agreement” after “this section” in introductory provisions.
+    Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], § 103(b), inserted “and was not represented by an attorney during the course of negotiating such agreement” after “this section” in introductory provisions.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 103–394, § 501(d)(14)(C)][/us/pl/103/394/s501/d/14/C], inserted “and” at end.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(14)(C), inserted “and” at end.
 
-    Subsecs. (g), (h). [Pub. L. 103–394, § 111(a)][/us/pl/103/394/s111/a], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 103–394][/us/pl/103/394], § 111(a), added subsecs. (g) and (h).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–554, § 257][/us/pl/99/554/s257](o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
+    1986—Subsec. (a)(1). [Pub. L. 99–554][/us/pl/99/554], § 257(o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
 
-    Subsec. (a)(3). [Pub. L. 99–554, § 257][/us/pl/99/554/s257](o)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
+    Subsec. (a)(3). [Pub. L. 99–554][/us/pl/99/554], § 257(o)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
 
-    Subsec. (c)(1). [Pub. L. 99–554, § 257][/us/pl/99/554/s257](o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
+    Subsec. (c)(1). [Pub. L. 99–554][/us/pl/99/554], § 257(o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
 
-    Subsec. (d). [Pub. L. 99–554, § 257][/us/pl/99/554/s257](o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
+    Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 257(o)(1), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
 
-    [Pub. L. 99–554, § 282][/us/pl/99/554/s282], substituted “shall” for “may” before “hold” in first sentence, inserted “any” after “At” in second sentence, and inserted “the court shall hold a hearing at which the debtor shall appear in person and” after “then” in third sentence.
+    [Pub. L. 99–554][/us/pl/99/554], § 282, substituted “shall” for “may” before “hold” in first sentence, inserted “any” after “At” in second sentence, and inserted “the court shall hold a hearing at which the debtor shall appear in person and” after “then” in third sentence.
 
-    Subsec. (d)(2). [Pub. L. 99–554, § 283(k)][/us/pl/99/554/s283/k], substituted “section” for “subsection” after “subsection (c)(6) of this”.
+    Subsec. (d)(2). [Pub. L. 99–554][/us/pl/99/554], § 283(k), substituted “section” for “subsection” after “subsection (c)(6) of this”.
 
     1984—Subsec. (a)(2). [Pub. L. 98–353][/us/pl/98/353], §§ 308(a), 455, struck out “or from property of the debtor,” before “whether or not discharge”, and substituted “an act” for “any act”.
 
-    Subsec. (a)(3). [Pub. L. 98–353, § 455][/us/pl/98/353/s455], substituted “an act” for “any act”.
+    Subsec. (a)(3). [Pub. L. 98–353][/us/pl/98/353], § 455, substituted “an act” for “any act”.
 
-    Subsec. (c)(2). [Pub. L. 98–353, § 308(b)(1)][/us/pl/98/353/s308/b/1], (3), added par. (2). Former par. (2), which related to situations where the debtor had not rescinded the agreement within 30 days after the agreement became enforceable, was struck out.
+    Subsec. (c)(2). [Pub. L. 98–353][/us/pl/98/353], § 308(b)(1), (3), added par. (2). Former par. (2), which related to situations where the debtor had not rescinded the agreement within 30 days after the agreement became enforceable, was struck out.
 
-    Subsec. (c)(3), (4). [Pub. L. 98–352, § 308(b)(3)][/us/pl/98/352/s308/b/3], added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
+    Subsec. (c)(3), (4). [Pub. L. 98–352][/us/pl/98/352], § 308(b)(3), added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
 
-    Subsec. (c)(5). [Pub. L. 98–353, § 308(b)(2)][/us/pl/98/353/s308/b/2], redesignated former par. (3) as (5).
+    Subsec. (c)(5). [Pub. L. 98–353][/us/pl/98/353], § 308(b)(2), redesignated former par. (3) as (5).
 
-    Subsec. (c)(6). [Pub. L. 98–353, § 308(b)(2)][/us/pl/98/353/s308/b/2], (4), redesignated former par. (4) as (6) and generally amended par. (6), as so redesignated, thereby striking out provisions relating to court approval of such agreements as are entered into in good faith and are in settlement of litigation under [section 523 of this title][/us/usc/t11/s523] or provide for redemption under [section 722 of this title][/us/usc/t11/s722].
+    Subsec. (c)(6). [Pub. L. 98–353][/us/pl/98/353], § 308(b)(2), (4), redesignated former par. (4) as (6) and generally amended par. (6), as so redesignated, thereby striking out provisions relating to court approval of such agreements as are entered into in good faith and are in settlement of litigation under [section 523 of this title][/us/usc/t11/s523] or provide for redemption under [section 722 of this title][/us/usc/t11/s722].
 
-    Subsec. (d)(2). [Pub. L. 98–353, § 308(c)][/us/pl/98/353/s308/c], substituted “subsection (c)(6)” for “subsection (c)(4)”.
+    Subsec. (d)(2). [Pub. L. 98–353][/us/pl/98/353], § 308(c), substituted “subsection (c)(6)” for “subsection (c)(4)”.
 
-    Subsec. (f). [Pub. L. 98–353, § 308(d)][/us/pl/98/353/s308/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–353][/us/pl/98/353], § 308(d), added subsec. (f).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -559,7 +559,7 @@
 
  __Construction__ 
 
-[Pub. L. 103–394, title I, § 111(b)][/us/pl/103/394/s111/b], Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117], provided that: 
+[Pub. L. 103–394, title I][/us/pl/103/394/tI], § 111(b), Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117], provided that: 
 
 > “Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
 
@@ -575,15 +575,15 @@
 [/us/usc/t28/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs157
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2592
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F354
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115-3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115-3117
-[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4108
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F43
-[/us/pl/111/327/s2/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F19
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
 [/us/usc/t11/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs524%2Fb
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
@@ -594,38 +594,38 @@
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t12/s461/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA%2Fiv
-[/us/pl/111/327/s2/a/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F19%2FA
-[/us/pl/111/327/s2/a/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F19%2FB
-[/us/pl/109/8/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1210
-[/us/pl/109/8/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs203%2Fa%2F1
-[/us/pl/109/8/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs202
-[/us/pl/109/8/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs203%2Fa%2F2
-[/us/pl/103/394/s501/d/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F14%2FA
-[/us/pl/103/394/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs103%2Fa%2F1
-[/us/pl/103/394/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs103%2Fa%2F2
-[/us/pl/103/394/s501/d/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F14%2FB
-[/us/pl/103/394/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs103%2Fb
-[/us/pl/103/394/s501/d/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F14%2FC
-[/us/pl/103/394/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs111%2Fa
-[/us/pl/99/554/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1228
-[/us/pl/99/554/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257
-[/us/pl/99/554/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1228
-[/us/pl/99/554/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1228
-[/us/pl/99/554/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs282
-[/us/pl/99/554/s283/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fk
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/98/353/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs455
-[/us/pl/98/353/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs308%2Fb%2F1
-[/us/pl/98/352/s308/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352%2Fs308%2Fb%2F3
-[/us/pl/98/353/s308/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs308%2Fb%2F2
-[/us/pl/98/353/s308/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs308%2Fb%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523
 [/us/usc/t11/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs722
-[/us/pl/98/353/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs308%2Fc
-[/us/pl/98/353/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs308%2Fd
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
@@ -642,7 +642,7 @@
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/103/394/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs111%2Fb
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4117
 
 

@@ -17,7 +17,7 @@
 
     The debtor may be required to provide information regarding a minor child involved in matters under this title but may not be required to disclose in the public records in the case the name of such minor child. The debtor may be required to disclose the name of such minor child in a nonpublic record that is maintained by the court and made available by the court for examination by the United States trustee, the trustee, and the auditor (if any) serving under [section 586(f) of title 28][/us/usc/t28/s586/f], in the case. The court, the United States trustee, the trustee, and such auditor shall not disclose the name of such minor child maintained in such nonpublic record.
 
-(Added [Pub. L. 109–8, title II, § 233(a)][/us/pl/109/8/s233/a], Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 233(a), Apr. 20, 2005, [119 Stat. 74][/us/stat/119/74].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t28/s586/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Ff
-[/us/pl/109/8/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs233%2Fa
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F74
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

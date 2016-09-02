@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–353, title III, § 493][/us/pl/98/353/s493], July 10, 1984, [98 Stat. 383][/us/stat/98/383], substituted “SUBCHAPTER” for “SUBCHAPER”.
+    1984—[Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 493, July 10, 1984, [98 Stat. 383][/us/stat/98/383], substituted “SUBCHAPTER” for “SUBCHAPER”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/353/s493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs493
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
 
 

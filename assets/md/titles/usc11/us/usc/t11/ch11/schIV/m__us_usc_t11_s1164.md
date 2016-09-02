@@ -17,7 +17,7 @@
 
     The Board, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and may appear and be heard on any issue in a case under this chapter, but may not appeal from any judgment, order, or decree entered in the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 104–88, title III, § 302(2)][/us/pl/104/88/s302/2], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 302(2), Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2641
-[/us/pl/104/88/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs302%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
 [/us/usc/t11/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1109
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

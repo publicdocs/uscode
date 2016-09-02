@@ -123,7 +123,7 @@
 
             (B) the date the case is closed.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2609][/us/stat/92/2609]; [Pub. L. 98–353, title III, § 480][/us/pl/98/353/s480], July 10, 1984, [98 Stat. 382][/us/stat/98/382]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 220, 257(s), Oct. 27, 1986, [100 Stat. 3101][/us/stat/100/3101], 3116; [Pub. L. 109–8, title I, § 106(b)][/us/pl/109/8/s106/b], title III, §§ 312(1), 330(a), title VI, § 603(d), Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 86, 101, 123.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2609][/us/stat/92/2609]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 480, July 10, 1984, [98 Stat. 382][/us/stat/98/382]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 220, 257(s), Oct. 27, 1986, [100 Stat. 3101][/us/stat/100/3101], 3116; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(b), title III, §§ 312(1), 330(a), title VI, § 603(d), Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 86, 101, 123.)
 
  __Historical and Revision Notes__ 
 
@@ -163,37 +163,37 @@
 
     The Bankruptcy Act, referred to in subsec. (a)(7), is [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 544][/us/stat/30/544], as amended, which was classified generally to former Title 11.
 
-    Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 550][/us/stat/30/550], section 371 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 912][/us/stat/52/912], and section 476 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 924][/us/stat/52/924], which were classified to sections 32, 771, and 876 of former Title 11.
+    Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 550][/us/stat/30/550], section 371 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 912][/us/stat/52/912], and section 476 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 924][/us/stat/52/924], which were classified to sections 32, 771, and 876 of former Title 11.
 
-    Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are sections 660 and 661 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 935][/us/stat/52/935], 936, which were classified to sections 1060 and 1061 of former Title 11.
+    Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are sections 660 and 661 of [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], as added [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 935][/us/stat/52/935], 936, which were classified to sections 1060 and 1061 of former Title 11.
 
  __Amendments__ 
 
-    2005—Subsec. (a)(8). [Pub. L. 109–8, § 312(1)][/us/pl/109/8/s312/1], substituted “8 years” for “six years”.
+    2005—Subsec. (a)(8). [Pub. L. 109–8][/us/pl/109/8], § 312(1), substituted “8 years” for “six years”.
 
-    Subsec. (a)(11). [Pub. L. 109–8, § 106(b)][/us/pl/109/8/s106/b], added par. (11).
+    Subsec. (a)(11). [Pub. L. 109–8][/us/pl/109/8], § 106(b), added par. (11).
 
-    Subsec. (a)(12). [Pub. L. 109–8, § 330(a)][/us/pl/109/8/s330/a], added par. (12).
+    Subsec. (a)(12). [Pub. L. 109–8][/us/pl/109/8], § 330(a), added par. (12).
 
-    Subsec. (d)(4). [Pub. L. 109–8, § 603(d)][/us/pl/109/8/s603/d], added par. (4).
+    Subsec. (d)(4). [Pub. L. 109–8][/us/pl/109/8], § 603(d), added par. (4).
 
-    1986—Subsec. (a)(9). [Pub. L. 99–554, § 257(s)][/us/pl/99/554/s257/s], inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
+    1986—Subsec. (a)(9). [Pub. L. 99–554][/us/pl/99/554], § 257(s), inserted reference to [section 1228 of this title][/us/usc/t11/s1228].
 
-    Subsec. (c). [Pub. L. 99–554, § 220][/us/pl/99/554/s220], amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 220, amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
 
-    Subsec. (d). [Pub. L. 99–554, § 220][/us/pl/99/554/s220], amended subsec. (d) generally, substituting “, a creditor, or the United States trustee,” for “or a creditor,” in provisions preceding par. (1) and “acquisition of or entitlement to such property” for “acquisition of, or entitlement to, such property” in par. (2).
+    Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 220, amended subsec. (d) generally, substituting “, a creditor, or the United States trustee,” for “or a creditor,” in provisions preceding par. (1) and “acquisition of or entitlement to such property” for “acquisition of, or entitlement to, such property” in par. (2).
 
-    Subsec. (e). [Pub. L. 99–554, § 220][/us/pl/99/554/s220], amended subsec. (e) generally, substituting “The trustee, a creditor, or the United States trustee may” for “The trustee or a creditor may” in provisions preceding par. (1), “section within” for “section, within” and “discharge is granted” for “discharge was granted” in par. (1), “section before” for “section, before” in provisions of par. (2) preceding subpar. (A), and “discharge; and” for “discharge; or” in par. (2)(A).
+    Subsec. (e). [Pub. L. 99–554][/us/pl/99/554], § 220, amended subsec. (e) generally, substituting “The trustee, a creditor, or the United States trustee may” for “The trustee or a creditor may” in provisions preceding par. (1), “section within” for “section, within” and “discharge is granted” for “discharge was granted” in par. (1), “section before” for “section, before” in provisions of par. (2) preceding subpar. (A), and “discharge; and” for “discharge; or” in par. (2)(A).
 
-    1984—Subsec. (a)(6)(C). [Pub. L. 98–353, § 480(a)(1)][/us/pl/98/353/s480/a/1], substituted “properly” for “property”.
+    1984—Subsec. (a)(6)(C). [Pub. L. 98–353][/us/pl/98/353], § 480(a)(1), substituted “properly” for “property”.
 
-    Subsec. (a)(7). [Pub. L. 98–353, § 480(a)(2)][/us/pl/98/353/s480/a/2], inserted “, under this title or under the Bankruptcy Act,” after “another case”.
+    Subsec. (a)(7). [Pub. L. 98–353][/us/pl/98/353], § 480(a)(2), inserted “, under this title or under the Bankruptcy Act,” after “another case”.
 
-    Subsec. (a)(8). [Pub. L. 98–353, § 480(a)(3)][/us/pl/98/353/s480/a/3], substituted “371,” for “371”.
+    Subsec. (a)(8). [Pub. L. 98–353][/us/pl/98/353], § 480(a)(3), substituted “371,” for “371”.
 
-    Subsec. (c)(1). [Pub. L. 98–353, § 480(b)][/us/pl/98/353/s480/b], substituted “to the granting of a discharge” for “to discharge”.
+    Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 480(b), substituted “to the granting of a discharge” for “to discharge”.
 
-    Subsec. (e)(2)(A). [Pub. L. 98–353, § 480(c)][/us/pl/98/353/s480/c], substituted “or” for “and”.
+    Subsec. (e)(2)(A). [Pub. L. 98–353][/us/pl/98/353], § 480(c), substituted “or” for “and”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -227,11 +227,11 @@
 [/us/usc/t28/s586/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Ff
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2609
-[/us/pl/98/353/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F382
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3101
-[/us/pl/109/8/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fb
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F38
 [/us/usc/t11/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1328
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
@@ -239,28 +239,28 @@
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F550
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F912
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F924
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F935
-[/us/pl/109/8/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs312%2F1
-[/us/pl/109/8/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fb
-[/us/pl/109/8/s330/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fa
-[/us/pl/109/8/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs603%2Fd
-[/us/pl/99/554/s257/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fs
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1228
-[/us/pl/99/554/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs220
-[/us/pl/99/554/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs220
-[/us/pl/99/554/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs220
-[/us/pl/98/353/s480/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480%2Fa%2F1
-[/us/pl/98/353/s480/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480%2Fa%2F2
-[/us/pl/98/353/s480/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480%2Fa%2F3
-[/us/pl/98/353/s480/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480%2Fb
-[/us/pl/98/353/s480/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs480%2Fc
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs603%2Fd
 [/us/pl/109/8/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs603%2Fe
 [/us/usc/t11/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521

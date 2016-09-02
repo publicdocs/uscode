@@ -151,7 +151,7 @@
 
     (e) In a small business case, the court shall confirm a plan that complies with the applicable provisions of this title and that is filed in accordance with section 1121(e) not later than 45 days after the plan is filed unless the time for confirmation is extended in accordance with section 1121(e)(3).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2635][/us/stat/92/2635]; [Pub. L. 98–353, title III, § 512][/us/pl/98/353/s512], July 10, 1984, [98 Stat. 386][/us/stat/98/386]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 225, 283(v), Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102], 3118; [Pub. L. 100–334, § 2(b)][/us/pl/100/334/s2/b], June 16, 1988, [102 Stat. 613][/us/stat/102/613]; [Pub. L. 103–394, title III, § 304(h)(7)][/us/pl/103/394/s304/h/7], title V, § 501(d)(32), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], 4146; [Pub. L. 109–8, title II, § 213(1)][/us/pl/109/8/s213/1], title III, § 321(c), title IV, § 438, title VII, § 710, title XII, § 1221(b), title XV, § 1502(a)(8), Apr. 20, 2005, [119 Stat. 52][/us/stat/119/52], 95, 113, 127, 196, 216; [Pub. L. 111–327, § 2(a)(35)][/us/pl/111/327/s2/a/35], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2635][/us/stat/92/2635]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 512, July 10, 1984, [98 Stat. 386][/us/stat/98/386]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 225, 283(v), Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102], 3118; [Pub. L. 100–334][/us/pl/100/334], § 2(b), June 16, 1988, [102 Stat. 613][/us/stat/102/613]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 304(h)(7), title V, § 501(d)(32), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], 4146; [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 213(1), title III, § 321(c), title IV, § 438, title VII, § 710, title XII, § 1221(b), title XV, § 1502(a)(8), Apr. 20, 2005, [119 Stat. 52][/us/stat/119/52], 95, 113, 127, 196, 216; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(35), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -487,69 +487,69 @@ However, in this latter case the senior debt would have been unfairly discrimina
 
     2010—Subsec. (a)(16). [Pub. L. 111–327][/us/pl/111/327] substituted “under the plan” for “of the plan”.
 
-    2005—Subsec. (a)(9)(A). [Pub. L. 109–8, § 1502(a)(8)(A)][/us/pl/109/8/s1502/a/8/A], substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
+    2005—Subsec. (a)(9)(A). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(8)(A), substituted “507(a)(2) or 507(a)(3)” for “507(a)(1) or 507(a)(2)”.
 
-    Subsec. (a)(9)(B). [Pub. L. 109–8, § 1502(a)(8)(B)][/us/pl/109/8/s1502/a/8/B], substituted “507(a)(1)” for “507(a)(3)”.
+    Subsec. (a)(9)(B). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(8)(B), substituted “507(a)(1)” for “507(a)(3)”.
 
-    Subsec. (a)(9)(C). [Pub. L. 109–8, § 710(2)][/us/pl/109/8/s710/2], substituted “regular installment payments in cash—” and cls. (i) to (iii) for “deferred cash payments, over a period not exceeding six years after the date of assessment of such claim, of a value, as of the effective date of the plan, equal to the allowed amount of such claim.”
+    Subsec. (a)(9)(C). [Pub. L. 109–8][/us/pl/109/8], § 710(2), substituted “regular installment payments in cash—” and cls. (i) to (iii) for “deferred cash payments, over a period not exceeding six years after the date of assessment of such claim, of a value, as of the effective date of the plan, equal to the allowed amount of such claim.”
 
-    Subsec. (a)(9)(D). [Pub. L. 109–8, § 710(1)][/us/pl/109/8/s710/1], (3), added subpar. (D).
+    Subsec. (a)(9)(D). [Pub. L. 109–8][/us/pl/109/8], § 710(1), (3), added subpar. (D).
 
-    Subsec. (a)(14). [Pub. L. 109–8, § 213(1)][/us/pl/109/8/s213/1], added par. (14).
+    Subsec. (a)(14). [Pub. L. 109–8][/us/pl/109/8], § 213(1), added par. (14).
 
-    Subsec. (a)(15). [Pub. L. 109–8, § 321(c)(1)][/us/pl/109/8/s321/c/1], added par. (15).
+    Subsec. (a)(15). [Pub. L. 109–8][/us/pl/109/8], § 321(c)(1), added par. (15).
 
-    Subsec. (a)(16). [Pub. L. 109–8, § 1221(b)][/us/pl/109/8/s1221/b], added par. (16).
+    Subsec. (a)(16). [Pub. L. 109–8][/us/pl/109/8], § 1221(b), added par. (16).
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 109–8, § 321(c)(2)][/us/pl/109/8/s321/c/2], inserted before period at end “, except that in a case in which the debtor is an individual, the debtor may retain property included in the estate under section 1115, subject to the requirements of subsection (a)(14) of this section”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 109–8][/us/pl/109/8], § 321(c)(2), inserted before period at end “, except that in a case in which the debtor is an individual, the debtor may retain property included in the estate under section 1115, subject to the requirements of subsection (a)(14) of this section”.
 
-    Subsec. (e). [Pub. L. 109–8, § 438][/us/pl/109/8/s438], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 438, added subsec. (e).
 
-    1994—Subsec. (a)(4). [Pub. L. 103–394, § 501(d)(32)(A)(i)][/us/pl/103/394/s501/d/32/A/i], substituted period for semicolon at end.
+    1994—Subsec. (a)(4). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(32)(A)(i), substituted period for semicolon at end.
 
-    Subsec. (a)(9)(B). [Pub. L. 103–394, § 304(h)(7)(i)][/us/pl/103/394/s304/h/7/i], substituted “, 507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
+    Subsec. (a)(9)(B). [Pub. L. 103–394][/us/pl/103/394], § 304(h)(7)(i), substituted “, 507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
-    Subsec. (a)(9)(C). [Pub. L. 103–394, § 304(h)(7)(ii)][/us/pl/103/394/s304/h/7/ii], substituted “507(a)(8)” for “507(a)(7)”.
+    Subsec. (a)(9)(C). [Pub. L. 103–394][/us/pl/103/394], § 304(h)(7)(ii), substituted “507(a)(8)” for “507(a)(7)”.
 
-    Subsec. (a)(12). [Pub. L. 103–394, § 501(d)(32)(A)(ii)][/us/pl/103/394/s501/d/32/A/ii], inserted “of title 28” after “section 1930”.
+    Subsec. (a)(12). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(32)(A)(ii), inserted “of title 28” after “section 1930”.
 
-    Subsec. (d). [Pub. L. 103–394, § 501(d)(32)(B)][/us/pl/103/394/s501/d/32/B], struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933”.
+    Subsec. (d). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(32)(B), struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933”.
 
     1988—Subsec. (a)(13). [Pub. L. 100–334][/us/pl/100/334] added par. (13).
 
-    1986—Subsec. (a)(7). [Pub. L. 99–554, § 283(v)(1)][/us/pl/99/554/s283/v/1], struck out “of” after “to”.
+    1986—Subsec. (a)(7). [Pub. L. 99–554][/us/pl/99/554], § 283(v)(1), struck out “of” after “to”.
 
-    Subsec. (a)(9)(B). [Pub. L. 99–554, § 283(v)(2)][/us/pl/99/554/s283/v/2], inserted reference to section 507(a)(6).
+    Subsec. (a)(9)(B). [Pub. L. 99–554][/us/pl/99/554], § 283(v)(2), inserted reference to section 507(a)(6).
 
-    Subsec. (a)(9)(C). [Pub. L. 99–554, § 283(v)(3)][/us/pl/99/554/s283/v/3], substituted “507(a)(7)” for “507(a)(6)”.
+    Subsec. (a)(9)(C). [Pub. L. 99–554][/us/pl/99/554], § 283(v)(3), substituted “507(a)(7)” for “507(a)(6)”.
 
-    Subsec. (a)(12). [Pub. L. 99–554, § 225][/us/pl/99/554/s225], added par. (12).
+    Subsec. (a)(12). [Pub. L. 99–554][/us/pl/99/554], § 225, added par. (12).
 
-    1984—Subsec. (a)(1), (2). [Pub. L. 98–353, § 512(a)(1)][/us/pl/98/353/s512/a/1], (2), substituted “title” for “chapter”.
+    1984—Subsec. (a)(1), (2). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(1), (2), substituted “title” for “chapter”.
 
-    Subsec. (a)(4). [Pub. L. 98–353, § 512(a)(3)][/us/pl/98/353/s512/a/3], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(A) Any payment made or promised by the proponent, by the debtor, or by a person issuing securities or acquiring property under the plan, for services or for costs and expenses in, or in connection with, the case, or in connection with the plan and incident to the case, has been disclosed to the court; and (B)(i) any such payment made before confirmation of the plan is reasonable; or (ii) if such payment is to be fixed after confirmation of the plan, such payment is subject to the approval of the court as reasonable.”
+    Subsec. (a)(4). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(A) Any payment made or promised by the proponent, by the debtor, or by a person issuing securities or acquiring property under the plan, for services or for costs and expenses in, or in connection with, the case, or in connection with the plan and incident to the case, has been disclosed to the court; and (B)(i) any such payment made before confirmation of the plan is reasonable; or (ii) if such payment is to be fixed after confirmation of the plan, such payment is subject to the approval of the court as reasonable.”
 
-    Subsec. (a)(5)(A)(ii). [Pub. L. 98–353, § 512(a)(4)][/us/pl/98/353/s512/a/4], substituted “; and” for the period at the end.
+    Subsec. (a)(5)(A)(ii). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(4), substituted “; and” for the period at the end.
 
-    Subsec. (a)(5)(B). [Pub. L. 98–353, § 512(a)(5)][/us/pl/98/353/s512/a/5], substituted “the” for “The”.
+    Subsec. (a)(5)(B). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(5), substituted “the” for “The”.
 
-    Subsec. (a)(6). [Pub. L. 98–353, § 512(a)(6)][/us/pl/98/353/s512/a/6], inserted “governmental” after “Any”.
+    Subsec. (a)(6). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(6), inserted “governmental” after “Any”.
 
-    Subsec. (a)(7). [Pub. L. 98–353, § 512(a)(7)(A)][/us/pl/98/353/s512/a/7/A], substituted “of each impaired class of claims or interests” for “each class”.
+    Subsec. (a)(7). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(7)(A), substituted “of each impaired class of claims or interests” for “each class”.
 
-    Subsec. (a)(7)(B). [Pub. L. 98–353, § 512(a)(7)(B)][/us/pl/98/353/s512/a/7/B], substituted “holder’s” for “creditor’s”.
+    Subsec. (a)(7)(B). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(7)(B), substituted “holder’s” for “creditor’s”.
 
-    Subsec. (a)(8). [Pub. L. 98–353, § 512(a)(8)][/us/pl/98/353/s512/a/8], inserted “of claims or interests” after “each class”.
+    Subsec. (a)(8). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(8), inserted “of claims or interests” after “each class”.
 
-    Subsec. (a)(10). [Pub. L. 98–353, § 512(a)(9)][/us/pl/98/353/s512/a/9], substituted “If a class of claims is impaired under the plan, at least one class of claims that is impaired under the plan has accepted the plan, determined without including any acceptance of the plan by any insider” for “At least one class of claims has accepted the plan, determined without including any acceptance of the plan by any insider holding a claim of such class”.
+    Subsec. (a)(10). [Pub. L. 98–353][/us/pl/98/353], § 512(a)(9), substituted “If a class of claims is impaired under the plan, at least one class of claims that is impaired under the plan has accepted the plan, determined without including any acceptance of the plan by any insider” for “At least one class of claims has accepted the plan, determined without including any acceptance of the plan by any insider holding a claim of such class”.
 
-    Subsec. (b)(2)(A)(i)(I), (ii). [Pub. L. 98–353, § 512(b)(1)][/us/pl/98/353/s512/b/1], substituted “liens” for “lien” wherever appearing.
+    Subsec. (b)(2)(A)(i)(I), (ii). [Pub. L. 98–353][/us/pl/98/353], § 512(b)(1), substituted “liens” for “lien” wherever appearing.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 98–353, § 512(b)(2)][/us/pl/98/353/s512/b/2], inserted “under the plan” after “retain”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 98–353][/us/pl/98/353], § 512(b)(2), inserted “under the plan” after “retain”.
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 98–353, § 512(b)(3)][/us/pl/98/353/s512/b/3], substituted “interest” for “claim”, and “or the value” for “and the value”.
+    Subsec. (b)(2)(C)(i). [Pub. L. 98–353][/us/pl/98/353], § 512(b)(3), substituted “interest” for “claim”, and “or the value” for “and the value”.
 
-    Subsec. (d). [Pub. L. 98–353, § 512(c)][/us/pl/98/353/s512/c], inserted “the application of” and provisions requiring that in any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 512(c), inserted “the application of” and provisions requiring that in any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -593,17 +593,17 @@ However, in this latter case the senior debt would have been unfairly discrimina
 [/us/usc/t11/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1144
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2635
-[/us/pl/98/353/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F386
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3102
-[/us/pl/100/334/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334%2Fs2%2Fb
+[/us/pl/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334
 [/us/stat/102/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F613
-[/us/pl/103/394/s304/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F7
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4134
-[/us/pl/109/8/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F1
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F52
-[/us/pl/111/327/s2/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F35
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
 [/us/usc/t11/s616/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs616%2F7
 [/us/usc/t11/s616/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs616%2F8
@@ -617,39 +617,39 @@ However, in this latter case the senior debt would have been unfairly discrimina
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s1502/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F8%2FA
-[/us/pl/109/8/s1502/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F8%2FB
-[/us/pl/109/8/s710/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs710%2F2
-[/us/pl/109/8/s710/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs710%2F1
-[/us/pl/109/8/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs213%2F1
-[/us/pl/109/8/s321/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fc%2F1
-[/us/pl/109/8/s1221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1221%2Fb
-[/us/pl/109/8/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fc%2F2
-[/us/pl/109/8/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs438
-[/us/pl/103/394/s501/d/32/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F32%2FA%2Fi
-[/us/pl/103/394/s304/h/7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F7%2Fi
-[/us/pl/103/394/s304/h/7/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F7%2Fii
-[/us/pl/103/394/s501/d/32/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F32%2FA%2Fii
-[/us/pl/103/394/s501/d/32/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F32%2FB
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/pl/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334
-[/us/pl/99/554/s283/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fv%2F1
-[/us/pl/99/554/s283/v/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fv%2F2
-[/us/pl/99/554/s283/v/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fv%2F3
-[/us/pl/99/554/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs225
-[/us/pl/98/353/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F1
-[/us/pl/98/353/s512/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F3
-[/us/pl/98/353/s512/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F4
-[/us/pl/98/353/s512/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F5
-[/us/pl/98/353/s512/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F6
-[/us/pl/98/353/s512/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F7%2FA
-[/us/pl/98/353/s512/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F7%2FB
-[/us/pl/98/353/s512/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F8
-[/us/pl/98/353/s512/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fa%2F9
-[/us/pl/98/353/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fb%2F1
-[/us/pl/98/353/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fb%2F2
-[/us/pl/98/353/s512/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fb%2F3
-[/us/pl/98/353/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs512%2Fc
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8/s1221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1221%2Fb
 [/us/pl/109/8/s1221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1221%2Fd
 [/us/usc/t11/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs363

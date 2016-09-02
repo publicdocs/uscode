@@ -47,7 +47,7 @@
 
     (9) “United States trustee” includes a designee of the United States trustee.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2554][/us/stat/92/2554]; [Pub. L. 98–353, title III, § 422][/us/pl/98/353/s422], July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II, § 202][/us/pl/99/554/s202], Oct. 27, 1986, [100 Stat. 3097][/us/stat/100/3097].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2554][/us/stat/92/2554]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 422, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 202, Oct. 27, 1986, [100 Stat. 3097][/us/stat/100/3097].)
 
  __Historical and Revision Notes__ 
 
@@ -106,9 +106,9 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2554
-[/us/pl/98/353/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs422
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs202
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3097
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

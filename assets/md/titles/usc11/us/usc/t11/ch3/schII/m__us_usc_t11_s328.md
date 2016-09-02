@@ -21,7 +21,7 @@
 
     (c) Except as provided in section 327(c), 327(e), or 1107(b) of this title, the court may deny allowance of compensation for services and reimbursement of expenses of a professional person employed under section 327 or 1103 of this title if, at any time during such professional person’s employment under section 327 or 1103 of this title, such professional person is not a disinterested person, or represents or holds an interest adverse to the interest of the estate with respect to the matter on which such professional person is employed.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2563][/us/stat/92/2563]; [Pub. L. 98–353, title III, § 431][/us/pl/98/353/s431], July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 109–8, title XII, § 1206][/us/pl/109/8/s1206], Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2563][/us/stat/92/2563]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 431, July 10, 1984, [98 Stat. 370][/us/stat/98/370]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1206, Apr. 20, 2005, [119 Stat. 194][/us/stat/119/194].)
 
  __Historical and Revision Notes__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t11/s327/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs327%2Fd
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2563
-[/us/pl/98/353/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs431
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F370
-[/us/pl/109/8/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1206
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F194
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

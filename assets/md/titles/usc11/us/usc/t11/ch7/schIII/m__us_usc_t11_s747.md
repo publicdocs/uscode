@@ -31,7 +31,7 @@
 
     (4) an entity that, directly or indirectly, through agreement or otherwise, exercised or had the power to exercise control over the management or policies of the debtor.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222, § 13][/us/pl/97/222/s13], July 27, 1982, [96 Stat. 238][/us/stat/96/238].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222][/us/pl/97/222], § 13, July 27, 1982, [96 Stat. 238][/us/stat/96/238].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t11/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs510
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2613
-[/us/pl/97/222/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs13
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F238
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 

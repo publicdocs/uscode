@@ -25,7 +25,7 @@
 
     (b) Except as provided in section 1104 or a confirmed plan or order confirming a plan, the debtor shall remain in possession of all property of the estate.
 
-(Added [Pub. L. 109–8, title III, § 321(a)(1)][/us/pl/109/8/s321/a/1], Apr. 20, 2005, [119 Stat. 94][/us/stat/119/94].)
+(Added [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 321(a)(1), Apr. 20, 2005, [119 Stat. 94][/us/stat/119/94].)
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fa%2F1
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F94
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

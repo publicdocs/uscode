@@ -217,7 +217,7 @@ Amendments  </td>
 
 </table>
 
-    1988—[Pub. L. 100–597, § 11][/us/pl/100/597/s11], Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030], added items 927 to 929 and redesignated former item 927 as 930.
+    1988—[Pub. L. 100–597][/us/pl/100/597], § 11, Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030], added items 927 to 929 and redesignated former item 927 as 930.
 
 ----------
 
@@ -226,7 +226,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/100/597/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs11
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3030
 
 

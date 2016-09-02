@@ -77,7 +77,7 @@
 
         (2) Except as provided in [section 510 of this title][/us/usc/t11/s510], if a customer is not paid the full amount of such customer’s allowed net equity claim from customer property, the unpaid portion of such claim is a claim entitled to distribution under [section 726 of this title][/us/usc/t11/s726].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2619][/us/stat/92/2619]; [Pub. L. 97–222, § 19][/us/pl/97/222/s19], July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III, § 489][/us/pl/98/353/s489], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title XV, § 1502(a)(4)][/us/pl/109/8/s1502/a/4], Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2619][/us/stat/92/2619]; [Pub. L. 97–222][/us/pl/97/222], § 19, July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 489, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title XV][/us/pl/109/8/tXV], § 1502(a)(4), Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
 
  __Historical and Revision Notes__ 
 
@@ -159,19 +159,19 @@
 
  __Amendments__ 
 
-    2005—Subsec. (h). [Pub. L. 109–8, § 1502(a)(4)(A)][/us/pl/109/8/s1502/a/4/A], substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
+    2005—Subsec. (h). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 109–8, § 1502(a)(4)(B)][/us/pl/109/8/s1502/a/4/B], substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
+    Subsec. (i). [Pub. L. 109–8][/us/pl/109/8], § 1502(a)(4)(B), substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
 
     1984—Subsec. (j)(2). [Pub. L. 98–353][/us/pl/98/353] substituted “section 726” for “section 726(a)”.
 
-    1982—Subsec. (a). [Pub. L. 97–222, § 19(a)][/us/pl/97/222/s19/a], inserted “to such customer” after “distribution”.
+    1982—Subsec. (a). [Pub. L. 97–222][/us/pl/97/222], § 19(a), inserted “to such customer” after “distribution”.
 
-    Subsec. (b). [Pub. L. 97–222, § 19(b)][/us/pl/97/222/s19/b], struck out “that is being actively traded as of the date of the filing of the petition” after “any open commodity contract” and inserted “the” after “rules of”.
+    Subsec. (b). [Pub. L. 97–222][/us/pl/97/222], § 19(b), struck out “that is being actively traded as of the date of the filing of the petition” after “any open commodity contract” and inserted “the” after “rules of”.
 
-    Subsec. (d). [Pub. L. 97–222, § 19(c)][/us/pl/97/222/s19/c], substituted “the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such” for “such amount, then the” and “the trustee then shall” for “the trustee shall”.
+    Subsec. (d). [Pub. L. 97–222][/us/pl/97/222], § 19(c), substituted “the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such” for “such amount, then the” and “the trustee then shall” for “the trustee shall”.
 
-    Subsec. (h). [Pub. L. 97–222, § 19(d)][/us/pl/97/222/s19/d], inserted provision that notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
+    Subsec. (h). [Pub. L. 97–222][/us/pl/97/222], § 19(d), inserted provision that notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -196,22 +196,22 @@
 [/us/usc/t11/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2619
-[/us/pl/97/222/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs19
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F240
-[/us/pl/98/353/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs489
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/109/8/s1502/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F4
+[/us/pl/109/8/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXV
 [/us/stat/119/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F216
 [/us/usc/t11/s365/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365%2Fb%2F2
 [/us/usc/t11/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs365
 [/us/usc/t11/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs510
-[/us/pl/109/8/s1502/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F4%2FA
-[/us/pl/109/8/s1502/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F4%2FB
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/97/222/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs19%2Fa
-[/us/pl/97/222/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs19%2Fb
-[/us/pl/97/222/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs19%2Fc
-[/us/pl/97/222/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs19%2Fd
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -25,7 +25,7 @@
 
     (c) An interim trustee serving under this section is a trustee in a case under this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2604][/us/stat/92/2604]; [Pub. L. 99–554, title II, § 215][/us/pl/99/554/s215], Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2604][/us/stat/92/2604]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 215, Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
 
  __Historical and Revision Notes__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2604
-[/us/pl/99/554/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs215
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3100
 [/us/usc/t28/s604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604%2Fe
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

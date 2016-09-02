@@ -43,7 +43,7 @@
 
     Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
 
-(Added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–395; amended [Pub. L. 110–289, div. A, title VI, § 1604(b)(3)][/us/pl/110/289/s1604/b/3], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–395; amended [Pub. L. 110–289, div. A, title VI][/us/pl/110/289/dA/tVI], § 1604(b)(3), July 30, 2008, [122 Stat. 2829][/us/stat/122/2829].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/289/s1604/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1604%2Fb%2F3
+[/us/pl/110/289/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtVI
 [/us/stat/122/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2829
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289

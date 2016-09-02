@@ -351,7 +351,7 @@
 
         (2) Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 306, 453, July 10, 1984, [98 Stat. 353][/us/stat/98/353], 375; [Pub. L. 99–554, title II, § 283(i)][/us/pl/99/554/s283/i], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 101–647, title XXV, § 2522(b)][/us/pl/101/647/s2522/b], Nov. 29, 1990, [104 Stat. 4866][/us/stat/104/4866]; [Pub. L. 103–394, title I, § 108(d)][/us/pl/103/394/s108/d], title III, §§ 303, 304(d), 310, title V, § 501(d)(12), Oct. 22, 1994, [108 Stat. 4112][/us/stat/108/4112], 4132, 4133, 4137, 4145; [Pub. L. 106–420, § 4][/us/pl/106/420/s4], Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868]; [Pub. L. 109–8, title II][/us/pl/109/8], §§ 216, 224(a), (e)(1), title III, §§ 307, 308, 313(a), 322(a), Apr. 20, 2005, [119 Stat. 55][/us/stat/119/55], 62, 65, 81, 87, 96; [Pub. L. 111–327, § 2(a)(17)][/us/pl/111/327/s2/a/17], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 306, 453, July 10, 1984, [98 Stat. 353][/us/stat/98/353], 375; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(i), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2522(b), Nov. 29, 1990, [104 Stat. 4866][/us/stat/104/4866]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 108(d), title III, §§ 303, 304(d), 310, title V, § 501(d)(12), Oct. 22, 1994, [108 Stat. 4112][/us/stat/108/4112], 4132, 4133, 4137, 4145; [Pub. L. 106–420][/us/pl/106/420], § 4, Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868]; [Pub. L. 109–8, title II][/us/pl/109/8/tII], §§ 216, 224(a), (e)(1), title III, §§ 307, 308, 313(a), 322(a), Apr. 20, 2005, [119 Stat. 55][/us/stat/119/55], 62, 65, 81, 87, 96; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(17), Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -497,33 +497,33 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3)(A). [Pub. L. 111–327, § 2(a)(17)(A)][/us/pl/111/327/s2/a/17/A], substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
+    2010—Subsec. (b)(3)(A). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
 
-    Subsec. (c)(1). [Pub. L. 111–327, § 2(a)(17)(B)][/us/pl/111/327/s2/a/17/B], substituted “such paragraph” for “section 523(a)(5)”.
+    Subsec. (c)(1). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(17)(B), substituted “such paragraph” for “section 523(a)(5)”.
 
-    2005—Subsec. (b). [Pub. L. 109–8, § 224(a)(1)(B)][/us/pl/109/8/s224/a/1/B]–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
+    2005—Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
 
-    Subsec. (b)(2). [Pub. L. 109–8, § 224(a)(1)(B)][/us/pl/109/8/s224/a/1/B], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(2)(C). [Pub. L. 109–8, § 224(a)(1)(A)(i)][/us/pl/109/8/s224/a/1/A/i]–(iii), added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(1)(A)(i)–(iii), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 109–8, § 307(2)][/us/pl/109/8/s307/2], inserted “If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).” at end.
+    Subsec. (b)(3). [Pub. L. 109–8][/us/pl/109/8], § 307(2), inserted “If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).” at end.
 
-    [Pub. L. 109–8, § 224(a)(1)(A)(iv)][/us/pl/109/8/s224/a/1/A/iv], redesignated par. (2) as (3) and inserted introductory provisions.
+    [Pub. L. 109–8][/us/pl/109/8], § 224(a)(1)(A)(iv), redesignated par. (2) as (3) and inserted introductory provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 109–8, § 308(1)][/us/pl/109/8/s308/1], inserted “subject to subsections (o) and (p),” before “any property”.
+    Subsec. (b)(3)(A). [Pub. L. 109–8][/us/pl/109/8], § 308(1), inserted “subject to subsections (o) and (p),” before “any property”.
 
-    [Pub. L. 109–8, § 307(1)][/us/pl/109/8/s307/1], substituted “730 days” for “180 days” and “or if the debtor’s domicile has not been located at a single State for such 730-day period, the place in which the debtor’s domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place” for “, or for a longer portion of such 180-day period than in any other place”.
+    [Pub. L. 109–8][/us/pl/109/8], § 307(1), substituted “730 days” for “180 days” and “or if the debtor’s domicile has not been located at a single State for such 730-day period, the place in which the debtor’s domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place” for “, or for a longer portion of such 180-day period than in any other place”.
 
-    Subsec. (b)(4). [Pub. L. 109–8, § 224(a)(1)(G)][/us/pl/109/8/s224/a/1/G], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(1)(G), added par. (4).
 
-    Subsec. (c)(1). [Pub. L. 109–8, § 216(1)][/us/pl/109/8/s216/1], added par. (1) and struck out former par. (1) which read as follows: “a debt of a kind specified in section 523(a)(1) or 523(a)(5) of this title;”.
+    Subsec. (c)(1). [Pub. L. 109–8][/us/pl/109/8], § 216(1), added par. (1) and struck out former par. (1) which read as follows: “a debt of a kind specified in section 523(a)(1) or 523(a)(5) of this title;”.
 
-    Subsec. (d). [Pub. L. 109–8, § 224(a)(2)(A)][/us/pl/109/8/s224/a/2/A], substituted “subsection (b)(2)” for “subsection (b)(1)” in introductory provisions.
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(2)(A), substituted “subsection (b)(2)” for “subsection (b)(1)” in introductory provisions.
 
-    Subsec. (d)(12). [Pub. L. 109–8, § 224(a)(2)(B)][/us/pl/109/8/s224/a/2/B], added par. (12).
+    Subsec. (d)(12). [Pub. L. 109–8][/us/pl/109/8], § 224(a)(2)(B), added par. (12).
 
-    Subsec. (f)(1)(A). [Pub. L. 109–8, § 216(2)][/us/pl/109/8/s216/2], substituted “a debt of a kind that is specified in section 523(a)(5); or” for “a debt—
+    Subsec. (f)(1)(A). [Pub. L. 109–8][/us/pl/109/8], § 216(2), substituted “a debt of a kind that is specified in section 523(a)(5); or” for “a debt—
 
     “(i) to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement; and
 
@@ -533,27 +533,27 @@
 
     “(II) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support.; or”.
 
-    Subsec. (f)(4). [Pub. L. 109–8, § 313(a)][/us/pl/109/8/s313/a], added par. (4).
+    Subsec. (f)(4). [Pub. L. 109–8][/us/pl/109/8], § 313(a), added par. (4).
 
-    Subsec. (g)(2). [Pub. L. 109–8, § 216(3)][/us/pl/109/8/s216/3], substituted “subsection (f)(1)(B)” for “subsection (f)(2)”.
+    Subsec. (g)(2). [Pub. L. 109–8][/us/pl/109/8], § 216(3), substituted “subsection (f)(1)(B)” for “subsection (f)(2)”.
 
-    Subsec. (n). [Pub. L. 109–8, § 224(e)(1)][/us/pl/109/8/s224/e/1], added subsec. (n).
+    Subsec. (n). [Pub. L. 109–8][/us/pl/109/8], § 224(e)(1), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 109–8, § 308(2)][/us/pl/109/8/s308/2], added subsec. (o).
+    Subsec. (o). [Pub. L. 109–8][/us/pl/109/8], § 308(2), added subsec. (o).
 
-    Subsecs. (p), (q). [Pub. L. 109–8, § 322(a)][/us/pl/109/8/s322/a], added subsecs. (p) and (q).
+    Subsecs. (p), (q). [Pub. L. 109–8][/us/pl/109/8], § 322(a), added subsecs. (p) and (q).
 
     2000—Subsec. (c)(4). [Pub. L. 106–420][/us/pl/106/420] added par. (4).
 
-    1994—Subsec. (b). [Pub. L. 103–394, § 501(d)(12)(A)][/us/pl/103/394/s501/d/12/A], substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
+    1994—Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 
-    Subsec. (d)(1) to (6). [Pub. L. 103–394, § 108(d)(1)][/us/pl/103/394/s108/d/1]–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
+    Subsec. (d)(1) to (6). [Pub. L. 103–394][/us/pl/103/394], § 108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
 
-    Subsec. (d)(8). [Pub. L. 103–394, § 108(d)(7)][/us/pl/103/394/s108/d/7], substituted “$8,000” for “$4,000”.
+    Subsec. (d)(8). [Pub. L. 103–394][/us/pl/103/394], § 108(d)(7), substituted “$8,000” for “$4,000”.
 
-    Subsec. (d)(10)(E)(iii). [Pub. L. 103–394, § 501(d)(12)(B)][/us/pl/103/394/s501/d/12/B], substituted “or 408” for “408, or 409” and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 ([26 U.S.C. 401(a)][/us/usc/t26/s401/a], 403(a), 403(b), 408, or 409)”.
+    Subsec. (d)(10)(E)(iii). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(12)(B), substituted “or 408” for “408, or 409” and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 ([26 U.S.C. 401(a)][/us/usc/t26/s401/a], 403(a), 403(b), 408, or 409)”.
 
-    Subsec. (d)(11)(D). [Pub. L. 103–394, § 108(d)(8)][/us/pl/103/394/s108/d/8], substituted “$15,000” for “$7,500”.
+    Subsec. (d)(11)(D). [Pub. L. 103–394][/us/pl/103/394], § 108(d)(8), substituted “$15,000” for “$7,500”.
 
     Subsec. (f)(1). [Pub. L. 103–394][/us/pl/103/394], §§ 303(3), 310(1), designated existing provisions as par. (1) and inserted “but subject to paragraph (3)” after “waiver of exemptions” in introductory provisions. Former par. (1) redesignated subpar. (A) of par. (1).
 
@@ -567,23 +567,23 @@
 
     “(II) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support.”
 
-    Subsec. (f)(1)(B). [Pub. L. 103–394, § 303(1)][/us/pl/103/394/s303/1], redesignated par. (2) as subpar. (B) of par. (1) and subpars. (A) to (C) of par. (2) as cls. (i) to (iii), respectively, of subpar. (B) of par. (1).
+    Subsec. (f)(1)(B). [Pub. L. 103–394][/us/pl/103/394], § 303(1), redesignated par. (2) as subpar. (B) of par. (1) and subpars. (A) to (C) of par. (2) as cls. (i) to (iii), respectively, of subpar. (B) of par. (1).
 
-    Subsec. (f)(2). [Pub. L. 103–394, § 303(4)][/us/pl/103/394/s303/4], added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
+    Subsec. (f)(2). [Pub. L. 103–394][/us/pl/103/394], § 303(4), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-    Subsec. (f)(3). [Pub. L. 103–394, § 310(2)][/us/pl/103/394/s310/2], added par. (3).
+    Subsec. (f)(3). [Pub. L. 103–394][/us/pl/103/394], § 310(2), added par. (3).
 
     1990—Subsec. (c)(3). [Pub. L. 101–647][/us/pl/101/647] added par. (3).
 
-    1986—Subsec. (h)(1). [Pub. L. 99–554, § 283(i)(1)][/us/pl/99/554/s283/i/1], substituted “553 of this title” for “553 of this tittle”.
+    1986—Subsec. (h)(1). [Pub. L. 99–554][/us/pl/99/554], § 283(i)(1), substituted “553 of this title” for “553 of this tittle”.
 
-    Subsec. (i)(2). [Pub. L. 99–554, § 283(i)(2)][/us/pl/99/554/s283/i/2], substituted “this” for “his” after “subsection (g) of”.
+    Subsec. (i)(2). [Pub. L. 99–554][/us/pl/99/554], § 283(i)(2), substituted “this” for “his” after “subsection (g) of”.
 
-    1984—Subsec. (a)(2). [Pub. L. 98–353, § 453(a)][/us/pl/98/353/s453/a], inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
+    1984—Subsec. (a)(2). [Pub. L. 98–353][/us/pl/98/353], § 453(a), inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
 
-    Subsec. (b). [Pub. L. 98–353, § 306(a)][/us/pl/98/353/s306/a], inserted provision that in joint cases filed under [section 302 of this title][/us/usc/t11/s302] and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
+    Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 306(a), inserted provision that in joint cases filed under [section 302 of this title][/us/usc/t11/s302] and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
-    Subsec. (c). [Pub. L. 98–353, § 453(b)][/us/pl/98/353/s453/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under [section 502 of this title][/us/usc/t11/s502] as if such claim had arisen before the commencement of the case, except—
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under [section 502 of this title][/us/usc/t11/s502] as if such claim had arisen before the commencement of the case, except—
 
     “(1) a debt of a kind specified in section 523(a)(1) or [section 523(a)(5) of this title][/us/usc/t11/s523/a/5]; or
 
@@ -597,13 +597,13 @@
 
     “(ii) avoided under [section 545(2) of this title][/us/usc/t11/s545/2].”
 
-    Subsec. (d)(3). [Pub. L. 98–353, § 306(b)][/us/pl/98/353/s306/b], inserted “or $4,000 in aggregate value”.
+    Subsec. (d)(3). [Pub. L. 98–353][/us/pl/98/353], § 306(b), inserted “or $4,000 in aggregate value”.
 
-    Subsec. (d)(5). [Pub. L. 98–353, § 306(c)][/us/pl/98/353/s306/c], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The debtor’s aggregate interest, not to exceed in value $400 plus any unused amount of the exemption provided under paragraph (1) of this subsection, in any property.”
+    Subsec. (d)(5). [Pub. L. 98–353][/us/pl/98/353], § 306(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The debtor’s aggregate interest, not to exceed in value $400 plus any unused amount of the exemption provided under paragraph (1) of this subsection, in any property.”
 
-    Subsec. (e). [Pub. L. 98–353, § 453(c)][/us/pl/98/353/s453/c], substituted “an exemption” for “exemptions”.
+    Subsec. (e). [Pub. L. 98–353][/us/pl/98/353], § 453(c), substituted “an exemption” for “exemptions”.
 
-    Subsec. (m). [Pub. L. 98–353, § 306(d)][/us/pl/98/353/s306/d], substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
+    Subsec. (m). [Pub. L. 98–353][/us/pl/98/353], § 306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -625,7 +625,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title][/us/usc/t11/s104] as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount “21,625” was adjusted to “22,975”; in subsec. (d)(2), dollar amount “3,450” was adjusted to “3,675”; in subsec. (d)(3), dollar amounts “550” and “11,525” were adjusted to “575” and “12,250”, respectively; in subsec. (d)(4), dollar amount “1,450” was adjusted to “1,550”; in subsec. (d)(5), dollar amounts “1,150” and “10,825” were adjusted to “1,225” and “11,500”, respectively; in subsec. (d)(6), dollar amount “2,175” was adjusted to “2,300”; in subsec. (d)(8), dollar amount “11,525” was adjusted to “12,250”; in subsec. (d)(11)(D), dollar amount “21,625” was adjusted to “22,975”; in subsec. (f)(3), dollar amount “5,850” was adjusted to “6,225”; in subsec. (f)(4), dollar amount “600” was adjusted to “650” each time it appeared; in subsec. (n), dollar amount “1,171,650” was adjusted to “1,245,475”; in subsec. (p), dollar amount “146,450” was adjusted to “155,675”; and, in subsec. (q), dollar amount “146,450” was adjusted to “155,675”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount “22,975” was adjusted to “23,675”; in subsec. (d)(2), dollar amount “3,675” was adjusted to “3,775”; in subsec. (d)(3), dollar amounts “575” and “12,250” were adjusted to “600” and “12,625”, respectively; in subsec. (d)(4), dollar amount “1,550” was adjusted to “1,600”; in subsec. (d)(5), dollar amounts “1,225” and “11,500” were adjusted to “1,250” and “11,850”, respectively; in subsec. (d)(6), dollar amount “2,300” was adjusted to “2,375”; in subsec. (d)(8), dollar amount “12,250” was adjusted to “12,625”; in subsec. (d)(11)(D), dollar amount “22,975” was adjusted to “23,675”; in subsec. (f)(3), dollar amount “6,225” was adjusted to “6,425”; in subsec. (f)(4), dollar amount “650” was adjusted to “675” each time it appeared; in subsec. (n), dollar amount “1,245,475” was adjusted to “1,283,025”; in subsec. (p), dollar amount “155,675” was adjusted to “160,375”; and, in subsec. (q), dollar amount “155,675” was adjusted to “160,375”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount “21,625” was adjusted to “22,975”; in subsec. (d)(2), dollar amount “3,450” was adjusted to “3,675”; in subsec. (d)(3), dollar amounts “550” and “11,525” were adjusted to “575” and “12,250”, respectively; in subsec. (d)(4), dollar amount “1,450” was adjusted to “1,550”; in subsec. (d)(5), dollar amounts “1,150” and “10,825” were adjusted to “1,225” and “11,500”, respectively; in subsec. (d)(6), dollar amount “2,175” was adjusted to “2,300”; in subsec. (d)(8), dollar amount “11,525” was adjusted to “12,250”; in subsec. (d)(11)(D), dollar amount “21,625” was adjusted to “22,975”; in subsec. (f)(3), dollar amount “5,850” was adjusted to “6,225”; in subsec. (f)(4), dollar amount “600” was adjusted to “650” each time it appeared; in subsec. (n), dollar amount “1,171,650” was adjusted to “1,245,475”; in subsec. (p), dollar amount “146,450” was adjusted to “155,675”; and, in subsec. (q), dollar amount “146,450” was adjusted to “155,675”.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount “20,200” was adjusted to “21,625”; in subsec. (d)(2), dollar amount “3,225” was adjusted to “3,450”; in subsec. (d)(3), dollar amounts “525” and “10,775” were adjusted to “550” and “11,525”, respectively; in subsec. (d)(4), dollar amount “1,350” was adjusted to “1,450”; in subsec. (d)(5), dollar amounts “1,075” and “10,125” were adjusted to “1,150” and “10,825”, respectively; in subsec. (d)(6), dollar amount “2,025” was adjusted to “2,175”; in subsec. (d)(8), dollar amount “10,775” was adjusted to “11,525”; in subsec. (d)(11)(D), dollar amount “20,200” was adjusted to “21,625”; in subsec. (f)(3)(B), dollar amount “5,475” was adjusted to “5,850”; in subsec. (f)(4)(B), dollar amount “550” was adjusted to “600” each time it appeared; in subsec. (n), dollar amount “1,095,000” was adjusted to “1,171,650”; in subsec. (p)(1), dollar amount “136,875” was adjusted to “146,450”; and, in subsec. (q)(1), dollar amount “136,875” was adjusted to “146,450”.
 
@@ -658,19 +660,19 @@
 [/us/usc/t18/s1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1964
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2586
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F353
-[/us/pl/99/554/s283/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fi
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3117
-[/us/pl/101/647/s2522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2522%2Fb
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4866
-[/us/pl/103/394/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fd
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4112
-[/us/pl/106/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420%2Fs4
+[/us/pl/106/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420
 [/us/stat/114/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1868
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F55
-[/us/pl/111/327/s2/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F17
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
 [/us/usc/t22/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1104
 [/us/usc/t22/s4060/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4060%2Fc
@@ -708,52 +710,52 @@
 [/us/usc/t11/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs544
 [/us/usc/t11/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs546
 [/us/usc/t15/s77f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77f
-[/us/pl/111/327/s2/a/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F17%2FA
-[/us/pl/111/327/s2/a/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F17%2FB
-[/us/pl/109/8/s224/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F1%2FB
-[/us/pl/109/8/s224/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F1%2FB
-[/us/pl/109/8/s224/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F1%2FA%2Fi
-[/us/pl/109/8/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs307%2F2
-[/us/pl/109/8/s224/a/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F1%2FA%2Fiv
-[/us/pl/109/8/s308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs308%2F1
-[/us/pl/109/8/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs307%2F1
-[/us/pl/109/8/s224/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F1%2FG
-[/us/pl/109/8/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs216%2F1
-[/us/pl/109/8/s224/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F2%2FA
-[/us/pl/109/8/s224/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fa%2F2%2FB
-[/us/pl/109/8/s216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs216%2F2
-[/us/pl/109/8/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs313%2Fa
-[/us/pl/109/8/s216/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs216%2F3
-[/us/pl/109/8/s224/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs224%2Fe%2F1
-[/us/pl/109/8/s308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs308%2F2
-[/us/pl/109/8/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs322%2Fa
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/106/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420
-[/us/pl/103/394/s501/d/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F12%2FA
-[/us/pl/103/394/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fd%2F1
-[/us/pl/103/394/s108/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fd%2F7
-[/us/pl/103/394/s501/d/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F12%2FB
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t26/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fa
-[/us/pl/103/394/s108/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs108%2Fd%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/103/394/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs303%2F1
-[/us/pl/103/394/s303/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs303%2F4
-[/us/pl/103/394/s310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs310%2F2
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/99/554/s283/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fi%2F1
-[/us/pl/99/554/s283/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fi%2F2
-[/us/pl/98/353/s453/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs453%2Fa
-[/us/pl/98/353/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs306%2Fa
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs302
-[/us/pl/98/353/s453/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs453%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502
 [/us/usc/t11/s523/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523%2Fa%2F5
 [/us/usc/t11/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs506%2Fd
 [/us/usc/t11/s545/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs545%2F2
-[/us/pl/98/353/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs306%2Fb
-[/us/pl/98/353/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs306%2Fc
-[/us/pl/98/353/s453/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs453%2Fc
-[/us/pl/98/353/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs306%2Fd
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

@@ -109,7 +109,7 @@
 
         (3) other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2581][/us/stat/92/2581]; [Pub. L. 98–353, title III, § 446][/us/pl/98/353/s446], July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 99–554, title II, § 283(g)][/us/pl/99/554/s283/g], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 103–394, title I, § 110][/us/pl/103/394/s110], title II, § 213(c), title III, § 304(h)(2), Oct. 22, 1994, [108 Stat. 4113][/us/stat/108/4113], 4126, 4134; [Pub. L. 109–8, title III][/us/pl/109/8], §§ 329, 331, title IV, § 445, title VII, § 712(b), (c), title XI, § 1103, title XII, §§ 1208, 1227(b), Apr. 20, 2005, [119 Stat. 101][/us/stat/119/101], 102, 117, 128, 190, 194, 200.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2581][/us/stat/92/2581]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 446, July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(g), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 110, title II, § 213(c), title III, § 304(h)(2), Oct. 22, 1994, [108 Stat. 4113][/us/stat/108/4113], 4126, 4134; [Pub. L. 109–8, title III][/us/pl/109/8/tIII], §§ 329, 331, title IV, § 445, title VII, § 712(b), (c), title XI, § 1103, title XII, §§ 1208, 1227(b), Apr. 20, 2005, [119 Stat. 101][/us/stat/119/101], 102, 117, 128, 190, 194, 200.)
 
  __Historical and Revision Notes__ 
 
@@ -137,47 +137,47 @@
 
  __Amendments__ 
 
-    2005—Subsec. (b)(1)(A). [Pub. L. 109–8, § 329][/us/pl/109/8/s329], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
+    2005—Subsec. (b)(1)(A). [Pub. L. 109–8][/us/pl/109/8], § 329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 109–8, § 712(b)][/us/pl/109/8/s712/b], inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 109–8][/us/pl/109/8], § 712(b), inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
 
-    Subsec. (b)(1)(D). [Pub. L. 109–8, § 712(c)][/us/pl/109/8/s712/c], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 109–8][/us/pl/109/8], § 712(c), added subpar. (D).
 
-    Subsec. (b)(4). [Pub. L. 109–8, § 1208][/us/pl/109/8/s1208], inserted “subparagraph (A), (B), (C), (D), or (E) of” before “paragraph (3)”.
+    Subsec. (b)(4). [Pub. L. 109–8][/us/pl/109/8], § 1208, inserted “subparagraph (A), (B), (C), (D), or (E) of” before “paragraph (3)”.
 
-    Subsec. (b)(7). [Pub. L. 109–8, § 445][/us/pl/109/8/s445], added par. (7).
+    Subsec. (b)(7). [Pub. L. 109–8][/us/pl/109/8], § 445, added par. (7).
 
-    Subsec. (b)(8). [Pub. L. 109–8, § 1103][/us/pl/109/8/s1103], added par. (8).
+    Subsec. (b)(8). [Pub. L. 109–8][/us/pl/109/8], § 1103, added par. (8).
 
-    Subsec. (b)(9). [Pub. L. 109–8, § 1227(b)][/us/pl/109/8/s1227/b], added par. (9).
+    Subsec. (b)(9). [Pub. L. 109–8][/us/pl/109/8], § 1227(b), added par. (9).
 
-    Subsec. (c). [Pub. L. 109–8, § 331][/us/pl/109/8/s331], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 331, added subsec. (c).
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 213(c)][/us/pl/103/394/s213/c], inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 213(c), inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 103–394, § 304(h)(2)][/us/pl/103/394/s304/h/2], substituted “507(a)(8)” for “507(a)(7)”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 103–394][/us/pl/103/394], § 304(h)(2), substituted “507(a)(8)” for “507(a)(7)”.
 
-    Subsec. (b)(3)(F). [Pub. L. 103–394, § 110][/us/pl/103/394/s110], added subpar. (F).
+    Subsec. (b)(3)(F). [Pub. L. 103–394][/us/pl/103/394], § 110, added subpar. (F).
 
-    1986—Subsec. (b)(1)(B)(i). [Pub. L. 99–554, § 283(g)(1)][/us/pl/99/554/s283/g/1], substituted “507(a)(7)” for “507(a)(6)”.
+    1986—Subsec. (b)(1)(B)(i). [Pub. L. 99–554][/us/pl/99/554], § 283(g)(1), substituted “507(a)(7)” for “507(a)(6)”.
 
-    Subsec. (b)(5). [Pub. L. 99–554, § 283(g)(2)][/us/pl/99/554/s283/g/2], inserted “and” after “title;”.
+    Subsec. (b)(5). [Pub. L. 99–554][/us/pl/99/554], § 283(g)(2), inserted “and” after “title;”.
 
-    Subsec. (b)(6). [Pub. L. 99–554, § 283(g)(3)][/us/pl/99/554/s283/g/3], substituted a period for “; and”.
+    Subsec. (b)(6). [Pub. L. 99–554][/us/pl/99/554], § 283(g)(3), substituted a period for “; and”.
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 446(1)][/us/pl/98/353/s446/1], struck out the comma after “be allowed” in provisions preceding par. (1).
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 446(1), struck out the comma after “be allowed” in provisions preceding par. (1).
 
-    Subsec. (b)(1)(C). [Pub. L. 98–353, § 446(2)][/us/pl/98/353/s446/2], struck out the comma after “credit”.
+    Subsec. (b)(1)(C). [Pub. L. 98–353][/us/pl/98/353], § 446(2), struck out the comma after “credit”.
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 446(3)][/us/pl/98/353/s446/3], inserted “(a)” after “330”.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 446(3), inserted “(a)” after “330”.
 
-    Subsec. (b)(3). [Pub. L. 98–353, § 446(4)][/us/pl/98/353/s446/4], inserted a comma after “paragraph (4) of this subsection”.
+    Subsec. (b)(3). [Pub. L. 98–353][/us/pl/98/353], § 446(4), inserted a comma after “paragraph (4) of this subsection”.
 
-    Subsec. (b)(3)(C). [Pub. L. 98–353, § 446(5)][/us/pl/98/353/s446/5], struck out the comma after “case”.
+    Subsec. (b)(3)(C). [Pub. L. 98–353][/us/pl/98/353], § 446(5), struck out the comma after “case”.
 
-    Subsec. (b)(5). [Pub. L. 98–353, § 446(6)][/us/pl/98/353/s446/6], struck out “and” after “title;”.
+    Subsec. (b)(5). [Pub. L. 98–353][/us/pl/98/353], § 446(6), struck out “and” after “title;”.
 
-    Subsec. (b)(6). [Pub. L. 98–353, § 446(7)][/us/pl/98/353/s446/7], substituted “; and” for period at end.
+    Subsec. (b)(6). [Pub. L. 98–353][/us/pl/98/353], § 446(7), substituted “; and” for period at end.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -212,35 +212,35 @@
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2581
-[/us/pl/98/353/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F374
-[/us/pl/99/554/s283/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fg
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3117
-[/us/pl/103/394/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs110
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4113
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F101
-[/us/pl/109/8/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs329
-[/us/pl/109/8/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs712%2Fb
-[/us/pl/109/8/s712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs712%2Fc
-[/us/pl/109/8/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1208
-[/us/pl/109/8/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs445
-[/us/pl/109/8/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1103
-[/us/pl/109/8/s1227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1227%2Fb
-[/us/pl/109/8/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs331
-[/us/pl/103/394/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs213%2Fc
-[/us/pl/103/394/s304/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fh%2F2
-[/us/pl/103/394/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs110
-[/us/pl/99/554/s283/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fg%2F1
-[/us/pl/99/554/s283/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fg%2F2
-[/us/pl/99/554/s283/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fg%2F3
-[/us/pl/98/353/s446/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F1
-[/us/pl/98/353/s446/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F2
-[/us/pl/98/353/s446/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F3
-[/us/pl/98/353/s446/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F4
-[/us/pl/98/353/s446/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F5
-[/us/pl/98/353/s446/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F6
-[/us/pl/98/353/s446/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs446%2F7
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -17,7 +17,7 @@
 
     Unless the court, on request of a party in interest and after notice and a hearing, orders otherwise, the trustee may operate the debtor’s business.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2629][/us/stat/92/2629]; [Pub. L. 98–353, title III, § 504][/us/pl/98/353/s504], July 10, 1984, [98 Stat. 384][/us/stat/98/384].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2629][/us/stat/92/2629]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 504, July 10, 1984, [98 Stat. 384][/us/stat/98/384].)
 
  __Historical and Revision Notes__ 
 
@@ -50,7 +50,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2629
-[/us/pl/98/353/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs504
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
 [/us/usc/t11/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1107
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

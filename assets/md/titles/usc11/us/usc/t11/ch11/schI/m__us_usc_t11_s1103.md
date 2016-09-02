@@ -35,7 +35,7 @@
 
     (d) As soon as practicable after the appointment of a committee under [section 1102 of this title][/us/usc/t11/s1102], the trustee shall meet with such committee to transact such business as may be necessary and proper.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2627][/us/stat/92/2627]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 324, 500, July 10, 1984, [98 Stat. 358][/us/stat/98/358], 384.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2627][/us/stat/92/2627]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 324, 500, July 10, 1984, [98 Stat. 358][/us/stat/98/358], 384.)
 
  __Historical and Revision Notes__ 
 
@@ -61,9 +61,9 @@
 
     1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], §§ 324, 500(a), substituted “An attorney or accountant” for “A person”, substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
-    Subsec. (c)(3). [Pub. L. 98–353, § 500(b)(1)][/us/pl/98/353/s500/b/1], substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
+    Subsec. (c)(3). [Pub. L. 98–353][/us/pl/98/353], § 500(b)(1), substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
 
-    Subsec. (c)(4). [Pub. L. 98–353, § 500(b)(2)][/us/pl/98/353/s500/b/2], struck out “if a trustee or examiner, as the case may be, has not previously been appointed under this chapter in the case” after “[section 1104 of this title][/us/usc/t11/s1104]”.
+    Subsec. (c)(4). [Pub. L. 98–353][/us/pl/98/353], § 500(b)(2), struck out “if a trustee or examiner, as the case may be, has not previously been appointed under this chapter in the case” after “[section 1104 of this title][/us/usc/t11/s1104]”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -83,11 +83,11 @@
 [/us/usc/t11/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1102
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2627
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F358
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/98/353/s500/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs500%2Fb%2F1
-[/us/pl/98/353/s500/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs500%2Fb%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1104
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa

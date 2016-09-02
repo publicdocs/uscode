@@ -31,7 +31,7 @@
 
     (c) An order under subsection (a) of this section dismissing a case or suspending all proceedings in a case, or a decision not so to dismiss or suspend, is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of title 28 or by the Supreme Court of the United States under [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 101–650, title III, § 309(a)][/us/pl/101/650/s309/a], Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113]; [Pub. L. 102–198, § 5][/us/pl/102/198/s5], Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 109–8, title VIII, § 802(d)(6)][/us/pl/109/8/s802/d/6], Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 309(a), Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113]; [Pub. L. 102–198][/us/pl/102/198], § 5, Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(d)(6), Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
 
  __Historical and Revision Notes__ 
 
@@ -67,11 +67,11 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2561
-[/us/pl/101/650/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs309%2Fa
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5113
-[/us/pl/102/198/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs5
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1623
-[/us/pl/109/8/s802/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F6
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F146
 [/us/usc/t28/s1471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1471%2Fc
 [/us/usc/t11/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs304%2Fc

@@ -25,7 +25,7 @@
 
     (c) Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under [section 741(4)(B) of this title][/us/usc/t11/s741/4/B], shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2614][/us/stat/92/2614]; [Pub. L. 97–222, § 15][/us/pl/97/222/s15], July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 98–353, title III, § 484][/us/pl/98/353/s484], July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title XV, § 1502(a)(3)][/us/pl/109/8/s1502/a/3], Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2614][/us/stat/92/2614]; [Pub. L. 97–222][/us/pl/97/222], § 15, July 27, 1982, [96 Stat. 238][/us/stat/96/238]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 484, July 10, 1984, [98 Stat. 383][/us/stat/98/383]; [Pub. L. 109–8, title XV][/us/pl/109/8/tXV], § 1502(a)(3), Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
 
  __Historical and Revision Notes__ 
 
@@ -41,9 +41,9 @@
 
     2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8] substituted “507(a)(2)” for “507(a)(1)”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 484(a)][/us/pl/98/353/s484/a], substituted “customers’ allowed” for “customers allowed”, “except claims of the kind” for “except claims”, and “such customer property” for “customer property”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 484(a), substituted “customers’ allowed” for “customers allowed”, “except claims of the kind” for “except claims”, and “such customer property” for “customer property”.
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 484(b)][/us/pl/98/353/s484/b], substituted “section 726” for “section 726(a)”.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 484(b), substituted “section 726” for “section 726(a)”.
 
     1982—Subsec. (c). [Pub. L. 97–222][/us/pl/97/222] substituted “Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under [section 741(4)(B) of this title][/us/usc/t11/s741/4/B], shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest” for “Subject to [section 741(4)(B) of this title][/us/usc/t11/s741/4/B], any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor shall be apportioned between the general estate and customer property in the proportion that the general property of the debtor and the cash or securities of customers were subject to such security interest”.
 
@@ -69,16 +69,16 @@
 [/us/usc/t11/s741/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741%2F4%2FB
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2614
-[/us/pl/97/222/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs15
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F238
-[/us/pl/98/353/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs484
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
-[/us/pl/109/8/s1502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F3
+[/us/pl/109/8/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXV
 [/us/stat/119/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F216
 [/us/usc/t11/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/98/353/s484/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs484%2Fa
-[/us/pl/98/353/s484/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs484%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/usc/t11/s741/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741%2F4%2FB
 [/us/usc/t11/s741/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741%2F4%2FB

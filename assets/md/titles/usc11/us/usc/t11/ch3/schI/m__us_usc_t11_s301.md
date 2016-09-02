@@ -19,7 +19,7 @@
 
     (b) The commencement of a voluntary case under a chapter of this title constitutes an order for relief under such chapter.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2558][/us/stat/92/2558]; [Pub. L. 109–8, title V, § 501(b)][/us/pl/109/8/s501/b], Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2558][/us/stat/92/2558]; [Pub. L. 109–8, title V][/us/pl/109/8/tV], § 501(b), Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2558
-[/us/pl/109/8/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs501%2Fb
+[/us/pl/109/8/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtV
 [/us/stat/119/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F118
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

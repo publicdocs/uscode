@@ -37,7 +37,7 @@
 
     (d) If a trustee is not elected under this section, then the interim trustee shall serve as trustee in the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2604][/us/stat/92/2604]; [Pub. L. 97–222, § 7][/us/pl/97/222/s7], July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 98–353, title III, § 472][/us/pl/98/353/s472], July 10, 1984, [98 Stat. 380][/us/stat/98/380].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2604][/us/stat/92/2604]; [Pub. L. 97–222][/us/pl/97/222], § 7, July 27, 1982, [96 Stat. 237][/us/stat/96/237]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 472, July 10, 1984, [98 Stat. 380][/us/stat/98/380].)
 
  __Historical and Revision Notes__ 
 
@@ -55,13 +55,13 @@
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 472(a)][/us/pl/98/353/s472/a], inserted “held” after “meeting of creditors”.
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 472(a), inserted “held” after “meeting of creditors”.
 
-    Subsec. (c)(1). [Pub. L. 98–353, § 472(b)(1)][/us/pl/98/353/s472/b/1], inserted “of a kind” after “claims”.
+    Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 472(b)(1), inserted “of a kind” after “claims”.
 
-    Subsec. (c)(2). [Pub. L. 98–353, § 472(b)(2)][/us/pl/98/353/s472/b/2], substituted “for a trustee” for “for trustee”.
+    Subsec. (c)(2). [Pub. L. 98–353][/us/pl/98/353], § 472(b)(2), substituted “for a trustee” for “for trustee”.
 
-    Subsec. (d). [Pub. L. 98–353, § 472(c)][/us/pl/98/353/s472/c], substituted “this section” for “subsection (c) of this section”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 472(c), substituted “this section” for “subsection (c) of this section”.
 
     1982—Subsec. (a)(1). [Pub. L. 97–222][/us/pl/97/222] substituted “726(a)(4), 752(a), 766(h), or 766(i)” for “or 726(a)(4)”.
 
@@ -79,14 +79,14 @@
 [/us/usc/t11/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs341
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2604
-[/us/pl/97/222/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs7
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F237
-[/us/pl/98/353/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs472
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F380
-[/us/pl/98/353/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs472%2Fa
-[/us/pl/98/353/s472/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs472%2Fb%2F1
-[/us/pl/98/353/s472/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs472%2Fb%2F2
-[/us/pl/98/353/s472/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs472%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa

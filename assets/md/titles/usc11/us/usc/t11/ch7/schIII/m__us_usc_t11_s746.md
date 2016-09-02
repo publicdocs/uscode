@@ -25,7 +25,7 @@
 
         (2) subordinated to the claims of any or all creditors.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222, § 12][/us/pl/97/222/s12], July 27, 1982, [96 Stat. 238][/us/stat/96/238].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2613][/us/stat/92/2613]; [Pub. L. 97–222][/us/pl/97/222], § 12, July 27, 1982, [96 Stat. 238][/us/stat/96/238].)
 
  __Historical and Revision Notes__ 
 
@@ -37,11 +37,11 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–222, § 12(c)][/us/pl/97/222/s12/c], substituted “claims” for “claim” in section catchline.
+    1982—[Pub. L. 97–222][/us/pl/97/222], § 12(c), substituted “claims” for “claim” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–222, § 12(a)][/us/pl/97/222/s12/a], substituted “enters into” for “effects, with respect to cash or a security,”, struck out “with respect to such cash or security” wherever appearing, and substituted “the date of the filing of the petition” for “such date”, and “entered into” for “effected”.
+    Subsec. (a). [Pub. L. 97–222][/us/pl/97/222], § 12(a), substituted “enters into” for “effects, with respect to cash or a security,”, struck out “with respect to such cash or security” wherever appearing, and substituted “the date of the filing of the petition” for “such date”, and “entered into” for “effected”.
 
-    Subsec. (b). [Pub. L. 97–222, § 12(b)][/us/pl/97/222/s12/b], substituted “transferred to the debtor” for “has a claim for” in provisions preceding par. (1), and struck out “is” in par. (2).
+    Subsec. (b). [Pub. L. 97–222][/us/pl/97/222], § 12(b), substituted “transferred to the debtor” for “has a claim for” in provisions preceding par. (1), and struck out “is” in par. (2).
 
 ----------
 
@@ -53,10 +53,10 @@
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2613
-[/us/pl/97/222/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs12
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F238
-[/us/pl/97/222/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs12%2Fc
-[/us/pl/97/222/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs12%2Fa
-[/us/pl/97/222/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs12%2Fb
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 
 

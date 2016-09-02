@@ -39,7 +39,7 @@
 
         (6) such other matters as are in the best interests of the debtor and creditors, and in the public interest in fair and efficient procedures under chapter 11 of this title.
 
-(Added [Pub. L. 109–8, title IV, § 434(a)(1)][/us/pl/109/8/s434/a/1], Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111]; amended [Pub. L. 111–327, § 2(a)(10)][/us/pl/111/327/s2/a/10], Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
+(Added [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 434(a)(1), Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(a)(10), Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
 
  __References in Text__ 
 
@@ -47,13 +47,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–327, § 2(a)(10)(A)][/us/pl/111/327/s2/a/10/A], substituted “debtor in a small business case” for “small business debtor” in introductory provisions.
+    2010—Subsec. (b). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(10)(A), substituted “debtor in a small business case” for “small business debtor” in introductory provisions.
 
-    Subsec. (b)(4) to (6). [Pub. L. 111–327, § 2(a)(10)(B)][/us/pl/111/327/s2/a/10/B], struck out subpar. (A) designation before “whether the debtor” in par. (4) and redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) of par. (4) as pars. (5) and (6), respectively, and, in par. (5), substituted “paragraph (4)(A)” for “subparagraph (A)(i)” and “paragraph (4)(B)” for “subparagraph (A)(ii)”.
+    Subsec. (b)(4) to (6). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(10)(B), struck out subpar. (A) designation before “whether the debtor” in par. (4) and redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) of par. (4) as pars. (5) and (6), respectively, and, in par. (5), substituted “paragraph (4)(A)” for “subparagraph (A)(i)” and “paragraph (4)(B)” for “subparagraph (A)(ii)”.
 
  __Effective Date__ 
 
-[Pub. L. 109–8, title IV, § 434(b)][/us/pl/109/8/s434/b], Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111], provided that: 
+[Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 434(b), Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect 60 days after the date on which rules are prescribed under [section 2075 of title 28][/us/usc/t28/s2075], United States Code, to establish forms to be used to comply with [section 308 of title 11][/us/usc/t11/s308], United States Code, as added by subsection (a) \[See Bankruptcy Form No. 25C, eff. Dec. 1, 2008\].”
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/109/8/s434/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs434%2Fa%2F1
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F111
-[/us/pl/111/327/s2/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F10
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3558
-[/us/pl/111/327/s2/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F10%2FA
-[/us/pl/111/327/s2/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F10%2FB
-[/us/pl/109/8/s434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs434%2Fb
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F111
 [/us/usc/t28/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2075
 [/us/usc/t11/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs308

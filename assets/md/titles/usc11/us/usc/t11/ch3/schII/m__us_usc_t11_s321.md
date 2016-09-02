@@ -27,7 +27,7 @@
 
     (c) The United States trustee for the judicial district in which the case is pending is eligible to serve as trustee in the case if necessary.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 98–353, title III, § 428][/us/pl/98/353/s428], July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 206, 257(c), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], 3114.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 428, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 206, 257(c), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], 3114.)
 
  __Historical and Revision Notes__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 257(c)][/us/pl/99/554/s257/c], inserted reference to chapter 12 in two places.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 257(c), inserted reference to chapter 12 in two places.
 
-    Subsec. (c). [Pub. L. 99–554, § 206][/us/pl/99/554/s206], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 206, added subsec. (c).
 
     1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353] substituted “the case” for “a case” after “an examiner in”.
 
@@ -66,12 +66,12 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2561
-[/us/pl/98/353/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs428
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
-[/us/pl/99/554/s257/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fc
-[/us/pl/99/554/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs206
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/554/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs206
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

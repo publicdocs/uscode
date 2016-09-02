@@ -25,7 +25,7 @@
 
         (2) 270 days after such request.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 98–353, title III, § 517][/us/pl/98/353/s517], July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 109–8, title VII, § 719(b)(3)][/us/pl/109/8/s719/b/3], Apr. 20, 2005, [119 Stat. 133][/us/stat/119/133].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2641][/us/stat/92/2641]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 517, July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 719(b)(3), Apr. 20, 2005, [119 Stat. 133][/us/stat/119/133].)
 
  __Historical and Revision Notes__ 
 
@@ -65,9 +65,9 @@
 
     “(b) The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.”
 
-    1984—Subsec. (c). [Pub. L. 98–353, § 517(a)][/us/pl/98/353/s517/a], struck out “State or local” before “law imposing a stamp tax”.
+    1984—Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 517(a), struck out “State or local” before “law imposing a stamp tax”.
 
-    Subsec. (d)(1). [Pub. L. 98–353, § 517(b)][/us/pl/98/353/s517/b], substituted “or” for “and”.
+    Subsec. (d)(1). [Pub. L. 98–353][/us/pl/98/353], § 517(b), substituted “or” for “and”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -88,15 +88,15 @@
 [/us/usc/t11/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs346
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2641
-[/us/pl/98/353/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs517
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
-[/us/pl/109/8/s719/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs719%2Fb%2F3
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F133
 [/us/usc/t11/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1146
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t11/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs706
-[/us/pl/98/353/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs517%2Fa
-[/us/pl/98/353/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs517%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

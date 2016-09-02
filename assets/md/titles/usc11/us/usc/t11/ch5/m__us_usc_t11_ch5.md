@@ -379,17 +379,17 @@ SUBCHAPTER III—THE ESTATE  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–327, § 2(a)(50)][/us/pl/111/327/s2/a/50], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562], substituted “and master netting agreements” for “or master netting agreements” in item 562.
+    2010—[Pub. L. 111–327][/us/pl/111/327], § 2(a)(50), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562], substituted “and master netting agreements” for “or master netting agreements” in item 562.
 
-    2005—[Pub. L. 109–8, title II][/us/pl/109/8], §§ 227(b), 228(b), 229(b), title VII, § 704(b), title IX, §§ 907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, [119 Stat. 69][/us/stat/119/69], 71, 72, 126, 181, 182, 184, added items 511, 526 to 528, 561 and 562 and substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in item 555, “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodity contract or forward contract” in item 556, “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in item 559, and “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement” in item 560.
+    2005—[Pub. L. 109–8, title II][/us/pl/109/8/tII], §§ 227(b), 228(b), 229(b), title VII, § 704(b), title IX, §§ 907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, [119 Stat. 69][/us/stat/119/69], 71, 72, 126, 181, 182, 184, added items 511, 526 to 528, 561 and 562 and substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in item 555, “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodity contract or forward contract” in item 556, “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in item 559, and “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement” in item 560.
 
-    1990—[Pub. L. 101–311, title I, § 106(b)][/us/pl/101/311/s106/b], June 25, 1990, [104 Stat. 268][/us/stat/104/268], added item 560.
+    1990—[Pub. L. 101–311, title I][/us/pl/101/311/tI], § 106(b), June 25, 1990, [104 Stat. 268][/us/stat/104/268], added item 560.
 
-    1986—[Pub. L. 99–554, title II, § 283(q)][/us/pl/99/554/s283/q], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118], amended items 557 to 559 generally, substituting “interests in, and abandonment or other disposition of grain assets” for “in and disposition of grain” in item 557.
+    1986—[Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(q), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118], amended items 557 to 559 generally, substituting “interests in, and abandonment or other disposition of grain assets” for “in and disposition of grain” in item 557.
 
-    1984—[Pub. L. 98–353, title III][/us/pl/98/353], §§ 352(b), 396(b), 470(b), July 10, 1984, [98 Stat. 361][/us/stat/98/361], 366, 380, added items 557, 558, and 559.
+    1984—[Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 352(b), 396(b), 470(b), July 10, 1984, [98 Stat. 361][/us/stat/98/361], 366, 380, added items 557, 558, and 559.
 
-    1982—[Pub. L. 97–222, § 6(b)][/us/pl/97/222/s6/b], July 27, 1982, [96 Stat. 237][/us/stat/96/237], added items 555 and 556.
+    1982—[Pub. L. 97–222][/us/pl/97/222], § 6(b), July 27, 1982, [96 Stat. 237][/us/stat/96/237], added items 555 and 556.
 
 ----------
 
@@ -398,17 +398,17 @@ SUBCHAPTER III—THE ESTATE  </td>
 ----------
 ----------
 
-[/us/pl/111/327/s2/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F50
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F69
-[/us/pl/101/311/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2Fs106%2Fb
+[/us/pl/101/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2FtI
 [/us/stat/104/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F268
-[/us/pl/99/554/s283/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fq
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F361
-[/us/pl/97/222/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs6%2Fb
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F237
 
 

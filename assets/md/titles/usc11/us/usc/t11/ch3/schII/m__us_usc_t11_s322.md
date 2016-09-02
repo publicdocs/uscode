@@ -33,7 +33,7 @@
 
     (d) A proceeding on a trustee’s bond may not be commenced after two years after the date on which such trustee was discharged.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 98–353, title III, § 429][/us/pl/98/353/s429], July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 207, 257(d), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], 3114; [Pub. L. 103–394, title V, § 501(d)(3)][/us/pl/103/394/s501/d/3], Oct. 22, 1994, [108 Stat. 4143][/us/stat/108/4143]; [Pub. L. 111–16, § 2(2)][/us/pl/111/16/s2/2], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2562][/us/stat/92/2562]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 429, July 10, 1984, [98 Stat. 369][/us/stat/98/369]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 207, 257(d), Oct. 27, 1986, [100 Stat. 3098][/us/stat/100/3098], 3114; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(3), Oct. 22, 1994, [108 Stat. 4143][/us/stat/108/4143]; [Pub. L. 111–16][/us/pl/111/16], § 2(2), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __Historical and Revision Notes__ 
 
@@ -51,11 +51,11 @@
 
     1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394] substituted “1202, or 1302” for “1302, or 1202”.
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 257(d)][/us/pl/99/554/s257/d], inserted reference to [section 1202 of this title][/us/usc/t11/s1202].
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 257(d), inserted reference to [section 1202 of this title][/us/usc/t11/s1202].
 
-    [Pub. L. 99–554, § 207(1)][/us/pl/99/554/s207/1], substituted “Except as provided in subsection (b)(1), a person” for “A person”.
+    [Pub. L. 99–554][/us/pl/99/554], § 207(1), substituted “Except as provided in subsection (b)(1), a person” for “A person”.
 
-    Subsec. (b). [Pub. L. 99–554, § 207(2)][/us/pl/99/554/s207/2], amended subsec. (b) generally, adding par. (1), designating existing provisions as par. (2), substituting “The United States trustee” for “The court”, “(A) the amount” for “(1) the amount”, and “(B) the sufficiency” for “(2) the sufficiency”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 207(2), amended subsec. (b) generally, adding par. (1), designating existing provisions as par. (2), substituting “The United States trustee” for “The court”, “(A) the amount” for “(1) the amount”, and “(B) the sufficiency” for “(2) the sufficiency”.
 
     1984—Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353] inserted “required to be”.
 
@@ -86,20 +86,20 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2562
-[/us/pl/98/353/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs429
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F369
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3098
-[/us/pl/103/394/s501/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F3
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4143
-[/us/pl/111/16/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F2
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s257/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fd
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1202
-[/us/pl/99/554/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs207%2F1
-[/us/pl/99/554/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs207%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7

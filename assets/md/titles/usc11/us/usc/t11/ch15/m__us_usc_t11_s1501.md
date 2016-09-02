@@ -59,7 +59,7 @@
 
     (d) The court may not grant relief under this chapter with respect to any deposit, escrow, trust fund, or other security required or permitted under any applicable State insurance law or regulation for the benefit of claim holders in the United States.
 
-(Added [Pub. L. 109–8, title VIII, § 801(a)][/us/pl/109/8/s801/a], Apr. 20, 2005, [119 Stat. 135][/us/stat/119/135].)
+(Added [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 801(a), Apr. 20, 2005, [119 Stat. 135][/us/stat/119/135].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1501, [Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2652][/us/stat/92/2652], related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by [Pub. L. 99–554, title II, § 231][/us/pl/99/554/s231], Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103].
+    A prior section 1501, [Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2652][/us/stat/92/2652], related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 231, Oct. 27, 1986, [100 Stat. 3103][/us/stat/100/3103].
 
  __Effective Date__ 
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/pl/109/8/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs801%2Fa
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F135
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
 [/us/usc/t15/s78aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78aaa
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2652
-[/us/pl/99/554/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs231
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3103
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

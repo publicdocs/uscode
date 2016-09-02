@@ -67,7 +67,7 @@
 
     (c) Notwithstanding [section 362 of this title][/us/usc/t11/s362], after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2582][/us/stat/92/2582]; [Pub. L. 98–353, title III, § 447][/us/pl/98/353/s447], July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 109–8, title VII][/us/pl/109/8], §§ 701(b), 703, 715, Apr. 20, 2005, [119 Stat. 124][/us/stat/119/124], 125, 129; [Pub. L. 111–327, § 2(a)(14)][/us/pl/111/327/s2/a/14], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2582][/us/stat/92/2582]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 447, July 10, 1984, [98 Stat. 374][/us/stat/98/374]; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], §§ 701(b), 703, 715, Apr. 20, 2005, [119 Stat. 124][/us/stat/119/124], 125, 129; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(14), Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
 
  __Historical and Revision Notes__ 
 
@@ -141,11 +141,11 @@
 
     2010—Subsec. (a)(2)(C). [Pub. L. 111–327][/us/pl/111/327] substituted “applicable nonbankruptcy law” for “any law (other than a bankruptcy law)”.
 
-    2005—Subsec. (a)(2)(C). [Pub. L. 109–8, § 701(b)][/us/pl/109/8/s701/b], added subpar. (C).
+    2005—Subsec. (a)(2)(C). [Pub. L. 109–8][/us/pl/109/8], § 701(b), added subpar. (C).
 
-    Subsec. (b). [Pub. L. 109–8, § 703][/us/pl/109/8/s703], added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
 
-    Subsec. (b)(2). [Pub. L. 109–8, § 715][/us/pl/109/8/s715], inserted “the estate,” after “misrepresentation,” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 109–8][/us/pl/109/8], § 715, inserted “the estate,” after “misrepresentation,” in introductory provisions.
 
     1984—Subsec. (a)(2)(B)(i). [Pub. L. 98–353][/us/pl/98/353] substituted “or” for “and”.
 
@@ -167,17 +167,17 @@
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2582
-[/us/pl/98/353/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs447
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F374
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F124
-[/us/pl/111/327/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F14
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
 [/us/usc/t26/s6871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6871%2Fb
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs701%2Fb
-[/us/pl/109/8/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs703
-[/us/pl/109/8/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs715
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

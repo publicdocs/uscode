@@ -67,7 +67,7 @@
 
     (e) With respect to equipment first placed in service after October 22, 1994, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2642][/us/stat/92/2642]; [Pub. L. 98–353, title III, § 519][/us/pl/98/353/s519], July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 103–394, title II, § 201(b)][/us/pl/103/394/s201/b], Oct. 22, 1994, [108 Stat. 4120][/us/stat/108/4120]; [Pub. L. 106–181, title VII, § 744(a)][/us/pl/106/181/s744/a], Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2642][/us/stat/92/2642]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 519, July 10, 1984, [98 Stat. 388][/us/stat/98/388]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 201(b), Oct. 22, 1994, [108 Stat. 4120][/us/stat/108/4120]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 744(a), Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175].)
 
  __Historical and Revision Notes__ 
 
@@ -128,11 +128,11 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2642
-[/us/pl/98/353/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs519
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F388
-[/us/pl/103/394/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs201%2Fb
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4120
-[/us/pl/106/181/s744/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs744%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F175
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394

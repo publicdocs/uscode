@@ -19,7 +19,7 @@
 
     (b) Notwithstanding [section 327(a) of this title][/us/usc/t11/s327/a], a person is not disqualified for employment under [section 327 of this title][/us/usc/t11/s327] by a debtor in possession solely because of such person’s employment by or representation of the debtor before the commencement of the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2628][/us/stat/92/2628]; [Pub. L. 98–353, title III, § 503][/us/pl/98/353/s503], July 10, 1984, [98 Stat. 384][/us/stat/98/384].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2628][/us/stat/92/2628]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 503, July 10, 1984, [98 Stat. 384][/us/stat/98/384].)
 
  __Historical and Revision Notes__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t11/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs327
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2628
-[/us/pl/98/353/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs503
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

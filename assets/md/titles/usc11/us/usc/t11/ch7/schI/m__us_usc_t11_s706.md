@@ -23,7 +23,7 @@
 
     (d) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2606][/us/stat/92/2606]; [Pub. L. 99–554, title II, § 257(q)][/us/pl/99/554/s257/q], Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title V, § 501(d)(22)][/us/pl/103/394/s501/d/22], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title I, § 101][/us/pl/109/8/s101], Apr. 20, 2005, [119 Stat. 27][/us/stat/119/27].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2606][/us/stat/92/2606]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(q), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(22), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146]; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 101, Apr. 20, 2005, [119 Stat. 27][/us/stat/119/27].)
 
  __Historical and Revision Notes__ 
 
@@ -49,9 +49,9 @@
 
     1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394] substituted “1208, or 1307” for “1307, or 1208”.
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 257(q)(1)][/us/pl/99/554/s257/q/1], inserted references to chapter 12 and [section 1208 of this title][/us/usc/t11/s1208].
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 257(q)(1), inserted references to chapter 12 and [section 1208 of this title][/us/usc/t11/s1208].
 
-    Subsec. (c). [Pub. L. 99–554, § 257(q)(2)][/us/pl/99/554/s257/q/2], inserted reference to chapter 12.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 257(q)(2), inserted reference to chapter 12.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -74,17 +74,17 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2606
-[/us/pl/99/554/s257/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fq
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115
-[/us/pl/103/394/s501/d/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F22
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
-[/us/pl/109/8/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs101
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F27
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s257/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fq%2F1
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1208
-[/us/pl/99/554/s257/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fq%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

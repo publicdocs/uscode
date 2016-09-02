@@ -25,7 +25,7 @@
 
     (e) A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of [section 31705 of title 49][/us/usc/t49/s31705] may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in [section 31701 of title 49][/us/usc/t49/s31701]) and, if so filed, shall be allowed as a single claim.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2578][/us/stat/92/2578]; [Pub. L. 98–353, title III, § 444][/us/pl/98/353/s444], July 10, 1984, [98 Stat. 373][/us/stat/98/373]; [Pub. L. 109–8, title VII, § 702][/us/pl/109/8/s702], Apr. 20, 2005, [119 Stat. 125][/us/stat/119/125].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2578][/us/stat/92/2578]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 444, July 10, 1984, [98 Stat. 373][/us/stat/98/373]; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 702, Apr. 20, 2005, [119 Stat. 125][/us/stat/119/125].)
 
  __Historical and Revision Notes__ 
 
@@ -71,7 +71,7 @@
 
  __Child Support Creditors or Their Representatives; Appearance Before Court__ 
 
-[Pub. L. 103–394, title III, § 304(g)][/us/pl/103/394/s304/g], Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], provided that: 
+[Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 304(g), Oct. 22, 1994, [108 Stat. 4134][/us/stat/108/4134], provided that: 
 
 > “Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics.”
 
@@ -86,9 +86,9 @@
 [/us/usc/t49/s31701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2578
-[/us/pl/98/353/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs444
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F373
-[/us/pl/109/8/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs702
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F125
 [/us/usc/t11/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs924
 [/us/usc/t11/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs506%2Fa
@@ -102,7 +102,7 @@
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/103/394/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs304%2Fg
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4134
 
 

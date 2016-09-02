@@ -97,7 +97,7 @@
 
     (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2630][/us/stat/92/2630]; [Pub. L. 98–353, title III, § 505][/us/pl/98/353/s505], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 224, 256, Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102], 3114; [Pub. L. 103–394, title II, § 217(c)][/us/pl/103/394/s217/c], Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV, § 442(a)][/us/pl/109/8/s442/a], Apr. 20, 2005, [119 Stat. 115][/us/stat/119/115]; [Pub. L. 111–327, § 2(a)(33)][/us/pl/111/327/s2/a/33], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2630][/us/stat/92/2630]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 505, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 224, 256, Oct. 27, 1986, [100 Stat. 3102][/us/stat/100/3102], 3114; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 217(c), Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 442(a), Apr. 20, 2005, [119 Stat. 115][/us/stat/119/115]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(33), Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
 
  __Historical and Revision Notes__ 
 
@@ -125,33 +125,33 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–327, § 2(a)(33)(A)(i)][/us/pl/111/327/s2/a/33/A/i], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
+    2010—Subsec. (b)(1). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
 
-    Subsec. (b)(2). [Pub. L. 111–327, § 2(a)(33)(A)(ii)(I)][/us/pl/111/327/s2/a/33/A/ii/I], inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
+    Subsec. (b)(2). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–327, § 2(a)(33)(A)(ii)(II)][/us/pl/111/327/s2/a/33/A/ii/II], substituted “converting or dismissing the case” for “granting such relief”.
+    Subsec. (b)(2)(B). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(33)(A)(ii)(II), substituted “converting or dismissing the case” for “granting such relief”.
 
-    Subsec. (e). [Pub. L. 111–327, § 2(a)(33)(B)][/us/pl/111/327/s2/a/33/B], substituted “521(a)” for “521”.
+    Subsec. (e). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(33)(B), substituted “521(a)” for “521”.
 
     2005—Subsec. (b). [Pub. L. 109–8][/us/pl/109/8] added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
 
     1994—Subsec. (b). [Pub. L. 103–394][/us/pl/103/394] inserted “or bankruptcy administrator” after “United States trustee”.
 
-    1986—Subsec. (b). [Pub. L. 99–554, § 224(1)(A)][/us/pl/99/554/s224/1/A], inserted “or the United States trustee” after “party in interest”.
+    1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 224(1)(A), inserted “or the United States trustee” after “party in interest”.
 
-    Subsec. (b)(10). [Pub. L. 99–554, § 224(1)(B)][/us/pl/99/554/s224/1/B]–(D), added par. (10).
+    Subsec. (b)(10). [Pub. L. 99–554][/us/pl/99/554], § 224(1)(B)–(D), added par. (10).
 
-    Subsec. (d). [Pub. L. 99–554, § 256][/us/pl/99/554/s256], inserted reference to chapter 12 and added par. (3).
+    Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 256, inserted reference to chapter 12 and added par. (3).
 
-    Subsecs. (e), (f). [Pub. L. 99–554, § 224(2)][/us/pl/99/554/s224/2], (3), added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 99–554][/us/pl/99/554], § 224(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    1984—Subsec. (a)(2). [Pub. L. 98–353, § 505(a)(1)][/us/pl/98/353/s505/a/1], substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
+    1984—Subsec. (a)(2). [Pub. L. 98–353][/us/pl/98/353], § 505(a)(1), substituted “originally was commenced as an involuntary case” for “is an involuntary case originally commenced”.
 
-    Subsec. (a)(3). [Pub. L. 98–353, § 505(a)(2)][/us/pl/98/353/s505/a/2], substituted “other than on” for “on other than”.
+    Subsec. (a)(3). [Pub. L. 98–353][/us/pl/98/353], § 505(a)(2), substituted “other than on” for “on other than”.
 
-    Subsec. (b)(5). [Pub. L. 98–353, § 505(b)(1)][/us/pl/98/353/s505/b/1], inserted “a request made for” before “additional”.
+    Subsec. (b)(5). [Pub. L. 98–353][/us/pl/98/353], § 505(b)(1), inserted “a request made for” before “additional”.
 
-    Subsec. (b)(8). [Pub. L. 98–353, § 505(b)(2)][/us/pl/98/353/s505/b/2], substituted “or” for “and”.
+    Subsec. (b)(8). [Pub. L. 98–353][/us/pl/98/353], § 505(b)(2), substituted “or” for “and”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -181,30 +181,30 @@
 [/us/usc/t11/s1141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1141%2Fd
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2630
-[/us/pl/98/353/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs505
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3102
-[/us/pl/103/394/s217/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs217%2Fc
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4127
-[/us/pl/109/8/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs442%2Fa
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F115
-[/us/pl/111/327/s2/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F33
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
-[/us/pl/111/327/s2/a/33/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F33%2FA%2Fi
-[/us/pl/111/327/s2/a/33/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F33%2FA%2Fii%2FI
-[/us/pl/111/327/s2/a/33/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F33%2FA%2Fii%2FII
-[/us/pl/111/327/s2/a/33/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F33%2FB
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s224/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs224%2F1%2FA
-[/us/pl/99/554/s224/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs224%2F1%2FB
-[/us/pl/99/554/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs256
-[/us/pl/99/554/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs224%2F2
-[/us/pl/98/353/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs505%2Fa%2F1
-[/us/pl/98/353/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs505%2Fa%2F2
-[/us/pl/98/353/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs505%2Fb%2F1
-[/us/pl/98/353/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs505%2Fb%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

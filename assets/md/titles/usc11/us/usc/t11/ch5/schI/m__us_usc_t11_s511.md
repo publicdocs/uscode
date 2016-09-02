@@ -19,7 +19,7 @@
 
     (b) In the case of taxes paid under a confirmed plan under this title, the rate of interest shall be determined as of the calendar month in which the plan is confirmed.
 
-(Added [Pub. L. 109–8, title VII, § 704(a)][/us/pl/109/8/s704/a], Apr. 20, 2005, [119 Stat. 125][/us/stat/119/125].)
+(Added [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 704(a), Apr. 20, 2005, [119 Stat. 125][/us/stat/119/125].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs704%2Fa
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F125
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

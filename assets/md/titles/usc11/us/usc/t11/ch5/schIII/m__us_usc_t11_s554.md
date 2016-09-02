@@ -23,7 +23,7 @@
 
     (d) Unless the court orders otherwise, property of the estate that is not abandoned under this section and that is not administered in the case remains property of the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2603][/us/stat/92/2603]; [Pub. L. 98–353, title III, § 468][/us/pl/98/353/s468], July 10, 1984, [98 Stat. 380][/us/stat/98/380]; [Pub. L. 99–554, title II, § 283(p)][/us/pl/99/554/s283/p], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 111–327, § 2(a)(23)][/us/pl/111/327/s2/a/23], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2603][/us/stat/92/2603]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 468, July 10, 1984, [98 Stat. 380][/us/stat/98/380]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(p), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(23), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -41,11 +41,11 @@
 
     1986—Subsec. (c). [Pub. L. 99–554][/us/pl/99/554] substituted “521(1)” for “521(a)(1)”.
 
-    1984—Subsecs. (a), (b). [Pub. L. 98–353, § 468(a)][/us/pl/98/353/s468/a], inserted “and benefit” after “value”.
+    1984—Subsecs. (a), (b). [Pub. L. 98–353][/us/pl/98/353], § 468(a), inserted “and benefit” after “value”.
 
-    Subsec. (c). [Pub. L. 98–353, § 468(b)][/us/pl/98/353/s468/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under [section 521(1) of this title][/us/usc/t11/s521/1] and that is not administered before a case is closed under [section 350 of this title][/us/usc/t11/s350] is deemed abandoned.”
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under [section 521(1) of this title][/us/usc/t11/s521/1] and that is not administered before a case is closed under [section 350 of this title][/us/usc/t11/s350] is deemed abandoned.”
 
-    Subsec. (d). [Pub. L. 98–353, § 468(c)][/us/pl/98/353/s468/c], struck out “section (a) or (b) of” after “not abandoned under”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 468(c), struck out “section (a) or (b) of” after “not abandoned under”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -66,19 +66,19 @@
 [/us/usc/t11/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs350
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2603
-[/us/pl/98/353/s468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs468
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F380
-[/us/pl/99/554/s283/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fp
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/111/327/s2/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F23
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s468/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs468%2Fa
-[/us/pl/98/353/s468/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs468%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s521/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521%2F1
 [/us/usc/t11/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs350
-[/us/pl/98/353/s468/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs468%2Fc
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs302%2Fa
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581

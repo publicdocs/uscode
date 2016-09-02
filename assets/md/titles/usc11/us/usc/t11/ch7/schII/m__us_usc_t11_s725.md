@@ -17,7 +17,7 @@
 
     After the commencement of a case under this chapter, but before final distribution of property of the estate under [section 726 of this title][/us/usc/t11/s726], the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2607][/us/stat/92/2607]; [Pub. L. 98–353, title III, § 478][/us/pl/98/353/s478], July 10, 1984, [98 Stat. 381][/us/stat/98/381].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2607][/us/stat/92/2607]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 478, July 10, 1984, [98 Stat. 381][/us/stat/98/381].)
 
  __Historical and Revision Notes__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t11/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2607
-[/us/pl/98/353/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs478
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F381
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

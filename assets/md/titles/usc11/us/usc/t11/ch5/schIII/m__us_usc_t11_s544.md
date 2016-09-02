@@ -31,7 +31,7 @@
 
         (2) Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2596][/us/stat/92/2596]; [Pub. L. 98–353, title III, § 459][/us/pl/98/353/s459], July 10, 1984, [98 Stat. 377][/us/stat/98/377]; [Pub. L. 105–183, § 3(b)][/us/pl/105/183/s3/b], June 19, 1998, [112 Stat. 518][/us/stat/112/518].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2596][/us/stat/92/2596]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 459, July 10, 1984, [98 Stat. 377][/us/stat/98/377]; [Pub. L. 105–183][/us/pl/105/183], § 3(b), June 19, 1998, [112 Stat. 518][/us/stat/112/518].)
 
  __Historical and Revision Notes__ 
 
@@ -51,15 +51,15 @@
 
     1998—Subsec. (b). [Pub. L. 105–183][/us/pl/105/183] designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–353, § 459(1)][/us/pl/98/353/s459/1], inserted “such” after “obtained”.
+    1984—Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 459(1), inserted “such” after “obtained”.
 
-    Subsec. (a)(2). [Pub. L. 98–353, § 459(2)][/us/pl/98/353/s459/2], substituted “; or” for “; and”.
+    Subsec. (a)(2). [Pub. L. 98–353][/us/pl/98/353], § 459(2), substituted “; or” for “; and”.
 
-    Subsec. (a)(3). [Pub. L. 98–353, § 459(3)][/us/pl/98/353/s459/3], inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
+    Subsec. (a)(3). [Pub. L. 98–353][/us/pl/98/353], § 459(3), inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–183, § 5][/us/pl/105/183/s5], June 19, 1998, [112 Stat. 518][/us/stat/112/518], provided that: 
+[Pub. L. 105–183][/us/pl/105/183], § 5, June 19, 1998, [112 Stat. 518][/us/stat/112/518], provided that: 
 
 > “This Act \[amending this section and sections 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under this section and [section 101 of this title][/us/usc/t11/s101]\] and the amendments made by this Act shall apply to any case brought under an applicable provision of title 11, United States Code, that is pending or commenced on or after the date of enactment of this Act \[June 19, 1998\].”
 
@@ -69,7 +69,7 @@
 
  __Construction of 1998 Amendment__ 
 
-[Pub. L. 105–183, § 6][/us/pl/105/183/s6], June 19, 1998, [112 Stat. 519][/us/stat/112/519], provided that: 
+[Pub. L. 105–183][/us/pl/105/183], § 6, June 19, 1998, [112 Stat. 519][/us/stat/112/519], provided that: 
 
 > “Nothing in the amendments made by this Act \[amending this section and sections 546, 548, 707, and 1325 of this title\] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 ([42 U.S.C. 2002bb][/us/usc/t42/s2002bb] \[2000bb\] et seq.).”
 
@@ -84,21 +84,21 @@
 [/us/usc/t11/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502%2Fe
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2596
-[/us/pl/98/353/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs459
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F377
-[/us/pl/105/183/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs3%2Fb
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/stat/112/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F518
 [/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
-[/us/pl/98/353/s459/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs459%2F1
-[/us/pl/98/353/s459/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs459%2F2
-[/us/pl/98/353/s459/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs459%2F3
-[/us/pl/105/183/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs5
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/stat/112/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F518
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/105/183/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs6
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/stat/112/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F519
 [/us/usc/t42/s2002bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2002bb
 

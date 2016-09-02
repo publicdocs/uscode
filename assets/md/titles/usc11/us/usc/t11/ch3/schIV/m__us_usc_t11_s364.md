@@ -45,7 +45,7 @@
 
     (f) Except with respect to an entity that is an underwriter as defined in [section 1145(b) of this title][/us/usc/t11/s1145/b], section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2574][/us/stat/92/2574]; [Pub. L. 99–554, title II, § 257][/us/pl/99/554/s257](l), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title V, § 501(d)(9)][/us/pl/103/394/s501/d/9], Oct. 22, 1994, [108 Stat. 4144][/us/stat/108/4144].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2574][/us/stat/92/2574]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(l), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(9), Oct. 22, 1994, [108 Stat. 4144][/us/stat/108/4144].)
 
  __Historical and Revision Notes__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 501(d)(9)(A)][/us/pl/103/394/s501/d/9/A], substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(9)(A), substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
 
-    Subsec. (f). [Pub. L. 103–394, § 501(d)(9)(B)][/us/pl/103/394/s501/d/9/B], struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933” and “([15 U.S.C. 77aaa][/us/usc/t15/s77aaa] et seq.)” after “Act of 1939”.
+    Subsec. (f). [Pub. L. 103–394][/us/pl/103/394], § 501(d)(9)(B), struck out “([15 U.S.C. 77e][/us/usc/t15/s77e])” after “Act of 1933” and “([15 U.S.C. 77aaa][/us/usc/t15/s77aaa] et seq.)” after “Act of 1939”.
 
     1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554] inserted reference to sections 1203 and 1204 of this title.
 
@@ -104,9 +104,9 @@
 [/us/usc/t11/s1145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1145%2Fb
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2574
-[/us/pl/99/554/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115
-[/us/pl/103/394/s501/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F9
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4144
 [/us/usc/t15/s77c/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F7
 [/us/usc/t11/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs364
@@ -116,8 +116,8 @@
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1149
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
-[/us/pl/103/394/s501/d/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F9%2FA
-[/us/pl/103/394/s501/d/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F9%2FB
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

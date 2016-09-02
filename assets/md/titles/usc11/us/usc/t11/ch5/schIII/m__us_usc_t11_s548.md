@@ -111,7 +111,7 @@
 
             (B) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]l and 78o(d)) or under section 6 of the Securities Act of 1933 ([15 U.S.C. 77f][/us/usc/t15/s77f]).
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2600][/us/stat/92/2600]; [Pub. L. 97–222, § 5][/us/pl/97/222/s5], July 27, 1982, [96 Stat. 236][/us/stat/96/236]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 394, 463, July 10, 1984, [98 Stat. 365][/us/stat/98/365], 378; [Pub. L. 99–554, title II, § 283(n)][/us/pl/99/554/s283/n], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 101–311, title I, § 104][/us/pl/101/311/s104], title II, § 204, June 25, 1990, [104 Stat. 268][/us/stat/104/268], 269; [Pub. L. 103–394, title V, § 501(b)(5)][/us/pl/103/394/s501/b/5], Oct. 22, 1994, [108 Stat. 4142][/us/stat/108/4142]; [Pub. L. 105–183][/us/pl/105/183], §§ 2, 3(a), June 19, 1998, [112 Stat. 517][/us/stat/112/517]; [Pub. L. 109–8, title IX, § 907(f)][/us/pl/109/8/s907/f], (o)(4)–(6), title XIV, § 1402, Apr. 20, 2005, [119 Stat. 177][/us/stat/119/177], 182, 214.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2600][/us/stat/92/2600]; [Pub. L. 97–222][/us/pl/97/222], § 5, July 27, 1982, [96 Stat. 236][/us/stat/96/236]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 394, 463, July 10, 1984, [98 Stat. 365][/us/stat/98/365], 378; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(n), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 101–311, title I][/us/pl/101/311/tI], § 104, title II, § 204, June 25, 1990, [104 Stat. 268][/us/stat/104/268], 269; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(b)(5), Oct. 22, 1994, [108 Stat. 4142][/us/stat/108/4142]; [Pub. L. 105–183][/us/pl/105/183], §§ 2, 3(a), June 19, 1998, [112 Stat. 517][/us/stat/112/517]; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(f), (o)(4)–(6), title XIV, § 1402, Apr. 20, 2005, [119 Stat. 177][/us/stat/119/177], 182, 214.)
 
  __Historical and Revision Notes__ 
 
@@ -137,51 +137,51 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 1402(2)][/us/pl/109/8/s1402/2], in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 1402(2), in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
 
-    [Pub. L. 109–8, § 1402(1)][/us/pl/109/8/s1402/1], substituted “2 years” for “one year” in introductory provisions.
+    [Pub. L. 109–8][/us/pl/109/8], § 1402(1), substituted “2 years” for “one year” in introductory provisions.
 
-    Subsec. (a)(1)(B)(ii)(IV). [Pub. L. 109–8, § 1402(3)][/us/pl/109/8/s1402/3], added subcl. (IV).
+    Subsec. (a)(1)(B)(ii)(IV). [Pub. L. 109–8][/us/pl/109/8], § 1402(3), added subcl. (IV).
 
-    Subsec. (b). [Pub. L. 109–8, § 1402(1)][/us/pl/109/8/s1402/1], substituted “2 years” for “one year”.
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 1402(1), substituted “2 years” for “one year”.
 
-    Subsec. (d)(2)(B). [Pub. L. 109–8, § 907][/us/pl/109/8/s907](o)(4), inserted “financial participant,” after “financial institution,”.
+    Subsec. (d)(2)(B). [Pub. L. 109–8][/us/pl/109/8], § 907(o)(4), inserted “financial participant,” after “financial institution,”.
 
-    Subsec. (d)(2)(C). [Pub. L. 109–8, § 907][/us/pl/109/8/s907](o)(5), inserted “or financial participant” after “repo participant”.
+    Subsec. (d)(2)(C). [Pub. L. 109–8][/us/pl/109/8], § 907(o)(5), inserted “or financial participant” after “repo participant”.
 
-    Subsec. (d)(2)(D). [Pub. L. 109–8, § 907][/us/pl/109/8/s907](o)(6), inserted “or financial participant” after “swap participant”.
+    Subsec. (d)(2)(D). [Pub. L. 109–8][/us/pl/109/8], § 907(o)(6), inserted “or financial participant” after “swap participant”.
 
-    Subsec. (d)(2)(E). [Pub. L. 109–8, § 907(f)][/us/pl/109/8/s907/f], added subpar. (E).
+    Subsec. (d)(2)(E). [Pub. L. 109–8][/us/pl/109/8], § 907(f), added subpar. (E).
 
-    Subsec. (e). [Pub. L. 109–8, § 1402(4)][/us/pl/109/8/s1402/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 1402(4), added subsec. (e).
 
-    1998—Subsec. (a). [Pub. L. 105–183, § 3(a)][/us/pl/105/183/s3/a], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–183][/us/pl/105/183], § 3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
 
-    Subsec. (d)(3), (4). [Pub. L. 105–183, § 2][/us/pl/105/183/s2], added pars. (3) and (4).
+    Subsec. (d)(3), (4). [Pub. L. 105–183][/us/pl/105/183], § 2, added pars. (3) and (4).
 
-    1994—Subsec. (d)(2)(B). [Pub. L. 103–394, § 501(b)(5)(A)][/us/pl/103/394/s501/b/5/A], substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
+    1994—Subsec. (d)(2)(B). [Pub. L. 103–394][/us/pl/103/394], § 501(b)(5)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
 
-    Subsec. (d)(2)(C). [Pub. L. 103–394, § 501(b)(5)(B)][/us/pl/103/394/s501/b/5/B], substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
+    Subsec. (d)(2)(C). [Pub. L. 103–394][/us/pl/103/394], § 501(b)(5)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
 
-    1990—Subsec. (d)(2)(B). [Pub. L. 101–311, § 204][/us/pl/101/311/s204], inserted reference to sections 101(34) and 101(35) of this title.
+    1990—Subsec. (d)(2)(B). [Pub. L. 101–311][/us/pl/101/311], § 204, inserted reference to sections 101(34) and 101(35) of this title.
 
-    Subsec. (d)(2)(D). [Pub. L. 101–311, § 104][/us/pl/101/311/s104], added subpar. (D).
+    Subsec. (d)(2)(D). [Pub. L. 101–311][/us/pl/101/311], § 104, added subpar. (D).
 
     1986—Subsec. (d)(2)(B). [Pub. L. 99–554][/us/pl/99/554] substituted “, financial institution” for “financial institution,”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 463(a)(1)][/us/pl/98/353/s463/a/1], substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 463(a)(1), substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
 
-    Subsec. (a)(1). [Pub. L. 98–353, § 463(a)(2)][/us/pl/98/353/s463/a/2], substituted “was made” for “occurred”.
+    Subsec. (a)(1). [Pub. L. 98–353][/us/pl/98/353], § 463(a)(2), substituted “was made” for “occurred”.
 
-    Subsec. (a)(2)(B)(ii). [Pub. L. 98–353, § 463(a)(3)][/us/pl/98/353/s463/a/3], inserted “or a transaction” after “engaged in business”.
+    Subsec. (a)(2)(B)(ii). [Pub. L. 98–353][/us/pl/98/353], § 463(a)(3), inserted “or a transaction” after “engaged in business”.
 
-    Subsec. (c). [Pub. L. 98–353, § 463(b)][/us/pl/98/353/s463/b], inserted “or may retain” after “lien on” and struck out “, may retain any lien transferred,” before “or may enforce any obligation incurred”.
+    Subsec. (c). [Pub. L. 98–353][/us/pl/98/353], § 463(b), inserted “or may retain” after “lien on” and struck out “, may retain any lien transferred,” before “or may enforce any obligation incurred”.
 
-    Subsec. (d)(1). [Pub. L. 98–353, § 463(c)(1)][/us/pl/98/353/s463/c/1], substituted “is so” for “becomes so far”, “applicable law permits such transfer to be” for “such transfer could have been”, and “is made” for “occurs”.
+    Subsec. (d)(1). [Pub. L. 98–353][/us/pl/98/353], § 463(c)(1), substituted “is so” for “becomes so far”, “applicable law permits such transfer to be” for “such transfer could have been”, and “is made” for “occurs”.
 
-    Subsec. (d)(2)(B). [Pub. L. 98–353, § 463(c)(2)][/us/pl/98/353/s463/c/2], inserted “financial institution,” after “stockbroker”.
+    Subsec. (d)(2)(B). [Pub. L. 98–353][/us/pl/98/353], § 463(c)(2), inserted “financial institution,” after “stockbroker”.
 
-    Subsec. (d)(2)(C). [Pub. L. 98–353, § 394(2)][/us/pl/98/353/s394/2], added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 98–353][/us/pl/98/353], § 394(2), added subpar. (C).
 
     1982—Subsec. (d)(2)(B). [Pub. L. 97–222][/us/pl/97/222] substituted “a commodity broker, forward contract merchant, stockbroker, or securities clearing agency that receives a margin payment, as defined in section 741(5) or 761(15) of this title, or settlement payment, as defined in [section 741(8) of this title][/us/usc/t11/s741/8], takes for value to extent of such payment” for “a commodity broker or forward contract merchant that receives a margin payment, as defined in [section 761(15) of this title][/us/usc/t11/s761/15], takes for value”.
 
@@ -220,43 +220,43 @@
 [/us/usc/t15/s77f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77f
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2600
-[/us/pl/97/222/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs5
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F236
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F365
-[/us/pl/99/554/s283/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fn
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3117
-[/us/pl/101/311/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2Fs104
+[/us/pl/101/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2FtI
 [/us/stat/104/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F268
-[/us/pl/103/394/s501/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fb%2F5
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4142
 [/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
 [/us/stat/112/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F517
-[/us/pl/109/8/s907/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Ff
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F177
-[/us/pl/109/8/s1402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1402%2F2
-[/us/pl/109/8/s1402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1402%2F1
-[/us/pl/109/8/s1402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1402%2F3
-[/us/pl/109/8/s1402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1402%2F1
-[/us/pl/109/8/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907
-[/us/pl/109/8/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907
-[/us/pl/109/8/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907
-[/us/pl/109/8/s907/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Ff
-[/us/pl/109/8/s1402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1402%2F4
-[/us/pl/105/183/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs3%2Fa
-[/us/pl/105/183/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183%2Fs2
-[/us/pl/103/394/s501/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fb%2F5%2FA
-[/us/pl/103/394/s501/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fb%2F5%2FB
-[/us/pl/101/311/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2Fs204
-[/us/pl/101/311/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311%2Fs104
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
+[/us/pl/105/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F183
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/101/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311
+[/us/pl/101/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F311
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s463/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fa%2F1
-[/us/pl/98/353/s463/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fa%2F2
-[/us/pl/98/353/s463/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fa%2F3
-[/us/pl/98/353/s463/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fb
-[/us/pl/98/353/s463/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fc%2F1
-[/us/pl/98/353/s463/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs463%2Fc%2F2
-[/us/pl/98/353/s394/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs394%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/usc/t11/s741/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741%2F8
 [/us/usc/t11/s761/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs761%2F15

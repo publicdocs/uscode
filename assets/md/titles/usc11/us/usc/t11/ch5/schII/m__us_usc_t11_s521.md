@@ -171,7 +171,7 @@
 
         (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 305, 452, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 375; [Pub. L. 99–554, title II, § 283(h)][/us/pl/99/554/s283/h], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 109–8, title I, § 106(d)][/us/pl/109/8/s106/d], title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 66, 78, 80, 89, 92, 118, 123, 133; [Pub. L. 111–16, § 2(5)][/us/pl/111/16/s2/5], (6), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327, § 2(a)(16)][/us/pl/111/327/s2/a/16], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559]; [Pub. L. 113–295, div. B, title I, § 104(c)][/us/pl/113/295/s104/c], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], §§ 305, 452, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 375; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(h), Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 109–8, title I][/us/pl/109/8/tI], § 106(d), title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 66, 78, 80, 89, 92, 118, 123, 133; [Pub. L. 111–16][/us/pl/111/16], § 2(5), (6), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(16), Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559]; [Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 104(c), Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064].)
 
  __Historical and Revision Notes__ 
 
@@ -197,59 +197,59 @@
 
     2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] inserted “, an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,” after “Internal Revenue Code of 1986)”.
 
-    2010—Subsec. (a)(2). [Pub. L. 111–327, § 2(a)(16)(A)(iii)][/us/pl/111/327/s2/a/16/A/iii], in subpar. (C) substituted “except that” for subpar. (C) designation.
+    2010—Subsec. (a)(2). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
 
-    Subsec. (a)(2)(A). [Pub. L. 111–327, § 2(a)(16)(A)(i)][/us/pl/111/327/s2/a/16/A/i], struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
+    Subsec. (a)(2)(A). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–327, § 2(a)(16)(A)(ii)][/us/pl/111/327/s2/a/16/A/ii], struck out “the debtor shall” after “period fixes,” and “and” after semicolon at end.
+    Subsec. (a)(2)(B). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(16)(A)(ii), struck out “the debtor shall” after “period fixes,” and “and” after semicolon at end.
 
-    Subsec. (a)(3), (4). [Pub. L. 111–327, § 2(a)(16)(B)][/us/pl/111/327/s2/a/16/B], inserted “is” after “auditor”.
+    Subsec. (a)(3), (4). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(16)(B), inserted “is” after “auditor”.
 
-    2009—Subsec. (e)(3)(B). [Pub. L. 111–16, § 2(5)][/us/pl/111/16/s2/5], substituted “7 days” for “5 days”.
+    2009—Subsec. (e)(3)(B). [Pub. L. 111–16][/us/pl/111/16], § 2(5), substituted “7 days” for “5 days”.
 
-    Subsec. (i)(2). [Pub. L. 111–16, § 2(6)][/us/pl/111/16/s2/6], substituted “7 days” for “5 days”.
+    Subsec. (i)(2). [Pub. L. 111–16][/us/pl/111/16], § 2(6), substituted “7 days” for “5 days”.
 
-    2005—[Pub. L. 109–8, § 106(d)(1)][/us/pl/109/8/s106/d/1], designated existing provisions as subsec. (a).
+    2005—[Pub. L. 109–8][/us/pl/109/8], § 106(d)(1), designated existing provisions as subsec. (a).
 
-    Subsec. (a). [Pub. L. 109–8, § 304(1)][/us/pl/109/8/s304/1], added concluding provisions.
+    Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 304(1), added concluding provisions.
 
-    Subsec. (a)(1). [Pub. L. 109–8, § 315(b)(1)][/us/pl/109/8/s315/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “file a list of creditors, and unless the court orders otherwise, a schedule of assets and liabilities, a schedule of current income and current expenditures, and a statement of the debtor’s financial affairs;”.
+    Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 315(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “file a list of creditors, and unless the court orders otherwise, a schedule of assets and liabilities, a schedule of current income and current expenditures, and a statement of the debtor’s financial affairs;”.
 
-    Subsec. (a)(2). [Pub. L. 109–8, § 305(2)(A)][/us/pl/109/8/s305/2/A], struck out “consumer” before “debts” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 109–8][/us/pl/109/8], § 305(2)(A), struck out “consumer” before “debts” in introductory provisions.
 
-    Subsec. (a)(2)(B). [Pub. L. 109–8, § 305(2)(B)][/us/pl/109/8/s305/2/B], substituted “30 days after the first date set for the meeting of creditors under section 341(a)” for “forty-five days after the filing of a notice of intent under this section” and “30-day” for “forty-five day”.
+    Subsec. (a)(2)(B). [Pub. L. 109–8][/us/pl/109/8], § 305(2)(B), substituted “30 days after the first date set for the meeting of creditors under section 341(a)” for “forty-five days after the filing of a notice of intent under this section” and “30-day” for “forty-five day”.
 
-    Subsec. (a)(2)(C). [Pub. L. 109–8, § 305(2)(C)][/us/pl/109/8/s305/2/C], inserted “, except as provided in section 362(h)” before semicolon.
+    Subsec. (a)(2)(C). [Pub. L. 109–8][/us/pl/109/8], § 305(2)(C), inserted “, except as provided in section 362(h)” before semicolon.
 
-    Subsec. (a)(3), (4). [Pub. L. 109–8, § 603(c)][/us/pl/109/8/s603/c], inserted “or an auditor serving under [section 586(f) of title 28][/us/usc/t28/s586/f]” after “serving in the case”.
+    Subsec. (a)(3), (4). [Pub. L. 109–8][/us/pl/109/8], § 603(c), inserted “or an auditor serving under [section 586(f) of title 28][/us/usc/t28/s586/f]” after “serving in the case”.
 
-    Subsec. (a)(6). [Pub. L. 109–8, § 304(1)][/us/pl/109/8/s304/1], added par. (6).
+    Subsec. (a)(6). [Pub. L. 109–8][/us/pl/109/8], § 304(1), added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 109–8, § 446(a)][/us/pl/109/8/s446/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 109–8][/us/pl/109/8], § 446(a), added par. (7).
 
-    Subsec. (b). [Pub. L. 109–8, § 106(d)(2)][/us/pl/109/8/s106/d/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 106(d)(2), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 109–8, § 225(b)][/us/pl/109/8/s225/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–8][/us/pl/109/8], § 225(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 109–8, § 305(2)(D)][/us/pl/109/8/s305/2/D], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 305(2)(D), added subsec. (d).
 
-    Subsecs. (e) to (h). [Pub. L. 109–8, § 315(b)(2)][/us/pl/109/8/s315/b/2], added subsecs. (e) to (h).
+    Subsecs. (e) to (h). [Pub. L. 109–8][/us/pl/109/8], § 315(b)(2), added subsecs. (e) to (h).
 
-    Subsec. (i). [Pub. L. 109–8, § 316][/us/pl/109/8/s316], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–8][/us/pl/109/8], § 316, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 109–8, § 720][/us/pl/109/8/s720], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–8][/us/pl/109/8], § 720, added subsec. (j).
 
     1986—Par. (4). [Pub. L. 99–554][/us/pl/99/554] inserted “, whether or not immunity is granted under [section 344 of this title][/us/usc/t11/s344]” after second reference to “estate”.
 
-    1984—Par. (1). [Pub. L. 98–353, § 305(2)][/us/pl/98/353/s305/2], inserted “a schedule of current income and current expenditures,” after “liabilities,”.
+    1984—Par. (1). [Pub. L. 98–353][/us/pl/98/353], § 305(2), inserted “a schedule of current income and current expenditures,” after “liabilities,”.
 
-    Pars. (2) to (5). [Pub. L. 98–353, § 305(1)][/us/pl/98/353/s305/1], (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    Pars. (2) to (5). [Pub. L. 98–353][/us/pl/98/353], § 305(1), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-    [Pub. L. 98–353, § 452][/us/pl/98/353/s452], which directed the insertion of “, whether or not immunity is granted under [section 344 of this title][/us/usc/t11/s344]” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
+    [Pub. L. 98–353][/us/pl/98/353], § 452, which directed the insertion of “, whether or not immunity is granted under [section 344 of this title][/us/usc/t11/s344]” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. B, title I, § 104(d)][/us/pl/113/295/s104/d], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
+[Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 104(d), Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 541 and 707 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
@@ -259,7 +259,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–8, title VI, § 603(e)][/us/pl/109/8/s603/e], Apr. 20, 2005, [119 Stat. 123][/us/stat/119/123], provided that: 
+[Pub. L. 109–8, title VI][/us/pl/109/8/tVI], § 603(e), Apr. 20, 2005, [119 Stat. 123][/us/stat/119/123], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 727 of this title][/us/usc/t11/s727] and [section 586 of Title 28][/us/usc/t28/s586], Judiciary and Judicial Procedure, and enacting provisions set out as a note under [section 586 of Title 28][/us/usc/t28/s586]\] shall take effect 18 months after the date of enactment of this Act \[Apr. 20, 2005\].”
 
@@ -275,7 +275,7 @@
 
  __Confidentiality of Tax Information__ 
 
-[Pub. L. 109–8, title III, § 315(c)][/us/pl/109/8/s315/c], Apr. 20, 2005, [119 Stat. 91][/us/stat/119/91], provided that:
+[Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 315(c), Apr. 20, 2005, [119 Stat. 91][/us/stat/119/91], provided that:
 
 >     “(1) Not later than 180 days after the date of the enactment of this Act \[Apr. 20, 2005\], the Director of the Administrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
 
@@ -297,7 +297,7 @@
 
  __Providing Requested Tax Documents to the Court__ 
 
-[Pub. L. 109–8, title XII, § 1228][/us/pl/109/8/s1228], Apr. 20, 2005, [119 Stat. 200][/us/stat/119/200], provided that:
+[Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1228, Apr. 20, 2005, [119 Stat. 200][/us/stat/119/200], provided that:
 
 >     “(a)  __Chapter__  __7__  __Cases__  __.—__ 
 
@@ -324,55 +324,55 @@
 [/us/usc/t11/s524/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs524%2Fd
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2586
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F352
-[/us/pl/99/554/s283/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fh
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3117
-[/us/pl/109/8/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fd
+[/us/pl/109/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtI
 [/us/stat/119/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F38
-[/us/pl/111/16/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F5
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
-[/us/pl/111/327/s2/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
-[/us/pl/113/295/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fc
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/pl/109/8/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fc
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/111/327/s2/a/16/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fiii
-[/us/pl/111/327/s2/a/16/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fi
-[/us/pl/111/327/s2/a/16/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fii
-[/us/pl/111/327/s2/a/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FB
-[/us/pl/111/16/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F5
-[/us/pl/111/16/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs2%2F6
-[/us/pl/109/8/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fd%2F1
-[/us/pl/109/8/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs304%2F1
-[/us/pl/109/8/s315/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fb%2F1
-[/us/pl/109/8/s305/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs305%2F2%2FA
-[/us/pl/109/8/s305/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs305%2F2%2FB
-[/us/pl/109/8/s305/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs305%2F2%2FC
-[/us/pl/109/8/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs603%2Fc
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t28/s586/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Ff
-[/us/pl/109/8/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs304%2F1
-[/us/pl/109/8/s446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs446%2Fa
-[/us/pl/109/8/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs106%2Fd%2F2
-[/us/pl/109/8/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs225%2Fb
-[/us/pl/109/8/s305/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs305%2F2%2FD
-[/us/pl/109/8/s315/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fb%2F2
-[/us/pl/109/8/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs316
-[/us/pl/109/8/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs720
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs344
-[/us/pl/98/353/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs305%2F2
-[/us/pl/98/353/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs305%2F1
-[/us/pl/98/353/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs452
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs344
-[/us/pl/113/295/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fd
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/109/8/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs603%2Fe
+[/us/pl/109/8/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVI
 [/us/stat/119/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F123
 [/us/usc/t11/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs727
 [/us/usc/t28/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586
@@ -386,9 +386,9 @@
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/109/8/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fc
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F91
-[/us/pl/109/8/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1228
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F200
 
 

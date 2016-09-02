@@ -43,7 +43,7 @@
 
         (2) shall excuse compliance with subsections (a) and (b)(1) of this section if the custodian is an assignee for the benefit of the debtor’s creditors that was appointed or took possession more than 120 days before the date of the filing of the petition, unless compliance with such subsections is necessary to prevent fraud or injustice.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2595][/us/stat/92/2595]; [Pub. L. 98–353, title III, § 458][/us/pl/98/353/s458], July 10, 1984, [98 Stat. 376][/us/stat/98/376]; [Pub. L. 103–394, title V, § 501(d)(17)][/us/pl/103/394/s501/d/17], Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2595][/us/stat/92/2595]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 458, July 10, 1984, [98 Stat. 376][/us/stat/98/376]; [Pub. L. 103–394, title V][/us/pl/103/394/tV], § 501(d)(17), Oct. 22, 1994, [108 Stat. 4146][/us/stat/108/4146].)
 
  __Historical and Revision Notes__ 
 
@@ -59,17 +59,17 @@
 
     1994—Subsec. (d)(1). [Pub. L. 103–394][/us/pl/103/394] struck out comma after “section”.
 
-    1984—Subsec. (a). [Pub. L. 98–353, § 458(a)][/us/pl/98/353/s458/a], inserted “, product, offspring, rents, or profits” after “proceeds”.
+    1984—Subsec. (a). [Pub. L. 98–353][/us/pl/98/353], § 458(a), inserted “, product, offspring, rents, or profits” after “proceeds”.
 
-    Subsec. (b)(1). [Pub. L. 98–353, § 458(b)(1)][/us/pl/98/353/s458/b/1], inserted “held by or” after “debtor”, and “, product, offspring, rents, or profits” after “proceeds”.
+    Subsec. (b)(1). [Pub. L. 98–353][/us/pl/98/353], § 458(b)(1), inserted “held by or” after “debtor”, and “, product, offspring, rents, or profits” after “proceeds”.
 
-    Subsec. (b)(2). [Pub. L. 98–353, § 458(b)(2)][/us/pl/98/353/s458/b/2], inserted “, product, offspring, rents, or profits” after “proceeds”.
+    Subsec. (b)(2). [Pub. L. 98–353][/us/pl/98/353], § 458(b)(2), inserted “, product, offspring, rents, or profits” after “proceeds”.
 
-    Subsec. (c)(1). [Pub. L. 98–353, § 458(c)(1)][/us/pl/98/353/s458/c/1], inserted “or proceeds, product, offspring, rents, or profits of such property” after “property”.
+    Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 458(c)(1), inserted “or proceeds, product, offspring, rents, or profits of such property” after “property”.
 
-    Subsec. (c)(3). [Pub. L. 98–353, § 458(c)(2)][/us/pl/98/353/s458/c/2], inserted “that has been” before “approved”.
+    Subsec. (c)(3). [Pub. L. 98–353][/us/pl/98/353], § 458(c)(2), inserted “that has been” before “approved”.
 
-    Subsec. (d). [Pub. L. 98–353, § 458(d)][/us/pl/98/353/s458/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 458(d), designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -88,17 +88,17 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2595
-[/us/pl/98/353/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F376
-[/us/pl/103/394/s501/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs501%2Fd%2F17
+[/us/pl/103/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtV
 [/us/stat/108/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4146
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/98/353/s458/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fa
-[/us/pl/98/353/s458/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fb%2F1
-[/us/pl/98/353/s458/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fb%2F2
-[/us/pl/98/353/s458/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fc%2F1
-[/us/pl/98/353/s458/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fc%2F2
-[/us/pl/98/353/s458/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs458%2Fd
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

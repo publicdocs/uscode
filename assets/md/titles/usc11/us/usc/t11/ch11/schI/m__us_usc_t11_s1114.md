@@ -101,13 +101,13 @@
 
     (m) This section shall not apply to any retiree, or the spouse or dependents of such retiree, if such retiree’s gross income for the twelve months preceding the filing of the bankruptcy petition equals or exceeds $250,000, unless such retiree can demonstrate to the satisfaction of the court that he is unable to obtain health, medical, life, and disability coverage for himself, his spouse, and his dependents who would otherwise be covered by the employer’s insurance plan, comparable to the coverage provided by the employer on the day before the filing of a petition under this title.
 
-(Added [Pub. L. 100–334, § 2(a)][/us/pl/100/334/s2/a], June 16, 1988, [102 Stat. 610][/us/stat/102/610]; amended [Pub. L. 109–8, title IV, § 447][/us/pl/109/8/s447], title XIV, § 1403, Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118], 215.)
+(Added [Pub. L. 100–334][/us/pl/100/334], § 2(a), June 16, 1988, [102 Stat. 610][/us/stat/102/610]; amended [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 447, title XIV, § 1403, Apr. 20, 2005, [119 Stat. 118][/us/stat/119/118], 215.)
 
  __Amendments__ 
 
-    2005—Subsec. (d). [Pub. L. 109–8, § 447][/us/pl/109/8/s447], substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
+    2005—Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
 
-    Subsecs. (l), (m). [Pub. L. 109–8, § 1403][/us/pl/109/8/s1403], added subsec. (l) and redesignated former subsec. (l) as (m).
+    Subsecs. (l), (m). [Pub. L. 109–8][/us/pl/109/8], § 1403, added subsec. (l) and redesignated former subsec. (l) as (m).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -117,7 +117,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–334, § 4][/us/pl/100/334/s4], June 16, 1988, [102 Stat. 615][/us/stat/102/615], provided that:
+[Pub. L. 100–334][/us/pl/100/334], § 4, June 16, 1988, [102 Stat. 615][/us/stat/102/615], provided that:
 
 >     “(a)  __General Effective Date__  __.—__ 
 
@@ -142,19 +142,19 @@
 [/us/usc/t11/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503
 [/us/usc/t11/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129
 [/us/usc/t11/s502/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502%2Fb%2F7
-[/us/pl/100/334/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334%2Fs2%2Fa
+[/us/pl/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334
 [/us/stat/102/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F610
-[/us/pl/109/8/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs447
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F118
-[/us/pl/109/8/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs447
-[/us/pl/109/8/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1403
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1403
 [/us/pl/109/8/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1406
 [/us/usc/t11/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507
 [/us/pl/109/8/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs447
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/100/334/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334%2Fs4
+[/us/pl/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F334
 [/us/stat/102/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F615
 [/us/usc/t11/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

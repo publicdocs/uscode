@@ -35,7 +35,7 @@
 
         (7) the plan is in the best interests of creditors and is feasible.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2624][/us/stat/92/2624]; [Pub. L. 98–353, title III, § 497][/us/pl/98/353/s497], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 100–597, § 10][/us/pl/100/597/s10], Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030]; [Pub. L. 109–8, title XV, § 1502(a)(6)][/us/pl/109/8/s1502/a/6], Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2624][/us/stat/92/2624]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 497, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 100–597][/us/pl/100/597], § 10, Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030]; [Pub. L. 109–8, title XV][/us/pl/109/8/tXV], § 1502(a)(6), Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 
  __References in Text__ 
 
-    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in subsec. (b)(1), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
+    [Section 103(e) of this title][/us/usc/t11/s103/e], referred to in subsec. (b)(1), was redesignated section 103(f) and a new section 103(e) was added by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(c)(5)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–394.
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 
     1988—Subsec. (b)(6), (7). [Pub. L. 100–597][/us/pl/100/597] added par. (6) and redesignated former par. (6) as (7).
 
-    1984—Subsec. (b)(4). [Pub. L. 98–353, § 497(1)][/us/pl/98/353/s497/1], struck out “to be taken” after “necessary”.
+    1984—Subsec. (b)(4). [Pub. L. 98–353][/us/pl/98/353], § 497(1), struck out “to be taken” after “necessary”.
 
-    Subsec. (b)(5). [Pub. L. 98–353, § 497(2)][/us/pl/98/353/s497/2], substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide for payment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
+    Subsec. (b)(5). [Pub. L. 98–353][/us/pl/98/353], § 497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide for payment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -87,20 +87,20 @@
 [/us/usc/t11/s507/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa%2F2
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2624
-[/us/pl/98/353/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs497
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/100/597/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs10
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3030
-[/us/pl/109/8/s1502/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fa%2F6
+[/us/pl/109/8/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXV
 [/us/stat/119/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F216
 [/us/usc/t11/s1129/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1129%2Fa%2F7
 [/us/usc/t11/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs103%2Fe
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
-[/us/pl/98/353/s497/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs497%2F1
-[/us/pl/98/353/s497/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs497%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

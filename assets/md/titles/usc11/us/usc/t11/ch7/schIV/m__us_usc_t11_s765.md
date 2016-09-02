@@ -25,7 +25,7 @@
 
     (b) The trustee shall comply, to the extent practicable, with any instruction received from a customer regarding such customer’s desired disposition of any commodity contract specifically identified to such customer. If the trustee has transferred, under [section 766 of this title][/us/usc/t11/s766], such a commodity contract, the trustee shall transmit any such instruction to the commodity broker to whom such commodity contract was so transferred.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2619][/us/stat/92/2619]; [Pub. L. 97–222, § 18][/us/pl/97/222/s18], July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III, § 488][/us/pl/98/353/s488], July 10, 1984, [98 Stat. 383][/us/stat/98/383].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2619][/us/stat/92/2619]; [Pub. L. 97–222][/us/pl/97/222], § 18, July 27, 1982, [96 Stat. 240][/us/stat/96/240]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 488, July 10, 1984, [98 Stat. 383][/us/stat/98/383].)
 
  __Historical and Revision Notes__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t11/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs766
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2619
-[/us/pl/97/222/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222%2Fs18
+[/us/pl/97/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F222
 [/us/stat/96/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F240
-[/us/pl/98/353/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs488
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F383
 [/us/usc/t11/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs766
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353

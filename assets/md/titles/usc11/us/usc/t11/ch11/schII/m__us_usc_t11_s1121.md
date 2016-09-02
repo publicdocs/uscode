@@ -63,7 +63,7 @@
 
             (C) the order extending time is signed before the existing deadline has expired.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2631][/us/stat/92/2631]; [Pub. L. 98–353, title III, § 506][/us/pl/98/353/s506], July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 99–554, title II, § 283(u)][/us/pl/99/554/s283/u], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 103–394, title II, § 217(d)][/us/pl/103/394/s217/d], Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8], §§ 411, 437, Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106], 113.)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2631][/us/stat/92/2631]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 506, July 10, 1984, [98 Stat. 385][/us/stat/98/385]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 283(u), Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 217(d), Oct. 22, 1994, [108 Stat. 4127][/us/stat/108/4127]; [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], §§ 411, 437, Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106], 113.)
 
  __Historical and Revision Notes__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (d). [Pub. L. 109–8, § 411][/us/pl/109/8/s411], designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
+    2005—Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
 
-    Subsec. (e). [Pub. L. 109–8, § 437][/us/pl/109/8/s437], added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
+    Subsec. (e). [Pub. L. 109–8][/us/pl/109/8], § 437, added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
 
     “(1) only the debtor may file a plan until after 100 days after the date of the order for relief under this chapter;
 
@@ -99,9 +99,9 @@
 
     1986—Subsec. (d). [Pub. L. 99–554][/us/pl/99/554] inserted reference to subsection (b) of this section.
 
-    1984—Subsec. (c)(3). [Pub. L. 98–353, § 506(a)][/us/pl/98/353/s506/a], substituted “of claims or interests that is” for “the claims or interests of which are”.
+    1984—Subsec. (c)(3). [Pub. L. 98–353][/us/pl/98/353], § 506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
 
-    Subsec. (d). [Pub. L. 98–353, § 506(b)][/us/pl/98/353/s506/b], inserted “made within the respective periods specified in subsection (c) of this section”.
+    Subsec. (d). [Pub. L. 98–353][/us/pl/98/353], § 506(b), inserted “made within the respective periods specified in subsection (c) of this section”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -128,20 +128,20 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2631
-[/us/pl/98/353/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs506
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F385
-[/us/pl/99/554/s283/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fu
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/103/394/s217/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs217%2Fd
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4127
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F106
-[/us/pl/109/8/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs411
-[/us/pl/109/8/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs437
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/98/353/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs506%2Fa
-[/us/pl/98/353/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs506%2Fb
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

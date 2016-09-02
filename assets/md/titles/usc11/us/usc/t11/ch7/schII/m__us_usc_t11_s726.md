@@ -71,7 +71,7 @@
 
             (D) Fourth, to the extent that community claims against the debtor or the debtor’s spouse are not paid under subparagraph (A), (B), or (C) of this paragraph, such claims shall be paid from all remaining property of the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2608][/us/stat/92/2608]; [Pub. L. 98–353, title III, § 479][/us/pl/98/353/s479], July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 257(r), 283(s), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115], 3118; [Pub. L. 103–394, title II, § 213(b)][/us/pl/103/394/s213/b], title III, § 304(h)(5), title V, § 501(d)(24), Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126], 4134, 4146; [Pub. L. 109–8, title VII, § 713][/us/pl/109/8/s713], title XII, § 1215, Apr. 20, 2005, [119 Stat. 128][/us/stat/119/128], 195; [Pub. L. 111–327, § 2(a)(28)][/us/pl/111/327/s2/a/28], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2608][/us/stat/92/2608]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 479, July 10, 1984, [98 Stat. 381][/us/stat/98/381]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], §§ 257(r), 283(s), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115], 3118; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 213(b), title III, § 304(h)(5), title V, § 501(d)(24), Oct. 22, 1994, [108 Stat. 4126][/us/stat/108/4126], 4134, 4146; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 713, title XII, § 1215, Apr. 20, 2005, [119 Stat. 128][/us/stat/119/128], 195; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(28), Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
 
  __Historical and Revision Notes__ 
 
@@ -107,23 +107,23 @@
 
     2010—Subsec. (b). [Pub. L. 111–327][/us/pl/111/327] substituted “(8), (9), or (10)” for “or (8)”.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 713][/us/pl/109/8/s713], substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
 
-    Subsec. (b). [Pub. L. 109–8, § 1215][/us/pl/109/8/s1215], struck out “1009,” before “1112”.
+    Subsec. (b). [Pub. L. 109–8][/us/pl/109/8], § 1215, struck out “1009,” before “1112”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–394, § 213(b)][/us/pl/103/394/s213/b], inserted before semicolon at end “, proof of which is timely filed under [section 501 of this title][/us/usc/t11/s501] or tardily filed before the date on which the trustee commences distribution under this section”.
+    1994—Subsec. (a)(1). [Pub. L. 103–394][/us/pl/103/394], § 213(b), inserted before semicolon at end “, proof of which is timely filed under [section 501 of this title][/us/usc/t11/s501] or tardily filed before the date on which the trustee commences distribution under this section”.
 
     Subsec. (b). [Pub. L. 103–394][/us/pl/103/394], §§ 304(h)(5), 501(d)(24), substituted “, (7), or (8)” for “or (7)” and “chapter under section 1009, 1112,” for “chapter under section 1112”.
 
-    1986—Subsec. (b). [Pub. L. 99–554, § 283(s)][/us/pl/99/554/s283/s], inserted reference to par. (7) of [section 507(a) of this title][/us/usc/t11/s507/a].
+    1986—Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 283(s), inserted reference to par. (7) of [section 507(a) of this title][/us/usc/t11/s507/a].
 
-    [Pub. L. 99–554, § 257(r)][/us/pl/99/554/s257/r], inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
+    [Pub. L. 99–554][/us/pl/99/554], § 257(r), inserted reference to [section 1208 of this title][/us/usc/t11/s1208].
 
-    1984—Subsec. (b). [Pub. L. 98–353, § 479(a)][/us/pl/98/353/s479/a], substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under [section 503(b) of this title][/us/usc/t11/s503/b]” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
+    1984—Subsec. (b). [Pub. L. 98–353][/us/pl/98/353], § 479(a), substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under [section 503(b) of this title][/us/usc/t11/s503/b]” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
 
-    Subsec. (c)(1). [Pub. L. 98–353, § 479(b)(1)][/us/pl/98/353/s479/b/1], substituted “Claims allowed under [section 503 of this title][/us/usc/t11/s503]” for “Administrative expenses”.
+    Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 479(b)(1), substituted “Claims allowed under [section 503 of this title][/us/usc/t11/s503]” for “Administrative expenses”.
 
-    Subsec. (c)(2). [Pub. L. 98–353, § 479(b)(2)][/us/pl/98/353/s479/b/2], substituted “Allowed claims, other than claims allowed under [section 503 of this title][/us/usc/t11/s503],” for “Claims other than for administrative expenses”.
+    Subsec. (c)(2). [Pub. L. 98–353][/us/pl/98/353], § 479(b)(2), substituted “Allowed claims, other than claims allowed under [section 503 of this title][/us/usc/t11/s503],” for “Claims other than for administrative expenses”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -171,32 +171,32 @@
 [/us/usc/t11/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs541%2Fa%2F2
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2608
-[/us/pl/98/353/s479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs479
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F381
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115
-[/us/pl/103/394/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs213%2Fb
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4126
-[/us/pl/109/8/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs713
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F128
-[/us/pl/111/327/s2/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F28
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
 [/us/usc/t11/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs725
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs713
-[/us/pl/109/8/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1215
-[/us/pl/103/394/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs213%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t11/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
-[/us/pl/99/554/s283/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs283%2Fs
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa
-[/us/pl/99/554/s257/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fr
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1208
-[/us/pl/98/353/s479/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs479%2Fa
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb
-[/us/pl/98/353/s479/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs479%2Fb%2F1
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503
-[/us/pl/98/353/s479/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs479%2Fb%2F2
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t11/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

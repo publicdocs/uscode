@@ -19,7 +19,7 @@
 
     (b) A committee elected under subsection (a) of this section may consult with the trustee or the United States trustee in connection with the administration of the estate, make recommendations to the trustee or the United States trustee respecting the performance of the trustee’s duties, and submit to the court or the United States trustee any question affecting the administration of the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 99–554, title II, § 218][/us/pl/99/554/s218], Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2605][/us/stat/92/2605]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 218, Oct. 27, 1986, [100 Stat. 3100][/us/stat/100/3100].)
 
  __Historical and Revision Notes__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t11/s726/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726%2Fa%2F2
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2605
-[/us/pl/99/554/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs218
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3100
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

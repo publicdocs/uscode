@@ -17,7 +17,7 @@
 
     An appearance in a bankruptcy court by a foreign representative in connection with a petition or request under section 303 or 305 of this title does not submit such foreign representative to the jurisdiction of any court in the United States for any other purpose, but the bankruptcy court may condition any order under section 303 or 305 of this title on compliance by such foreign representative with the orders of such bankruptcy court.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 109–8, title VIII, § 802(d)(5)][/us/pl/109/8/s802/d/5], Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2561][/us/stat/92/2561]; [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(d)(5), Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2561
-[/us/pl/109/8/s802/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fd%2F5
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F146
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

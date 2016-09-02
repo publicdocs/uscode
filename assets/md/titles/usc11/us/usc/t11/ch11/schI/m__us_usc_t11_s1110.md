@@ -73,7 +73,7 @@
 
         (2) the term “security interest” means a purchase-money equipment security interest.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2629][/us/stat/92/2629]; [Pub. L. 103–272, § 5(c)][/us/pl/103/272/s5/c], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–394, title II, § 201(a)][/us/pl/103/394/s201/a], Oct. 22, 1994, [108 Stat. 4119][/us/stat/108/4119]; [Pub. L. 106–181, title VII, § 744(b)][/us/pl/106/181/s744/b], Apr. 5, 2000, [114 Stat. 177][/us/stat/114/177]; [Pub. L. 109–304, § 17(b)(2)][/us/pl/109/304/s17/b/2], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2629][/us/stat/92/2629]; [Pub. L. 103–272][/us/pl/103/272], § 5(c), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–394, title II][/us/pl/103/394/tII], § 201(a), Oct. 22, 1994, [108 Stat. 4119][/us/stat/108/4119]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 744(b), Apr. 5, 2000, [114 Stat. 177][/us/stat/114/177]; [Pub. L. 109–304][/us/pl/109/304], § 17(b)(2), Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
 
  __Historical and Revision Notes__ 
 
@@ -159,13 +159,13 @@
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2629
-[/us/pl/103/272/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
-[/us/pl/103/394/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs201%2Fa
+[/us/pl/103/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtII
 [/us/stat/108/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4119
-[/us/pl/106/181/s744/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs744%2Fb
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F177
-[/us/pl/109/304/s17/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fb%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1707
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s30101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30101%2F1

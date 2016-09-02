@@ -129,7 +129,7 @@
 
     (i) In all cases where the quantity of a specific type of grain held by a debtor operating a grain storage facility exceeds ten thousand bushels, such grain shall be sold by the trustee and the assets thereof distributed in accordance with the provisions of this section.
 
-(Added [Pub. L. 98–353, title III, § 352(a)][/us/pl/98/353/s352/a], July 10, 1984, [98 Stat. 359][/us/stat/98/359]; amended [Pub. L. 99–554, title II, § 257(p)][/us/pl/99/554/s257/p], Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115].)
+(Added [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 352(a), July 10, 1984, [98 Stat. 359][/us/stat/98/359]; amended [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(p), Oct. 27, 1986, [100 Stat. 3115][/us/stat/100/3115].)
 
  __Amendments__ 
 
@@ -153,9 +153,9 @@
 [/us/usc/t11/s362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362%2Fa
 [/us/usc/t11/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503%2Fb
 [/us/usc/t11/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs326%2Fa
-[/us/pl/98/353/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs352%2Fa
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F359
-[/us/pl/99/554/s257/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fp
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3115
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1202

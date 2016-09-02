@@ -29,7 +29,7 @@
 
     (d) Notwithstanding [section 362 of this title][/us/usc/t11/s362] and subsection (a) of this section, a petition filed under this chapter does not operate as a stay of application of pledged special revenues in a manner consistent with [section 927 of this title][/us/usc/t11/s927] to payment of indebtedness secured by such revenues.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623]; [Pub. L. 98–353, title III, § 495][/us/pl/98/353/s495], July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 100–597, § 5][/us/pl/100/597/s5], Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2623][/us/stat/92/2623]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 495, July 10, 1984, [98 Stat. 384][/us/stat/98/384]; [Pub. L. 100–597][/us/pl/100/597], § 5, Nov. 3, 1988, [102 Stat. 3029][/us/stat/102/3029].)
 
  __Historical and Revision Notes__ 
 
@@ -67,9 +67,9 @@
 [/us/usc/t11/s927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs927
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2623
-[/us/pl/98/353/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs495
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F384
-[/us/pl/100/597/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597%2Fs5
+[/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597
 [/us/stat/102/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3029
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362
 [/us/pl/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F597

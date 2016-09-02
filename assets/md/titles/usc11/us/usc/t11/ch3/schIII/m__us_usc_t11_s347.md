@@ -19,7 +19,7 @@
 
     (b) Any security, money, or other property remaining unclaimed at the expiration of the time allowed in a case under chapter 9, 11, or 12 of this title for the presentation of a security or the performance of any other act as a condition to participation in the distribution under any plan confirmed under section 943(b), 1129, 1173, or 1225 of this title, as the case may be, becomes the property of the debtor or of the entity acquiring the assets of the debtor under the plan, as the case may be.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2568][/us/stat/92/2568]; [Pub. L. 99–554, title II, § 257(h)][/us/pl/99/554/s257/h], Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2568][/us/stat/92/2568]; [Pub. L. 99–554, title II][/us/pl/99/554/tII], § 257(h), Oct. 27, 1986, [100 Stat. 3114][/us/stat/100/3114].)
 
  __Historical and Revision Notes__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 257(h)(1)][/us/pl/99/554/s257/h/1], inserted references to section 1226 and chapter 12 of this title.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 257(h)(1), inserted references to section 1226 and chapter 12 of this title.
 
-    Subsec. (b). [Pub. L. 99–554, § 257(h)(2)][/us/pl/99/554/s257/h/2], inserted references to chapter 12 and [section 1225 of this title][/us/usc/t11/s1225].
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 257(h)(2), inserted references to chapter 12 and [section 1225 of this title][/us/usc/t11/s1225].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -52,10 +52,10 @@
 
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2568
-[/us/pl/99/554/s257/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fh
+[/us/pl/99/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtII
 [/us/stat/100/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3114
-[/us/pl/99/554/s257/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fh%2F1
-[/us/pl/99/554/s257/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs257%2Fh%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/usc/t11/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1225
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

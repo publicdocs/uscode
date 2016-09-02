@@ -207,7 +207,7 @@
 
             (B) Fines imposed under this subsection in judicial districts served by bankruptcy administrators shall be deposited as offsetting receipts to the fund established under [section 1931 of title 28][/us/usc/t28/s1931], and shall remain available until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the operation and maintenance of the courts of the United States.
 
-(Added [Pub. L. 103–394, title III, § 308(a)][/us/pl/103/394/s308/a], Oct. 22, 1994, [108 Stat. 4135][/us/stat/108/4135]; amended [Pub. L. 109–8, title II, § 221][/us/pl/109/8/s221], title XII, § 1205, Apr. 20, 2005, [119 Stat. 59][/us/stat/119/59], 194; [Pub. L. 110–161, div. B, title II, § 212(b)][/us/pl/110/161/s212/b], Dec. 26, 2007, [121 Stat. 1914][/us/stat/121/1914]; [Pub. L. 111–327, § 2(a)(7)][/us/pl/111/327/s2/a/7], Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
+(Added [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 308(a), Oct. 22, 1994, [108 Stat. 4135][/us/stat/108/4135]; amended [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 221, title XII, § 1205, Apr. 20, 2005, [119 Stat. 59][/us/stat/119/59], 194; [Pub. L. 110–161, div. B, title II][/us/pl/110/161/dB/tII], § 212(b), Dec. 26, 2007, [121 Stat. 1914][/us/stat/121/1914]; [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7), Dec. 22, 2010, [124 Stat. 3558][/us/stat/124/3558].)
 
  __References in Text__ 
 
@@ -215,63 +215,63 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2)(A). [Pub. L. 111–327, § 2(a)(7)(A)][/us/pl/111/327/s2/a/7/A], inserted “or on behalf of” after “from”.
+    2010—Subsec. (b)(2)(A). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7)(A), inserted “or on behalf of” after “from”.
 
-    Subsec. (h)(1). [Pub. L. 111–327, § 2(a)(7)(B)(i)][/us/pl/111/327/s2/a/7/B/i], in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
+    Subsec. (h)(1). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
 
-    Subsec. (h)(3)(A). [Pub. L. 111–327, § 2(a)(7)(B)(ii)(I)][/us/pl/111/327/s2/a/7/B/ii/I], struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
+    Subsec. (h)(3)(A). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
 
-    Subsec. (h)(3)(A)(i). [Pub. L. 111–327, § 2(a)(7)(B)(ii)(II)][/us/pl/111/327/s2/a/7/B/ii/II], inserted “found to be in excess of the value of any services” after “(i)”.
+    Subsec. (h)(3)(A)(i). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
 
-    Subsec. (h)(4). [Pub. L. 111–327, § 2(a)(7)(B)(iii)][/us/pl/111/327/s2/a/7/B/iii], substituted “paragraph (3)” for “paragraph (2)”.
+    Subsec. (h)(4). [Pub. L. 111–327][/us/pl/111/327], § 2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
 
     2007—Subsec. (l)(4)(A). [Pub. L. 110–161][/us/pl/110/161] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in [section 586(e)(2) of title 28][/us/usc/t28/s586/e/2]. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 221(1)][/us/pl/109/8/s221/1], substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
-    Subsec. (b)(1). [Pub. L. 109–8, § 221(2)(A)][/us/pl/109/8/s221/2/A], inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
+    Subsec. (b)(1). [Pub. L. 109–8][/us/pl/109/8], § 221(2)(A), inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
 
-    Subsec. (b)(2). [Pub. L. 109–8, § 221(2)(B)][/us/pl/109/8/s221/2/B], added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+    Subsec. (b)(2). [Pub. L. 109–8][/us/pl/109/8], § 221(2)(B), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-    Subsec. (c)(2). [Pub. L. 109–8, § 221(3)(A)][/us/pl/109/8/s221/3/A], designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), for purposes” for “For purposes”, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 109–8][/us/pl/109/8], § 221(3)(A), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), for purposes” for “For purposes”, and added subpar. (B).
 
-    Subsec. (c)(3). [Pub. L. 109–8, § 221(3)(B)][/us/pl/109/8/s221/3/B], struck out par. (3) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+    Subsec. (c)(3). [Pub. L. 109–8][/us/pl/109/8], § 221(3)(B), struck out par. (3) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-    Subsec. (d). [Pub. L. 109–8, § 221(4)][/us/pl/109/8/s221/4], struck out par. (1) designation before “A bankruptcy petition preparer shall” and struck out par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 221(4), struck out par. (1) designation before “A bankruptcy petition preparer shall” and struck out par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-    Subsec. (e)(2). [Pub. L. 109–8, § 221(5)][/us/pl/109/8/s221/5], added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).”
+    Subsec. (e)(2). [Pub. L. 109–8][/us/pl/109/8], § 221(5), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).”
 
-    Subsec. (f). [Pub. L. 109–8, § 221(6)][/us/pl/109/8/s221/6], struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
+    Subsec. (f). [Pub. L. 109–8][/us/pl/109/8], § 221(6), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 
-    Subsec. (g). [Pub. L. 109–8, § 221(7)][/us/pl/109/8/s221/7], struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
+    Subsec. (g). [Pub. L. 109–8][/us/pl/109/8], § 221(7), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 
-    Subsec. (h)(1). [Pub. L. 109–8, § 221(8)(B)][/us/pl/109/8/s221/8/B], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (h)(1). [Pub. L. 109–8][/us/pl/109/8], § 221(8)(B), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (h)(2). [Pub. L. 109–8, § 221(8)(A)][/us/pl/109/8/s221/8/A], (C), redesignated par. (1) as (2), substituted “A” for “Within 10 days after the date of the filing of a petition, a bankruptcy petition preparer shall file a”, inserted “by the bankruptcy petition preparer shall be filed together with the petition,” after “perjury”, and inserted at end “If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).” Former par. (2) redesignated (3).
+    Subsec. (h)(2). [Pub. L. 109–8][/us/pl/109/8], § 221(8)(A), (C), redesignated par. (1) as (2), substituted “A” for “Within 10 days after the date of the filing of a petition, a bankruptcy petition preparer shall file a”, inserted “by the bankruptcy petition preparer shall be filed together with the petition,” after “perjury”, and inserted at end “If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).” Former par. (2) redesignated (3).
 
-    Subsec. (h)(3). [Pub. L. 109–8, § 221(8)(D)][/us/pl/109/8/s221/8/D], added par. (3) and struck out former par. (3) which read as follows: “The court shall disallow and order the immediate turnover to the bankruptcy trustee of any fee referred to in paragraph (1) found to be in excess of the value of services rendered for the documents prepared. An individual debtor may exempt any funds so recovered under section 522(b).”
+    Subsec. (h)(3). [Pub. L. 109–8][/us/pl/109/8], § 221(8)(D), added par. (3) and struck out former par. (3) which read as follows: “The court shall disallow and order the immediate turnover to the bankruptcy trustee of any fee referred to in paragraph (1) found to be in excess of the value of services rendered for the documents prepared. An individual debtor may exempt any funds so recovered under section 522(b).”
 
-    [Pub. L. 109–8, § 221(8)(A)][/us/pl/109/8/s221/8/A] redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 109–8][/us/pl/109/8], § 221(8)(A) redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (h)(4). [Pub. L. 109–8, § 221(8)(E)][/us/pl/109/8/s221/8/E], substituted “the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court,” for “or the United States trustee”.
+    Subsec. (h)(4). [Pub. L. 109–8][/us/pl/109/8], § 221(8)(E), substituted “the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court,” for “or the United States trustee”.
 
-    [Pub. L. 109–8, § 221(8)(A)][/us/pl/109/8/s221/8/A] redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    [Pub. L. 109–8][/us/pl/109/8], § 221(8)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (h)(5). [Pub. L. 109–8, § 221(8)(A)][/us/pl/109/8/s221/8/A] redesignated par. (4) as (5).
+    Subsec. (h)(5). [Pub. L. 109–8][/us/pl/109/8], § 221(8)(A) redesignated par. (4) as (5).
 
-    Subsec. (i)(1). [Pub. L. 109–8, § 221(9)][/us/pl/109/8/s221/9], inserted introductory provisions and struck out former introductory provisions which read as follows: “If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in [section 521(1) of this title][/us/usc/t11/s521/1], the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—”.
+    Subsec. (i)(1). [Pub. L. 109–8][/us/pl/109/8], § 221(9), inserted introductory provisions and struck out former introductory provisions which read as follows: “If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in [section 521(1) of this title][/us/usc/t11/s521/1], the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—”.
 
-    Subsec. (j)(2)(A)(i)(I). [Pub. L. 109–8, § 221(10)(A)(i)][/us/pl/109/8/s221/10/A/i], struck out “a violation of which subjects a person to criminal penalty” after “any provision of this title”.
+    Subsec. (j)(2)(A)(i)(I). [Pub. L. 109–8][/us/pl/109/8], § 221(10)(A)(i), struck out “a violation of which subjects a person to criminal penalty” after “any provision of this title”.
 
-    Subsec. (j)(2)(B). [Pub. L. 109–8, § 221(10)(A)(ii)][/us/pl/109/8/s221/10/A/ii], substituted “has not paid a penalty” for “or has not paid a penalty” and inserted “or failed to disgorge all fees ordered by the court” after “a penalty imposed under this section,”.
+    Subsec. (j)(2)(B). [Pub. L. 109–8][/us/pl/109/8], § 221(10)(A)(ii), substituted “has not paid a penalty” for “or has not paid a penalty” and inserted “or failed to disgorge all fees ordered by the court” after “a penalty imposed under this section,”.
 
-    Subsec. (j)(3). [Pub. L. 109–8, § 221(10)(C)][/us/pl/109/8/s221/10/C] added par. (3). Former par. (3) redesignated (4).
+    Subsec. (j)(3). [Pub. L. 109–8][/us/pl/109/8], § 221(10)(C) added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (j)(4). [Pub. L. 109–8, § 1205][/us/pl/109/8/s1205], substituted “attorneys” for “attorney’s”.
+    Subsec. (j)(4). [Pub. L. 109–8][/us/pl/109/8], § 1205, substituted “attorneys” for “attorney’s”.
 
-    [Pub. L. 109–8, § 221(10)(B)][/us/pl/109/8/s221/10/B], redesignated par. (3) as (4).
+    [Pub. L. 109–8][/us/pl/109/8], § 221(10)(B), redesignated par. (3) as (4).
 
-    Subsec. (l). [Pub. L. 109–8, § 221(11)][/us/pl/109/8/s221/11], added subsec. (l).
+    Subsec. (l). [Pub. L. 109–8][/us/pl/109/8], § 221(11), added subsec. (l).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -290,45 +290,45 @@
 
 [/us/usc/t28/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2075
 [/us/usc/t28/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931
-[/us/pl/103/394/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs308%2Fa
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4135
-[/us/pl/109/8/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F59
-[/us/pl/110/161/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs212%2Fb
+[/us/pl/110/161/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtII
 [/us/stat/121/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1914
-[/us/pl/111/327/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3558
-[/us/pl/111/327/s2/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7%2FA
-[/us/pl/111/327/s2/a/7/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7%2FB%2Fi
-[/us/pl/111/327/s2/a/7/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7%2FB%2Fii%2FI
-[/us/pl/111/327/s2/a/7/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7%2FB%2Fii%2FII
-[/us/pl/111/327/s2/a/7/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F7%2FB%2Fiii
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t28/s586/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs586%2Fe%2F2
-[/us/pl/109/8/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F1
-[/us/pl/109/8/s221/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F2%2FA
-[/us/pl/109/8/s221/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F2%2FB
-[/us/pl/109/8/s221/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F3%2FA
-[/us/pl/109/8/s221/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F3%2FB
-[/us/pl/109/8/s221/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F4
-[/us/pl/109/8/s221/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F5
-[/us/pl/109/8/s221/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F6
-[/us/pl/109/8/s221/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F7
-[/us/pl/109/8/s221/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FB
-[/us/pl/109/8/s221/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FA
-[/us/pl/109/8/s221/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FD
-[/us/pl/109/8/s221/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FA
-[/us/pl/109/8/s221/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FE
-[/us/pl/109/8/s221/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FA
-[/us/pl/109/8/s221/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F8%2FA
-[/us/pl/109/8/s221/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F9
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t11/s521/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521%2F1
-[/us/pl/109/8/s221/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F10%2FA%2Fi
-[/us/pl/109/8/s221/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F10%2FA%2Fii
-[/us/pl/109/8/s221/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F10%2FC
-[/us/pl/109/8/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1205
-[/us/pl/109/8/s221/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F10%2FB
-[/us/pl/109/8/s221/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs221%2F11
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

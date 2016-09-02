@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affect the priority of any unsecured claim it may have after the exercise of such rights.
 
-(Added [Pub. L. 109–8, title IX, § 907(m)][/us/pl/109/8/s907/m], Apr. 20, 2005, [119 Stat. 181][/us/stat/119/181].)
+(Added [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 907(m), Apr. 20, 2005, [119 Stat. 181][/us/stat/119/181].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s907/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs907%2Fm
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F181
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
