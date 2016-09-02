@@ -75,7 +75,7 @@
 
         (2) __Bankruptcy__ 
 
-            A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+            A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
 
         (3) __Limited payment if percentage at least 60 percent but less than 80 percent__ 
 
@@ -319,7 +319,7 @@
 
         For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
 
-(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)][/us/pl/109/280/s113/a/1/B], Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I, § 101(c)(2)][/us/pl/110/458/s101/c/2], Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(2)][/us/pl/111/192/s203/a/2], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300]; [Pub. L. 113–97, title II, § 202(c)(3)(B)][/us/pl/113/97/s202/c/3/B], Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136].)
+(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)][/us/pl/109/280/s113/a/1/B], Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I, § 101(c)(2)][/us/pl/110/458/s101/c/2], Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(2)][/us/pl/111/192/s203/a/2], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300]; [Pub. L. 113–97, title II, § 202(c)(3)(B)][/us/pl/113/97/s202/c/3/B], Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136]; [Pub. L. 113–159, title II, § 2003(c)(1)][/us/pl/113/159/s2003/c/1], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850].)
 
  __References in Text__ 
 
@@ -330,6 +330,8 @@
  __Amendments__ 
 
     2014—Subsec. (a). [Pub. L. 113–97][/us/pl/113/97] substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
+
+    Subsec. (d)(2). [Pub. L. 113–159, § 2003(c)(1)][/us/pl/113/159/s2003/c/1], substituted “of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))” for “of such plan”.
 
     2010—Subsec. (j)(3). [Pub. L. 111–192][/us/pl/111/192] added par. (3) relating to special rule for certain years.
 
@@ -350,6 +352,16 @@
     Subsecs. (k) to (m). [Pub. L. 110–458, § 101(c)(2)(F)][/us/pl/110/458/s101/c/2/F], added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
 
  __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–159, title II, § 2003(c)(3)][/us/pl/113/159/s2003/c/3], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 1056 of Title 29][/us/usc/t29/s1056], Labor\] shall apply to plan years beginning after December 31, 2014.
+
+>     “(B)  __Collectively bargained plans__  __.—__ 
+
+>     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements, the amendments made by this subsection shall apply to plan years beginning after December 31, 2015.”
 
     Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
@@ -393,6 +405,38 @@
 
 >         For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
 
+ __Provisions Relating to Plan Amendments__ 
+
+[Pub. L. 113–159, title II, § 2003(c)(4)][/us/pl/113/159/s2003/c/4], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     If this paragraph applies to any amendment to any plan or annuity contract, such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii).
+
+>     “(B) __Amendments to which paragraph applies.—__ 
+
+>         “(i)  __In general__  __.—__ 
+
+>         This paragraph shall apply to any amendment to any plan or annuity contract which is made—
+
+>             “(I) pursuant to the amendments made by this subsection \[amending this section and [section 1056 of Title 29][/us/usc/t29/s1056], Labor\], or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor under any provision as so amended, and
+
+>             “(II) on or before the last day of the first plan year beginning on or after January 1, 2016, or such later date as the Secretary of the Treasury may prescribe.
+
+>         “(ii)  __Conditions__  __.—__ 
+
+>         This subsection \[amending this section and [section 1056 of Title 29][/us/usc/t29/s1056], Labor, and enacting provisions set out as a note under this section\] shall not apply to any amendment unless, during the period—
+
+>             “(I) beginning on the date that the amendments made by this subsection or the regulation described in clause (i)(I) takes effect (or in the case of a plan or contract amendment not required by such amendments or such regulation, the effective date specified by the plan), and
+
+>             “(II) ending on the date described in clause (i)(II) (or, if earlier, the date the plan or contract amendment is adopted),
+
+>             the plan or contract is operated as if such plan or contract amendment were in effect, and such plan or contract amendment applies retroactively for such period.
+
+>     “(C)  __Anti-cutback relief__  __.—__ 
+
+>     A plan shall not be treated as failing to meet the requirements of section 204(g) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1054(g)][/us/usc/t29/s1054/g]) and section 411(d)(6) of the Internal Revenue Code of 1986 \[[26 U.S.C. 411(d)(6)][/us/usc/t26/s411/d/6]\] solely by reason of a plan amendment to which this paragraph applies.”
+
  __Temporary Modification of Application of Limitation on Benefit Accruals__ 
 
 [Pub. L. 111–192, title II, § 203(b)][/us/pl/111/192/s203/b], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that: 
@@ -422,9 +466,12 @@
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
 [/us/pl/113/97/s202/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FB
 [/us/stat/128/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1136
+[/us/pl/113/159/s2003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F1
+[/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1112
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/159/s2003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F1
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/pl/110/458/s101/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FA
 [/us/pl/110/458/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FB
@@ -434,6 +481,9 @@
 [/us/pl/110/458/s101/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fi
 [/us/pl/110/458/s101/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fii
 [/us/pl/110/458/s101/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FF
+[/us/pl/113/159/s2003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F3
+[/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
+[/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -448,6 +498,12 @@
 [/us/stat/120/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F852
 [/us/pl/110/458/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F3
 [/us/stat/122/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5098
+[/us/pl/113/159/s2003/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F4
+[/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
+[/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
+[/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
+[/us/usc/t29/s1054/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fg
+[/us/usc/t26/s411/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fd%2F6
 [/us/pl/111/192/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fb
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458

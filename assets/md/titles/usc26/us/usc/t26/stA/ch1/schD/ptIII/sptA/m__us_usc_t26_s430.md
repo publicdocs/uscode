@@ -681,7 +681,7 @@
 
             For purposes of determining the funding target and target normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
-                (i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the first day of the plan year, the first segment rate with respect to the applicable month,
+                (i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
 
                 (ii) in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
 
@@ -735,7 +735,7 @@
 
                             <td> 
 
-                        2012  </td>
+                        2012, 2013, 2014, 2015, 2016, or 2017  </td>
 
                             <td> 
 
@@ -751,7 +751,7 @@
 
                             <td> 
 
-                        2013  </td>
+                        2018  </td>
 
                             <td> 
 
@@ -767,7 +767,7 @@
 
                             <td> 
 
-                        2014  </td>
+                        2019  </td>
 
                             <td> 
 
@@ -783,7 +783,7 @@
 
                             <td> 
 
-                        2015  </td>
+                        2020  </td>
 
                             <td> 
 
@@ -799,7 +799,7 @@
 
                             <td> 
 
-                        After 2015  </td>
+                        After 2020  </td>
 
                             <td> 
 
@@ -807,7 +807,7 @@
 
                             <td> 
 
-                        130%.    </td>
+                        130%.  </td>
 
   </tr>
 
@@ -1423,7 +1423,7 @@
 
         In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847.)
+(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847; [Pub. L. 113–159, title II, § 2003(a)][/us/pl/113/159/s2003/a], (d)(1), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1440,6 +1440,110 @@
     The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(1)][/us/pl/113/159/s2003/d/1], substituted “the valuation date for the plan year” for “the first day of the plan year”.
+
+    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(a)][/us/pl/113/159/s2003/a], amended table generally. Prior to amendment, table read as follows:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+“If the calendar year is:  </td>
+
+    <td> 
+
+The applicable minimum percentage is:  </td>
+
+    <td> 
+
+The applicable maximum percentage is:  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2012  </td>
+
+    <td> 
+
+90%  </td>
+
+    <td> 
+
+110%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2013  </td>
+
+    <td> 
+
+85%  </td>
+
+    <td> 
+
+115%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2014  </td>
+
+    <td> 
+
+80%  </td>
+
+    <td> 
+
+120%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2015  </td>
+
+    <td> 
+
+75%  </td>
+
+    <td> 
+
+125%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+After 2015  </td>
+
+    <td> 
+
+70%  </td>
+
+    <td> 
+
+130%.”  </td>
+
+  </tr>
+
+</table>
 
     2012—Subsec. (h)(2)(C)(iv). [Pub. L. 112–141, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], added cl. (iv).
 
@@ -1498,6 +1602,24 @@
     Subsec. (k)(1). [Pub. L. 110–458, § 101(b)(2)(H)(i)][/us/pl/110/458/s101/b/2/H/i], inserted “(as provided under paragraph (2))” after “applies” in introductory provisions.
 
     Subsec. (k)(6)(B). [Pub. L. 110–458, § 101(b)(2)(H)(ii)][/us/pl/110/458/s101/b/2/H/ii], struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–159, title II, § 2003(e)][/us/pl/113/159/s2003/e], Aug. 8, 2014, [128 Stat. 1851][/us/stat/128/1851], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1021 and 1083 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2012.
+
+>     “(2)  __Elections__  __.—__ 
+
+>     A plan sponsor may elect not to have the amendments made by subsections (a), (b), and (d) apply to any plan year beginning before January 1, 2014, either (as specified in the election)—
+
+>         “(A) for all purposes for which such amendments apply, or
+
+>         “(B) solely for purposes of determining the adjusted funding target attainment percentage under sections 436 of the Internal Revenue Code of 1986 \[[26 U.S.C. 436][/us/usc/t26/s436]\] and 206(g) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1054(g)][/us/usc/t29/s1054/g] \[probably should be [29 U.S.C. 1056(g)][/us/usc/t29/s1056/g]\]) for such plan year.
+
+>         A plan shall not be treated as failing to meet the requirements of section 204(g) of such Act \[[29 U.S.C. 1054(g)][/us/usc/t29/s1054/g]\] and section 411(d)(6) of such Code \[[26 U.S.C. 411(d)(6)][/us/usc/t26/s411/d/6]\] solely by reason of an election under this paragraph.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -1910,6 +2032,8 @@
 [/us/stat/124/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1290
 [/us/pl/112/141/s40211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F1
 [/us/stat/126/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F846
+[/us/pl/113/159/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fa
+[/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -1920,6 +2044,8 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/159/s2003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F1
+[/us/pl/113/159/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fa
 [/us/pl/112/141/s40211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F1
 [/us/pl/112/141/s40211/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FB
 [/us/pl/111/192/s201/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs201%2Fb%2F3%2FA
@@ -1949,6 +2075,13 @@
 [/us/pl/110/458/s101/b/2/G/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FG%2Fiii
 [/us/pl/110/458/s101/b/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fi
 [/us/pl/110/458/s101/b/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fii
+[/us/pl/113/159/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fe
+[/us/stat/128/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1851
+[/us/usc/t26/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs436
+[/us/usc/t29/s1054/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fg
+[/us/usc/t29/s1056/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg
+[/us/usc/t29/s1054/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fg
+[/us/usc/t26/s411/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fd%2F6
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
