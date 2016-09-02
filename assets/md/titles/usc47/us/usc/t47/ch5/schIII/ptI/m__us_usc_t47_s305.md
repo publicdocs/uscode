@@ -325,17 +325,17 @@
 
     In order to reflect the transfers provided by this Order, the following conforming amendments and revocations are ordered:
 
-    6–201. Section 306 of Executive Order No. 11051, as amended \[50 U.S.C. App. 2271 note\], is further amended to read:
+    6–201. Section 306 of Executive Order No. 11051, as amended \[former 50 U.S.C. App. 2271 note\], is further amended to read:
 
     “Sec. 306. Emergency telecommunications. The Administrator of General Services shall be responsible for coordinating with the National Security Council in planning for the mobilization of the Nation’s telecommunications resources in time of national emergency.”.
 
-    6–202. Executive Order No. 11490, as amended \[formerly set out as a note under [section 2251 of Title 50][/us/usc/t50/s2251], Appendix, War and National Defense\] is further amended by:
+    6–202. Executive Order No. 11490, as amended \[former 50 U.S.C. App. 2251 note\] is further amended by:
 
     (1) substituting “National Security Council” for “Office of Telecommunications Policy (35 FR 6421)” in Section 401(27), and
 
     (2) substituting the number of this Order for “11556” and deleting references to Executive Order No. 10705 \[[47 U.S.C. 606][/us/usc/t47/s606] note\] in Sections 1802 and 2002(3).
 
-    6–203. Executive Order No. 11725, as amended \[50 U.S.C. App. 2271 note\], is further amended by substituting the number and date of this Order for the reference to Executive Order No. 11556 of September 4, 1970 in Section 3(16).
+    6–203. Executive Order No. 11725, as amended \[former 50 U.S.C. App. 2271 note\], is further amended by substituting the number and date of this Order for the reference to Executive Order No. 11556 of September 4, 1970 in Section 3(16).
 
     6–204. Executive Orders No. 10705, as amended \[[47 U.S.C. 606][/us/usc/t47/s606] note\], No. 11191, as amended \[[47 U.S.C. 721][/us/usc/t47/s721] note\] and No. 11556, as amended, are revoked.
 
@@ -400,7 +400,6 @@
 [/us/usc/t47/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606
 [/us/usc/t47/s721/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs721%2Fa%2F4
 [/us/usc/t47/s731–735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs731%E2%80%93735
-[/us/usc/t50/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2251
 [/us/usc/t47/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606
 [/us/usc/t47/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606
 [/us/usc/t47/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs721
