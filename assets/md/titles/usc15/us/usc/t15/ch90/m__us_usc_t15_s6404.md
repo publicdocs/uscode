@@ -45,7 +45,7 @@
 
     (f) __Functions__ 
 
-        The Council shall develop programs and projects and enter into contracts or agreements for implementing this chapter, including programs to enhance consumer and employee safety and training, to provide for research and development of clean and efficient propane utilization equipment, to inform and educate the public about safety and other issues associated with the use of propane, and to provide for the payment of the costs thereof with funds collected pursuant to this chapter. The Council shall coordinate its activities with industry trade association and others as appropriate to provide efficient delivery of services and to avoid unnecessary duplication of activities.
+        The Council shall develop programs and projects and enter into contracts or agreements for implementing this chapter, including programs to enhance consumer and employee safety and training, to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes, to provide for research and development of clean and efficient propane utilization equipment, to inform and educate the public about safety and other issues associated with the use of propane, and to provide for the payment of the costs thereof with funds collected pursuant to this chapter. The Council shall coordinate its activities with industry trade association and others as appropriate to provide efficient delivery of services and to avoid unnecessary duplication of activities.
 
     (g) __Use of funds__ 
 
@@ -83,7 +83,11 @@
 
         Each year the Council shall prepare and make publicly available a report which includes an identification and description of all programs and projects undertaken by the Council during the previous year as well as those planned for the coming year. Such report shall also detail the allocation or planned allocation of Council resources for each such program and project.
 
-([Pub. L. 104–284, § 5][/us/pl/104/284/s5], Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371].)
+([Pub. L. 104–284, § 5][/us/pl/104/284/s5], Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371]; [Pub. L. 113–269, § 2(a)][/us/pl/113/269/s2/a], Dec. 18, 2014, [128 Stat. 2947][/us/stat/128/2947].)
+
+ __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–269][/us/pl/113/269] inserted “to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes,” after “to enhance consumer and employee safety and training,”.
 
 ----------
 
@@ -95,5 +99,8 @@
 [/us/usc/t15/s6406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6406
 [/us/pl/104/284/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs5
 [/us/stat/110/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3371
+[/us/pl/113/269/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269%2Fs2%2Fa
+[/us/stat/128/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2947
+[/us/pl/113/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269
 
 

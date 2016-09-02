@@ -27,6 +27,12 @@
 
 ([Pub. L. 104–284, § 2][/us/pl/104/284/s2], Oct. 11, 1996, [110 Stat. 3370][/us/stat/110/3370].)
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–269, § 1][/us/pl/113/269/s1], Dec. 18, 2014, [128 Stat. 2947][/us/stat/128/2947], provided that: 
+
+> “This Act \[amending sections 6404 and 6408 of this title\] may be cited as the ‘Propane Education and Research Enhancement Act of 2014’.”
+
  __Short Title__ 
 
 [Pub. L. 104–284, § 1][/us/pl/104/284/s1], Oct. 11, 1996, [110 Stat. 3370][/us/stat/110/3370], provided that: 
@@ -42,6 +48,8 @@
 
 [/us/pl/104/284/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs2
 [/us/stat/110/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3370
+[/us/pl/113/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269%2Fs1
+[/us/stat/128/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2947
 [/us/pl/104/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs1
 [/us/stat/110/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3370
 

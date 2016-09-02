@@ -1573,6 +1573,8 @@
 
     “(ii) shall not be used to make Phase III awards.”
 
+    See 2011 Amendment notes below.
+
  __References in Text__ 
 
     Executive Order 13329, referred to in subsecs. (b)(8), (g)(11), (o)(15), and (ss)(2), is set out as a note under this section.
@@ -1637,7 +1639,15 @@
 
     Subsec. (f)(1). [Pub. L. 112–81, § 5102(a)(1)][/us/pl/112/81/s5102/a/1], substituted “Except as provided in paragraph (2)(B), each” for “Each” in introductory provisions, added subpars. (C) to (I), and struck out former subpar. (C) which read as follows: “not less than 2.5 percent of such budget in each fiscal year thereafter,”.
 
-    Subsec. (f)(2). [Pub. L. 112–81, § 5141(b)(1)(A)][/us/pl/112/81/s5141/b/1/A], substituted “shall not make available for the purpose” for “shall not—
+    Subsec. (f)(2). [Pub. L. 112–81, § 5141(b)(3)(A)][/us/pl/112/81/s5141/b/3/A], substituted “shall not—
+
+    “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
+
+    “(B) make available for the purpose”
+
+    for “shall not make available for the purpose”.
+
+    [Pub. L. 112–81, § 5141(b)(1)(A)][/us/pl/112/81/s5141/b/1/A], substituted “shall not make available for the purpose” for “shall not—
 
     “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
@@ -2786,6 +2796,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/112/81/s5125/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fa%2F3
 [/us/pl/112/81/s5125/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F1%2FC
 [/us/pl/112/81/s5102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5102%2Fa%2F1
+[/us/pl/112/81/s5141/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3%2FA
 [/us/pl/112/81/s5141/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F1%2FA
 [/us/pl/112/81/s5102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5102%2Fa%2F2
 [/us/pl/112/81/s5126/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5126%2Fa%2F1
