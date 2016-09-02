@@ -59,13 +59,9 @@
 
         (1) if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
 
-        (2) if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
+        (2) if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 797][/us/stat/66/797]; [Pub. L. 92–358, § 2][/us/pl/92/358/s2], July 28, 1972, [86 Stat. 502][/us/stat/86/502]; [Pub. L. 94–131, § 5][/us/pl/94/131/s5], Nov. 14, 1975, [89 Stat. 691][/us/stat/89/691]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4505, 4806\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–565, 1501A–590; [Pub. L. 107–273, div. C, title III, § 13205(1)][/us/pl/107/273/s13205/1], Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902]; [Pub. L. 112–29, § 3(b)(1)][/us/pl/112/29/s3/b/1], Sept. 16, 2011, [125 Stat. 285][/us/stat/125/285]; [Pub. L. 112–211, title I, § 102(2)][/us/pl/112/211/s102/2], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
-
- __Amendment of Subsection (d)(2)__ 
-
-    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(2), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (d)(2) of this section is amended by substituting “to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
@@ -107,7 +103,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
+    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -189,8 +185,6 @@
 [/us/pl/112/29/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fb%2F1
 [/us/stat/125/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F285
 [/us/pl/112/211/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F2
-[/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/act/1897-03-03/ch391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs1
 [/us/stat/29/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F692

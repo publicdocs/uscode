@@ -23,11 +23,11 @@
 
         (2)  __Term__  __.—__ 
 
-        Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
+        Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, 365(c), or 386(c), from the date on which the earliest such application was filed.
 
         (3)  __Priority__  __.—__ 
 
-        Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
+        Priority under section 119, 365(a), 365(b), 386(a), or 386(b) shall not be taken into account in determining the term of a patent.
 
         (4)  __Specification and drawing__  __.—__ 
 
@@ -143,7 +143,7 @@
 
         (1)  __In general__  __.—__ 
 
-        In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+        In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
             (A)
 
@@ -172,18 +172,6 @@
             The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 804][/us/stat/66/804]; [Pub. L. 89–83, § 5][/us/pl/89/83/s5], July 24, 1965, [79 Stat. 261][/us/stat/79/261]; [Pub. L. 96–517, § 4][/us/pl/96/517/s4], Dec. 12, 1980, [94 Stat. 3018][/us/stat/94/3018]; [Pub. L. 100–418, title IX, § 9002][/us/pl/100/418/s9002], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563]; [Pub. L. 103–465, title V, § 532(a)(1)][/us/pl/103/465/s532/a/1], Dec. 8, 1994, [108 Stat. 4983][/us/stat/108/4983]; [Pub. L. 104–295, § 20(e)(1)][/us/pl/104/295/s20/e/1], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4402(a), 4504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–557, 1501A–564; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13204, 13206(a)(8), Nov. 2, 2002, [116 Stat. 1902][/us/stat/116/1902], 1904; [Pub. L. 112–29][/us/pl/112/29], §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, [125 Stat. 290][/us/stat/125/290], 316, 335; [Pub. L. 112–211, title I, § 102(6)][/us/pl/112/211/s102/6], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274, § 1(h)][/us/pl/112/274/s1/h], Jan. 14, 2013, [126 Stat. 2457][/us/stat/126/2457].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(6), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:
-
-    (1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;
-
-    (2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and
-
-    (3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.
-
-    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 
@@ -263,7 +251,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
+    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -358,8 +346,6 @@
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/pl/112/274/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Fh
 [/us/stat/126/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2457
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
-[/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/act/1930-05-23/ch312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs1
 [/us/stat/46/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F376
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

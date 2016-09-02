@@ -21,7 +21,7 @@
 
  __Effective Date__ 
 
-    Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as an Effective Date of 2012 Amendment note under [section 100 of this title][/us/usc/t35/s100].
+    Section effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as an Effective Date of 2012 Amendment note under [section 100 of this title][/us/usc/t35/s100].
 
 ----------
 

@@ -41,17 +41,13 @@
 
             (A) if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or
 
-            (B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).
+            (B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c).
 
         (2) The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.
 
     (j) The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 797][/us/stat/66/797]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4603\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–567; [Pub. L. 112–29, § 3(a)][/us/pl/112/29/s3/a], Sept. 16, 2011, [125 Stat. 285][/us/stat/125/285]; [Pub. L. 112–211, title I, § 102(1)][/us/pl/112/211/s102/1], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531].)
-
- __Amendment of Subsection (i)(1)(B)__ 
-
-    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(1), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (i)(1)(B) of this section is amended by substituting “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
@@ -81,7 +77,7 @@
 
 >         “(1) the date that is 1 year after the date of the enactment of this Act \[Dec. 18, 2012\]; or
 
->         “(2) the date of entry into force of the treaty with respect to the United States.
+>         “(2) the date of entry into force of the treaty with respect to the United States \[May 13, 2015\].
 
 >     “(b) __Applicability of Amendments.—__ 
 
@@ -141,8 +137,6 @@
 [/us/pl/112/29/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fa
 [/us/stat/125/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F285
 [/us/pl/112/211/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F1
-[/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/112/29/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs3%2Fa%2F1

@@ -75,7 +75,7 @@
 
         (1)  __Exception__  __.—__ 
 
-        The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, or 365(c) of the filing of an earlier-filed application, if—
+        The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, 365(c), or 386(c) of the filing of an earlier-filed application, if—
 
             (A) an oath or declaration meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application;
 
@@ -107,10 +107,6 @@
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 799][/us/stat/66/799]; [Pub. L. 97–247, § 14(a)][/us/pl/97/247/s14/a], Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 105–277, div. G, title XXII, § 2222(d)][/us/pl/105/277/s2222/d], Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818]; [Pub. L. 112–29, § 4(a)(1)][/us/pl/112/29/s4/a/1], Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293]; [Pub. L. 112–211, title I, § 102(4)][/us/pl/112/211/s102/4], Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531]; [Pub. L. 112–274, § 1(f)][/us/pl/112/274/s1/f], Jan. 14, 2013, [126 Stat. 2456][/us/stat/126/2456].)
 
- __Amendment of Subsection (g)(1)__ 
-
-    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(4), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (g)(1) of this section is amended by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
-
  __Historical and Revision Notes__ 
 
     Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) [Mar. 3, 1903, ch. 1019, § 2][/us/act/1903-03-03/ch1019/s2], [32 Stat. 1225][/us/stat/32/1225], 1226, (2) [May 23, 1930, ch. 312, § 3][/us/act/1930-05-23/ch312/s3], [46 Stat. 376][/us/stat/46/376]).
@@ -139,7 +135,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
+    Amendment by [Pub. L. 112–211][/us/pl/112/211] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -169,8 +165,6 @@
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/pl/112/274/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F274%2Fs1%2Ff
 [/us/stat/126/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2456
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
-[/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/act/1903-03-03/ch1019/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch1019%2Fs2
 [/us/stat/32/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1225
 [/us/act/1930-05-23/ch312/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-23%2Fch312%2Fs3

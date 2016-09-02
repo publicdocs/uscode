@@ -71,7 +71,7 @@
 
         (7)  __No right of priority or benefit of earliest filing date__  __.—__ 
 
-        A provisional application shall not be entitled to the right of priority of any other application under section 119 or 365(a) or to the benefit of an earlier filing date in the United States under section 120, 121, or 365(c).
+        A provisional application shall not be entitled to the right of priority of any other application under section 119, 365(a), or 386(a) or to the benefit of an earlier filing date in the United States under section 120, 121, 365(c), or 386(c).
 
         (8)  __Applicable provisions__  __.—__ 
 
@@ -86,10 +86,6 @@
         (2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 798][/us/stat/66/798]; [Pub. L. 97–247, § 5][/us/pl/97/247/s5], Aug. 27, 1982, [96 Stat. 319][/us/stat/96/319]; [Pub. L. 103–465, title V, § 532(b)(3)][/us/pl/103/465/s532/b/3], Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4732(a)(10)(A), 4801(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582, 1501A–588; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, [125 Stat. 287][/us/stat/125/287], 295, 296, 335; [Pub. L. 112–211, title I, § 102(3)][/us/pl/112/211/s102/3], title II, § 201(a), Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1533.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(3), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
@@ -151,7 +147,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-    Amendment by [section 102(3) of Pub. L. 112–211][/us/pl/112/211/s102/3] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
+    Amendment by [section 102(3) of Pub. L. 112–211][/us/pl/112/211/s102/3] effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see [section 103 of Pub. L. 112–211][/us/pl/112/211/s103], set out as a note under [section 100 of this title][/us/usc/t35/s100].
 
     Amendment by [section 201(a) of Pub. L. 112–211][/us/pl/112/211/s201/a] effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, see [section 203 of Pub. L. 112–211][/us/pl/112/211/s203], set out as an Effective Date note under [section 27 of this title][/us/usc/t35/s27].
 
@@ -205,8 +201,6 @@
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F287
 [/us/pl/112/211/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs102%2F3
-[/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1531
 [/us/act/1915-03-03/ch94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch94%2Fs1
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
