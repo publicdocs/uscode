@@ -23,7 +23,7 @@
 
             (A) to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $2,000;
 
-            (B) to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year which, in the aggregate, exceed $25,000;
+            (B) to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year which, in the aggregate, exceed $25,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year;
 
             (C) to any other political committee (other than a committee described in subparagraph (D)) in any calendar year which, in the aggregate, exceed $5,000; or
 
@@ -35,7 +35,7 @@
 
             (A) to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $5,000;
 
-            (B) to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000; or
+            (B) to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year; or
 
             (C) to any other political committee in any calendar year which, in the aggregate, exceed $5,000.
 
@@ -80,6 +80,16 @@
             (D) contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
 
         (8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
+
+        (9)
+
+         An account described in this paragraph is any of the following accounts:
+
+            (A) A separate, segregated account of a national committee of a political party (other than a national congressional campaign committee of a political party) which is used solely to defray expenses incurred with respect to a presidential nominating convention (including the payment of deposits) or to repay loans the proceeds of which were used to defray such expenses, or otherwise to restore funds used to defray such expenses, except that the aggregate amount of expenditures the national committee of a political party may make from such account may not exceed $20,000,000 with respect to any single convention.
+
+            (B) A separate, segregated account of a national committee of a political party (including a national congressional campaign committee of a political party) which is used solely to defray expenses incurred with respect to the construction, purchase, renovation, operation, and furnishing of one or more headquarters buildings of the party or to repay loans the proceeds of which were used to defray such expenses, or otherwise to restore funds used to defray such expenses (including expenses for obligations incurred during the 2-year period which ends on December 16, 2014).
+
+            (C) A separate, segregated account of a national committee of a political party (including a national congressional campaign committee of a political party) which is used to defray expenses incurred with respect to the preparation for and the conduct of election recounts and contests and other legal proceedings.
 
     (b) __Dollar limits on expenditures by candidates for office of President of United States__ 
 
@@ -174,6 +184,8 @@
             (C)  __Transfers__  __.—__ 
 
             A committee of a political party that makes coordinated expenditures under this subsection with respect to a candidate shall not, during an election cycle, transfer any funds to, assign authority to make coordinated expenditures under this subsection to, or receive a transfer of funds from, a committee of the political party that has made or intends to make an independent expenditure with respect to the candidate.
+
+        (5) The limitations contained in paragraphs (2), (3), and (4) of this subsection shall not apply to expenditures made from any of the accounts described in subsection (a)(9).
 
     (e) __Certification and publication of estimated voting age population__ 
 
@@ -293,7 +305,7 @@
 
         Any candidate who incurs personal loans made after the effective date of the Bipartisan Campaign Reform Act of 2002 in connection with the candidate’s campaign for election shall not repay (directly or indirectly), to the extent such loans exceed $250,000, such loans from any contributions made to such candidate or any authorized committee of such candidate after the date of such election.
 
-([Pub. L. 92–225, title III, § 315][/us/pl/92/225/s315], formerly § 320, as added [Pub. L. 94–283, title I, § 112(2)][/us/pl/94/283/s112/2], May 11, 1976, [90 Stat. 486][/us/stat/90/486]; renumbered § 315, [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–155, title I, § 102][/us/pl/107/155/s102], title II, §§ 202, 213, 214(a), title III, §§ 304(a), 307(a)–(d), 316, 319(b), Mar. 27, 2002, [116 Stat. 86][/us/stat/116/86], 90, 94, 97, 102, 103, 108, 112.)
+([Pub. L. 92–225, title III, § 315][/us/pl/92/225/s315], formerly § 320, as added [Pub. L. 94–283, title I, § 112(2)][/us/pl/94/283/s112/2], May 11, 1976, [90 Stat. 486][/us/stat/90/486]; renumbered § 315, [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–155, title I, § 102][/us/pl/107/155/s102], title II, §§ 202, 213, 214(a), title III, §§ 304(a), 307(a)–(d), 316, 319(b), Mar. 27, 2002, [116 Stat. 86][/us/stat/116/86], 90, 94, 97, 102, 103, 108, 112; [Pub. L. 113–235, div. N, § 101(a)][/us/pl/113/235/s101/a], (b), Dec. 16, 2014, [128 Stat. 2772][/us/stat/128/2772], 2773.)
 
  __References in Text__ 
 
@@ -316,6 +328,14 @@ For information regarding constitutionality of certain provisions of [section 31
     Another prior [section 315 of Pub. L. 92–225][/us/pl/92/225/s315] was renumbered section 310, and is classified to [section 30110 of this title][/us/usc/t52/s30110].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(B). [Pub. L. 113–235, § 101(a)(1)][/us/pl/113/235/s101/a/1], inserted “, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year” before semicolon at end.
+
+    Subsec. (a)(2)(B). [Pub. L. 113–235, § 101(a)(2)][/us/pl/113/235/s101/a/2], which directed amendment by substituting “, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year;” for “semicolon at the end”, was executed by making the substitution for the semicolon after “exceed $15,000” to reflect the probable intent of Congress.
+
+    Subsec. (a)(9). [Pub. L. 113–235, § 101(a)(3)][/us/pl/113/235/s101/a/3], added par. (9).
+
+    Subsec. (d)(5). [Pub. L. 113–235, § 101(b)][/us/pl/113/235/s101/b], added par. (5).
 
     2002—Subsec. (a)(1). [Pub. L. 107–155][/us/pl/107/155], §§ 304(a)(1), 319(b), substituted “Except as provided in subsection (i) and [section 441a–1 of this title][/us/usc/t52/s441a–1], no person” for “No person” in introductory provisions.
 
@@ -350,6 +370,12 @@ For information regarding constitutionality of certain provisions of [section 31
     Subsec. (j). [Pub. L. 107–155, § 304(a)(2)][/us/pl/107/155/s304/a/2], added subsec. (j).
 
     1986—Subsecs. (a)(5), (b)(1). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. N, § 101(c)][/us/pl/113/235/s101/c], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply with respect to funds that are solicited, received, transferred, or spent on or after the date of the enactment of this section \[Dec. 16, 2014\].”
 
  __Effective Date of 2002 Amendment__ 
 
@@ -398,6 +424,8 @@ For information regarding constitutionality of certain provisions of [section 31
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/107/155/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs102
 [/us/stat/116/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F86
+[/us/pl/113/235/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fa
+[/us/stat/128/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2772
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
@@ -409,6 +437,10 @@ For information regarding constitutionality of certain provisions of [section 31
 [/us/usc/t52/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111
 [/us/pl/92/225/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315
 [/us/usc/t52/s30110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30110
+[/us/pl/113/235/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fa%2F1
+[/us/pl/113/235/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fa%2F2
+[/us/pl/113/235/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fa%2F3
+[/us/pl/113/235/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/usc/t52/s441a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs441a%E2%80%931
 [/us/pl/107/155/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs307%2Fa%2F1
@@ -427,6 +459,8 @@ For information regarding constitutionality of certain provisions of [section 31
 [/us/pl/107/155/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs316
 [/us/pl/107/155/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs304%2Fa%2F2
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/235/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fc
+[/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
 [/us/pl/107/155/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs307%2Fe
 [/us/stat/116/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F103
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
