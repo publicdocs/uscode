@@ -233,7 +233,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
  __Change of Name__ 
 
-    “Director of the Government Publishing Office” substituted for “Public Printer” in item 7 on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+    “Director of the Government Publishing Office” substituted for “Public Printer” in item 7 on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
 ----------
 

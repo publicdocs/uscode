@@ -33,7 +33,7 @@
 
  __Change of Name__ 
 
-    “Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and text on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+    “Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and in two places in text on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
 ----------
 
