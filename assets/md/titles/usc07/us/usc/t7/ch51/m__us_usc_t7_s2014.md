@@ -297,11 +297,11 @@
 
             (C) __Simplified determination of deductions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), for the purposes of subsection (e) of this section, a State agency may elect to disregard until the next recertification of eligibility under [section 2020(e)(4) of this title][/us/usc/t7/s2020/e/4] 1 or more types of changes in the circumstances of a household that affect the amount of deductions the household may claim under subsection (e) of this section.
 
-                (ii) __Changes that may not be disregarded.—__ 
+                (ii)  __Changes that may not be disregarded__  __.—__ 
 
                 Under clause (i), a State agency may not disregard—
 
@@ -331,27 +331,27 @@
 
         (1) __Total amount.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall prescribe the types and allowable amounts of financial resources (liquid and nonliquid assets) an eligible household may own, and shall, in so doing, assure that a household otherwise eligible to participate in the supplemental nutrition assistance program will not be eligible to participate if its resources exceed $2,000 (as adjusted in accordance with subparagraph (B)), or, in the case of a household which consists of or includes an elderly or disabled member, if its resources exceed $3,000 (as adjusted in accordance with subparagraph (B)).
 
             (B) __Adjustment for inflation.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Beginning on October 1, 2008, and each October 1 thereafter, the amounts specified in subparagraph (A) shall be adjusted and rounded down to the nearest $250 increment to reflect changes for the 12-month period ending the preceding June in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-                (ii) __Requirement.—__ 
+                (ii)  __Requirement__  __.—__ 
 
                 Each adjustment under clause (i) shall be based on the unrounded amount for the prior 12-month period.
 
         (2) __Included assets.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to the other provisions of this paragraph, the Secretary shall, in prescribing inclusions in, and exclusions from, financial resources, follow the regulations in force as of June 1, 1982 (other than those relating to licensed vehicles and inaccessible resources).
 
-            (B) __Additional included assets.—__ 
+            (B)  __Additional included assets__  __.—__ 
 
             The Secretary shall include in financial resources—
 
@@ -365,7 +365,7 @@
 
                 (v) any savings account, regardless of whether there is a penalty for early withdrawal.
 
-            (C) __Excluded vehicles.—__ 
+            (C)  __Excluded vehicles__  __.—__ 
 
             A vehicle (and any other property, real or personal, to the extent the property is directly related to the maintenance or use of the vehicle) shall not be included in financial resources under this paragraph if the vehicle is—
 
@@ -375,7 +375,7 @@
 
                 (iii) depended on by a household to carry fuel for heating or water for home use and provides the primary source of fuel or water, respectively, for the household.
 
-            (D) __Alternative vehicle allowance.—__ 
+            (D)  __Alternative vehicle allowance__  __.—__ 
 
             If the vehicle allowance standards that a State agency uses to determine eligibility for assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) would result in a lower attribution of resources to certain households than under subparagraph (B)(iv), in lieu of applying subparagraph (B)(iv), the State agency may elect to apply the State vehicle allowance standards to all households that would incur a lower attribution of resources under the State vehicle allowance standards.
 
@@ -387,7 +387,7 @@
 
         (6) __Exclusion of types of financial resources not considered under certain other federal programs.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), a State agency may, at the option of the State agency, exclude from financial resources under this subsection any types of financial resources that the State agency does not consider when determining eligibility for—
 
@@ -395,7 +395,7 @@
 
                 (ii) medical assistance under section 1931 of the Social Security Act ([42 U.S.C. 1396u–1][/us/usc/t42/s1396u–1]).
 
-            (B) __Limitations.—__ 
+            (B)  __Limitations__  __.—__ 
 
             Except to the extent that any of the types of resources specified in clauses (i) through (iv) are excluded under another paragraph of this subsection, subparagraph (A) does not authorize a State agency to exclude—
 
@@ -409,7 +409,7 @@
 
         (7) __Exclusion of retirement accounts from allowable financial resources.—__ 
 
-            (A) __Mandatory exclusions.—__ 
+            (A)  __Mandatory exclusions__  __.—__ 
 
             The Secretary shall exclude from financial resources under this subsection the value of—
 
@@ -417,17 +417,17 @@
 
                 (ii) any retirement program or account included in any successor or similar provision that may be enacted and determined to be exempt from tax under title 26.
 
-            (B) __Discretionary exclusions.—__ 
+            (B)  __Discretionary exclusions__  __.—__ 
 
             The Secretary may exclude from financial resources under this subsection the value of any other retirement plans, contracts, or accounts (as determined by the Secretary).
 
         (8) __Exclusion of education accounts from allowable financial resources.—__ 
 
-            (A) __Mandatory exclusions.—__ 
+            (A)  __Mandatory exclusions__  __.—__ 
 
             The Secretary shall exclude from financial resources under this subsection the value of any funds in a qualified tuition program described in [section 529 of title 26][/us/usc/t26/s529] or in a Coverdell education savings account under section 530 of that title.
 
-            (B) __Discretionary exclusions.—__ 
+            (B)  __Discretionary exclusions__  __.—__ 
 
             The Secretary may exclude from financial resources under this subsection the value of any other education programs, contracts, or accounts (as determined by the Secretary).
 
@@ -527,11 +527,11 @@
 
         (4) __Third party energy assistance payments.—__ 
 
-            (A) __Energy assistance payments.—__ 
+            (A)  __Energy assistance payments__  __.—__ 
 
             For purposes of subsection (d)(1) of this section, a payment made under a State law (other than a law referred to in paragraph (2)(H)) 1 to provide energy assistance to a household shall be considered money payable directly to the household.
 
-            (B) __Energy assistance expenses.—__ 
+            (B)  __Energy assistance expenses__  __.—__ 
 
             For purposes of subsection (e)(6) of this section, an expense paid on behalf of a household under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
 
@@ -1035,7 +1035,7 @@
 
 [Pub. L. 102–265, § 1(b)][/us/pl/102/265/s1/b], Mar. 26, 1992, [106 Stat. 90][/us/stat/106/90], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (D), (2)(OO), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (D), (2)(OO), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on the earlier of—
 
@@ -1045,7 +1045,7 @@
 
 >         “(C) beginning on the date that a fair hearing was requested under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) contesting the denial of an exclusion for supplemental nutrition assistance program benefits purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
->     “(2) __Limitation on application of section.—__ 
+>     “(2)  __Limitation on application of section__  __.—__ 
 
 >     Notwithstanding section 11(b) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2020(b)][/us/usc/t7/s2020/b]), no State agency shall be required to search its files for cases to which the amendment made by subsection (a) applies, except where the excludability of amounts described in section 5(d)(16) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(d)(16)][/us/usc/t7/s2014/d/16]) was raised with the State agency prior to December 13, 1991.”
 
@@ -1069,11 +1069,11 @@
 
 [Pub. L. 100–232, § 2(b)][/us/pl/100/232/s2/b], Jan. 5, 1988, [101 Stat. 1566][/us/stat/101/1566], provided that:
 
->     “(1) __Effective Date.—__ 
+>     “(1)  __Effective Date__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall become effective upon the date of enactment of this Act \[Jan. 5, 1988\].
 
->     “(2) __Application of Amendment.—__ 
+>     “(2)  __Application of Amendment__  __.—__ 
 
 >     The amendment made by this section shall not apply with respect to allotments issued under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, [7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\] to any household for any month beginning before the date of enactment of this Act.”
 
@@ -1167,11 +1167,11 @@
 
 [Pub. L. 101–624, title XVII, § 1718(b)][/us/pl/101/624/s1718/b], Nov. 28, 1990, [104 Stat. 3785][/us/stat/104/3785], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(KK), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(KK), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, during the period beginning October 1, 1988, and ending on the first day of the first month beginning at least 120 days after the date of enactment of this Act \[Nov. 28, 1990\], a State agency may elect to implement the amendment to section 5(f)(2) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(f)(2)][/us/usc/t7/s2014/f/2]) made by section 202(a) of the Hunger Prevention Act of 1988 ([Public Law 100–435][/us/pl/100/435]; [102 Stat. 1656][/us/stat/102/1656]) (with respect to the requirement that income be calculated on a prospective basis in the case of households that are not required to report monthly on their income and household circumstances).
 
->     “(2) __Payment error rates.—__ 
+>     “(2)  __Payment error rates__  __.—__ 
 
 >     Notwithstanding section 16(c) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2025(c)][/us/usc/t7/s2025/c]), during the period referred to in paragraph (1), errors resulting solely from implementation by a State agency of the amendment referred to in paragraph (1) shall not be included in payment error rates determined under section 16(c) of such Act.”
 

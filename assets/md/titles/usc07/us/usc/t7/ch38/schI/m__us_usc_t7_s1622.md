@@ -83,11 +83,11 @@
 
         (6) __Identification of honey.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
 
-            (B) __Violation.—__ 
+            (B)  __Violation__  __.—__ 
 
             A violation of the requirements of subparagraph (A) may be deemed by the Secretary to be sufficient cause for debarment from the benefits of this Act only with respect to honey.
 
@@ -211,7 +211,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 102–237, title I, § 124][/us/pl/102/237/s124], Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Dec. 13, 1991\], the Secretary of Agriculture shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on measures that are necessary to improve the lamb price and supply reporting services of the Department of Agriculture, including recommendations to establish a complete information gathering system that reflects the market structure of the national lamb industry. In preparing the report, the Secretary shall examine measures to improve information on—
 
@@ -239,9 +239,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(5) information on the import and export of sheep, analyzed by cut, carcass, box, breeder stock, and sex.
 
->     “(b) __Price Discovery and Reporting System.—__ 
+>     “(b)  __Price Discovery and Reporting System__  __.—__ 
 
->         “(1) __System required.—__ 
+>         “(1)  __System required__  __.—__ 
 
 >         Based on the report required under subsection (a), the Secretary shall—
 
@@ -249,15 +249,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) establish a price discovery and reporting system for the lamb market to assist lamb producers to better allocate their resources and make informed production and marketing decisions.
 
->         “(2) __Implementation.—__ 
+>         “(2)  __Implementation__  __.—__ 
 
 >         The price discovery and reporting system for the lamb market shall be implemented by the Secretary not later than 180 days after the date of the submission of the report.
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to develop and establish the system required under this subsection.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In preparing the report required under subsection (a) and establishing the price discovery and reporting system required under subsection (b), the Secretary shall consult with lamb producers and other persons in the national lamb industry.”
 
@@ -271,11 +271,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 1352. __RESEARCH.__ 
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct research to examine the effects, to the extent listed in subsection (b), of grade standards and other regulations, as developed and promulgated pursuant to the Agricultural Marketing Act of 1946 ([7 U.S.C. 1621][/us/usc/t7/s1621] et seq.), and other statutes governing cosmetic appearance.
 
->     “(b) __Scope of Research.—__ 
+>     “(b)  __Scope of Research__  __.—__ 
 
 >     The primary goal of this research is to investigate the extent to which grade standards and other regulations governing cosmetic appearance affect pesticide use in the production of perishable commodities. The research shall also—
 
@@ -301,11 +301,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(c) __Field Research.—__ 
 
->         “(1) __Length of projects.—__ 
+>         “(1)  __Length of projects__  __.—__ 
 
 >         The Secretary of Agriculture shall implement, not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\], a minimum of three, 2-year market research projects, in at least three States, to demonstrate and evaluate the feasibility of consumer education and information programs.
 
->         “(2) __Scope of field research.—__ 
+>         “(2)  __Scope of field research__  __.—__ 
 
 >         Research under paragraph (1) shall be conducted to evaluate programs designed to—
 
@@ -315,21 +315,21 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(C) educate the public about the relationship, as determined in the research conducted under this subtitle, between the cosmetic appearance of perishable commodities and pesticide use.
 
->     “(d) __Dissemination of Results.—__ 
+>     “(d)  __Dissemination of Results__  __.—__ 
 
 >     The Secretary of Agriculture shall disseminate to concerned parties the results obtained from prior scientifically valid research concerning Federal marketing policies and practices described in this section to avoid any duplication of effort and to ensure that current knowledge concerning such policies and practices is enhanced.
 
 >     “(e) __Advisory Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Agriculture shall establish an advisory committee for the purpose of providing ongoing review of the implementation of the requirements in this section and providing the Secretary of Agriculture with recommendations regarding the implementation of those requirements.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The Advisory Committee shall consist of 12 members comprised of three representatives from not-for-profit consumer organizations, three representatives from not-for-profit environmental organizations, three representatives from production agriculture and the perishable commodity grower and shipper community, and three representatives from the food retailing sector, each with experience in the policy issues discussed in this section.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     The Secretary of Agriculture shall report to Congress on the research conducted under this section no later than September 30, 1992. The Secretary shall report on the research conducted under subsection (c) no later than September 30, 1993.
 

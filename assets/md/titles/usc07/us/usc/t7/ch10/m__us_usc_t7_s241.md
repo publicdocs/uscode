@@ -89,15 +89,15 @@
 
 [Pub. L. 106–472, title II, § 202][/us/pl/106/472/s202], Nov. 9, 2000, [114 Stat. 2068][/us/stat/114/2068], provided that:
 
->     “(a) __Proposed Regulations.—__ 
+>     “(a)  __Proposed Regulations__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations for carrying out the amendment made by section 201 \[enacting this chapter\].
 
->     “(b) __Final Regulations.—__ 
+>     “(b)  __Final Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary shall promulgate final regulations for carrying out the amendment made by section 201.
 
->     “(c) __Effectiveness of Existing Act.—__ 
+>     “(c)  __Effectiveness of Existing Act__  __.—__ 
 
 >     The United States Warehouse Act ([7 U.S.C. 241][/us/usc/t7/s241] et seq.) (as it existed before the amendment made by section 201) shall be effective until the earlier of—
 

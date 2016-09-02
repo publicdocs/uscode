@@ -57,11 +57,11 @@
 
         (4) __Contract enforcement between eligible counterparties.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             No hybrid instrument sold to any investor shall be void, voidable, or unenforceable, and no party to a hybrid instrument shall be entitled to rescind, or recover any payment made with respect to, the hybrid instrument under this section or any other provision of Federal or State law, based solely on the failure of the hybrid instrument to comply with the terms or conditions of [section 2(f) of this title][/us/usc/t7/s2/f] or regulations of the Commission.
 
-            (B) __Swaps.—__ 
+            (B)  __Swaps__  __.—__ 
 
             No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants shall be void, voidable, or unenforceable, and no party to such agreement, contract, or transaction shall be entitled to rescind, or recover any payment made with respect to, the agreement, contract, or transaction under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, or transaction—
 
@@ -71,15 +71,15 @@
 
         (5) __Legal certainty for long-term swaps entered into before__  __July 21, 2010__  __.—__ 
 
-            (A) __Effect on swaps.—__ 
+            (A)  __Effect on swaps__  __.—__ 
 
             Unless specifically reserved in the applicable swap, neither the enactment of the Wall Street Transparency and Accountability Act of 2010, nor any requirement under that Act or an amendment made by that Act, shall constitute a termination event, force majeure, illegality, increased costs, regulatory change, or similar event under a swap (including any related credit support arrangement) that would permit a party to terminate, renegotiate, modify, amend, or supplement 1 or more transactions under the swap.
 
-            (B) __Position limits.—__ 
+            (B)  __Position limits__  __.—__ 
 
             Any position limit established under the Wall Street Transparency and Accountability Act of 2010 shall not apply to a position acquired in good faith prior to the effective date of any rule, regulation, or order under the Act that establishes the position limit; provided, however, that such positions shall be attributed to the trader if the trader’s position is increased after the effective date of such position limit rule, regulation, or order.
 
-        (6) __Contract enforcement for foreign futures contracts.—__ 
+        (6)  __Contract enforcement for foreign futures contracts__  __.—__ 
 
         A contract of sale of a commodity for future delivery traded or executed on or through the facilities of a board of trade, exchange, or market located outside the United States for purposes of [section 6(a) of this title][/us/usc/t7/s6/a] shall not be void, voidable, or unenforceable, and a party to such a contract shall not be entitled to rescind or recover any payment made with respect to the contract, based on the failure of the foreign board of trade to comply with any provision of this chapter.
 

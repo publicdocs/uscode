@@ -379,11 +379,11 @@
 
         (1) __In general.—__ 
 
-            (A) __Amounts.—__ 
+            (A)  __Amounts__  __.—__ 
 
-            To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 15 months, from funds made available for each fiscal year under [section 2027(a)(1) of this title][/us/usc/t7/s2027/a/1], $90,000,000 for each fiscal year, except that for fiscal year 2013, the amount shall be $79,000,000.
+            To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 15 months, from funds made available for each fiscal year under [section 2027(a)(1) of this title][/us/usc/t7/s2027/a/1], $90,000,000 for each fiscal year, except that for fiscal year 2013 and fiscal year 2014, the amount shall be $79,000,000.
 
-            (B) __Allocation.—__ 
+            (B)  __Allocation__  __.—__ 
 
             Funds made available under subparagraph (A) shall be made available to and reallocated among State agencies under a reasonable formula that—
 
@@ -391,17 +391,17 @@
 
                 (ii) takes into account the number of individuals who are not exempt from the work requirement under section 2015(o) of this title.
 
-            (C) __Reallocation.—__ 
+            (C)  __Reallocation__  __.—__ 
 
             If a State agency will not expend all of the funds allocated to the State agency for a fiscal year under subparagraph (B), the Secretary shall reallocate the unexpended funds to other States (during the fiscal year or the subsequent fiscal year) as the Secretary considers appropriate and equitable.
 
-            (D) __Minimum allocation.—__ 
+            (D)  __Minimum allocation__  __.—__ 
 
             Notwithstanding subparagraph (B), the Secretary shall ensure that each State agency operating an employment and training program shall receive not less than $50,000 for each fiscal year.
 
             (E) __Additional allocations for states that ensure availability of work opportunities.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In addition to the allocations under subparagraph (A), from funds made available under [section 2027(a)(1) of this title][/us/usc/t7/s2027/a/1], the Secretary shall allocate not more than $20,000,000 for each fiscal year to reimburse a State agency that is eligible under clause (ii) for the costs incurred in serving members of households receiving supplemental nutrition assistance program benefits who—
 
@@ -409,7 +409,7 @@
 
                     (II) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(o)(2) of this title.
 
-                (ii) __Eligibility.—__ 
+                (ii)  __Eligibility__  __.—__ 
 
                 To be eligible for an additional allocation under clause (i), a State agency shall make and comply with a commitment to offer a position in a program described in subparagraph (B) or (C) of section 2015(o)(2) of this title to each applicant or recipient who—
 
@@ -561,7 +561,7 @@
 
                     (II) used to match Federal funds under a Federal program other than the supplemental nutrition assistance program.
 
-([Pub. L. 88–525, § 16][/us/pl/88/525/s16], Aug. 31, 1964, [78 Stat. 709][/us/stat/78/709]; [Pub. L. 90–91][/us/pl/90/91] §§ 1, 2, Sept. 27, 1967, [81 Stat. 228][/us/stat/81/228]; [Pub. L. 90–552][/us/pl/90/552], Oct. 8, 1968, [82 Stat. 958][/us/stat/82/958]; [Pub. L. 91–116][/us/pl/91/116], Nov. 13, 1969, [83 Stat. 191][/us/stat/83/191]; [Pub. L. 91–671, § 9][/us/pl/91/671/s9], Jan. 11, 1971, [84 Stat. 2052][/us/stat/84/2052]; [Pub. L. 93–86, § 3(j)][/us/pl/93/86/s3/j], Aug. 10, 1973, [87 Stat. 248][/us/stat/87/248]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 976][/us/stat/91/976]; [Pub. L. 96–58][/us/pl/96/58], §§ 4, 6, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 121, 125, 126, 128, 129, May 26, 1980, [94 Stat. 363][/us/stat/94/363], 364, 367; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 111(b), 114, Aug. 13, 1981, [95 Stat. 362][/us/stat/95/362], 363; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1325–1327, Dec. 22, 1981, [95 Stat. 1289][/us/stat/95/1289]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 179, 180(a), 189(b)(3), (c), Sept. 8, 1982, [96 Stat. 782][/us/stat/96/782], 787; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, [99 Stat. 1577][/us/stat/99/1577], 1580, 1585, 1588; [Pub. L. 99–603, title I, § 121(b)(5)][/us/pl/99/603/s121/b/5], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 100–77, title VIII, § 808(b)][/us/pl/100/77/s808/b], July 22, 1987, [101 Stat. 536][/us/stat/101/536]; [Pub. L. 100–435, title II, § 204(b)][/us/pl/100/435/s204/b], title III, § 321(b), (c), title IV, § 404(e), (g), title VI, § 604, Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657], 1662, 1668, 1675; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1750, 1752(a), 1753, Nov. 28, 1990, [104 Stat. 3797][/us/stat/104/3797], 3798; [Pub. L. 102–237, title IX, § 941(7)][/us/pl/102/237/s941/7], Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(c), 13951(c), 13961, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 678, 679; [Pub. L. 103–296, title I, § 108(f)(2)][/us/pl/103/296/s108/f/2], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–66, title I, § 1011(j)][/us/pl/104/66/s1011/j], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title IV, § 401(b)][/us/pl/104/127/s401/b], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title I, § 109(c)][/us/pl/104/193/s109/c], title VIII, §§ 817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2319, 2320, 2333–2335; [Pub. L. 105–33, title I, § 1002(a)][/us/pl/105/33/s1002/a], Aug. 5, 1997, [111 Stat. 252][/us/stat/111/252]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 501, 502(a), June 23, 1998, [112 Stat. 575][/us/stat/112/575]; [Pub. L. 106–78, title VII, § 758][/us/pl/106/78/s758], Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, [116 Stat. 316][/us/stat/116/316], 321, 323, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1094, 1108, 1113, 1140, 1141; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1855, 1869, 1874, 1875, 1902; [Pub. L. 112–240, title VII, § 701(d)(1)][/us/pl/112/240/s701/d/1], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363].)
+([Pub. L. 88–525, § 16][/us/pl/88/525/s16], Aug. 31, 1964, [78 Stat. 709][/us/stat/78/709]; [Pub. L. 90–91][/us/pl/90/91] §§ 1, 2, Sept. 27, 1967, [81 Stat. 228][/us/stat/81/228]; [Pub. L. 90–552][/us/pl/90/552], Oct. 8, 1968, [82 Stat. 958][/us/stat/82/958]; [Pub. L. 91–116][/us/pl/91/116], Nov. 13, 1969, [83 Stat. 191][/us/stat/83/191]; [Pub. L. 91–671, § 9][/us/pl/91/671/s9], Jan. 11, 1971, [84 Stat. 2052][/us/stat/84/2052]; [Pub. L. 93–86, § 3(j)][/us/pl/93/86/s3/j], Aug. 10, 1973, [87 Stat. 248][/us/stat/87/248]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 976][/us/stat/91/976]; [Pub. L. 96–58][/us/pl/96/58], §§ 4, 6, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 121, 125, 126, 128, 129, May 26, 1980, [94 Stat. 363][/us/stat/94/363], 364, 367; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 111(b), 114, Aug. 13, 1981, [95 Stat. 362][/us/stat/95/362], 363; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1325–1327, Dec. 22, 1981, [95 Stat. 1289][/us/stat/95/1289]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 179, 180(a), 189(b)(3), (c), Sept. 8, 1982, [96 Stat. 782][/us/stat/96/782], 787; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, [99 Stat. 1577][/us/stat/99/1577], 1580, 1585, 1588; [Pub. L. 99–603, title I, § 121(b)(5)][/us/pl/99/603/s121/b/5], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 100–77, title VIII, § 808(b)][/us/pl/100/77/s808/b], July 22, 1987, [101 Stat. 536][/us/stat/101/536]; [Pub. L. 100–435, title II, § 204(b)][/us/pl/100/435/s204/b], title III, § 321(b), (c), title IV, § 404(e), (g), title VI, § 604, Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657], 1662, 1668, 1675; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1750, 1752(a), 1753, Nov. 28, 1990, [104 Stat. 3797][/us/stat/104/3797], 3798; [Pub. L. 102–237, title IX, § 941(7)][/us/pl/102/237/s941/7], Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(c), 13951(c), 13961, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 678, 679; [Pub. L. 103–296, title I, § 108(f)(2)][/us/pl/103/296/s108/f/2], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–66, title I, § 1011(j)][/us/pl/104/66/s1011/j], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title IV, § 401(b)][/us/pl/104/127/s401/b], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title I, § 109(c)][/us/pl/104/193/s109/c], title VIII, §§ 817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2319, 2320, 2333–2335; [Pub. L. 105–33, title I, § 1002(a)][/us/pl/105/33/s1002/a], Aug. 5, 1997, [111 Stat. 252][/us/stat/111/252]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 501, 502(a), June 23, 1998, [112 Stat. 575][/us/stat/112/575]; [Pub. L. 106–78, title VII, § 758][/us/pl/106/78/s758], Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, [116 Stat. 316][/us/stat/116/316], 321, 323, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1094, 1108, 1113, 1140, 1141; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1855, 1869, 1874, 1875, 1902; [Pub. L. 112–240, title VII, § 701(d)(1)][/us/pl/112/240/s701/d/1], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–76, div. A, title VII, § 717][/us/pl/113/76/s717], Jan. 17, 2014, [128 Stat. 36][/us/stat/128/36].)
 
  __References in Text__ 
 
@@ -572,6 +572,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1)(A). [Pub. L. 113–76][/us/pl/113/76] inserted “and fiscal year 2014” after “2013”.
 
     2013—Subsec. (h)(1)(A). [Pub. L. 112–240][/us/pl/112/240] inserted “, except that for fiscal year 2013, the amount shall be $79,000,000” before period at end.
 
@@ -859,11 +861,11 @@
 
 [Pub. L. 103–66, title XIII, § 13971][/us/pl/103/66/s13971], Aug. 10, 1993, [107 Stat. 680][/us/stat/107/680], provided that:
 
->     “(a) __General Effective Date and Implementation.—__ 
+>     “(a)  __General Effective Date and Implementation__  __.—__ 
 
 >     Except as provided in subsection (b), this chapter \[chapter 3 (§§ 13901–13971) of title XIII of [Pub. L. 103–66][/us/pl/103/66], amending this section and sections 2012, 2014, 2015, 2017, 2020 to 2023, 2026, and 2028 of this title, and enacting provisions set out as a note under [section 2011 of this title][/us/usc/t7/s2011]\] and the amendments made by this chapter shall take effect, and shall be implemented beginning on, October 1, 1993.
 
->     “(b) __Special Effective Dates and Implementation.—__ 
+>     “(b)  __Special Effective Dates and Implementation__  __.—__ 
 
 >         (1)
 
@@ -967,11 +969,11 @@
 
 [Pub. L. 101–624, title XVII, § 1751][/us/pl/101/624/s1751], Nov. 28, 1990, [104 Stat. 3797][/us/stat/104/3797], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 ([7 U.S.C. 2025(c)][/us/usc/t7/s2025/c]) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], except for amounts to be paid or collected after the date of enactment of this Act \[Nov. 28, 1990\] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     Subsection (a) shall also apply to disallowances described in subsection (a) with respect to which an administrative or judicial appeal is pending on the date of enactment of this Act \[Nov. 28, 1990\], including any such disallowance that has been collected before such date.”
 
@@ -1131,6 +1133,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fd%2F1
 [/us/stat/126/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2363
+[/us/pl/113/76/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs717
+[/us/stat/128/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F36
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -1138,6 +1142,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4115/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F11

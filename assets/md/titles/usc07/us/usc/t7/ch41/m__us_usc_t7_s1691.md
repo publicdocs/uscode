@@ -123,7 +123,7 @@
 
 [Pub. L. 100–418, title IV, § 4310][/us/pl/100/418/s4310], Aug. 23, 1988, [102 Stat. 1399][/us/stat/102/1399], as amended by [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(J), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
 
->     “(a) __Annual Minimum.—__ 
+>     “(a)  __Annual Minimum__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -131,7 +131,7 @@
 
 >         “(2) accordingly, the total amount of food assistance made available to foreign countries under the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) and section 416(b) of the Agricultural Act of 1949 ([7 U.S.C. 1431(b)][/us/usc/t7/s1431/b]) should not be less than one-third of the total amount of foreign economic assistance provided for each fiscal year.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘foreign economic assistance’ includes—
 

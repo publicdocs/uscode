@@ -119,19 +119,19 @@
 
         (8) __Administrative provisions.—__ 
 
-            (A) __Expedited procedures.—__ 
+            (A)  __Expedited procedures__  __.—__ 
 
             To the maximum extent practicable, expedited procedures shall be used in the implementation of this subsection.
 
-            (B) __Estimate of commodities.—__ 
+            (B)  __Estimate of commodities__  __.—__ 
 
             The Secretary shall publish in the Federal Register, not later than October 31 of each fiscal year, an estimate of the types and quantities of commodities and products that will be available under this section for the fiscal year.
 
-            (C) __Finalization of agreements.—__ 
+            (C)  __Finalization of agreements__  __.—__ 
 
             The Secretary is encouraged to finalize program agreements under this section not later than December 31 of each fiscal year.
 
-            (D) __Regulations.—__ 
+            (D)  __Regulations__  __.—__ 
 
             The Secretary shall be responsible for regulations governing sales and barter, and the use of foreign currency proceeds, under paragraph (7) of this subsection that will provide reasonable safeguards to prevent the occurrence of abuses in the conduct of activities provided for in paragraph (7).
 
@@ -141,17 +141,17 @@
 
             (B) Omitted.
 
-        (10) __Sale procedure.—__ 
+        (10)  __Sale procedure__  __.—__ 
 
         In approving sales of commodities under this subsection, the Secretary shall follow the sale procedure described in section 403(l) of the Food for Peace Act \[[7 U.S.C. 1733][/us/usc/t7/s1733](l)\].
 
         (11) __Requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 270 days after May 13, 2002, the Secretary shall review and, as necessary, make changes in regulations and internal procedures designed to streamline, improve, and clarify the application, approval, and implementation processes pertaining to agreements under this section.
 
-            (B) __Considerations.—__ 
+            (B)  __Considerations__  __.—__ 
 
             In conducting the review, the Secretary shall consider—
 
@@ -169,7 +169,7 @@
 
                 (vii) ensuring that evaluation and monitoring methods are sufficient.
 
-            (C) __Consultations.—__ 
+            (C)  __Consultations__  __.—__ 
 
             Not later than 1 year after May 13, 2002, the Secretary shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures under this paragraph.
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 100–418, title II, § 2223][/us/pl/100/418/s2223], Aug. 23, 1988, [102 Stat. 1336][/us/stat/102/1336], as amended by [Pub. L. 101–513, title V, § 562][/us/pl/101/513/s562] (part), Nov. 5, 1990, [104 Stat. 2032][/us/stat/104/2032]; [Pub. L. 103–306, title V, § 576(a)][/us/pl/103/306/s576/a], (b), Aug. 23, 1994, [108 Stat. 1654][/us/stat/108/1654], provided that:
 
->     “(a) __Authority to Donate.—__ 
+>     “(a)  __Authority to Donate__  __.—__ 
 
 >     Notwithstanding any other provision of law, if the Secretary of Agriculture determines for each fiscal year that (1) a donation under this section would not limit the Secretary’s ability to meet urgent humanitarian needs for agricultural commodities, and (2) such donation would not cause a reduction in the price of the same or similar agricultural commodities produced in Poland\[,\] the Secretary of Agriculture shall donate, under the applicable provisions of section 416(b) of the Agricultural Act of 1949 \[[7 U.S.C. 1431(b)][/us/usc/t7/s1431/b]\], for each of the fiscal years 1995 through 1999, 8,000 metric tons of uncommitted stocks of eligible commodities of the Commodity Credit Corporation under an agreement with the Government of Poland that the Government of Poland will sell such commodities and that all the proceeds from such sales will be used by governmental and nongovernmental agencies for eligible activities in Poland described in section 416(b)(7)(D)(ii) of that Act (as amended by section 2225 of this Act) that have been approved, upon application, by the joint commission described in section 2226 \[of [Pub. L. 100–418][/us/pl/100/418], set out below\] and by the United States chief of diplomatic mission in Poland.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -369,11 +369,11 @@
 
 [Pub. L. 100–418, title II, § 2226][/us/pl/100/418/s2226], Aug. 23, 1988, [102 Stat. 1337][/us/stat/102/1337], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The joint commission referred to in sections 2223 and 2224 \[of [Pub. L. 100–418][/us/pl/100/418], set out above\] and in section 416(b)(7)(D)(ii) of the Agricultural Act of 1949 \[[7 U.S.C. 1431(b)(7)(D)(ii)][/us/usc/t7/s1431/b/7/D/ii]\] (as amended by section 2225 of this Act) shall be established under an agreement between the United States Government, the Government of Poland, and nongovernmental agencies (as defined in section 2223) operating in Poland.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The joint commission shall be composed of—
 

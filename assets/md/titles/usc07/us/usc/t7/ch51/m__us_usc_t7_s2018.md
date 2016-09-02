@@ -27,7 +27,7 @@
 
             (B) periodic notice to participating retail food stores and wholesale food concerns of the definitions of “retail food store”, “staple foods”, “eligible foods”, and “perishable foods”.
 
-        (3) __Authorization periods.—__ 
+        (3)  __Authorization periods__  __.—__ 
 
         The Secretary shall establish specific time periods during which authorization to accept and redeem benefits shall be valid under the supplemental nutrition assistance program.
 

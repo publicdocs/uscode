@@ -43,6 +43,10 @@
 
 ([Pub. L. 97–325, § 3][/us/pl/97/325/s3], Oct. 15, 1982, [96 Stat. 1603][/us/stat/96/1603].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 97–325][/us/pl/97/325], Oct. 15, 1982, [96 Stat. 1603][/us/stat/96/1603], known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title][/us/usc/t7/s4401] and Tables.
+
 ----------
 
 [Previous](./../../../..//us/usc/t7/ch75/m__us_usc_t7_s4401.md) | [Next](./../../../..//us/usc/t7/ch75/m__us_usc_t7_s4403.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4402)
@@ -52,5 +56,8 @@
 
 [/us/pl/97/325/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs3
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603
+[/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
+[/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603
+[/us/usc/t7/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4401
 
 

@@ -49,17 +49,17 @@
 
         (2) __Maximum amount of funds.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The total amount of funds used by the Secretary to carry out this section for a fiscal year shall not exceed $750,000,000.
 
             (B) __Beginning farmers and ranchers.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
 
-                (ii) __Duration of reservation of funds.—__ 
+                (ii)  __Duration of reservation of funds__  __.—__ 
 
                 Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 

@@ -25,11 +25,11 @@
 
     (4) __College and university.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The terms “college” and “university” mean an educational institution in any State which (i) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, (ii) is legally authorized within such State to provide a program of education beyond secondary education, (iii) provides an educational program for which a bachelor’s degree or any other higher degree is awarded, (iv) is a public or other nonprofit institution, and (v) is accredited by a nationally recognized accrediting agency or association.
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The terms “college” and “university” include a research foundation maintained by a college or university described in subparagraph (A).
 
@@ -41,7 +41,7 @@
 
     (8) The term “extension” means the informal education programs conducted in the States in cooperation with the Department of Agriculture.
 
-    (9) __Food and agricultural sciences.—__ 
+    (9)  __Food and agricultural sciences__  __.—__ 
 
     The term “food and agricultural sciences” means basic, applied, and developmental research, extension, and teaching activities in food and fiber, agricultural, renewable energy and natural resources, forestry, and physical and social sciences, including activities relating to the following:
 
@@ -79,7 +79,7 @@
 
     (10) __Hispanic-serving agricultural colleges and universities.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “Hispanic-serving agricultural colleges and universities” means colleges or universities that—
 
@@ -87,15 +87,15 @@
 
             (ii) offer associate, bachelors, or other accredited degree programs in agriculture-related fields.
 
-        (B) __Exception.—__ 
+        (B)  __Exception__  __.—__ 
 
         The term “Hispanic-serving agricultural colleges and universities” does not include 1862 institutions (as defined in [section 7601 of this title][/us/usc/t7/s7601]).
 
-    (11) __Hispanic-serving institution.—__ 
+    (11)  __Hispanic-serving institution__  __.—__ 
 
     The term “Hispanic-serving institution” has the meaning given the term in [section 1101a of title 20][/us/usc/t20/s1101a].
 
-    (12) __Insular area.—__ 
+    (12)  __Insular area__  __.—__ 
 
     The term “insular area” means—
 
@@ -119,11 +119,11 @@
 
     (14) __NLGCA institution; non-land-grant college of agriculture.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The terms “NLGCA Institution” and “non-land-grant college of agriculture” mean a public college or university offering a baccalaureate or higher degree in the study of agriculture or forestry.
 
-        (B) __Exclusions.—__ 
+        (B)  __Exclusions__  __.—__ 
 
         The terms “NLGCA Institution” and “non-land-grant college of agriculture” do not include—
 
@@ -143,7 +143,7 @@
 
     (15) The term “Secretary” means the Secretary of Agriculture of the United States.
 
-    (16) __State.—__ 
+    (16)  __State__  __.—__ 
 
     The term “State” means—
 
@@ -185,7 +185,7 @@
 
         (E) enhance the quality of life for farmers and society as a whole.
 
-    (20) __Teaching and education.—__ 
+    (20)  __Teaching and education__  __.—__ 
 
     The terms “teaching” and “education” mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
 

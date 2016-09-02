@@ -73,15 +73,15 @@
 
 [Pub. L. 102–237, title X, § 1013(a)][/us/pl/102/237/s1013/a]–(c), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901], as amended by [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 743\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–31, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
 
->     “(b) __Introduction Into Hawaii.—__ 
+>     “(b)  __Introduction Into Hawaii__  __.—__ 
 
 >     The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
->     “(c) __Authority.—__ 
+>     “(c)  __Authority__  __.—__ 
 
 >     The Secretary shall use the authority provided under the Federal Plant Pest Act ([7 U.S.C. 150aa][/us/usc/t7/s150aa] et seq.) to carry out subsections (a) and (b).”
 

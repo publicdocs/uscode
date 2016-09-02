@@ -119,11 +119,11 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Status of 1994 institutions.—__ 
+>         “(1)  __Status of 1994 institutions__  __.—__ 
 
 >         Except as provided in paragraph (2), 1994 Institutions shall be considered land-grant colleges established for the benefit of agriculture and the mechanic arts in accordance with the provisions of the Act of July 2, 1862 ([12 Stat. 503][/us/stat/12/503]; [7 U.S.C. 301][/us/usc/t7/s301] et seq.) (commonly known as the First Morrill Act).
 
->         “(2) __1994 institutions.—__ 
+>         “(2) __1994__  __institutions__  __.—__ 
 
 >             (A)
 
@@ -137,7 +137,7 @@
 
 >             “(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 ([12 Stat. 503][/us/stat/12/503]; [7 U.S.C. 301][/us/usc/t7/s301] et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scrip for the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
 
->         “(3) __Accreditation.—__ 
+>         “(3)  __Accreditation__  __.—__ 
 
 >         To receive funding under this section and sections 534, 535, and 536, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
 
@@ -145,17 +145,17 @@
 
 >             “(B) is making progress toward the accreditation, as determined by the nationally recognized accrediting agency or association.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 >     “(c) __Endowment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In accordance with this subsection, the Secretary of the Treasury shall establish a 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
 
->         “(2) __Deposit to the endowment fund.—__ 
+>         “(2)  __Deposit to the endowment fund__  __.—__ 
 
 >         The Secretary shall deposit in the endowment fund any—
 
@@ -163,11 +163,11 @@
 
 >             “(B) interest earned on the endowment fund corpus.
 
->         “(3) __Investments.—__ 
+>         “(3)  __Investments__  __.—__ 
 
 >         The Secretary shall invest the endowment fund corpus and income in interest-bearing obligations of the United States.
 
->         “(4) __Withdrawals and expenditures.—__ 
+>         “(4)  __Withdrawals and expenditures__  __.—__ 
 
 >         The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
@@ -175,7 +175,7 @@
 
 >             “(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
->     “(d) __Memorandum of Agreement.—__ 
+>     “(d)  __Memorandum of Agreement__  __.—__ 
 
 >     Not later than January 6, 1997, the Secretary shall develop and implement a formal memorandum of agreement with the 1994 Institutions to establish programs to ensure that tribally controlled colleges and Native American communities equitably participate in Department of Agriculture employment, programs, services, and resources.
 
@@ -183,7 +183,7 @@
 
 >     “(a) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For fiscal year 1996, and for each fiscal year thereafter, there are authorized to be appropriated to the Department of the Treasury an amount equal to—
 
@@ -191,7 +191,7 @@
 
 >             “(B) the number of 1994 Institutions.
 
->         “(2) __Payments.—__ 
+>         “(2)  __Payments__  __.—__ 
 
 >         For each fiscal year, the Secretary of the Treasury shall pay to the treasurer of each 1994 Institution an amount equal to—
 
@@ -199,13 +199,13 @@
 
 >             “(B) the number of 1994 Institutions.
 
->         “(3) __Use of funds; requirements.—__ 
+>         “(3)  __Use of funds; requirements__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 ([26 Stat. 417][/us/stat/26/417], chapter 841; [7 U.S.C. 321][/us/usc/t7/s321] et seq.) (commonly known as the Second Morrill Act), and, except as otherwise provided in this subsection, the requirements of such Act shall apply to 1994 Institutions.
 
->             “(B) __Redistribution.—__ 
+>             “(B)  __Redistribution__  __.—__ 
 
 >             Funds that would be paid to a 1994 Institution under paragraph (2) shall be withheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
 
@@ -213,35 +213,35 @@
 
 >                 “(ii) fails to meet the accreditation requirements under section 533(a)(3).
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     \[Amended [section 343 of this title][/us/usc/t7/s343].\]
 
 > “SEC. 535. __INSTITUTIONAL CAPACITY BUILDING GRANTS.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     As used in this section:
 
->         “(1) __Federal share.—__ 
+>         “(1)  __Federal share__  __.—__ 
 
 >         The term ‘Federal share’ means, with respect to a grant awarded under subsection (b), the share of the grant that is provided from Federal funds.
 
->         “(2) __Non-federal share.—__ 
+>         “(2)  __Non-federal share__  __.—__ 
 
 >         The term ‘non-Federal share’ means, with respect to a grant awarded under subsection (b), the matching funds paid with funds other than funds referred to in paragraph (1), as determined by the Secretary.
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Agriculture.
 
 >     “(b) __In General.—__ 
 
->         “(1) __Institutional capacity building grants.—__ 
+>         “(1)  __Institutional capacity building grants__  __.—__ 
 
 >         For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
->         “(2) __Requirements for grants.—__ 
+>         “(2)  __Requirements for grants__  __.—__ 
 
 >         The Secretary shall make grants under this section—
 
@@ -249,29 +249,29 @@
 
 >             “(B) in such manner as to ensure geographic diversity with respect to the 1994 Institutions that are the subject of the grants.
 
->         “(3) __Demonstration of need.—__ 
+>         “(3)  __Demonstration of need__  __.—__ 
 
 >         The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
 
->         “(4) __Payment of non-federal share.—__ 
+>         “(4)  __Payment of non-federal share__  __.—__ 
 
 >         A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2012.
 
 > “SEC. 536. __RESEARCH GRANTS.__ 
 
->     “(a) __Research Grants Authorized.—__ 
+>     “(a)  __Research Grants Authorized__  __.—__ 
 
 >     The Secretary of Agriculture may make grants under this section, on the basis of a competitive application process (and in accordance with such regulations as the Secretary may promulgate), to a 1994 Institution to assist the Institution to conduct agricultural research that addresses high priority concerns of tribal, national, or multistate significance.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with at least 1 other land-grant college or university (exclusive of another 1994 Institution).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012. Amounts appropriated shall remain available until expended.”
 

@@ -37,7 +37,7 @@
 
 [Pub. L. 110–234, title IV, § 4306][/us/pl/110/234/s4306], May 22, 2008, [122 Stat. 1131][/us/stat/122/1131], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1893, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -47,7 +47,7 @@
 
 >         “(3) The Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) requires the use of domestic food products for all meals served under the program, including food products purchased with local funds.
 
->     “(b) __Buy American Statutory Requirements.—__ 
+>     “(b)  __Buy American Statutory Requirements__  __.—__ 
 
 >     The Department of Agriculture should undertake training, guidance, and enforcement of the various current Buy American statutory requirements and regulations, including those of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.).”
 
@@ -61,15 +61,15 @@
 
 >     “(b) __Sense of Congress; Requirement Regarding Notice.—__ 
 
->         “(1) __Purchase of american-made equipment and products.—__ 
+>         “(1)  __Purchase of american-made equipment and products__  __.—__ 
 
 >         In the case of any equipment or product that may be authorized to be purchased with financial assistance provided using funds made available in this Act, it is the sense of the Congress that entities receiving the assistance should, in expending the assistance, purchase only American-made equipment and products.
 
->         “(2) __Notice to recipients of assistance.—__ 
+>         “(2)  __Notice to recipients of assistance__  __.—__ 
 
 >         In providing financial assistance using funds made available in this Act, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by the Congress.
 
->     “(c) __Prohibition of Contracts With Persons Falsely Labeling Products as Made in America.—__ 
+>     “(c)  __Prohibition of Contracts With Persons Falsely Labeling Products as Made in America__  __.—__ 
 
 >     If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds made available in this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.”
 

@@ -369,7 +369,7 @@
 
 [Pub. L. 102–546, title II, § 220(b)][/us/pl/102/546/s220/b], (c), Oct. 28, 1992, [106 Stat. 3614][/us/stat/106/3614], provided that:
 
->     “(b) __Study.—__ 
+>     “(b)  __Study__  __.—__ 
 
 >     The Commodity Futures Trading Commission shall conduct a study to assess—
 
@@ -377,7 +377,7 @@
 
 >         “(2) whether the experience with such systems of trading indicates that they may be useful or effective to enhance access to the futures and options markets by potential market participants, improve the ability of the Commission to audit the activities of the futures and options markets, reduce the opportunity for trading abuses, and otherwise be in the public interest or raise other related issues.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than two years after the date of enactment of this Act \[Oct. 28, 1992\], the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study conducted under subsection (a), together with any appropriate recommendations.”
 

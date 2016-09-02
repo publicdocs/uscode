@@ -181,13 +181,13 @@
 
 [Pub. L. 101–624, title XV, § 1542][/us/pl/101/624/s1542], Nov. 28, 1990, [104 Stat. 3691][/us/stat/104/3691], as amended by [Pub. L. 102–237, title III, § 338][/us/pl/102/237/s338], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 706][/us/pl/102/511/s706], Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350]; [Pub. L. 103–182, title III, § 321(g)][/us/pl/103/182/s321/g], Dec. 8, 1993, [107 Stat. 2112][/us/stat/107/2112]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 277(a), 278, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977], 979; [Pub. L. 107–171, title III, § 3203][/us/pl/107/171/s3203], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III, § 3204][/us/pl/110/246/s3204], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837], provided that:
 
->     “(a) __Funding.—__ 
+>     “(a)  __Funding__  __.—__ 
 
 >     The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5621][/us/usc/t7/s5621] and 5622), in addition to the amounts acquired or authorized under section 211 of the Act ([7 U.S.C. 5641][/us/usc/t7/s5641]) for the program.
 
->     “(b) __Facilities and Services.—__ 
+>     “(b)  __Facilities and Services__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A portion of such export credit guarantees shall be made available for—
 
@@ -197,7 +197,7 @@
 
 >         in emerging markets by United States persons to improve handling, marketing, processing, storage, or distribution of imported agricultural commodities and products thereof if the Secretary of Agriculture determines that such guarantees will primarily promote the export of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 \[[7 U.S.C. 5602(7)][/us/usc/t7/s5602/7]\]).
 
->         “(2) __Priority.—__ 
+>         “(2)  __Priority__  __.—__ 
 
 >         The Commodity Credit Corporation shall give priority under this subsection to—
 
@@ -205,7 +205,7 @@
 
 >             “(B) projects for which nongovernmental persons agree to assume a relatively larger share of the costs.
 
->         “(3) __Construction waiver.—__ 
+>         “(3)  __Construction waiver__  __.—__ 
 
 >         The Secretary may waive any applicable requirements relating to the use of United States goods in the construction of a proposed facility, if the Secretary determines that—
 
@@ -213,7 +213,7 @@
 
 >             “(B) the use of goods from the United States is not practicable.
 
->         “(4) __Term of guarantee.—__ 
+>         “(4)  __Term of guarantee__  __.—__ 
 
 >         A facility payment guarantee under this subsection shall be for a term that is not more than the lesser of—
 
@@ -221,11 +221,11 @@
 
 >             “(B) 20 years.
 
->     “(c) __Consultations.—__ 
+>     “(c)  __Consultations__  __.—__ 
 
 >     Before the authority under this section is exercised, the Secretary of Agriculture shall consult with exporters of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 \[[7 U.S.C. 5602(7)][/us/usc/t7/s5602/7]\]), nongovernmental experts, and other Federal Government agencies in order to ensure that facilities in an emerging market for which financing is guaranteed under paragraph (1)(B) do not primarily benefit countries which are in close geographic proximity to that emerging market.
 
->     “(d) __E (Kika) de la Garza Agricultural Fellowship Program.—__ 
+>     “(d)  __E (Kika) de la Garza Agricultural Fellowship Program__  __.—__ 
 
 >     The Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall establish a program, to be known as the ‘E (Kika) de la Garza Agricultural Fellowship Program’, to develop agricultural markets in emerging markets and to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and emerging markets, as follows:
 
@@ -233,15 +233,15 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __Establishment of program.—__ 
+>                 “(i)  __Establishment of program__  __.—__ 
 
 >                 For each of the fiscal years 1991 through 2012, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
 
->                 “(ii) __Extent of program.—__ 
+>                 “(ii)  __Extent of program__  __.—__ 
 
 >                 The Secretary shall implement this paragraph with respect to at least 3 emerging markets in each fiscal year.
 
->             “(B) __Experts from the united states.—__ 
+>             “(B)  __Experts from the united states__  __.—__ 
 
 >             The Secretary may implement the requirements of subparagraph (A)—
 
@@ -251,37 +251,37 @@
 
 >                 “(iii) by providing for necessary subsistence expenses in emerging markets and necessary transportation expenses of United States agricultural producers and other individuals knowledgeable in agricultural and agribusiness matters to assist in transferring their knowledge and expertise to entities in emerging markets.
 
->             “(C) __Cost-sharing.—__ 
+>             “(C)  __Cost-sharing__  __.—__ 
 
 >             The Secretary shall encourage the nongovernmental experts described in subparagraph (B) to share the costs of, and otherwise assist in, the participation of such experts in the program under this paragraph.
 
->             “(D) __Technical assistance.—__ 
+>             “(D)  __Technical assistance__  __.—__ 
 
 >             The Secretary is authorized to provide, or pay the necessary costs for, technical assistance (including the establishment of extension services) to enable individuals or other entities to implement the recommendations or to carry out the opportunities and projects identified under paragraph (1)(A). Notwithstanding any other provision of law, the assistance shall include assistance for administrative and overhead expenses of the International Cooperation and Development Program Area of the Foreign Agriculture Service, to the extent that the expenses were incurred pursuant to reimbursable agreements entered into prior to September 30, 1993, the expenses do not exceed $2,000,000 per year, and the expenses are not incurred for information technology systems.
 
->             “(E) __Reports to secretary.—__ 
+>             “(E)  __Reports to secretary__  __.—__ 
 
 >             A team that receives assistance under subparagraph (B) shall prepare such reports as the Secretary may designate.
 
->             “(F) __Advisory committee.—__ 
+>             “(F)  __Advisory committee__  __.—__ 
 
 >             To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
 
->             “(G) __Use of ccc.—__ 
+>             “(G)  __Use of ccc__  __.—__ 
 
 >             The Secretary shall implement this paragraph through the funds and facilities of the Commodity Credit Corporation. The authority provided under this paragraph shall be in addition to and not in place of any other authority of the Secretary or the Commodity Credit Corporation.
 
->             “(H) __Level of assistance.—__ 
+>             “(H)  __Level of assistance__  __.—__ 
 
 >             The Secretary shall provide assistance under this paragraph of not more than $10,000,000 in any fiscal year.
 
 >         “(2) __Agricultural information program.—__ 
 
->             “(A) __Establishment of program.—__ 
+>             “(A)  __Establishment of program__  __.—__ 
 
 >             The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
 
->             “(B) __Implementation.—__ 
+>             “(B)  __Implementation__  __.—__ 
 
 >             The Secretary shall draw on the Department of Agriculture’s experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—
 
@@ -301,21 +301,21 @@
 
 >                          “(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets.
 
->             “(C) __Consultation and coordination.—__ 
+>             “(C)  __Consultation and coordination__  __.—__ 
 
 >             The Secretary shall consult and coordinate with the Secretary of State and the Agency for International Development in the formulation and implementation of this program in conjunction with overall assistance to emerging markets.
 
->             “(D) __Authorization for appropriations.—__ 
+>             “(D)  __Authorization for appropriations__  __.—__ 
 
 >             There are authorized to be appropriated such sums as may be necessary to carry out the program established under this paragraph.
 
 >     “(e) __Foreign Debt Burdens.—__ 
 
->         “(1) __Effect of credits.—__ 
+>         “(1)  __Effect of credits__  __.—__ 
 
 >         In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
 
->         “(2) __Consultation and report.—__ 
+>         “(2)  __Consultation and report__  __.—__ 
 
 >         Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6917][/us/usc/t7/s6917]), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
 
@@ -333,7 +333,7 @@
 
 >                 “(ii) the relationship between any negative economic effects on any recipient country caused by its overall foreign debt burden and debt incurred under subsection (a) and such country’s political stability.
 
->     “(f) __Emerging Market.—__ 
+>     “(f)  __Emerging Market__  __.—__ 
 
 >     In this section and section 1543 \[[7 U.S.C. 3293][/us/usc/t7/s3293]\], the term ‘emerging market’ means any country that the Secretary determines—
 

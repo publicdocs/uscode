@@ -103,7 +103,7 @@
 
 [Pub. L. 101–82, title IV, § 401][/us/pl/101/82/s401], Aug. 14, 1989, [103 Stat. 583][/us/stat/103/583], as amended by [Pub. L. 101–220, § 9(d)][/us/pl/101/220/s9/d], Dec. 12, 1989, [103 Stat. 1882][/us/stat/103/1882], provided that:
 
->     “(a) __Loan Guarantees.—__ 
+>     “(a)  __Loan Guarantees__  __.—__ 
 
 >     The Secretary of Agriculture shall guarantee loans made in rural areas to—
 
@@ -113,25 +113,25 @@
 
 >     “(b) __Eligible Loans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Loans guaranteed under this section shall be loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, insurance company, or other legally organized lending agency.
 
->         “(2) __Production agriculture.—__ 
+>         “(2)  __Production agriculture__  __.—__ 
 
 >         No application for a loan guarantee under this section shall be denied on the basis that such organization, tribe, or entity engages in whole or in part in production agriculture.
 
 >     “(c) __Loan Guarantee Limits.—__ 
 
->         “(1) __Percentage of principal and interest.—__ 
+>         “(1)  __Percentage of principal and interest__  __.—__ 
 
 >         No guarantee under this section shall exceed 90 percent of the principal and interest amount of the loan or $2,500,000, whichever is the lesser amount.
 
->         “(2) __Total amount.—__ 
+>         “(2)  __Total amount__  __.—__ 
 
 >         The total amount of loan guarantee under this section shall not exceed $300,000,000.
 
->     “(d) __Use of the Rural Development Insurance Fund.—__ 
+>     “(d)  __Use of the Rural Development Insurance Fund__  __.—__ 
 
 >     The Secretary shall use the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1929a][/us/usc/t7/s1929a]) for the purposes of discharging the obligations of the Secretary under this section.”
 
@@ -143,7 +143,7 @@
 
 [Pub. L. 99–509, title I, § 1001][/us/pl/99/509/s1001], Oct. 21, 1986, [100 Stat. 1874][/us/stat/100/1874], as amended by [Pub. L. 100–233, title VIII, § 803][/us/pl/100/233/s803], Jan. 6, 1988, [101 Stat. 1714][/us/stat/101/1714]; [Pub. L. 101–220, § 12][/us/pl/101/220/s12], Dec. 12, 1989, [103 Stat. 1883][/us/stat/103/1883], provided that:
 
->     “(a) __Sales Required.—__ 
+>     “(a)  __Sales Required__  __.—__ 
 
 >     The Secretary of Agriculture, under such terms as the Secretary may prescribe, shall sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1929a][/us/usc/t7/s1929a]\] in such amounts as to realize net proceeds to the Government of not less than—
 
@@ -155,15 +155,15 @@
 
 >     “(b) \[Amended subsec. (e) of this section\]
 
->     “(c) __Contract Provisions.—__ 
+>     “(c)  __Contract Provisions__  __.—__ 
 
 >     Consistent with section 309A(e) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1929a(e)][/us/usc/t7/s1929a/e]\], as amended by subsection (b), any sale of notes or other obligations, as described in subsection (a), shall not alter the terms specified in the note or other obligation, except that, on sale, a note or other obligation shall not be subject to the provisions of section 333(c) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1983(c)][/us/usc/t7/s1983/c]\].
 
->     “(d) __Eligibility to Purchase Notes.—__ 
+>     “(d)  __Eligibility to Purchase Notes__  __.—__ 
 
 >     Notwithstanding any other provision of law, each institution of the Farm Credit System shall be eligible to purchase notes and other obligations held in the Rural Development Insurance Fund and to service (including the extension of additional credit and all other actions necessary to preserve, conserve, or protect the institution’s interest in the purchased notes or other obligations), collect, and dispose of such notes and other obligations, subject only to such terms and conditions as may be agreed to by the Secretary of Agriculture and the purchasing institution and as may be approved by the Farm Credit Administration.
 
->     “(e) __Loan Servicing.—__ 
+>     “(e)  __Loan Servicing__  __.—__ 
 
 >     Prior to selling any note or other obligation, as described in subsection (a), the Secretary of Agriculture shall require persons offering to purchase the note or other obligation to demonstrate—
 
@@ -173,7 +173,7 @@
 
 >     “(f) __Right of First Refusal.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before conducting a sale of a portfolio of notes or other obligations under this section, the Secretary of Agriculture shall—
 
@@ -183,25 +183,25 @@
 
 >         “(2) __Determination of offering price.—__ 
 
->             “(A) __Authority.—__ 
+>             “(A)  __Authority__  __.—__ 
 
 >             The Secretary of Agriculture shall determine, in accordance with subparagraph (B), the price at which a note or other obligation shall be offered for sale under this subsection.
 
->             “(B) __Price.—__ 
+>             “(B)  __Price__  __.—__ 
 
 >             Such price shall be determined by discounting the payment stream of such note or other obligation at the yield on the then most recent sale of the portfolio, adjusted for changes in market interest rates, servicing and sales expenses, and the maturity and interest rate of such note.
 
 >         “(3) __Prohibitions.—__ 
 
->             “(A) __Purchase of obligation not tied to purchase of other obligations.—__ 
+>             “(A)  __Purchase of obligation not tied to purchase of other obligations__  __.—__ 
 
 >             The Secretary of Agriculture shall not require the issuer of any unsold note or other obligation to be offered for sale under this subsection to purchase any other such note or other obligation as a condition of the sale of any such note or other obligation to the issuer.
 
->             “(B) __Offer to be made without regard to financing.—__ 
+>             “(B)  __Offer to be made without regard to financing__  __.—__ 
 
 >             The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
->     “(g) __Applicability of Prohibition on Curtailment or Limitation of Service.—__ 
+>     “(g)  __Applicability of Prohibition on Curtailment or Limitation of Service__  __.—__ 
 
 >     Section 306(b) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1926(b)][/us/usc/t7/s1926/b]) shall be applicable to all notes or other obligations sold or intended to be sold under this section.
 
@@ -221,7 +221,7 @@
 
 [Pub. L. 99–500, title III, § 381][/us/pl/99/500/s381], Oct. 18, 1986, [100 Stat. 1783–369][/us/stat/100/1783-369], and [Pub. L. 99–591, title III, § 381][/us/pl/99/591/s381], Oct. 30, 1986, [100 Stat. 3341–372][/us/stat/100/3341-372], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall, under such terms as the Secretary may prescribe, sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1929a][/us/usc/t7/s1929a]) in such amounts as to realize net proceeds of not less than—
 
@@ -233,7 +233,7 @@
 
 >     “(b) \[Amended subsec. (e) of this section\]
 
->     “(c) __Farm Credit System Institutions.—__ 
+>     “(c)  __Farm Credit System Institutions__  __.—__ 
 
 >     Notwithstanding any other provision of law, institutions of the Farm Credit System operating under the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001]) shall be eligible to purchase notes and other obligations held in the Rural Development Insurance Fund and to service (including the extension of additional credit and all other actions necessary to preserve, conserve, or protect the institutions’ interests in such notes and other obligations), collect, and dispose of such notes and other obligations, subject only to such terms and conditions as may be agreed to by the Secretary of Agriculture and such purchasing institutions and as are approved by the Farm Credit Administration.”
 

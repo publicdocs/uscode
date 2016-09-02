@@ -37,11 +37,11 @@ Provisions similar to those in subsec. (b) of this section appear in the followi
 
 [Pub. L. 101–624, title XV, § 1556][/us/pl/101/624/s1556], Nov. 28, 1990, [104 Stat. 3698][/us/stat/104/3698], as amended by [Pub. L. 104–127, title II, § 281(b)][/us/pl/104/127/s281/b], Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
 
->     “(a) __Assessment of Foreign Language Competence.—__ 
+>     “(a)  __Assessment of Foreign Language Competence__  __.—__ 
 
 >     The Foreign Agricultural Service shall revise its evaluation reports for its Foreign Service officers so as to require in a separate entry an assessment of the officer’s effectiveness in using, in his or her work, a foreign language or foreign languages tested at the General Professional Speaking Proficiency level or above, in cases where the supervisor is capable of making such an assessment.
 
->     “(b) __Precedence in Promotion.—__ 
+>     “(b)  __Precedence in Promotion__  __.—__ 
 
 >     The Director of Personnel of the Foreign Agricultural Service shall instruct promotion panels to take account of language ability and, all criteria for promotion otherwise being equal, to give precedence in promotions to officers who have achieved at least the General Professional Speaking Proficiency level in 1 or more foreign languages over officers who lack that level of proficiency.”
 

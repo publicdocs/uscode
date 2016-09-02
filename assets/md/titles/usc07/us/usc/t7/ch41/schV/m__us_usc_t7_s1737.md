@@ -229,6 +229,10 @@
 
     Section effective Jan. 1, 1991, see [section 1513 of Pub. L. 101–624][/us/pl/101/624/s1513], set out as an Effective Date of 1990 Amendment note under [section 1691 of this title][/us/usc/t7/s1691].
 
+ __Delegation of Functions__ 
+
+    Functions of President under this section delegated to Administrator of the Agency for International Development by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title][/us/usc/t7/s1691].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t7/ch41/schV/m__us_usc_t7_ch41_schV.md) | [Next](./../../../../..//us/usc/t7/ch41/schVI/m__us_usc_t7_ch41_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1737)
@@ -269,6 +273,7 @@
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/101/624/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1513
+[/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 
 

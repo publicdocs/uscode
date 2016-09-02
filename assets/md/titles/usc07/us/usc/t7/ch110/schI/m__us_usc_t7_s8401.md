@@ -377,7 +377,7 @@
 
     The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of [act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], [37 Stat. 832][/us/stat/37/832], as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21][/us/usc/t21/s151] and Tables.
 
-     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(1)(C)(ii)(IV), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title][/us/usc/t7/s136] and Tables.
+    The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(1)(C)(ii)(IV), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title][/us/usc/t7/s136] and Tables.
 
     The Plant Protection Act, referred to in subsec. (i)(2), is title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], as amended, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
 
@@ -399,15 +399,15 @@
 
 [Pub. L. 107–188, title II, § 213][/us/pl/107/188/s213], June 12, 2002, [116 Stat. 656][/us/stat/116/656], provided that:
 
->     “(a) __Date Certain for Promulgation of List.—__ 
+>     “(a)  __Date Certain for Promulgation of List__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[[7 U.S.C. 8401(a)(1)][/us/usc/t7/s8401/a/1]\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
 
->     “(b) __Date Certain for Notice of Possession.—__ 
+>     “(b)  __Date Certain for Notice of Possession__  __.—__ 
 
 >     Not later than 60 days after the date on which the Secretary promulgates the interim final rule under subsection (a), all persons (unless exempt under section 212(g) \[[7 U.S.C. 8401(g)][/us/usc/t7/s8401/g]\]) in possession of biological agents or toxins included on the list referred to in subsection (a) shall notify the Secretary of such possession.
 
->     “(c) __Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—__ 
+>     “(c)  __Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary shall promulgate an interim final rule for carrying out section 212 \[[7 U.S.C. 8401][/us/usc/t7/s8401]\], other than for the list referred to in subsection (a) of this section (but such rule may incorporate by reference provisions promulgated pursuant to subsection (a)). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
@@ -415,7 +415,7 @@
 
 >         “(2) section 212(i) of this Act \[[7 U.S.C. 8401(i)][/us/usc/t7/s8401/i]\] (relating to civil penalties).
 
->     “(d) __Transitional Provision Regarding Current Research and Education.—__ 
+>     “(d)  __Transitional Provision Regarding Current Research and Education__  __.—__ 
 
 >     The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[[7 U.S.C. 8401(a)(1)][/us/usc/t7/s8401/a/1]\] and that were underway as of the effective date of such rule.”
 

@@ -177,15 +177,15 @@
 
 >     “(c) __Applicability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendments made by this section \[amending this section and repealing [section 2033 of this title][/us/usc/t7/s2033]\] apply beginning on October 1, 2002.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         Subparagraphs (B)(ii) and (D) of section 19(a)(2) of the Food and Nutrition Act of 2008 \[[7 U.S.C. 2028(a)(2)][/us/usc/t7/s2028/a/2]\] (as amended by subsection (a)(1)) apply beginning on the date of enactment of this Act \[May 13, 2002\].
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and repealing [section 2033 of this title][/us/usc/t7/s2033]\] take effect on the date of enactment of this Act \[May 13, 2002\].”
 
@@ -235,7 +235,7 @@
 
 [Pub. L. 101–624, title XVII, § 1762(c)][/us/pl/101/624/s1762/c], (d), Nov. 28, 1990, [104 Stat. 3805][/us/stat/104/3805], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (D), (2)(KK), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096, 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
->     “(c) __Study of Nutritional Needs of Puerto Ricans.—__ 
+>     “(c)  __Study of Nutritional Needs of Puerto Ricans__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of—
 
@@ -261,7 +261,7 @@
 
 >             “(C) the usefulness of adjustments to standards of eligibility and other factors appropriate to the circumstances of the Commonwealth comparable to those adjustments made under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) for Alaska, Hawaii, Guam, and the Virgin Islands of the United States.
 
->     “(d) __Report of Findings.—__ 
+>     “(d)  __Report of Findings__  __.—__ 
 
 >     Not later than August 1, 1992, the Comptroller General shall submit a final report on the findings of the study required under subsection (c) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
 

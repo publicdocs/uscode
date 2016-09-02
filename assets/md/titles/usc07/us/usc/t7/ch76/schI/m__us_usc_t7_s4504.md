@@ -33,15 +33,15 @@
 
         (6) __Importers.—__ 
 
-            (A) __Initial representation.—__ 
+            (A)  __Initial representation__  __.—__ 
 
             In making initial appointments to the Board of importer representatives, the Secretary shall appoint 2 members who represent importers of dairy products and are subject to assessments under the order.
 
-            (B) __Subsequent representation.—__ 
+            (B)  __Subsequent representation__  __.—__ 
 
             At least once every 3 years after the initial appointment of importer representatives under subparagraph (A), the Secretary shall review the average volume of domestic production of dairy products compared to the average volume of imports of dairy products into the United States during the previous 3 years and, on the basis of that review, shall reapportion importer representation on the Board to reflect the proportional share of the United States market by domestic production and imported dairy products.
 
-            (C) __Additional members; nominations.—__ 
+            (C)  __Additional members; nominations__  __.—__ 
 
             The members appointed under this paragraph—
 
@@ -63,11 +63,11 @@
 
     (e) __Budgets.—__ 
 
-        (1) __Preparation and submission.—__ 
+        (1)  __Preparation and submission__  __.—__ 
 
         The order shall require the Board to submit to the Secretary for approval budgets on a fiscal period basis of its anticipated expenses and disbursements in the administration of the order, including projected costs of dairy products promotion and research projects.
 
-        (2) __Foreign market efforts.—__ 
+        (2)  __Foreign market efforts__  __.—__ 
 
         The order shall authorize the Board to expend in the maintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2012 fiscal years, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
 
@@ -81,11 +81,11 @@
 
         (3) __Rate.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The rate of assessment for milk produced in the United States prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
 
-            (B) __Imported dairy products.—__ 
+            (B)  __Imported dairy products__  __.—__ 
 
             The rate of assessment for imported dairy products prescribed by the order shall be 7.5 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
 
@@ -95,21 +95,21 @@
 
         (6) __Importers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The order shall provide that each importer of imported dairy products shall pay an assessment to the Board in the manner prescribed by the order.
 
-            (B) __Use of assessments on imported dairy products.—__ 
+            (B)  __Use of assessments on imported dairy products__  __.—__ 
 
             Assessments collected on imported dairy products shall not be used for foreign market promotion.
 
         (7) __Refund of assessments on certain imported products.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An importer shall be entitled to a refund of any assessment paid under this subsection on imported dairy products imported under a contract entered into prior to the date of enactment of the Food, Conservation, and Energy Act of 2008.
 
-            (B) __Expiration.—__ 
+            (B)  __Expiration__  __.—__ 
 
             Refunds under subparagraph (A) shall expire 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008.
 

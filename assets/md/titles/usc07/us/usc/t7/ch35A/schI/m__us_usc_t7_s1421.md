@@ -79,11 +79,11 @@
 
 [Pub. L. 102–237, title XI, § 1101][/us/pl/102/237/s1101], Dec. 13, 1991, [105 Stat. 1906][/us/stat/105/1906], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (D), (2)(NN), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (D), (2)(NN), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Dec. 13, 1991\].
 
->     “(b) __Inclusion in Food, Agriculture, Conservation, and Trade Act of 1990.—__ 
+>     “(b)  __Inclusion in Food, Agriculture, Conservation, and Trade Act of__  __1990.—__ 
 
 >     The amendments made by the following provisions of this Act shall take effect as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990 ([Public Law 101–624][/us/pl/101/624]) to which the amendment relates:
 
@@ -103,19 +103,19 @@
 
 >         “(8) Section 703(c) \[amending [section 950aa of this title][/us/usc/t7/s950aa]\].
 
->     “(c) __Miscellaneous Amendments to Consolidated Farm and Rural Development Act.—__ 
+>     “(c)  __Miscellaneous Amendments to Consolidated Farm and Rural Development Act__  __.—__ 
 
 >     The amendments made by section 701(h) of this Act \[amending sections 1926, 1932, 1981, 1994, and 2000 of this title\] to any provision specified therein shall take effect as if such amendments had been included in the Act that added the provision so specified at the time such Act became law.
 
 >     “(d) __Food and Nutrition Programs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, title IX of this Act \[amending sections 1431e, 2012, 2014, 2015, 2017, 2018, 2020, 2025, 2026, 2028, 2029, and 2031 of this title, enacting provisions set out as notes under sections 2015, 2016, 2026, and 5930 of this title, and amending provisions set out as notes under sections 612c and 2012 of this title\], and the amendments made by title IX of this Act, shall take effect and be implemented no later than February 1, 1992.
 
 >         “(2) __PASS accounts exclusion.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendment made by section 903(3) of this Act \[amending [section 2014 of this title][/us/usc/t7/s2014]\] shall take effect on the earlier of—
 
@@ -125,19 +125,19 @@
 
 >                 “(iii) beginning on the date that a fair hearing was requested under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) contesting the denial of an exclusion for supplemental nutrition assistance program benefits purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
->             “(B) __Limitation on application of section.—__ 
+>             “(B)  __Limitation on application of section__  __.—__ 
 
 >             Notwithstanding section 11(b) of the Food and Nutrition Act of 2008 \[[section 2020(b) of this title][/us/usc/t7/s2020/b]\] (as redesignated by section 941(6) of this Act), no State agency shall be required to search its files for cases to which the amendment made by section 903(3) of this Act \[amending [section 2014 of this title][/us/usc/t7/s2014]\] applies, except where the excludability of amounts described in section 5(d)(16) of the Food and Nutrition Act of 2008 \[[section 2014(d)(16) of this title][/us/usc/t7/s2014/d/16]\] (as added by section 903(3) of this Act) was raised with the State agency prior to the date of enactment of the Act \[Dec. 13, 1991\].
 
->         “(3) __Performance standards for employment and training programs.—__ 
+>         “(3)  __Performance standards for employment and training programs__  __.—__ 
 
 >         The amendments made by section 908 \[907, amending [section 2015 of this title][/us/usc/t7/s2015]\] of this Act shall take effect on September 30, 1991.
 
->         “(4) __Recovery of claims caused by nonfraudulent household errors.—__ 
+>         “(4)  __Recovery of claims caused by nonfraudulent household errors__  __.—__ 
 
 >         The amendment made by section 911 of this Act \[amending [section 2022 of this title][/us/usc/t7/s2022]\] shall take effect on the date of enactment of this Act \[Dec. 13, 1991\].
 
->         “(5) __Definition of retail food store.—__ 
+>         “(5)  __Definition of retail food store__  __.—__ 
 
 >         The amendment made by section 913 of this Act \[amending provisions set out as a note under [section 2012 of this title][/us/usc/t7/s2012]\] shall take effect on October 1, 1990, and shall not apply with respect to any period occurring before such date.”
 
@@ -145,11 +145,11 @@
 
 [Pub. L. 101–624, title XI, § 1171][/us/pl/101/624/s1171], Nov. 28, 1990, [104 Stat. 3521][/us/stat/104/3521], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise specifically provided in title I through this title \[see Tables for classification\], such titles and the amendments made by such titles shall become effective beginning with the 1991 crop of an agricultural commodity.
 
->     “(b) __Prior Crops.—__ 
+>     “(b)  __Prior Crops__  __.—__ 
 
 >     Except as otherwise specifically provided and notwithstanding any other provision of law, title I through this title, and the amendments made by such titles, shall not affect the authority of the Secretary of Agriculture to carry out a price support or production adjustment program for any of the 1986 through 1990 crops of an agricultural commodity established under a provision of law in effect immediately before the effective date prescribed by subsection (a).”
 
@@ -267,7 +267,7 @@
 
 [Pub. L. 106–224, title II, § 263][/us/pl/106/224/s263], June 20, 2000, [114 Stat. 427][/us/stat/114/427], provided that:
 
->     “(a) __Promulgation.—__ 
+>     “(a)  __Promulgation__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act \[June 20, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this title and the amendments made by this title \[see Tables for classification\]. The promulgation of the regulations and administration of this title shall be made without regard to—
 
@@ -277,7 +277,7 @@
 
 >         “(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
 
->     “(b) __Congressional Review of Agency Rulemaking.—__ 
+>     “(b)  __Congressional Review of Agency Rulemaking__  __.—__ 
 
 >     In carrying out this section, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808], United States Code.”
 

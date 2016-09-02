@@ -105,7 +105,7 @@
 
 [Pub. L. 100–387, title I, § 103][/us/pl/100/387/s103], Aug. 11, 1988, [102 Stat. 932][/us/stat/102/932], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall implement an emergency forage program for established pasture damaged by the drought or related condition in 1988, under which the Secretary shall enter into cost-share agreements with owners or operators of such damaged land to provide for reseeding of forage crops on such land to facilitate late fall 1988 and early spring 1989 grazing and haying. Assistance may be provided to such owners and operators only when—
 
@@ -115,17 +115,17 @@
 
 >         “(3) reseeding is not undertaken simply to improve the forage crop damaged by the drought.
 
->     “(b) __Cost-Share.—__ 
+>     “(b)  __Cost-Share__  __.—__ 
 
 >     The Secretary shall share half the costs incurred under each agreement entered into under subsection (a), including the costs of seed, fertilizer, and other inputs on reseeded pasture.
 
->     “(c) __Limitations.—__ 
+>     “(c)  __Limitations__  __.—__ 
 
 >         (1) The total amount of payments an owner or operator of pasture land shall be entitled to receive under this section shall be $3,500.
 
 >         “(2) The Secretary may cost-share for reseeding under this section only if the reseeding is to nonannual crops planted for pasture purposes.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >         (1) The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
 

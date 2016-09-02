@@ -29,11 +29,11 @@
 
         (4) __Cooperative agreements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements with other Federal agencies, State and local governments, and any other organization or individual to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas, including the establishment and financing of interagency groups, if the Secretary determines that the objectives of the agreement will serve the mutual interest of the parties in rural development activities.
 
-            (B) __Cooperators.—__ 
+            (B)  __Cooperators__  __.—__ 
 
             Each cooperator, including each Federal agency, to the extent that funds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
 

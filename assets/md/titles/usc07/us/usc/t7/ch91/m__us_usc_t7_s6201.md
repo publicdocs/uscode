@@ -69,7 +69,7 @@
 
 [Pub. L. 103–194, § 2][/us/pl/103/194/s2], Dec. 14, 1993, [107 Stat. 2294][/us/stat/107/2294], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -81,7 +81,7 @@
 
 >         “(4) Since the enactment of the Lime Research, Promotion, and Consumer Information Act of 1990, the United States production of fresh market limes has plummeted and the volume of imports has risen dramatically. The drop in United States production is primarily due to damage to lime orchards in the State of Florida by Hurricane Andrew in August 1992. United States production is not expected to reach pre-Hurricane Andrew levels for possibly two to three years because a majority of the United States production of limes is in Florida.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1993 Amendment note above\] is—
 

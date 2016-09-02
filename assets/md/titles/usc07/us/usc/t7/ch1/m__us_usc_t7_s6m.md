@@ -21,15 +21,15 @@
 
     (3) __Exception.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         Paragraph (1) shall not apply to any commodity trading advisor that is registered with the Securities and Exchange Commission as an investment adviser whose business does not consist primarily of acting as a commodity trading advisor, as defined in [section 1a of this title][/us/usc/t7/s1a], and that does not act as a commodity trading advisor to any commodity pool that is engaged primarily in trading commodity interests.
 
-        (B) __Engaged primarily.—__ 
+        (B)  __Engaged primarily__  __.—__ 
 
         For purposes of subparagraph (A), a commodity trading advisor or a commodity pool shall be considered to be “engaged primarily” in the business of being a commodity trading advisor or commodity pool if it is or holds itself out to the public as being engaged primarily, or proposes to engage primarily, in the business of advising on commodity interests or investing, reinvesting, owning, holding, or trading in commodity interests, respectively.
 
-        (C) __Commodity interests.—__ 
+        (C)  __Commodity interests__  __.—__ 
 
         For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.
 

@@ -99,17 +99,17 @@
 
 [Pub. L. 100–435, title I, § 111][/us/pl/100/435/s111], Sept. 19, 1988, [102 Stat. 1654][/us/stat/102/1654], as amended by [Pub. L. 101–624, title XVII, § 1774(b)][/us/pl/101/624/s1774/b], Nov. 28, 1990, [104 Stat. 3812][/us/stat/104/3812], provided that:
 
->     “(a) __Definition of Gleaning.—__ 
+>     “(a)  __Definition of Gleaning__  __.—__ 
 
 >     For purposes of this section, the term ‘to glean’ means to collect unharvested crops from the fields of farmers, or to obtain agricultural products from farmers, processors, or retailers, in order to distribute the products to needy individuals, including unemployed and low-income individuals, and the term includes only those situations in which agricultural products and access to fields and facilities are made available without charge.
 
 >     “(b) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) is authorized to assist States and private nonprofit organizations in establishing Gleaning Clearinghouses (hereafter in this section referred to as a ‘Clearinghouse’).
 
->         “(2) __Assistance.—__ 
+>         “(2)  __Assistance__  __.—__ 
 
 >         The Secretary is authorized to provide technical information and other assistance considered appropriate by the Secretary to encourage public and nonprofit private organizations to—
 
@@ -165,11 +165,11 @@
 
 > “SEC. 2. __STATEMENT OF PURPOSE; SENSE OF CONGRESS.__ 
 
->     “(a) __Statement of Purpose.—__ 
+>     “(a)  __Statement of Purpose__  __.—__ 
 
 >     It is the purpose of this Act to improve the manner in which agricultural commodities acquired by the Department of Agriculture are distributed to recipient agencies, the quality of the commodities that are distributed, and the degree to which such distribution reponds \[sic\] to the needs of the recipient agencies.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the distribution of commodities and products—
 
@@ -183,7 +183,7 @@
 
 >     “(a) __Commodities Specifications.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         In developing specifications for commodities acquired through price support, surplus removal, and direct purchase programs of the Department of Agriculture that are donated for use for programs or institutions described in paragraph (2), the Secretary shall—
 
@@ -199,7 +199,7 @@
 
 >                 “(ii) to the maximum extent practicable, consistent with the Dietary Guidelines for Americans published by the Secretary of Agriculture and the Secretary of Health and Human Services.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         Paragraph (1) shall apply to—
 
@@ -221,7 +221,7 @@
 
 >                 “(ii) programs under which food is donated to charitable institutions.
 
->         “(3) __Advisory council.—__ 
+>         “(3)  __Advisory council__  __.—__ 
 
 >             (A)
 
@@ -245,7 +245,7 @@
 
 >             “(E) The council shall expire on September 30, 1996.
 
->     “(b) __Duties of Secretary With Respect to Provision of Commodities.—__ 
+>     “(b)  __Duties of Secretary With Respect to Provision of Commodities__  __.—__ 
 
 >     With respect to the provision of commodities to recipient agencies, the Secretary shall—
 
@@ -305,15 +305,15 @@
 
 >     “(c) __Qualifications for Purchase of Commodities.—__ 
 
->         “(1) __Offers for equal or less poundage.—__ 
+>         “(1)  __Offers for equal or less poundage__  __.—__ 
 
 >         Subject to compliance by the Secretary with surplus removal responsibilities under other provisions of law, the Secretary may not refuse any offer in response to an invitation to bid with respect to a contract for the purchase of entitlement commodities (provided in standard order sizes) solely on the basis that such offer provides less than the total amount of poundage for a destination specified in such invitation.
 
->         “(2) __Other qualifications.—__ 
+>         “(2)  __Other qualifications__  __.—__ 
 
 >         The Secretary may not enter into a contract for the purchase of entitlement commodities unless the Secretary considers the previous history and current patterns of the bidding party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption.
 
->     “(d) __Duties of State Distribution Agencies.—__ 
+>     “(d)  __Duties of State Distribution Agencies__  __.—__ 
 
 >     On or before July 1, 1992, the Secretary shall by regulation require each State distribution agency to—
 
@@ -335,7 +335,7 @@
 
 >     “(e) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall provide by regulation for—
 
@@ -367,7 +367,7 @@
 
 >                          “(V) the donation of surplus commodities to provide nutrition services under section 311 of the Older Americans Act of 1965 ([42 U.S.C. 3030a][/us/usc/t42/s3030a]).
 
->         “(2) __Time for promulgation of regulations.—__ 
+>         “(2)  __Time for promulgation of regulations__  __.—__ 
 
 >         The Secretary shall promulgate—
 
@@ -377,35 +377,35 @@
 
 >     “(f) __Review of Provision of Commodities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before the expiration of the 270-day period beginning on the date of the enactment of this Act \[Jan. 8, 1988\], the Secretary shall establish procedures to provide for systematic review of the costs and benefits of providing commodities of the kind and quantity that are suitable to the needs of recipient agencies.
 
 >         “(2) __Information from recipient agencies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall ensure that information with respect to the types and forms of commodities that are most useful to persons participating in programs described in subsection (a)(2) is collected from recipient agencies operating the programs.
 
->             “(B) __Frequency.—__ 
+>             “(B)  __Frequency__  __.—__ 
 
 >             The information shall be collected at least once every 2 years.
 
->             “(C) __Additional submissions.—__ 
+>             “(C)  __Additional submissions__  __.—__ 
 
 >             The Secretary shall provide the recipient agencies a means for voluntarily submitting customer acceptability information.
 
->     “(g) __Testing for Acceptability.—__ 
+>     “(g)  __Testing for Acceptability__  __.—__ 
 
 >     The Secretary shall establish an ongoing field testing program for present and anticipated commodity and product purchases to test product acceptability with program participants. Test results shall be taken into consideration in deciding which commodities and products, and in what form the commodities and products, should be provided to recipient agencies.
 
 >     “(h) __Buy American Provision.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall require that recipient agencies purchase, whenever possible, only food products that are produced in the United States.
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The Secretary may waive the requirement established in paragraph (1)—
 
@@ -413,69 +413,69 @@
 
 >             “(B) for such other circumstances as the Secretary considers appropriate.
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         The requirement established in paragraph (1) shall not apply to recipient agencies in Alaska, Guam, American Samoa, Puerto Rico, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands. The requirement established in paragraph (1) shall apply to recipient agencies in Hawaii only with respect to the purchase of pineapples.
 
->     “(i) __Uniform Interpretation.—__ 
+>     “(i)  __Uniform Interpretation__  __.—__ 
 
 >     The Secretary shall take such actions as are necessary to ensure that regional offices of the Department of Agriculture interpret uniformly across the United States policies and regulations issued to implement this section.
 
 >     “(j) __\[Amended__  __[__  __section 1755(e) of Title 42__  __][/us/usc/t42/s1755/e]__  __, The Public Health and Welfare.\]__ 
 
->     “(k) __Report.—__ 
+>     “(k)  __Report__  __.—__ 
 
 >     Not later than January 1, 1989, the Secretary shall submit to the Committee on Education and Labor \[now Education and the Workforce\] and the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the implementation and operation of this section.
 
 > “SEC. 3A. __ADVANCE FUNDING FOR STATE OPTION CONTRACTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may use the funds of the Commodity Credit Corporation and funds made available to carry out [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]) to pay for all or a portion of the cost, as agreed on with the State distribution agency, of food or the processing or packaging of food on behalf of a State distribution agency.
 
->     “(b) __Reimbursement.—__ 
+>     “(b)  __Reimbursement__  __.—__ 
 
 >     In such cases, the State distribution agency shall reimburse the Secretary for the agreed on cost. Any funds received by the Secretary as reimbursement shall be deposited to the credit of the Commodity Credit Corporation or [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]), as appropriate. If the State distribution agency fails, within 150 days of delivery, to make the required reimbursement in full, the Secretary shall, within 30 days, offset any outstanding amount against the appropriate account.
 
 > “SEC. 4. __FOOD BANK PROJECT.__ 
 
->     “(a) __Community Food Banks.—__ 
+>     “(a)  __Community Food Banks__  __.—__ 
 
 >     The Secretary shall carry out no less than one demonstration project to provide and redistribute agricultural commodities and food products thereof as authorized under section 32 of the Act entitled ‘An Act to amend the Agricultural Adjustment Act, and for other purposes’, approved August 24, 1935 ([7 U.S.C. 612c][/us/usc/t7/s612c]), to needy individuals and families through community food banks. The Secretary may use a State agency or any other food distribution system for such provision or redistribution of section 32 agricultural commodities and food products through community food banks under a demonstration project.
 
->     “(b) __Recordkeeping and Monitoring.—__ 
+>     “(b)  __Recordkeeping and Monitoring__  __.—__ 
 
 >     Each food bank participating in the demonstration projects under this section shall establish a recordkeeping system and internal procedures to monitor the use of agricultural commodities and food products provided under this section. The Secretary shall develop standards by which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
 
->     “(c) __Determination of Quantities, Varieties, and Types of Commodities.—__ 
+>     “(c)  __Determination of Quantities, Varieties, and Types of Commodities__  __.—__ 
 
 >     The Secretary shall determine the quantities, varieties, and types of agricultural commodities and food products to be made available under this section.
 
->     “(d) __Effective Period.—__ 
+>     “(d)  __Effective Period__  __.—__ 
 
 >     This section shall be effective for the period beginning on the date of enactment of this Act \[Jan. 8, 1988\].
 
 > “SEC. 7. __ASSESSMENT AND REPORT TO CONGRESS.__ 
 
->     “(a) __Assessment.—__ 
+>     “(a)  __Assessment__  __.—__ 
 
 >     The Comptroller General of the United States shall monitor and assess the implementation by the Secretary of the provisions of this Act \[see section 1 set out above\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Before the expiration of the 18-month period beginning on the date of the enactment of this Act \[Jan. 8, 1988\], the Comptroller General shall submit to the Committee on Education and Labor \[now Education and the Workforce\] and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the findings of the assessment conducted as required by subsection (a).
 
 > “SEC. 13. __AUTHORITY TO TRANSFER COMMODITIES BETWEEN PROGRAMS.__ 
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     Subject to subsection (b), the Secretary may transfer any commodities purchased with appropriated funds for a domestic food assistance program administered by the Secretary to any other domestic food assistance program administered by the Secretary if the transfer is necessary to ensure that the commodities will be used while the commodities are still suitable for human consumption.
 
->     “(b) __Reimbursement.—__ 
+>     “(b)  __Reimbursement__  __.—__ 
 
 >     The Secretary shall, to the maximum extent practicable, provide reimbursement for the value of the commodities transferred under subsection (a) from accounts available for the purchase of commodities under the program receiving the commodities.
 
->     “(c) __Crediting.—__ 
+>     “(c)  __Crediting__  __.—__ 
 
 >     Any reimbursement made under subsection (b) shall—
 
@@ -485,25 +485,25 @@
 
 > “SEC. 14. __AUTHORITY TO RESOLVE CLAIMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may determine the amount of, settle, and adjust all or part of a claim arising under a domestic food assistance program administered by the Secretary.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The Secretary may waive a claim described in subsection (a) if the Secretary determines that a waiver would serve the purposes of the program.
 
->     “(c) __Authority of the Attorney General.—__ 
+>     “(c)  __Authority of the Attorney General__  __.—__ 
 
 >     Nothing in this section diminishes the authority of the Attorney General under [section 516 of title 28][/us/usc/t28/s516], United States Code, or any other provision of law, to supervise and conduct litigation on behalf of the United States.
 
 > “SEC. 15. __PAYMENT OF COSTS ASSOCIATED WITH REMOVAL OF COMMODITIES THAT POSE A HEALTH OR SAFETY RISK.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may use funds available to carry out [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([49 Stat. 774][/us/stat/49/774], chapter 641; [7 U.S.C. 612c][/us/usc/t7/s612c]), that are not otherwise committed, for the purpose of reimbursing States for State and local costs associated with the removal of commodities distributed under any domestic food assistance program administered by the Secretary if the Secretary determines that the commodities pose a health or safety risk.
 
->     “(b) __Allowable Costs.—__ 
+>     “(b)  __Allowable Costs__  __.—__ 
 
 >     The costs—
 
@@ -513,15 +513,15 @@
 
 >     “(c) __Replacement Commodities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may use funds described in subsection (a) for the purpose of purchasing additional commodities if the purchase will expedite replacement of the commodities described in subsection (a).
 
->         “(2) __Recovery.—__ 
+>         “(2)  __Recovery__  __.—__ 
 
 >         Use of funds under paragraph (1) shall not restrict the Secretary from recovering funds or services from a supplier or other entity regarding the commodities described in subsection (a).
 
->     “(d) __Crediting of Recovered Funds.—__ 
+>     “(d)  __Crediting of Recovered Funds__  __.—__ 
 
 >     Funds recovered from a supplier or other entity regarding the commodities described in subsection (a) shall—
 
@@ -533,25 +533,25 @@
 
 > “SEC. 16. __AUTHORITY TO ACCEPT COMMODITIES DONATED BY FEDERAL SOURCES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may accept donations of commodities from any Federal agency, including commodities of another Federal agency determined to be excess personal property pursuant to section 202(d) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 483(d)][/us/usc/t40/s483/d]) \[now [40 U.S.C. 525][/us/usc/t40/s525]\].
 
->     “(b) __Use.—__ 
+>     “(b)  __Use__  __.—__ 
 
 >     The Secretary may donate the commodities received under subsection (a) to States for distribution through any domestic food assistance program administered by the Secretary.
 
->     “(c) __Payment.—__ 
+>     “(c)  __Payment__  __.—__ 
 
 >     Notwithstanding section 202(d) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 483(d)][/us/usc/t40/s483/d]) \[now [40 U.S.C. 525][/us/usc/t40/s525]\], the Secretary shall not be required to make any payment in connection with the commodities received under subsection (a).
 
 > “SEC. 17. __COMMODITY DONATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law concerning commodity donations, any commodities acquired in the conduct of the operations of the Commodity Credit Corporation and any commodities acquired under [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]), to the extent that the commodities are in excess of the quantities of commodities that are essential to carry out other authorized activities of the Commodity Credit Corporation and the Secretary (including any quantity specifically reserved for a specific purpose), may be used for any program authorized to be carried out by the Secretary that involves the acquisition of commodities for use in a domestic feeding program, including any program conducted by the Secretary that provides commodities to individuals in cases of hardship.
 
->     “(b) __Programs.—__ 
+>     “(b)  __Programs__  __.—__ 
 
 >     A program described in subsection (a) includes a program authorized by—
 
@@ -693,13 +693,13 @@
 
 >     “(a) __Grants Per Assigned Caseload Slot.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out the program under section 4 \[set out as a note above\] (referred to in this section as the ‘commodity supplemental food program’), for each of fiscal years 2008 through 2012, the Secretary shall provide to each State agency from funds made available to carry out that section (including any such funds remaining available from the preceding fiscal year), a grant per assigned caseload slot for administrative costs incurred by the State agency and local agencies in the State in operating the commodity supplemental food program.
 
->         “(2) __Amount of grants.—__ 
+>         “(2)  __Amount of grants__  __.—__ 
 
->             “(A) __Fiscal year 2003.—__ 
+>             “(A)  __Fiscal year 2003__  __.—__ 
 
 >             For fiscal year 2003, the amount of each grant per assigned caseload slot shall be equal to the amount of the grant per assigned caseload slot for administrative costs in 2001, adjusted by the percentage change between—
 
@@ -707,7 +707,7 @@
 
 >                 “(ii) the value of that index for the 12-month period ending June 30, 2002.
 
->             “(B) __Subsequent fiscal years.—__ 
+>             “(B)  __Subsequent fiscal years__  __.—__ 
 
 >             For each of fiscal years 2004 through 2012, the amount of each grant per assigned caseload slot shall be equal to the amount of the grant per assigned caseload slot for the preceding fiscal year, adjusted by the percentage change between—
 
@@ -729,7 +729,7 @@
 
 >     “(f) The Secretary shall, in any fiscal year, approve applications of additional sites for the program, including sites that serve only elderly persons, in areas in which the program currently does not operate to the full extent that this can be done within the appropriations available for the program for the fiscal year and without reducing actual participation levels (including participation of elderly persons under subsection (g)) in areas in which the program is in effect.
 
->     “(g) __Prohibition.—__ 
+>     “(g)  __Prohibition__  __.—__ 
 
 >     Notwithstanding any other provision of law (including regulations), the Secretary may not require a State or local agency to prioritize assistance to a particular group of individuals that are—
 
@@ -777,7 +777,7 @@
 
 >     “(l) __Use of Approved Food Safety Technology.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In acquiring commodities for distribution through a program specified in paragraph (2), the Secretary shall not prohibit the use of any technology to improve food safety that—
 
@@ -785,7 +785,7 @@
 
 >             “(B) has been approved or is otherwise allowed by the Secretary of Health and Human Services.
 
->         “(2) __Programs.—__ 
+>         “(2)  __Programs__  __.—__ 
 
 >         A program referred to in paragraph (1) is a program authorized under—
 

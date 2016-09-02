@@ -81,11 +81,11 @@
 
 [Pub. L. 109–97, title VII, § 784(c)][/us/pl/109/97/s784/c], Nov. 10, 2005, [119 Stat. 2163][/us/stat/119/2163], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section and [section 1472 of this title][/us/usc/t7/s1472] and enacting provisions set out as a note under this section\] and the amendments made by this section apply to losses resulting from a disaster that occurs on or after July 28, 2005.
 
->     “(2) __Prior losses.—__ 
+>     “(2)  __Prior losses__  __.—__ 
 
 >     This section and the amendments made by this section do not apply to losses resulting from a disaster that occurred before July 28, 2005.”
 

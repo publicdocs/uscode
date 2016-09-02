@@ -29,7 +29,7 @@
 
     (d) __Civil penalties__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation—
 
@@ -39,7 +39,7 @@
 
         (2) If a person on whom such a penalty is imposed fails to pay the penalty within the time prescribed in the court’s order, the Commission may refer the matter to the Attorney General who shall recover the penalty by action in the appropriate United States district court.
 
-        (3) __Equitable remedies.—__ 
+        (3)  __Equitable remedies__  __.—__ 
 
         In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—
 

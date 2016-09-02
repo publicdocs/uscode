@@ -363,33 +363,33 @@
 
 [Pub. L. 101–624, title XVIII, § 1861][/us/pl/101/624/s1861], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title, this title and the amendments made by this title \[enacting sections 1981f and 2006a to 2006e of this title, [section 2076a of Title 12][/us/usc/t12/s2076a], Banks and Banking, and [section 494 of Title 25][/us/usc/t25/s494], Indians, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title, [section 3132 of Title 5][/us/usc/t5/s3132], Government Organization and Employees, sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and [section 492 of Title 25][/us/usc/t25/s492], enacting provisions set out as notes under [section 1981f of this title][/us/usc/t7/s1981f] and [section 2001 of Title 12][/us/usc/t12/s2001], amending provisions set out as a note under [section 1985 of this title][/us/usc/t7/s1985], and repealing provisions set out as a note preceding [section 1961 of this title][/us/usc/t7/s1961]\] shall become effective on the date of enactment of this Act \[Nov. 28, 1990\].
 
->     “(b) __Notice of Debt Settlement Programs.—__ 
+>     “(b)  __Notice of Debt Settlement Programs__  __.—__ 
 
 >     The amendment made by section 1807(1) of this Act \[amending [section 1981d(b)(1) of this title][/us/usc/t7/s1981d/b/1]\] shall become effective 120 days after the date of enactment of this Act \[Nov. 28, 1990\].
 
 >     “(c) __Debt Restructuring and Loan Servicing.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in section 353(c)(6)(A)(ii) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 2001(c)(6)(A)(iii)][/us/usc/t7/s2001/c/6/A/iii]\] (as added by section 1816(f) of this Act) and in paragraph (3) of this subsection, section 1816 of this Act and the amendments made by such section 1816 \[amending this section and [section 1985 of this title][/us/usc/t7/s1985]\] shall apply to new applications submitted under section 353 of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2001][/us/usc/t7/s2001]) on or after the date of enactment of this Act \[Nov. 28, 1990\].
 
->         “(2) __Definition of new application.—__ 
+>         “(2)  __Definition of new application__  __.—__ 
 
 >         As used in paragraph (1), the term ‘new application’ means an application submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
 
->         “(3) __Liquidation of assets.—__ 
+>         “(3)  __Liquidation of assets__  __.—__ 
 
 >         Section 353(o) of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 2001][/us/usc/t7/s2001](o)\] (as added by section 1816(h) of this Act) shall not apply until the Secretary of Agriculture has issued final regulations to carry out such section 353(o).
 
->     “(d) __Restoration of First Lien on Stock.—__ 
+>     “(d)  __Restoration of First Lien on Stock__  __.—__ 
 
 >     The amendment made by section 1833 of this Act \[enacting [section 2076a of Title 12][/us/usc/t12/s2076a] and amending [section 2077 of Title 12][/us/usc/t12/s2077]\] shall be effective as of January 7, 1988.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     As soon as practicable after the date of enactment of this Act \[Nov. 28, 1990\]—
 

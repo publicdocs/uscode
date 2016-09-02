@@ -91,15 +91,15 @@
 
         (4) __Verification.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall provide a prospectus of a seasoned direct loan borrower to each approved lender whose lending area includes the location of the seasoned direct loan borrower.
 
-            (B) __Notification.—__ 
+            (B)  __Notification__  __.—__ 
 
             The Secretary shall notify each borrower of a loan that a prospectus has been provided to a lender under subparagraph (A).
 
-            (C) __Credit extended.—__ 
+            (C)  __Credit extended__  __.—__ 
 
             If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II of this chapter, except as otherwise provided in this subsection.
 

@@ -55,7 +55,7 @@
 
 [Pub. L. 99–641, title I, § 111][/us/pl/99/641/s111], Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct and complete a comprehensive study of the effect of trading in contracts for the future delivery of live cattle on the cash market price of live cattle, with particular emphasis on—
 
@@ -83,11 +83,11 @@
 
 >     “(b) __Reports.—__ 
 
->         “(1) __Preliminary report.—__ 
+>         “(1)  __Preliminary report__  __.—__ 
 
 >         Not later than January 15, 1987, the Comptroller General shall submit a preliminary report on the results of the study required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Nov. 10, 1986\], the Comptroller General shall submit to such committees a detailed final report of the results of the study required under subsection (a).”
 

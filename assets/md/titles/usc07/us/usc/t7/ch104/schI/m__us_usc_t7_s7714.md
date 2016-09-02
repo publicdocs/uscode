@@ -57,6 +57,10 @@
 
 ([Pub. L. 106–224, title IV, § 414][/us/pl/106/224/s414], June 20, 2000, [114 Stat. 444][/us/stat/114/444]; [Pub. L. 107–171, title X, § 10418(b)(1)][/us/pl/107/171/s10418/b/1], May 13, 2002, [116 Stat. 508][/us/stat/116/508].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a)(1)(B), (3), was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
+
  __Amendments__ 
 
     2002—Subsec. (b)(1). [Pub. L. 107–171, § 10418(b)(1)(A)][/us/pl/107/171/s10418/b/1/A], struck out “, or the owner’s agent,” after “subsection (a) of this section”.
@@ -78,6 +82,9 @@
 [/us/stat/114/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F444
 [/us/pl/107/171/s10418/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1
 [/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
+[/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 [/us/pl/107/171/s10418/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1%2FA
 [/us/pl/107/171/s10418/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F1%2FB
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -41,25 +41,25 @@
 
 > “In this subtitle:
 
->     “(1) __Indian tribe.—__ 
+>     “(1)  __Indian tribe__  __.—__ 
 
 >     The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
 
->     “(2) __Livestock.—__ 
+>     “(2)  __Livestock__  __.—__ 
 
 >     The term ‘livestock’ means cattle, swine, horses, mules, sheep, goats, livestock guard animals, and other domestic animals, as determined by the Secretary.
 
->     “(3) __Program.—__ 
+>     “(3)  __Program__  __.—__ 
 
 >     The term ‘program’ means the demonstration program established under section 6202(a).
 
->     “(4) __Secretaries.—__ 
+>     “(4)  __Secretaries__  __.—__ 
 
 >     The term ‘Secretaries’ means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
 
 > “SEC. 6202. __WOLF COMPENSATION AND PREVENTION PROGRAM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretaries shall establish a 5-year demonstration program to provide grants to States and Indian tribes—
 
@@ -67,7 +67,7 @@
 
 >         “(2) to compensate livestock producers for livestock losses due to such predation.
 
->     “(b) __Criteria and Requirements.—__ 
+>     “(b)  __Criteria and Requirements__  __.—__ 
 
 >     The Secretaries shall—
 
@@ -81,7 +81,7 @@
 
 >             “(B) provide compensation to livestock producers for livestock losses due to such predation.
 
->     “(c) __Eligibility.—__ 
+>     “(c)  __Eligibility__  __.—__ 
 
 >     To be eligible to receive a grant under subsection (a), a State or Indian tribe shall—
 
@@ -107,7 +107,7 @@
 
 >         “(5) promulgate rules for reimbursing livestock producers under the program.
 
->     “(d) __Allocation of Funding.—__ 
+>     “(d)  __Allocation of Funding__  __.—__ 
 
 >     The Secretaries shall allocate funding made available to carry out this subtitle—
 
@@ -123,11 +123,11 @@
 
 >             “(C) any other factors that the Secretaries determine are appropriate.
 
->     “(e) __Eligible Land.—__ 
+>     “(e)  __Eligible Land__  __.—__ 
 
 >     Activities and losses described in subsection (a) may occur on Federal, State, or private land, or land owned by, or held in trust for the benefit of, an Indian tribe.
 
->     “(f) __Federal Cost Share.—__ 
+>     “(f)  __Federal Cost Share__  __.—__ 
 
 >     The Federal share of the cost of any activity provided assistance made available under this subtitle shall not exceed 50 percent of the total cost of the activity.
 

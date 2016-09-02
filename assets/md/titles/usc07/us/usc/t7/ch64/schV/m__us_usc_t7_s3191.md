@@ -67,7 +67,7 @@
 
 >     “(a) __Scientific Studies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Agriculture may conduct scientific studies on—
 
@@ -75,13 +75,13 @@
 
 >             “(B) chronic wasting disease (including the risks that chronic wasting disease poses to livestock).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of any scientific studies conducted under paragraph (1).
 
 >     “(b) __Vaccines.—__ 
 
->         “(1) __Vaccine storage study.—__ 
+>         “(1)  __Vaccine storage study__  __.—__ 
 
 >         The Secretary may—
 
@@ -89,7 +89,7 @@
 
 >             “(B) compare that number with the number of doses of the livestock disease vaccines that are available as of that date.
 
->         “(2) __Stockpiling of vaccines.—__ 
+>         “(2)  __Stockpiling of vaccines__  __.—__ 
 
 >         If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine.”
 

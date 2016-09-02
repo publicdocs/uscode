@@ -75,7 +75,7 @@
 
         (2) __Requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any procedure established under paragraph (1) shall—
 
@@ -83,7 +83,7 @@
 
                 (ii) ensure that no household experiences an interval between issuances of more than 40 days.
 
-            (B) __Multiple issuances.—__ 
+            (B)  __Multiple issuances__  __.—__ 
 
             The procedure may include issuing benefits to a household in more than 1 issuance during a month only when a benefit correction is necessary.
 
@@ -91,19 +91,19 @@
 
         (1) __In general.—__ 
 
-            (A) __Implementation.—__ 
+            (A)  __Implementation__  __.—__ 
 
             Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issued from and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
 
-            (B) __Timely implementation.—__ 
+            (B)  __Timely implementation__  __.—__ 
 
             Each State agency is encouraged to implement an electronic benefit transfer system under subparagraph (A) as soon as practicable.
 
-            (C) __State flexibility.—__ 
+            (C)  __State flexibility__  __.—__ 
 
             Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer system under the terms, conditions, and design that the State agency considers appropriate.
 
-            (D) __Operation.—__ 
+            (D)  __Operation__  __.—__ 
 
             An electronic benefit transfer system should take into account generally accepted standard operating rules based on—
 
@@ -157,43 +157,43 @@
 
         (6) This subsection shall not diminish the authority of the Secretary to conduct projects to test automated or electronic benefit delivery systems under [section 2026(f) of this title][/us/usc/t7/s2026/f].
 
-        (7) __Replacement of benefits.—__ 
+        (7)  __Replacement of benefits__  __.—__ 
 
         Regulations issued by the Secretary regarding the replacement of benefits and liability for replacement of benefits under an electronic benefit transfer system shall be similar to the regulations in effect for a paper-based supplemental nutrition assistance issuance system.
 
-        (8) __Replacement card fee.—__ 
+        (8)  __Replacement card fee__  __.—__ 
 
         A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
 
         (9) __Optional photographic identification.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
 
-            (B) __Other authorized users.—__ 
+            (B)  __Other authorized users__  __.—__ 
 
             If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
 
-        (10) __Federal law not applicable.—__ 
+        (10)  __Federal law not applicable__  __.—__ 
 
         Section 1693o–2 of title 15 shall not apply to electronic benefit transfer or reimbursement systems under this chapter.
 
         (11) __Application of anti-tying restrictions to electronic benefit transfer systems.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph:
 
-                (i) __Affiliate.—__ 
+                (i)  __Affiliate__  __.—__ 
 
                 The term “affiliate” has the meaning provided the term in [section 1841(k) of title 12][/us/usc/t12/s1841/k].
 
-                (ii) __Company.—__ 
+                (ii)  __Company__  __.—__ 
 
                 The term “company” has the meaning provided the term in [section 1971 of title 12][/us/usc/t12/s1971], but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
 
-                (iii) __Electronic benefit transfer service.—__ 
+                (iii)  __Electronic benefit transfer service__  __.—__ 
 
                 The term “electronic benefit transfer service” means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
 
@@ -203,11 +203,11 @@
 
                     (III) provided by a Federal or State government.
 
-                (iv) __Point-of-sale service.—__ 
+                (iv)  __Point-of-sale service__  __.—__ 
 
                 The term “point-of-sale service” means any product or service related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
 
-            (B) __Restrictions.—__ 
+            (B)  __Restrictions__  __.—__ 
 
             A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
 
@@ -215,25 +215,25 @@
 
                 (ii) not obtain some additional point-of-sale service from a competitor of the company or competitor of any affiliate of the company.
 
-            (C) __Consultation with the federal reserve board.—__ 
+            (C)  __Consultation with the federal reserve board__  __.—__ 
 
             Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
 
         (12)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two pars. (12) have been enacted.__  __ </sup></sup> __  __Recovering electronic benefits.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity.
 
-            (B) __Benefit storage.—__ 
+            (B)  __Benefit storage__  __.—__ 
 
             A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
 
-            (C) __Benefit expunging.—__ 
+            (C)  __Benefit expunging__  __.—__ 
 
             A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.
 
-            (D) __Notice.—__ 
+            (D)  __Notice__  __.—__ 
 
             A State agency shall—
 
@@ -241,7 +241,7 @@
 
                 (ii) not later than 48 hours after request by the household, make the stored benefits available to the household.
 
-        (12)  __1__  __Interchange fees.—__ 
+        (12)  __1__   __Interchange fees__  __.—__ 
 
         No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
 
@@ -567,11 +567,11 @@
 
 [Pub. L. 107–171, title IV, § 4111][/us/pl/107/171/s4111], May 13, 2002, [116 Stat. 309][/us/stat/116/309], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(C), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
 
->     “(a) __Definition of EBT System.—__ 
+>     “(a)  __Definition of EBT System__  __.—__ 
 
 >     In this section, the term ‘EBT system’ means an electronic benefit transfer system used in issuance of benefits under the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 2003, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
 

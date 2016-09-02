@@ -175,49 +175,49 @@
 
 [Pub. L. 103–66, title I, § 1302(b)][/us/pl/103/66/s1302/b], (c), Aug. 10, 1993, [107 Stat. 330][/us/stat/107/330], 331, as amended by [Pub. L. 104–127, title II, § 244(a)(2)(A)(ii)][/us/pl/104/127/s244/a/2/A/ii], Apr. 4, 1996, [110 Stat. 968][/us/stat/110/968], provided that:
 
->     “(b) __Secretarial Actions To Achieve Savings.—__ 
+>     “(b)  __Secretarial Actions To Achieve Savings__  __.—__ 
 
 >     In order to enable the Secretary of Agriculture to achieve the savings required in the market access program established by section 203 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5623][/us/usc/t7/s5623]) as a result of the amendments made by this section \[amending this section and [section 5641 of this title][/us/usc/t7/s5641]\]:
 
->         “(1) __Unfair trade practices.—__ 
+>         “(1)  __Unfair trade practices__  __.—__ 
 
 >         \[Amended subsec. (c)(2) of this section.\]
 
->         “(2) __Guidelines.—__ 
+>         “(2)  __Guidelines__  __.—__ 
 
 >         The Secretary of Agriculture should implement changes in the market access program established by section 203 of such Act, beginning with fiscal year 1994, in order to improve the effectiveness of the program and to meet the following objectives:
 
->             “(A) __Priority.—__ 
+>             “(A)  __Priority__  __.—__ 
 
 >             In providing assistance for branded promotion, the Secretary should give priority to small-sized entities.
 
->             “(B) __Graduation.—__ 
+>             “(B)  __Graduation__  __.—__ 
 
 >             The Secretary should not provide assistance under the program to promote a specific branded product in a single market for more than 5 years unless the Secretary determines that further assistance is necessary in order to meet the objectives of the program.
 
 >             “(C) __Contribution level.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary should require a minimum contribution level of 10 percent from an eligible trade organization that receives assistance for nonbranded promotion.
 
->                 “(ii) __Increases in contribution level.—__ 
+>                 “(ii)  __Increases in contribution level__  __.—__ 
 
 >                 The Secretary may increase the contribution level in any subsequent year that an eligible trade organization receives assistance for nonbranded promotion.
 
->             “(D) __Additionality.—__ 
+>             “(D)  __Additionality__  __.—__ 
 
 >             The Secretary should require each participant in the program to certify that any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities.
 
->             “(E) __Independent audits.—__ 
+>             “(E)  __Independent audits__  __.—__ 
 
 >             If as a result of an evaluation or audit of activities of a participant under the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, the Secretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor.
 
->         “(3) __Tobacco.—__ 
+>         “(3)  __Tobacco__  __.—__ 
 
 >         No funds made available under the market access program may be used for activities to develop, maintain, or expand foreign markets for tobacco.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall issue regulations to implement this section \[amending this section and [section 5641 of this title][/us/usc/t7/s5641]\] and the amendments made by this section.”
 

@@ -325,11 +325,11 @@
 
 [Pub. L. 110–234, title XIV, § 14008][/us/pl/110/234/s14008], May 22, 2008, [122 Stat. 1446][/us/stat/122/1446], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2208, provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’).
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Committee shall provide advice to the Secretary on—
 
@@ -341,7 +341,7 @@
 
 >     “(c) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—
 
@@ -355,7 +355,7 @@
 
 >             “(E) such other persons as the Secretary considers appropriate.
 
->         “(2) __Ex-officio members.—__ 
+>         “(2)  __Ex-officio members__  __.—__ 
 
 >         The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee.”
 

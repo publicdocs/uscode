@@ -23,7 +23,7 @@
 
 [Pub. L. 101–624, title XIX, § 1946][/us/pl/101/624/s1946], Nov. 28, 1990, [104 Stat. 3869][/us/stat/104/3869], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any provision of the Potato Research and Promotion Act \[[7 U.S.C. 2611][/us/usc/t7/s2611] et seq.\] (hereafter in this section referred to as the ‘Act’), the procedure specified in this section shall apply if a producer or a producer organization requests the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) to amend the plan in effect under that Act (hereafter in this section referred to as the ‘plan’) to—
 
@@ -33,19 +33,19 @@
 
 >         The procedure under this section shall apply only in the case of the first such request received after the date of enactment of this Act \[Nov. 28, 1990\].
 
->     “(b) __Publication of Proposed Amendments.—__ 
+>     “(b)  __Publication of Proposed Amendments__  __.—__ 
 
 >     The Secretary shall publish for public comment such proposed amendments to the plan within 60 days.
 
->     “(c) __Issuance of Final Amendments.—__ 
+>     “(c)  __Issuance of Final Amendments__  __.—__ 
 
 >     Not later than 150 days after publication of such amendment, and after notice and opportunity for public comment, the Secretary shall issue the amendments to the plan, as described in subsection (a), if the Secretary has reason to believe that such amendments will tend to effectuate the declared policy of this subtitle \[see Short Title of 1990 Amendment note set out under [section 2611 of this title][/us/usc/t7/s2611]\].
 
->     “(d) __Referendum.—__ 
+>     “(d)  __Referendum__  __.—__ 
 
 >     Not later than 24 months after the date of issuance of such amendments to the plan, the Secretary shall conduct a referendum among producers and importers who, during a representative period determined by the Secretary, have been engaged in the production or importation of potatoes. The amendments shall be continued only if the Secretary determines that the amendments to the plan have been approved by a majority of the total number of producers and importers voting in the referendum.
 
->     “(e) __Refunds.—__ 
+>     “(e)  __Refunds__  __.—__ 
 
 >     The board shall—
 
@@ -69,11 +69,11 @@
 
 >         “(6) if the amount in the escrow account required to be established by paragraph (1) is not sufficient to refund the total amount of assessments demanded by all eligible producers and importers under this subsection, prorate the amount of such refunds among all eligible producers and importers who demand such refund.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     If such amendments to the plan are not approved, the Secretary shall terminate the amendments and the plan shall continue in effect without the amendments.
 
->     “(g) __Amendment to Include the 50 States.—__ 
+>     “(g)  __Amendment to Include the__  __50__  __States__  __.—__ 
 
 >     Notwithstanding any provision of the Act, the Secretary shall, upon request of a producer or a producer organization, issue an amendment to the plan to include the 50 States of the United States. Such amendment shall not be subject to a referendum.”
 

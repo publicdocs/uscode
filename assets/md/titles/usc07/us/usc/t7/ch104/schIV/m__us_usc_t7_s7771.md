@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
 
  __Transfer of Functions__ 
 

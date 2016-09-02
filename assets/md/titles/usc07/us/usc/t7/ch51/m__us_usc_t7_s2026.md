@@ -29,7 +29,7 @@
 
             (B) __Project requirements.—__ 
 
-                (i) __Program goal.—__ 
+                (i)  __Program goal__  __.—__ 
 
                 The Secretary may not conduct a project under subparagraph (A) unless—
 
@@ -37,7 +37,7 @@
 
                     (II) the project includes an evaluation to determine the effects of the project.
 
-                (ii) __Permissible projects.—__ 
+                (ii)  __Permissible projects__  __.—__ 
 
                 The Secretary may conduct a project under subparagraph (A) to—
 
@@ -49,7 +49,7 @@
 
                     (IV) allow greater conformity with the rules of other programs than would be allowed but for this paragraph.
 
-                (iii) __Restrictions on permissible projects.—__ 
+                (iii)  __Restrictions on permissible projects__  __.—__ 
 
                 If the Secretary finds that a project under subparagraph (A) would reduce benefits by more than 20 percent for more than 5 percent of households in the area subject to the project (not including any household whose benefits are reduced due to a failure to comply with work or other conduct requirements), the project—
 
@@ -57,7 +57,7 @@
 
                     (II) shall continue for not more than 5 years after the date of implementation, unless the Secretary approves an extension requested by the State agency at any time.
 
-                (iv) __Impermissible projects.—__ 
+                (iv)  __Impermissible projects__  __.—__ 
 
                 The Secretary may not conduct a project under subparagraph (A) that—
 
@@ -103,11 +103,11 @@
 
                     (VII) waives a provision of [section 2016(i) of this title][/us/usc/t7/s2016/i].
 
-                (v) __Additional included projects.—__ 
+                (v)  __Additional included projects__  __.—__ 
 
                 A pilot or experimental project may include projects involving the payment of the value of allotments or the average value of allotments by household size in the form of cash to eligible households all of whose members are age sixty-five or over or any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] or are receiving assistance under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), the use of identification mechanisms that do not invade a household’s privacy, and the use of food checks or other voucher-type forms in place of EBT cards.
 
-                (vi) __Cash payment pilot projects.—__ 
+                (vi)  __Cash payment pilot projects__  __.—__ 
 
                 Subject to the availability of appropriations under [section 2027(a) of this title][/us/usc/t7/s2027/a], any pilot or experimental project implemented under this paragraph and operating as of October 1, 1981, involving the payment of the value of allotments in the form of cash to eligible households all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act shall be continued if the State so requests.
 
@@ -125,7 +125,7 @@
 
             (D) __Response to waivers.—__ 
 
-                (i) __Response.—__ 
+                (i)  __Response__  __.—__ 
 
                 Not later than 60 days after the date of receiving a request for a waiver under subparagraph (A), the Secretary shall provide a response that—
 
@@ -137,11 +137,11 @@
 
                     (IV) requests clarification of the waiver request.
 
-                (ii) __Failure to respond.—__ 
+                (ii)  __Failure to respond__  __.—__ 
 
                 If the Secretary does not provide a response in accordance with clause (i), the waiver shall be considered approved, unless the approval is specifically prohibited by this chapter.
 
-                (iii) __Notice of denial.—__ 
+                (iii)  __Notice of denial__  __.—__ 
 
                 On denial of a waiver request under clause (i)(III), the Secretary shall provide a copy of the waiver request and a description of the reasons for the denial to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 

@@ -51,11 +51,11 @@
 
 > “In this title \[enacting this section, sections 1622c, 7655a, 7721, and 7761 of this title, and [section 2104a of Title 16][/us/usc/t16/s2104a], Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title][/us/usc/t7/s1621]\]:
 
->     “(1) __Specialty crop.—__ 
+>     “(1)  __Specialty crop__  __.—__ 
 
 >     The term ‘specialty crop’ has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621][/us/usc/t7/s1621] note; [Public Law 108–465][/us/pl/108/465]).
 
->     “(2) __State department of agriculture.—__ 
+>     “(2)  __State department of agriculture__  __.—__ 
 
 >     The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for protecting and promoting agriculture in the State.”
 

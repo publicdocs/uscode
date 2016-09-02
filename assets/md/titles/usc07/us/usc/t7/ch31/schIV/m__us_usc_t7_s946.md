@@ -89,11 +89,11 @@
 
 [Pub. L. 101–624, title XXIII, § 2368][/us/pl/101/624/s2368], Nov. 28, 1990, [104 Stat. 4045][/us/stat/104/4045], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle and the amendments made by this subtitle \[subtitle F (§§ 2351–2368) of title XXIII of [Pub. L. 101–624][/us/pl/101/624], enacting sections 918 and 925 to 928 of this title, amending this section and sections 924, 932, 935, 936, 939, 945, 948, and 950 of this title and enacting provisions set out as notes under [section 901 of this title][/us/usc/t7/s901]\] shall take effect on the date of enactment of this Act \[Nov. 28, 1990\].
 
->     “(b) __Technical Amendments.—__ 
+>     “(b)  __Technical Amendments__  __.—__ 
 
 >     The amendments made by section 2367 \[amending this section and [section 948 of this title][/us/usc/t7/s948]\] shall take effect as if such amendments had been included in chapter 2 \[§§ 1411–1414\] of subtitle D of title I of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\] on the date of enactment of such chapter \[Dec. 22, 1987\].”
 

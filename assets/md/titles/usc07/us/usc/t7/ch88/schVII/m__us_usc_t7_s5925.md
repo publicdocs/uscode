@@ -495,11 +495,11 @@
 
 [Pub. L. 108–465, title III, § 301][/us/pl/108/465/s301], Dec. 21, 2004, [118 Stat. 3885][/us/stat/118/3885], provided that:
 
->     “(a) __Priority.—__ 
+>     “(a)  __Priority__  __.—__ 
 
 >     The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to the grower or processor associated with any alternatives proposed.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section.”
 

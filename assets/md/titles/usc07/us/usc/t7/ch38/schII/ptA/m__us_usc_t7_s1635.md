@@ -61,7 +61,7 @@
 
 > “SEC. 923. __IMPORTS OF BEEF, BEEF VARIETY MEATS, AND CATTLE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall—
 
@@ -69,7 +69,7 @@
 
 >         “(2) publish the information in a timely manner weekly and in a form that maximizes the utility of the information to beef producers, packers, and other market participants.
 
->     “(b) __Content.—__ 
+>     “(b)  __Content__  __.—__ 
 
 >     The published information shall include information reporting the year-to-date cumulative annual imports of beef, beef variety meats, and cattle for the current and prior marketing years.
 
@@ -81,45 +81,45 @@
 
 > “SEC. 931. __IMPROVEMENT OF HOGS AND PIGS INVENTORY REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
 
->     “(b) __Gestating Sows.—__ 
+>     “(b)  __Gestating Sows__  __.—__ 
 
 >     The Secretary shall include in a separate category of the Report the number of bred female swine that are assumed, or have been confirmed, to be pregnant during the reporting period.
 
->     “(c) __Phase-Out.—__ 
+>     “(c)  __Phase-Out__  __.—__ 
 
 >     Effective for a period of eight quarters after the implementation of the monthly report required under subsection (a), the Secretary shall continue to maintain and publish on a quarterly basis the Hogs and Pigs Inventory Report published on or before the date of the enactment of this Act.
 
 > “SEC. 932. __BARROW AND GILT SLAUGHTER.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary.
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     The information shall be made available to swine producers, packers, and other market participants in a report published by the Secretary not less frequently than weekly.
 
 >     “(c) __Administration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall administer the collection and compilation of information, and the publication of the report, required by this section.
 
->         “(2) __Nondelegation.—__ 
+>         “(2)  __Nondelegation__  __.—__ 
 
 >         The Secretary shall not delegate the collection, compilation, or administration of the information required by this section to any packer (as defined in section 201 of the Packers and Stockyards Act, 1921 ([7 U.S.C. 191][/us/usc/t7/s191])).
 
 > “SEC. 933. __AVERAGE TRIM LOSS CORRELATION STUDY AND REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall contract with a qualified contractor to conduct a correlation study and prepare a report establishing a baseline and standards for determining and improving average trim loss measurements and processing techniques for pork processors to employ in the slaughter of swine.
 
->     “(b) __Correlation Study and Report.—__ 
+>     “(b)  __Correlation Study and Report__  __.—__ 
 
 >     The study and report shall—
 
@@ -131,7 +131,7 @@
 
 >         “(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts.
 
->     “(c) __Subsequent Reports on Status of Improvements and Updates in Baseline.—__ 
+>     “(c)  __Subsequent Reports on Status of Improvements and Updates in Baseline__  __.—__ 
 
 >     Not less frequently than once every 2 years after the initial publication of the report required under this section, the Secretary shall make subsequent periodic reports that—
 
@@ -139,7 +139,7 @@
 
 >         “(2) update the baseline to reflect changes in trim loss discounts.
 
->     “(d) __Submission of Reports to Congress, Producers, Packers, and Others.—__ 
+>     “(d)  __Submission of Reports to Congress, Producers, Packers, and Others__  __.—__ 
 
 >     The reports required under this section shall be made available to—
 
@@ -165,19 +165,19 @@
 
 > “SEC. 941. __REGULATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
 
->     “(b) __Publication of Proposed Regulations.—__ 
+>     “(b)  __Publication of Proposed Regulations__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act, the Secretary shall publish proposed regulations to implement this title and the amendments made by this title.
 
->     “(c) __Comment Period.—__ 
+>     “(c)  __Comment Period__  __.—__ 
 
 >     The Secretary shall provide an opportunity for comment on the proposed regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
 
->     “(d) __Final Regulations.—__ 
+>     “(d)  __Final Regulations__  __.—__ 
 
 >     Not later than 60 days after the conclusion of the comment period, the Secretary shall publish the final regulations and implement this title and the amendments made by this title.
 

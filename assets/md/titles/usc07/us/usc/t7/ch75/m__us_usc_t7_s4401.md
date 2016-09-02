@@ -29,7 +29,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in pars. (3) and (4), was in the original “this Act”, meaning [Pub. L. 97–325][/us/pl/97/325], Oct. 15, 1982, [96 Stat. 1603][/us/stat/96/1603], known as the International Carriage of Perishable Foodstuffs Act, which enacted this chapter and [section 2212c of this title][/us/usc/t7/s2212c], amended sections 5315 and 5316 of Title 5, Government Organization and Employees, repealed section 3 of Reorg. Plan No. 2 of 1953, and enacted provisions set out as a note under [section 2212c of this title][/us/usc/t7/s2212c]. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+    This chapter, referred to in pars. (3) and (4), was in the original “this Act”, meaning [Pub. L. 97–325][/us/pl/97/325], Oct. 15, 1982, [96 Stat. 1603][/us/stat/96/1603], known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
  __Short Title__ 
 
@@ -48,8 +48,6 @@
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603
 [/us/pl/97/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603
-[/us/usc/t7/s2212c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2212c
-[/us/usc/t7/s2212c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2212c
 [/us/pl/97/325/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F325%2Fs1
 [/us/stat/96/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1603
 [/us/usc/t7/s2212c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2212c

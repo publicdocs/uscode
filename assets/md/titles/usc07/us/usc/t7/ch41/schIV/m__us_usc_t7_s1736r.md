@@ -75,7 +75,7 @@
 
 [Pub. L. 106–200, title IV, § 409][/us/pl/106/200/s409], May 18, 2000, [114 Stat. 295][/us/stat/114/295], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -85,7 +85,7 @@
 
 >         “(3) a successful conclusion of the current World Trade Organization agricultural negotiations is critically important to the United States agricultural sector.
 
->     “(b) __Objectives.—__ 
+>     “(b)  __Objectives__  __.—__ 
 
 >     The agricultural trade negotiating objectives of the United States with respect to the current World Trade Organization agricultural negotiations include as matters of the highest priority—
 
@@ -111,17 +111,17 @@
 
 >         “(7) strengthening dispute settlement procedures to ensure prompt compliance by foreign governments with their World Trade Organization obligations including commitments not to maintain unjustified restrictions on United States exports.
 
->     “(c) __Consultation With Congressional Committees.—__ 
+>     “(c)  __Consultation With Congressional Committees__  __.—__ 
 
->         “(1) __Consultation before offer made.—__ 
+>         “(1)  __Consultation before offer made__  __.—__ 
 
 >         In developing and before submitting an initial or revised negotiating proposal that would reduce United States tariffs on agricultural products or require a change in United States agricultural law, the United States Trade Representative shall consult with the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate and the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives.
 
->         “(2) __Consultation with congressional trade advisers.—__ 
+>         “(2)  __Consultation with congressional trade advisers__  __.—__ 
 
 >         Prior to and during the course of current negotiations on agricultural trade, the United States Trade Representative shall consult closely with the congressional trade advisers.
 
->         “(3) __Consultation before agreement initialed.—__ 
+>         “(3)  __Consultation before agreement initialed__  __.—__ 
 
 >         Not less than 48 hours before initialing an agreement reached as part of current World Trade Organization agricultural negotiations, the United States Trade Representative shall consult closely with the committees referred to in paragraph (1) regarding—
 
@@ -131,11 +131,11 @@
 
 >             “(C) any changes in United States law necessary to implement the agreement.
 
->         “(4) __Disclosure of commitments.—__ 
+>         “(4)  __Disclosure of commitments__  __.—__ 
 
 >         Any agreement or other understanding addressing agricultural trade with a foreign government or governments (whether oral or in writing) that relates to a trade agreement with respect to which Congress must enact implementing legislation and that is not disclosed to Congress before legislation implementing that agreement is introduced in either House of Congress shall not be considered to be part of the agreement approved by Congress and shall have no force and effect under United States law or in any dispute settlement body.
 
->     “(d) __Sense of the Congress.—__ 
+>     “(d)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 

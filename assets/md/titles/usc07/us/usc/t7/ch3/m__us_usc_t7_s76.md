@@ -119,7 +119,7 @@
 
 [Pub. L. 99–641, title III, § 307][/us/pl/99/641/s307], Nov. 10, 1986, [100 Stat. 3566][/us/stat/100/3566], as amended by [Pub. L. 104–66, title I, § 1011(i)][/us/pl/104/66/s1011/i], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
 
@@ -137,11 +137,11 @@
 
 >     “(b) __End-Use Tests.—__ 
 
->         “(1) __Ongoing review.—__ 
+>         “(1)  __Ongoing review__  __.—__ 
 
 >         The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that are of economic value to buyers, and the availability and costs of such tests.
 
->         “(2) __Revision of procedures.—__ 
+>         “(2)  __Revision of procedures__  __.—__ 
 
 >         The Administrator of the Federal Grain Inspection Service, to the extent practicable, shall revise official grain inspection and certification procedures to include within official inspection (as defined in section 3(i) of the United States Grain Standards Act ([7 U.S.C. 75(i)][/us/usc/t7/s75/i])) those tests that are identified under the study conducted under subsection (a) as useful, available, and economically feasible.”
 

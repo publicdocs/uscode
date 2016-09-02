@@ -79,13 +79,13 @@
 
 [Pub. L. 103–354, title III, § 308][/us/pl/103/354/s308], as added by [Pub. L. 110–234, title VII, § 7409][/us/pl/110/234/s7409], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7409, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2014, provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     To enhance the use of real property administered by agencies of the Department, the Secretary may establish a pilot program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
 >     “(b) __Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Library in accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
 
@@ -99,13 +99,13 @@
 
 >             “(E) will not include any property or facility required for any Department agency purpose without prior consideration of the needs of the agency.
 
->         “(2) __Term.—__ 
+>         “(2)  __Term__  __.—__ 
 
 >         The term of a lease under this section shall not exceed 30 years.
 
 >         “(3) __Consideration.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Consideration provided for a lease under this section shall be—
 
@@ -115,7 +115,7 @@
 
 >             “(B) __Use of funds.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Consideration provided for a lease under this section shall be—
 
@@ -123,11 +123,11 @@
 
 >                          “(II) available until expended, without further appropriation, for maintenance, capital revitalization, and improvements of the Department properties and facilities at the Beltsville Agricultural Research Center and National Agricultural Library.
 
->                 “(ii) __Budgetary treatment.—__ 
+>                 “(ii)  __Budgetary treatment__  __.—__ 
 
 >                 For purposes of the budget, the amounts described in clause (i) shall not be treated as a receipt of any Department agency or any other agency leasing property under this section.
 
->         “(4) __Costs.—__ 
+>         “(4)  __Costs__  __.—__ 
 
 >         The lessee shall cover all costs associated with a lease under this section, including the cost of—
 
@@ -141,11 +141,11 @@
 
 >             “(E) any other facility cost normally associated with the operation of a leased facility.
 
->         “(5) __Prohibition of use of appropriations.—__ 
+>         “(5)  __Prohibition of use of appropriations__  __.—__ 
 
 >         The Secretary shall not use any funds made available to the Secretary in an appropriations Act for the construction or operating costs of any space covered by a lease under this section.
 
->         “(6) __Termination of authority.—__ 
+>         “(6)  __Termination of authority__  __.—__ 
 
 >         This section and the authority provided by this section terminate—
 
@@ -155,21 +155,21 @@
 
 >     “(c) __Effect of Other Laws.—__ 
 
->         “(1) __Utilization.—__ 
+>         “(1)  __Utilization__  __.—__ 
 
 >         Property that is leased pursuant to this section shall not be considered to be unutilized or underutilized for purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act \[now the McKinney-Vento Homeless Assistance Act\] ([42 U.S.C. 11411][/us/usc/t42/s11411]).
 
->         “(2) __Disposal.—__ 
+>         “(2)  __Disposal__  __.—__ 
 
 >         Property at the Beltsville Agricultural Research Center or the National Agricultural Library that is leased pursuant to this section shall not be considered to be disposed of by sale, lease, rental, excessing, or surplusing for purposes of [section 523 of Public Law 100–202][/us/pl/100/202/s523] ([101 Stat. 1329–417][/us/stat/101/1329-417]).
 
 >     “(d) __Administration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes detailed management objectives and performance measurements by which the Secretary intends to evaluate the success of the program under this section.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Not later than 1, 3, and 5 years after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
 

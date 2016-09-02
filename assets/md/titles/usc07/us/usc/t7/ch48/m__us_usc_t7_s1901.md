@@ -27,7 +27,7 @@
 
 [Pub. L. 107–171, title X, § 10305][/us/pl/107/171/s10305], May 13, 2002, [116 Stat. 493][/us/stat/116/493], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Agriculture should—
 
@@ -45,7 +45,7 @@
 
 >             “(D) produce other benefits for producers, processors, and consumers that tend to expedite an orderly flow of livestock and livestock products in interstate and foreign commerce.
 
->     “(b) __United States Policy.—__ 
+>     “(b)  __United States Policy__  __.—__ 
 
 >     It is the policy of the United States that the slaughtering of livestock and the handling of livestock in connection with slaughter shall be carried out only by humane methods, as provided by [Public Law 85–765][/us/pl/85/765].”
 
@@ -61,15 +61,15 @@
 
 > “In this subtitle:
 
->     “(1) __Commercial transportation.—__ 
+>     “(1)  __Commercial transportation__  __.—__ 
 
 >     The term ‘commercial transportation’ means the regular operation for profit of a transport business that uses trucks, tractors, trailers, or semitrailers, or any combination thereof, propelled or drawn by mechanical power on any highway or public road.
 
->     “(2) __Equine for slaughter.—__ 
+>     “(2)  __Equine for slaughter__  __.—__ 
 
 >     The term ‘equine for slaughter’ means any member of the Equidae family being transferred to a slaughter facility, including an assembly point, feedlot, or stockyard.
 
->     “(3) __Person.—__ 
+>     “(3)  __Person__  __.—__ 
 
 >     The term ‘person’—
 
@@ -79,15 +79,15 @@
 
 > “SEC. 903. __REGULATION OF COMMERCIAL TRANSPORTATION OF EQUINE FOR SLAUGHTER.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to the availability of appropriations, the Secretary of Agriculture may issue guidelines for the regulation of the commercial transportation of equine for slaughter by persons regularly engaged in that activity within the United States.
 
->     “(b) __Issues for Review.—__ 
+>     “(b)  __Issues for Review__  __.—__ 
 
 >     In carrying out this section, the Secretary of Agriculture shall review the food, water, and rest provided to equine for slaughter in transit, the segregation of stallions from other equine during transit, and such other issues as the Secretary considers appropriate.
 
->     “(c) __Additional Authority.—__ 
+>     “(c)  __Additional Authority__  __.—__ 
 
 >     In carrying out this section, the Secretary of Agriculture may—
 

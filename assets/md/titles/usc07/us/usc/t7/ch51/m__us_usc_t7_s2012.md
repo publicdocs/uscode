@@ -23,7 +23,7 @@
 
     (c) “Allowable medical expenses” means expenditures for (1) medical and dental care, (2) hospitalization or nursing care (including hospitalization or nursing care of an individual who was a household member immediately prior to entering a hospital or nursing home), (3) prescription drugs when prescribed by a licensed practitioner authorized under State law and over-the-counter medication (including insulin) when approved by a licensed practitioner or other qualified health professional, (4) health and hospitalization insurance policies (excluding the costs of health and accident or income maintenance policies), (5) medicare premiums related to coverage under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], (6) dentures, hearing aids, and prosthetics (including the costs of securing and maintaining a seeing eye dog), (7) eye glasses prescribed by a physician skilled in eye disease or by an optometrist, (8) reasonable costs of transportation necessary to secure medical treatment or services, and (9) maintaining an attendant, homemaker, home health aide, housekeeper, or child care services due to age, infirmity, or illness.
 
-    (d) __Benefit.—__ 
+    (d)  __Benefit__  __.—__ 
 
     The term “benefit” means the value of supplemental nutrition assistance provided to a household by means of—
 
@@ -31,7 +31,7 @@
 
         (2) other means of providing assistance, as determined by the Secretary.
 
-    (e) __Benefit Issuer.—__ 
+    (e)  __Benefit Issuer__  __.—__ 
 
     The term “benefit issuer” means any office of the State agency or any person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has delegated functional responsibility in connection with, the issuance of benefits to households.
 
@@ -41,7 +41,7 @@
 
     (h) “Drug addiction or alcoholic treatment and rehabilitation program” means any such program conducted by a private nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x][/us/usc/t42/s300x] et seq.) to provide treatment that can lead to the rehabilitation of drug addicts or alcoholics.
 
-    (i) __EBT Card.—__ 
+    (i) __EBT__  __Card__  __.—__ 
 
     The term “EBT card” means an electronic benefit transfer card issued under [section 2016(i) of this title][/us/usc/t7/s2016/i].
 
@@ -463,7 +463,7 @@
 
 [Pub. L. 101–624, title XVII, § 1781][/us/pl/101/624/s1781], Nov. 28, 1990, [104 Stat. 3817][/us/stat/104/3817], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in subsection (b) and other provisions of this title, this title \[see Short Title of 1990 Amendment note set out under [section 2011 of this title][/us/usc/t7/s2011]\] and the amendments made by this title shall become effective and implemented the 1st day of the month beginning 120 days after the publication of implementing regulations. Such regulations shall be promulgated not later than October 1, 1991.
 
@@ -473,7 +473,7 @@
 
 >         The amendments made by sections 1721, 1730, 1750, 1754, 1760(1)(A), 1761, 1762, 1771(a), 1771(d), 1772(c), 1772(f), 1772(g), and 1776 \[amending sections 2014, 2017, 2025 to 2028, 3175, and 3175e of this title and provisions set out as notes under [section 612c of this title][/us/usc/t7/s612c]\] shall be effective on October 1, 1990.
 
->         “(2) __Date of enactment.—__ 
+>         “(2)  __Date of enactment__  __.—__ 
 
 >         The amendments made by sections 1718, 1729, 1731, 1739, 1742, 1746, 1747, 1748, 1749, 1751, 1753, 1755, 1756, 1757, 1758, 1759, 1760(1)(B) and (2), 1763, 1771(b), 1771(c), 1772(a), 1772(b), 1772(d), 1772(h), 1773, 1774(a)(1), 1774(b), 1774(c), 1775(a), 1775(b), 1777, 1778, and 1779 \[enacting [section 2032 of this title][/us/usc/t7/s2032], amending this section, sections 1431, 1431e, 2014, 2016, 2020, 2022, and 2024 to 2027 of this title and [section 9904 of Title 42][/us/usc/t42/s9904], The Public Health and Welfare, enacting provisions set out as notes under sections 2011, 2020, and 2025 of this title and [section 1751 of Title 42][/us/usc/t42/s1751], and amending provisions set out as notes under [section 612c of this title][/us/usc/t7/s612c]\] shall become effective on the date of enactment of this Act \[Nov. 28, 1990\].
 
@@ -481,7 +481,7 @@
 
 >         The amendments made by sections 1716, 1722, and 1736(2) \[amending sections 2014 and 2020 of this title\] shall become effective and implemented the 1st day of the month beginning 120 days after the promulgation of implementing regulations. Such regulations shall be promulgated not later than April 1, 1991.
 
->         “(4) __Categorical eligibility.—__ 
+>         “(4)  __Categorical eligibility__  __.—__ 
 
 >         The amendment made by section 1714(2) \[amending [section 2014 of this title][/us/usc/t7/s2014]\] shall become effective and implemented the 1st day of the month beginning 120 days after the promulgation of implementing regulations. Such regulations shall be promulgated—
 
@@ -493,7 +493,7 @@
 
 [Pub. L. 100–435, title VII, § 701][/us/pl/100/435/s701], Sept. 19, 1988, [102 Stat. 1677][/us/stat/102/1677], as amended by [Pub. L. 100–619, § 1][/us/pl/100/619/s1], Nov. 5, 1988, [102 Stat. 3198][/us/stat/102/3198]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(A), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided for in section 503 \[set out as a note under [section 1766 of Title 42][/us/usc/t42/s1766], The Public Health and Welfare\] and in subsection (b) of this section, this Act and the amendments made by this Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, [section 713a–14 of Title 15][/us/usc/t15/s713a–14], Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, enacting provisions set out as notes under sections 612c and 2011 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] shall become effective and be implemented on October 1, 1988.
 
@@ -535,11 +535,11 @@
 
 >     “(c) __Sequestration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 902(b)][/us/usc/t2/s902/b]), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2027][/us/usc/t7/s2027]) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[section 2012(o)(9) of this title\].
 
->         “(2) __Effective dates if sequestration occurs.—__ 
+>         “(2)  __Effective dates if sequestration occurs__  __.—__ 
 
 >         Notwithstanding subsections (a) and (b), if a final order is issued under section 252(b) of the Emergency Deficit Control Act of 1985 ([2 U.S.C. 902(b)][/us/usc/t2/s902/b]) for fiscal year 1989 to make reductions and sequestrations specified in the report required under section 251(a)(3)(A) of such Act \[[2 U.S.C. 901(a)(3)(A)][/us/usc/t2/s901/a/3/A]\], sections 111, 201, 204, 310, 311, 321, 322, 323, 341, 342, 350, 351, 352, 402, 403, 404, 502, 504, and 505 \[amending sections 2012, 2014, 2015, 2020, 2025, and 2026 of this title and enacting provisions set out as notes under [section 612c of this title][/us/usc/t7/s612c]\] shall become effective and be implemented on October 1, 1989.”
 

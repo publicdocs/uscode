@@ -53,7 +53,7 @@
 
  __Repeal of Section__ 
 
-    [Pub. L. 110–246, title XI, § 11004(b)][/us/pl/110/246/s11004/b], June 18, 2008, [122 Stat. 2118][/us/stat/122/2118], provided that, effective Sept. 30, 2012, this section is repealed.
+    For repeal of section by [section 11004(b) of Pub. L. 110–246][/us/pl/110/246/s11004/b], see Effective Date of Repeal note set out below.
 
  __Codification__ 
 
@@ -88,7 +88,6 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246/s11004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11004%2Fb
-[/us/stat/122/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2118
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

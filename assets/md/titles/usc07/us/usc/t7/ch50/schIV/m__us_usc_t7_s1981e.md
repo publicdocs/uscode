@@ -59,11 +59,11 @@
 
 [Pub. L. 102–237, title V, § 501(d)(3)][/us/pl/102/237/s501/d/3], Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on the date of publication of the interim regulations issued pursuant to paragraph (2)(A) \[set out below\].
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendment made by paragraph (1) shall apply to each primary loan servicing application submitted on or after the date of enactment of this Act \[Dec. 13, 1991\].”
 
@@ -71,11 +71,11 @@
 
 [Pub. L. 102–237, title V, § 501(d)(2)][/us/pl/102/237/s501/d/2], Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867], provided that:
 
->     “(A) __Interim regulations.—__ 
+>     “(A)  __Interim regulations__  __.—__ 
 
 >     Notwithstanding [section 553 of title 5][/us/usc/t5/s553], United States Code, as soon as practicable after the date of enactment of this Act \[Dec. 13, 1991\] and without a requirement for prior public notice and comment, the Secretary of Agriculture shall issue interim regulations that provide for the implementation of the amendment made by paragraph (1) \[amending this section\] beginning in crop year 1992.
 
->     “(B) __Final regulations.—__ 
+>     “(B)  __Final regulations__  __.—__ 
 
 >     The Secretary of Agriculture shall provide for public notice and comment before the issuance of final regulations to implement the amendment made by paragraph (1).”
 

@@ -19,7 +19,7 @@
 
         (1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to [section 2018 of this title][/us/usc/t7/s2018], or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of [section 2021 of this title][/us/usc/t7/s2021], or a retail food store or wholesale food concern forfeits a bond under [section 2021(d) of this title][/us/usc/t7/s2021/d], or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of [section 2022 of this title][/us/usc/t7/s2022], or a claim against a State agency is stated pursuant to the provisions of [section 2022 of this title][/us/usc/t7/s2022], notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
 
-        (2) __Delivery of notices.—__ 
+        (2)  __Delivery of notices__  __.—__ 
 
         A notice under paragraph (1) shall be delivered by any form of delivery that the Secretary determines will provide evidence of the delivery.
 
@@ -53,7 +53,7 @@
 
         (17) During the pendency of such judicial review, or any appeal therefrom, the administrative action under review shall be and remain in full force and effect, unless on application to the court on not less than ten days’ notice, and after hearing thereon and a consideration by the court of the applicant’s likelihood of prevailing on the merits and of irreparable injury, the court temporarily stays such administrative action pending disposition of such trial or appeal.
 
-        (18) __Suspension of stores pending review.—__ 
+        (18)  __Suspension of stores pending review__  __.—__ 
 
         Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of [section 2021(b) of this title][/us/usc/t7/s2021/b] shall be effective from the date of receipt of the notice of disqualification. If the disqualification is reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
 

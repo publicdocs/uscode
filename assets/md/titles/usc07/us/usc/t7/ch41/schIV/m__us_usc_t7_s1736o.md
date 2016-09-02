@@ -101,7 +101,7 @@
 
         (4) In the case of eligible commodities made available under the Food for Peace Act for purposes of this section, section 406 of that Act \[[7 U.S.C. 1736][/us/usc/t7/s1736]\] shall apply to eligible commodities furnished on a grant basis under this section and sections 402, 403(a), 403(c), and 403(i) of that Act \[[7 U.S.C. 1732][/us/usc/t7/s1732], 1733(a), (c), (i)\] shall apply to all eligible commodities furnished under this section.
 
-        (5) __No effect on domestic programs.—__ 
+        (5)  __No effect on domestic programs__  __.—__ 
 
         The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the President.
 
@@ -129,13 +129,13 @@
 
         (4) The cost of eligible commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\] and may not be considered expenditures for international affairs and finance.
 
-        (5) __Sale procedure.—__ 
+        (5)  __Sale procedure__  __.—__ 
 
         In making sales of eligible eligible  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  commodities under this section, the Secretary shall follow the sale procedure described in section 403(l) of the Food for Peace Act \[[7 U.S.C. 1733][/us/usc/t7/s1733](l)\].
 
         (6) __Project in malawi.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In carrying out this section during fiscal year 2009, the President shall approve not less than 1 multiyear project for Malawi—
 
@@ -143,7 +143,7 @@
 
                 (ii) to increase the number of women in leadership positions.
 
-            (B) __Use of eligible commodities.—__ 
+            (B)  __Use of eligible commodities__  __.—__ 
 
             Of the eligible commodities used to carry out this section during the period in which the project described in subparagraph (A) is carried out, the President shall carry out the project using eligible commodities with a total value of not less than $3,000,000 during the course of the project.
 
@@ -189,7 +189,7 @@
 
         (3) The President may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
 
-        (4) __Humanitarian or development purposes.—__ 
+        (4)  __Humanitarian or development purposes__  __.—__ 
 
         The Secretary may authorize the use of proceeds to pay the costs incurred by an eligible entity under this section for—
 

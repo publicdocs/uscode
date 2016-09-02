@@ -139,11 +139,11 @@
 
 [Pub. L. 110–234, title XI, § 11001(a)(2)][/us/pl/110/234/s11001/a/2], May 22, 2008, [122 Stat. 1351][/us/stat/122/1351], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11001(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2112, provided that:
 
->     “(A) __Enhanced reporting.—__ 
+>     “(A)  __Enhanced reporting__  __.—__ 
 
 >     The Secretary of Agriculture shall develop and implement the system required under paragraph (2)(A) of section 251(g) of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1636(g)][/us/usc/t7/s1636/g]), as amended by paragraph (1), not later than one year after the date on which the Secretary determines sufficient funds have been appropriated pursuant to subsection (c) \[[122 Stat. 2113][/us/stat/122/2113]\].
 
->     “(B) __Current system.—__ 
+>     “(B)  __Current system__  __.—__ 
 
 >     Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[[7 U.S.C. 1635][/us/usc/t7/s1635] et seq.\] of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1621][/us/usc/t7/s1621] et seq.) in effect on the date of the enactment of this Act \[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A).”
 

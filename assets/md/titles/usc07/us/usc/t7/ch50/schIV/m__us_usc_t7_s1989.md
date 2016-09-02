@@ -117,11 +117,11 @@
 
 [Pub. L. 102–554, § 23][/us/pl/102/554/s23], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161], provided that:
 
->     “(a) __Interim Regulations.—__ 
+>     “(a)  __Interim Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under [section 1921 of this title][/us/usc/t7/s1921]\] and the amendments made by this Act.
 
->     “(b) __Final Regulations.—__ 
+>     “(b)  __Final Regulations__  __.—__ 
 
 >     Not later than October 1, 1993, the Secretary of Agriculture shall issue such final regulations as are necessary to implement this Act and the amendments made by this Act.”
 

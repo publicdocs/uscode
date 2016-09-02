@@ -39,7 +39,7 @@
 
     (11) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia.
 
-    (12) __Swine contractor.—__ 
+    (12)  __Swine contractor__  __.—__ 
 
     The term “swine contractor” means any person engaged in the business of obtaining swine under a swine production contract for the purpose of slaughtering the swine or selling the swine for slaughter, if—
 
@@ -47,11 +47,11 @@
 
         (B) the swine (including products from the swine) obtained by the person is sold or shipped in commerce.
 
-    (13) __Swine production contract.—__ 
+    (13)  __Swine production contract__  __.—__ 
 
     The term “swine production contract” means any growout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
 
-    (14) __Swine production contract grower.—__ 
+    (14)  __Swine production contract grower__  __.—__ 
 
     The term “swine production contract grower” means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
 

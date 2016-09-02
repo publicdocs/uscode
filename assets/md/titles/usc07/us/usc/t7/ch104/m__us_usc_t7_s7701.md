@@ -39,7 +39,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+    This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
 
  __Short Title__ 
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 110–234, title X, § 10204][/us/pl/110/234/s10204], May 22, 2008, [122 Stat. 1343][/us/stat/122/1343], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[June 18, 2008\], the Secretary \[of Agriculture\] shall—
 
@@ -67,7 +67,7 @@
 
 >         “(2) as the Secretary considers appropriate, promulgate regulations to improve the management and oversight of articles regulated under the Plant Protection Act ([7 U.S.C. 7701][/us/usc/t7/s7701] et seq.).
 
->     “(b) __Inclusions.—__ 
+>     “(b)  __Inclusions__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary shall take actions that are designed to enhance—
 
@@ -89,7 +89,7 @@
 
 >         “(9) the design of electronic permits to store documents and other information relating to the permit and notification processes.
 
->     “(c) __Consideration.—__ 
+>     “(c)  __Consideration__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary shall consider—
 

@@ -441,19 +441,19 @@
 
 [Pub. L. 100–203, title I, § 1304(a)][/us/pl/100/203/s1304/a], Dec. 22, 1987, [101 Stat. 1330–17][/us/stat/101/1330-17], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
 
->     “(2) __Training.—__ 
+>     “(2)  __Training__  __.—__ 
 
 >     The education program shall provide training to such personnel in the fair, accurate, and uniform application to individual farming operations of the provisions of law and regulation relating to the payment provisions of sections 1001 through 1001C of the Food Security Act of 1985. Particular emphasis shall be given to the changes in the law made by sections 1301, 1302, and 1303 of this Act \[enacting [section 1308–1 of this title][/us/usc/t7/s1308–1], amending this section, and enacting provisions set out as notes under this section and [section 1308–1 of this title][/us/usc/t7/s1308–1]\].
 
->     “(3) __Implementation.—__ 
+>     “(3)  __Implementation__  __.—__ 
 
 >     The education program shall be fully implemented, and the training completed, not later than 30 days after the date final regulations are issued to carry out the amendments made by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and [section 1308–1 of this title][/us/usc/t7/s1308–1]\].
 
->     “(4) __Commodity Credit Corporation.—__ 
+>     “(4)  __Commodity Credit Corporation__  __.—__ 
 
 >     The Secretary shall carry out the program provided under this subsection through the Commodity Credit Corporation.”
 
@@ -463,7 +463,7 @@
 
 >     “(a) __Regulations.—__ 
 
->         “(1) __Issuance.—__ 
+>         “(1)  __Issuance__  __.—__ 
 
 >         The Secretary of Agriculture shall issue—
 
@@ -471,11 +471,11 @@
 
 >             “(B) final regulations to carry out such amendments not later than August 1, 1988.
 
->         “(2) __Field instructions.—__ 
+>         “(2)  __Field instructions__  __.—__ 
 
 >         Any field instructions relating to, or other supplemental clarifications of, the regulations issued under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1308 to 1308–3 of this title\] shall not be used in resolving issues involved in the application of the payment limitations or restrictions under such sections or regulations to individuals, other entities, or farming operations until copies of the publication are made available to the public.
 
->     “(b) __Allowance for Equitable Reorganizations.—__ 
+>     “(b)  __Allowance for Equitable Reorganizations__  __.—__ 
 
 >     To allow for the equitable reorganization of farming operations to conform to the limitations and restrictions contained in the amendments made to the Food Security Act of 1985 by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and [section 1308–1 of this title][/us/usc/t7/s1308–1]\] in cases in which the application of such limitations and restrictions will reduce payments to the farming operation (as determined by the Secretary), the Secretary may waive the application of the substantive change rule under section 1001(5)(E) \[[section 1308(5)(E) of this title][/us/usc/t7/s1308/5/E]\], as added by section 1303 of this Act, or any regulation of the Secretary containing a comparable rule, to any reorganization applied for prior to the final date when producers are eligible to enter into contracts to participate in the commodity programs established for the 1989 crop year, to the extent the Secretary determines appropriate to facilitate any such equitable reorganizations that does not increase such payments.”
 

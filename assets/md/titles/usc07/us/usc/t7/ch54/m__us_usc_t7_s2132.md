@@ -107,11 +107,11 @@
 
 [Pub. L. 107–171, title X, § 10304][/us/pl/107/171/s10304], May 13, 2002, [116 Stat. 492][/us/stat/116/492], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act ([7 U.S.C. 2131][/us/usc/t7/s2131] et seq.).
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The report under subsection (a) shall—
 

@@ -67,11 +67,11 @@
 
 [Pub. L. 101–220, § 3(b)][/us/pl/101/220/s3/b], Dec. 12, 1989, [103 Stat. 1878][/us/stat/103/1878], provided that:
 
->     “(1) __Amendment.—__ 
+>     “(1)  __Amendment__  __.—__ 
 
 >     The Secretary of Agriculture shall issue an amendment to the egg promotion and research order issued under the Egg Research and Consumer Information Act ([7 U.S.C. 2701][/us/usc/t7/s2701] et seq.) to implement the amendments made by this section \[amending this section\]. Such amendment shall be issued after public notice and opportunity for comment in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, and without regard to sections 556 and 557 of such title. The Secretary shall issue a proposed amendment to such order not later than 30 days after the date of enactment of this Act \[Dec. 12, 1989\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The amendment to the egg promotion and research order required by paragraph (1) shall become effective no later than March 1, 1990, and shall not be subject to a referendum under the Egg Research and Consumer Information Act ([7 U.S.C. 2701][/us/usc/t7/s2701] et seq.).”
 

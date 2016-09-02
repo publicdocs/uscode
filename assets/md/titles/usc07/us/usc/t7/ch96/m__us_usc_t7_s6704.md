@@ -39,6 +39,10 @@
 
 ([Pub. L. 101–624, title XXIV, § 2405][/us/pl/101/624/s2405], Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060]; [Pub. L. 104–127, title III, § 371][/us/pl/104/127/s371], Apr. 4, 1996, [110 Stat. 1015][/us/stat/110/1015]; [Pub. L. 107–171, title VIII, § 8102][/us/pl/107/171/s8102], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 110–234, title VIII, § 8202][/us/pl/110/234/s8202], May 22, 2008, [122 Stat. 1290][/us/stat/122/1290]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title XXIV of [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 4058][/us/stat/104/4058], known as the Global Climate Change Prevention Act of 1990, which is classified principally to this chapter. For complete classification of title XXIV to the Code, see Short Title note set out under [section 6701 of this title][/us/usc/t7/s6701] and Tables.
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
@@ -73,6 +77,9 @@
 [/us/stat/122/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1290
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058
+[/us/usc/t7/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6701
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

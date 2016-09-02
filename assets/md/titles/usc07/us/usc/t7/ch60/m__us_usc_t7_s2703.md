@@ -25,11 +25,11 @@
 
 > “Notwithstanding any other provision of law:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Agriculture shall issue amendments to the egg promotion and research order issued under the Egg Research and Consumer Information Act ([7 U.S.C. 2701][/us/usc/t7/s2701] et seq.) to implement the amendments made by this Act \[see Short Title of 1993 Amendment note set out under [section 2701 of this title][/us/usc/t7/s2701]\]. The amendments shall be issued after public notice and opportunity for comment in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, and without regard to sections 556 and 557 of such title. The Secretary shall issue the proposed amendments to the order not later than 80 days after the date of enactment of this Act \[Dec. 14, 1993\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The amendments to the egg promotion and research order required by paragraph (1) shall become effective not later than—
 
@@ -37,7 +37,7 @@
 
 >         “(B) if the Director of the Office of Management and Budget determines that the amendments are a significant action that requires review by the Director, 50 days after the proposed amendments are issued.
 
->     “(3) __Referendum.—__ 
+>     “(3)  __Referendum__  __.—__ 
 
 >     The amendments referred to in paragraph (2) shall not be subject to a referendum conducted under the Egg Research and Consumer Information Act.”
 

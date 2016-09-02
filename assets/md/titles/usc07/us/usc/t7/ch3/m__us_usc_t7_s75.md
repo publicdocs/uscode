@@ -121,11 +121,11 @@
 
 [Pub. L. 103–156, § 16][/us/pl/103/156/s16], Nov. 24, 1993, [107 Stat. 1530][/us/stat/107/1530], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[amending this section and sections 75a to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title and repealing provisions set out as a note under [section 79 of this title][/us/usc/t7/s79]\] shall take effect on the date of the enactment of this Act \[Nov. 24, 1993\].
 
->     “(b) __Special Effective Date for Certain Provisions.—__ 
+>     “(b)  __Special Effective Date for Certain Provisions__  __.—__ 
 
 >     The amendments made by sections 2, 3, and 13(a) \[amending sections 79d and 87h of this title and repealing provisions set out as a note under [section 79 of this title][/us/usc/t7/s79]\] shall take effect as of September 30, 1993.”
 

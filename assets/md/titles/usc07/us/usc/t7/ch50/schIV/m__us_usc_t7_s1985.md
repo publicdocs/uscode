@@ -253,7 +253,7 @@
 
                 (v) __Foreclosure procedures.—__ 
 
-                    (I) __Notice to borrower.—__ 
+                    (I)  __Notice to borrower__  __.—__ 
 
                     If an Indian borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), not less than 30 days before a foreclosure sale of the property, the Secretary shall provide the Indian borrower-owner with the option of—
 
@@ -261,7 +261,7 @@
 
                         (bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
-                    (II) __Notice to tribe.—__ 
+                    (II)  __Notice to tribe__  __.—__ 
 
                     If an Indian borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), not less than 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
@@ -271,7 +271,7 @@
 
                         (cc) the requirements of this subparagraph.
 
-                    (III) __Assumed loans.—__ 
+                    (III)  __Assumed loans__  __.—__ 
 
                     If an Indian tribe assumes a loan under subclause (I)—
 
@@ -597,7 +597,7 @@
 
 [Pub. L. 100–233, title VI, § 623][/us/pl/100/233/s623], Jan. 6, 1988, [101 Stat. 1685][/us/stat/101/1685], as amended by [Pub. L. 101–624, title XVIII, § 1852][/us/pl/101/624/s1852], Nov. 28, 1990, [104 Stat. 3837][/us/stat/104/3837], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture, in coordination with the limited resource farmers’ initiative in the office of the Director of the Office of Advocacy and Enterprise, shall establish a farm ownership outreach program for persons who are members of any group with respect to which an individual may be identified as a socially disadvantaged individual under section 8(a)(5) of the Small Business Act ([15 U.S.C. 637(a)(5)][/us/usc/t15/s637/a/5]) to encourage the acquisition of inventory farmland of the Farmers Home Administration by—
 
@@ -611,7 +611,7 @@
 
 >         “(2) providing technical assistance to such persons in the acquisition of such inventory farmland.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 1991 through 1995.”
 

@@ -167,11 +167,11 @@
 
 Pub. L. 106-224, title I, § 142(a)(2), (3), June 20, 2000, [114 Stat. 390][/us/stat/114/390], provided that:
 
->     “(2) __Implementation.—__ 
+>     “(2)  __Implementation__  __.—__ 
 
 >     The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section 505(a)(3) of the Federal Crop Insurance Act \[[7 U.S.C. 1505(a)(3)][/us/usc/t7/s1505/a/3]\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
 
->     “(3) __Effect on existing board.—__ 
+>     “(3)  __Effect on existing board__  __.—__ 
 
 >     A member of the Board of Directors of the Federal Crop Insurance Corporation on the date of the enactment of this Act \[June 20, 2000\] may continue to serve as a member of the Board until the members referred to in paragraph (2) are first appointed.”
 

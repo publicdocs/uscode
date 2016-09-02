@@ -21,7 +21,7 @@
 
     (2) The term “consumer education” means any action to provide information on the usage and care of honey or honey products.
 
-    (3) __Department.—__ 
+    (3)  __Department__  __.—__ 
 
     The term “Department” means the Department of Agriculture.
 
@@ -29,15 +29,15 @@
 
     (5) __Handle.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “handle” means to process, package, sell, transport, purchase, or in any other way place or cause to be placed in commerce, honey or a honey product.
 
-        (B) __Inclusion.—__ 
+        (B)  __Inclusion__  __.—__ 
 
         The term “handle” includes selling unprocessed honey that will be consumed or used without further processing or packaging.
 
-        (C) __Exclusions.—__ 
+        (C)  __Exclusions__  __.—__ 
 
         The term “handle” does not include—
 
@@ -53,7 +53,7 @@
 
     (8) The term “Honey Board” means the board provided for under [section 4606(c) of this title][/us/usc/t7/s4606/c].
 
-    (9) __Honey production.—__ 
+    (9)  __Honey production__  __.—__ 
 
     The term “honey production” means all beekeeping operations related to—
 
@@ -69,13 +69,13 @@
 
     (11) The term “importer” means any person who imports honey or honey products into the United States or acts as an agent, broker, or consignee for any person or nation that produces honey outside of the United States for sale in the United States and who is listed in the import records as the importer of record for such honey or honey products.
 
-    (12) __Industry information.—__ 
+    (12)  __Industry information__  __.—__ 
 
     The term “industry information” means information or a program that will lead to the development of new markets, new marketing strategies, or increased efficiency for the honey industry, or an activity to enhance the image of honey and honey products and of the honey industry.
 
     (13) The term “marketing” means the sale or other disposition in commerce of honey or honey products.
 
-    (14) __National honey marketing cooperative.—__ 
+    (14)  __National honey marketing cooperative__  __.—__ 
 
     The term “national honey marketing cooperative” means a cooperative that markets its products in at least 2 of the following 4 regions of the United States, as determined by the Secretary:
 
@@ -95,11 +95,11 @@
 
     (18) The term “promotion” means any action, including paid advertising, pursuant to this chapter, to present a favorable image for honey or honey products to the public with the express intent of improving the competitive position and stimulating sales of honey or honey products.
 
-    (19) __Qualified national organization representing handler interests.—__ 
+    (19)  __Qualified national organization representing handler interests__  __.—__ 
 
     The term “qualified national organization representing handler interests” means an organization that the Secretary certifies as being eligible to recommend nominations for the Committee handler, handler-importer, alternate handler, and alternate handler-importer members of the Honey Board under [section 4606(b) of this title][/us/usc/t7/s4606/b].
 
-    (20) __Qualified national organization representing importer interests.—__ 
+    (20)  __Qualified national organization representing importer interests__  __.—__ 
 
     The term “qualified national organization representing importer interests” means an organization that the Secretary certifies as being eligible to recommend nominations for the Committee importer, handler-importer, alternate importer, and alternate handler-importer members of the Honey Board under [section 4606(b) of this title][/us/usc/t7/s4606/b].
 

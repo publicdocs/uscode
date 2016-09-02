@@ -19,6 +19,10 @@
 
 ([Pub. L. 106–224, title IV, § 435][/us/pl/106/224/s435], June 20, 2000, [114 Stat. 453][/us/stat/114/453].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t7/ch104/schIII/m__us_usc_t7_s7754.md) | [Next](./../../../../..//us/usc/t7/ch104/schIII/m__us_usc_t7_s7756.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7755)
@@ -28,5 +32,8 @@
 
 [/us/pl/106/224/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs435
 [/us/stat/114/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F453
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
+[/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 
 

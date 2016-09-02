@@ -27,7 +27,7 @@
 
         (3) For loans under this subsection the Secretary may accept the personal liability of a cosigner of the promissory note in addition to the borrowers’ personal liability.
 
-        (4) __Youth enterprises not farming or ranching.—__ 
+        (4)  __Youth enterprises not farming or ranching__  __.—__ 
 
         The operation of an enterprise by a youth under this subsection shall not be considered the operation of a farm or ranch under this chapter.
 
@@ -149,21 +149,21 @@
 
 [Pub. L. 101–82, title III, § 302][/us/pl/101/82/s302], Aug. 14, 1989, [103 Stat. 582][/us/stat/103/582], provided that:
 
->     “(a) __Direct Credit.—__ 
+>     “(a)  __Direct Credit__  __.—__ 
 
 >     To the maximum extent practicable, the Secretary of Agriculture shall ensure that direct operating loans made or insured under subtitle B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1941][/us/usc/t7/s1941] et seq.) for 1990 crop production are made available to farmers and ranchers suffering major losses due to excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989, as authorized under existing law and under regulations of the Secretary that implement the objective of enabling farmers and ranchers to stay in business.
 
 >     “(b) __Loan Guarantees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary shall make available in fiscal year 1990 guarantees to commercial or cooperative lenders for loans under subtitle B of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1941][/us/usc/t7/s1941] et seq.\], to refinance and reamortize 1989 operating loans, or 1989 or 1990 installments due and payable on real estate debt, farm equipment or building (including storage facilities) debt, livestock loans, or other operating debt, of farmers and ranchers that otherwise cannot be repaid due to major losses incurred by such farmers or ranchers as a result of excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989.
 
->         “(2) __Reamortization.—__ 
+>         “(2)  __Reamortization__  __.—__ 
 
 >         Each fiscal year 1990 guaranteed loan for 1988 or 1989 natural disaster purposes, as described in paragraph (1), shall contain terms and conditions governing the reamortization of the debt of the farmer or rancher that will provide the farmer or rancher a reasonable opportunity to continue to receive new operating credit while repaying the guaranteed loan, as determined by the Secretary.
 
->         “(3) __Eligibility.—__ 
+>         “(3)  __Eligibility__  __.—__ 
 
 >         Notwithstanding any other provision of law, any person eligible to receive payments under subtitle A of title I \[[7 U.S.C. 1421][/us/usc/t7/s1421] note\] shall be deemed eligible to have guaranteed, in accordance with this subsection, loans made to such person by a commercial or cooperative lender to refinance installment payments that are or become due and payable during 1989 or 1990, as described in paragraph (1), except that, to be deemed eligible to have such loan guaranteed, the person must otherwise—
 
@@ -171,7 +171,7 @@
 
 >             “(B) meet the criteria for guaranteed loan borrowers under subtitle B of the Consolidated Farm and Rural Development Act established by the Secretary.
 
->     “(c) __Use of Agricultural Credit Insurance Fund.—__ 
+>     “(c)  __Use of Agricultural Credit Insurance Fund__  __.—__ 
 
 >     For purposes of providing guaranteed loans in accordance with subsection (b), in addition to funds otherwise available, the Secretary may use any funds available from the Agricultural Credit Insurance Fund during fiscal years \[sic\] 1989 or 1990 for emergency insured and guaranteed loans under subtitle C of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1961][/us/usc/t7/s1961] et seq.) to meet the needs resulting from natural disasters, except that funds available from such Fund first shall be used to satisfy the level of assistance estimated by the Secretary to meet the needs of persons eligible for emergency disaster loans.”
 

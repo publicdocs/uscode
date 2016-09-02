@@ -19,7 +19,7 @@
 
         (1) In order to promote research in food, agriculture, and related areas, a research grants program is hereby established in the Department of Agriculture.
 
-        (2) __Short Title.—__ 
+        (2)  __Short Title__  __.—__ 
 
         This section may be cited as the “Competitive, Special, and Facilities Research Grant Act”.
 
@@ -261,7 +261,7 @@
 
                 (iv) facilitate coordination and cooperation of research, extension, or education among States through regional grants.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         The Secretary may not make a grant under this subsection—
 
@@ -269,11 +269,11 @@
 
             (B) for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
-        (3) __Matching Funds.—__ 
+        (3)  __Matching Funds__  __.—__ 
 
         Grants made under this subsection shall be made without regard to matching funds.
 
-        (4) __Set Asides.—__ 
+        (4)  __Set Asides__  __.—__ 
 
         Of amounts appropriated for a fiscal year to carry out this subsection—
 
@@ -283,27 +283,27 @@
 
         (5) __Review requirements.—__ 
 
-            (A) __Research activities.—__ 
+            (A)  __Research activities__  __.—__ 
 
             The Secretary shall make a grant under this subsection for a research activity only if the activity has undergone scientific peer review arranged by the grantee in accordance with regulations promulgated by the Secretary.
 
-            (B) __Extension and education activities.—__ 
+            (B)  __Extension and education activities__  __.—__ 
 
             The Secretary shall make a grant under this subsection for an extension or education activity only if the activity has undergone merit review arranged by the grantee in accordance with regulations promulgated by the Secretary.
 
         (6) __Reports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A recipient of a grant under this subsection shall submit to the Secretary on an annual basis a report describing the results of the research, extension, or education activity and the merit of the results.
 
             (B) __Public availability.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), on request, the Secretary shall make the report available to the public.
 
-                (ii) __Exceptions.—__ 
+                (ii)  __Exceptions__  __.—__ 
 
                 Clause (i) shall not apply to the extent that making the report, or a part of the report, available to the public is not authorized or permitted by [section 552 of title 5][/us/usc/t5/s552] or [section 1905 of title 18][/us/usc/t18/s1905].
 

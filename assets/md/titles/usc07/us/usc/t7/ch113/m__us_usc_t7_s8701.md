@@ -33,11 +33,11 @@
 
 [Pub. L. 110–246, § 4][/us/pl/110/246/s4], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Act entitled ‘An Act to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes’ (H.R. 2419 of the 110th Congress) \[[Pub. L. 110–234][/us/pl/110/234], see Tables for classification\], and the amendments made by that Act, are repealed, effective on the date of enactment of that Act \[May 22, 2008\].
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this Act \[[Pub. L. 110–246][/us/pl/110/246], see Tables for classification\], this Act and the amendments made by this Act shall take effect on the earlier of—
 
@@ -57,7 +57,7 @@
 
 [Pub. L. 112–240, title VII, § 701][/us/pl/112/240/s701], Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
 
->     “(a) __Extension.—__ 
+>     “(a)  __Extension__  __.—__ 
 
 >     Except as otherwise provided in this section and amendments made by this section and notwithstanding any other provision of law, the authorities provided by each provision of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 1651][/us/stat/122/1651]) \[see Tables for classification\] and each amendment made by that Act (and for mandatory programs at such funding levels), as in effect on September 30, 2012, shall continue, and the Secretary of Agriculture shall carry out the authorities, until the later of—
 
@@ -67,21 +67,21 @@
 
 >     “(b) __Commodity Programs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The terms and conditions applicable to a covered commodity or loan commodity (as those terms are defined in section 1001 of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 8702][/us/usc/t7/s8702])) or to peanuts, sugarcane, or sugar beets for the 2012 crop year pursuant to title I of that Act ([7 U.S.C. 8702][/us/usc/t7/s8702] et seq.) and each amendment made by that title \[see Tables for classification\] shall be applicable to the 2013 crop year for that covered commodity, loan commodity, peanuts, sugarcane, or sugar beets.
 
 >         “(2) __Milk.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under section 1501 of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 8771][/us/usc/t7/s8771]) through December 31, 2013.
 
->             “(B) __Milk income loss contract program.—__ 
+>             “(B)  __Milk income loss contract program__  __.—__ 
 
 >             \[Amended [section 8773 of this title][/us/usc/t7/s8773].\]
 
->         “(3) __Suspension of permanent price support authorities.—__ 
+>         “(3)  __Suspension of permanent price support authorities__  __.—__ 
 
 >         The provisions of law specified in subsections (a) through (c) of section 1602 of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 8782][/us/usc/t7/s8782]) shall be suspended—
 
@@ -91,121 +91,121 @@
 
 >     “(c) __Conservation Programs.—__ 
 
->         “(1) __Conservation reserve.—__ 
+>         “(1)  __Conservation reserve__  __.—__ 
 
 >         \[Amended [section 3831 of Title 16][/us/usc/t16/s3831], Conservation.\]
 
->         “(2) __Voluntary public access.—__ 
+>         “(2)  __Voluntary public access__  __.—__ 
 
 >         \[Amended [section 3839bb–5 of Title 16][/us/usc/t16/s3839bb–5], Conservation.\]
 
 >     “(d) __Supplemental Nutrition Assistance Program.—__ 
 
->         “(1) __Employment and training program.—__ 
+>         “(1)  __Employment and training program__  __.—__ 
 
 >         \[Amended [section 2025 of this title][/us/usc/t7/s2025].\]
 
->         “(2) __Nutrition education.—__ 
+>         “(2)  __Nutrition education__  __.—__ 
 
 >         \[Amended [section 2036a of this title][/us/usc/t7/s2036a].\]
 
 >     “(e) __Research Programs.—__ 
 
->         “(1) __Organic agriculture research and extension initiative.—__ 
+>         “(1)  __Organic agriculture research and extension initiative__  __.—__ 
 
 >         \[Amended [section 5925b of this title][/us/usc/t7/s5925b].\]
 
->         “(2) __Specialty crop research initiative.—__ 
+>         “(2)  __Specialty crop research initiative__  __.—__ 
 
 >         \[Amended [section 7632 of this title][/us/usc/t7/s7632].\]
 
->         “(3) __Beginning farmer and rancher development program.—__ 
+>         “(3)  __Beginning farmer and rancher development program__  __.—__ 
 
 >         \[Amended [section 3319f of this title][/us/usc/t7/s3319f].\]
 
 >     “(f) __Energy Programs.—__ 
 
->         “(1) __Biobased markets program.—__ 
+>         “(1)  __Biobased markets program__  __.—__ 
 
 >         \[Amended [section 8102 of this title][/us/usc/t7/s8102].\]
 
->         “(2) __Biorefinery assistance.—__ 
+>         “(2)  __Biorefinery assistance__  __.—__ 
 
 >         \[Amended [section 8103 of this title][/us/usc/t7/s8103].\]
 
->         “(3) __Repowering assistance.—__ 
+>         “(3)  __Repowering assistance__  __.—__ 
 
 >         \[Amended [section 8104 of this title][/us/usc/t7/s8104].\]
 
->         “(4) __Bioenergy program for advanced biofuels.—__ 
+>         “(4)  __Bioenergy program for advanced biofuels__  __.—__ 
 
 >         \[Amended [section 8105 of this title][/us/usc/t7/s8105].\]
 
->         “(5) __Biodiesel fuel education program.—__ 
+>         “(5)  __Biodiesel fuel education program__  __.—__ 
 
 >         \[Amended [section 8106 of this title][/us/usc/t7/s8106].\]
 
->         “(6) __Rural energy for america program.—__ 
+>         “(6)  __Rural energy for america program__  __.—__ 
 
 >         \[Amended [section 8107 of this title][/us/usc/t7/s8107].\]
 
->         “(7) __Biomass research and development.—__ 
+>         “(7)  __Biomass research and development__  __.—__ 
 
 >         \[Amended [section 8108 of this title][/us/usc/t7/s8108].\]
 
->         “(8) __Rural energy self-sufficiency initiative.—__ 
+>         “(8)  __Rural energy self-sufficiency initiative__  __.—__ 
 
 >         \[Amended [section 8109 of this title][/us/usc/t7/s8109].\]
 
->         “(9) __Feedstock flexibility program for bioenergy producers.—__ 
+>         “(9)  __Feedstock flexibility program for bioenergy producers__  __.—__ 
 
 >         \[Amended [section 8110 of this title][/us/usc/t7/s8110].\]
 
->         “(10) __Biomass crop assistance program.—__ 
+>         “(10)  __Biomass crop assistance program__  __.—__ 
 
 >         \[Amended [section 8111 of this title][/us/usc/t7/s8111].\]
 
->         “(11) __Forest biomass for energy.—__ 
+>         “(11)  __Forest biomass for energy__  __.—__ 
 
 >         \[Amended [section 8112 of this title][/us/usc/t7/s8112].\]
 
->         “(12) __Community wood energy program.—__ 
+>         “(12)  __Community wood energy program__  __.—__ 
 
 >         \[Amended [section 8113 of this title][/us/usc/t7/s8113].\]
 
 >     “(g) __Horticulture and Organic Agriculture Programs.—__ 
 
->         “(1) __Farmers market promotion program.—__ 
+>         “(1)  __Farmers market promotion program__  __.—__ 
 
 >         \[Amended [section 3005 of this title][/us/usc/t7/s3005].\]
 
->         “(2) __National clean plant network.—__ 
+>         “(2)  __National clean plant network__  __.—__ 
 
 >         \[Amended [section 7761 of this title][/us/usc/t7/s7761].\]
 
->         “(3) __National organic certification cost-share program.—__ 
+>         “(3)  __National organic certification cost-share program__  __.—__ 
 
 >         \[Amended [section 6523 of this title][/us/usc/t7/s6523].\]
 
->         “(4) __Organic production and market data initiatives.—__ 
+>         “(4)  __Organic production and market data initiatives__  __.—__ 
 
 >         \[Amended [section 5925c of this title][/us/usc/t7/s5925c].\]
 
->     “(h) __Outreach and Technical Assistance for Socially Disadvantaged Farmers or Ranchers.—__ 
+>     “(h)  __Outreach and Technical Assistance for Socially Disadvantaged Farmers or Ranchers__  __.—__ 
 
 >     \[Amended [section 2279 of this title][/us/usc/t7/s2279].\]
 
 >     “(i) __Exceptions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) does not apply with respect to mandatory funding provided by programs authorized by provisions of law amended by subsections (d) through (h).
 
->         “(2) __Conservation.—__ 
+>         “(2)  __Conservation__  __.—__ 
 
 >         Subsection (a) does not apply with respect to the programs specified in paragraphs (3)(B), (4), (6), and (7) of section 1241(a) of the Food Security Act of 1985 ([16 U.S.C. 3841(a)][/us/usc/t16/s3841/a]), relating to the conservation stewardship program, farmland protection program, environmental quality incentives program, and wildlife habitat incentives program, for which program authority was extended through fiscal year 2014 by [section 716 of Public Law 112–55][/us/pl/112/55/s716] ([125 Stat. 582][/us/stat/125/582]).
 
->         “(3) __Trade.—__ 
+>         “(3)  __Trade__  __.—__ 
 
 >         Subsection (a) does not apply with respect to the following provisions of law:
 
@@ -213,11 +213,11 @@
 
 >             “(B) Section 3107(l)(1) of the Farm Security and Rural Investment Act of 2002 ([7 U.S.C. 1736][/us/usc/t7/s1736]o–1(l)(1)) relating to the use of Commodity Credit Corporation funds to carry out the McGovern-Dole International Food for Education and Child Nutrition Program.
 
->         “(4) __Survey of foods purchased by school food authorities.—__ 
+>         “(4)  __Survey of foods purchased by school food authorities__  __.—__ 
 
 >         Subsection (a) does not apply with respect to section 4307 of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 1893][/us/stat/122/1893]) relating to the use of Commodity Credit Corporation funds for a survey and report regarding foods purchased by school food authorities.
 
->         “(5) __Rural development.—__ 
+>         “(5)  __Rural development__  __.—__ 
 
 >         Subsection (a) does not apply with respect to the following provisions of law:
 
@@ -229,23 +229,23 @@
 
 >             “(D) Section 375(e)(6)(B) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2008j(e)(6)(B)][/us/usc/t7/s2008j/e/6/B]) relating to the use of Commodity Credit Corporation funds for the National Sheep Industry Improvement Center.
 
->         “(6) __Market loss assistance for asparagus producers.—__ 
+>         “(6)  __Market loss assistance for asparagus producers__  __.—__ 
 
 >         Subsection (a) does not apply with respect to section 10404(d) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2112][/us/stat/122/2112]).
 
->         “(7) __Supplemental agricultural disaster assistance.—__ 
+>         “(7)  __Supplemental agricultural disaster assistance__  __.—__ 
 
 >         Subsection (a) does not apply with respect to section 531 of the Federal Crop Insurance Act ([7 U.S.C. 1531][/us/usc/t7/s1531]) and title IX of the Trade Act of 1974 ([19 U.S.C. 2497][/us/usc/t19/s2497] et seq.) relating to the provision of supplemental agricultural disaster assistance.
 
->         “(8) __Pigford claims.—__ 
+>         “(8)  __Pigford claims__  __.—__ 
 
 >         Subsection (a) does not apply with respect to section 14012 of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2209][/us/stat/122/2209]) relating to determination on the merits of Pigford claims.
 
->         “(9) __Heartland, habitat, harvest, and horticulture act of 2008.—__ 
+>         “(9)  __Heartland, habitat, harvest, and horticulture act of 2008__  __.—__ 
 
 >         Subsection (a) does not apply with respect to title XV of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2246][/us/stat/122/2246]), and amendments made by that title, relating to the provision of supplemental agricultural disaster assistance under title IX of the Trade Act of 1974 ([19 U.S.C. 2497][/us/usc/t19/s2497] et seq.), certain revenue and tax provisions, and certain trade benefits and other matters.
 
->     “(j) __Effective Date.—__ 
+>     “(j)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this section, this section and the amendments made by this section take effect on the earlier of—
 

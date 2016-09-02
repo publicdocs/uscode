@@ -93,15 +93,15 @@
 
 >     “(a) __Voluntary Trichinae Certification.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish a voluntary trichinae certification program. Such program shall include the facilitation of the export of pork products and certification services related to such products.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         The Secretary shall issue final regulations to implement the program under paragraph (1) not later than 90 days after the date of the enactment of this Act.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
 
@@ -109,7 +109,7 @@
 
 >             “(B) the date on which the Secretary expects to issue such final regulations.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Subject to the availability of appropriations under subsection (d)(1)(A) of section 10405 of the Animal Health Protection Act ([7 U.S.C. 8304][/us/usc/t7/s8304]), as added by subsection (c), the Secretary shall use not less than $6,200,000 of the funds made available under such subsection to carry out subsection (a).”
 

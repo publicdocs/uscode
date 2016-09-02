@@ -689,11 +689,11 @@
 
 [Pub. L. 101–624, title XIV, § 1498][/us/pl/101/624/s1498], Nov. 28, 1990, [104 Stat. 3631][/us/stat/104/3631], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than September 30, 1992, the National Academy of Sciences shall conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency.
 
->     “(b) __Development of Procedures.—__ 
+>     “(b)  __Development of Procedures__  __.—__ 
 
 >     Not later than 1 year after the completion of the study under subsection (a), the agencies and offices described in such subsection shall develop and implement a common process for reviewing and approving biological control applications that are submitted to such agencies and offices that shall be based on the study conducted under such subsection and the recommendation of the National Academy of Sciences, and other public comment.”
 
@@ -701,15 +701,15 @@
 
 [Pub. L. 100–478, title I, § 1010][/us/pl/100/478/s1010], Oct. 7, 1988, [102 Stat. 2313][/us/stat/102/2313], provided that:
 
->     “(a) __Education.—__ 
+>     “(a)  __Education__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior, promptly upon enactment of this Act \[Oct. 7, 1988\], shall conduct a program to inform and educate fully persons engaged in agricultural food and fiber commodity production of any proposed pesticide labeling program or requirements that may be imposed by the Administrator in compliance with the Endangered Species Act \[of 1973\] ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.). The Administrator also shall provide the public with notice of, and opportunity for comment on, the elements of any such program and requirements based on compliance with the Endangered Species Act \[of 1973\], including (but not limited to) an identification of any pesticides affected by the program; an explanation of the restriction or prohibition on the user or applicator of any such pesticide; an identification of those geographic areas affected by any pesticide restriction or prohibition; an identification of the effects of any restricted or prohibited pesticide on endangered or threatened species; and an identification of the endangered or threatened species along with a general description of the geographic areas in which such species are located wherein the application of a pesticide will be restricted, prohibited, or its use otherwise limited, unless the Secretary of the Interior determines that the disclosure of such information may create a substantial risk of harm to such species or its habitat.
 
->     “(b) __Study.—__ 
+>     “(b)  __Study__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency, jointly with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study to identify reasonable and prudent means available to the Administrator to implement the endangered species pesticides labeling program which would comply with the Endangered Species Act of 1973, as amended, and which would allow persons to continue production of agricultural food and fiber commodities. Such study shall include investigation by the Administrator of the best available methods to develop maps and the best available alternatives to mapping as means of identifying those circumstances in which use of pesticides may be restricted; identification of alternatives to prohibitions on pesticide use, including, but not limited to, alternative pesticides and application methods and other agricultural practices which can be used in lieu of any pesticides whose use may be restricted by the labeling program; examination of methods to improve coordination among the Environmental Protection Agency, Department of Agriculture, and Department of the Interior in administration of the labeling program; and analysis of the means of implementing the endangered species pesticides labeling program or alternatives to such a program, if any, to promote the conservation of endangered or threatened species and to minimize the impacts to persons engaged in agricultural food and fiber commodity production and other affected pesticide users and applicators.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior shall submit a report within one year of the date of enactment of this Act \[Oct. 7, 1988\], presenting the results of the study conducted pursuant to subsection (b) of this section to the Committee on Merchant Marine and Fisheries and the Committee on Agriculture of the United States House of Representatives, and the Committee on Environment and Public Works and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate.”
 

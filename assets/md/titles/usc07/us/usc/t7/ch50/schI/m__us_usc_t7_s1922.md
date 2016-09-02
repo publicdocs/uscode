@@ -101,19 +101,19 @@
 
 [Pub. L. 104–127, title VI, § 663][/us/pl/104/127/s663], Apr. 4, 1996, [110 Stat. 1108][/us/stat/110/1108], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this title \[enacting sections 2008g to 2008i of this title, amending this section and sections 1631, 1923, 1924, 1927, 1928, 1929, 1929a, 1932, 1934, 1941, 1942, 1946, 1949, 1961 to 1964, 1981, 1981d, 1983, 1983a, 1985, 1991, 1992, 1994, 1997, 1999, 2000, 2001, 2002, and 2003 of this title, repealing sections 1936, 1945, 1947, 1948, and 1968 of this title, and repealing provisions set out as a note under [section 1999 of this title][/us/usc/t7/s1999]\] shall become effective on the date of enactment of this Act \[Apr. 4, 1996\].
 
->     “(b) __Delayed Effective Dates.—__ 
+>     “(b)  __Delayed Effective Dates__  __.—__ 
 
 >     The amendments made by sections 601, 606, 611, 612, 622, 623, 625, 633, 640(1), 642, 645(1), 648(a), and 649 \[enacting sections 2008g and 2008i of this title and amending this section and sections 1929, 1941, 1942, 1962, 1963, 1964, 1981d, 1991, 1997, and 2001 of this title\] shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].
 
->     “(c) __Transition Provision.—__ 
+>     “(c)  __Transition Provision__  __.—__ 
 
 >     The amendments made by sections 638 and 644 \[amending sections 1985 and 2000 of this title\] shall not apply with respect to a complete application to acquire inventory property submitted prior to the date of enactment of this Act \[Apr. 4, 1996\].
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     Notwithstanding any other provision of law, regulations to implement the amendments made by this title shall be published as interim final rules with request for comments and may be made effective immediately on publication.”
 
@@ -125,21 +125,21 @@
 
 [Pub. L. 107–171, title V, § 5301][/us/pl/107/171/s5301], May 13, 2002, [116 Stat. 344][/us/stat/116/344], provided that:
 
->     “(a) __Studies.—__ 
+>     “(a)  __Studies__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct 2 studies of the direct and guaranteed loan progams \[sic\] under sections 302 and 311 of the Consolidated Farm and Rural Development Act \[[7 U.S.C. 1922][/us/usc/t7/s1922] and 1941\], each of which shall include an examination of the number, average principal amount, and delinquency and default rates of loans provided or guaranteed during the period covered by the study.
 
 >     “(b) __Periods Covered.—__ 
 
->         “(1) __First study.—__ 
+>         “(1)  __First study__  __.—__ 
 
 >         One study under subsection (a) shall cover the 1-year period that begins 1 year after the date of the enactment of this section \[May 13, 2002\].
 
->         “(2) __Second study.—__ 
+>         “(2)  __Second study__  __.—__ 
 
 >         One study under subsection (a) shall cover the 1-year period that begins 3 years after such date of enactment.
 
->     “(c) __Reports to the Congress.—__ 
+>     “(c)  __Reports to the Congress__  __.—__ 
 
 >     At the end of the period covered by each study under this section, the Secretary of Agriculture shall submit to the Congress a report that contains an evaluation of the results of the study, including an analysis of the effectiveness of loan programs referred to in subsection (a) in meeting the credit needs of agricultural producers in an efficient and fiscally responsible manner.”
 

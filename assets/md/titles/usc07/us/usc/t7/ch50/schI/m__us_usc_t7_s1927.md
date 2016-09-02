@@ -41,13 +41,13 @@
 
             (C) Notwithstanding subparagraph (A), the Secretary shall establish loan rates for health care and related facilities based solely on the income of the area to be served, and such rates shall be otherwise consistent with such subparagraph.
 
-            (D) __Joint financing arrangement.—__ 
+            (D)  __Joint financing arrangement__  __.—__ 
 
             If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
 
             (E) __Interest rates for water and waste disposal facilities loans.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii) and notwithstanding subparagraph (A), in the case of a direct loan for a water or waste disposal facility—
 
@@ -55,7 +55,7 @@
 
                     (II) in the case of a loan that would be subject to the 7 percent limitation under subparagraph (A), the Secretary shall establish the interest rate at a rate that is equal to 80 percent of the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity of the loan, adjusted to the nearest ⅛ of 1 percent.
 
-                (ii) __Exception.—__ 
+                (ii)  __Exception__  __.—__ 
 
                 Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
@@ -177,15 +177,15 @@
 
 [Pub. L. 103–328, title I, § 113(b)][/us/pl/103/328/s113/b], Sept. 29, 1994, [108 Stat. 2366][/us/stat/108/2366], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by subsection (a) \[amending this section\] shall apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) in a State on or after the date of enactment of this Act \[Sept. 29, 1994\].
 
->     “(2) __State option.—__ 
+>     “(2)  __State option__  __.—__ 
 
 >     Except as provided in paragraph (3), the amendments made by subsection (a) shall not apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in a State after the date (that occurs during the 3-year period beginning on the date of enactment of this Act) on which the State adopts a law or certifies that the voters of the State have voted in favor of a provision of the constitution or law of the State that states that the State does not want the amendments made by subsection (a) to apply with respect to loans made, insured, or guaranteed under such Act in the State.
 
->     “(3) __Transitional period.—__ 
+>     “(3)  __Transitional period__  __.—__ 
 
 >     In any case in which a State takes an action described in paragraph (2), the amendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.”
 

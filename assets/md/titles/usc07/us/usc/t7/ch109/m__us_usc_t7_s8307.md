@@ -59,7 +59,7 @@
 
 [Pub. L. 107–171, title X, § 10811][/us/pl/107/171/s10811], May 13, 2002, [116 Stat. 531][/us/stat/116/531], provided that:
 
->     “(a) __Preclearance Inspections Required.—__ 
+>     “(a)  __Preclearance Inspections Required__  __.—__ 
 
 >     The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspections of persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
 
@@ -71,11 +71,11 @@
 
 >         “(4) The United States Virgin Islands.
 
->     “(b) __Inspection Locations.—__ 
+>     “(b)  __Inspection Locations__  __.—__ 
 
 >     The preclearance quarantine inspections required by subsection (a) shall be conducted at all direct departure and interline airports in the State of Hawaii.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     The Secretary shall not implement this section unless appropriations for necessary expenses of the Animal and Plant Health Inspection Service for inspection, quarantine, and regulatory activities are increased by an amount not less than $3,000,000 in an Act making appropriations for fiscal year 2003.”
 

@@ -453,7 +453,7 @@
 
         (7) Where a State is designated under [section 1335(e) of this title][/us/usc/t7/s1335/e], as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
 
-    (d) __Rice.—__ 
+    (d)  __Rice__  __.—__ 
 
     The Secretary shall make available to producers of each crop of rice on a farm price support at a level that is not less than 50 percent, or more than 90 percent of the parity price for rice as the Secretary determines will not result in increasing stocks of rice to the Commodity Credit Corporation.
 

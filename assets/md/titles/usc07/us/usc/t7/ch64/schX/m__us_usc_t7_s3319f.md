@@ -257,11 +257,11 @@
 
 > “In this subtitle \[subtitle D (§ 7401–7412) of title VII of [Pub. L. 107–171][/us/pl/107/171], enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
 
->     “(1) __Department.—__ 
+>     “(1)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of Agriculture.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.”
 

@@ -39,7 +39,7 @@
 
 [Pub. L. 107–171, title VI, § 6201(b)][/us/pl/107/171/s6201/b], (c), May 13, 2002, [116 Stat. 418][/us/stat/116/418], 419, provided that:
 
->     “(b) __Disposition of Assets.—__ 
+>     “(b)  __Disposition of Assets__  __.—__ 
 
 >     On the date of enactment of this Act \[May 13, 2002\]—
 
@@ -49,7 +49,7 @@
 
 >     “(c) __Use of Assets.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Funds transferred under subsection (b), and any income from assets or proceeds from the sale of assets transferred under subsection (b), shall be deposited in an account in the Treasury, and shall remain available to the Secretary until expended, without further appropriation, to pay—
 
@@ -57,7 +57,7 @@
 
 >             “(B) the costs incurred by the Secretary in carrying out this section.
 
->         “(2) __Final disposition.—__ 
+>         “(2)  __Final disposition__  __.—__ 
 
 >         On final disposition of all assets transferred under subsection (b), any funds remaining in the account described in paragraph (1) shall be transferred into miscellaneous receipts in the Treasury.”
 

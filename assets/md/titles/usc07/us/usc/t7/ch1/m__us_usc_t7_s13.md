@@ -159,11 +159,11 @@
 
 [Pub. L. 102–546, title II, § 225][/us/pl/102/546/s225], Oct. 28, 1992, [106 Stat. 3618][/us/stat/106/3618], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Commodity Futures Trading Commission shall study the penalties the Commission imposes against persons found to have violated the Commodity Exchange Act ([7 U.S.C. 1][/us/usc/t7/s1] et seq.) and the penalties imposed by contract markets and registered futures associations against persons found to have violated their respective rules established under such Act.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than two years after the date of enactment of this Act \[Oct. 28, 1992\], the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subsection (a). The report shall—
 

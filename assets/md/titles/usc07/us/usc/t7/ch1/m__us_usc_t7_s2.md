@@ -989,11 +989,11 @@
 
     The Federal Advisory Committee Act, referred to in subsec. (a)(15)(E), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+    The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
+
     Item (ee) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (II)(aa), (C)(i)(I)(aa), (ii)(II)(aa), (iii)(I), (II)(aa), was redesignated item (dd) by [Pub. L. 111–203, title VII, § 742(c)(1)(C)][/us/pl/111/203/s742/c/1/C], July 21, 2010, [124 Stat. 1733][/us/stat/124/1733].
 
     Item (gg) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (III), (v), was redesignated item (ff) by [Pub. L. 111–203, title VII, § 742(c)(1)(C)][/us/pl/111/203/s742/c/1/C], July 21, 2010, [124 Stat. 1733][/us/stat/124/1733].
-
-    The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
     The Commodity Futures Modernization Act of 2000, referred to in subsec. (g)(1)(A), (2), is H.R. 5660, as enacted by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–365. Title IV of the Act, known as the Legal Certainty for Bank Products Act of 2000, is classified to sections 27 to 27f of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of this title][/us/usc/t7/s1], and Tables.
 
@@ -1243,7 +1243,7 @@
 
 [Pub. L. 110–234, title XIII, § 13204][/us/pl/110/234/s13204], May 22, 2008, [122 Stat. 1441][/us/stat/122/1441], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2203, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section, this subtitle \[subtitle B (§§ 13201–13204) of title XIII of [Pub. L. 110–246][/us/pl/110/246], amending this section and sections 1a, 6a, 6g, 6i, 7a, 7a–2, 7b, 8, and 25 of this title\] shall become effective on the date of enactment of this Act \[June 18, 2008\].
 
@@ -1259,7 +1259,7 @@
 
 >         “(2) In its rulemaking pursuant to paragraph (1) of this subsection, the Commission shall include the standards, terms, and conditions under which an electronic trading facility will have the responsibility to notify the Commission that an agreement, contract, or transaction conducted in reliance on the exemption provided in section 2(h)(3) of the Commodity Exchange Act \[[7 U.S.C. 2(h)(3)][/us/usc/t7/s2/h/3]\] may perform a price discovery function.
 
->     “(c) __Significant Price Discovery Determinations.—__ 
+>     “(c)  __Significant Price Discovery Determinations__  __.—__ 
 
 >     With respect to any electronic trading facility operating on the effective date of the final rule issued pursuant to subsection (b)(1), the Commission shall complete a review of the agreements, contracts, and transactions of the facility not later than 180 days after that effective date to determine whether any such agreement, contract, or transaction performs a significant price discovery function.”
 
@@ -1321,11 +1321,11 @@
 
 [Pub. L. 111–203, title VII, § 723(c)][/us/pl/111/203/s723/c], July 21, 2010, [124 Stat. 1682][/us/stat/124/1682], provided that:
 
->     “(1) __Legal certainty for certain transactions in exempt commodities.—__ 
+>     “(1)  __Legal certainty for certain transactions in exempt commodities__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[July 21, 2010\], a person may submit to the Commodity Futures Trading Commission a petition to remain subject to section 2(h) of the Commodity Exchange Act ([7 U.S.C. 2(h)][/us/usc/t7/s2/h]) (as in effect on the day before the date of enactment of this Act).
 
->     “(2) __Consideration; authority of commodity futures trading commission.—__ 
+>     “(2)  __Consideration; authority of commodity futures trading commission__  __.—__ 
 
 >     The Commodity Futures Trading Commission—
 
@@ -1335,15 +1335,15 @@
 
 >     “(3) __Agricultural swaps.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), no person shall offer to enter into, enter into, or confirm the execution of, any swap in an agricultural commodity (as defined by the Commodity Futures Trading Commission).
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Notwithstanding subparagraph (A), a person may offer to enter into, enter into, or confirm the execution of, any swap in an agricultural commodity pursuant to section 4(c) of the Commodity Exchange Act ([7 U.S.C. 6(c)][/us/usc/t7/s6/c]) or any rule, regulation, or order issued thereunder (including any rule, regulation, or order in effect as of the date of enactment of this Act) by the Commodity Futures Trading Commission to allow swaps under such terms and conditions as the Commission shall prescribe.
 
->     “(4) __Required reporting.—__ 
+>     “(4)  __Required reporting__  __.—__ 
 
 >     If the exception described in section 2(h)(8)(B) of the Commodity Exchange Act \[[7 U.S.C. 2(h)(8)(B)][/us/usc/t7/s2/h/8/B]\] applies, the counterparties shall comply with any recordkeeping and transaction reporting requirements that may be prescribed by the Commission with respect to swaps subject to section 2(h)(8)(B) of the Commodity Exchange Act.”
 
@@ -1369,11 +1369,11 @@
 
 [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 105(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–379, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants (as defined in section 1a of the Commodity Exchange Act \[[7 U.S.C. 1a][/us/usc/t7/s1a]\]).
 
->     “(2) __Matters to be addressed.—__ 
+>     “(2)  __Matters to be addressed__  __.—__ 
 
 >     The study shall address—
 
@@ -1385,7 +1385,7 @@
 
 >         “(D) such other relevant matters deemed necessary or appropriate to address.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Before the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 21, 2000\], a report on the findings and conclusions of the study required by paragraph (1) shall be submitted to Congress, together with such recommendations for legislative action as are deemed necessary and appropriate.”
 
@@ -1577,11 +1577,11 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/203/s742/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs742%2Fc%2F1%2FC
-[/us/stat/124/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1733
-[/us/pl/111/203/s742/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs742%2Fc%2F1%2FC
-[/us/stat/124/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1733
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/111/203/s742/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs742%2Fc%2F1%2FC
+[/us/stat/124/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1733
+[/us/pl/111/203/s742/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs742%2Fc%2F1%2FC
+[/us/stat/124/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1733
 [/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1

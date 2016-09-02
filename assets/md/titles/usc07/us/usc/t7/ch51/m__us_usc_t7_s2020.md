@@ -135,15 +135,15 @@
 
             (C) __Electronic and automated systems.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Nothing in this chapter shall prohibit the use of signatures provided and maintained electronically, storage of records using automated retrieval systems only, or any other feature of a State agency’s application system that does not rely exclusively on the collection and retention of paper applications or other records.
 
-                (ii) __State option for telephonic signature.—__ 
+                (ii)  __State option for telephonic signature__  __.—__ 
 
                 A State agency may establish a system by which an applicant household may sign an application through a recorded verbal assent over the telephone.
 
-                (iii) __Requirements.—__ 
+                (iii)  __Requirements__  __.—__ 
 
                 A system established under clause (ii) shall—
 
@@ -849,11 +849,11 @@
 
 [Pub. L. 105–33, title I, § 1003(a)(3)][/us/pl/105/33/s1003/a/3], Aug. 5, 1997, [111 Stat. 255][/us/stat/111/255], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Aug. 5, 1997\].
 
->     “(B) __Extension.—__ 
+>     “(B)  __Extension__  __.—__ 
 
 >     The Secretary of Agriculture may grant a State an extension of time to comply with the amendments made by this subsection, not to exceed beyond the date that is 2 years after the date of enactment of this Act, if the chief executive officer of the State submits a request for the extension to the Secretary—
 

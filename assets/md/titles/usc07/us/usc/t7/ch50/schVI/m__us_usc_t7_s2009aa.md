@@ -53,7 +53,7 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 502\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–268, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -71,7 +71,7 @@
 
 >         “(7) improving the economy of the region requires a special emphasis on areas of the region that are most economically distressed.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title are—
 

@@ -237,29 +237,29 @@
 
 [Pub. L. 100–387, title III, § 332][/us/pl/100/387/s332], Aug. 11, 1988, [102 Stat. 951][/us/stat/102/951], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section and notwithstanding section 110(f) of the Agricultural Act of 1949 ([7 U.S.C. 1445e(f)][/us/usc/t7/s1445e/f]) or any other provision of law, if, during any month commencing after July 31, 1988, the average corn price (as determined under subsection (d)) exceeds the fuel conversion price (as defined in section 212 of the Agricultural Trade Suspension Adjustment Act of 1980 ([7 U.S.C. 4005][/us/usc/t7/s4005])), the Secretary of Agriculture may make available for sale to domestic producers of ethanol fuel, for the production of ethanol, not more than 12,000,000 bushels per month of corn owned by the Commodity Credit Corporation.
 
->     “(b) __Price.—__ 
+>     “(b)  __Price__  __.—__ 
 
 >     Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior to any adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 ([7 U.S.C. 1444e(a)(3)][/us/usc/t7/s1444e/a/3]).
 
->     “(c) __Maximum Amount.—__ 
+>     “(c)  __Maximum Amount__  __.—__ 
 
 >     The total quantity of corn sold to any ethanol producer under this section may not exceed 2,000,000 bushels per month.
 
->     “(d) __Average Corn Price.—__ 
+>     “(d)  __Average Corn Price__  __.—__ 
 
 >     The average corn price under this section shall be determined by the Secretary based on the average corn price in markets used for determinations made under clause (5) of the third sentence of section 110(b) of the Agricultural Act of 1949 ([7 U.S.C. 1445e(b)][/us/usc/t7/s1445e/b]).
 
->     “(e) __Terms.—__ 
+>     “(e)  __Terms__  __.—__ 
 
 >         (1) The Secretary may not make corn or other commodities available under this section to any domestic producer of ethanol that uses in excess of 30,000,000 bushels of corn or comparable commodity annually in producing ethanol.
 
 >         “(2) Domestic producers of ethanol fuel purchasing corn under this section shall agree not to resell such corn and to make available a quantity of feed byproducts equivalent to the quantity processed from such corn for sale to domestic livestock producers and feeders in a manner and subject to such terms and conditions as are approved by the Secretary.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The Secretary shall terminate any program established under this section no later than September 1, 1989. The Secretary shall terminate the program on an earlier date if the Secretary determines that—
 
@@ -267,7 +267,7 @@
 
 >         “(2) a sufficient supply of corn otherwise would not be available to fulfill estimated obligations of the Commodity Credit Corporation under emergency livestock feeding programs during the subsequent 180-day period.
 
->     “(g) __Other Commodities.—__ 
+>     “(g)  __Other Commodities__  __.—__ 
 
 >     The Secretary may, at the request of a domestic producer of ethanol, substitute other feed grains (such as grain sorghum) for corn on an equitable basis, taking into account variations in the value of such commodities in the production of ethanol.”
 

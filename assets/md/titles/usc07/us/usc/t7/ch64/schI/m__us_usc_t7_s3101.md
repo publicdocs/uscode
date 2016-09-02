@@ -77,7 +77,7 @@
 
 [Pub. L. 107–171, title VII, § 7404][/us/pl/107/171/s7404], May 13, 2002, [116 Stat. 457][/us/stat/116/457], as amended by [Pub. L. 108–11, title II, § 2101(b)][/us/pl/108/11/s2101/b], Apr. 16, 2003, [117 Stat. 589][/us/stat/117/589]; [Pub. L. 110–234, title VII, § 7511(c)(7)][/us/pl/110/234/s7511/c/7], May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(7), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[May 13, 2002\], the Secretary \[of Agriculture\] shall establish a task force to—
 
@@ -87,7 +87,7 @@
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Task Force shall consist of 8 members, appointed by the Secretary, that—
 
@@ -109,23 +109,23 @@
 
 >                 “(vi) the National Institute of Food and Agriculture.
 
->         “(2) __Private sector.—__ 
+>         “(2)  __Private sector__  __.—__ 
 
 >         Of the members appointed under paragraph (1), the Secretary shall appoint at least 6 members that are members of the private sector or come from institutions of higher education.
 
->         “(3) __Plant and agricultural sciences research.—__ 
+>         “(3)  __Plant and agricultural sciences research__  __.—__ 
 
 >         Of the members appointed under paragraph (1), the Secretary shall appoint at least 3 members that have an extensive background and preeminence in the field of plant, animal, and agricultural sciences research.
 
->         “(4) __Chairperson.—__ 
+>         “(4)  __Chairperson__  __.—__ 
 
 >         Of the members appointed under paragraph (1), the Secretary shall designate a Chairperson that has significant leadership experience in educational and research institutions and indepth knowledge of the research enterprises of the United States.
 
->         “(5) __Consultation.—__ 
+>         “(5)  __Consultation__  __.—__ 
 
 >         Before appointing members of the Task Force under this subsection, the Secretary shall consult with the National Academy of Sciences and the Office of Science and Technology Policy.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The Task Force shall—
 
@@ -135,7 +135,7 @@
 
 >         “(3) submit the reports required by subsection (d).
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[May 13, 2002\], the Task Force shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Secretary—
 
@@ -143,7 +143,7 @@
 
 >         “(2) a report on the review and evaluation required under subsection (c)(2).
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     The Secretary shall use to carry out this section not more than $499,000 of the amount of appropriations available to the Department of Agriculture for fiscal year 2003.”
 

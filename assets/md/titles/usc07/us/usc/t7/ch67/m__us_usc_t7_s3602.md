@@ -47,15 +47,15 @@
 
 [Pub. L. 101–167, title V, § 562][/us/pl/101/167/s562], Nov. 21, 1989, [103 Stat. 1241][/us/stat/103/1241], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States: Provided, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
 
->     “(b) __Reallocation of Quota Amounts.—__ 
+>     “(b)  __Reallocation of Quota Amounts__  __.—__ 
 
 >     For any quota year for which the President does not certify for the entire duration of the quota year, freedom of the press and all other constitutional guarantees, including due process of law, have been restored to the Panamanian people, no later than the last week of such quota year, the United States Trade Representative shall reallocate among other foreign countries (but, primarily, among beneficiary countries of the Caribbean Basin Initiative and Bolivia) the quantity of sugar, sirup, and molasses products of Panama that could have been imported into the United States before the date of enactment of this Act \[Nov. 21, 1989\] under any limitation imposed by other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States during any period: Provided, That no one country may receive more than 20 per centum of such reallocation.
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     The provisions of subsections (a) and (b), and the amendments made by subsection (c) of section 571 of the Foreign Operations, Export Financing, and Related Programs, Appropriations Act, 1988 \[section 101(e) \[title V, § 571\] of [Pub. L. 100–202][/us/pl/100/202], formerly set out below\], shall cease to apply if the President certifies to Congress pursuant to section 561(a) of this Act \[[section 561(a) of Pub. L. 101–167][/us/pl/101/167/s561/a], which is set out as a note under [section 2151 of Title 22][/us/usc/t22/s2151], Foreign Relations and Intercourse\].”
 

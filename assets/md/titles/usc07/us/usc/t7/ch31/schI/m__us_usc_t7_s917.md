@@ -29,7 +29,7 @@
 
         (1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and subtitle E \[[7 U.S.C. 2009][/us/usc/t7/s2009] et seq.\] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)][/us/usc/t7/s1924/b], 1926, 1926a, 1926c, 1926d, and 1932).
 
-        (2) Subtitle G 1 of title XVI and sections 2281 \[[42 U.S.C. 5177a][/us/usc/t42/s5177a]\], 2333,1 and 2381 \[[7 U.S.C. 950aaa–2][/us/usc/t7/s950aaa–2], 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
+        (2) Subtitle G 1 of title XVI and sections 2281 \[[42 U.S.C. 5177a][/us/usc/t42/s5177a]\], 2333, and 2381 \[[7 U.S.C. 950aaa–2][/us/usc/t7/s950aaa–2], 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
         (3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 ([Public Law 102–237][/us/pl/102/237]; [7 U.S.C. 5930][/us/usc/t7/s5930] note).
 

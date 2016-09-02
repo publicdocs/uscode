@@ -1541,19 +1541,19 @@
 
 [Pub. L. 104–127, title I, § 193(a)(3)][/us/pl/104/127/s193/a/3], Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
 
->     “(A) __Effective period.—__ 
+>     “(A)  __Effective period__  __.—__ 
 
 >     This paragraph shall apply only to the 1996 crop year.
 
->     “(B) __Availability.—__ 
+>     “(B)  __Availability__  __.—__ 
 
 >     During a period of not less than 2 weeks, but not more than 4 weeks, beginning on the date of enactment of this title \[Apr. 4, 1996\], the Secretary shall provide producers with an opportunity to obtain catastrophic risk protection insurance under section 508(b) of the Federal Crop Insurance Act ([7 U.S.C. 1508(b)][/us/usc/t7/s1508/b]) for a spring-planted crop, and limited additional coverage for malting barley under the Malting Barley Price and Quality Endorsement. The Federal Crop Insurance Corporation may attach such limitations and restrictions on obtaining insurance during this period as the Corporation considers necessary to maintain the actuarial soundness of the crop insurance program.
 
->     “(C) __Attachment.—__ 
+>     “(C)  __Attachment__  __.—__ 
 
 >     Insurance coverage under any policy obtained under this paragraph during the extended sales period shall not attach until 10 days after the application.
 
->     “(D) __Cancellation.—__ 
+>     “(D)  __Cancellation__  __.—__ 
 
 >     During the extended period, a producer may cancel a catastrophic risk protection policy if—
 
@@ -1565,15 +1565,15 @@
 
 [Pub. L. 104–127, title I, § 193(b)][/us/pl/104/127/s193/b], Apr. 4, 1996, [110 Stat. 944][/us/stat/110/944], provided that:
 
->     “(1) __Coverage.—__ 
+>     “(1)  __Coverage__  __.—__ 
 
 >     The Secretary of Agriculture shall develop and administer a pilot project for crop insurance coverage that indemnifies crop losses due to a natural disaster such as insect infestation or disease.
 
->     “(2) __Actuarial soundness.—__ 
+>     “(2)  __Actuarial soundness__  __.—__ 
 
 >     A pilot project under this paragraph shall be actuarially sound, as determined by the Secretary and administered at no net cost.
 
->     “(3) __Duration.—__ 
+>     “(3)  __Duration__  __.—__ 
 
 >     A pilot project under this paragraph shall be of two years’ duration.”
 
@@ -1581,7 +1581,7 @@
 
 [Pub. L. 103–354, title I, § 116][/us/pl/103/354/s116], Oct. 13, 1994, [108 Stat. 3204][/us/stat/108/3204], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective for the 1994 crop year, a producer described in subsection (b) shall receive compensation under the prevented planting coverage policy provision described in subsection (b)(1) by—
 
@@ -1595,7 +1595,7 @@
 
 >             “(B) the amount that is payable under the prevented planting coverage policy.
 
->     “(b) __Eligible Producers.—__ 
+>     “(b)  __Eligible Producers__  __.—__ 
 
 >     Subsection (a) shall apply to a producer who—
 
@@ -1609,15 +1609,15 @@
 
 >     “(c) __Oilseed Prevented Planting Payments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective for the 1994 crop year, a producer of a crop of oilseeds (as defined in section 205(a) of the Agricultural Act of 1949 (\[former\] [7 U.S.C. 1446f(a)][/us/usc/t7/s1446f/a])) shall receive a prevented planting payment for the crop if the requirements of paragraphs (1), (2), and (3) of subsection (b) are satisfied.
 
->         “(2) __Source of payment.—__ 
+>         “(2)  __Source of payment__  __.—__ 
 
 >         The total amount of payments required under this subsection shall be made by the Federal Crop Insurance Corporation.
 
->     “(d) __Payment.—__ 
+>     “(d)  __Payment__  __.—__ 
 
 >     A payment under this section may not be made before October 1, 1994.”
 

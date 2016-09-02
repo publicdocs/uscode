@@ -71,7 +71,7 @@
 
 [Pub. L. 101–624, title XXIII, § 2352][/us/pl/101/624/s2352], Nov. 28, 1990, [104 Stat. 4038][/us/stat/104/4038], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -79,7 +79,7 @@
 
 >         “(2) the efficient operation of the Rural Telephone Bank and the Rural Electrification Administration telephone loan programs is essential to the continued development of the telecommunications infrastructure in rural areas in the United States.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     It is the policy of the Congress that the Rural Telephone Bank and the Rural Electrification Administration make loans that facilitate the development and enhancement of the rural telecommunications infrastructure in order to make modern telecommunications technology and services available at reasonable rates to the greatest practicable number of people in rural areas in the United States.”
 

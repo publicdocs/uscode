@@ -177,7 +177,7 @@
 
 [Pub. L. 101–82, title V, § 501(b)][/us/pl/101/82/s501/b], Aug. 14, 1989, [103 Stat. 585][/us/stat/103/585], provided that:
 
->     “(1) __Regulations.—__ 
+>     “(1)  __Regulations__  __.—__ 
 
 >     The Secretary of Agriculture shall publish—
 
@@ -187,11 +187,11 @@
 
 >     “(2) __Funds.—__ 
 
->         “(A) __Obligation.—__ 
+>         “(A)  __Obligation__  __.—__ 
 
 >         The Secretary shall designate 70 percent of the funds made available for the first fiscal year for which appropriations are made under section 306A(i) of the Consolidated Farm and Rural Development Act not later than 5 months after the date such funds are appropriated.
 
->         “(B) __Release.—__ 
+>         “(B)  __Release__  __.—__ 
 
 >         The Secretary may release funds prior to the issuance of final regulations under paragraph (1)(B) for grants under section 306A(a)(1) of the Consolidated Farm and Rural Development Act.”
 

@@ -171,13 +171,13 @@
 
 >     “(a) __Mandatory Calculation of Refund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall calculate, for informational purposes only (except as provided in the discretionary authority under subsection (b)), the amount of the refund of any advance deficiency payment a producer of barley who participated in the 1988 or 1989 Federal barley price support program would be required to make pursuant to section 107C of the Agricultural Act of 1949 ([7 U.S.C. 1445b–2][/us/usc/t7/s1445b–2]) (as it existed immediately before the date of enactment of this Act) based on a formula which excludes malting barley from the market price calculations of barley used to determine the amount of refund of the advance deficiency payment required of the producer.
 
 >         “(2) __Disclosure.—__ 
 
->             “(A) __To the public.—__ 
+>             “(A)  __To the public__  __.—__ 
 
 >             The Secretary shall publish in the Federal Register—
 
@@ -197,17 +197,17 @@
 
 >                 “(iv) a statement of the Secretary’s reasons for the decision described in clause (iii).
 
->             “(B) __To producers.—__ 
+>             “(B)  __To producers__  __.—__ 
 
 >             The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect of the calculation of refunds described in paragraph (1) on the producer’s 1988 or 1989 refund.
 
 >     “(b) __Discretionary Use of Calculation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may use the calculation described in subsection (a) to determine whether or not to reduce the total refund owed by a producer of 1988 or 1989 crop barley under section 107C of the Agricultural Act of 1949 \[[7 U.S.C. 1445b–2][/us/usc/t7/s1445b–2]\] (as it existed immediately before the date of enactment of this Act \[Nov. 28, 1990\]).
 
->         “(2) __Procedure for use of calculation.—__ 
+>         “(2)  __Procedure for use of calculation__  __.—__ 
 
 >         If the Secretary decides to use the calculation described in subsection (a) as provided under paragraph (1), in the case of a producer of 1988 or 1989 crop barley who paid the refund of the advance deficiency payment for the crop calculated prior to the date of enactment of this Act (or any amount of refund in excess of the amount of the refund determined in accordance with paragraph (1)), the Secretary—
 
@@ -231,7 +231,7 @@
 
 [Pub. L. 101–624, title XI, § 1121(b)][/us/pl/101/624/s1121/b], Nov. 28, 1990, [104 Stat. 3502][/us/stat/104/3502], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, effective only for producers who are suffering financial hardship, as determined by the Secretary, on a farm who received an advance deficiency payment for the 1988 or 1989 crop of a commodity and are otherwise described in paragraph (2), the Secretary of Agriculture—
 
@@ -241,7 +241,7 @@
 
 >         “(C) shall permit the producers to make the refund in three equal installments during each of the crop years 1990, 1991, and 1992, if the producers enter into an agreement to obtain multiperil crop insurance for each of the crop years, to the extent that the Secretary determines is similar to section 107 of the Disaster Assistance Act of 1989 ([7 U.S.C. 1421][/us/usc/t7/s1421] et seq.) \[[§ 107 of Pub. L. 101–82][/us/pl/101/82/s107], [7 U.S.C. 1421][/us/usc/t7/s1421] note\].
 
->     “(2) __Application.—__ 
+>     “(2)  __Application__  __.—__ 
 
 >     This subparagraph shall apply if—
 

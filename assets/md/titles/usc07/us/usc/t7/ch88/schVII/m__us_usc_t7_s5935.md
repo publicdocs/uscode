@@ -47,7 +47,7 @@
 
 [Pub. L. 106–391, title III, § 316][/us/pl/106/391/s316], Oct. 30, 2000, [114 Stat. 1596][/us/stat/114/1596], provided that:
 
->     “(a) __Information Development.—__ 
+>     “(a)  __Information Development__  __.—__ 
 
 >     The Administrator \[of the National Aeronautics and Space Administration\] shall—
 
@@ -57,11 +57,11 @@
 
 >         “(3) examine other data sources, including commercial sources, LightSAR, RADARSAT I, and RADARSAT II, which can provide domestic and international agricultural information relating to crop conditions, fertilization and irrigation needs, pest infiltration, soil conditions, projected food, feed, and fiber production, and other related subjects.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     Not later than 90 days after the plan has been transmitted under subsection (b), the Administrator shall implement the plan.”
 

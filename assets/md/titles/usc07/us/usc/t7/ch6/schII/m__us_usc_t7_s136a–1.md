@@ -307,7 +307,7 @@
 
         (2) __Reregistration and other actions__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator shall make a determination as to eligibility for reregistration—
 
@@ -317,17 +317,17 @@
 
             (B) __Product-specific data.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Before reregistering a pesticide, the Administrator shall obtain any needed product-specific data regarding the pesticide by use of [section 136a(c)(2)(B) of this title][/us/usc/t7/s136a/c/2/B] and shall review such data within 90 days after its submission.
 
                 (ii) __Timing.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (II), the Administrator shall require that data under this subparagraph be submitted to the Administrator not later than 8 months after a determination of eligibility under subparagraph (A) has been made for each active ingredient of the pesticide, unless the Administrator determines that a longer period is required for the generation of the data.
 
-                    (II) __Extraordinary circumstances.—__ 
+                    (II)  __Extraordinary circumstances__  __.—__ 
 
                     In the case of extraordinary circumstances, the Administrator may provide such a longer period, of not more than 2 additional years, for submission of data to the Administrator under this subparagraph.
 
@@ -335,11 +335,11 @@
 
             (D) __Determination to not reregister.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If after conducting a review under paragraph (1) or subparagraph (B) of this paragraph the Administrator determines that a pesticide should not be reregistered, the Administrator shall take appropriate regulatory action.
 
-                (ii) __Timing for regulatory action.—__ 
+                (ii)  __Timing for regulatory action__  __.—__ 
 
                 Regulatory action under clause (i) shall be completed as expeditiously as possible.
 
@@ -365,17 +365,17 @@
 
         (1) __Maintenance fee__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to other provisions of this paragraph, each registrant of a pesticide shall pay an annual fee by January 15 of each year for each registration, except that no fee shall be charged for more than 200 registrations held by any registrant.
 
             (B) In the case of a pesticide that is registered for a minor agricultural use, the Administrator may reduce or waive the payment of the fee imposed under this paragraph if the Administrator determines that the fee would significantly reduce the availability of the pesticide for the use.
 
-            (C) __Total amount of fees.—__ 
+            (C)  __Total amount of fees__  __.—__ 
 
             The amount of each fee prescribed under subparagraph (A) shall be adjusted by the Administrator to a level that will result in the collection under this paragraph of, to the extent practicable, an aggregate amount of $27,800,000 for each of fiscal years 2013 through 2017.
 
-            (D) __Maximum amount of fees for registrants.—__ 
+            (D)  __Maximum amount of fees for registrants__  __.—__ 
 
             The maximum annual fee payable under this paragraph by—
 
@@ -385,7 +385,7 @@
 
             (E) __Maximum amount of fees for small businesses.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For a small business, the maximum annual fee payable under this paragraph by—
 
@@ -395,7 +395,7 @@
 
                 (ii) __Definition of small business.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     In clause (i), the term “small business” means a corporation, partnership, or unincorporated business that—
 
@@ -405,21 +405,21 @@
 
                     (II) __Affiliates.—__ 
 
-                        (aa) __In general.—__ 
+                        (aa)  __In general__  __.—__ 
 
                         In the case of a business entity with 1 or more affiliates, the gross revenue limit under subclause (I)(bb) shall apply to the gross revenue for the entity and all of the affiliates of the entity, including parents and subsidiaries, if applicable.
 
-                        (bb) __Affiliated persons.—__ 
+                        (bb)  __Affiliated persons__  __.—__ 
 
                         For the purpose of item (aa), persons are affiliates of each other if, directly or indirectly, either person controls or has the power to control the other person, or a third person controls or has the power to control both persons.
 
-                        (cc) __Indicia of control.—__ 
+                        (cc)  __Indicia of control__  __.—__ 
 
                         For the purpose of item (aa), indicia of control include interlocking management or ownership, identity of interests among family members, shared facilities and equipment, and common use of employees.
 
             (F) __Fee reduction for certain small businesses.—__ 
 
-                (i) __Definition.—__ 
+                (i)  __Definition__  __.—__ 
 
                 In this subparagraph, the term “qualified small business entity” means a corporation, partnership, or unincorporated business that—
 
@@ -429,11 +429,11 @@
 
                     (III) holds not more than 5 pesticide registrations under this paragraph.
 
-                (ii) __Waiver.—__ 
+                (ii)  __Waiver__  __.—__ 
 
                 Except as provided in clause (iii), the Administrator shall waive 25 percent of the fee under this paragraph applicable to the first registration of any qualified small business entity under this paragraph.
 
-                (iii) __Limitation.—__ 
+                (iii)  __Limitation__  __.—__ 
 
                 The Administrator shall not grant a waiver under clause (ii) to a qualified small business entity if the Administrator determines that the entity has been formed or manipulated primarily for the purpose of qualifying for the waiver.
 

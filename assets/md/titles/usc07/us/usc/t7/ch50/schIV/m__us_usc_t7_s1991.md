@@ -95,7 +95,7 @@
 
         (12) __Debt forgiveness.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
 
@@ -107,7 +107,7 @@
 
                 (iv) discharging a debt as a result of bankruptcy.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             The term “debt forgiveness” does not include—
 
@@ -117,7 +117,7 @@
 
         (13) __Rural and rural area.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraphs (B) through (G), the terms “rural” and “rural area” mean any area other than—
 
@@ -125,17 +125,17 @@
 
                 (ii) any urbanized area contiguous and adjacent to a city or town described in clause (i).
 
-            (B) __Water and waste disposal grants and direct and guaranteed loans.—__ 
+            (B)  __Water and waste disposal grants and direct and guaranteed loans__  __.—__ 
 
             For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of [section 1926(a) of this title][/us/usc/t7/s1926/a], the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
-            (C) __Community facility loans and grants.—__ 
+            (C)  __Community facility loans and grants__  __.—__ 
 
             For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of [section 1926(a) of this title][/us/usc/t7/s1926/a], the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
 
             (D) __Areas rural in character.—__ 
 
-                (i) __Application.—__ 
+                (i)  __Application__  __.—__ 
 
                 This subparagraph applies to—
 
@@ -149,11 +149,11 @@
 
                     (II) an area within an urbanized area described in subparagraphs (A)(ii) and (F) that is within ¼-mile of a rural area described in subparagraph (A).
 
-                (ii) __Determination.—__ 
+                (ii)  __Determination__  __.—__ 
 
                 Notwithstanding any other provision of this paragraph, on the petition of a unit of local government in an area described in clause (i) or on the initiative of the Under Secretary for Rural Development, the Under Secretary may determine that a part of an area described in clause (i) is a rural area for the purposes of this paragraph, if the Under Secretary finds that the part is rural in character, as determined by the Under Secretary.
 
-                (iii) __Administration.—__ 
+                (iii)  __Administration__  __.—__ 
 
                 In carrying out this subparagraph, the Under Secretary for Rural Development shall—
 
@@ -171,13 +171,13 @@
 
                     (VII) terminate a determination under this subparagraph that part of an area is a rural area on the date that data is available for the next decennial census conducted under [section 141(a) of title 13][/us/usc/t13/s141/a].
 
-            (E) __Exclusions.—__ 
+            (E)  __Exclusions__  __.—__ 
 
             Notwithstanding any other provision of this paragraph, in determining which census blocks in an urbanized area are not in a rural area (as defined in this paragraph), the Secretary shall exclude any cluster of census blocks that would otherwise be considered not in a rural area only because the cluster is adjacent to not more than 2 census blocks that are otherwise considered not in a rural area under this paragraph.
 
             (F) __Urban area growth.—__ 
 
-                (i) __Application.—__ 
+                (i)  __Application__  __.—__ 
 
                 This subparagraph applies to—
 
@@ -193,7 +193,7 @@
 
                     (II) any urbanized area contiguous and adjacent to a city or town described in subparagraph (A)(i).
 
-                (ii) __Adjustments.—__ 
+                (ii)  __Adjustments__  __.—__ 
 
                 The Secretary may, by regulation only, consider—
 
@@ -201,11 +201,11 @@
 
                     (II) an area described in clause (i)(II) not to be a rural area for purposes of subparagraph (C).
 
-                (iii) __Appeals.—__ 
+                (iii)  __Appeals__  __.—__ 
 
                 A program applicant may appeal an estimate made under clause (i)(I) based on appropriate data for an area, as determined by the Secretary.
 
-            (G) __Hawaii and puerto rico.—__ 
+            (G)  __Hawaii and puerto rico__  __.—__ 
 
             Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
@@ -229,7 +229,7 @@
 
             (D) any combination of actions described in subparagraphs (A), (B), and (C).
 
-        (4) __Preservation loan service program.—__ 
+        (4)  __Preservation loan service program__  __.—__ 
 
         The term “preservation loan service program” means homestead retention as authorized under [section 2000 of this title][/us/usc/t7/s2000].
 

@@ -65,11 +65,11 @@
 
 [Pub. L. 100–203, title I, § 1401][/us/pl/100/203/s1401], Dec. 22, 1987, [101 Stat. 1330–20][/us/stat/101/1330-20], provided that:
 
->     “(a) __Eligibility to Prepay.—__ 
+>     “(a)  __Eligibility to Prepay__  __.—__ 
 
 >     Notwithstanding subsections (c), (d), and (e) of section 306A of the Rural Electrification Act of 1936 ([7 U.S.C. 936a(c)][/us/usc/t7/s936a/c], (d), and (e)), during fiscal year 1988, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act ([7 U.S.C. 936][/us/usc/t7/s936]) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with subsections (a) and (b) of section 306A of such Act, except that any prepayment that would cause the total amount of such prepayments during fiscal year 1988 to exceed $2,000,000,000 shall be subject solely to the approval of the Secretary of the Treasury.
 
->     “(b) __Priority for Approval.—__ 
+>     “(b)  __Priority for Approval__  __.—__ 
 
 >     In determining which borrowers shall be permitted to prepay loans under subsection (a):
 
@@ -89,11 +89,11 @@
 
 >             “(B) permit partial prepayment by two or more borrowers.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[Dec. 22, 1987\], the Administrator of the Rural Electrification Administration shall issue such regulations as are necessary to carry at this section.
 
->     “(d) __Study.—__ 
+>     “(d)  __Study__  __.—__ 
 
 >     Not later than January 1, 1989, the Comptroller General of the United States shall—
 

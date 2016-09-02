@@ -73,6 +73,10 @@
 
 ([Pub. L. 106–224, title IV, § 424][/us/pl/106/224/s424], June 20, 2000, [114 Stat. 450][/us/stat/114/450]; [Pub. L. 107–171, title X, § 10810][/us/pl/107/171/s10810], May 13, 2002, [116 Stat. 531][/us/stat/116/531]; [Pub. L. 110–234, title X, § 10203(d)][/us/pl/110/234/s10203/d], May 22, 2008, [122 Stat. 1343][/us/stat/122/1343]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10203(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2105.)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 106–224][/us/pl/106/224], June 20, 2000, [114 Stat. 438][/us/stat/114/438], known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t7/s7701] and Tables.
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
@@ -106,6 +110,9 @@
 [/us/stat/122/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1343
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
+[/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

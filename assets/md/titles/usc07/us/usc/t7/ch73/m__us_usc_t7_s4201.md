@@ -87,27 +87,27 @@
 
 > “SEC. 1465. __SHORT TITLE, PURPOSE, AND DEFINITION.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This chapter may be cited as the ‘Farms for the Future Act of 1990’.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this chapter to promote a national farmland protection effort to preserve our vital farmland resources for future generations.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     As used in this chapter:
 
->         “(1) __Allowable interest rate.—__ 
+>         “(1)  __Allowable interest rate__  __.—__ 
 
 >         The term ‘allowable interest rate’ refers to the interest rate that the State trust fund pays on each eligible loan (including the interest paid by the State trust fund, State, or State agency on bonds or other obligations described in paragraph (2)).
 
->         “(2) __Eligible loan.—__ 
+>         “(2)  __Eligible loan__  __.—__ 
 
 >         The term ‘eligible loan’ means each loan made by lending institutions to each State trust fund, or to the State acting in conjunction with the State trust fund, to further the purposes of this chapter, and the proceeds from any issuance of obligations, or other bonded indebtedness, of any eligible State, the State trust fund, or any agency of an eligible State, except that no eligible loan shall bear an interest rate in excess of 10 percent per year.
 
->         “(3) __Eligible state.—__ 
+>         “(3)  __Eligible state__  __.—__ 
 
 >         The term ‘eligible State’ means—
 
@@ -121,23 +121,23 @@
 
 >                 “(ii) works in coordination with the governing bodies of counties, towns, townships, villages, or other units of general government below the State level, or with private nonprofit or public organizations, to assist in the preservation of farmland for agricultural purposes.
 
->         “(4) __Lending institution.—__ 
+>         “(4)  __Lending institution__  __.—__ 
 
 >         The term ‘lending institution’ means any Federal or State chartered bank, savings and loan association, cooperative lending agency, other legally organized lending agency, State government or agency, political subdivision of a State, or any nonprofit conservation organization.
 
->         “(5) __Program.—__ 
+>         “(5)  __Program__  __.—__ 
 
 >         The term ‘program’ means the farmland preservation program established under this chapter to be known as the ‘Agricultural Resource Conservation Demonstration Program’.
 
->         “(6) __Secretary.—__ 
+>         “(6)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Agriculture.
 
->         “(7) __State.—__ 
+>         “(7)  __State__  __.—__ 
 
 >         The term ‘State’ means any State of the United States, the Commonwealth of Puerto Rico, and the Virgin Islands of the United States.
 
->         “(8) __State trust fund.—__ 
+>         “(8)  __State trust fund__  __.—__ 
 
 >         The term ‘State trust fund’ means any trust fund or an account established by an eligible State, or other public instrumentality of the eligible State, where such eligible State is approved to participate by the Secretary in the program under application procedures set forth in section 1466(j) or 1468.
 
@@ -145,15 +145,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         The Secretary shall establish and implement a program, to be known as the ‘Agricultural Resource Conservation Demonstration Program’, to provide Federal guarantees and interest assistance for eligible loans described in section 1465(c)(2) made to, or issued for the benefit of, State trust funds.
 
->         “(2) __Assistance.—__ 
+>         “(2)  __Assistance__  __.—__ 
 
 >         Under the program the Secretary shall guarantee for a period of 10 years the timely payment of the principal amount and interest due on each eligible loan described in section 1465(c)(2) made to, or issued for the benefit of, State trust funds and shall for each such 10-year period subsidize the interest on such eligible loans at the allowable interest rate for the first 5 years after the loan is made, or issued, and at no less than 3 percentage points for the second 5 years under procedures described in subsection (b).
 
->     “(b) __Mandatory Assistance to Each State Trust Fund.—__ 
+>     “(b)  __Mandatory Assistance to Each State Trust Fund__  __.—__ 
 
 >     The Secretary shall—
 
@@ -165,27 +165,27 @@
 
 >     “(c) __Funding.—__ 
 
->         “(1) __Issuance of stock.—__ 
+>         “(1)  __Issuance of stock__  __.—__ 
 
 >         The Secretary of Agriculture shall make and issue stock, in the same manner as notes are issued under section 309(c) or 309A(d) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1929(c)][/us/usc/t7/s1929/c] or 1929a(d)), to the Secretary of the Treasury for the purpose of obtaining funds from the Secretary of the Treasury that are necessary for discharging the obligations of the Secretary of Agriculture under this chapter. The stock shall not pay dividends and shall not be redeemable.
 
->         “(2) __Purchase of stock.—__ 
+>         “(2)  __Purchase of stock__  __.—__ 
 
 >         The Secretary of the Treasury shall provide the funding necessary to implement this chapter. The Secretary of the Treasury shall purchase any stock of the Secretary of Agriculture issued to implement this chapter. The Secretary of the Treasury shall use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code. The purposes for which the securities may be issued under such chapter are extended to include the raising of funds to purchase stock issued by the Secretary of Agriculture to implement this chapter with respect to each eligible State. The Secretary of Agriculture shall make and issue such stock as is necessary to fund this chapter to the Secretary of the Treasury who shall promptly purchase the stock (within 60 days) being offered by the Secretary of Agriculture.
 
->         “(3) __Commodity credit corporation.—__ 
+>         “(3)  __Commodity credit corporation__  __.—__ 
 
 >         If the Secretary of Agriculture fails to issue stock as required under this chapter, or if funding is otherwise not provided as set forth in this chapter, for the eligible State described in section 1465(c)(3)(A), notwithstanding any other provision of law, the Secretary of Agriculture shall use the funds, services and facilities of the Commodity Credit Corporation to carry out the requirements of this chapter. The procedure described in paragraph (2) shall be used to reimburse the Corporation for funds expended to carry out this paragraph.
 
->     “(d) __Required Purchases of Stock.—__ 
+>     “(d)  __Required Purchases of Stock__  __.—__ 
 
 >     The Secretary shall promptly notify the Secretary of the Treasury, in writing, each time an application of an eligible State is approved by the Secretary under this chapter. The Secretary of the Treasury shall promptly purchase stock (within 60 days) offered by the Secretary under subsection (c) and the Secretary of Agriculture shall deposit the proceeds from each such sale of stock in accounts created to administer the program.
 
->     “(e) __Entitlements.—__ 
+>     “(e)  __Entitlements__  __.—__ 
 
 >     The Secretary is entitled to receive funds, and shall receive funds, from the Secretary of the Treasury in an amount equal to the total par-value of the stock issued to the Secretary of the Treasury. Each State trust fund is entitled to receive, and the Secretary of Agriculture shall promptly pay to each such trust fund, amounts calculated under procedures described in subsection (b).
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     Except regarding the eligible State described in section 1465(c)(3)(A), the Secretary shall promulgate proposed and final regulations, under the prior public comment provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code, setting forth—
 
@@ -203,13 +203,13 @@
 
 >         “(7) any other rules necessary and appropriate to carry out the program.
 
->     “(g) __Duration of Program.—__ 
+>     “(g)  __Duration of Program__  __.—__ 
 
 >     The program established under this chapter shall expire on September 30, 1996, except that any financial obligations of the Secretary shall continue to be met as required by this chapter.
 
 >     “(h) __Eligible Uses for Guaranteed Loan Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Funds from eligible loans (including proceeds from the sale of bonds or other obligations described in section 1465(c)(2)) guaranteed under this chapter, and any earnings of the State trust funds, may be used—
 
@@ -223,27 +223,27 @@
 
 >             “(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
->         “(2) __Collateral for loans.—__ 
+>         “(2)  __Collateral for loans__  __.—__ 
 
 >         To the extent consistent with relevant banking laws and practices, the investments or deposits described in paragraph (1)(E) may serve as collateral for loans made to, or on behalf of, the State trust fund.
 
->     “(i) __State Use of Guaranteed Loan Funds.—__ 
+>     “(i)  __State Use of Guaranteed Loan Funds__  __.—__ 
 
 >     The Secretary may issue regulations or procedures requiring each State trust fund to report to the Secretary regarding the uses of the eligible loans (described in section 1465(c)(2)) guaranteed by the Secretary and the Secretary may monitor the uses of the funds to ensure that the loans are used for purposes related to this chapter. Neither the Secretary or \[nor\] the lending institution shall have the power to require approval of each specific use of the loans guaranteed by the Secretary, the specific terms of each use of the loan funds, or the specific provisions of each purchase or investment made with loans guaranteed by the Secretary. The Secretary may require that each State trust fund provide a State farmland preservation plan of operation to the Secretary setting forth the plans for administering the program in the State and may require each State trust fund to periodically report to the Secretary on the purchases of interests in farmland and on other specific uses of the funds.
 
->     “(j) __Special Rules for the Pilot Project State.—__ 
+>     “(j)  __Special Rules for the Pilot Project State__  __.—__ 
 
 >     Notwithstanding any other provisions of this chapter, the following special rules shall apply to the eligible State described in section 1465(c)(3)(A):
 
->         “(1) __Provision of loan guarantee and interest assistance agreement.—__ 
+>         “(1)  __Provision of loan guarantee and interest assistance agreement__  __.—__ 
 
 >         Within 30 days of the date any State trust fund in the eligible State receives a commitment for each eligible loan from a lending institution, the Secretary shall provide the lending institution with the loan guarantee and the interest assistance agreement so that the lending institution may disburse the full amount of the loan proceeds to the State trust fund on the date of loan closing to carry out this program. After the loan closing, the lending institution shall have no obligation to monitor or approve the use of loan proceeds by the State trust fund.
 
->         “(2) __Approval of application.—__ 
+>         “(2)  __Approval of application__  __.—__ 
 
 >         The Secretary shall annually approve the completed application from the eligible State within 30 days after receipt if the application sets forth the general goals and policies of the State trust fund. The Secretary shall provide the Federal assistance required under this chapter beginning on the date the application or plan is approved.
 
->         “(3) __Amount of guarantees.—__ 
+>         “(3)  __Amount of guarantees__  __.—__ 
 
 >         The Secretary shall calculate the total amount of guarantees to be provided for fiscal year 1992 in an amount equal to double the sum of—
 
@@ -253,27 +253,27 @@
 
 >     “(k) __Miscellaneous Provisions.—__ 
 
->         “(1) __Operation.—__ 
+>         “(1)  __Operation__  __.—__ 
 
 >         Each State trust fund may operate through nonprofit corporations, municipalities, or other political subdivisions of States in carrying out the purposes of the program established in this chapter.
 
->         “(2) __Earnings.—__ 
+>         “(2)  __Earnings__  __.—__ 
 
 >         Earnings on funds of each State trust fund may be used for any purposes related to carrying out the operations of the trust fund in a manner not inconsistent with the requirements of this chapter or the farmland preservation plan.
 
 > “SEC. 1467. __FEDERAL ACCOUNTS AND COMPLIANCE.__ 
 
->     “(a) __Accounts.—__ 
+>     “(a)  __Accounts__  __.—__ 
 
 >     To carry out the purposes of this chapter, the Secretary may establish in the Treasury of the United States an account, to be known as the ‘Agricultural Resource Conservation Revolving Fund’ (hereafter referred to in this chapter as the ‘Fund’), for the use by the Secretary to meet the obligations of the Secretary under this chapter.
 
->     “(b) __Compliance.—__ 
+>     “(b)  __Compliance__  __.—__ 
 
 >     If the Secretary determines that any State trust fund is failing to comply, to a significant degree, with any requirements of this chapter, the Secretary shall report the failure to the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate, shall fully investigate the matter, may decline to provide additional Federal guarantees or interest subsidies to the State trust fund, and shall take other steps as may be appropriate to prevent the use of Federal assistance in a manner not consistent with this chapter.
 
 > “SEC. 1468. __APPLICATIONS AND ADMINISTRATION.__ 
 
->     “(a) __Applications.—__ 
+>     “(a)  __Applications__  __.—__ 
 
 >     In applying for assistance under this chapter an eligible State described in section 1465(c)(3)(B) shall—
 
@@ -283,25 +283,25 @@
 
 >         “(3) agree to comply with any other requirements set forth in agreements with the Secretary or as the Secretary may prescribe by regulation.
 
->     “(b) __Annual Applications.—__ 
+>     “(b)  __Annual Applications__  __.—__ 
 
 >     Eligible States described in section 1465(c)(3)(B) may apply for Federal assistance under this chapter on an annual basis. The Secretary shall approve or disapprove each application for assistance, and notify the applicant of the action not later than 30 days after receipt of a complete application.
 
 >     “(c) __Match and Maximum Amount.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total amount of any guarantees provided by the Secretary under this program for each eligible State shall equal an amount that is equal to double the amount that is, or shall be, made available to the trust fund (including matching funds described in paragraphs (2) through (4)) in each such eligible State by the State, political subdivisions thereof, charitable organizations, private persons, or any other entity, for acquiring interests in land to protect and preserve important farmlands for future agricultural use but in no event shall the total Federal share exceed $10,000,000 in any fiscal year for any given State.
 
->         “(2) __Earnings.—__ 
+>         “(2)  __Earnings__  __.—__ 
 
 >         Earnings of the State trust fund and funds expended by the State or the State trust fund prior to loan closing for purposes consistent with this chapter, and in the same fiscal year, may be considered as matching funds.
 
->         “(3) __Obligations.—__ 
+>         “(3)  __Obligations__  __.—__ 
 
 >         Proceeds from the sale of tax-exempt general obligation bonds, or other obligations, of the State or State trust fund shall be an allowable source of matching funds under this chapter for the same fiscal year.
 
->         “(4) __Land.—__ 
+>         “(4)  __Land__  __.—__ 
 
 >         The fair market value of any donation of an interest in land to the State trust fund, or a charitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
 
@@ -311,7 +311,7 @@
 
 >             except that the value of land donated to charitable organizations by the State trust fund shall not be included as part of the match.
 
->     “(d) __Clarification of Federal Law.—__ 
+>     “(d)  __Clarification of Federal Law__  __.—__ 
 
 >     Sellers of land, or of interests in land, to any State trust fund are not, and shall not be considered by the Secretary as, recipients or beneficiaries of Federal assistance.
 
@@ -321,11 +321,11 @@
 
 > “SEC. 1470. __IMPLEMENTATION AND EFFECTIVE DATE.__ 
 
->     “(a) __In general.—__ 
+>     “(a)  __In general__  __.—__ 
 
 >     This chapter shall become effective on October 1, 1990. Not later than December 30, 1990, the Secretary shall enter into an agreement with the State of Vermont to provide Federal assistance under this chapter to the State.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than December 31, 1991, the Secretary of Agriculture shall publish in the Federal Register interim final regulations to implement this chapter. The regulations shall not require each State’s program to give a priority to the acquisition of land, or interests in land, that is subject to significant urban pressure.
 

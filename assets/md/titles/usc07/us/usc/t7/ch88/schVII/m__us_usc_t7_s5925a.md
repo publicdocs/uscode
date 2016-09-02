@@ -111,15 +111,15 @@
 
 [Pub. L. 107–171, title VII, § 7411][/us/pl/107/171/s7411], May 13, 2002, [116 Stat. 462][/us/stat/116/462], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Agriculture\] may conduct a study to evaluate nutrient banking for the purpose of enhancing the health and viability of watersheds in areas with large concentrations of animal producing units.
 
->     “(b) __Components.—__ 
+>     “(b)  __Components__  __.—__ 
 
 >     In conducting any study under subsection (a), the Secretary shall evaluate the costs, needs, and means by which litter may be collected and distributed outside the applicable watershed to reduce potential point source and nonpoint source phosphorous pollution.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of any study conducted under subsection (a).”
 

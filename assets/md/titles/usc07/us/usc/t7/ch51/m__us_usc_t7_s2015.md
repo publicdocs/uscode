@@ -87,7 +87,7 @@
 
             (D) __Frequency of reporting.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in subparagraphs (A) and (C), a State agency may require households that report on a periodic basis to submit reports—
 
@@ -95,7 +95,7 @@
 
                     (II) not more often than once each month.
 
-                (ii) __Reporting by households with excess income.—__ 
+                (ii)  __Reporting by households with excess income__  __.—__ 
 
                 A household required to report less often than once each 3 months shall, notwithstanding subparagraph (B), report in a manner prescribed by the Secretary if the income of the household for any month exceeds the income standard of eligibility established under [section 2014(c)(2) of this title][/us/usc/t7/s2014/c/2].
 
@@ -109,9 +109,9 @@
 
     (d) __Conditions of participation__ 
 
-        (1) __Work requirements.—__ 
+        (1)  __Work requirements__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             No physically and mentally fit individual over the age of 15 and under the age of 60 shall be eligible to participate in the supplemental nutrition assistance program if the individual—
 
@@ -139,7 +139,7 @@
 
                 (vi) fails to comply with [section 2029 of this title][/us/usc/t7/s2029].
 
-            (B) __Household ineligibility.—__ 
+            (B)  __Household ineligibility__  __.—__ 
 
             If an individual who is the head of a household becomes ineligible to participate in the supplemental nutrition assistance program under subparagraph (A), the household shall, at the option of the State agency, become ineligible to participate in the supplemental nutrition assistance program for a period, determined by the State agency, that does not exceed the lesser of—
 
@@ -149,7 +149,7 @@
 
             (C) __Duration of ineligibility.—__ 
 
-                (i) __First violation.—__ 
+                (i)  __First violation__  __.—__ 
 
                 The first time that an individual becomes ineligible to participate in the supplemental nutrition assistance program under subparagraph (A), the individual shall remain ineligible until the later of—
 
@@ -159,7 +159,7 @@
 
                     (III) a date determined by the State agency that is not later than 3 months after the date the individual became ineligible.
 
-                (ii) __Second violation.—__ 
+                (ii)  __Second violation__  __.—__ 
 
                 The second time that an individual becomes ineligible to participate in the supplemental nutrition assistance program under subparagraph (A), the individual shall remain ineligible until the later of—
 
@@ -169,7 +169,7 @@
 
                     (III) a date determined by the State agency that is not later than 6 months after the date the individual became ineligible.
 
-                (iii) __Third or subsequent violation.—__ 
+                (iii)  __Third or subsequent violation__  __.—__ 
 
                 The third or subsequent time that an individual becomes ineligible to participate in the supplemental nutrition assistance program under subparagraph (A), the individual shall remain ineligible until the later of—
 
@@ -183,17 +183,17 @@
 
             (D) __Administration.—__ 
 
-                (i) __Good cause.—__ 
+                (i)  __Good cause__  __.—__ 
 
                 The Secretary shall determine the meaning of good cause for the purpose of this paragraph.
 
-                (ii) __Voluntary quit.—__ 
+                (ii)  __Voluntary quit__  __.—__ 
 
                 The Secretary shall determine the meaning of voluntarily quitting and reducing work effort for the purpose of this paragraph.
 
                 (iii) __Determination by state agency.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (II) and clauses (i) and (ii), a State agency shall determine—
 
@@ -203,25 +203,25 @@
 
                         (cc) whether an individual is in compliance with a requirement under subparagraph (A).
 
-                    (II) __Not less restrictive.—__ 
+                    (II)  __Not less restrictive__  __.—__ 
 
                     A State agency may not use a meaning, procedure, or determination under subclause (I) that is less restrictive on individuals receiving benefits under this chapter than a comparable meaning, procedure, or determination under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.).
 
-                (iv) __Strike against the government.—__ 
+                (iv)  __Strike against the government__  __.—__ 
 
                 For the purpose of subparagraph (A)(v), an employee of the Federal Government, a State, or a political subdivision of a State, who is dismissed for participating in a strike against the Federal Government, the State, or the political subdivision of the State shall be considered to have voluntarily quit without good cause.
 
                 (v) __Selecting a head of household.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     For purposes of this paragraph, the State agency shall allow the household to select any adult parent of a child in the household as the head of the household if all adult household members making application under the supplemental nutrition assistance program agree to the selection.
 
-                    (II) __Time for making designation.—__ 
+                    (II)  __Time for making designation__  __.—__ 
 
                     A household may designate the head of the household under subclause (I) each time the household is certified for participation in the supplemental nutrition assistance program, but may not change the designation during a certification period unless there is a change in the composition of the household.
 
-                (vi) __Change in head of household.—__ 
+                (vi)  __Change in head of household__  __.—__ 
 
                 If the head of a household leaves the household during a period in which the household is ineligible to participate in the supplemental nutrition assistance program under subparagraph (B)—
 
@@ -237,11 +237,11 @@
 
             (A) __In general.—__ 
 
-                (i) __Implementation.—__ 
+                (i)  __Implementation__  __.—__ 
 
                 Each State agency shall implement an employment and training program designed by the State agency and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will increase their ability to obtain regular employment.
 
-                (ii) __Statewide workforce development system.—__ 
+                (ii)  __Statewide workforce development system__  __.—__ 
 
                 Each component of an employment and training program carried out under this paragraph shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
 
@@ -317,7 +317,7 @@
 
             (J) The Secretary shall promulgate guidelines that (i) enable State agencies, to the maximum extent practicable, to design and operate an employment and training program that is compatible and consistent with similar programs operated within the State, and (ii) ensure, to the maximum extent practicable, that employment and training programs are provided for Indians on reservations.
 
-            (K) __Limitation on funding.—__ 
+            (K)  __Limitation on funding__  __.—__ 
 
             Notwithstanding any other provision of this paragraph, the amount of funds a State agency uses to carry out this paragraph (including funds used to carry out subparagraph (I)) for participants who are receiving benefits under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) shall not exceed the amount of funds the State agency used in fiscal year 1995 to carry out this paragraph for participants who were receiving benefits in fiscal year 1995 under a State program funded under part A of title IV of the Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.).
 

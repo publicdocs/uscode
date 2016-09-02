@@ -481,11 +481,11 @@
 
         (M) __Minimum Milk Prices for Handlers.—__ 
 
-            (i) __Application of minimum price requirements.—__ 
+            (i)  __Application of minimum price requirements__  __.—__ 
 
             Notwithstanding any other provision of this section, a milk handler described in clause (ii) shall be subject to all of the minimum and uniform price requirements of a Federal milk marketing order issued pursuant to this section applicable to the county in which the plant of the handler is located, at Federal order class prices, if the handler has packaged fluid milk product route dispositions, or sales of packaged fluid milk products to other plants, in a marketing area located in a State that requires handlers to pay minimum prices for raw milk purchases.
 
-            (ii) __Covered milk handlers.—__ 
+            (ii)  __Covered milk handlers__  __.—__ 
 
             Except as provided in clause (iv), clause (i) applies to a handler of Class I milk products (including a producer-handler or producer operating as a handler) that—
 
@@ -515,11 +515,11 @@
 
                     (bb) less than 25 percent in aggregate of the route disposition or transfers are in a marketing area or areas located in one or more States that require handlers to pay minimum prices for raw milk purchases.
 
-        (N) __Exemption for Certain Milk Handlers.—__ 
+        (N)  __Exemption for Certain Milk Handlers__  __.—__ 
 
         Notwithstanding any other provision of this section, no handler with distribution of Class I milk products in the marketing area described in Order No. 131 shall be exempt during any month from any minimum price requirement established by the Secretary under this subsection if the total distribution of Class I products during the preceding month of any such handler’s own farm production exceeds 3,000,000 pounds.
 
-        (O) __Rule of Construction Regarding Producer-Handlers.—__ 
+        (O)  __Rule of Construction Regarding Producer-Handlers__  __.—__ 
 
         Subparagraphs (M) and (N) shall not be construed as affecting, expanding, or contracting the treatment of producer-handlers under this subsection except as provided in such subparagraphs.
 
@@ -1009,21 +1009,21 @@
 
 [Pub. L. 110–234, title X, § 10108][/us/pl/110/234/s10108], May 22, 2008, [122 Stat. 1338][/us/stat/122/1338], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10108, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Agriculture\] shall initiate procedures under the Agricultural Adjustment Act ([7 U.S.C. 601][/us/usc/t7/s601] et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to determine whether it would be appropriate to establish a Federal marketing order for Hass avocados relating to grades and standards and for other purposes under that Act.
 
 >     “(b) __Expedited Procedures.—__ 
 
->         “(1) __Proposal for an order.—__ 
+>         “(1)  __Proposal for an order__  __.—__ 
 
 >         An organization of domestic avocado producers in existence on the date of enactment of this Act \[June 18, 2008\] may request the issuance of, and submit to the Secretary a proposal for, an order described in subsection (a).
 
->         “(2) __Publication of proposal.—__ 
+>         “(2)  __Publication of proposal__  __.—__ 
 
 >         Not later than 60 days after the date on which the Secretary receives a proposed order under paragraph (1), the Secretary shall initiate procedures described in subsection (a) to determine whether the proposed order should proceed.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     Any order issued under this section shall become effective not later than 15 months after the date on which the Secretary initiates procedures under the Agricultural Adjustment Act ([7 U.S.C. 601][/us/usc/t7/s601] et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937.”
 
@@ -1057,11 +1057,11 @@
 
 [Pub. L. 99–260, § 9][/us/pl/99/260/s9], Mar. 20, 1986, [100 Stat. 51][/us/stat/100/51], provided that:
 
->     “(a) __Hearing.—__ 
+>     “(a)  __Hearing__  __.—__ 
 
 >     Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 ([7 U.S.C. 608c(5)(J)][/us/usc/t7/s608c/5/J]) (as added by section 133 of the Food Security Act of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Not later than 120 days after a hearing is conducted under subsection (a), the Secretary shall implement, in accordance with the Agricultural Adjustment Act \[this chapter\], a marketwide service payment program under section 8c(5)(J) of such Act that meets the requirements of such Act.”
 

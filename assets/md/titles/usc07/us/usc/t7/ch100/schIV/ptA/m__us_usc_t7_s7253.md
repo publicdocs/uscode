@@ -83,23 +83,23 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 1\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–517, provided that:
 
->     “(a) __Final Rule Defined.—__ 
+>     “(a)  __Final Rule Defined__  __.—__ 
 
 >     In this section, the term ‘final rule’ means the final rule for the consolidation and reform of Federal milk marketing orders that was published in the Federal Register on September 1, 1999 (64 Fed. Reg. 47897–48021), to comply with section 143 of the Federal Agriculture Improvement and Reform Act of 1996 ([7 U.S.C. 7253][/us/usc/t7/s7253]).
 
->     “(b) __Implementation of Final Rule for Milk Order Reform.—__ 
+>     “(b)  __Implementation of Final Rule for Milk Order Reform__  __.—__ 
 
 >     Subject to subsection (c), the final rule shall take effect, and be implemented by the Secretary of Agriculture, on the first day of the first month beginning at least 30 days after the date of the enactment of this Act \[Nov. 29, 1999\].
 
->     “(c) __Use of Option 1A for Pricing Class I Milk.—__ 
+>     “(c)  __Use of Option__  __1A__  __for Pricing Class I Milk__  __.—__ 
 
 >     In lieu of the Class I price differentials specified in the final rule, the Secretary of Agriculture shall price fluid or Class I milk under the Federal milk marketing orders using the Class I price differentials identified as Option 1A ‘Location-Specific Differentials Analysis’ in the proposed rule published in the Federal Register on January 30, 1998 (63 Fed. Reg. 4802, 4809), except that the Secretary shall include the corrections and modifications to such Class I differentials made by the Secretary through April 2, 1999.
 
->     “(d) __Effect of Prior Announcement of Minimum Prices.—__ 
+>     “(d)  __Effect of Prior Announcement of Minimum Prices__  __.—__ 
 
 >     If the Secretary of Agriculture announces minimum prices for milk under Federal milk marketing orders pursuant to section 1000.50 of title 7, Code of Federal Regulations, before the effective date specified in subsection (b), the minimum prices so announced before that date shall be the only applicable minimum prices under Federal milk marketing orders for the month or months for which the prices have been announced.
 
->     “(e) __Implementation of Requirement.—__ 
+>     “(e)  __Implementation of Requirement__  __.—__ 
 
 >     The implementation of the final rule, as modified by subsection (c), shall not be subject to any of the following:
 
@@ -117,27 +117,27 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(8)][/us/pl/106/113/s1000/a/8] \[§ 2\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–518, provided that:
 
->     “(a) __Congressional Finding.—__ 
+>     “(a)  __Congressional Finding__  __.—__ 
 
 >     The Class III and Class IV milk pricing formulas included in the final decision for the consolidation and reform of Federal milk marketing orders, as published in the Federal Register on April 2, 1999 (64 Fed. Reg. 16025), do not adequately reflect public comment on the original proposed rule published in the Federal Register on January 30, 1998 (63 Fed. Reg. 4802), and are sufficiently different from the proposed rule and any comments submitted with regard to the proposed rule that further emergency rulemaking is merited.
 
->     “(b) __Rulemaking Required.—__ 
+>     “(b)  __Rulemaking Required__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct rulemaking, on the record after an opportunity for an agency hearing, to reconsider the Class III and Class IV milk pricing formulas included in the final rule for the consolidation and reform of Federal milk marketing orders that was published in the Federal Register on September 1, 1999 (64 Fed. Reg. 47897–48021).
 
->     “(c) __Time Period for Rulemaking.—__ 
+>     “(c)  __Time Period for Rulemaking__  __.—__ 
 
 >     On December 1, 2000, the Secretary of Agriculture shall publish in the Federal Register a final decision on the Class III and Class IV milk pricing formulas. The resulting formulas shall take effect, and be implemented by the Secretary, on January 1, 2001.
 
->     “(d) __Effect of Court Order.—__ 
+>     “(d)  __Effect of Court Order__  __.—__ 
 
 >     The actions authorized by subsections (b) and (c) are intended to ensure the timely publication and implementation of new pricing formulas for Class III and Class IV milk. In the event that the Secretary of Agriculture is enjoined or otherwise restrained by a court order from implementing a final decision within the time period specified in subsection (c), the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in subsection (c) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
 
->     “(e) __Failure To Timely Complete Rulemaking.—__ 
+>     “(e)  __Failure To Timely Complete Rulemaking__  __.—__ 
 
 >     If the Secretary of Agriculture fails to implement new Class III and Class IV milk pricing formulas within the time period required under subsection (c) (plus any additional period provided under subsection (d)), the Secretary may not assess or collect assessments from milk producers or handlers under section 8c of the Agricultural Adjustment Act ([7 U.S.C. 608c][/us/usc/t7/s608c]), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, for marketing order administration and services provided under such section after the end of that period until the pricing formulas are implemented. The Secretary may not reduce the level of services provided under that section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
->     “(f) __Implementation of Requirement.—__ 
+>     “(f)  __Implementation of Requirement__  __.—__ 
 
 >     The implementation of the final decision on new Class III and Class IV milk pricing formulas shall not be subject to congressional review under chapter 8 of title 5, United States Code.”
 

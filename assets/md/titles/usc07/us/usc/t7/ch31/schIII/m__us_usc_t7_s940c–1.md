@@ -147,11 +147,11 @@
 
 [Pub. L. 107–171, title VI, § 6101(b)][/us/pl/107/171/s6101/b], May 13, 2002, [116 Stat. 415][/us/stat/116/415], provided that:
 
->     “(1) __Regulations.—__ 
+>     “(1)  __Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall promulgate regulations to carry out the amendments made by this section \[enacting this section\].
 
->     “(2) __Implementation.—__ 
+>     “(2)  __Implementation__  __.—__ 
 
 >     Not later than 240 days after the date of enactment of this Act \[May 13, 2002\], the Secretary shall implement the amendment made by this section \[enacting this section\].”
 

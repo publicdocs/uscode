@@ -297,11 +297,11 @@
 
 [Pub. L. 107–171, title VI, § 6103(b)][/us/pl/107/171/s6103/b], May 13, 2002, [116 Stat. 418][/us/stat/116/418], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) \[enacting this section\].
 
->     “(2) __Procedure.—__ 
+>     “(2)  __Procedure__  __.—__ 
 
 >     The promulgation of the regulations shall be made without regard to—
 
@@ -311,7 +311,7 @@
 
 >         “(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
 
->     “(3) __Congressional review of agency rulemaking.—__ 
+>     “(3)  __Congressional review of agency rulemaking__  __.—__ 
 
 >     In carrying out this subsection, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808], United States Code.”
 

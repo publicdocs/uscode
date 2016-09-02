@@ -143,11 +143,11 @@
 
 [Pub. L. 100–532, title V, § 501(b)][/us/pl/100/532/s501/b], Oct. 25, 1988, [102 Stat. 2676][/us/stat/102/2676], provided that:
 
->     “(1) __Source.—__ 
+>     “(1)  __Source__  __.—__ 
 
 >     Any obligation of the Administrator to pay an indemnity arising under section 15 \[this section\], as it existed prior to the effective date of the amendment made by this section \[see Effective Date of 1988 Amendment note above\], shall be made from the appropriation provided under [section 1304 of title 31][/us/usc/t31/s1304], United States Code.
 
->     “(2) __Administrative settlement.—__ 
+>     “(2)  __Administrative settlement__  __.—__ 
 
 >     An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of [section 2414 of title 28][/us/usc/t28/s2414], United States Code, and shall be regarded as if it were made under that section for purposes of [section 1304 of title 31][/us/usc/t31/s1304], United States Code.”
 

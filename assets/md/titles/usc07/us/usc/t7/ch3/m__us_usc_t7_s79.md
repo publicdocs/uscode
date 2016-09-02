@@ -75,7 +75,7 @@
 
             (B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
 
-        (2) __Geographic boundaries for official agencies.—__ 
+        (2)  __Geographic boundaries for official agencies__  __.—__ 
 
         Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) of this section to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title][/us/usc/t7/s74], the Secretary may—
 

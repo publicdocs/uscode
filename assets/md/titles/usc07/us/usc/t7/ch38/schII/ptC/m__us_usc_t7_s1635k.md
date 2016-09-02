@@ -29,13 +29,13 @@
 
 [Pub. L. 111–239, § 2(b)(2)][/us/pl/111/239/s2/b/2]–(4), Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that:
 
->     “(2) __Negotiated rulemaking.—__ 
+>     “(2)  __Negotiated rulemaking__  __.—__ 
 
 >     The Secretary of Agriculture shall establish a negotiated rulemaking process pursuant to subchapter III of chapter 5 of title 5, United States Code, to negotiate and develop a proposed rule to implement the amendment made by paragraph (1) \[enacting this section\].
 
 >     “(3) __Negotiated rulemaking committee.—__ 
 
->         “(A) __Representation.—__ 
+>         “(A)  __Representation__  __.—__ 
 
 >         Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall include representatives from—
 
@@ -47,11 +47,11 @@
 
 >             “(iv) among interested parties that participate in swine or pork production.
 
->         “(B) __Inapplicability of federal advisory committee act.—__ 
+>         “(B)  __Inapplicability of federal advisory committee act__  __.—__ 
 
 >         Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
->     “(4) __Timing of proposed and final rules.—__ 
+>     “(4)  __Timing of proposed and final rules__  __.—__ 
 
 >     In carrying out the negotiated rulemaking process under paragraph (2), the Secretary of Agriculture shall ensure that—
 

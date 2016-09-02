@@ -79,7 +79,7 @@
 
 [Pub. L. 100–173, § 11][/us/pl/100/173/s11], Nov. 23, 1987, [101 Stat. 922][/us/stat/101/922], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The amendments made by this Act \[see Short Title of 1987 Amendment note set out under [section 181 of this title][/us/usc/t7/s181]\] to the Packers and Stockyards Act, 1921 \[[7 U.S.C. 181][/us/usc/t7/s181] et seq.\], shall not be construed to limit or otherwise affect the power or jurisdiction of the Federal Trade Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] to prevent the use of—
 
@@ -89,7 +89,7 @@
 
 >         involving poultry products.
 
->     “(b) __Secretary’s Authority.—__ 
+>     “(b)  __Secretary’s Authority__  __.—__ 
 
 >     Subsection (a) shall not be construed to limit or otherwise affect the authority of the Secretary of Agriculture under section 406(e), as amended, of the Packers and Stockyards Act, 1921 \[[7 U.S.C. 227(e)][/us/usc/t7/s227/e]\].”
 

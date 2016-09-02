@@ -67,7 +67,7 @@
 
     (e) __Exclusion of certain amounts from contract payments__ 
 
-        Any amount added pursuant to paragraphs (1) and (2) of subsection (c) of this section to the amount available under subsection (a) of this section for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of [section 7215 of this title][/us/usc/t7/s7215] or section 1308(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in text below. </sup></sup>  of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
+        Any amount added pursuant to paragraphs (1) and (2) of subsection (c) of this section to the amount available under subsection (a) of this section for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of [section 7215 of this title][/us/usc/t7/s7215] or section 1308(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in text note below. </sup></sup>  of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
 
     (f) __Effect of payment limitation__ 
 

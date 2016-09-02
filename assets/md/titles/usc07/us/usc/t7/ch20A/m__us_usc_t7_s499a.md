@@ -141,11 +141,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Agriculture shall conduct a study to determine the state of the domestic fruit and vegetable industry. In conducting such study, the Secretary of Agriculture shall consult with such agencies or departments, as determined necessary by the Secretary of Agriculture, including the Environmental Protection Agency, the Department of Health and Human Services, the Department of Commerce, the Department of Labor, and the Department of Education.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The study conducted under paragraph (1) shall include—
 
@@ -161,7 +161,7 @@
 
 >             “(F) a review of Federal educational programs that teach the importance of fruits and vegetables to a proper diet.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this title \[Nov. 28, 1990\], the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the results of the study described in subsection (a). Such report shall include—
 
@@ -171,37 +171,37 @@
 
 > “SEC. 1305. __COUNTRY OF ORIGIN LABELING PROGRAMS.__ 
 
->     “(a) __Grown in the U.__ 
+>     “(a)  __Grown in the U.S. Program__  __.—__ 
 
->     S. Program.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall implement a program defining the conditions under which non-perishable agricultural products may be designated as ‘grown in the U.S.’.
+>     The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall implement a program defining the conditions under which non-perishable agricultural products may be designated as ‘grown in the U.S.’.
 
 >     “(b) __Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall implement a 2-year pilot program during which time perishable agricultural products (fresh fruits and vegetables) are labeled or marked as to their country of origin. This program shall be conducted nationwide. After the 2-year period, the Secretary shall conduct a study to determine the results of the program. The Secretary shall submit to the Congress the results of the study within 18 months from the date of completion of the program.
 
 >         “(2) __Details of the pilot program.—__ 
 
->             “(A) __Designation of country of origin.—__ 
+>             “(A)  __Designation of country of origin__  __.—__ 
 
 >             The program shall require that the country of origin of perishable agricultural products be indicated on any such products or on the package, display, holding unit, or bin by means of a label, stamp, mark, placard, or other clear and visible indication at the point of sale by any commission merchant, dealer, broker, or grocer. A sign near the products shall be an acceptable indication of the country of origin.
 
 >             “(B) __Application of program.—__ 
 
->                 “(i) __Imported and domestic products.—__ 
+>                 “(i)  __Imported and domestic products__  __.—__ 
 
 >                 The program shall apply to imported and domestic perishable agricultural products (including fresh fruits and vegetables).
 
->                 “(ii) __Imported perishable agricultural products.—__ 
+>                 “(ii)  __Imported perishable agricultural products__  __.—__ 
 
 >                 The labeling program shall apply to imported perishable agricultural products that enter the United States marked as to the country of origin and that are in compliance with section 304(a) of the Tariff Act of 1930 \[[19 U.S.C. 1304(a)][/us/usc/t19/s1304/a]\].
 
->             “(C) __Exemptions.—__ 
+>             “(C)  __Exemptions__  __.—__ 
 
 >             The Secretary may provide for exemptions for products that are exempted, under section 304(a)(3)(J) of the Tariff Act of 1930, from the country of origin marking requirements of that Act \[[19 U.S.C. 1202][/us/usc/t19/s1202] et seq.\].
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section.”
 

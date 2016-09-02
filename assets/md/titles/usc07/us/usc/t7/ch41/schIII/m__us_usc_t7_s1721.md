@@ -95,7 +95,7 @@
 
 [Pub. L. 105–385, title II, § 201][/us/pl/105/385/s201], Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], as amended by [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(D), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In providing nonemergency assistance under title II of the Food for Peace Act ([7 U.S.C. 1721][/us/usc/t7/s1721] et seq.), the Administrator of the United States Agency for International Development shall ensure that—
 
@@ -105,7 +105,7 @@
 
 >         “(3) greater flexibility is provided for program and evaluation plans so that such assistance may be developed to meet local needs, as provided for in section 202(f) of such Act ([7 U.S.C. 1722(f)][/us/usc/t7/s1722/f]).
 
->     “(b) __Other Requirements.—__ 
+>     “(b)  __Other Requirements__  __.—__ 
 
 >     In providing assistance under the Food for Peace Act \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act ([7 U.S.C. 1733(a)][/us/usc/t7/s1733/a] and (b)).”
 

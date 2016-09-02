@@ -45,19 +45,19 @@
 
 [Pub. L. 107–171, title III, § 3208][/us/pl/107/171/s3208], May 13, 2002, [116 Stat. 302][/us/stat/116/302], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture, and the Committee on International Relations \[now Committee on Foreign Affairs\], of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the feasibility of instituting a program under which the Secretary would charge and retain a fee to cover the costs incurred by the Department of Agriculture, acting through the Foreign Agricultural Service or any successor agency, in providing persons with commercial services provided outside the United States.
 
->     “(b) __Purpose of Program.—__ 
+>     “(b)  __Purpose of Program__  __.—__ 
 
 >     The purpose of a program described in subsection (a) would be to supplement and not replace any services currently offered overseas by the Foreign Agricultural Service.
 
->     “(c) __Market Development Strategy.—__ 
+>     “(c)  __Market Development Strategy__  __.—__ 
 
 >     A program under subsection (b) would be part of an overall market development strategy for a particular country or region.
 
->     “(d) __Pilot Program.—__ 
+>     “(d)  __Pilot Program__  __.—__ 
 
 >     A program under subsection (a) would be established on a pilot basis to ensure that the program does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting.”
 

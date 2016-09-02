@@ -69,11 +69,11 @@
 
             (B) a lender may charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan.
 
-        (4) __Maximum guarantee of 90 percent.—__ 
+        (4)  __Maximum guarantee of 90 percent__  __.—__ 
 
         Except as provided in paragraphs (5), (6), and (7), a loan guarantee under this chapter shall be for not more than 90 percent of the principal and interest due on the loan.
 
-        (5) __Refinanced loans guaranteed at 95 percent.—__ 
+        (5)  __Refinanced loans guaranteed at 95 percent__  __.—__ 
 
         The Secretary shall guarantee 95 percent of—
 
@@ -81,7 +81,7 @@
 
             (B) in the case of a loan that is used for multiple purposes, the portion of the loan that refinances the principal and interest due on a direct loan made under this chapter that is outstanding on the date the loan is guaranteed.
 
-        (6) __Beginning farmer loans guaranteed up to 95 percent.—__ 
+        (6)  __Beginning farmer loans guaranteed up to 95 percent__  __.—__ 
 
         The Secretary may guarantee not more than 95 percent of—
 
@@ -89,7 +89,7 @@
 
             (B) an operating loan to a borrower who is participating in the down payment loan program under [section 1935 of this title][/us/usc/t7/s1935] that is made during the period that the borrower has a direct loan outstanding under this subchapter for acquiring a farm or ranch.
 
-        (7) __Amount of guarantee of loans for farm operations on tribal lands.—__ 
+        (7)  __Amount of guarantee of loans for farm operations on tribal lands__  __.—__ 
 
         In the case of an operating loan made to a farmer or rancher whose farm or ranch land is subject to the jurisdiction of an Indian tribe and whose loan is secured by 1 or more security instruments that are subject to the jurisdiction of an Indian tribe, the Secretary shall guarantee 95 percent of the loan.
 
@@ -185,7 +185,7 @@
 
 [Pub. L. 102–554, § 5(b)][/us/pl/102/554/s5/b], Oct. 28, 1992, [106 Stat. 4143][/us/stat/106/4143], as amended by [Pub. L. 110–234, title VII, § 7511(c)(4)][/us/pl/110/234/s7511/c/4], May 22, 2008, [122 Stat. 1267][/us/stat/122/1267]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2029, provided that:
 
->     “(1) __Establishment; purpose.—__ 
+>     “(1)  __Establishment; purpose__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Beginning Farmers and Ranchers’, which shall provide advice to the Secretary on—
 
@@ -199,7 +199,7 @@
 
 >         “(E) other methods of creating new farming or ranching opportunities.
 
->     “(2) __Membership.—__ 
+>     “(2)  __Membership__  __.—__ 
 
 >     The Secretary shall appoint the members of the Advisory Committee. The Advisory Committee shall include representatives from the following:
 

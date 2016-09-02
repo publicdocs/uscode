@@ -121,17 +121,17 @@
 
 [Pub. L. 103–349, § 14][/us/pl/103/349/s14], Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section, any variety for which a certificate of plant variety protection has been issued prior to the effective date of this Act \[see Effective Date of 1994 Amendment note above\], and any variety for which an application is pending on the effective date of this Act, shall continue to be governed by the Plant Variety Protection Act ([7 U.S.C. 2321][/us/usc/t7/s2321] et seq.), as in effect on the day before the effective date of this Act.
 
 >     “(b) __Applications Refiled.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An applicant may refile a pending application on or after the effective date of this Act \[see Effective Date of 1994 Amendment note above\].
 
->         “(2) __Effect of refiling.—__ 
+>         “(2)  __Effect of refiling__  __.—__ 
 
 >         If a pending application is refiled on or after the effective date of this Act—
 
@@ -141,11 +141,11 @@
 
 >     “(c) __Labeling.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To obtain the protection provided to an owner of a protected variety under the Plant Variety Protection Act ([7 U.S.C. 2321][/us/usc/t7/s2321] et seq.) (as amended by this Act), a notice given by an owner concerning the variety under section 127 of the Plant Variety Protection Act ([7 U.S.C. 2567][/us/usc/t7/s2567]) shall state that the variety is protected under such Act (as amended by this Act).
 
->         “(2) __Sanctions.—__ 
+>         “(2)  __Sanctions__  __.—__ 
 
 >         Any person that makes a false or misleading statement or claim, or uses a false or misleading label, concerning protection described in paragraph (1) shall be subject to the sanctions described in section 128 of the Plant Variety Protection Act ([7 U.S.C. 2568][/us/usc/t7/s2568]).”
 

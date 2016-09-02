@@ -309,17 +309,17 @@
 
 [Pub. L. 105–185, title V, § 536][/us/pl/105/185/s536], June 23, 1998, [112 Stat. 584][/us/stat/112/584], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘approved insurance provider’ and ‘Corporation’ have the meanings given the terms in section 502(b) of the Federal Crop Insurance Act ([7 U.S.C. 1502(b)][/us/usc/t7/s1502/b]).
 
 >     “(b) __Terms and Conditions.—__ 
 
->         “(1) __Incorporation of amendments.—__ 
+>         “(1)  __Incorporation of amendments__  __.—__ 
 
 >         For each of the 1999 and subsequent reinsurance years, the Corporation shall ensure that each Standard Reinsurance Agreement between an approved insurance provider and the Corporation reflects the amendments to the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.) that are made by this subtitle \[see Effective Date of 1998 Amendment note above\] to the extent the amendments are applicable to approved insurance providers.
 
->         “(2) __Retention of existing provisions.—__ 
+>         “(2)  __Retention of existing provisions__  __.—__ 
 
 >         Except to the extent necessary to implement the amendments made by this subtitle, each Standard Reinsurance Agreement described in paragraph (1) shall contain the following provisions of the Standard Reinsurance Agreement for the 1998 reinsurance year:
 
@@ -333,7 +333,7 @@
 
 >             “(E) Section V.I.5., concerning liquidated damages.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     To implement this subtitle and the amendments made by this subtitle, the Corporation is not required to amend provisions of the Standard Reinsurance Agreement not specifically affected by this subtitle or an amendment made by this subtitle.”
 
@@ -341,19 +341,19 @@
 
 [Pub. L. 103–354, title I, § 118][/us/pl/103/354/s118], Oct. 13, 1994, [108 Stat. 3205][/us/stat/108/3205], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the ‘Corporation’) shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.).
 
->     “(b) __Collection of Information and Proposals.—__ 
+>     “(b)  __Collection of Information and Proposals__  __.—__ 
 
 >     The Corporation shall require private insurance providers and agents to supply, and the private insurance providers and agents shall supply, records and information necessary to make the determinations and evaluations required under this section. The Corporation shall solicit from the approved insurance providers and agents proposals for modifying or altering the requirements, regulations, procedures, and processes related to implementing the Federal Crop Insurance Act to reduce the operating and administrative costs of the providers and agents.
 
->     “(c) __Initial Report.—__ 
+>     “(c)  __Initial Report__  __.—__ 
 
 >     Not later than 180 days after receipt of information and cost-reduction proposals under subsection (b), the Corporation shall evaluate the information and proposals obtained and report the results of the evaluation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
->     “(d) __Final Report.—__ 
+>     “(d)  __Final Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Oct. 13, 1994\], the Comptroller General and the Corporation shall submit a final report that provides the evaluation required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. In making the evaluation, the Comptroller General and the Corporation shall—
 
@@ -399,11 +399,11 @@
 
 >     “(e) __Information.—__ 
 
->         “(1) __Privacy.—__ 
+>         “(1)  __Privacy__  __.—__ 
 
 >         In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
 
->         “(2) __Subpoenas.—__ 
+>         “(2)  __Subpoenas__  __.—__ 
 
 >         The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
 

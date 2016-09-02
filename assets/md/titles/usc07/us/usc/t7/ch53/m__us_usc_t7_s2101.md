@@ -49,7 +49,7 @@
 
 [Pub. L. 101–624, title XIX, § 1998][/us/pl/101/624/s1998], Nov. 28, 1990, [104 Stat. 3913][/us/stat/104/3913], as amended by [Pub. L. 102–237, title VIII, § 808(b)][/us/pl/102/237/s808/b], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date on which imports are subject to assessments under this subtitle \[subtitle G of title XIX of [Pub. L. 101–624][/us/pl/101/624], see Short Title of 1990 Amendment note above\]—
 
@@ -57,7 +57,7 @@
 
 >         “(2) the Customs Service shall, if on such date it has any role in the implementation or enforcement of such assessments, prepare a report concerning such implementation and enforcement as it relates to imports.
 
->     “(b) __Comptroller General Report.—__ 
+>     “(b)  __Comptroller General Report__  __.—__ 
 
 >     Not prior to the date that occurs 3 years after the date on which imports are subject to assessments under this subtitle, the Comptroller General shall prepare a report concerning the administration of the cotton research and promotion program as it relates to such imports. Such report shall be submitted not later than 6 months after such date, and include an analysis of—
 
@@ -67,11 +67,11 @@
 
 >         “(3) the relevant United States international obligations applicable under trade agreements that relate to the assessments on imports of cotton and cotton products under this subtitle.
 
->     “(c) __Submission.—__ 
+>     “(c)  __Submission__  __.—__ 
 
 >     The reports required under subsections (a) and (b) shall be submitted to the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate not later than the applicable dates referred to in such subsections.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such funds as may be necessary to carry out this section.”
 

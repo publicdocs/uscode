@@ -57,7 +57,7 @@
 
     Functions of Secretary of Agriculture administered through Bureau of Biological Survey relating to conservation of wildlife, game, and migratory birds transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Delegation of authority to Secretary with respect to nation’s food program during war emergency, see Ex. Ord. No. 9280, set out as a note under [section 452 of this title][/us/usc/t7/s452].
+    Delegation of authority to Secretary with respect to nation’s food program during war emergency, see Ex. Ord. No. 9280, paraphrased as a note under [section 452 of this title][/us/usc/t7/s452].
 
  __Emergency Preparedness Functions__ 
 
@@ -67,7 +67,7 @@
 
 [Pub. L. 107–171, title X, § 10906][/us/pl/107/171/s10906], May 13, 2002, [116 Stat. 538][/us/stat/116/538], provided that:
 
->     “(a) __Definition of Geographically Disadvantaged Farmer or Rancher.—__ 
+>     “(a)  __Definition of Geographically Disadvantaged Farmer or Rancher__  __.—__ 
 
 >     In this section, the term ‘geographically disadvantaged farmer or rancher’ means a farmer or rancher in—
 
@@ -75,7 +75,7 @@
 
 >         “(2) a State other than 1 of the 48 contiguous States.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
 
@@ -93,7 +93,7 @@
 
 [Pub. L. 107–171, title X, § 10910][/us/pl/107/171/s10910], May 13, 2002, [116 Stat. 539][/us/stat/116/539], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall conduct a review of the operation of agricultural and natural resource programs available to farmers and ranchers operating on tribal and trust land, including—
 
@@ -107,7 +107,7 @@
 
 >         “(5) forestry programs.
 
->     “(b) __Criteria for Review.—__ 
+>     “(b)  __Criteria for Review__  __.—__ 
 
 >     In carrying out the review under subsection (a), the Secretary shall consider—
 
@@ -129,7 +129,7 @@
 
 >             “(D) improve the social and economic well-being of Indian tribes and members of Indian tribes.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In carrying out this section, the Secretary shall consult with—
 
@@ -139,7 +139,7 @@
 
 >         “(3) program recipients.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary shall submit to Congress a report that contains—
 
@@ -155,37 +155,37 @@
 
 >     “(a) __Study of Aircraft Inspections.—__ 
 
->         “(1) __Intent of study.—__ 
+>         “(1)  __Intent of study__  __.—__ 
 
 >         The intent of the study required by this subsection is to examine the cost efficiencies of conducting inspections of aircraft and pilots by one Federal agency without reducing aircraft, passenger, or pilot safety standards or lowering mission preparedness.
 
->         “(2) __Study required.—__ 
+>         “(2)  __Study required__  __.—__ 
 
 >         The Secretary of Agriculture and the Secretary of Transportation shall jointly conduct a study of the inspection specifications and procedures by which aircraft and pilots contracted by the Department are certified to determine the cost efficiencies of eliminating duplicative Department inspection requirements and transferring some or all inspection requirements to the Federal Aviation Administration, while ensuring that neither aircraft, passenger, nor pilot safety is reduced and that mission preparedness is maintained.
 
->         “(3) __Special considerations.—__ 
+>         “(3)  __Special considerations__  __.—__ 
 
 >         In conducting the study, the Secretaries shall evaluate current inspection specifications and procedures mandated by the Department and the Forest Service, taking into consideration the unique requirements and risks of particular Department and Forest Service missions that may require special inspection specifications and procedures to ensure the safety of Department and Forest Service personnel and their contractees.
 
->         “(4) __Maintenance of standards and preparedness.—__ 
+>         “(4)  __Maintenance of standards and preparedness__  __.—__ 
 
 >         In making recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures, the Secretaries shall ensure that the implementation of any such recommendations does not lower aircraft or pilot standards or preparedness for Department or Forest Service missions.
 
->         “(5) __Submission of results.—__ 
+>         “(5)  __Submission of results__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 >     “(b) __Review of Recently Adopted Aircraft Policy.—__ 
 
->         “(1) __Review required.—__ 
+>         “(1)  __Review required__  __.—__ 
 
 >         The Secretaries shall review the policy initiated by the Secretary of Agriculture on July 1, 1994, to accept Federal Aviation Administration inspections on aircraft and pilots that provide ‘airport to airport’ service for the Forest Service. The policy is currently being cooperatively developed by the Department and the Federal Aviation Administration and is intended to reduce duplicative inspections and to reduce Government costs, while maintaining aircraft, passenger, and pilot safety standards, specifications and procedures currently required by the Department and the Forest Service.
 
->         “(2) __Expansion of policy.—__ 
+>         “(2)  __Expansion of policy__  __.—__ 
 
 >         As part of the review, the Secretaries shall examine the feasibility and desirability of applying this policy on a Government-wide basis.
 
->         “(3) __Submission of results.—__ 
+>         “(3)  __Submission of results__  __.—__ 
 
 >         Not later than one year after the date of the implementation of the policy, the Secretary of Agriculture shall submit to Congress the results of the review, including any recommendations that the Secretary considers appropriate.”
 

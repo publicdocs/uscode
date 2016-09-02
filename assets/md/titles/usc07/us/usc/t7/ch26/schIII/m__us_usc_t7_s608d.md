@@ -21,19 +21,19 @@
 
     (3) __Collection of cranberry inventory data.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         If an order is in effect with respect to cranberries, the Secretary of Agriculture may require persons engaged in the handling or importation of cranberries or cranberry products (including producer-handlers, second handlers, processors, brokers, and importers) to provide such information as the Secretary considers necessary to effectuate the declared policy of this chapter, including information on acquisitions, inventories, and dispositions of cranberries and cranberry products.
 
-        (B) __Delegation to committee.—__ 
+        (B)  __Delegation to committee__  __.—__ 
 
         The Secretary may delegate the authority to carry out subparagraph (A) to any committee that is responsible for administering an order covering cranberries.
 
-        (C) __Confidentiality.—__ 
+        (C)  __Confidentiality__  __.—__ 
 
         Paragraph (2) shall apply to information provided under this paragraph.
 
-        (D) __Violations.—__ 
+        (D)  __Violations__  __.—__ 
 
         Any person who violates this paragraph shall be subject to the penalties provided under [section 608c(14) of this title][/us/usc/t7/s608c/14].
 

@@ -121,11 +121,11 @@
 
 [Pub. L. 105–379, § 2][/us/pl/105/379/s2], Nov. 12, 1998, [112 Stat. 3399][/us/stat/112/3399], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(PP), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096, 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(PP), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct a study of options for the design, development, implementation, and operation of a national database to track participation in Federal means-tested public assistance programs.
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     In conducting the study, the Secretary shall—
 
@@ -145,11 +145,11 @@
 
 >         “(4) ensure that all options provide safeguards to protect against the unauthorized use or disclosure of information in the national database.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretary shall submit to Congress a report on the results of the study conducted under this section.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary of Agriculture $500,000 to carry out this section. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.”
 
@@ -159,15 +159,15 @@
 
 >     “(a) __Appointment and Membership.—__ 
 
->         “(1) __Establisment \[sic\].—__ 
+>         “(1)  __Establisment__  __\[sic\].—__ 
 
 >         There is established an Advisory Committee on Welfare Simplification and Coordination (hereafter in this section referred to as the ‘Committee’) consisting of not fewer than 7, nor more than 11, members appointed by the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), after consultation with the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, and with the advice of State and local officials responsible for administering the supplemental nutrition assistance program, cash and medical assistance programs for low-income families and individuals under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], and programs providing housing assistance to needy families and individuals, and representatives of recipients and recipient advocacy organizations associated with such programs.
 
->         “(2) __Qualifications.—__ 
+>         “(2)  __Qualifications__  __.—__ 
 
 >         The members of the Committee shall be individuals who are familiar with the rules, goals, and limitations of Federal supplemental nutrition assistance program benefits, cash, medical, and housing assistance programs for low-income families and individuals, and may include individuals who have demonstrated expertise in evaluating the operations of and interaction among such programs as they affect administrators and recipients, persons who have experience in administering such programs at the Federal, State, or local level, and representatives of administrators and recipients affected by such programs.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It shall be the purpose of the Committee, in consultation, where appropriate, with program administrators and representatives of recipients—
 
@@ -181,15 +181,15 @@
 
 >         “(5) to describe the major effects of such common or simplified programs and policies (including how such common or simplified programs and policies would enhance or conflict with the purposes of such programs, how they would ease burdens on administrators and recipients, how they would affect program costs and participation, and the degree to which they would change the relationships between the Federal Government and the States in such programs) and the reasons for recommending such programs and policies (including reasons, if any, that might be sufficient to override special rules derived from the purposes of individual programs).
 
->     “(c) __Administrative Support.—__ 
+>     “(c)  __Administrative Support__  __.—__ 
 
 >     The Secretary shall provide the Committee with such technical and other assistance, including secretarial and clerical assistance, as may be required to carry out its functions.
 
->     “(d) __Reimbursement.—__ 
+>     “(d)  __Reimbursement__  __.—__ 
 
 >     Members of the Committee shall serve without compensation but shall receive reimbursement for necessary travel and subsistence expenses incurred by such members in the performance of the duties of the Committee.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     Not later than July 1, 1993, the Committee shall prepare and submit, to the appropriate committees of Congress, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development a final report, including recommendations for common or simplified programs and policies and the effects of and reasons for such programs and policies and may submit interim reports, including reports on common or simplified programs and policies covering less than the complete range of programs and policies under review, to the committees and such Secretaries as deemed appropriate by the Committee.”
 

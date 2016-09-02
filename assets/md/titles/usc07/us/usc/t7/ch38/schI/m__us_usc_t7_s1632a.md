@@ -213,11 +213,11 @@
 
 [Pub. L. 107–171, title VI, § 6401(b)][/us/pl/107/171/s6401/b], May 13, 2002, [116 Stat. 426][/us/stat/116/426], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] apply beginning on October 1, 2002.
 
->     “(2) __Funding.—__ 
+>     “(2)  __Funding__  __.—__ 
 
 >     Funds made available under section 231(b)(4)(A)(i) \[probably should be 231(b)(4)\] of the Agricultural Risk Protection Act of 2000 \[[7 U.S.C. 1632a(b)(4)][/us/usc/t7/s1632a/b/4]\] (as amended by subsection (a)(2)) shall be made available not later than 30 days after the date of enactment of this Act \[May 13, 2002\].”
 

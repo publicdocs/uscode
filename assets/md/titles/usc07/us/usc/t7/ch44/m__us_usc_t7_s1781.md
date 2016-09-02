@@ -39,11 +39,11 @@
 
 [Pub. L. 103–130, § 3(a)][/us/pl/103/130/s3/a], (b), Nov. 1, 1993, [107 Stat. 1369][/us/stat/107/1369], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective December 31, 1995, the National Wool Act of 1954 ([7 U.S.C. 1781][/us/usc/t7/s1781] et seq.) is repealed.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     The repeal made by subsection (a) \[repealing this chapter and provisions set out as notes under sections 2, 1446, and 1781 of this title\] shall apply to both the wool and mohair programs.”
 

@@ -29,11 +29,11 @@
 
 [Pub. L. 106–472, title III, § 312(a)][/us/pl/106/472/s312/a]-(d), Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076], 2077, provided that:
 
->     “(a) __Implementation of General Accounting Office \[now Government Accountability Office\] Recommendations.—__ 
+>     “(a)  __Implementation of General Accounting Office \[now Government Accountability Office\] Recommendations__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of Agriculture shall implement the recommendations contained in the report issued by the General Accounting Office \[now Government Accountability Office\] entitled ‘Packers and Stockyards Programs: Actions Needed to Improve Investigations of Competitive Practices’, GAO/RCED–00–242, dated September 21, 2000.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     During the implementation period referred to in subsection (a), and for such an additional time period as needed to assure effective implementation of the recommendations contained in the report referred to in such subsection, the Secretary of Agriculture shall consult and work with the Department of Justice and the Federal Trade Commission in order to—
 
@@ -41,11 +41,11 @@
 
 >         “(2) effectively identify and investigate complaints of unfair and anti-competitive practices in violation of the Packers and Stockyards Act, 1921 ([7 U.S.C. 181][/us/usc/t7/s181] et seq.), and enforce the Act.
 
->     “(c) __Training.—__ 
+>     “(c)  __Training__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary of Agriculture shall develop and implement a training program for staff of the Department of Agriculture engaged in the investigation of complaints of unfair and anti-competitive activity in violation of the Packers and Stockyards Act, 1921. In developing the training program, the Secretary of Agriculture shall draw on existing training materials and programs available at the Department of Justice and the Federal Trade Commission, to the extent practicable.
 
->     “(d) __Implementation Report.—__ 
+>     “(d)  __Implementation Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary of Agriculture shall submit to Congress a report describing the actions taken to comply with this section.”
 

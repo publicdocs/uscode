@@ -39,13 +39,13 @@
 
 [Pub. L. 106–224, title I, § 171][/us/pl/106/224/s171], June 20, 2000, [114 Stat. 397][/us/stat/114/397], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[probably means this title, see Tables for classification\] and the amendments made by this Act take effect on the date of the enactment of this Act \[June 20, 2000\].
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __2001 fiscal year.—__ 
+>         “(1) __2001__  __fiscal year__  __.—__ 
 
 >         The following provisions and the amendments made by the provisions take effect on October 1, 2000:
 
@@ -55,7 +55,7 @@
 
 >             “(C) Section 163 \[[114 Stat. 395][/us/stat/114/395]\].
 
->         “(2) __2001 crop year.—__ 
+>         “(2) __2001__  __crop year__  __.—__ 
 
 >         The amendments made by the following provisions apply beginning with the 2001 crop of an agricultural commodity:
 
@@ -75,7 +75,7 @@
 
 >             “(H) Section 162 \[amending [section 1508 of this title][/us/usc/t7/s1508]\].
 
->         “(3) __2001 reinsurance year.—__ 
+>         “(3) __2001__  __reinsurance year__  __.—__ 
 
 >         The amendments made by the following provisions apply beginning with the 2001 reinsurance year:
 

@@ -67,15 +67,15 @@
 
 [Pub. L. 101–624, title XI, § 1122(b)][/us/pl/101/624/s1122/b], Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     A subsequent holder of a commodity certificate issued by the Commodity Credit Corporation shall be allowed to exchange the expired commodity certificate under the same rules that apply to an original holder of the certificate.
 
->     “(2) __Application and redemption limitations.—__ 
+>     “(2)  __Application and redemption limitations__  __.—__ 
 
 >     This subsection shall only apply during the 180-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\]. No person may redeem more than $1,000 worth of certificates under this subsection.
 
->     “(3) __Redemption limitations.—__ 
+>     “(3)  __Redemption limitations__  __.—__ 
 
 >     In no event shall a person receive a payment from the Commodity Credit Corporation for a certificate that is redeemed under this subsection in an amount greater than the price paid for the certificate by the person. No expired certificate shall be exchanged under this section if the owner purchased the certificate after January 1, 1990.”
 
