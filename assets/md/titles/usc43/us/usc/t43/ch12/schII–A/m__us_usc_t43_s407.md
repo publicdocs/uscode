@@ -207,7 +207,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–11, title X, § 10302][/us/pl/111/11/s10302], Mar. 30, 2009, [123 Stat. 1367][/us/stat/123/1367], provided that: 
+[Pub. L. 111–11, title X, § 10302][/us/pl/111/11/s10302], Mar. 30, 2009, [123 Stat. 1367][/us/stat/123/1367], as amended by [Pub. L. 114–57, § 2(a)][/us/pl/114/57/s2/a], Sept. 30, 2015, [129 Stat. 528][/us/stat/129/528], provided that: 
 
 > “In this subtitle \[subtitle B (§§ 10301–10704) of title X of [Pub. L. 111–11][/us/pl/111/11], enacting this section, former section 615jj, and [section 620n–1 of this title][/us/usc/t43/s620n–1], amending former section 615ss and sections 620 and 620o of this title, repealing former [section 615jj of this title][/us/usc/t43/s615jj], and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
 
@@ -217,7 +217,7 @@
 
 >     “(2)  __Abeyta adjudication__  __.—__ 
 
->     The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arrellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
+>     The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
 
 >     “(3)  __Acre-feet__  __.—__ 
 
@@ -329,7 +329,7 @@
 
 >     “(27)  __Stream adjudication__  __.—__ 
 
->     The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+>     The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
 >     “(28)  __Supplemental partial final decree__  __.—__ 
 
@@ -366,6 +366,8 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/111/11/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs10302
 [/us/stat/123/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1367
+[/us/pl/114/57/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F57%2Fs2%2Fa
+[/us/stat/129/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F528
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t43/s620n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620n%E2%80%931
 [/us/usc/t43/s615jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615jj

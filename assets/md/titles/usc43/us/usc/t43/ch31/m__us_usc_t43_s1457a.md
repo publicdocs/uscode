@@ -55,7 +55,7 @@
 
         (9) Bureau of Reclamation (including those programs formerly administered by the Water and Power Resources Service).
 
-([Pub. L. 97–35, title XIV, § 1401][/us/pl/97/35/s1401], Aug. 13, 1981, [95 Stat. 748][/us/stat/95/748], 749; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172] [Pub. L. 113–287, § 5][/us/pl/113/287/s5](l)(3), Dec. 19, 2014, [128 Stat. 3271][/us/stat/128/3271];.)
+([Pub. L. 97–35, title XIV, § 1401][/us/pl/97/35/s1401], Aug. 13, 1981, [95 Stat. 748][/us/stat/95/748], 749; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](l)(3), Dec. 19, 2014, [128 Stat. 3271][/us/stat/128/3271].)
 
  __References in Text__ 
 

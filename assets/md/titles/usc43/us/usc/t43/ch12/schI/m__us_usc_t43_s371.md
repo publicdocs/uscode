@@ -33,6 +33,12 @@
 
     Act June 17, 1902, referred to in par. (b), is popularly known as the Reclamation Act or National Irrigation Act of 1902, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–57, § 1][/us/pl/114/57/s1], Sept. 30, 2015, [129 Stat. 528][/us/stat/129/528], provided that: 
+
+> “This Act \[amending provisions set out as notes under sections 407 and 620 of this title\] may be cited as the ‘New Mexico Navajo Water Settlement Technical Corrections Act’.”
+
  __Short Title of 2009 Amendment__ 
 
 [Pub. L. 111–11, title X, § 10301][/us/pl/111/11/s10301], Mar. 30, 2009, [123 Stat. 1367][/us/stat/123/1367], provided that: 
@@ -229,6 +235,8 @@
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/act/1924-12-05/ch4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-05%2Fch4%2Fs4
 [/us/stat/43/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F701
+[/us/pl/114/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F57%2Fs1
+[/us/stat/129/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F528
 [/us/pl/111/11/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs10301
 [/us/stat/123/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1367
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11

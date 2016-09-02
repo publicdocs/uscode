@@ -121,7 +121,7 @@
 
     Act of August 28, 1937 ([50 Stat. 874][/us/stat/50/874]; [43 U.S.C. 1181a–118][/us/usc/t43/s1181a–118]1j), referred to in subsec. (a), is [act Aug. 28, 1937, ch. 876][/us/act/1937-08-28/ch876], [50 Stat. 874][/us/stat/50/874], which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by [act May 24, 1939, ch. 144][/us/act/1939-05-24/ch144], [53 Stat. 753][/us/stat/53/753]. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by [act June 24, 1954, ch. 357][/us/act/1954-06-24/ch357], [68 Stat. 270][/us/stat/68/270]. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by [Pub. L. 94–579, title VII, § 702][/us/pl/94/579/s702], Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787]. For complete classification of these Acts to the Code, see Tables.
 
-    The National Environmental Policy Act of 1969, referred to in subsecs. (c)(2), (4) and (h)(1), (2), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969, referred to in subsecs. (c)(2), (4) and (h), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
     The Public Rangelands Improvement Act of 1978, referred to in subsec. (d), is [Pub. L. 95–514][/us/pl/95/514], Oct. 25, 1978, [92 Stat. 1803][/us/stat/92/1803], which is classified principally to chapter 37 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title][/us/usc/t43/s1901] and Tables.
 
@@ -129,7 +129,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–291, § 3023(1)][/us/pl/113/291/s3023/1], inserted par. (1) heading, substituted “During any period in which” for “So long as”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added pars. (2) to (4).
+    2014—Subsec. (c). [Pub. L. 113–291, § 3023(1)][/us/pl/113/291/s3023/1], designated existing provisions as par. (1) and inserted heading, substituted “During any period in which” for “So long as”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added pars. (2) to (4).
 
     Subsecs. (h) to (j). [Pub. L. 113–291, § 3023(2)][/us/pl/113/291/s3023/2], (3), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 

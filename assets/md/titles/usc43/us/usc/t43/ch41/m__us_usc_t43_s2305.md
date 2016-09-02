@@ -101,9 +101,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e). [Pub. L. 113–287, § 5][/us/pl/113/287/s5]l)(9)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([16 U.S.C. 460l–4][/us/usc/t16/s460l–4] et seq.)”.
+    2014—Subsec. (e). [Pub. L. 113–287, § 5][/us/pl/113/287/s5](l)(9)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([16 U.S.C. 460l–4][/us/usc/t16/s460l–4] et seq.)”.
 
-    Subsec. (f)(2). [Pub. L. 113–287, § 5][/us/pl/113/287/s5]l(9)(B), which directed substitution of “[section 200303 of title 54][/us/usc/t54/s200303]” for “section 3 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6)”, was executed by making the substitution for “section 3 of the Land and Water Conservation Fund Act ([16 U.S.C. 460][/us/usc/t16/s460]l–6)” to reflect the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 113–287, § 5][/us/pl/113/287/s5](l)(9)(B), which directed substitution of “[section 200303 of title 54][/us/usc/t54/s200303]” for “section 3 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6)”, was executed by making the substitution for “section 3 of the Land and Water Conservation Fund Act ([16 U.S.C. 460][/us/usc/t16/s460]l–6)” to reflect the probable intent of Congress.
 
 ----------
 

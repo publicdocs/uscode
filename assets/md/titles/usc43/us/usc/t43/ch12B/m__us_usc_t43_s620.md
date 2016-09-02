@@ -43,7 +43,7 @@
 
  __Termination Date of 2009 Amendment__ 
 
-    Amendment by [Pub. L. 111–11][/us/pl/111/11] to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], set out as an Agreement note below.
+    Amendment by [Pub. L. 111–11][/us/pl/111/11] to be null and void on issuance of a court order terminating a certain Agreement between New Mexico, the Navajo Nation, and the United States, see [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], set out as an Agreement note below.
 
  __Short Title__ 
 
@@ -53,7 +53,7 @@
 
     [Pub. L. 90–537, title V, § 501(a)][/us/pl/90/537/s501/a], Sept. 30, 1968, [82 Stat. 896][/us/stat/82/896], provided that the amendment of this section and [section 620a of this title][/us/usc/t43/s620a] by section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
 
- __Pilot Projects to Increase Colorado River System Water to Address Effects of Historic Drought Conditions__ 
+ __Pilot Projects To Increase Colorado River System Water To Address Effects of Historic Drought Conditions__ 
 
 [Pub. L. 113–235, div. D, title II, § 206][/us/pl/113/235/s206], Dec. 16, 2014, [128 Stat. 2312][/us/stat/128/2312], provided that:
 
@@ -67,7 +67,7 @@
 
 >         “(1) grants by the Secretary to public entities that use water from the Colorado River Basin for municipal purposes for projects that are implemented by 1 or more non-Federal entities; or
 
->         “(2) grants or other appropriate financial agreements to provide additional funds for renewing or implementing water conservation agreements that are in existence on the date of enactment of this Act \[div. D. of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014\].
+>         “(2) grants or other appropriate financial agreements to provide additional funds for renewing or implementing water conservation agreements that are in existence on the date of enactment of this Act \[Dec. 16, 2014\].
 
 >     “(c)  __Limitations__  __.—__ 
 
@@ -107,13 +107,13 @@
 
 >     “(11) section 205 of the Energy and Water Development Appropriations Act, 2005 ([118 Stat. 2949][/us/stat/118/2949]).”
 
-    \[Section 10403 [Pub. L. 111–11][/us/pl/111/11], set out above, to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], set out as an Agreement note below.\]
+    \[Section 10403 [Pub. L. 111–11][/us/pl/111/11], set out above, to be null and void on issuance of a court order terminating a certain Agreement between New Mexico, the Navajo Nation, and the United States, see [section 10701(e)(2) of Pub. L. 111–11][/us/pl/111/11/s10701/e/2], set out as an Agreement note below.\]
 
     \[For definition of Compact, see [section 10302 of Pub. L. 111–11][/us/pl/111/11/s10302], set out as a Definitions note under [section 407 of this title][/us/usc/t43/s407].\]
 
  __Agreement__ 
 
-[Pub. L. 111–11, title X, § 10701][/us/pl/111/11/s10701], Mar. 30, 2009, [123 Stat. 1396][/us/stat/123/1396], provided that:
+[Pub. L. 111–11, title X, § 10701][/us/pl/111/11/s10701], Mar. 30, 2009, [123 Stat. 1396][/us/stat/123/1396], as amended by [Pub. L. 114–57, § 2(e)][/us/pl/114/57/s2/e], Sept. 30, 2015, [129 Stat. 528][/us/stat/129/528], provided that:
 
 >     “(a) __Agreement Approval.—__ 
 
@@ -441,11 +441,11 @@
 
 >             “(A)  __Petition__  __.—__ 
 
->             If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement and Contract.
+>             If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement.
 
 >             “(B)  __Termination__  __.—__ 
 
->             On issuance of an order to terminate the Agreement and Contract under subparagraph (A)—
+>             On issuance of an order to terminate the Agreement under subparagraph (A)—
 
 >                 “(i) the Trust Fund shall be terminated;
 
@@ -459,7 +459,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             If a condition described in subparagraph (B) occurs, the Agreement and Contract shall not be nullified or terminated.
+>             If a condition described in subparagraph (B) occurs, the Agreement shall not be nullified or terminated.
 
 >             “(B)  __Conditions__  __.—__ 
 
@@ -530,7 +530,6 @@
 [/us/pl/113/235/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs206
 [/us/stat/128/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2312
 [/us/usc/t43/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t43/s620d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620d
 [/us/usc/t43/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1543
 [/us/pl/111/11/s10403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs10403
@@ -559,6 +558,8 @@
 [/us/usc/t43/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs407
 [/us/pl/111/11/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs10701
 [/us/stat/123/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1396
+[/us/pl/114/57/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F57%2Fs2%2Fe
+[/us/stat/129/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F528
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1383
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
