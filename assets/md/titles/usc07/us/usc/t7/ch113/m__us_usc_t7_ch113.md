@@ -283,7 +283,7 @@ SUBCHAPTER IV—DAIRY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8773" data-uslm-ref="/us/usc/t7/s8773">8773.</a>  </td>
 
-    <td> Milk income loss contract program.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
