@@ -95,17 +95,41 @@
 
         (3) __Strategy specifications__ 
 
-        If the head of a contracting agency determines that a proposed procurement strategy for a procurement involves a substantial bundling of contract requirements, the proposed procurement strategy shall—
+        If the head of a contracting agency determines that an acquisition plan for a procurement involves a substantial bundling of contract requirements, the head of a contracting agency shall publish a notice on a public website that such determination has been made not later than 7 days after making such determination. Any solicitation for a procurement related to the acquisition plan may not be published earlier than 7 days after such notice is published. Along with the publication of the solicitation, the head of a contracting agency shall publish a justification for the determination, which shall include the following information:
 
-            (A) identify specifically the benefits anticipated to be derived from the bundling of contract requirements;
+            (A) The specific benefits anticipated to be derived from the bundling of contract requirements and a determination that such benefits justify the bundling.
 
-            (B) set forth an assessment of the specific impediments to participation by small business concerns as prime contractors that result from the bundling of contract requirements and specify actions designed to maximize small business participation as subcontractors (including suppliers) at various tiers under the contract or contracts that are awarded to meet the requirements; and
+            (B) An identification of any alternative contracting approaches that would involve a lesser degree of bundling of contract requirements.
 
-            (C) include a specific determination that the anticipated benefits of the proposed bundled contract justify its use.
+            (C)
+
+             An assessment of—
+
+                (i) the specific impediments to participation by small business concerns as prime contractors that result from the bundling of contract requirements; and
+
+                (ii) the specific actions designed to maximize participation of small business concerns as subcontractors (including suppliers) at various tiers under the contract or contracts that are awarded to meet the requirements.
 
         (4) __Contract teaming__ 
 
-            In the case of a solicitation of offers for a bundled contract that is issued by the head of an agency, a small-business concern may submit an offer that provides for use of a particular team of subcontractors for the performance of the contract. The head of the agency shall evaluate the offer in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors. If a small business concern teams under this paragraph, it shall not affect its status as a small business concern for any other purpose.
+            (A) __In general__ 
+
+                In the case of a solicitation of offers for a bundled or consolidated contract that is issued by the head of an agency, a small business concern that provides for use of a particular team of subcontractors or a joint venture of small business concerns may submit an offer for the performance of the contract.
+
+            (B) __Evaluation of offers__ 
+
+            The head of the agency shall evaluate an offer described in subparagraph (A) in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors or members of the joint venture as follows:
+
+                (i) __Teams__ 
+
+                    When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
+
+                (ii) __Joint ventures__ 
+
+                    When evaluating an offer of a joint venture of small business concerns, if the joint venture does not demonstrate sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.
+
+            (C) __Status as a small business concern__ 
+
+                Participation of a small business concern in a team or a joint venture under this paragraph shall not affect the status of that concern as a small business concern for any other purpose.
 
     (f) __Contracting preference for small business concerns in a major disaster area__ 
 
@@ -129,7 +153,7 @@
 
             The President shall annually establish Governmentwide goals for procurement contracts awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in accordance with the following:
 
-                (i) The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year.
+                (i) The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year. In meeting this goal, the Government shall ensure the participation of small business concerns from a wide variety of industries and from a broad spectrum of small business concerns within each industry.
 
                 (ii) The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
@@ -381,7 +405,7 @@
 
         (14) shall receive unsolicited proposals and, when appropriate, forward such proposals to personnel of the activity responsible for reviewing such proposals;
 
-        (15) shall carry out exclusively the duties enumerated in this chapter, and shall, while the Director, not hold any other title, position, or responsibility, except as necessary to carry out responsibilities under this subsection; and
+        (15) shall carry out exclusively the duties enumerated in this chapter, and shall, while the Director, not hold any other title, position, or responsibility, except as necessary to carry out responsibilities under this subsection;
 
         (16)
 
@@ -391,7 +415,17 @@
 
             (B) the percentage of the budget of the Director used for such training in the most recently completed fiscal year; and
 
-            (C) the percentage of the budget of the Director used for travel in the most recently completed fiscal year.
+            (C) the percentage of the budget of the Director used for travel in the most recently completed fiscal year; and
+
+        (17)
+
+         shall, when notified by a small business concern prior to the award of a contract that the small business concern believes that a solicitation, request for proposal, or request for quotation unduly restricts the ability of the small business concern to compete for the award—
+
+            (A) submit the notice of the small business concern to the contracting officer and, if necessary, recommend ways in which the solicitation, request for proposal, or request for quotation may be altered to increase the opportunity for competition;
+
+            (B) inform the advocate for competition of such agency (as established under [section 1705 of title 41][/us/usc/t41/s1705] or [section 2318 of title 10][/us/usc/t10/s2318]) of such notice; and
+
+            (C) ensure that the small business concern is aware of other resources and processes available to address unduly restrictive provisions in a solicitation, request for proposal, or request for quotation, even if such resources and processes are provided by such agency, the Administration, the Comptroller General, or a procurement technical assistance program established under chapter 142 of title 10.
 
         This subsection shall not apply to the Administration.
 
@@ -429,7 +463,7 @@
 
         (4) The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6).
 
-        (5)  __Position requirements__ 
+        (5) __Position requirements.—__ 
 
             (A)  __In general__  __.—__ 
 
@@ -439,17 +473,37 @@
 
                 (ii) be fully qualified, technically trained, and familiar with the goods and services procured by the major procurement center to which that representative is assigned; and
 
-                (iii) have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on January 2, 2013, may continue to serve in that position for a period of 5 years without the required certification.
+                (iii) have the certification described in subparagraph (C).
 
             (B)  __Compensation__  __.—__ 
 
             The Administrator shall establish personnel positions for procurement center representatives assigned under this subsection, which are classified at a grade level of the General Schedule sufficient to attract and retain highly qualified personnel.
 
+            (C) __Certification requirements.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                Consistent with the requirements of clause (ii), a procurement center representative shall have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on or before January 3, 2013, may continue to serve in that position for a period of 5 years without the required certification.
+
+                (ii) __Delay of certification requirements.—__ 
+
+                    (I)  __Timing__  __.—__ 
+
+                    The certification described in clause (i) is not required for any person serving as a procurement center representative until the date that is one calendar year after the date such person is appointed as a procurement center representative.
+
+                    (II)  __Application__  __.—__ 
+
+                    The requirements of subclause (I) shall—
+
+                        (aa) be included in any initial job posting for the position of a procurement center representative; and
+
+                        (bb) apply to any person appointed as a procurement center representative after January 3, 2013.
+
         (6)  __Major procurement center defined__  __.—__ 
 
         For purposes of this subsection, the term “major procurement center” means a procurement center that, in the opinion of the Administrator, purchases substantial dollar amounts of goods or services, including goods or services that are commercially available.
 
-        (7)  __Training__ 
+        (7) __Training.—__ 
 
             (A)  __Authorization__  __.—__ 
 
@@ -559,9 +613,19 @@
 
     (q) __Reports related to procurement center representatives__ 
 
-        (1) __Teaming requirements__ 
+        (1) __Teaming and joint venture requirements__ 
 
-            Each Federal agency shall include in each solicitation for any multiple award contract above the substantial bundling threshold of the Federal agency a provision soliciting bids from any responsible source, including responsible small business concerns and teams or joint ventures of small business concerns.
+            (A) __In general__ 
+
+                Each Federal agency shall include in each solicitation for any multiple award contract above the substantial bundling threshold of the Federal agency a provision soliciting bids from any responsible source, including responsible small business concerns and teams or joint ventures of small business concerns.
+
+            (B) __Teams__ 
+
+                When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors for any multiple award contract above the substantial bundling threshold of the Federal agency, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
+
+            (C) __Joint ventures__ 
+
+                When evaluating an offer of a joint venture of small business concerns for any multiple award contract above the substantial bundling threshold of the Federal agency, if the joint venture does not demonstrate sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.
 
         (2) __Policies on reduction of contract bundling__ 
 
@@ -625,7 +689,15 @@
 
             The Administrator of the Small Business Administration shall submit the plan to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate not later than December 1, 2016.
 
-        (4) __Definitions__ 
+        (4) __Implementation__ 
+
+            Not later than October 1, 2016, the Administrator of the Small Business Administration shall implement the plan described in this subsection.
+
+        (5) __Certification__ 
+
+            The Administrator shall annually provide to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a certification of the accuracy and completeness of data reported on bundled and consolidated contracts.
+
+        (6) __Definitions__ 
 
         In this subsection, the following definitions apply:
 
@@ -637,7 +709,7 @@
 
                 The term “bundled or consolidated contract” means a bundled contract (as defined in section 632(o) of this title) or a contract resulting from the consolidation of contracting requirements (as defined in [section 657q(a)(2) of this title][/us/usc/t15/s657q/a/2]).
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613][/us/pl/113/66/s1613], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948]; [Pub. L. 113–76, div. D, title III, § 318][/us/pl/113/76/s318], Jan. 17, 2014, [128 Stat. 178][/us/stat/128/178]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], §§ 822(a), 825(b), Dec. 19, 2014, [128 Stat. 3435][/us/stat/128/3435], 3438; [Pub. L. 114–88, div. B, title I, § 2108][/us/pl/114/88/s2108], Nov. 25, 2015, [129 Stat. 694][/us/stat/129/694].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613][/us/pl/113/66/s1613], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948]; [Pub. L. 113–76, div. D, title III, § 318][/us/pl/113/76/s318], Jan. 17, 2014, [128 Stat. 178][/us/stat/128/178]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], §§ 822(a), 825(b), Dec. 19, 2014, [128 Stat. 3435][/us/stat/128/3435], 3438; [Pub. L. 114–88, div. B, title I, § 2108][/us/pl/114/88/s2108], Nov. 25, 2015, [129 Stat. 694][/us/stat/129/694]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 862(a), 863(a), 865(c), 867, 868(a), 870, Nov. 25, 2015, [129 Stat. 925][/us/stat/129/925], 926, 928, 932, 933, 938.)
 
  __References in Text__ 
 
@@ -665,7 +737,23 @@
 
  __Amendments__ 
 
-    2015—Subsec. (f). [Pub. L. 114–88][/us/pl/114/88] added subsec. (f).
+    2015—Subsec. (e)(3). [Pub. L. 114–92, § 863(a)][/us/pl/114/92/s863/a], amended par. (3) generally. Prior to amendment, par. (3) set forth required elements for a proposed procurement strategy for a procurement involving a substantial bundling of contract requirements.
+
+    Subsec. (e)(4). [Pub. L. 114–92, § 867(a)][/us/pl/114/92/s867/a], amended par. (4) generally. Prior to amendment, text read as follows: “In the case of a solicitation of offers for a bundled contract that is issued by the head of an agency, a small-business concern may submit an offer that provides for use of a particular team of subcontractors for the performance of the contract. The head of the agency shall evaluate the offer in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors. If a small business concern teams under this paragraph, it shall not affect its status as a small business concern for any other purpose.”
+
+    Subsec. (f). [Pub. L. 114–88][/us/pl/114/88] added subsec. (f).
+
+    Subsec. (g)(1)(A)(i). [Pub. L. 114–92, § 868(a)][/us/pl/114/92/s868/a], inserted at end “In meeting this goal, the Government shall ensure the participation of small business concerns from a wide variety of industries and from a broad spectrum of small business concerns within each industry.”
+
+    Subsec. (k)(17). [Pub. L. 114–92, § 870][/us/pl/114/92/s870], added par. (17).
+
+    Subsec. (l)(5)(A)(iii). [Pub. L. 114–92, § 865(c)(1)][/us/pl/114/92/s865/c/1], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on January 2, 2013, may continue to serve in that position for a period of 5 years without the required certification.”
+
+    Subsec. (l)(5)(C). [Pub. L. 114–92, § 865(c)(2)][/us/pl/114/92/s865/c/2], added subpar. (C).
+
+    Subsec. (q)(1). [Pub. L. 114–92, § 867(b)][/us/pl/114/92/s867/b], inserted “and joint venture” before “requirements” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
+
+    Subsec. (s)(4) to (6). [Pub. L. 114–92, § 862(a)][/us/pl/114/92/s862/a], added pars. (4) and (5) and redesignated former par. (4) as (6).
 
     2014—Subsec. (g)(3). [Pub. L. 113–76][/us/pl/113/76] added par. (3).
 
@@ -1008,6 +1096,102 @@
  __Effective Date of 1980 Amendment__ 
 
     Amendment by [Pub. L. 96–302][/us/pl/96/302] effective Oct. 1, 1980, see [section 507 of Pub. L. 96–302][/us/pl/96/302/s507], set out as a note under [section 631 of this title][/us/usc/t15/s631].
+
+ __Scorecard Program for Evaluating Federal Agency Compliance With Small Business Contracting Goals__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 868(b)][/us/pl/114/92/s868/b], Nov. 25, 2015, [129 Stat. 933][/us/stat/129/933], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than September 30, 2016, the Administrator of the Small Business Administration, in consultation with the Federal agencies, shall—
+
+>         “(A) develop a methodology for calculating a score to be used to evaluate the compliance of each Federal agency with meeting the goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)][/us/usc/t15/s644/g/1/B]) based on each such goal; and
+
+>         “(B) develop a scorecard based on such methodology.
+
+>     “(2)  __Use of scorecard__  __.—__ 
+
+>     Beginning in fiscal year 2017, the Administrator shall establish and carry out a program to use the scorecard developed under paragraph (1) to evaluate whether each Federal agency is creating the maximum practicable opportunities for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, by assigning a score to each Federal agency for the previous fiscal year.
+
+>     “(3)  __Contents of scorecard__  __.—__ 
+
+>     The scorecard developed under paragraph (1) shall include, for each Federal agency, the following information:
+
+>         “(A) A determination of whether the Federal agency met each of the prime contract goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)][/us/usc/t15/s644/g/1/B]) with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+>         “(B) A determination of whether the Federal agency met each of the subcontract goals established pursuant to such section with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+>         “(C) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded prime contracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded contracts during the prior fiscal year, if available.
+
+>         “(D) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded subcontracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded subcontracts during the prior fiscal year, if available.
+
+>         “(E) Any other factors that the Administrator deems important to achieve the maximum practicable utilization of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+>     “(4)  __Weighted factors__  __.—__ 
+
+>     In using the scorecard to evaluate and assign a score to a Federal agency, the Administrator shall base—
+
+>         “(A) fifty percent of the score on the dollar value of prime contracts described in paragraph (3)(A); and
+
+>         “(B) fifty percent of the score on the information provided in subparagraphs (B) through (E) of paragraph (3), weighted in a manner determined by the Administrator to encourage the maximum practicable opportunity for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+>     “(5)  __Publication__  __.—__ 
+
+>     The scorecard used by the Administrator under this subsection shall be submitted to the President and Congress along with the report submitted under section 15(h)(2) of the Small Business Act ([15 U.S.C. 644(h)(2)][/us/usc/t15/s644/h/2]).
+
+>     “(6)  __Report__  __.—__ 
+
+>     After the Administrator uses the scorecard for fiscal year 2018 to assign scores to Federal agencies, but not later than March 31, 2019, the Administrator shall submit a report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate. Such report shall include the following:
+
+>         “(A) A description of any increase in the dollar amount of prime contracts and subcontracts awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+>         “(B) A description of any increase in the dollar amount of prime contracts and subcontracts, and the total number of contracts, awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in each North American Industry Classification System code.
+
+>         “(C) The recommendation of the Administrator on continuing, modifying, expanding, or terminating the program established under this subsection.
+
+>     “(7)  __GAO report on scorecard methodology__  __.—__ 
+
+>     Not later than September 30, 2018, the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report that—
+
+>         “(A)
+
+>          evaluates whether the methodology used to calculate a score under this subsection accurately and effectively—
+
+>             “(i) measures the compliance of each Federal agency with meeting the goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)][/us/usc/t15/s644/g/1/B]); and
+
+>             “(ii) encourages Federal agencies to expand opportunities for small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to compete for and be awarded Federal procurement contracts across North American Industry Classification System codes; and
+
+>         “(B) if warranted, makes recommendations on how to improve such methodology to improve its accuracy and effectiveness.
+
+>     “(8)  __Definitions__  __.—__ 
+
+>     In this subsection:
+
+>         “(A)  __Administrator__  __.—__ 
+
+>         The term ‘Administrator’ means the Administrator of the Small Business Administration.
+
+>         “(B)  __Federal agency__  __.—__ 
+
+>         The term ‘Federal agency’ has the meaning given the term ‘agency’ by [section 551(1) of title 5][/us/usc/t5/s551/1], United States Code, but does not include the United States Postal Service or the Government Accountability Office.
+
+>         “(C)  __Scorecard__  __.—__ 
+
+>         The term ‘scorecard’ shall mean any summary using a rating system to evaluate a Federal agency’s efforts to meet goals established under section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)][/us/usc/t15/s644/g/1/B]) that—
+
+>             “(i) includes the measures described in paragraph (3); and
+
+>             “(ii) assigns a score to each Federal agency evaluated.
+
+>         “(D) __Small business act definitions.—__ 
+
+>             “(i)  __In general__  __.—__ 
+
+>             The terms ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, ‘qualified HUBZone small business concern’, and ‘small business concern owned and controlled by women’ have the meanings given such terms under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
+
+>             “(ii)  __Small business concerns owned and controlled by socially and economically disadvantaged individuals__  __.—__ 
+
+>             The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the meaning given that term under section 8(d)(3)(C) of the Small Business Act ([15 U.S.C. 637(d)(3)(C)][/us/usc/t15/s637/d/3/C]).”
 
  __Additional Requirements for the Small Business Preference Programs for Prime and Subcontract Federal Procurement Goals and Achievements__ 
 
@@ -1412,6 +1596,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t15/s657q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657q
+[/us/usc/t41/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1705
+[/us/usc/t10/s2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2318
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
@@ -1493,6 +1679,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/128/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3435
 [/us/pl/114/88/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2108
 [/us/stat/129/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F694
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F925
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/stat/120/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1186
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
@@ -1528,7 +1716,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs639
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92/s863/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs863%2Fa
+[/us/pl/114/92/s867/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs867%2Fa
 [/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
+[/us/pl/114/92/s868/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs868%2Fa
+[/us/pl/114/92/s870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs870
+[/us/pl/114/92/s865/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs865%2Fc%2F1
+[/us/pl/114/92/s865/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs865%2Fc%2F2
+[/us/pl/114/92/s867/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs867%2Fb
+[/us/pl/114/92/s862/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs862%2Fa
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/291/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs825%2Fb
 [/us/pl/113/291/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fa
@@ -1731,6 +1927,16 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92/s868/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs868%2Fb
+[/us/stat/129/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F933
+[/us/usc/t15/s644/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg%2F1%2FB
+[/us/usc/t15/s644/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg%2F1%2FB
+[/us/usc/t15/s644/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fh%2F2
+[/us/usc/t15/s644/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg%2F1%2FB
+[/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
+[/us/usc/t15/s644/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg%2F1%2FB
+[/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
+[/us/usc/t15/s637/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3%2FC
 [/us/pl/112/239/s1631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1631%2Fc
 [/us/stat/126/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2072
 [/us/pl/111/240/s1312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1312%2Fd

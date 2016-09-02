@@ -35,7 +35,7 @@
 
         (4)
 
-         in the case of a contract for supplies from a regular dealer in such supplies, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
+         in the case of a contract which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
 
             (A) by the Administrator, after reviewing a determination by the applicable contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required by the contract; or
 
@@ -103,7 +103,11 @@
 
             (F) if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[46\], as added [Pub. L. 112–239, div. A, title XVI, § 1651][/us/pl/112/239/s1651], Jan. 2, 2013, [126 Stat. 2079][/us/stat/126/2079].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[46\], as added [Pub. L. 112–239, div. A, title XVI, § 1651][/us/pl/112/239/s1651], Jan. 2, 2013, [126 Stat. 2079][/us/stat/126/2079]; amended [Pub. L. 114–92, div. A, title VIII, § 864(b)][/us/pl/114/92/s864/b], Nov. 25, 2015, [129 Stat. 927][/us/stat/129/927].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92] substituted “which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction” for “for supplies from a regular dealer in such supplies” in introductory provisions.
 
  __Inapplicability of Requirement To Review and Justify Certain Contracts__ 
 
@@ -129,6 +133,9 @@
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/pl/112/239/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1651
 [/us/stat/126/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2079
+[/us/pl/114/92/s864/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs864%2Fb
+[/us/stat/129/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F927
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1615
 [/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
 [/us/usc/t15/s657s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657s

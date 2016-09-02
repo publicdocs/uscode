@@ -113,6 +113,24 @@
 
             The Administrator shall not limit the number of size standards established pursuant to paragraph (2), and shall assign the appropriate size standard to each North American Industry Classification System Code.
 
+        (9) __Petitions for reconsideration of size standards__ 
+
+            (A) __In general__ 
+
+                A person may file a petition for reconsideration with the Office of Hearings and Appeals (as established under [section 634(i) of this title][/us/usc/t15/s634/i]) of a size standard revised, modified, or established by the Administrator pursuant to this subsection.
+
+            (B) __Time limit__ 
+
+                A person filing a petition for reconsideration described in subparagraph (A) shall file such petition not later than 30 days after the publication in the Federal Register of the notice of final rule to revise, modify, or establish size standards described in paragraph (6).
+
+            (C) __Process for agency review__ 
+
+                The Office of Hearings and Appeals shall use the same process it uses to decide challenges to the size of a small business concern to decide a petition for review pursuant to this paragraph.
+
+            (D) __Judicial review__ 
+
+                The publication of a final rule in the Federal Register described in subparagraph (B) shall be considered final agency action for purposes of seeking judicial review. Filing a petition for reconsideration under subparagraph (A) shall not be a condition precedent to judicial review of any such size standard.
+
     (b) __“Agency” defined__ 
 
         For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by [section 551(1) of title 5][/us/usc/t5/s551/1], but does not include the United States Postal Service or the Government Accountability Office.
@@ -295,9 +313,11 @@
 
             (C) lands within the external boundaries of an Indian reservation;
 
-            (D) redesignated areas; or
+            (D) redesignated areas;
 
-            (E) base closure areas.
+            (E) base closure areas; or
+
+            (F) qualified disaster areas.
 
         (2) __HUBZone__ 
 
@@ -327,13 +347,21 @@
 
             (D)
 
+             a small business concern—
+
+                (i) that is wholly owned by one or more Native Hawaiian Organizations (as defined in [section 637(a)(15) of this title][/us/usc/t15/s637/a/15]), or by a corporation that is wholly owned by one or more Native Hawaiian Organizations; or
+
+                (ii) that is owned in part by one or more Native Hawaiian Organizations, or by a corporation that is wholly owned by one or more Native Hawaiian Organizations, if all other owners are either United States citizens or small business concerns;
+
+            (E)
+
              a small business concern that is—
 
                 (i) wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 ([42 U.S.C. 9805][/us/usc/t42/s9805] et seq.); or
 
                 (ii) owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns; or
 
-            (E)
+            (F)
 
              a small business concern that is—
 
@@ -375,15 +403,61 @@
 
             (D) __Base closure area__ 
 
-            The term “base closure area” means lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
+                (i) __In general__ 
 
-                (i) the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note);
+                Subject to clause (ii), the term “base closure area” means—
 
-                (ii) title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note);
+                    (I)
 
-                (iii) [section 2687 of title 10][/us/usc/t10/s2687]; or
+                     lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
 
-                (iv) any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use.
+                        (aa) the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note);
+
+                        (bb) title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note);
+
+                        (cc) [section 2687 of title 10][/us/usc/t10/s2687]; or
+
+                        (dd) any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use;
+
+                    (II) the census tract or nonmetropolitan county in which the lands described in subclause (I) are wholly contained;
+
+                    (III) a census tract or nonmetropolitan county the boundaries of which intersect the area described in subclause (I); and
+
+                    (IV) a census tract or nonmetropolitan county the boundaries of which are contiguous to the area described in subclause (II) or subclause (III).
+
+                (ii) __Limitation__ 
+
+                A base closure area shall be treated as a HUBZone—
+
+                    (I) with respect to a census tract or nonmetropolitan county described in clause (i), for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the date the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B) in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; and
+
+                    (II) if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B), after the 2020 decennial census.
+
+                (iii) __Definitions__ 
+
+                In this subparagraph:
+
+                    (I) __Census tract__ 
+
+                        The term “census tract” means a census tract delineated by the United States Bureau of the Census in the most recent decennial census that is not located in a nonmetropolitan county and does not otherwise qualify as a qualified census tract.
+
+                    (II) __Nonmetropolitan county__ 
+
+                        The term “nonmetropolitan county” means a county that was not located in a metropolitan statistical area (as defined in [section 143(k)(2)(B) of title 26][/us/usc/t26/s143/k/2/B]) at the time of the most recent census taken for purposes of selecting qualified census tracts and does not otherwise qualify as a qualified nonmetropolitan county.
+
+            (E) __Qualified disaster area__ 
+
+                (i) __In general__ 
+
+                Subject to clause (ii), the term “qualified disaster area” means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under [section 5170 of title 42][/us/usc/t42/s5170] or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date, except that such census tract or nonmetropolitan county may be a “qualified disaster area” only—
+
+                    (I) in the case of a major disaster declared by the President, during the 5-year period beginning on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; and
+
+                    (II) in the case of a catastrophic incident, during the 10-year period beginning on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county, as applicable, is located.
+
+                (ii) __Limitation__ 
+
+                    A qualified disaster area described in clause (i) shall be treated as a HUBZone for a period of not less than 8 years, beginning on the date the Administrator makes a final determination as to whether or not to implement the designations described in subparagraphs (A) and (B) in accordance with the results of the decennial census conducted after the area was initially designated as a qualified disaster area.
 
         (5) __Qualified HUBZone small business concern__ 
 
@@ -399,9 +473,11 @@
 
                      it is a HUBZone small business concern—
 
-                        (aa) pursuant to subparagraph (A), (B), (C), (D), or (E) of paragraph (3), and that its principal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
+                        (aa) pursuant to subparagraph (A), (B), (C), (D), (E), or (F) of paragraph (3), and that its principal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone;
 
-                        (bb) pursuant to paragraph (3)(C), and not fewer than 35 percent of its employees engaged in performing a contract awarded to the small business concern on the basis of a preference provided under [section 657a(b) of this title][/us/usc/t15/s657a/b] reside within any Indian reservation governed by one or more of the tribal government owners, or reside within any HUBZone adjoining any such Indian reservation;
+                        (bb) pursuant to subparagraph (A), (B), (C), (D), (E), or (F) of paragraph (3), that its principal office is located within a base closure area and that not fewer than 35 percent of its employees reside in such base closure area or in another HUBZone; or
+
+                        (cc) pursuant to paragraph (3)(C), and not fewer than 35 percent of its employees engaged in performing a contract awarded to the small business concern on the basis of a preference provided under [section 657a(b) of this title][/us/usc/t15/s657a/b] reside within any Indian reservation governed by one or more of the tribal government owners, or reside within any HUBZone adjoining any such Indian reservation;
 
                     (II) the small business concern will attempt to maintain the applicable employment percentage under subclause (I) during the performance of any contract awarded to the small business concern on the basis of a preference provided under [section 657a(b) of this title][/us/usc/t15/s657a/b]; and
 
@@ -629,7 +705,7 @@
 
             The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I, § 112(b)][/us/pl/94/305/s112/b], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II, § 224(b)][/us/pl/95/507/s224/b], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V, § 504][/us/pl/96/302/s504], July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I, § 108][/us/pl/96/481/s108], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX, § 1903][/us/pl/97/35/s1903], Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III, § 310][/us/pl/98/270/s310], Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362, § 6][/us/pl/98/362/s6], July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I, § 111A(b)][/us/pl/98/473/s111A/b], Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII, § 18016][/us/pl/99/272/s18016], Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(2)][/us/pl/100/26/s10/b/2], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII, § 845][/us/pl/100/456/s845], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I, § 119(b)][/us/pl/100/590/s119/b], Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII, § 732][/us/pl/100/656/s732], Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(1)][/us/pl/101/510/s806/e/1], Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II, § 222(a)][/us/pl/102/366/s222/a], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV, § 4404(a)][/us/pl/103/355/s4404/a], title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III, § 301][/us/pl/103/403/s301], Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I, § 104(b)(1)][/us/pl/104/208/s104/b/1], Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV, § 412][/us/pl/105/135/s412], title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I, § 103(a)][/us/pl/106/50/s103/a], title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X, § 10203][/us/pl/109/59/s10203], Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II, § 205][/us/pl/110/186/s205], Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI, § 5107(b)][/us/pl/112/81/s5107/b], Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090; [Pub. L. 113–66, div. A, title XVI, § 1614(b)][/us/pl/113/66/s1614/b], Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I, § 112(b)][/us/pl/94/305/s112/b], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II, § 224(b)][/us/pl/95/507/s224/b], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V, § 504][/us/pl/96/302/s504], July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I, § 108][/us/pl/96/481/s108], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX, § 1903][/us/pl/97/35/s1903], Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III, § 310][/us/pl/98/270/s310], Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362, § 6][/us/pl/98/362/s6], July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I, § 111A(b)][/us/pl/98/473/s111A/b], Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII, § 18016][/us/pl/99/272/s18016], Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(b)(2)][/us/pl/100/26/s10/b/2], Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII, § 845][/us/pl/100/456/s845], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I, § 119(b)][/us/pl/100/590/s119/b], Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII, § 732][/us/pl/100/656/s732], Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII, § 806(e)(1)][/us/pl/101/510/s806/e/1], Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II, § 222(a)][/us/pl/102/366/s222/a], Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV, § 4404(a)][/us/pl/103/355/s4404/a], title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III, § 301][/us/pl/103/403/s301], Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I, § 104(b)(1)][/us/pl/104/208/s104/b/1], Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV, § 412][/us/pl/105/135/s412], title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I, § 103(a)][/us/pl/106/50/s103/a], title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X, § 10203][/us/pl/109/59/s10203], Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II, § 205][/us/pl/110/186/s205], Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI, § 5107(b)][/us/pl/112/81/s5107/b], Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090; [Pub. L. 113–66, div. A, title XVI, § 1614(b)][/us/pl/113/66/s1614/b], Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 866(a), 869(b), Nov. 25, 2015, [129 Stat. 929][/us/stat/129/929], 938.)
 
  __References in Text__ 
 
@@ -637,7 +713,7 @@
 
     The Agricultural Marketing Act ([12 U.S.C. 1141j][/us/usc/t12/s1141j]), referred to in subsec. (j), is [act June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], [46 Stat. 11][/us/stat/46/11], which is classified generally to chapter 7A (§ 1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1141j(e) of Title 12][/us/usc/t12/s1141j/e] and Tables.
 
-    The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(D)(i), is subchapter A (§§ 611–633) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489]. Part 1 of subchapter A of the Act is classified generally to part A (§ 9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+    The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(E)(i), is subchapter A (§§ 611–633) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489]. Part 1 of subchapter A of the Act is classified generally to part A (§ 9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
     Subpar. (C) of [section 42(d)(5) of title 26][/us/usc/t26/s42/d/5], referred to in subsec. (p)(4)(A), (B)(i), (ii)(III), was redesignated (B) by [Pub. L. 110–289, div. C, title I, § 3003(g)(3)][/us/pl/110/289/s3003/g/3], July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
 
@@ -660,6 +736,20 @@
     Prior similar provisions were contained in section 203 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 233][/us/stat/67/233], which was previously classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(9). [Pub. L. 114–92, § 869(b)][/us/pl/114/92/s869/b], added par. (9).
+
+    Subsec. (p)(1)(F). [Pub. L. 114–92, § 866(a)(1)][/us/pl/114/92/s866/a/1], added subpar. (F).
+
+    Subsec. (p)(3)(D) to (F). [Pub. L. 114–92, § 866(a)(2)][/us/pl/114/92/s866/a/2], added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+    Subsec. (p)(4)(D). [Pub. L. 114–92, § 866(a)(3)(A)][/us/pl/114/92/s866/a/3/A], amended subpar. (D) generally, substituting new definition of “base closure area” for prior definition which consisted of provisions similar to those in new cl. (i)(I).
+
+    Subsec. (p)(4)(E). [Pub. L. 114–92, § 866(a)(3)(B)][/us/pl/114/92/s866/a/3/B], added subpar. (E).
+
+    Subsec. (p)(5)(A)(i)(I)(aa). [Pub. L. 114–92, § 866(a)(4)(A)][/us/pl/114/92/s866/a/4/A], substituted “subparagraph (A), (B), (C), (D), (E), or (F) of paragraph (3)” for “subparagraph (A), (B), (C), (D), or (E) of paragraph (3)” and struck out “or” at end.
+
+    Subsec. (p)(5)(A)(i)(I)(bb), (cc). [Pub. L. 114–92, § 866(a)(4)(B)][/us/pl/114/92/s866/a/4/B], (C), added item (bb) and redesignated former item (bb) as (cc).
 
     2013—[Pub. L. 112–239, § 1661(1)][/us/pl/112/239/s1661/1], inserted section catchline.
 
@@ -846,6 +936,12 @@
     1978—[Pub. L. 95–507][/us/pl/95/507] designated existing provisions as subsec. (a) and added subsec. (b).
 
     1976—[Pub. L. 94–305][/us/pl/94/305] inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 866(b)][/us/pl/114/92/s866/b], Nov. 25, 2015, [129 Stat. 931][/us/stat/129/931], provided that: 
+
+> “The amendments made by subsection (a)(3)(B) \[amending this section\] shall apply to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170][/us/usc/t42/s5170]) or a catastrophic incident that occurs on or after the date of enactment of such subsection \[Nov. 25, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1076,6 +1172,7 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
 [/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t15/s634/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634%2Fi
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
 [/us/usc/t26/s4975/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975%2Fe%2F7
@@ -1098,6 +1195,7 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/usc/t43/s1626/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626%2Fe%2F1
 [/us/usc/t43/s1626/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626%2Fe%2F1
 [/us/usc/t43/s1626/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626%2Fe%2F2
+[/us/usc/t15/s637/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F15
 [/us/usc/t42/s9805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9805
 [/us/usc/t26/s143/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143%2Fk%2F2%2FB
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
@@ -1105,6 +1203,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
+[/us/usc/t26/s143/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143%2Fk%2F2%2FB
+[/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t15/s657a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a%2Fb
 [/us/usc/t15/s657a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a%2Fb
 [/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
@@ -1205,6 +1305,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/stat/126/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2083
 [/us/pl/113/66/s1614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1614%2Fb
 [/us/stat/127/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F949
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F929
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -1242,6 +1344,13 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
 [/us/stat/67/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F233
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs869%2Fb
+[/us/pl/114/92/s866/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F1
+[/us/pl/114/92/s866/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F2
+[/us/pl/114/92/s866/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F3%2FA
+[/us/pl/114/92/s866/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F3%2FB
+[/us/pl/114/92/s866/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F4%2FA
+[/us/pl/114/92/s866/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fa%2F4%2FB
 [/us/pl/112/239/s1661/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1661%2F1
 [/us/pl/112/239/s1661/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1661%2F2%2FA
 [/us/pl/112/239/s1661/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1661%2F2%2FB
@@ -1324,6 +1433,9 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
+[/us/pl/114/92/s866/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fb
+[/us/stat/129/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F931
+[/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

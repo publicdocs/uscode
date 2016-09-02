@@ -801,11 +801,11 @@
 
  __Agency Achievement of Small Business Goals__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1633(b)][/us/pl/112/239/s1633/b], (c), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that:
+[Pub. L. 112–239, div. A, title XVI, § 1633(b)][/us/pl/112/239/s1633/b], (c), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], as amended by [Pub. L. 114–92, div. A, title VIII, § 871][/us/pl/114/92/s871], Nov. 25, 2015, [129 Stat. 939][/us/stat/129/939], provided that:
 
 >     “(b)  __Responsibility for Achieving Small Business Goals__  __.—__ 
 
->     The head of an agency shall take steps to ensure that members of the senior executive service, as defined under [section 3396(a) of title 5][/us/usc/t5/s3396/a], United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for of \[sic\] the agency’s success in achieving small business contracting goals and percentages by—
+>     The head of an agency shall take steps to ensure that members of the senior executive service, as defined under [section 3396(a) of title 5][/us/usc/t5/s3396/a], United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for the agency’s success in achieving each of the small business prime contracting and subcontracting goals and percentages by—
 
 >         “(1) promoting a climate or environment that is responsive to small business concerns;
 
@@ -1763,6 +1763,8 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/112/239/s1633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1633%2Fb
 [/us/stat/126/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2076
+[/us/pl/114/92/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs871
+[/us/stat/129/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F939
 [/us/usc/t5/s3396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396%2Fa
 [/us/usc/t5/s3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396
 [/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9

@@ -41,7 +41,7 @@
 
             (iv) any source material, special nuclear material, or byproduct material (as such terms are defined in the Atomic Energy Act of 1954 \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\] and regulations issued under such Act),
 
-            (v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[[26 U.S.C. 4181][/us/usc/t26/s4181]\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code), and
+            (v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[[26 U.S.C. 4181][/us/usc/t26/s4181]\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
 
             (vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 321][/us/usc/t21/s321]\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
@@ -99,7 +99,7 @@
 
     (14) The term “United States”, when used in the geographic sense, means all of the States.
 
-([Pub. L. 94–469, title I, § 3][/us/pl/94/469/s3], Oct. 11, 1976, [90 Stat. 2004][/us/stat/90/2004]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 100–418, title I, § 1214(e)(1)][/us/pl/100/418/s1214/e/1], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156].)
+([Pub. L. 94–469, title I, § 3][/us/pl/94/469/s3], Oct. 11, 1976, [90 Stat. 2004][/us/stat/90/2004]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 100–418, title I, § 1214(e)(1)][/us/pl/100/418/s1214/e/1], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 114–92, div. A, title III, § 315][/us/pl/114/92/s315], Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791].)
 
  __References in Text__ 
 
@@ -112,6 +112,8 @@
     For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par. (13), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
  __Amendments__ 
+
+    2015—Par. (2)(B)(v). [Pub. L. 114–92][/us/pl/114/92] substituted “and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and” for “, and”.
 
     1988—Par. (7). [Pub. L. 100–418][/us/pl/100/418] substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
@@ -144,6 +146,8 @@
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/100/418/s1214/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fe%2F1
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
+[/us/pl/114/92/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs315
+[/us/stat/129/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F791
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F973
@@ -154,6 +158,7 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

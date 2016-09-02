@@ -161,11 +161,85 @@
 
         (3) Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[5\], July 18, 1958, [72 Stat. 385][/us/stat/72/385]; [Pub. L. 87–305, § 4][/us/pl/87/305/s4], Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666]; [Pub. L. 87–367, title I, § 103(3)][/us/pl/87/367/s103/3], Oct. 4, 1961, [75 Stat. 787][/us/stat/75/787]; [Pub. L. 92–310, title II, § 224(a)][/us/pl/92/310/s224/a], June 6, 1972, [86 Stat. 206][/us/stat/86/206]; [Pub. L. 93–386][/us/pl/93/386], §§ 3(1), 10, Aug. 23, 1974, [88 Stat. 745][/us/stat/88/745], 749; [Pub. L. 94–305, title II, § 208][/us/pl/94/305/s208], June 4, 1976, [90 Stat. 671][/us/stat/90/671]; [Pub. L. 95–89, title III, § 303][/us/pl/95/89/s303], Aug. 4, 1977, [91 Stat. 558][/us/stat/91/558]; [Pub. L. 95–510, § 103][/us/pl/95/510/s103], Oct. 24, 1978, [92 Stat. 1781][/us/stat/92/1781]; [Pub. L. 96–302, title I, § 114][/us/pl/96/302/s114], July 2, 1980, [94 Stat. 838][/us/stat/94/838]; [Pub. L. 98–352, § 2][/us/pl/98/352/s2], July 10, 1984, [98 Stat. 329][/us/stat/98/329]; [Pub. L. 100–590, title I, § 113][/us/pl/100/590/s113], Nov. 3, 1988, [102 Stat. 2997][/us/stat/102/2997]; [Pub. L. 102–140, title VI, § 609(a)][/us/pl/102/140/s609/a], Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825]; [Pub. L. 102–564, title III, § 307(d)][/us/pl/102/564/s307/d], Oct. 28, 1992, [106 Stat. 4264][/us/stat/106/4264]; [Pub. L. 103–81, § 3(a)][/us/pl/103/81/s3/a], Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780]; [Pub. L. 103–282, § 2][/us/pl/103/282/s2], July 22, 1994, [108 Stat. 1422][/us/stat/108/1422]; [Pub. L. 103–403, title VI, § 602][/us/pl/103/403/s602], Oct. 22, 1994, [108 Stat. 4202][/us/stat/108/4202]; [Pub. L. 104–36, § 4(b)][/us/pl/104/36/s4/b], Oct. 12, 1995, [109 Stat. 297][/us/stat/109/297]; [Pub. L. 104–208, div. D, title I, § 103(e)][/us/pl/104/208/s103/e], title II, §§ 205(a), 208(i)(1), Sept. 30, 1996, [110 Stat. 3009–727][/us/stat/110/3009-727], 3009–738, 3009–747; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–683; [Pub. L. 108–306, § 3][/us/pl/108/306/s3], Sept. 24, 2004, [118 Stat. 1131][/us/stat/118/1131]; [Pub. L. 108–447, div. K, title I, § 131][/us/pl/108/447/s131], Dec. 8, 2004, [118 Stat. 3452][/us/stat/118/3452]; [Pub. L. 111–240, title I, § 1117][/us/pl/111/240/s1117], Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509].)
+    (i) __Office of Hearings and Appeals__ 
+
+        (1) __Establishment__ 
+
+            (A) __Office__ 
+
+            There is established in the Administration an Office of Hearings and Appeals—
+
+                (i)
+
+                 to impartially decide matters relating to program decisions of the Administrator—
+
+                    (I) for which Congress requires a hearing on the record; or
+
+                    (II) that the Administrator designates for hearing by regulation; and
+
+                (ii) which shall contain the office of the Administration that handles requests submitted pursuant to sections 552 of title 5 (commonly referred to as the “Freedom of Information Act”) and maintains records pursuant to [section 552a of title 5][/us/usc/t5/s552a] (commonly referred to as the “Privacy Act of 1974”).
+
+            (B) __Jurisdiction__ 
+
+                The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 ([15 U.S.C. 661][/us/usc/t15/s661] et seq.), and title 13 of the Code of Federal Regulations.
+
+            (C) __Associate administrator__ 
+
+                The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under [section 633(b)(1) of this title][/us/usc/t15/s633/b/1], who shall be responsible to the Administrator.
+
+        (2) __Chief Hearing Officer duties__ 
+
+            (A) __In general__ 
+
+            The Chief Hearing Officer shall—
+
+                (i) be a career appointee in the Senior Executive Service and an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia; and
+
+                (ii) be responsible for the operation and management of the Office of Hearings and Appeals.
+
+            (B) __Alternative dispute resolution__ 
+
+                The Chief Hearing Officer may assign a matter for mediation or other means of alternative dispute resolution.
+
+        (3) __Hearing officers__ 
+
+            (A) __In general__ 
+
+                The Office of Hearings and Appeals shall appoint Hearing Officers to carry out the duties described in paragraph (1)(A)(i).
+
+            (B) __Conditions of employment__ 
+
+            A Hearing Officer appointed under this paragraph—
+
+                (i) shall serve in the excepted service as an employee of the Administration under [section 2103 of title 5][/us/usc/t5/s2103] and under the supervision of the Chief Hearing Officer;
+
+                (ii) shall be classified at a position to which [section 5376 of title 5][/us/usc/t5/s5376] applies; and
+
+                (iii) shall be compensated at a rate not exceeding the maximum rate payable under such section.
+
+            (C) __Authority; powers__ 
+
+            Notwithstanding [section 556(b) of title 5][/us/usc/t5/s556/b]—
+
+                (i) a Hearing Officer may hear cases arising under section 554 of such title;
+
+                (ii) a Hearing Officer shall have the powers described in section 556(c) of such title; and
+
+                (iii) the relevant provisions of subchapter II of chapter 5 of such title (except for section 556(b) of such title) shall apply to such Hearing Officer.
+
+            (D) __Treatment of current personnel__ 
+
+                An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
+
+        (4) __Hearing officer defined__ 
+
+            In this subsection, the term “Hearing Officer” means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.
+
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[5\], July 18, 1958, [72 Stat. 385][/us/stat/72/385]; [Pub. L. 87–305, § 4][/us/pl/87/305/s4], Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666]; [Pub. L. 87–367, title I, § 103(3)][/us/pl/87/367/s103/3], Oct. 4, 1961, [75 Stat. 787][/us/stat/75/787]; [Pub. L. 92–310, title II, § 224(a)][/us/pl/92/310/s224/a], June 6, 1972, [86 Stat. 206][/us/stat/86/206]; [Pub. L. 93–386][/us/pl/93/386], §§ 3(1), 10, Aug. 23, 1974, [88 Stat. 745][/us/stat/88/745], 749; [Pub. L. 94–305, title II, § 208][/us/pl/94/305/s208], June 4, 1976, [90 Stat. 671][/us/stat/90/671]; [Pub. L. 95–89, title III, § 303][/us/pl/95/89/s303], Aug. 4, 1977, [91 Stat. 558][/us/stat/91/558]; [Pub. L. 95–510, § 103][/us/pl/95/510/s103], Oct. 24, 1978, [92 Stat. 1781][/us/stat/92/1781]; [Pub. L. 96–302, title I, § 114][/us/pl/96/302/s114], July 2, 1980, [94 Stat. 838][/us/stat/94/838]; [Pub. L. 98–352, § 2][/us/pl/98/352/s2], July 10, 1984, [98 Stat. 329][/us/stat/98/329]; [Pub. L. 100–590, title I, § 113][/us/pl/100/590/s113], Nov. 3, 1988, [102 Stat. 2997][/us/stat/102/2997]; [Pub. L. 102–140, title VI, § 609(a)][/us/pl/102/140/s609/a], Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825]; [Pub. L. 102–564, title III, § 307(d)][/us/pl/102/564/s307/d], Oct. 28, 1992, [106 Stat. 4264][/us/stat/106/4264]; [Pub. L. 103–81, § 3(a)][/us/pl/103/81/s3/a], Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780]; [Pub. L. 103–282, § 2][/us/pl/103/282/s2], July 22, 1994, [108 Stat. 1422][/us/stat/108/1422]; [Pub. L. 103–403, title VI, § 602][/us/pl/103/403/s602], Oct. 22, 1994, [108 Stat. 4202][/us/stat/108/4202]; [Pub. L. 104–36, § 4(b)][/us/pl/104/36/s4/b], Oct. 12, 1995, [109 Stat. 297][/us/stat/109/297]; [Pub. L. 104–208, div. D, title I, § 103(e)][/us/pl/104/208/s103/e], title II, §§ 205(a), 208(i)(1), Sept. 30, 1996, [110 Stat. 3009–727][/us/stat/110/3009-727], 3009–738, 3009–747; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–683; [Pub. L. 108–306, § 3][/us/pl/108/306/s3], Sept. 24, 2004, [118 Stat. 1131][/us/stat/118/1131]; [Pub. L. 108–447, div. K, title I, § 131][/us/pl/108/447/s131], Dec. 8, 2004, [118 Stat. 3452][/us/stat/118/3452]; [Pub. L. 111–240, title I, § 1117][/us/pl/111/240/s1117], Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509]; [Pub. L. 114–92, div. A, title VIII, § 869(a)(1)][/us/pl/114/92/s869/a/1], Nov. 25, 2015, [129 Stat. 936][/us/stat/129/936].)
 
  __References in Text__ 
 
-    The Small Business Investment Act of 1958, referred to in subsec. (b)(12)(C), (D), is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], which is classified principally to chapter 14B (§ 661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§ 681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title][/us/usc/t15/s661] and Tables.
+    The Small Business Investment Act of 1958, referred to in subsecs. (b)(12)(C), (D) and (i)(1)(B) is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], which is classified principally to chapter 14B (§ 661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§ 681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title][/us/usc/t15/s661] and Tables.
 
     Subsection (h)(2) of this section, referred to in subsec. (g)(4)(A), was redesignated subsec. (h)(1)(B) by [Pub. L. 104–208, div. D, title II, § 205(a)(1)][/us/pl/104/208/s205/a/1], (2), Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738].
 
@@ -184,6 +258,8 @@
     Prior similar provisions were contained in section 205 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 234][/us/stat/67/234], as amended by [act Aug. 9, 1955, ch. 628, § 4][/us/act/1955-08-09/ch628/s4], [69 Stat. 547][/us/stat/69/547], which was classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2015—Subsec. (i). [Pub. L. 114–92][/us/pl/114/92] added subsec. (i).
 
     2010—Subsec. (g)(6). [Pub. L. 111–240][/us/pl/111/240] added par. (6).
 
@@ -350,6 +426,12 @@
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
 [/us/usc/t15/s636/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F23
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
+[/us/usc/t15/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F1
+[/us/usc/t5/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2103
+[/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
+[/us/usc/t5/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556%2Fb
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F385
 [/us/pl/87/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs4
@@ -394,6 +476,8 @@
 [/us/stat/118/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3452
 [/us/pl/111/240/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1117
 [/us/stat/124/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2509
+[/us/pl/114/92/s869/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs869%2Fa%2F1
+[/us/stat/129/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F936
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -415,6 +499,7 @@
 [/us/act/1955-08-09/ch628/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628%2Fs4
 [/us/stat/69/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F547
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/306/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F306%2Fs3%2F1

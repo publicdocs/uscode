@@ -99,7 +99,7 @@
 
         (3) __Provision of data__ 
 
-            Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+            Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
         (4) __Penalties__ 
 
@@ -113,7 +113,7 @@
 
         There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[31\], as added [Pub. L. 105–135, title VI, § 602(b)(1)(B)][/us/pl/105/135/s602/b/1/B], Dec. 2, 1997, [111 Stat. 2629][/us/stat/111/2629]; amended [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(b), title VI, § 612(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–699; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 153, 154, Dec. 8, 2004, [118 Stat. 3458][/us/stat/118/3458]; [Pub. L. 111–240, title I, § 1347(b)(1)][/us/pl/111/240/s1347/b/1], (c), Sept. 27, 2010, [124 Stat. 2547][/us/stat/124/2547].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[31\], as added [Pub. L. 105–135, title VI, § 602(b)(1)(B)][/us/pl/105/135/s602/b/1/B], Dec. 2, 1997, [111 Stat. 2629][/us/stat/111/2629]; amended [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(b), title VI, § 612(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–699; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 153, 154, Dec. 8, 2004, [118 Stat. 3458][/us/stat/118/3458]; [Pub. L. 111–240, title I, § 1347(b)(1)][/us/pl/111/240/s1347/b/1], (c), Sept. 27, 2010, [124 Stat. 2547][/us/stat/124/2547]; [Pub. L. 114–92, div. A, title VIII, § 866(c)][/us/pl/114/92/s866/c], Nov. 25, 2015, [129 Stat. 932][/us/stat/129/932].)
 
  __Codification__ 
 
@@ -128,6 +128,8 @@
     A prior section 2\[31\] of [Pub. L. 85–536][/us/pl/85/536] was renumbered section 2\[47\] and is set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3). [Pub. L. 114–92][/us/pl/114/92] inserted “the Administrator of the Federal Emergency Management Agency,” after “the Secretary of Labor,”.
 
     2010—Subsec. (b)(2). [Pub. L. 111–240, § 1347(c)(1)][/us/pl/111/240/s1347/c/1], struck out introductory provisions which read as follows: “Notwithstanding any other provision of law—”.
 
@@ -184,6 +186,8 @@
 [/us/stat/118/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3458
 [/us/pl/111/240/s1347/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1347%2Fb%2F1
 [/us/stat/124/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2547
+[/us/pl/114/92/s866/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs866%2Fc
+[/us/stat/129/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F932
 [/us/usc/t41/s2101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2101%2F1
 [/us/usc/t41/s423/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423%2Ff%2F5
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
@@ -197,6 +201,7 @@
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/111/240/s1347/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1347%2Fc%2F1
 [/us/pl/111/240/s1347/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1347%2Fc%2F2%2FA
 [/us/pl/111/240/s1347/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1347%2Fc%2F2%2FB

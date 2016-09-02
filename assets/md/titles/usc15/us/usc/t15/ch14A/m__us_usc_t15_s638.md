@@ -203,7 +203,11 @@
 
         (2) __Limitations__ 
 
-            A Federal agency shall not make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
+        A Federal agency shall not—
+
+            (A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
+
+            (B) make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
 
         (3) __Exclusion of certain funding agreements__ 
 
@@ -919,7 +923,17 @@
 
         (4) __Funding__ 
 
-            For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards.
+            (A) __In general__ 
+
+                The Secretary of Defense and each Secretary of a military department may use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program for payment of expenses incurred to administer the Commercialization Readiness Program under this subsection.
+
+            (B) __Limitations__ 
+
+            The funds described in subparagraph (A)—
+
+                (i) shall not be subject to the limitations on the use of funds in subsection (f)(2); and
+
+                (ii) shall not be used to make Phase III awards.
 
         (5) __Insertion incentives__ 
 
@@ -1365,7 +1379,7 @@
 
         (1) __In general__ 
 
-        Subject to paragraph (3), for the 3 fiscal years beginning after December 31, 2011, the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
+        Subject to paragraph (3) and until September 30, 2017, the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
 
             (A) the administration of the SBIR program or the STTR program of the Federal agency;
 
@@ -1545,35 +1559,7 @@
 
         (5) recommendations that the program managers of the SBIR or STTR program of the agency consider appropriate for additional actions to increase the effectiveness of enhancing manufacturing activities.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[9\], July 18, 1958, [72 Stat. 391][/us/stat/72/391]; [Pub. L. 97–219][/us/pl/97/219], §§ 3–5, July 22, 1982, [96 Stat. 217][/us/stat/96/217], 218, 221; [Pub. L. 99–443][/us/pl/99/443], §§ 1, 2, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–590, title I, § 108][/us/pl/100/590/s108], Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994]; [Pub. L. 102–484, div. D, title XLII, § 4237(d)][/us/pl/102/484/s4237/d], Oct. 23, 1992, [106 Stat. 2692][/us/stat/106/2692]; [Pub. L. 102–564, title I][/us/pl/102/564], §§ 103, 104, title II, § 202(a)–(c), title III, §§ 301(a), 305, Oct. 28, 1992, [106 Stat. 4250][/us/stat/106/4250], 4254, 4256, 4257, 4261, 4262; [Pub. L. 103–403, title VI, § 607][/us/pl/103/403/s607], Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 104–208, div. D, title I, § 110][/us/pl/104/208/s110], Sept. 30, 1996, [110 Stat. 3009–733][/us/stat/110/3009-733]; [Pub. L. 105–135, title V, § 501][/us/pl/105/135/s501], Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, §§ 103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–669, 2763A–673, 2763A–679, 2763A–681; [Pub. L. 107–50][/us/pl/107/50], §§ 2, 3(a), 4–7, Oct. 15, 2001, [115 Stat. 263–265][/us/stat/115/263-265]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–163, div. A, title II, § 252][/us/pl/109/163/s252], Jan. 6, 2006, [119 Stat. 3177][/us/stat/119/3177]; [Pub. L. 110–140, title XII, § 1203(e)][/us/pl/110/140/s1203/e], Dec. 19, 2007, [121 Stat. 1771][/us/stat/121/1771]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 847(a), (b), 848, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420], 2421; [Pub. L. 111–383, div. A, title X, § 1075][/us/pl/111/383/s1075](l), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378]; [Pub. L. 112–17][/us/pl/112/17], §§ 3, 4, June 1, 2011, [125 Stat. 221][/us/stat/125/221], 222; [Pub. L. 112–81, div. A, title X, § 1067(a)][/us/pl/112/81/s1067/a], div. E, title LI, §§ 5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; [Pub. L. 112–239, div. A, title X, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], title XVI, § 1615(a), (b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], 2066.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–81, div. E, title LI, § 5141(b)(3)][/us/pl/112/81/s5141/b/3], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854], as amended by [Pub. L. 112–239, div. A, title XVI, § 1615(b)][/us/pl/112/239/s1615/b], Jan. 2, 2013, [126 Stat. 2066][/us/stat/126/2066], provided that, effective on the first day of the fourth full fiscal year following Dec. 31, 2011, this section is amended as follows:
-
-    (1) in subsection (f)(2), by striking “shall not make available for the purpose” and inserting the following: “shall not—
-
-    “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
-
-    “(B) make available for the purpose”; and
-
-    (2) in subsection (y), by amending paragraph (4) to read as follows:
-
-    “(4) Funding
-
-    “(A) In general
-
-    “The Secretary of Defense and each Secretary of a military department may use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program for payment of expenses incurred to administer the Commercialization Readiness Program under this subsection.
-
-    “(B) Limitations
-
-    “The funds described in subparagraph (A)—
-
-    “(i) shall not be subject to the limitations on the use of funds in subsection (f)(2); and
-
-    “(ii) shall not be used to make Phase III awards.”
-
-    See 2011 Amendment notes below.
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[9\], July 18, 1958, [72 Stat. 391][/us/stat/72/391]; [Pub. L. 97–219][/us/pl/97/219], §§ 3–5, July 22, 1982, [96 Stat. 217][/us/stat/96/217], 218, 221; [Pub. L. 99–443][/us/pl/99/443], §§ 1, 2, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–590, title I, § 108][/us/pl/100/590/s108], Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994]; [Pub. L. 102–484, div. D, title XLII, § 4237(d)][/us/pl/102/484/s4237/d], Oct. 23, 1992, [106 Stat. 2692][/us/stat/106/2692]; [Pub. L. 102–564, title I][/us/pl/102/564], §§ 103, 104, title II, § 202(a)–(c), title III, §§ 301(a), 305, Oct. 28, 1992, [106 Stat. 4250][/us/stat/106/4250], 4254, 4256, 4257, 4261, 4262; [Pub. L. 103–403, title VI, § 607][/us/pl/103/403/s607], Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 104–208, div. D, title I, § 110][/us/pl/104/208/s110], Sept. 30, 1996, [110 Stat. 3009–733][/us/stat/110/3009-733]; [Pub. L. 105–135, title V, § 501][/us/pl/105/135/s501], Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, §§ 103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–669, 2763A–673, 2763A–679, 2763A–681; [Pub. L. 107–50][/us/pl/107/50], §§ 2, 3(a), 4–7, Oct. 15, 2001, [115 Stat. 263–265][/us/stat/115/263-265]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–163, div. A, title II, § 252][/us/pl/109/163/s252], Jan. 6, 2006, [119 Stat. 3177][/us/stat/119/3177]; [Pub. L. 110–140, title XII, § 1203(e)][/us/pl/110/140/s1203/e], Dec. 19, 2007, [121 Stat. 1771][/us/stat/121/1771]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 847(a), (b), 848, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420], 2421; [Pub. L. 111–383, div. A, title X, § 1075][/us/pl/111/383/s1075](l), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378]; [Pub. L. 112–17][/us/pl/112/17], §§ 3, 4, June 1, 2011, [125 Stat. 221][/us/stat/125/221], 222; [Pub. L. 112–81, div. A, title X, § 1067(a)][/us/pl/112/81/s1067/a], div. E, title LI, §§ 5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; [Pub. L. 112–239, div. A, title X, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], title XVI, § 1615(a), (b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], 2066; [Pub. L. 114–92, div. A, title VIII, § 873(e)][/us/pl/114/92/s873/e], Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940].)
 
  __References in Text__ 
 
@@ -1600,6 +1586,8 @@
     Section 209 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 237][/us/stat/67/237], was previously classified to this section. See [section 645 of this title][/us/usc/t15/s645] and Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2015—Subsec. (mm)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “and until September 30, 2017,” for “, for the 3 fiscal years beginning after December 31, 2011,”.
 
     2013—Subsec. (b)(7). [Pub. L. 112–239, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], repealed [Pub. L. 112–81, § 1067(a)(1)][/us/pl/112/81/s1067/a/1]. See 2011 Amendment note below.
 
@@ -2747,10 +2735,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
 [/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
-[/us/pl/112/81/s5141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3
-[/us/stat/125/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1854
-[/us/pl/112/239/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fb
-[/us/stat/126/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2066
+[/us/pl/114/92/s873/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs873%2Fe
+[/us/stat/129/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F940
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
@@ -2773,6 +2759,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/67/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F237
 [/us/usc/t15/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs645
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
 [/us/pl/112/81/s1067/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa%2F1
 [/us/pl/112/239/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fb

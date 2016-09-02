@@ -115,9 +115,15 @@
 
         For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
-([Pub. L. 85–699, title IV, § 411][/us/pl/85/699/s411], as added [Pub. L. 91–609, title IX, § 911(a)(4)][/us/pl/91/609/s911/a/4], Dec. 31, 1970, [84 Stat. 1813][/us/stat/84/1813]; amended [Pub. L. 93–386][/us/pl/93/386], §§ 6(a)(3), 11, Aug. 23, 1974, [88 Stat. 747][/us/stat/88/747], 749; [Pub. L. 95–507, title I, § 111][/us/pl/95/507/s111], Oct. 24, 1978, [92 Stat. 1758][/us/stat/92/1758]; [Pub. L. 96–302, title I, § 115][/us/pl/96/302/s115], July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 99–272, title XVIII, § 18014][/us/pl/99/272/s18014], Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370]; [Pub. L. 100–590, title II][/us/pl/100/590], §§ 202–204, Nov. 3, 1988, [102 Stat. 3007–3009][/us/stat/102/3007-3009]; [Pub. L. 104–208, div. D, title II, § 206(a)][/us/pl/104/208/s206/a], Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738]; [Pub. L. 105–135, title VI, § 604(d)][/us/pl/105/135/s604/d], Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 805(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–705; [Pub. L. 108–447, div. K, title II, § 203(a)][/us/pl/108/447/s203/a], (b), Dec. 8, 2004, [118 Stat. 3465][/us/stat/118/3465], 3466; [Pub. L. 111–5, div. A, title V, § 508(a)][/us/pl/111/5/s508/a], (b), Feb. 17, 2009, [123 Stat. 158][/us/stat/123/158]; [Pub. L. 112–239, div. A, title XVI, § 1695(a)][/us/pl/112/239/s1695/a], (b), Jan. 2, 2013, [126 Stat. 2089][/us/stat/126/2089], 2090.)
+([Pub. L. 85–699, title IV, § 411][/us/pl/85/699/s411], as added [Pub. L. 91–609, title IX, § 911(a)(4)][/us/pl/91/609/s911/a/4], Dec. 31, 1970, [84 Stat. 1813][/us/stat/84/1813]; amended [Pub. L. 93–386][/us/pl/93/386], §§ 6(a)(3), 11, Aug. 23, 1974, [88 Stat. 747][/us/stat/88/747], 749; [Pub. L. 95–507, title I, § 111][/us/pl/95/507/s111], Oct. 24, 1978, [92 Stat. 1758][/us/stat/92/1758]; [Pub. L. 96–302, title I, § 115][/us/pl/96/302/s115], July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 99–272, title XVIII, § 18014][/us/pl/99/272/s18014], Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370]; [Pub. L. 100–590, title II][/us/pl/100/590], §§ 202–204, Nov. 3, 1988, [102 Stat. 3007–3009][/us/stat/102/3007-3009]; [Pub. L. 104–208, div. D, title II, § 206(a)][/us/pl/104/208/s206/a], Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738]; [Pub. L. 105–135, title VI, § 604(d)][/us/pl/105/135/s604/d], Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 805(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–705; [Pub. L. 108–447, div. K, title II, § 203(a)][/us/pl/108/447/s203/a], (b), Dec. 8, 2004, [118 Stat. 3465][/us/stat/118/3465], 3466; [Pub. L. 111–5, div. A, title V, § 508(a)][/us/pl/111/5/s508/a], (b), Feb. 17, 2009, [123 Stat. 158][/us/stat/123/158]; [Pub. L. 112–239, div. A, title XVI, § 1695(a)][/us/pl/112/239/s1695/a], (b), Jan. 2, 2013, [126 Stat. 2089][/us/stat/126/2089], 2090; [Pub. L. 114–92, div. A, title VIII, § 874(b)][/us/pl/114/92/s874/b], Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941].)
+
+ __Amendment of Subsection (c)(1)__ 
+
+    [Pub. L. 114–92, div. A, title VIII, § 874(b)][/us/pl/114/92/s874/b], (c), Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941], provided that, effective 1 year after Nov. 25, 2015, subsection (c)(1) of this section is amended by substituting “90” for “70”. See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “90” for “70”.
 
     2013—Subsec. (a)(1). [Pub. L. 112–239, § 1695(a)][/us/pl/112/239/s1695/a], designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with [section 1908 of title 41][/us/usc/t41/s1908].” for “does not exceed $2,000,000.”, and added subpar. (B).
 
@@ -188,6 +194,12 @@
     1974—Subsec. (a). [Pub. L. 93–386, § 6(a)(3)][/us/pl/93/386/s6/a/3], substituted “$1,000,000” for “$500,000”.
 
     Subsec. (c). [Pub. L. 93–386, § 11][/us/pl/93/386/s11], inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 874(c)][/us/pl/114/92/s874/c], Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941], provided that: 
+
+> “The amendments made by this section \[enacting [section 9310 of Title 31][/us/usc/t31/s9310], Money and Finance, and amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Nov. 25, 2015\].”
 
  __Termination Date of 2009 Amendment__ 
 
@@ -265,6 +277,11 @@
 [/us/stat/123/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F158
 [/us/pl/112/239/s1695/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1695%2Fa
 [/us/stat/126/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2089
+[/us/pl/114/92/s874/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fb
+[/us/stat/129/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F941
+[/us/pl/114/92/s874/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fb
+[/us/stat/129/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F941
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s1695/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1695%2Fa
 [/us/usc/t41/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1908
 [/us/pl/112/239/s1695/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1695%2Fb%2F1
@@ -293,6 +310,9 @@
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/pl/93/386/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs6%2Fa%2F3
 [/us/pl/93/386/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs11
+[/us/pl/114/92/s874/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fc
+[/us/stat/129/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F941
+[/us/usc/t31/s9310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9310
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs508%2Ff
 [/us/usc/t15/s694a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694a
