@@ -95,7 +95,7 @@ Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), O
 
  __Senate Revision Amendment__ 
 
-    In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
  __Micro-Purchase Guidelines__ 
 

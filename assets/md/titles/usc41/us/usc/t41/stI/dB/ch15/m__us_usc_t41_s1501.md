@@ -225,7 +225,7 @@ In subsection (c)(2), the reference to [section 5376 of title 5][/us/usc/t5/s537
 
  __Senate Revision Amendment__ 
 
-    In subsec. (c)(2), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8441, Dec. 2, 2010 (daily ed.).
+    In subsec. (c)(2), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 ----------
 

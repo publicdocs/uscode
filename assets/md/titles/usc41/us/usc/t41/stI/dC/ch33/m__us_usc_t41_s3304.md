@@ -345,7 +345,7 @@ June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12
 
  __Senate Revision Amendment__ 
 
-    In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
  __Justification and Approval of Sole-Source Contracts__ 
 

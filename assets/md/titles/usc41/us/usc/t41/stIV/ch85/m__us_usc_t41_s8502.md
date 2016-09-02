@@ -295,7 +295,7 @@ June 25, 1938, ch. 697, § 1 (less (a) (words in parentheses before par. (1)))
 
  __Senate Revision Amendment__ 
 
-    In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5][/us/usc/t5/s5376]” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
 ----------
 

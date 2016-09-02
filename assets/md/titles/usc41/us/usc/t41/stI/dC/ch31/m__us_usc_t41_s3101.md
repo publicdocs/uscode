@@ -335,7 +335,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
  __Ex. Ord. No. 13673. Fair Pay and Safe Workplaces__ 
 
-    Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, provided:
+    Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, as amended by Ex. Ord. No. 13683, § 3, Dec. 11, 2014, 79 F.R. 75042, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including [40 U.S.C. 121][/us/usc/t40/s121], and in order to promote economy and efficiency in procurement by contracting with responsible sources who comply with labor laws, it is hereby ordered as follows:
 
@@ -359,7 +359,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (H) section 503 of the Rehabilitation Act of 1973;
 
-    (I) [38 U.S.C. 3696][/us/usc/t38/s3696], 3698, 3699, 4214, 4301–4306, also known as the Vietnam Era Veterans’ Readjustment Assistance Act of 1974;
+    (I) the Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974;
 
     (J) the Family and Medical Leave Act;
 
@@ -575,7 +575,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
-[/us/usc/t38/s3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3696
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/110/417/s864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs864
 [/us/pl/110/417/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs321

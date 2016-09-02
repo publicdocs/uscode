@@ -111,7 +111,7 @@ Mar. 8, 1946, ch. 80, § 2, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 S
 
  __Senate Revision Amendment__ 
 
-    Senate amendment 4726 (111th Cong.) added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively. See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    Senate amendment 4726 (111th Cong.) added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively. See 156 Cong. Rec. 18683 (2010).
 
 ----------
 

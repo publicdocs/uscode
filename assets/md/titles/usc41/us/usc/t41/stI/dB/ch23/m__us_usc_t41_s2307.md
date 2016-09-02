@@ -65,6 +65,10 @@ Pub. L. 93–400, § 14(a), Aug. 30, 1974, 88 Stat. 800.  </td>
 
 </table>
 
+ __Senate Revision Amendment__ 
+
+    In text, “representatives of the Comptroller General” substituted for “his representatives” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/ch23/m__us_usc_t41_s2306.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch23/m__us_usc_t41_s2308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2307)

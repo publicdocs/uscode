@@ -97,6 +97,10 @@
 
 </table>
 
+ __Senate Revision Amendment__ 
+
+    In chapter 35 heading, “OR” substituted for “AND” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dC/ch33/m__us_usc_t41_s3312.md) | [Next](./../../../../../..//us/usc/t41/stI/dC/ch35/m__us_usc_t41_s3501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2FstI%2FdC%2Fch35)

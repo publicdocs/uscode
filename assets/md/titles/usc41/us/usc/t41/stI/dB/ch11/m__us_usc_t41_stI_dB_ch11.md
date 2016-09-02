@@ -107,7 +107,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1127" data-uslm-ref="/us/usc/t41/s1127">1127.</a>  </td>
 
-    <td> .  </td>
+    <td> Determining benchmark compensation amount.  </td>
 
   </tr>
 

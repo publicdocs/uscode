@@ -279,7 +279,7 @@ Pub. L. 109–364, div. A, title VIII, § 834(b), (c) (related to (b)), Oct. 1
 
  __Senate Revision Amendment__ 
 
-    Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. 18683 (2010).
 
 ----------
 

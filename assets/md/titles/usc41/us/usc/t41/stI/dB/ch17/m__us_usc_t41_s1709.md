@@ -117,7 +117,7 @@ Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), O
 
  __Senate Revision Amendment__ 
 
-    In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
  __Requirement for Guidance and Regulations__ 
 

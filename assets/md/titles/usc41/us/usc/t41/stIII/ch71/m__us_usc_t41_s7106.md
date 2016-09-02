@@ -115,7 +115,7 @@ Pub. L. 95–563, § 9, Nov. 1, 1978, 92 Stat. 2387; Pub. L. 103–355, title 
 
  __Senate Revision Amendment__ 
 
-    In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+    In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
 ----------
 

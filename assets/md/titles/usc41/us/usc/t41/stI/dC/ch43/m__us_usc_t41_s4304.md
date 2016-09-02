@@ -137,7 +137,7 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
  __Amendments__ 
 
-    2013—Subsec. (a)(16). [Pub. L. 113–66][/us/pl/113/66] and [Pub. L. 113–67][/us/pl/113/67] amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under [section 1127 of this title][/us/usc/t41/s1127].”
+    2013—Subsec. (a)(16). [Pub. L. 113–66][/us/pl/113/66] and [Pub. L. 113–67][/us/pl/113/67] amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under [section 1127 of this title][/us/usc/t41/s1127].” See Effective Date of 2013 Amendment notes below.
 
  __Effective Date of 2013 Amendment__ 
 
