@@ -147,7 +147,7 @@
 
     (j) __Reports__ 
 
-    Not later than March 31 of each of the years 2011 through 2015, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
+    Not later than March 31 of each of the years 2011 through 2014, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
 
         (1)
 
@@ -183,7 +183,7 @@
 
         (6) The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506D, as added [Pub. L. 111–259, title III, § 322(a)(1)][/us/pl/111/259/s322/a/1], Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; amended [Pub. L. 112–277, title III, § 310(a)(3)][/us/pl/112/277/s310/a/3], Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506D, as added [Pub. L. 111–259, title III, § 322(a)(1)][/us/pl/111/259/s322/a/1], Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; amended [Pub. L. 112–277, title III, § 310(a)(3)][/us/pl/112/277/s310/a/3], Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475]; [Pub. L. 113–126, title III, § 329(b)(3)][/us/pl/113/126/s329/b/3], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __References in Text__ 
 
@@ -194,6 +194,8 @@
     Section was formerly classified to [section 415a–6 of this title][/us/usc/t50/s415a–6] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2014—Subsec. (j). [Pub. L. 113–126][/us/pl/113/126] substituted “2014” for “2015” in introductory provisions.
 
     2013—Subsec. (e). [Pub. L. 112–277][/us/pl/112/277] struck out subsec. (e) which required inclusion of certain budget information in the budget materials submitted to Congress for each fiscal year after fiscal year 2011.
 
@@ -248,9 +250,12 @@
 [/us/stat/124/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2669
 [/us/pl/112/277/s310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F3
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
+[/us/pl/113/126/s329/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F3
+[/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/108/287/s8083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8083
 [/us/stat/118/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F989
 [/us/usc/t50/s415a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%936
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/111/259/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs322%2Fb
 [/us/stat/124/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2673

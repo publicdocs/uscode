@@ -33,13 +33,9 @@
 
         (4) the Secretary of Defense;
 
-        (5) the Secretary of Energy;
+        (5) the Secretary of Energy; and
 
-        (6) the Director for Mutual Security;
-
-        (7) the Chairman of the National Security Resources Board; and
-
-        (8) the Secretaries and Under Secretaries of other executive departments and of the military departments, the Chairman of the Munitions Board, and the Chairman of the Research and Development Board, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
+        (6) the Secretaries and Under Secretaries of other executive departments and of the military departments, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
 
     (b) __Additional functions__ 
 
@@ -169,7 +165,7 @@
 
         The United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism (or, in the Coordinator’s absence, the Deputy United States Coordinator) may, in the performance of the Coordinator’s duty as principal advisor to the President on all matters relating to the prevention of weapons of mass destruction proliferation and terrorism, and, subject to the direction of the President, attend and participate in meetings of the National Security Council and the Homeland Security Council.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101, [61 Stat. 496][/us/stat/61/496]; [Aug. 10, 1949, ch. 412, § 3][/us/act/1949-08-10/ch412/s3], [63 Stat. 579][/us/stat/63/579]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(1), [65 Stat. 378][/us/stat/65/378]; [Pub. L. 99–433, title II, § 203][/us/pl/99/433/s203], Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125; [Pub. L. 99–661, div. A, title XIII, § 1311(f)][/us/pl/99/661/s1311/f], Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986]; [Pub. L. 100–690, title I, § 1003(a)(3)][/us/pl/100/690/s1003/a/3], Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 102–496, title VII, § 703][/us/pl/102/496/s703], Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–293, title VIII][/us/pl/104/293], §§ 802, 804, Oct. 11, 1996, [110 Stat. 3474][/us/stat/110/3474], 3476; [Pub. L. 105–277, div. C, title VII, § 713(b)][/us/pl/105/277/s713/b], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 105–292, title III, § 301][/us/pl/105/292/s301], Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 110–53, title XVIII, § 1841(g)][/us/pl/110/53/s1841/g], Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500]; [Pub. L. 110–140, title IX, § 932][/us/pl/110/140/s932], Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101, [61 Stat. 496][/us/stat/61/496]; [Aug. 10, 1949, ch. 412, § 3][/us/act/1949-08-10/ch412/s3], [63 Stat. 579][/us/stat/63/579]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(1), [65 Stat. 378][/us/stat/65/378]; [Pub. L. 99–433, title II, § 203][/us/pl/99/433/s203], Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125; [Pub. L. 99–661, div. A, title XIII, § 1311(f)][/us/pl/99/661/s1311/f], Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986]; [Pub. L. 100–690, title I, § 1003(a)(3)][/us/pl/100/690/s1003/a/3], Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 102–496, title VII, § 703][/us/pl/102/496/s703], Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–293, title VIII][/us/pl/104/293], §§ 802, 804, Oct. 11, 1996, [110 Stat. 3474][/us/stat/110/3474], 3476; [Pub. L. 105–277, div. C, title VII, § 713(b)][/us/pl/105/277/s713/b], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 105–292, title III, § 301][/us/pl/105/292/s301], Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 110–53, title XVIII, § 1841(g)][/us/pl/110/53/s1841/g], Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500]; [Pub. L. 110–140, title IX, § 932][/us/pl/110/140/s932], Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740]; [Pub. L. 113–126, title VII, § 702][/us/pl/113/126/s702], July 7, 2014, [128 Stat. 1422][/us/stat/128/1422].)
 
  __References in Text__ 
 
@@ -186,6 +182,12 @@
     In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(5) to (8). [Pub. L. 113–126][/us/pl/113/126] substituted “; and” for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out “the Chairman of the Munitions Board, and the Chairman of the Research and Development Board,” after “military departments,”, and struck out former pars. (6) and (7) which read follows:
+
+    “(6) the Director for Mutual Security;
+
+    “(7) the Chairman of the National Security Resources Board; and”.
 
     2007—Subsec. (a)(5) to (8). [Pub. L. 110–140][/us/pl/110/140] added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
@@ -405,6 +407,24 @@
 
     Ex. Ord. No. 13260, Mar. 19, 2002, 67 F.R. 13241, as amended by Ex. Ord. No. 13286, § 4, Feb. 28, 2003, 68 F.R. 10619, which established the President’s Homeland Security Advisory Council and Senior Advisory Committees for Homeland Security, was revoked by Ex. Ord. No. 13286, § 4, Feb. 28, 2003, 68 F.R. 10619, eff. Mar. 31, 2003.
 
+ __Ex. Ord. No. 13657. Changing the Name of the National Security Staff to the National Security Council Staff__ 
+
+    Ex. Ord. No. 13657, Feb. 10, 2014, 79 F.R. 8823, provided:
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reflect my decision to change the name of the National Security Staff to the National Security Council staff, it is hereby ordered as follows:
+
+    Section 1. Name Change. All references to the National Security Staff or Homeland Security Council Staff in any Executive Order or Presidential directive shall be understood to refer to the staff of the National Security Council.
+
+    Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+    (i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+    (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+    (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_ch44_schI.md) | [Next](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_s3022.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021)
@@ -445,6 +465,8 @@
 [/us/stat/121/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F500
 [/us/pl/110/140/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs932
 [/us/stat/121/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1740
+[/us/pl/113/126/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs702
+[/us/stat/128/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1422
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
@@ -456,6 +478,7 @@
 [/us/usc/t3/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs105
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/53/s1841/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg%2F1
 [/us/pl/110/53/s1841/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg%2F2

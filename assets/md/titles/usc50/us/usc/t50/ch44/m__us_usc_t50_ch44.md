@@ -193,6 +193,14 @@ SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3034a" data-uslm-ref="/us/usc/t50/s3034a">3034a.</a>  </td>
+
+    <td> Functional Managers for the intelligence community.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3035" data-uslm-ref="/us/usc/t50/s3035">3035.</a>  </td>
 
     <td> Central Intelligence Agency.  </td>
@@ -249,6 +257,14 @@ SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3041a" data-uslm-ref="/us/usc/t50/s3041a">3041a.</a>  </td>
+
+    <td> Director of the National Reconnaissance Office.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3042" data-uslm-ref="/us/usc/t50/s3042">3042.</a>  </td>
 
     <td> Emergency preparedness.  </td>
@@ -267,7 +283,7 @@ SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3044" data-uslm-ref="/us/usc/t50/s3044">3044.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Software licensing.  </td>
 
   </tr>
 
@@ -315,7 +331,7 @@ SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3050" data-uslm-ref="/us/usc/t50/s3050">3050.</a>  </td>
 
-    <td> Additional annual reports from the Director of National Intelligence.  </td>
+    <td> Annual report on hiring and retention of minority employees.  </td>
 
   </tr>
 
@@ -585,6 +601,14 @@ SUBCHAPTER III—ACCOUNTABILITY FOR INTELLIGENCE ACTIVITIES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3105a" data-uslm-ref="/us/usc/t50/s3105a">3105a.</a>  </td>
+
+    <td> Annual assessment of intelligence community performance by function.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3106" data-uslm-ref="/us/usc/t50/s3106">3106.</a>  </td>
 
     <td> Dates for submittal of various annual and semiannual reports to the congressional intelligence committees.  </td>
@@ -596,6 +620,22 @@ SUBCHAPTER III—ACCOUNTABILITY FOR INTELLIGENCE ACTIVITIES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3107" data-uslm-ref="/us/usc/t50/s3107">3107.</a>  </td>
 
     <td> Certification of compliance with oversight requirements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3108" data-uslm-ref="/us/usc/t50/s3108">3108.</a>  </td>
+
+    <td> Auditability of certain elements of the intelligence community.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3109" data-uslm-ref="/us/usc/t50/s3109">3109.</a>  </td>
+
+    <td> Significant interpretations of law concerning intelligence activities.  </td>
 
   </tr>
 
@@ -956,6 +996,14 @@ SUBCHAPTER IX—ADDITIONAL MISCELLANEOUS PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3233" data-uslm-ref="/us/usc/t50/s3233">3233.</a>  </td>
 
     <td> Misuse of the Office of the Director of National Intelligence name, initials, or seal.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3234" data-uslm-ref="/us/usc/t50/s3234">3234.</a>  </td>
+
+    <td> Prohibited personnel practices in the intelligence community.  </td>
 
   </tr>
 

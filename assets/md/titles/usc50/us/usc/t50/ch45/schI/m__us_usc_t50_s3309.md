@@ -13,33 +13,33 @@
 
 [Previous](./../../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_s3308.md) | [Next](./../../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_s3310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3309)
 
-## § 3309. Annual report on advisory committees
+## § 3309. Notification of establishment of advisory committee
 
-    (1) __In general__ 
+    The Director of National Intelligence and the Director of the Central Intelligence Agency shall each notify the congressional intelligence committees each time each such Director creates an advisory committee. Each notification shall include—
 
-    The Director of National Intelligence and the Director of the Central Intelligence Agency shall each submit to the congressional intelligence committees an annual report on advisory committees created by each such Director. Each report shall include—
+    (1) a description of such advisory committee, including the subject matter of such committee;
 
-        (A) a description of each such advisory committee, including the subject matter of the committee; and
+    (2) a list of members of such advisory committee; and
 
-        (B) a list of members of each such advisory committee.
+    (3) in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.
 
-    (2) __Report on reasons for ODNI exclusion of advisory committee from FACA__ 
-
-        Each report submitted by the Director of National Intelligence in accordance with paragraph (1) shall include the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.), as added by subsection (a) of this section, that an advisory committee cannot comply with the requirements of such Act.
-
-([Pub. L. 111–259, title IV, § 410(b)][/us/pl/111/259/s410/b], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725].)
+([Pub. L. 111–259, title IV, § 410(b)][/us/pl/111/259/s410/b], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725]; [Pub. L. 113–126, title III, § 329(b)(1)][/us/pl/113/126/s329/b/1], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __References in Text__ 
 
-    Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (2), is [section 4(b)(3) of Pub. L. 92–463][/us/pl/92/463/s4/b/3], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
+    Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (3), is [section 4(b)(3) of Pub. L. 92–463][/us/pl/92/463/s4/b/3], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
 
     Section was formerly classified as a note under [section 405 of this title][/us/usc/t50/s405] prior to editorial reclassification as this section.
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–126][/us/pl/113/126] amended section generally. Prior to amendment, section related to annual report on advisory committees created by Director of National Intelligence and Director of the Central Intelligence Agency, contents of report, and inclusion of reasons for ODNI exclusion of advisory committee from Federal Advisory Committee Act.
+
  __Definition__ 
 
-    For definition of “congressional intelligence committees” referred to in par. (1), see [section 2 of Pub. L. 111–259][/us/pl/111/259/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].
+    For definition of “congressional intelligence committees” referred to in text, see [section 2 of Pub. L. 111–259][/us/pl/111/259/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].
 
 ----------
 
@@ -50,9 +50,12 @@
 
 [/us/pl/111/259/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs410%2Fb
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
+[/us/pl/113/126/s329/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F1
+[/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/92/463/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs4%2Fb%2F3
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t50/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs405
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 

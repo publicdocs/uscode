@@ -15,13 +15,13 @@
 
 ## § 3006. Repealing and savings provisions
 
-    All laws, orders, and regulations inconsistent with the provisions of this title  <sup>\[1\]</sup>  <sup><sup> 1 So in original. See References in Text note below. </sup></sup>  are repealed insofar as they are inconsistent with the powers, duties, and responsibilities enacted hereby: Provided, That the powers, duties, and responsibilities of the Secretary of Defense under this title  <sup>\[1\]</sup>  shall be administered in conformance with the policy and requirements for administration of budgetary and fiscal matters in the Government generally, including accounting and financial reporting, and that nothing in this title  <sup>\[1\]</sup>  shall be construed as eliminating or modifying the powers, duties, and responsibilities of any other department, agency, or officer of the Government in connection with such matters, but no such department, agency, or officer shall exercise any such powers, duties, or responsibilities in a manner that will render ineffective the provisions of this title. <sup>\[1\]</sup> 
+    All laws, orders, and regulations inconsistent with the provisions of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  are repealed insofar as they are inconsistent with the powers, duties, and responsibilities enacted hereby: Provided, That the powers, duties, and responsibilities of the Secretary of Defense under this title  <sup>\[1\]</sup>  shall be administered in conformance with the policy and requirements for administration of budgetary and fiscal matters in the Government generally, including accounting and financial reporting, and that nothing in this title  <sup>\[1\]</sup>  shall be construed as eliminating or modifying the powers, duties, and responsibilities of any other department, agency, or officer of the Government in connection with such matters, but no such department, agency, or officer shall exercise any such powers, duties, or responsibilities in a manner that will render ineffective the provisions of this title. <sup>\[1\]</sup> 
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title IV, § 411, as added [Aug. 10, 1949, ch. 412, § 11][/us/act/1949-08-10/ch412/s11], [63 Stat. 590][/us/stat/63/590].)
 
  __References in Text__ 
 
-    This title, referred to in text, means title IV of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], as added [Aug. 10, 1949, ch. 412, § 11][/us/act/1949-08-10/ch412/s11], [63 Stat. 585][/us/stat/63/585]. Section 411 of title IV was formerly classified to [section 412 of this title][/us/usc/t50/s412] prior to editorial reclassification and renumbering as [section 3006 of this title][/us/usc/t50/s3006]. For complete classification of title IV to the Code, see Tables.
+    This title, referred to in text, means title IV of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], as added [Aug. 10, 1949, ch. 412, § 11][/us/act/1949-08-10/ch412/s11], [63 Stat. 585][/us/stat/63/585], which enacted this section and enacted and amended various sections in former Title 5, Executive Departments and Government Officers and Employees, and former Title 31, Money and Finance. For complete classification of title IV to the Code, see Tables.
 
  __Codification__ 
 
@@ -40,8 +40,6 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/act/1949-08-10/ch412/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs11
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
-[/us/usc/t50/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs412
-[/us/usc/t50/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3006
 [/us/usc/t50/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs412
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378

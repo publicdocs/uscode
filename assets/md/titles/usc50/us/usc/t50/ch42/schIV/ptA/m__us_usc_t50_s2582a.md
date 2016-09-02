@@ -83,7 +83,7 @@
 
     Subsec. (a)(1). [Pub. L. 113–66, § 3146(e)(3)(B)(ii)][/us/pl/113/66/s3146/e/3/B/ii], substituted “defense environmental cleanup” for “environmental management”.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(e)(3)(C)][/us/pl/113/66/s3146/e/3/C], substituted “cleanup” for “management” in two places.
+    Subsec. (b). [Pub. L. 113–66, § 3146(e)(3)(C)][/us/pl/113/66/s3146/e/3/C], substituted “cleanup” for “management” in introductory provisions and par. (1).
 
 ----------
 

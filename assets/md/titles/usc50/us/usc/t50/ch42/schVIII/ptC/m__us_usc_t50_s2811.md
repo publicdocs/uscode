@@ -85,11 +85,15 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary” for “Secretary of Energy” wherever appearing other than in subsec. (a)(1).
+    2013—Subsec. (a)(2). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary” for “Secretary of Energy” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 113–66, § 3146(i)(6)(B)][/us/pl/113/66/s3146/i/6/B], struck out “of Energy” after “Secretary” in heading.
+    Subsec. (b)(1). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary may hold” for “Secretary of Energy may hold”.
 
-    Subsec. (f). [Pub. L. 113–66, § 3146(a)(2)(K)][/us/pl/113/66/s3146/a/2/K], substituted “section,” for “section:” and “the terms” for “The terms” and struck out par. (1) which defined “defense nuclear facility” and par. (2) designation.
+    Subsec. (c)(1)(A). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary” for “Secretary of Energy”.
+
+    Subsec. (d). [Pub. L. 113–66, § 3146(i)(6)][/us/pl/113/66/s3146/i/6], substituted “Secretary” for “Secretary of Energy” in heading and “Secretary determines” for “Secretary of Energy determines” in par. (1).
+
+    Subsec. (f). [Pub. L. 113–66, § 3146(a)(2)(K)][/us/pl/113/66/s3146/a/2/K], substituted “section, the terms” for “section:”, struck out par. (1) which defined “defense nuclear facility”, and struck out par. (2) designation and “The terms” before “ ‘hazardous substance’ ”.
 
     2003—Subsec. (b)(2)(D). [Pub. L. 108–137, § 504(a)][/us/pl/108/137/s504/a], which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 ([42 U.S.C. 7274q(b)(2)][/us/usc/t42/s7274q/b/2]) be amended by adding a subpar. (D), was executed to that section as renumbered by [Pub. L. 108–136][/us/pl/108/136] to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
 
@@ -125,7 +129,9 @@
 [/us/usc/t42/s7274q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274q
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
-[/us/pl/113/66/s3146/i/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FB
+[/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
+[/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
+[/us/pl/113/66/s3146/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6
 [/us/pl/113/66/s3146/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FK
 [/us/pl/108/137/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504%2Fa
 [/us/usc/t42/s7274q/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274q%2Fb%2F2

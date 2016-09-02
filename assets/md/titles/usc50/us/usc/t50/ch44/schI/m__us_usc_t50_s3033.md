@@ -119,7 +119,7 @@
 
          The Inspector General is authorized to receive and investigate, pursuant to subsection (h), complaints or information from any person concerning the existence of an activity within the authorities and responsibilities of the Director of National Intelligence constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the intelligence community—
 
-            (A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+            (A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5][/us/usc/t5/s552] (commonly known as the “Freedom of Information Act”); and
 
             (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
@@ -295,6 +295,8 @@
 
             (H) Nothing in this section shall be construed to limit the protections afforded to an employee under [section 3517(d) of this title][/us/usc/t50/s3517/d] or section 8H of the Inspector General Act of 1978 (5 U.S.C. App.).
 
+            (I) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of either of the congressional intelligence committees, or a staff member of either of such committees, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
+
         (6) In accordance with [section 535 of title 28][/us/usc/t28/s535], the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “involve”. </sup></sup>  a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
 
     (l) __Construction of duties regarding elements of Intelligence Community__ 
@@ -349,7 +351,7 @@
 
         (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103H, as added [Pub. L. 111–259, title IV, § 405(a)(1)][/us/pl/111/259/s405/a/1], Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709]; amended [Pub. L. 112–87, title IV, § 403][/us/pl/112/87/s403], Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888]; [Pub. L. 112–277, title III, § 309(a)][/us/pl/112/277/s309/a], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103H, as added [Pub. L. 111–259, title IV, § 405(a)(1)][/us/pl/111/259/s405/a/1], Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709]; amended [Pub. L. 112–87, title IV, § 403][/us/pl/112/87/s403], Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888]; [Pub. L. 112–277, title III, § 309(a)][/us/pl/112/277/s309/a], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title III, § 304][/us/pl/113/126/s304], title VI, § 603(c), July 7, 2014, [128 Stat. 1395][/us/stat/128/1395], 1421.)
 
  __References in Text__ 
 
@@ -360,6 +362,10 @@
     Section was formerly classified to [section 403–3h of this title][/us/usc/t50/s403–3h] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(3)(A). [Pub. L. 113–126, § 304][/us/pl/113/126/s304], substituted “undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5][/us/usc/t5/s552] (commonly known as the ‘Freedom of Information Act’);” for “undertaken;”.
+
+    Subsec. (k)(5)(I). [Pub. L. 113–126, § 603(c)][/us/pl/113/126/s603/c], added subpar. (I).
 
     2013—Subsec. (k)(1)(A). [Pub. L. 112–277][/us/pl/112/277] substituted “October 31 and April 30” for “January 31 and July 31” and “September 30 and March 31,” for “December 31 (of the preceding year) and June 30,”.
 
@@ -378,6 +384,7 @@
 ----------
 ----------
 
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t50/s3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3041
@@ -391,8 +398,13 @@
 [/us/stat/125/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1888
 [/us/pl/112/277/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs309%2Fa
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
+[/us/pl/113/126/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs304
+[/us/stat/128/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1395
 [/us/pl/95/452/s8H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H
 [/us/usc/t50/s403–3h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933h
+[/us/pl/113/126/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs304
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/pl/113/126/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fc
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/111/259/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs405%2Fc

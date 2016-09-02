@@ -77,9 +77,17 @@
 
             (B) the Select Committee on Intelligence and the Committees on Armed Services, Homeland Security and Governmental Affairs, and the Judiciary of the Senate.
 
+        (9)  __Access determination__  __.—__ 
+
+        The term “access determination” means the determination regarding whether an employee—
+
+            (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+
+            (B) possesses a need to know under such an Order.
+
     (b) __Selection of entity__ 
 
-    Not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
+    Except as otherwise provided, not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
 
         (1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
 
@@ -89,9 +97,17 @@
 
         (4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
 
-        (5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals; and
+        (5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
 
-        (6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances.
+        (6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
+
+        (7)
+
+         not later than 180 days after July 7, 2014—
+
+            (A) developing policies and procedures that permit, to the extent practicable, individuals to appeal a determination to suspend or revoke a security clearance or access to classified information and to retain their government employment status while such challenge is pending; and
+
+            (B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
     (c) __Performance of security clearance investigations__ 
 
@@ -207,21 +223,159 @@
 
         There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
 
-([Pub. L. 108–458, title III, § 3001][/us/pl/108/458/s3001], Dec. 17, 2004, [118 Stat. 3705][/us/stat/118/3705].)
+    (j) __Retaliatory revocation of security clearances and access determinations__ 
+
+        (1) __In general__ 
+
+        Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee’s security clearance or access determination in retaliation for—
+
+            (A)
+
+             any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+
+                (i) a violation of any Federal law, rule, or regulation; or
+
+                (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+            (B)
+
+             any lawful disclosure to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee reasonably believes evidences—
+
+                (i) a violation of any Federal law, rule, or regulation; or
+
+                (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+            (C)
+
+             any lawful disclosure that complies with—
+
+                (i) subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+
+                (ii) subparagraphs (A), (D), and (H) of [section 3517(d)(5) of this title][/us/usc/t50/s3517/d/5]; or
+
+                (iii) subparagraphs (A), (D), and (I) of [section 3033(k)(5) of this title][/us/usc/t50/s3033/k/5]; and
+
+            (D)
+
+             if the actions do not result in the employee or applicant unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—
+
+                (i) the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;
+
+                (ii) testimony for or otherwise lawfully assisting any individual in the exercise of any right referred to in clause (i); or
+
+                (iii) cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
+
+        (2) __Rule of construction__ 
+
+            Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+
+        (3) __Disclosures__ 
+
+            (A) __In general__ 
+
+            A disclosure shall not be excluded from paragraph (1) because—
+
+                (i) the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
+
+                (ii) the disclosure revealed information that had been previously disclosed;
+
+                (iii) the disclosure was not made in writing;
+
+                (iv) the disclosure was made while the employee was off duty; or
+
+                (v) of the amount of time which has passed since the occurrence of the events described in the disclosure.
+
+            (B) __Reprisals__ 
+
+                If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+
+        (4) __Agency adjudication__ 
+
+            (A) __Remedial procedure__ 
+
+                An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
+
+            (B) __Corrective action__ 
+
+                If, in the course of proceedings authorized under subparagraph (A), it is determined that the adverse security clearance or access determination violated paragraph (1), the agency shall take specific corrective action to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the violation not occurred. Such corrective action may include back pay and related benefits, travel expenses, and compensatory damages not to exceed $300,000.
+
+            (C) __Contributing factor__ 
+
+                In determining whether the adverse security clearance or access determination violated paragraph (1), the agency shall find that paragraph (1) was violated if a disclosure described in paragraph (1) was a contributing factor in the adverse security clearance or access determination taken against the individual, unless the agency demonstrates by a preponderance of the evidence that it would have taken the same action in the absence of such disclosure, giving the utmost deference to the agency’s assessment of the particular threat to the national security interests of the United States in the instant matter.
+
+        (5) __Appellate review of security clearance access determinations by Director of National Intelligence__ 
+
+            (A) __Appeal__ 
+
+                Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+
+            (B) __Policies and procedures__ 
+
+                The Director of National Intelligence, in consultation with the Attorney General and the Secretary of Defense, shall develop and implement policies and procedures for adjudicating the appeals authorized by subparagraph (A).
+
+            (C) __Congressional notification__ 
+
+                Consistent with the protection of sources and methods, at the time the Director of National Intelligence issues an order regarding an appeal pursuant to the policies and procedures established by this paragraph, the Director of National Intelligence shall notify the congressional intelligence committees.
+
+        (6) __Judicial review__ 
+
+        Nothing in this section shall be construed to permit or require judicial review of any—
+
+            (A) agency action under this section; or
+
+            (B) action of the appellate review procedures established under paragraph (5).
+
+        (7) __Private cause of action__ 
+
+            Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
+
+([Pub. L. 108–458, title III, § 3001][/us/pl/108/458/s3001], Dec. 17, 2004, [118 Stat. 3705][/us/stat/118/3705]; [Pub. L. 113–126, title VI, § 602(a)(1)][/us/pl/113/126/s602/a/1], (b), (c), July 7, 2014, [128 Stat. 1416][/us/stat/128/1416], 1417, 1419.)
 
  __References in Text__ 
 
-    Executive Order 12968, referred to in subsec. (a)(3), is set out as a note under [section 3161 of this title][/us/usc/t50/s3161].
+    Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under [section 3161 of this title][/us/usc/t50/s3161].
 
-    Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under [section 435 of this title][/us/usc/t50/s435], was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title][/us/usc/t50/s3161].
+    Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+    Executive Order 10865, referred to in subsec. (a)(9)(A), is set out as a note under [section 3161 of this title][/us/usc/t50/s3161].
+
+    Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C)(i), is [section 8H of Pub. L. 95–452][/us/pl/95/452/s8H], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
 
     Section was formerly classified to [section 435b of this title][/us/usc/t50/s435b] prior to editorial reclassification and renumbering as this section.
 
+ __Amendments__ 
+
+    2014—Subsec. (a)(9). [Pub. L. 113–126, § 602(c)][/us/pl/113/126/s602/c], added par. (9).
+
+    Subsec. (b). [Pub. L. 113–126, § 602(a)(1)(A)][/us/pl/113/126/s602/a/1/A], substituted “Except as otherwise provided, not” for “Not” in introductory provisions.
+
+    Subsec. (b)(7). [Pub. L. 113–126, § 602(a)(1)(B)][/us/pl/113/126/s602/a/1/B]–(D), added par. (7).
+
+    Subsec. (j). [Pub. L. 113–126, § 602(b)][/us/pl/113/126/s602/b], added subsec. (j).
+
  __Change of Name__ 
 
     Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+ __Rule of Construction__ 
+
+[Pub. L. 113–126, title VI, § 602(e)][/us/pl/113/126/s602/e], July 7, 2014, [128 Stat. 1419][/us/stat/128/1419], provided that: 
+
+> “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341][/us/usc/t50/s3341]), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[[50 U.S.C. 3341(b)(7)][/us/usc/t50/s3341/b/7]\], as added by this section.”
+
+ __Required Elements of Policies and Procedures__ 
+
+[Pub. L. 113–126, title VI, § 602(a)(2)][/us/pl/113/126/s602/a/2], July 7, 2014, [128 Stat. 1416][/us/stat/128/1416], provided that: 
+
+> “The policies and procedures for appeal developed under paragraph (7) of section 3001(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 \[[50 U.S.C. 3341(b)(7)][/us/usc/t50/s3341/b/7]\], as added by subsection (a), shall provide for the Inspector General of the Intelligence Community, or the inspector general of the employing agency, to conduct fact-finding and report to the agency head or the designee of the agency head within 180 days unless the employee and the agency agree to an extension or the investigating inspector general determines in writing that a greater period of time is required. To the fullest extent possible, such fact-finding shall include an opportunity for the employee to present relevant evidence such as witness testimony.”
+
+ __Existing Rights Preserved__ 
+
+[Pub. L. 113–126, title VI, § 602(d)][/us/pl/113/126/s602/d], July 7, 2014, [128 Stat. 1419][/us/stat/128/1419], provided that: 
+
+> “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule.”
 
  __Strategy for Security Clearance Reciprocity__ 
 
@@ -249,12 +403,31 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
+[/us/usc/t50/s3517/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3517%2Fd%2F5
+[/us/usc/t50/s3033/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3033%2Fk%2F5
 [/us/pl/108/458/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs3001
 [/us/stat/118/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3705
+[/us/pl/113/126/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1
+[/us/stat/128/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1416
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/pl/95/452/s8H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H
 [/us/usc/t50/s435b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435b
+[/us/pl/113/126/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fc
+[/us/pl/113/126/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1%2FA
+[/us/pl/113/126/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1%2FB
+[/us/pl/113/126/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fb
+[/us/pl/113/126/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fe
+[/us/stat/128/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1419
+[/us/usc/t50/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s3341/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341%2Fb%2F7
+[/us/pl/113/126/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F2
+[/us/stat/128/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1416
+[/us/usc/t50/s3341/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341%2Fb%2F7
+[/us/pl/113/126/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fd
+[/us/stat/128/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1419
 [/us/pl/112/277/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs306
 [/us/stat/126/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2472
 [/us/usc/t50/s435b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435b%2Fd

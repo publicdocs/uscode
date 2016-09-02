@@ -87,11 +87,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] substituted “five-fiscal-year” for “five-fiscal year” wherever appearing, redesignated par. (6) as (5) and struck out “National Nuclear Security” before “Administration” in subpar. (B), and struck out former par. (5) which read as follows: “A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title][/us/usc/t50/s2534], together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.”
+    2013—Subsec. (b). [Pub. L. 113–66, § 3145(f)(1)][/us/pl/113/66/s3145/f/1], substituted “five-fiscal-year” for “five-fiscal year” wherever appearing.
 
     Subsec. (b)(3). [Pub. L. 112–239, § 3132(d)(2)][/us/pl/112/239/s3132/d/2], substituted “[section 2522(a) of this title][/us/usc/t50/s2522/a]” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121][/us/usc/t42/s2121] note)”.
 
-    Subsec. (b)(5), (6). [Pub. L. 112–239, § 3132(a)(1)][/us/pl/112/239/s3132/a/1], substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
+    Subsec. (b)(5), (6). [Pub. L. 113–66, § 3145(f)(2)][/us/pl/113/66/s3145/f/2], (3), redesignated par. (6) as (5), struck out “National Nuclear Security” before “Administration” in subpar. (B), and struck out former par. (5) which read as follows: “A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title][/us/usc/t50/s2534], together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.”
+
+    [Pub. L. 112–239, § 3132(a)(1)][/us/pl/112/239/s3132/a/1], substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
 
     2008—Subsec. (b)(6). [Pub. L. 110–181][/us/pl/110/181] added par. (6).
 
@@ -205,11 +207,12 @@
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
 [/us/pl/113/66/s3145/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/usc/t50/s2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2534
+[/us/pl/113/66/s3145/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff%2F1
 [/us/pl/112/239/s3132/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F2
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
+[/us/pl/113/66/s3145/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff%2F2
+[/us/usc/t50/s2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2534
 [/us/pl/112/239/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F1
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

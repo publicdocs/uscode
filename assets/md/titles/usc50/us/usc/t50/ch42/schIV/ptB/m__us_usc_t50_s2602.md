@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 3146(e)(11)(A)][/us/pl/113/66/s3146/e/11/A], substituted “shall” for “must” and “defense environmental cleanup” for “environmental remediation and cleanup”.
+    2013—Subsec. (a). [Pub. L. 113–66, § 3146(e)(11)(A)][/us/pl/113/66/s3146/e/11/A], substituted “shall submit” for “must submit” and “defense environmental cleanup” for “environmental remediation and cleanup”.
 
     [Pub. L. 113–66, § 3146(a)(2)(E)][/us/pl/113/66/s3146/a/2/E], struck out “(as defined in [section 2286g of title 42][/us/usc/t42/s2286g])” after “defense nuclear facility”.
 

@@ -17,7 +17,7 @@
 
     (a) __Plan for protection against release__ 
 
-        The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note) \[now [50 U.S.C. 3161][/us/usc/t50/s3161] note\].
+        The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note).
 
     (b) __Plan elements__ 
 
@@ -69,13 +69,17 @@
 
 ([Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], formerly [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; renumbered [Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)][/us/pl/108/136/s3141/h/12], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; [Pub. L. 110–417, div. C, title XXXI, § 3123][/us/pl/110/417/s3123], Oct. 14, 2008, [122 Stat. 4759][/us/stat/122/4759]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(H)][/us/pl/113/66/s3146/a/2/H], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
+ __References in Text__ 
+
+    Executive Order No. 12958, referred to in subsecs. (a), (b)(1), and (f), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
  __Codification__ 
 
     Section was formerly set out as a note under [section 435 of this title][/us/usc/t50/s435] prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (g), which defined “Restricted Data”.
+    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (g) which defined “Restricted Data”.
 
     2008—Subsec. (e). [Pub. L. 110–417, § 3121(a)(1)][/us/pl/110/417/s3121/a/1], (b), substituted “in each even-numbered year” for “on a periodic basis” and “subsection (b)(5)” for “subsection (b)(4)”.
 
@@ -105,7 +109,6 @@
 ----------
 
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/107/314/s4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4522
 [/us/pl/105/261/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3161
 [/us/stat/112/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2259

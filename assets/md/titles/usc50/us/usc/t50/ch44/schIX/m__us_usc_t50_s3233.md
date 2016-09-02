@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3232.md) | [Next](./../../../../..//us/usc/t50/ch45/m__us_usc_t50_ch45.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3233)
+[Previous](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3232.md) | [Next](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3234.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3233)
 
 ## § 3233. Misuse of the Office of the Director of National Intelligence name, initials, or seal
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3232.md) | [Next](./../../../../..//us/usc/t50/ch45/m__us_usc_t50_ch45.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3233)
+[Previous](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3232.md) | [Next](./../../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3234.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3233)
 
 ----------
 ----------

@@ -363,7 +363,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2367" data-uslm-ref="/us/usc/t50/s2367">2367.</a>  </td>
 
-    <td> Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles.  </td>
+    <td> Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles.  </td>
 
   </tr>
 

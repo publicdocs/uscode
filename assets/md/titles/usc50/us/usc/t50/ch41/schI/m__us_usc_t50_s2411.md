@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2410.md) | [Next](./../../../../..//us/usc/t50/ch41/schII/m__us_usc_t50_ch41_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2411)
 
-## § 2411. Director for cost estimating and program evaluation
+## § 2411. Director for Cost Estimating and Program Evaluation
 
     (a) __Establishment__ 
 

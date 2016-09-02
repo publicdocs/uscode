@@ -57,6 +57,14 @@
 
     Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see [section 1097(a) of Pub. L. 108–458][/us/pl/108/458/s1097/a], set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title][/us/usc/t50/s3001].
 
+ __Merger of the Foreign Counterintelligence Program and the General Defense Intelligence Program__ 
+
+[Pub. L. 113–126, title III, § 314][/us/pl/113/126/s314], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that: 
+
+> “Notwithstanding any other provision of law, the Director of National Intelligence shall carry out the merger of the Foreign Counterintelligence Program into the General Defense Intelligence Program as directed in the classified annex to this Act \[see Tables for classification\]. The merger shall go into effect no earlier than 30 days after written notification of the merger is provided to the congressional intelligence committees.”
+
+    \[For definition of “congressional intelligence committees” as used in [section 314 of Pub. L. 113–126][/us/pl/113/126/s314], set out above, see [section 2 of Pub. L. 113–126][/us/pl/113/126/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
+
  __Presidential Guidelines on Implementation and Preservation of Authorities__ 
 
 [Pub. L. 108–458, title I, § 1018][/us/pl/108/458/s1018], Dec. 17, 2004, [118 Stat. 3670][/us/stat/118/3670], provided that: 
@@ -166,6 +174,11 @@
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/pl/113/126/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs314
+[/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
+[/us/pl/113/126/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs314
+[/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/108/458/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1018
 [/us/stat/118/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3670
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651

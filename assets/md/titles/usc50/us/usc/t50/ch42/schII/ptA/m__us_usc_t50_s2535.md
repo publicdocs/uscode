@@ -47,7 +47,7 @@
 
 [Pub. L. 112–239, div. C, title XXXI, § 3114(c)][/us/pl/112/239/s3114/c]–(e), Jan. 2, 2013, [126 Stat. 2171][/us/stat/126/2171], 2172, as amended by [Pub. L. 113–66, div. C, title XXXI, § 3117][/us/pl/113/66/s3117], Dec. 26, 2013, [127 Stat. 1058][/us/stat/127/1058], provided that:
 
->     “(c)  __Limitation on Alternative Plutonium Strategy__  __.—__ 
+>     “(c) __Limitation on Alternative Plutonium Strategy.—__ 
 
 >         “(1)  __Limitation on use of funds__  __.—__ 
 

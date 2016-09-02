@@ -47,7 +47,7 @@
 
     [Pub. L. 112–239, § 3131(f)(1)(A)][/us/pl/112/239/s3131/f/1/A], substituted “national security laboratories and nuclear weapons production facilities” for “nuclear weapons laboratories and nuclear weapons production plants” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 3146(c)(7)(A)][/us/pl/113/66/s3146/c/7/A], substituted “facilities” for “plants” in heading and “facility” for “plant” after “the laboratory or” in two places in text.
+    Subsec. (a). [Pub. L. 113–66, § 3146(c)(7)(A)][/us/pl/113/66/s3146/c/7/A], substituted “facilities” for “plants” in heading and “laboratory or facility” for “laboratory or plant” in two places in text.
 
     [Pub. L. 112–239, § 3131(f)(1)(B)][/us/pl/112/239/s3131/f/1/B], in first sentence, substituted “national security laboratory” for “nuclear weapons laboratory”, “production facility” for “production plant”, and “Administrator” for “Assistant Secretary of Energy for Defense Programs”.
 

@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 113-125
+Current through 113-126
 
 <table>
 
@@ -547,7 +547,7 @@ Current through 113-125
 
     <td colspan="2"> 
 
-Table I  </td>
+Disposition Table  </td>
 
   </tr>
 
@@ -565,13 +565,13 @@ Table I  </td>
 
 Title 50
 
-Former Sections  </td>
+Former Classification  </td>
 
     <td> 
 
 Title 50
 
-New Sections  </td>
+New Classification  </td>
 
   </tr>
 

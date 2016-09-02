@@ -33,7 +33,7 @@
 
     2013—Subsecs. (b), (c). [Pub. L. 113–66][/us/pl/113/66] redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined “Department of Energy defense nuclear facility”.
 
-    [Pub. L. 112–239, § 3131(v)][/us/pl/112/239/s3131/v], redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to a report on Rocky Flats bonuses. Subsec. (d) redesignated (c).
+    [Pub. L. 112–239][/us/pl/112/239] redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to a report on Rocky Flats bonuses.
 
     Subsec. (d). [Pub. L. 112–239, § 3131(v)(3)][/us/pl/112/239/s3131/v/3], redesignated subsec. (d) as (c).
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s7256b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256b
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s3131/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fv
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s3131/v/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fv%2F3
 [/us/pl/108/136/s3141/k/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F3%2FD%2Fi
 [/us/pl/108/136/s3141/k/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F3%2FD%2Fii

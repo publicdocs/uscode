@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3104.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3106.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3105)
+[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3104.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3105)
 
 ## § 3105. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3104.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3106.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3105)
+[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3104.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3105)
 
 ----------
 ----------

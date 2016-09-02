@@ -67,21 +67,17 @@
 
     [Pub. L. 112–239, § 3131(bb)(1)(C)][/us/pl/112/239/s3131/bb/1/C], which directed substitution of “Nevada National Security Site” for “Nevada Test Site”, was executed by making the substitution for “Nevada test site”, to reflect the probable intent of Congress.
 
-    Subsec. (b)(5)(A) to (D). [Pub. L. 113–66, § 3146(c)(1)(B)(ii)(I)][/us/pl/113/66/s3146/c/1/B/ii/I], added subpar. (A) and struck out former subpars. (A) to (D) which read as follows:
+    Subsec. (b)(5). [Pub. L. 113–66, § 3146(c)(1)(B)(ii)][/us/pl/113/66/s3146/c/1/B/ii], added subpar. (A), redesignated subpar. (E) as (B), and struck out former subpars. (A) to (D) which read as follows:
 
-    13“(A) the Pantex Plant;
+    “(A) the Pantex Plant;
 
-    13“(B) the Y–12 National Security Complex;
+    “(B) the Y–12 National Security Complex;
 
-    13“(C) the Kansas City Plant;
+    “(C) the Kansas City Plant;
 
-    13“(D) the Savannah River Site; and”.
+    “(D) the Savannah River Site; and”.
 
-    Subpar. (E) redesignated (B).
-
-    Subsec. (b)(5)(E). [Pub. L. 113–66, § 3146(c)(1)(B)(ii)(II)][/us/pl/113/66/s3146/c/1/B/ii/II], redesignated subpar. (E) as (B).
-
-    [Pub. L. 112–239, § 3131(b)][/us/pl/112/239/s3131/b], struck out “(as defined in [section 2471 of this title][/us/usc/t50/s2471])” after “laboratories”.
+    Subsec. (b)(5)(E). [Pub. L. 112–239, § 3131(b)][/us/pl/112/239/s3131/b], struck out “(as defined in [section 2471 of this title][/us/usc/t50/s2471])” after “laboratories”.
 
     2009—Subsec. (a). [Pub. L. 111–84, § 3111(a)][/us/pl/111/84/s3111/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Energy shall establish a stewardship program to ensure the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification.”
 
@@ -93,7 +89,7 @@
 
     1997—Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], which directed amendment of this section by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out “and the 60-day period referred to in subsection (e)(2)(A)(ii)” in subsec. (e), as so redesignated, was executed by striking out subsec. (d) which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
 
- __Plan for developing exascale computing and incorporating such computing into the stockpile stewardship program__ 
+ __Plan for Developing Exascale Computing and Incorporating Such Computing Into the Stockpile Stewardship Program__ 
 
 [Pub. L. 113–66, div. C, title XXXI, § 3129][/us/pl/113/66/s3129], Dec. 26, 2013, [127 Stat. 1066][/us/stat/127/1066], provided that:
 
@@ -162,8 +158,7 @@
 [/us/pl/113/66/s3146/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F1%2FB%2Fi
 [/us/pl/112/239/s3131/bb/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fbb%2F1%2FC
 [/us/pl/112/239/s3131/bb/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fbb%2F1%2FC
-[/us/pl/113/66/s3146/c/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F1%2FB%2Fii%2FI
-[/us/pl/113/66/s3146/c/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F1%2FB%2Fii%2FII
+[/us/pl/113/66/s3146/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F1%2FB%2Fii
 [/us/pl/112/239/s3131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fb
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
 [/us/pl/111/84/s3111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3111%2Fa

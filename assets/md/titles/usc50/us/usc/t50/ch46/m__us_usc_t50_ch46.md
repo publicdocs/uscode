@@ -139,7 +139,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3512" data-uslm-ref="/us/usc/t50/s3512">3512.</a>  </td>
 
-    <td> Authority to accept gifts, devises, and bequests.  </td>
+    <td> Gifts, devises, and bequests.  </td>
 
   </tr>
 

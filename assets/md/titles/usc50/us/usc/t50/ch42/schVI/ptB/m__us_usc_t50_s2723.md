@@ -57,7 +57,7 @@
 
     Subsec. (a). [Pub. L. 112–239, § 3131(s)(1)(B)][/us/pl/112/239/s3131/s/1/B], substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in two places.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(g)(8)][/us/pl/113/66/s3146/g/8], inserted “either of” after “who are” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] inserted “either of” after “who are” in introductory provisions.
 
     Subsec. (c). [Pub. L. 112–239, § 3131(s)(1)(C)][/us/pl/112/239/s3131/s/1/C], substituted “national security laboratories and nuclear weapons production facilities.” for “following facilities:
 
@@ -112,7 +112,7 @@
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239/s3131/s/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FA
 [/us/pl/112/239/s3131/s/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FB
-[/us/pl/113/66/s3146/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F8
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s3131/s/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FC
 [/us/pl/112/239/s3131/s/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FD
 [/us/pl/106/65/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fa

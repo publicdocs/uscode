@@ -31,7 +31,7 @@
 
             (C) assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
 
-            (D) authorize such providers to make known their services to the entities specified in section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) through Government communication channels.
+            (D) authorize such providers to make known their services to the entities specified in subsection (a) through Government communication channels.
 
         (2) The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
 
@@ -53,7 +53,7 @@
 
             (D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
-            (E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should not appear. </sup></sup>  as a result of activities under the program.
+            (E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider as a result of activities under the program.
 
             (F) Receipts from individuals in reimbursement for utility services and meals provided under the program.
 
@@ -97,13 +97,17 @@
 
         (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-([June 20, 1949, ch. 227, § 21][/us/act/1949-06-20/ch227/s21], as added [Pub. L. 105–107, title IV, § 403(a)][/us/pl/105/107/s403/a], Nov. 20, 1997, [111 Stat. 2258][/us/stat/111/2258]; amended [Pub. L. 106–120, title IV, § 401][/us/pl/106/120/s401], Dec. 3, 1999, [113 Stat. 1615][/us/stat/113/1615]; [Pub. L. 106–567, title IV, § 401][/us/pl/106/567/s401], Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847]; [Pub. L. 107–108, title IV, § 401][/us/pl/107/108/s401], Dec. 28, 2001, [115 Stat. 1403][/us/stat/115/1403]; [Pub. L. 107–306, title VIII, § 841(e)][/us/pl/107/306/s841/e], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title IV, § 403][/us/pl/108/177/s403], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–458, title I, § 1071(b)(3)(D)][/us/pl/108/458/s1071/b/3/D], (E), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 112–277, title IV, § 401][/us/pl/112/277/s401], Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475].)
+([June 20, 1949, ch. 227, § 21][/us/act/1949-06-20/ch227/s21], as added [Pub. L. 105–107, title IV, § 403(a)][/us/pl/105/107/s403/a], Nov. 20, 1997, [111 Stat. 2258][/us/stat/111/2258]; amended [Pub. L. 106–120, title IV, § 401][/us/pl/106/120/s401], Dec. 3, 1999, [113 Stat. 1615][/us/stat/113/1615]; [Pub. L. 106–567, title IV, § 401][/us/pl/106/567/s401], Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847]; [Pub. L. 107–108, title IV, § 401][/us/pl/107/108/s401], Dec. 28, 2001, [115 Stat. 1403][/us/stat/115/1403]; [Pub. L. 107–306, title VIII, § 841(e)][/us/pl/107/306/s841/e], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title IV, § 403][/us/pl/108/177/s403], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–458, title I, § 1071(b)(3)(D)][/us/pl/108/458/s1071/b/3/D], (E), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 112–277, title IV, § 401][/us/pl/112/277/s401], Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475]; [Pub. L. 113–126, title VII, § 701][/us/pl/113/126/s701], July 7, 2014, [128 Stat. 1422][/us/stat/128/1422].)
 
  __Codification__ 
 
     Section was formerly classified to [section 403u of this title][/us/usc/t50/s403u] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(D). [Pub. L. 113–126, § 701(1)][/us/pl/113/126/s701/1], substituted “subsection (a)” for “section (a)”.
+
+    Subsec. (c)(2)(E). [Pub. L. 113–126, § 701(2)][/us/pl/113/126/s701/2], substituted “provider as” for “provider. as”.
 
     2013—Subsec. (b)(1)(D). [Pub. L. 112–277, § 401(1)(A)][/us/pl/112/277/s401/1/A], added subpar. (D).
 
@@ -213,7 +217,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/pl/112/277/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
+[/us/pl/113/126/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs701
+[/us/stat/128/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1422
 [/us/usc/t50/s403u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403u
+[/us/pl/113/126/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs701%2F1
+[/us/pl/113/126/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs701%2F2
 [/us/pl/112/277/s401/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F1%2FA
 [/us/pl/112/277/s401/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F1%2FB
 [/us/pl/112/277/s401/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F2%2FA

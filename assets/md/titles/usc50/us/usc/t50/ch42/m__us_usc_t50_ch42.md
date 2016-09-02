@@ -369,6 +369,14 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2568" data-uslm-ref="/us/usc/t50/s2568">2568.</a>  </td>
+
+    <td> Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2569" data-uslm-ref="/us/usc/t50/s2569">2569.</a>  </td>
 
     <td> Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide.  </td>

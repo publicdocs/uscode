@@ -135,7 +135,7 @@
 
  __Declassification of Information__ 
 
-[Pub. L. 106–567, title VII][/us/pl/106/567], Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], as amended by [Pub. L. 108–458, title I, § 1102][/us/pl/108/458/s1102], Dec. 17, 2004, [118 Stat. 3699][/us/stat/118/3699]; [Pub. L. 110–53, title VI, § 602][/us/pl/110/53/s602], Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III, § 365][/us/pl/111/259/s365], Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702]; [Pub. L. 112–235, § 2][/us/pl/112/235/s2], Dec. 28, 2012, [126 Stat. 1626][/us/stat/126/1626], provided that:
+[Pub. L. 106–567, title VII][/us/pl/106/567], Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], as amended by [Pub. L. 108–458, title I, § 1102][/us/pl/108/458/s1102], Dec. 17, 2004, [118 Stat. 3699][/us/stat/118/3699]; [Pub. L. 110–53, title VI, § 602][/us/pl/110/53/s602], Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III, § 365][/us/pl/111/259/s365], Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702]; [Pub. L. 112–235, § 2][/us/pl/112/235/s2], Dec. 28, 2012, [126 Stat. 1626][/us/stat/126/1626]; [Pub. L. 113–126, title III, § 311][/us/pl/113/126/s311], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -497,7 +497,7 @@
 
 >     “(b)  __Sunset__  __.—__ 
 
->     The provisions of this title shall expire on December 31, 2014.”
+>     The provisions of this title shall expire on December 31, 2018.”
 
  __Certification and Report Related to Automatic Declassification of Department of Defense Records__ 
 
@@ -2841,6 +2841,8 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title][/us/usc/t50/s3021].\]
+
  __Implementation of the Executive Order, “Classified National Security Information”__ 
 
     Memorandum of President of the United States, Dec. 29, 2009, 75 F.R. 733, provided:
@@ -3020,6 +3022,8 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 [/us/stat/124/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2702
 [/us/pl/112/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F235%2Fs2
 [/us/stat/126/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1626
+[/us/pl/113/126/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs311
+[/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t25/s450j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j
@@ -3135,6 +3139,7 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t6/s482/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482%2Fa%2F4
 [/us/usc/t6/s482/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482%2Fe
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 
 

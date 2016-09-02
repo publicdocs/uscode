@@ -57,7 +57,7 @@
 
     (10) The term “pattern of activities” requires a series of acts with a common purpose or objective.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 605, formerly § 606, as added [Pub. L. 97–200, § 2(a)][/us/pl/97/200/s2/a], June 23, 1982, [96 Stat. 123][/us/stat/96/123]; amended [Pub. L. 106–120, title III, § 304(a)][/us/pl/106/120/s304/a], Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; renumbered § 605 and amended [Pub. L. 112–277, title III, § 310(a)(4)(B)][/us/pl/112/277/s310/a/4/B], title V, § 506, Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475], 2478.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 605, formerly § 606, as added [Pub. L. 97–200, § 2(a)][/us/pl/97/200/s2/a], June 23, 1982, [96 Stat. 123][/us/stat/96/123]; amended [Pub. L. 106–120, title III, § 304(a)][/us/pl/106/120/s304/a], Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; renumbered § 605 and amended [Pub. L. 112–277, title III, § 310(a)(4)(B)][/us/pl/112/277/s310/a/4/B], title V, § 506, Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475], 2478; [Pub. L. 113–126, title VII, § 703(a)][/us/pl/113/126/s703/a], July 7, 2014, [128 Stat. 1422][/us/stat/128/1422].)
 
  __Codification__ 
 
@@ -69,9 +69,17 @@
 
  __Amendments__ 
 
-    2013—Par. (5). [Pub. L. 112–277, § 506][/us/pl/112/277/s506], which directed amendment of section 606 of the National Security Act of 1947 by amending par. (5) generally, was executed to this section, which is section 605 of that act, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by [Pub. L. 112–277, § 310(a)(4)(B)][/us/pl/112/277/s310/a/4/B]. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
+    2014—[Pub. L. 113–126, § 703(a)][/us/pl/113/126/s703/a], made technical amendment to directory language of [Pub. L. 112–277, § 506][/us/pl/112/277/s506]. See 2013 Amendment note below.
+
+    2013—Par. (5). [Pub. L. 112–277, § 506][/us/pl/112/277/s506], as amended by [Pub. L. 113–126, § 703(a)][/us/pl/113/126/s703/a], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
 
     1999—Par. (4)(A). [Pub. L. 106–120][/us/pl/106/120] substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–126, title VII, § 703(b)][/us/pl/113/126/s703/b], July 7, 2014, [128 Stat. 1423][/us/stat/128/1423], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Intelligence Authorization Act for Fiscal Year 2013 ([Public Law 112–277][/us/pl/112/277]).”
 
  __Transfer of Functions__ 
 
@@ -96,11 +104,18 @@
 [/us/stat/113/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1611
 [/us/pl/112/277/s310/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F4%2FB
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
+[/us/pl/113/126/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fa
+[/us/stat/128/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1422
 [/us/usc/t50/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs426
 [/us/usc/t50/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3125
+[/us/pl/113/126/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fa
 [/us/pl/112/277/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs506
-[/us/pl/112/277/s310/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F4%2FB
+[/us/pl/112/277/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs506
+[/us/pl/113/126/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fa
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/113/126/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fb
+[/us/stat/128/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1423
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

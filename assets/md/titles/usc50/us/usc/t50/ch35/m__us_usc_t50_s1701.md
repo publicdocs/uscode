@@ -4537,6 +4537,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
 
+    Notice of President of the United States, dated May 15, 2014, 79 F.R. 28807.
+
     Notice of President of the United States, dated May 2, 2013, 78 F.R. 26231.
 
     Notice of President of the United States, dated May 17, 2012, 77 F.R. 29851.
@@ -4578,6 +4580,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13619, July 11, 2012, 77 F.R. 41243.
 
     Ex. Ord. No. 13651, Aug. 6, 2013, 78 F.R. 48793.
+
+ __Central African Republic__ 
+
+    Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 
  __Colombia__ 
 
@@ -4627,6 +4633,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13396 were contained in the following:
 
+    Notice of President of the United States, dated Feb. 4, 2014, 79 F.R. 7047.
+
     Notice of President of the United States, dated Feb. 4, 2013, 78 F.R. 8955.
 
     Notice of President of the United States, dated Feb. 3, 2012, 77 F.R. 5985.
@@ -4646,6 +4654,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 13099, §§ 1, 2, Aug. 20, 1998, 63 F.R. 45167; Ex. Ord. No. 13372, § 2, Feb. 16, 2005, 70 F.R. 8499.
 
     Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+    Notice of President of the United States, dated Jan. 21, 2014, 79 F.R. 3721.
 
     Notice of President of the United States, dated Jan. 17, 2013, 78 F.R. 4303.
 
@@ -4991,6 +5001,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
 
+    Notice of President of the United States, dated Mar. 12, 2014, 79 F.R. 14607.
+
     Notice of President of the United States, dated Mar. 12, 2013, 78 F.R. 16397.
 
     Notice of President of the United States, dated Mar. 13, 2012, 77 F.R. 15229.
@@ -5089,6 +5101,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
 
+    Notice of President of the United States, dated May 19, 2014, 79 F.R. 29069.
+
     Notice of President of the United States, dated May 17, 2013, 78 F.R. 30195.
 
     Notice of President of the United States, dated May 18, 2012, 77 F.R. 30183.
@@ -5116,6 +5130,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13364, Nov. 29, 2004, 69 F.R. 70177.
 
     Ex. Ord. No. 13438, July 17, 2007, 72 F.R. 39719.
+
+    Ex. Ord. No. 13668, May 27, 2014, 79 F.R. 31019.
 
  __Kuwait__ 
 
@@ -5223,6 +5239,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+    Notice of President of the United States, dated Feb. 20, 2014, 79 F.R. 10329.
+
     Notice of President of the United States, dated Feb. 13, 2013, 78 F.R. 11549.
 
     Notice of President of the United States, dated Feb. 23, 2012, 77 F.R. 11381.
@@ -5329,6 +5347,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
 
+    Notice of President of the United States, dated Apr. 7, 2014, 79 F.R. 19803.
+
     Notice of President of the United States, dated Apr. 4, 2013, 78 F.R. 21013.
 
     Notice of President of the United States, dated Apr. 7, 2011, 76 F.R. 19897.
@@ -5344,6 +5364,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Notice of President of the United States, dated Sept. 4, 1986, 51 F.R. 31925.
 
     Ex. Ord. No. 12535, Oct. 1, 1985, 50 F.R. 40325, revoked by Ex. Ord. No. 12769, § 4, July 10, 1991, 56 F.R. 31855.
+
+ __South Sudan__ 
+
+    Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
 
  __Sudan__ 
 
@@ -5393,6 +5417,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
 
+    Notice of President of the United States, dated May 7, 2014, 79 F.R. 26589.
+
     Notice of President of the United States, dated May 7, 2013, 78 F.R. 27301.
 
     Notice of President of the United States, dated May 9, 2012, 77 F.R. 27559.
@@ -5434,6 +5460,14 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Notice of President of the United States, dated July 19, 2013, 78 F.R. 44417.
 
     Notice of President of the United States, dated July 18, 2012, 77 F.R. 42619.
+
+ __Ukraine__ 
+
+    Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
+
+    Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535.
+
+    Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169.
 
  __Western Balkans__ 
 
@@ -5517,7 +5551,9 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 
-    Continuation of national emergency declared by Ex. Ord. No. 13611 was contained in the following:
+    Continuations of national emergency declared by Ex. Ord. No. 13611 were contained in the following:
+
+    Notice of President of the United States, dated May 12, 2014, 79 F.R. 27477.
 
     Notice of President of the United States, dated May 13, 2013, 78 F.R. 28465.
 
@@ -5526,6 +5562,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
     Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+    Notice of President of the United States, dated Feb. 28, 2014, 79 F.R. 12031.
 
     Notice of President of the United States, dated Mar. 1, 2013, 78 F.R. 14427.
 

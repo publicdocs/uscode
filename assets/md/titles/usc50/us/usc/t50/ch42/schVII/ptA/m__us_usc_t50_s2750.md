@@ -35,7 +35,7 @@
 
             (A) to address a risk to health, safety, or the environment; or
 
-            (B) to assure the most efficient use of defense environmental management funds <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “defense environmental cleanup funds”. </sup></sup>  at the field office.
+            (B) to assure the most efficient use of defense environmental management funds  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “defense environmental cleanup funds”. </sup></sup>  at the field office.
 
         (4) __Impermissible uses__ 
 
@@ -71,7 +71,7 @@
 
     Subsec. (e)(1). [Pub. L. 113–66, § 3146(h)(2)(C)(i)][/us/pl/113/66/s3146/h/2/C/i], substituted “defense environmental cleanup activities” for “environmental restoration or waste management activities” and “defense environmental cleanup funds” for “defense environmental management funds”.
 
-    Subsec. (e)(2). [Pub. L. 113–66, § 3146(h)(2)(C)(ii)][/us/pl/113/66/s3146/h/2/C/ii], substituted “defense environmental cleanup funds” for “defense environmental management funds” and “defense environmental cleanup activities” for “environmental restoration and waste management activities”.
+    Subsec. (e)(2). [Pub. L. 113–66, § 3146(h)(2)(C)(ii)][/us/pl/113/66/s3146/h/2/C/ii], substituted “ ‘defense environmental cleanup funds’ ” for “ ‘defense environmental management funds’ ” and “defense environmental cleanup activities” for “environmental restoration and waste management activities”.
 
     2003—Subsec. (c). [Pub. L. 108–136, § 3141(j)(2)(D)(iv)][/us/pl/108/136/s3141/j/2/D/iv], made technical amendment to reference in original act which appears in text as reference to [section 2742 of this title][/us/usc/t50/s2742].
 

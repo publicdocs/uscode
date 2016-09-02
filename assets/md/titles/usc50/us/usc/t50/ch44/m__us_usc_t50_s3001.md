@@ -1323,7 +1323,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
  __Intelligence Priorities and Reorganization__ 
 
-    [Pub. L. 101–510, div. A, title IX, § 907][/us/pl/101/510/s907], Nov. 5, 1990, [104 Stat. 1622][/us/stat/104/1622], required the Secretary of Defenseand Director of Central Intelligenceto conduct a joint review of all intelligence and intelligence-related activities in the Tactical Intelligence and Related Activities programs and the National Foreign Intelligence Program and reduce by not less than 5 percent the number of personnel detailed to such programs during each of fiscal years 1992 through 1996.
+    [Pub. L. 101–510, div. A, title IX, § 907][/us/pl/101/510/s907], Nov. 5, 1990, [104 Stat. 1622][/us/stat/104/1622], required the Secretary of Defense and Director of Central Intelligence to conduct a joint review of all intelligence and intelligence-related activities in the Tactical Intelligence and Related Activities programs and the National Foreign Intelligence Program and reduce by not less than 5 percent the number of personnel detailed to such programs during each of fiscal years 1992 through 1996.
 
  __Change of Titles of Secretary of Defense, et al.; Reappointment__ 
 

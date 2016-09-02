@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3348.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_s3361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45%2FschIV)
+[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3349.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_s3361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45%2FschIV)
 
 ### SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3348.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_s3361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45%2FschIV)
+[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3349.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_s3361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45%2FschIV)
 
 ----------
 ----------

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t50/ch40/schV/m__us_usc_t50_s2366.md) | [Next](./../../../../..//us/usc/t50/ch40/schV/m__us_usc_t50_s2368.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2367)
 
-## § 2367. Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles
+## § 2367. Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles
 
     (a) __Annual report__ 
 
@@ -61,7 +61,7 @@
 
         (1) The congressional defense committees.
 
-        (2) The congressional intelligence committees (as defined in [section 401a of this title][/us/usc/t50/s401a]).
+        (2) The congressional intelligence committees (as defined in [section 3003 of this title][/us/usc/t50/s3003]).
 
         (3) The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/105/85/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs234
 [/us/stat/111/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1664
 [/us/pl/112/239/s1065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1065%2Fa

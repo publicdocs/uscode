@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    [Section 2533 of this title][/us/usc/t50/s2533], referred to in subsec. (d), was in the original “section 4213”, and was translated as meaning [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213], which is classified to [section 2533 of this title][/us/usc/t50/s2533].
+    [Section 2533 of this title][/us/usc/t50/s2533], referred to in subsec. (d), was in the original “section 4213”, meaning [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213], which is classified principally to [section 2533 of this title][/us/usc/t50/s2533].
 
  __Codification__ 
 

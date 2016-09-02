@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3233.md) | [Next](./../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45)
+[Previous](./../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3234.md) | [Next](./../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45)
 
 ## CHAPTER 45—MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES
 
@@ -99,7 +99,7 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3309" data-uslm-ref="/us/usc/t50/s3309">3309.</a>  </td>
 
-    <td> Annual report on advisory committees.  </td>
+    <td> Notification of establishment of advisory committee.  </td>
 
   </tr>
 
@@ -108,6 +108,14 @@ SUBCHAPTER I—BUDGET AND OVERSIGHT  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3310" data-uslm-ref="/us/usc/t50/s3310">3310.</a>  </td>
 
     <td> Annual report on United States security arrangements and commitments with other nations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3311" data-uslm-ref="/us/usc/t50/s3311">3311.</a>  </td>
+
+    <td> Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations.  </td>
 
   </tr>
 
@@ -193,6 +201,14 @@ SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3330" data-uslm-ref="/us/usc/t50/s3330">3330.</a>  </td>
+
+    <td> Reports to the intelligence community on penetrations of networks and information systems of certain contractors.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
@@ -260,6 +276,14 @@ SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3348" data-uslm-ref="/us/usc/t50/s3348">3348.</a>  </td>
 
     <td> Reports relating to certain special access programs and similar programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3349" data-uslm-ref="/us/usc/t50/s3349">3349.</a>  </td>
+
+    <td> Notification regarding the authorized public disclosure of national intelligence.  </td>
 
   </tr>
 
@@ -363,7 +387,7 @@ SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3233.md) | [Next](./../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45)
+[Previous](./../../../..//us/usc/t50/ch44/schIX/m__us_usc_t50_s3234.md) | [Next](./../../../..//us/usc/t50/ch45/schI/m__us_usc_t50_ch45_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch45)
 
 ----------
 ----------

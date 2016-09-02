@@ -13,75 +13,65 @@
 
 [Previous](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_s3049.md) | [Next](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_s3051.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050)
 
-## § 3050. Additional annual reports from the Director of National Intelligence
+## § 3050. Annual report on hiring and retention of minority employees
 
-    (a) __Annual report on hiring and retention of minority employees__ 
+    (a) __In general__ 
 
-        (1) The Director of National Intelligence shall, on an annual basis, submit to Congress a report on the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
+         The Director of National Intelligence shall, on an annual basis, submit to Congress a report on the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
+
+    (b) __Content__ 
+
+     Each such report shall include disaggregated data by category of covered person from each element of the intelligence community on the following:
+
+        (1) Of all individuals employed in the element during the fiscal year involved, the aggregate percentage of such individuals who are covered persons.
 
         (2)
 
-         Each such report shall include disaggregated data by category of covered person from each element of the intelligence community on the following:
+         Of all individuals employed in the element during the fiscal year involved at the levels referred to in subparagraphs (A) and (B), the percentage of covered persons employed at such levels:
 
-            (A) Of all individuals employed in the element during the fiscal year involved, the aggregate percentage of such individuals who are covered persons.
+            (A) Positions at levels 1 through 15 of the General Schedule.
 
-            (B)
+            (B) Positions at levels above GS–15.
 
-             Of all individuals employed in the element during the fiscal year involved at the levels referred to in clauses (i) and (ii), the percentage of covered persons employed at such levels:
+        (3) Of all individuals hired by the element involved during the fiscal year involved, the percentage of such individuals who are covered persons.
 
-                (i) Positions at levels 1 through 15 of the General Schedule.
+    (c) __Form__ 
 
-                (ii) Positions at levels above GS–15.
+         Each such report shall be submitted in unclassified form, but may contain a classified annex.
 
-            (C) Of all individuals hired by the element involved during the fiscal year involved, the percentage of such individuals who are covered persons.
+    (d) __Construction__ 
 
-        (3) Each such report shall be submitted in unclassified form, but may contain a classified annex.
+         Nothing in this section shall be construed as providing for the substitution of any similar report required under another provision of law.
 
-        (4) Nothing in this subsection shall be construed as providing for the substitution of any similar report required under another provision of law.
+    (e) __“Covered persons” defined__ 
 
-        (5)
+     In this section the term “covered persons” means—
 
-         In this subsection, the term “covered persons” means—
+        (1) racial and ethnic minorities;
 
-            (A) racial and ethnic minorities;
+        (2) women; and
 
-            (B) women; and
+        (3) individuals with disabilities.
 
-            (C) individuals with disabilities.
-
-    (b) __Annual report on threat of attack on the United States using weapons of mass destruction__ 
-
-        (1)
-
-         Not later each year than the date provided in [section 3106 of this title][/us/usc/t50/s3106], the Director of National Intelligence shall submit to the congressional committees specified in paragraph (3) a report assessing the following:
-
-            (A) The current threat of attack on the United States using ballistic missiles or cruise missiles.
-
-            (B) The current threat of attack on the United States using a chemical, biological, or nuclear weapon delivered by a system other than a ballistic missile or cruise missile.
-
-        (2) Each report under paragraph (1) shall be a national intelligence estimate, or have the formality of a national intelligence estimate.
-
-        (3)
-
-         The congressional committees referred to in paragraph (1) are the following:
-
-            (A) The congressional intelligence committees.
-
-            (B) The Committees on Foreign Relations and Armed Services of the Senate.
-
-            (C) The Committees on International Relations and Armed Services of the House of Representatives.
-
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 114, as added [Pub. L. 105–272, title III, § 307(a)][/us/pl/105/272/s307/a], Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; amended [Pub. L. 107–306, title III][/us/pl/107/306], §§ 324, 353(b)(6), title VIII, §§ 811(b)(1)(D), 821, 822, Nov. 27, 2002, [116 Stat. 2393][/us/stat/116/2393], 2402, 2422, 2426, 2427; [Pub. L. 108–177, title III, § 361(c)][/us/pl/108/177/s361/c], (d), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I, § 1071(a)(1)(N)][/us/pl/108/458/s1071/a/1/N], (O), (3)(A), (7), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 112–277, title III, § 310(a)(2)][/us/pl/112/277/s310/a/2], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 114, as added [Pub. L. 105–272, title III, § 307(a)][/us/pl/105/272/s307/a], Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; amended [Pub. L. 107–306, title III][/us/pl/107/306], §§ 324, 353(b)(6), title VIII, §§ 811(b)(1)(D), 821, 822, Nov. 27, 2002, [116 Stat. 2393][/us/stat/116/2393], 2402, 2422, 2426, 2427; [Pub. L. 108–177, title III, § 361(c)][/us/pl/108/177/s361/c], (d), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I, § 1071(a)(1)(N)][/us/pl/108/458/s1071/a/1/N], (O), (3)(A), (7), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 112–277, title III, § 310(a)(2)][/us/pl/112/277/s310/a/2], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title III, § 329(a)(1)][/us/pl/113/126/s329/a/1], (c)(2), July 7, 2014, [128 Stat. 1405][/us/stat/128/1405], 1406.)
 
  __References in Text__ 
 
-    The General Schedule, referred to in subsec. (a)(2)(B), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
+    The General Schedule, referred to in subsec. (b)(2), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
  __Codification__ 
 
     Section was formerly classified to [section 404i of this title][/us/usc/t50/s404i] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–126, § 329(a)(1)][/us/pl/113/126/s329/a/1], (c)(2)(A)–(C), substituted “Annual report on hiring and retention of minority employees” for “Additional annual reports from the Director of National Intelligence” in section catchline, struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees”, redesignated pars. (1) to (5) of former subsec. (a) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
+
+    Subsec. (b). [Pub. L. 113–126, § 329(c)(2)(D)][/us/pl/113/126/s329/c/2/D], redesignated subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions of par. (2), and redesignated cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B), respectively, of par. (2).
+
+    Subsec. (d). [Pub. L. 113–126, § 329(c)(2)(E)][/us/pl/113/126/s329/c/2/E], substituted “this section” for “this subsection”.
+
+    Subsec. (e). [Pub. L. 113–126, § 329(c)(2)(F)][/us/pl/113/126/s329/c/2/F], in introductory provisions, substituted “this section” for “this subsection,” and redesignated subpars. (A) to (C) of former subsec. (a)(5) as pars. (1) to (3), respectively, of subsec. (e).
 
     2013—[Pub. L. 112–277][/us/pl/112/277] redesignated subsecs. (b) and (c) as (a) and (b), respectively, struck out former subsec. (a) which required annual reports on the safety and security of Russian nuclear facilities and nuclear military forces, and struck out subsec. (d) which defined the term “congressional leadership”.
 
@@ -198,7 +188,6 @@
 ----------
 ----------
 
-[/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/105/272/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs307%2Fa
 [/us/stat/112/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2401
@@ -210,8 +199,14 @@
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/pl/112/277/s310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F2
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
+[/us/pl/113/126/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fa%2F1
+[/us/stat/128/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1405
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t50/s404i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i
+[/us/pl/113/126/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fa%2F1
+[/us/pl/113/126/s329/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FD
+[/us/pl/113/126/s329/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FE
+[/us/pl/113/126/s329/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FF
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/108/458/s1071/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F7
 [/us/pl/108/458/s1071/a/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FN

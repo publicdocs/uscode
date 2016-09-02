@@ -315,7 +315,7 @@
 
         (3) Except as otherwise directed by the President or with the specific written agreement of the head of the department or agency in question, a Federal agency or official shall not be considered to have met any obligation to provide any information, report, assessment, or other material (including unevaluated intelligence information) to that department or agency solely by virtue of having provided that information, report, assessment, or other material to the Director of National Intelligence or the National Counterterrorism Center.
 
-        (4) Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
+        (4) The Director of National Intelligence shall, in a timely manner, report to Congress any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively ensure maximum availability of access to intelligence information within the intelligence community consistent with the protection of the national security of the United States.
 
     (h) __Analysis__ 
 
@@ -353,7 +353,7 @@
 
         (3) The Director may only delegate a duty or authority given the Director under this subsection to the Principal Deputy Director of National Intelligence.
 
-    (j) __Uniform procedures for sensitive compartmented information__ 
+    (j) __Uniform procedures for classified information__ 
 
     The Director of National Intelligence, subject to the direction of the President, shall—
 
@@ -361,9 +361,13 @@
 
         (2) ensure the consistent implementation of those standards and procedures throughout such agencies and departments;
 
-        (3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies; and
+        (3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies;
 
-        (4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security.
+        (4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security;
+
+        (5) ensure that the background of each employee or officer of an element of the intelligence community, each contractor to an element of the intelligence community, and each individual employee of such a contractor who has been determined to be eligible for access to classified information is monitored on a continual basis under standards developed by the Director, including with respect to the frequency of evaluation, during the period of eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee to such a contractor to determine whether such employee or officer of an element of the intelligence community, such contractor, and such individual employee of such a contractor continues to meet the requirements for eligibility for access to classified information; and
+
+        (6) develop procedures to require information sharing between elements of the intelligence community concerning potentially derogatory security information regarding an employee or officer of an element of the intelligence community, a contractor to an element of the intelligence community, or an individual employee of such a contractor that may impact the eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee of such a contractor for a security clearance.
 
     (k) __Coordination with foreign governments__ 
 
@@ -603,7 +607,23 @@
 
         The Director of National Intelligence, in consultation with the heads of the appropriate elements of the intelligence community and the Secretary of State, shall provide to the President, the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate an addendum to each Nuclear Proliferation Assessment Statement accompanying a civilian nuclear cooperation agreement, containing a comprehensive analysis of the country’s export control system with respect to nuclear-related matters, including interactions with other countries of proliferation concern and the actual or suspected nuclear, dual-use, or missile-related transfers to such countries.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644]; amended [Pub. L. 111–258, § 5(a)][/us/pl/111/258/s5/a], Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650]; [Pub. L. 111–259, title III][/us/pl/111/259], §§ 303, 304, 306, 307, 326, title IV, §§ 401, 402(a), title VIII, § 804(2), Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658], 2659, 2661, 2662, 2683, 2708, 2747; [Pub. L. 112–87, title III][/us/pl/112/87], §§ 304, 305, 311(d), Jan. 3, 2012, [125 Stat. 1880][/us/stat/125/1880], 1881, 1886.)
+    (x) __Requirements for intelligence community contractors__ 
+
+    The Director of National Intelligence, in consultation with the head of each department of the Federal Government that contains an element of the intelligence community and the Director of the Central Intelligence Agency, shall—
+
+        (1)
+
+         ensure that—
+
+            (A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
+
+            (B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
+
+        (2) conduct periodic assessments of each security plan required under paragraph (1)(A) to ensure such security plan complies with the requirements of such paragraph; and
+
+        (3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
+
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644]; amended [Pub. L. 111–258, § 5(a)][/us/pl/111/258/s5/a], Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650]; [Pub. L. 111–259, title III][/us/pl/111/259], §§ 303, 304, 306, 307, 326, title IV, §§ 401, 402(a), title VIII, § 804(2), Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658], 2659, 2661, 2662, 2683, 2708, 2747; [Pub. L. 112–87, title III][/us/pl/112/87], §§ 304, 305, 311(d), Jan. 3, 2012, [125 Stat. 1880][/us/stat/125/1880], 1881, 1886; [Pub. L. 113–126, title III, § 329(b)(2)][/us/pl/113/126/s329/b/2], title V, §§ 501, 502(a), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406], 1411, 1412.)
 
  __References in Text__ 
 
@@ -632,6 +652,14 @@
     Another prior section 102a of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, as added [Pub. L. 98–215, title IV, § 403][/us/pl/98/215/s403], Dec. 9, 1983, [97 Stat. 1477][/us/stat/97/1477], related to appointment of Director of the Intelligence Community Staff prior to repeal by [Pub. L. 102–496, title VII, § 705(a)(1)][/us/pl/102/496/s705/a/1], Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190].
 
  __Amendments__ 
+
+    2014—Subsec. (g)(4). [Pub. L. 113–126, § 329(b)(2)][/us/pl/113/126/s329/b/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).”
+
+    Subsec. (j). [Pub. L. 113–126, § 501(1)][/us/pl/113/126/s501/1], substituted “classified information” for “sensitive compartmented information” in heading.
+
+    Subsec. (j)(5), (6). [Pub. L. 113–126, § 501(2)][/us/pl/113/126/s501/2]–(4), added pars. (5) and (6).
+
+    Subsec. (x). [Pub. L. 113–126, § 502(a)][/us/pl/113/126/s502/a], added subsec. (x).
 
     2012—Subsec. (e)(3)(D). [Pub. L. 112–87, § 311(d)][/us/pl/112/87/s311/d], substituted “For each of the fiscal years 2010, 2011, and 2012, the” for “The” in introductory provisions.
 
@@ -664,6 +692,12 @@
     Subsec. (n)(4). [Pub. L. 111–259, § 326][/us/pl/111/259/s326], added par. (4).
 
     Subsecs. (s) to (u). [Pub. L. 111–259][/us/pl/111/259], §§ 303, 304, 307, added subsecs. (s) to (u).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–126, title V, § 502(b)][/us/pl/113/126/s502/b], July 7, 2014, [128 Stat. 1412][/us/stat/128/1412], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into or renewed after the date of the enactment of this Act \[July 7, 2014\].”
 
  __Effective Date__ 
 
@@ -878,6 +912,8 @@
 [/us/stat/124/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2658
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/stat/125/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1880
+[/us/pl/113/126/s329/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F2
+[/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
@@ -908,6 +944,10 @@
 [/us/stat/97/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1477
 [/us/pl/102/496/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F1
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190
+[/us/pl/113/126/s329/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F2
+[/us/pl/113/126/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs501%2F1
+[/us/pl/113/126/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs501%2F2
+[/us/pl/113/126/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs502%2Fa
 [/us/pl/112/87/s311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs311%2Fd
 [/us/pl/112/87/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs304
 [/us/pl/112/87/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs305
@@ -924,6 +964,8 @@
 [/us/pl/111/259/s804/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F2%2FD
 [/us/pl/111/259/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs326
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/113/126/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs502%2Fb
+[/us/stat/128/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1412
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

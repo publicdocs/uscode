@@ -117,7 +117,11 @@
 
             (A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
 
-            (B) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+            (B)
+
+                (i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+
+                (ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
             (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
@@ -155,6 +159,8 @@
 
                 (ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
+            (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
+
     (e) __Authorities of Inspector General__ 
 
         (1) The Inspector General shall have direct and prompt access to the Director when necessary for any purpose pertaining to the performance of his duties.
@@ -169,7 +175,7 @@
 
             (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-        (4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+        (4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
         (5)
 
@@ -255,7 +261,7 @@
 
         (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
 
-([June 20, 1949, ch. 227, § 17][/us/act/1949-06-20/ch227/s17], as added [Pub. L. 100–453, title V, § 504][/us/pl/100/453/s504], Sept. 29, 1988, [102 Stat. 1910][/us/stat/102/1910]; amended [Pub. L. 101–193, title VIII, § 801][/us/pl/101/193/s801], Nov. 30, 1989, [103 Stat. 1711][/us/stat/103/1711]; [Pub. L. 102–496, title VI, § 601][/us/pl/102/496/s601], Oct. 24, 1992, [106 Stat. 3187][/us/stat/106/3187]; [Pub. L. 103–359, title IV, § 402][/us/pl/103/359/s402], Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 104–93, title IV, § 403][/us/pl/104/93/s403], Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969]; [Pub. L. 105–107, title IV, § 402][/us/pl/105/107/s402], Nov. 20, 1997, [111 Stat. 2257][/us/stat/111/2257]; [Pub. L. 105–272, title VII, § 702(a)][/us/pl/105/272/s702/a], Oct. 20, 1998, [112 Stat. 2414][/us/stat/112/2414]; [Pub. L. 106–567, title IV][/us/pl/106/567], §§ 402, 403, Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847], 2848; [Pub. L. 107–108, title III, § 309(a)][/us/pl/107/108/s309/a], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 107–306, title VIII, § 811(b)(2)][/us/pl/107/306/s811/b/2], Nov. 27, 2002, [116 Stat. 2422][/us/stat/116/2422]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3694; [Pub. L. 111–259, title IV][/us/pl/111/259], §§ 425(a)–(f)(1), 426, title VIII, § 802(2), Oct. 7, 2010, [124 Stat. 2728–2730][/us/stat/124/2728-2730], 2746; [Pub. L. 112–87, title IV, § 413][/us/pl/112/87/s413], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891]; [Pub. L. 112–277, title III, § 309(b)(1)][/us/pl/112/277/s309/b/1], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474].)
+([June 20, 1949, ch. 227, § 17][/us/act/1949-06-20/ch227/s17], as added [Pub. L. 100–453, title V, § 504][/us/pl/100/453/s504], Sept. 29, 1988, [102 Stat. 1910][/us/stat/102/1910]; amended [Pub. L. 101–193, title VIII, § 801][/us/pl/101/193/s801], Nov. 30, 1989, [103 Stat. 1711][/us/stat/103/1711]; [Pub. L. 102–496, title VI, § 601][/us/pl/102/496/s601], Oct. 24, 1992, [106 Stat. 3187][/us/stat/106/3187]; [Pub. L. 103–359, title IV, § 402][/us/pl/103/359/s402], Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 104–93, title IV, § 403][/us/pl/104/93/s403], Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969]; [Pub. L. 105–107, title IV, § 402][/us/pl/105/107/s402], Nov. 20, 1997, [111 Stat. 2257][/us/stat/111/2257]; [Pub. L. 105–272, title VII, § 702(a)][/us/pl/105/272/s702/a], Oct. 20, 1998, [112 Stat. 2414][/us/stat/112/2414]; [Pub. L. 106–567, title IV][/us/pl/106/567], §§ 402, 403, Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847], 2848; [Pub. L. 107–108, title III, § 309(a)][/us/pl/107/108/s309/a], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 107–306, title VIII, § 811(b)(2)][/us/pl/107/306/s811/b/2], Nov. 27, 2002, [116 Stat. 2422][/us/stat/116/2422]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3694; [Pub. L. 111–259, title IV][/us/pl/111/259], §§ 425(a)–(f)(1), 426, title VIII, § 802(2), Oct. 7, 2010, [124 Stat. 2728–2730][/us/stat/124/2728-2730], 2746; [Pub. L. 112–87, title IV, § 413][/us/pl/112/87/s413], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891]; [Pub. L. 112–277, title III, § 309(b)(1)][/us/pl/112/277/s309/b/1], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title VI, § 603(b)][/us/pl/113/126/s603/b], July 7, 2014, [128 Stat. 1420][/us/stat/128/1420].)
 
  __References in Text__ 
 
@@ -266,6 +272,10 @@
     Section was formerly classified to [section 403q of this title][/us/usc/t50/s403q] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(5)(B). [Pub. L. 113–126, § 603(b)(1)][/us/pl/113/126/s603/b/1], designated existing provisions as cl. (i) and added cl. (ii).
+
+    Subsec. (d)(5)(H). [Pub. L. 113–126, § 603(b)(2)][/us/pl/113/126/s603/b/2], added subpar. (H).
 
     2013—Subsec. (d)(1). [Pub. L. 112–277][/us/pl/112/277], in introductory provisions, substituted “October 31 and April 30” for “January 31 and July 31”, “September 30 and March 31,” for “December 31 (of the preceding year) and June 30,”, and “Not later than 30 days after the date of the receipt of such reports,” for “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,”.
 
@@ -408,9 +418,13 @@
 [/us/stat/125/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1891
 [/us/pl/112/277/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs309%2Fb%2F1
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
+[/us/pl/113/126/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb
+[/us/stat/128/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1420
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s403q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403q
+[/us/pl/113/126/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb%2F1
+[/us/pl/113/126/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb%2F2
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/111/259/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs425%2Fa

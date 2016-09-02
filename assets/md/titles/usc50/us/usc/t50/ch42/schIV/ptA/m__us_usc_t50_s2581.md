@@ -33,7 +33,7 @@
 
     2013—[Pub. L. 113–66, § 3146(e)(1)(A)][/us/pl/113/66/s3146/e/1/A], substituted “Cleanup” for “Restoration and Waste Management” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 3146(e)(1)(B)][/us/pl/113/66/s3146/e/1/B], substituted “ ‘Cleanup’ ” for “ ‘Restoration and Waste Management’ ”.
+    Subsec. (a). [Pub. L. 113–66, § 3146(e)(1)(B)][/us/pl/113/66/s3146/e/1/B], substituted “ ‘Defense Environmental Cleanup Account’ ” for “ ‘Defense Environmental Restoration and Waste Management Account’ ”.
 
     Subsec. (b). [Pub. L. 113–66, § 3146(e)(1)(C)][/us/pl/113/66/s3146/e/1/C], substituted “defense environmental cleanup” for “environmental restoration and waste management”.
 

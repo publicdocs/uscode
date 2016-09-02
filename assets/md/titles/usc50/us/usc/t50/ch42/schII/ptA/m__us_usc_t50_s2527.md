@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(4)(A)][/us/pl/113/66/s3146/c/4/A]–(C), redesignated subsec. (b) as (a), substituted “Russian Federation” for “Soviet Union” and struck out former subsec. (a) which related to congressional findings regarding negotiations between the United States and the Soviet Union on nuclear test ban verification measures.
+    2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(4)(A)][/us/pl/113/66/s3146/c/4/A]–(C), redesignated subsec. (b) as (a), substituted “Russian Federation” for “Soviet Union”, and struck out former subsec. (a) which related to congressional findings regarding negotiations between the United States and the Soviet Union on nuclear test ban verification measures.
 
     Subsec. (b). [Pub. L. 113–66, § 3146(c)(4)(B)][/us/pl/113/66/s3146/c/4/B], (D), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (b)” in introductory provisions. Former subsec. (b) redesignated (a).
 

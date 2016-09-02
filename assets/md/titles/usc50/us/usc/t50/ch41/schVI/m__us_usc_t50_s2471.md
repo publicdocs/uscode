@@ -43,7 +43,7 @@
 
         (F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
 
-    (3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (\[former\] [50 U.S.C. 401][/us/usc/t50/s401] note) \[now [50 U.S.C. 3001][/us/usc/t50/s3001] note\], Executive Order No. 12958 of April 17, 1995 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note) \[now [50 U.S.C. 3161][/us/usc/t50/s3161] note\], or successor orders, to require protection against unauthorized disclosure and that is so designated.
+    (3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (\[former\] [50 U.S.C. 401][/us/usc/t50/s401] note) \[now [50 U.S.C. 3001][/us/usc/t50/s3001] note\], Executive Order No. 12958 of April 17, 1995 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
 
     (4) The term “Restricted Data” has the meaning given such term in [section 2014(y) of title 42][/us/usc/t42/s2014/y].
 
@@ -62,6 +62,8 @@
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of [Pub. L. 106–65][/us/pl/106/65], Oct. 5, 1999, [113 Stat. 953][/us/stat/113/953], as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title][/us/usc/t50/s2401] and Tables.
+
+    Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
  __Amendments__ 
 
@@ -85,7 +87,6 @@
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
 [/us/pl/106/65/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3281
 [/us/stat/113/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F968

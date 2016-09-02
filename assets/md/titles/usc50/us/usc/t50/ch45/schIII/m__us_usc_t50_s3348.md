@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3347.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_ch45_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3348)
+[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3347.md) | [Next](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3349.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3348)
 
 ## § 3348. Reports relating to certain special access programs and similar programs
 
@@ -109,7 +109,7 @@
 
  __References in Text__ 
 
-    Executive Order 12356, referred to in subsec. (g)(2), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under [section 435 of this title][/us/usc/t50/s435], was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, and was reclassified as a note under [section 3161 of this title][/us/usc/t50/s3161].
+    Executive Order 12356, referred to in subsec. (g)(2), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
  __Codification__ 
 
@@ -125,7 +125,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3347.md) | [Next](./../../../../..//us/usc/t50/ch45/schIV/m__us_usc_t50_ch45_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3348)
+[Previous](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3347.md) | [Next](./../../../../..//us/usc/t50/ch45/schIII/m__us_usc_t50_s3349.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3348)
 
 ----------
 ----------
@@ -138,8 +138,6 @@
 [/us/stat/107/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1758
 [/us/pl/106/65/s3294/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fe%2F2
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t42/s2122a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2122a

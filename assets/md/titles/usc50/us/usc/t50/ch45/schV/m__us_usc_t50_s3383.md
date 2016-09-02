@@ -133,7 +133,7 @@
 
     Section 104(d), referred to in subsec. (f)(2), is [section 104(d) of Pub. L. 107–306][/us/pl/107/306/s104/d], title I, Nov. 27, 2002, [116 Stat. 2387][/us/stat/116/2387], which is not classified to the Code.
 
-    The National Security Act of 1947, referred to in subsec. (i), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which is classified principally to chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+    The National Security Act of 1947, referred to in subsec. (i), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which is classified principally to chapter 44 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 

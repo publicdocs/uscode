@@ -103,9 +103,7 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 
     None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
-    1–104. Section 2–202 of Executive Order No. 12036 \[formerly set out under [50 U.S.C. 401][/us/usc/t50/s401], which was editorially reclassified and renumbered as [50 U.S.C. 3002][/us/usc/t50/s3002]\] is amended by inserting the following at the end of that section: “Any electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978, shall be conducted in accordance with that Act as well as this Order.”.
-
-    1–105. Section 2–203 of Executive Order No. 12036 \[formerly set out under [50 U.S.C. 401][/us/usc/t50/s401], which was editorially reclassified and renumbered as [50 U.S.C. 3002][/us/usc/t50/s3002]\] is amended by inserting the following at the end of that section: “Any monitoring which constitutes electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978 shall be conducted in accordance with that Act as well as this Order.”.
+    \[1–104, 1–105. Amended Ex. Ord. No. 12036, formerly set out under section 401 (now 3001) of this title.\]
 
 ----------
 
@@ -140,9 +138,5 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 [/us/usc/t50/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1802%2Fb
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/usc/t50/s1804/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F6
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
-[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
-[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
 
 

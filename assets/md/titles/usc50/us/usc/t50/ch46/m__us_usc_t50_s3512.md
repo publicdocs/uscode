@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t50/ch46/m__us_usc_t50_s3511.md) | [Next](./../../../..//us/usc/t50/ch46/m__us_usc_t50_s3513.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3512)
 
-## § 3512. Authority to accept gifts, devises, and bequests
+## § 3512. Gifts, devises, and bequests
 
     (a) __Use for operational purposes prohibited__ 
 
@@ -21,7 +21,7 @@
 
         (2)
 
-         Any gift accepted under this section (and any income produced by any such gift)—
+         Any gift accepted by the Director as a gift to the Agency under this subsection (and any income produced by any such gift)—
 
             (A)
 
@@ -59,21 +59,27 @@
 
     (b) __Sale, exchange and investment of gifts__ 
 
-        Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under this section, but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+        Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under subsection (a), but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
     (c) __Deposit of gifts into special fund__ 
 
-        There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of this section, and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
+        There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
 
     (d) __Taxation of gifts__ 
 
-        For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under this section shall be considered to be to or for the use of the United States.
+        For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under subsection (a) shall be considered to be to or for the use of the United States.
 
     (e) __“Gift” defined__ 
 
         For the purposes of this section, the term “gift” includes a bequest or devise.
 
-    (f) __Regulations__ 
+    (f) __Fundraising__ 
+
+        (1) The Director may engage in fundraising in an official capacity for the benefit of nonprofit organizations that provide support to surviving family members of deceased Agency employees or that otherwise provide support for the welfare, education, or recreation of Agency employees, former Agency employees, or their family members.
+
+        (2) In this subsection, the term “fundraising” means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
+
+    (g) __Regulations__ 
 
     The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
 
@@ -81,13 +87,23 @@
 
         (2) a prohibition against the acceptance of a gift from a foreign government or an agent of a foreign government.
 
-([June 20, 1949, ch. 227, § 12][/us/act/1949-06-20/ch227/s12], as added [Pub. L. 96–450, title IV, § 404][/us/pl/96/450/s404], Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 112–87, title IV, § 411][/us/pl/112/87/s411], Jan. 3, 2012, [125 Stat. 1889][/us/stat/125/1889].)
+([June 20, 1949, ch. 227, § 12][/us/act/1949-06-20/ch227/s12], as added [Pub. L. 96–450, title IV, § 404][/us/pl/96/450/s404], Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 112–87, title IV, § 411][/us/pl/112/87/s411], Jan. 3, 2012, [125 Stat. 1889][/us/stat/125/1889]; [Pub. L. 113–126, title IV, § 421][/us/pl/113/126/s421], July 7, 2014, [128 Stat. 1410][/us/stat/128/1410].)
 
  __Codification__ 
 
     Section was formerly classified to section 403l of this title prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–126, § 421(1)][/us/pl/113/126/s421/1], substituted “Gifts, devises, and bequests” for “Authority to accept gifts, devises, and bequests” in section catchline.
+
+    Subsec. (a)(2). [Pub. L. 113–126, § 421(2)][/us/pl/113/126/s421/2], in introductory provisions, inserted “by the Director as a gift to the Agency” after “accepted” and substituted “this subsection” for “this section”.
+
+    Subsecs. (b), (c). [Pub. L. 113–126, § 421(3)][/us/pl/113/126/s421/3], (4), substituted “subsection (a),” for “this section,”.
+
+    Subsec. (d). [Pub. L. 113–126, § 421(5)][/us/pl/113/126/s421/5], substituted “subsection (a)” for “this section”.
+
+    Subsecs. (f), (g). [Pub. L. 113–126, § 421(6)][/us/pl/113/126/s421/6], (7), added subsec. (f) and redesignated former subsec. (f) as (g).
 
     2012—Subsec. (a). [Pub. L. 112–87, § 411(1)][/us/pl/112/87/s411/1], designated existing provisions as par. (1), struck out “Any gift accepted under this section (and any income produced by any such gift) may be used only for artistic display or for purposes relating to the general welfare, education, or recreation of employees or dependents of employees of the Agency or for similar purposes, and under no circumstances may such a gift (or any income produced by any such gift) be used for operational purposes. The Director may not accept any gift under this section which is expressly conditioned upon any expenditure not to be met from the gift itself or from income produced by the gift unless such expenditure has been authorized by law.” at end, and added pars. (2) to (5).
 
@@ -105,6 +121,13 @@
 [/us/stat/94/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1979
 [/us/pl/112/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411
 [/us/stat/125/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1889
+[/us/pl/113/126/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421
+[/us/stat/128/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1410
+[/us/pl/113/126/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F1
+[/us/pl/113/126/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F2
+[/us/pl/113/126/s421/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F3
+[/us/pl/113/126/s421/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F5
+[/us/pl/113/126/s421/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F6
 [/us/pl/112/87/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411%2F1
 [/us/pl/112/87/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411%2F2
 

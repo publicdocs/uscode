@@ -11,29 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106)
+[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105a.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106)
 
 ## § 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees
 
     (a) __Annual reports__ 
 
-        (1)
+    The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1):
 
-         The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
+        (1) The annual report of the Inspectors Generals  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “General”. </sup></sup>  of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
 
-            (A) The annual report of the Inspectors Generals  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “General”. </sup></sup>  of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+        (2) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by [section 2291–4(c)(2) of title 22][/us/usc/t22/s2291–4/c/2].
 
-            (B) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by [section 2291–4(c)(2) of title 22][/us/usc/t22/s2291–4/c/2].
+        (3) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of [Public Law 102–183][/us/pl/102/183]; [50 U.S.C. 1901][/us/usc/t50/s1901] et seq.) required by section 806(a) of that Act ([50 U.S.C. 1906(a)][/us/usc/t50/s1906/a]).
 
-            (C) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of [Public Law 102–183][/us/pl/102/183]; [50 U.S.C. 1901][/us/usc/t50/s1901] et seq.) required by section 806(a) of that Act ([50 U.S.C. 1906(a)][/us/usc/t50/s1906/a]).
+        (4) The annual report on hiring and retention of minority employees in the intelligence community required by [section 3050(a) of this title][/us/usc/t50/s3050/a].
 
-            (D) The annual report on hiring and retention of minority employees in the intelligence community required by [section 3050(a) of this title][/us/usc/t50/s3050/a].
+        (5) The annual report on outside employment of employees of elements of the intelligence community required by [section 3024(u)(2) of this title][/us/usc/t50/s3024/u/2].
 
-            (E) The annual report on outside employment of employees of elements of the intelligence community required by [section 3024(u)(2) of this title][/us/usc/t50/s3024/u/2].
-
-            (F) The annual report on financial intelligence on terrorist assets required by [section 3055 of this title][/us/usc/t50/s3055].
-
-        (2) The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by [section 3050(b) of this title][/us/usc/t50/s3050/b] shall be the date each year provided in subsection (c)(1)(B).
+        (6) The annual report on financial intelligence on terrorist assets required by [section 3055 of this title][/us/usc/t50/s3055].
 
     (b) __Semiannual reports__ 
 
@@ -47,11 +43,7 @@
 
     (c) __Submittal dates for reports__ 
 
-        (1)
-
-            (A) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
-
-            (B) Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.
+        (1) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
 
         (2) Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
 
@@ -61,11 +53,9 @@
 
          Subject to paragraph (3), the date for the submittal of—
 
-            (A) an annual report listed in subsection (a)(1) of this section may be postponed until March 1;
+            (A) an annual report listed in subsection (a) of this section may be postponed until March 1; and
 
-            (B) the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and
-
-            (C) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
+            (B) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
 
             if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
@@ -81,13 +71,13 @@
 
             (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 507, as added [Pub. L. 107–306, title VIII, § 811(a)(1)][/us/pl/107/306/s811/a/1], Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418]; amended [Pub. L. 108–177, title III, § 361][/us/pl/108/177/s361](l), Dec. 13, 2003, [117 Stat. 2626][/us/stat/117/2626]; [Pub. L. 111–259, title III, § 349][/us/pl/111/259/s349], title V, § 501(b)(3), Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700], 2739; [Pub. L. 112–277, title III][/us/pl/112/277], §§ 309(b)(2), 310(b)(1), Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474], 2475.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 507, as added [Pub. L. 107–306, title VIII, § 811(a)(1)][/us/pl/107/306/s811/a/1], Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418]; amended [Pub. L. 108–177, title III, § 361][/us/pl/108/177/s361](l), Dec. 13, 2003, [117 Stat. 2626][/us/stat/117/2626]; [Pub. L. 111–259, title III, § 349][/us/pl/111/259/s349], title V, § 501(b)(3), Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700], 2739; [Pub. L. 112–277, title III][/us/pl/112/277], §§ 309(b)(2), 310(b)(1), Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474], 2475; [Pub. L. 113–126, title III, § 329(c)(3)][/us/pl/113/126/s329/c/3], July 7, 2014, [128 Stat. 1407][/us/stat/128/1407].)
 
  __References in Text__ 
 
-    Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is [section 8H(g) of Pub. L. 95–452][/us/pl/95/452/s8H/g], which is set out in the Appendix to Title 5, Government Organization and Employees.
+    Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1), is [section 8H(g) of Pub. L. 95–452][/us/pl/95/452/s8H/g], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(C), is title VIII of [Pub. L. 102–183][/us/pl/102/183], Dec. 4, 1991, [105 Stat. 1271][/us/stat/105/1271], which is classified generally to chapter 37 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see [section 1901(a) of this title][/us/usc/t50/s1901/a] and Tables.
+    The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(3), is title VIII of [Pub. L. 102–183][/us/pl/102/183], Dec. 4, 1991, [105 Stat. 1271][/us/stat/105/1271], which is classified generally to chapter 37 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see [section 1901(a) of this title][/us/usc/t50/s1901/a] and Tables.
 
     The Classified Information Procedures Act, referred to in subsec. (b)(1), is [Pub. L. 96–456][/us/pl/96/456], Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025], which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -98,6 +88,12 @@
     Section was formerly classified to [section 415b of this title][/us/usc/t50/s415b] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–126, § 329(c)(3)(A)][/us/pl/113/126/s329/c/3/A], in introductory provisions, struck out par. (1) designation before “The date” and substituted “subsection (c)(1)” for “subsection (c)(1)(A)”, redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: “The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by [section 3050(b) of this title][/us/usc/t50/s3050/b] shall be the date each year provided in subsection (c)(1)(B).”
+
+    Subsec. (c)(1). [Pub. L. 113–126, § 329(c)(3)(B)][/us/pl/113/126/s329/c/3/B], struck out subpar. (A) designation before “Except” and struck out subpar. (B) which read as follows: “Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.”
+
+    Subsec. (d)(1). [Pub. L. 113–126, § 329(c)(3)(C)][/us/pl/113/126/s329/c/3/C], in subpar. (A), substituted “subsection (a)” for “subsection (a)(1)” and inserted “and” after “March 1;”, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and”.
 
     2013—Subsec. (a)(1). [Pub. L. 112–277, § 310(b)(1)(A)(i)(I)][/us/pl/112/277/s310/b/1/A/i/I], (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
 
@@ -223,7 +219,7 @@ Similar provisions were contained in the following prior acts:
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106)
+[Previous](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3105a.md) | [Next](./../../../../..//us/usc/t50/ch44/schIII/m__us_usc_t50_s3107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106)
 
 ----------
 ----------
@@ -235,7 +231,6 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t50/s3050/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050%2Fa
 [/us/usc/t50/s3024/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fu%2F2
 [/us/usc/t50/s3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3055
-[/us/usc/t50/s3050/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050%2Fb
 [/us/usc/t15/s1681u/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh%2F2
 [/us/usc/t12/s3414/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414%2Fa%2F5%2FC
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
@@ -247,6 +242,8 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/124/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2700
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
+[/us/pl/113/126/s329/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3
+[/us/stat/128/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1407
 [/us/pl/95/452/s8H/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H%2Fg
 [/us/pl/102/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183
 [/us/stat/105/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1271
@@ -257,6 +254,10 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA
 [/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
+[/us/pl/113/126/s329/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FA
+[/us/usc/t50/s3050/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050%2Fb
+[/us/pl/113/126/s329/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FB
+[/us/pl/113/126/s329/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FC
 [/us/pl/112/277/s310/b/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FA%2Fi%2FI
 [/us/usc/t50/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs423
 [/us/usc/t50/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2366

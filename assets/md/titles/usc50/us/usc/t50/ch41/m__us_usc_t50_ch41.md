@@ -115,7 +115,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2411" data-uslm-ref="/us/usc/t50/s2411">2411.</a>  </td>
 
-    <td> Director for cost estimating and program evaluation.  </td>
+    <td> Director for Cost Estimating and Program Evaluation.  </td>
 
   </tr>
 

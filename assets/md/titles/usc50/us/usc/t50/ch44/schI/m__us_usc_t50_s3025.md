@@ -65,7 +65,7 @@
 
     With respect to filling temporarily a vacancy in an office within the Office of the Director of National Intelligence (other than that of the Director of National Intelligence), [section 3345(a)(3) of title 5][/us/usc/t5/s3345/a/3] may be applied—
 
-        (1) in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947  <sup>\[1\]</sup>  <sup><sup> 1 So in original. See References in Text note below. </sup></sup>  ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]),” for “such Executive agency”; and
+        (1) in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]),”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for “such Executive agency”; and
 
         (2) in subparagraph (A), by substituting “the intelligence community” for “such agency”.
 

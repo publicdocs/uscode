@@ -109,7 +109,11 @@
 
             (B) each written statement provided under subsection (c)(5).
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 503, as added [Pub. L. 102–88, title VI, § 602(a)(2)][/us/pl/102/88/s602/a/2], Aug. 14, 1991, [105 Stat. 442][/us/stat/105/442]; amended [Pub. L. 107–306, title III, § 353(b)(3)(C)][/us/pl/107/306/s353/b/3/C], (8), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I, § 1071(a)(1)(Y)][/us/pl/108/458/s1071/a/1/Y], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III, § 331(c)][/us/pl/111/259/s331/c], Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685].)
+    (h) __Plan to respond to unauthorized public disclosure of covert action__ 
+
+        For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.
+
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 503, as added [Pub. L. 102–88, title VI, § 602(a)(2)][/us/pl/102/88/s602/a/2], Aug. 14, 1991, [105 Stat. 442][/us/stat/105/442]; amended [Pub. L. 107–306, title III, § 353(b)(3)(C)][/us/pl/107/306/s353/b/3/C], (8), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I, § 1071(a)(1)(Y)][/us/pl/108/458/s1071/a/1/Y], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III, § 331(c)][/us/pl/111/259/s331/c], Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685]; [Pub. L. 113–126, title III, § 308][/us/pl/113/126/s308], July 7, 2014, [128 Stat. 1397][/us/stat/128/1397].)
 
  __Codification__ 
 
@@ -120,6 +124,8 @@
     A prior section 503 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], was renumbered section 505 and is classified to [section 3095 of this title][/us/usc/t50/s3095].
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–126][/us/pl/113/126] added subsec. (h).
 
     2010—Subsec. (b)(2). [Pub. L. 111–259, § 331(c)(1)][/us/pl/111/259/s331/c/1], inserted “(including the legal basis under which the covert action is being or was conducted)” before “which is in the possession”.
 
@@ -168,9 +174,12 @@
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/pl/111/259/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc
 [/us/stat/124/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2685
+[/us/pl/113/126/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs308
+[/us/stat/128/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1397
 [/us/usc/t50/s413b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413b
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/usc/t50/s3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3095
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/111/259/s331/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F1
 [/us/pl/111/259/s331/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FA
 [/us/pl/111/259/s331/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FB
