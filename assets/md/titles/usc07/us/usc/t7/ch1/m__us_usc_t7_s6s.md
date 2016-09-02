@@ -163,6 +163,10 @@
 
                     (II) major swap participants.
 
+        (4) __Applicability with respect to counterparties__ 
+
+            The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed by rules adopted pursuant to paragraphs (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a counterparty qualifies for an exception under [section 2(h)(7)(A) of this title][/us/usc/t7/s2/h/7/A], or an exemption issued under [section 6(c)(1) of this title][/us/usc/t7/s6/c/1] from the requirements of [section 2(h)(1)(A) of this title][/us/usc/t7/s2/h/1/A] for cooperative entities as defined in such exemption, or satisfies the criteria in [section 2(h)(7)(D) of this title][/us/usc/t7/s2/h/7/D].
+
     (f) __Reporting and recordkeeping__ 
 
         (1) __In general__ 
@@ -499,7 +503,7 @@
 
             If the counterparty does not choose to require segregation of the funds or other property supplied to margin, guarantee, or secure the obligations of the counterparty, the swap dealer or major swap participant shall report to the counterparty of the swap dealer or major swap participant on a quarterly basis that the back office procedures of the swap dealer or major swap participant relating to margin and collateral requirements are in compliance with the agreement of the counterparties.
 
-([Sept. 21, 1922, ch. 369, § 4s][/us/act/1922-09-21/ch369/s4s], as added and amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 724(c), 731, July 21, 2010, [124 Stat. 1684][/us/stat/124/1684], 1703.)
+([Sept. 21, 1922, ch. 369, § 4s][/us/act/1922-09-21/ch369/s4s], as added and amended [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 724(c), 731, July 21, 2010, [124 Stat. 1684][/us/stat/124/1684], 1703; [Pub. L. 114–1, title III, § 302(a)][/us/pl/114/1/s302/a], Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28].)
 
  __References in Text__ 
 
@@ -509,11 +513,31 @@
 
  __Amendments__ 
 
+    2015—Subsec. (e)(4). [Pub. L. 114–1][/us/pl/114/1] added par. (4).
+
     2010—Subsec. (l). [Pub. L. 111–203, § 724(c)][/us/pl/111/203/s724/c], added subsec. (l).
 
  __Effective Date__ 
 
     Section and amendment by [Pub. L. 111–203][/us/pl/111/203] effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of [Pub. L. 111–203][/us/pl/111/203] requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see [section 754 of Pub. L. 111–203][/us/pl/111/203/s754], set out as an Effective Date of 2010 Amendment note under [section 1a of this title][/us/usc/t7/s1a].
+
+ __Implementation__ 
+
+[Pub. L. 114–1, title III, § 303][/us/pl/114/1/s303], Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28], provided that: 
+
+> “The amendments made by this title to the Commodity Exchange Act \[amending this section\] shall be implemented—
+
+>     “(1)
+
+>      without regard to—
+
+>         “(A) chapter 35 of title 44, United States Code; and
+
+>         “(B) the notice and comment provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code;
+
+>     “(2) through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and
+
+>     “(3) such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments.”
 
 ----------
 
@@ -529,6 +553,10 @@
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
+[/us/usc/t7/s2/h/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7%2FA
+[/us/usc/t7/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc%2F1
+[/us/usc/t7/s2/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F1%2FA
+[/us/usc/t7/s2/h/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F7%2FD
 [/us/usc/t7/s1a/47/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F47%2FA%2Fv
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
@@ -538,16 +566,22 @@
 [/us/act/1922-09-21/ch369/s4s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369%2Fs4s
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1684
+[/us/pl/114/1/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs302%2Fa
+[/us/stat/129/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F28
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/pl/111/203/s724/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs724%2Fc
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
+[/us/pl/114/1/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs303
+[/us/stat/129/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F28
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 
 
