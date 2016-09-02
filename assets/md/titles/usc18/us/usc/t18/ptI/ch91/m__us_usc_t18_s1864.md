@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1863.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_ptI_ch93.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1864)
+[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1863.md) | [Next](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1865.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1864)
 
 ## § 1864. Hazardous or injurious devices on Federal lands
 
@@ -111,7 +111,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1863.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_ptI_ch93.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1864)
+[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1863.md) | [Next](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1865.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1864)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1864.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_s1901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch93)
+[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1866.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_s1901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch93)
 
 ### CHAPTER 93—PUBLIC OFFICERS AND EMPLOYEES
 
@@ -233,7 +233,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1864.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_s1901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch93)
+[Previous](./../../../../..//us/usc/t18/ptI/ch91/m__us_usc_t18_s1866.md) | [Next](./../../../../..//us/usc/t18/ptI/ch93/m__us_usc_t18_s1901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch93)
 
 ----------
 ----------
