@@ -23,7 +23,7 @@
 
         (2) $42,762,000 for fiscal year 2014; and
 
-        (3) $28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+        (3) $35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.
 
     (b)  __Hazardous Materials Emergency Preparedness Fund__  __.—__ 
 
@@ -43,21 +43,21 @@
 
         (2)  __Fiscal year 2015__  __.—__ 
 
-        From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+        From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
 
-            (A) $125,162 to carry out section 5115;
+            (A) $156,581 to carry out section 5115;
 
-            (B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
+            (B) $18,156,712 to carry out subsections (a) and (b) of section 5116, of which not less than $11,368,767 shall be available to carry out section 5116(b);
 
-            (C) $99,863 to carry out section 5116(f);
+            (C) $124,932 to carry out section 5116(f);
 
-            (D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+            (D) $520,548 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
 
-            (E) $665,753 to carry out section 5116(j).
+            (E) $832,877 to carry out section 5116(j).
 
     (c)  __Hazardous Materials Training Grants__  __.—__ 
 
-    From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out section 5107(e).
+    From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out section 5107(e).
 
     (d) __Credits to Appropriations.—__ 
 
@@ -69,7 +69,7 @@
 
         Amounts made available under this section shall remain available until expended.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 783][/us/stat/108/783], § 5127; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 103, 119(b), (c)(4), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1680; renumbered § 5128 and amended [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7123(b), 7125, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1908; [Pub. L. 110–244, title III, § 302(f)][/us/pl/110/244/s302/f], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III, § 33017][/us/pl/112/141/s33017], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 113–159, title I, § 1301][/us/pl/113/159/s1301], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 783][/us/stat/108/783], § 5127; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 103, 119(b), (c)(4), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1680; renumbered § 5128 and amended [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7123(b), 7125, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1908; [Pub. L. 110–244, title III, § 302(f)][/us/pl/110/244/s302/f], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III, § 33017][/us/pl/112/141/s33017], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 113–159, title I, § 1301][/us/pl/113/159/s1301], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1301][/us/pl/114/21/s1301], May 29, 2015, [129 Stat. 225][/us/stat/129/225].)
 
 <table>
 
@@ -231,6 +231,22 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 
  __Amendments__ 
 
+    2015—Subsec. (a)(3). [Pub. L. 114–21, § 1301(a)][/us/pl/114/21/s1301/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+
+    Subsec. (b)(2). [Pub. L. 114–21, § 1301(b)][/us/pl/114/21/s1301/b], amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+
+    “(A) $125,162 to carry out section 5115;
+
+    “(B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
+
+    “(C) $99,863 to carry out section 5116(f);
+
+    “(D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+    “(E) $665,753 to carry out section 5116(j).”
+
+    Subsec. (c). [Pub. L. 114–21, § 1301(c)][/us/pl/114/21/s1301/c], substituted “and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+
     2014—Subsec. (a)(3). [Pub. L. 113–159, § 1301(a)][/us/pl/113/159/s1301/a], added par. (3).
 
     Subsec. (b). [Pub. L. 113–159, § 1301(b)][/us/pl/113/159/s1301/b], designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
@@ -276,6 +292,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 [/us/stat/126/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F841
 [/us/pl/113/159/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1301
 [/us/stat/128/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1847
+[/us/pl/114/21/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1301
+[/us/stat/129/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F225
+[/us/pl/114/21/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1301%2Fa
+[/us/pl/114/21/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1301%2Fb
+[/us/pl/114/21/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1301%2Fc
 [/us/pl/113/159/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1301%2Fa
 [/us/pl/113/159/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1301%2Fb
 [/us/pl/113/159/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1301%2Fc
