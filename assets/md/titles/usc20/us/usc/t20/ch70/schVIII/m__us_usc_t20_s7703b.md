@@ -135,7 +135,7 @@
 
  __Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments__ 
 
-[Pub. L. 109–364, div. A, title V, § 574][/us/pl/109/364/s574], Oct. 17, 2006, [120 Stat. 2226][/us/stat/120/2226], as amended by [Pub. L. 110–181, div. A, title V, § 573][/us/pl/110/181/s573], Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 553, Oct. 14, 2008, [122 Stat. 4469][/us/stat/122/4469]; [Pub. L. 112–81, div. A, title V, § 573][/us/pl/112/81/s573], Dec. 31, 2011, [125 Stat. 1427][/us/stat/125/1427], provided that:
+[Pub. L. 109–364, div. A, title V, § 574][/us/pl/109/364/s574], Oct. 17, 2006, [120 Stat. 2226][/us/stat/120/2226], as amended by [Pub. L. 110–181, div. A, title V, § 573][/us/pl/110/181/s573], Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 553, Oct. 14, 2008, [122 Stat. 4469][/us/stat/122/4469]; [Pub. L. 112–81, div. A, title V, § 573][/us/pl/112/81/s573], Dec. 31, 2011, [125 Stat. 1427][/us/stat/125/1427]; [Pub. L. 114–92, div. A, title X, § 1072(h)][/us/pl/114/92/s1072/h], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -165,11 +165,7 @@
 
 >         “(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a).
 
->     “(c)  __Updated Reports__  __.—__ 
-
->     Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update of the report required by subsection (a).
-
->     “(d)  __Transition of Military Dependents Among Local Educational Agencies__  __.—__ 
+>     “(c)  __Transition of Military Dependents Among Local Educational Agencies__  __.—__ 
 
 >         (1) The Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transitions of military dependent students from Department of Defense dependent schools to other schools and among schools of local educational agencies.
 
@@ -197,7 +193,7 @@
 
 >         “(3) The authority provided by this subsection expires September 30, 2016.
 
->     “(e)  __Definitions__  __.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -251,7 +247,8 @@
 [/us/stat/122/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4469
 [/us/pl/112/81/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs573
 [/us/stat/125/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1427
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/114/92/s1072/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fh
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t20/s7713/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7713%2F9
 
