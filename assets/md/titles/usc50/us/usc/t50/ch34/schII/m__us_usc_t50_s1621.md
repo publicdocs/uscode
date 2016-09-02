@@ -39,17 +39,19 @@ NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by
 
  __Continuation of National Emergency Declared by Proc. No. 7463__ 
 
-    Notice of President of the United States, dated Sept. 10, 2013, 78 F.R. 56581, provided:
+    Notice of President of the United States, dated Sept. 4, 2014, 79 F.R. 53279, provided:
 
     Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)][/us/usc/t50/s1622/d], I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-    Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2013. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+    Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2014. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
     This notice shall be published in the Federal Register and transmitted to the Congress.
 
                               Barack Obama.
 
     Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+    Notice of President of the United States, dated Sept. 10, 2013, 78 F.R. 56581.
 
     Notice of President of the United States, dated Sept. 11, 2012, 77 F.R. 56517.
 

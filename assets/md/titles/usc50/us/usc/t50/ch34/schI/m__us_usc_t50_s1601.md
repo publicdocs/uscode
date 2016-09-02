@@ -43,7 +43,7 @@
 
 >     “(1) any action taken or proceeding pending not finally concluded or determined at the time of repeal;
 
->     “(2) any action or proceeding based on any act committee prior to repeal; or
+>     “(2) any action or proceeding based on any act committed prior to repeal; or
 
 >     “(3) any rights or duties that matured or penalties that were incurred prior to repeal.”
 
