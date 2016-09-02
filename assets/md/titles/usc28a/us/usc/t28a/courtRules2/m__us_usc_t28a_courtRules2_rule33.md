@@ -17,7 +17,7 @@
 
     (a) __In General.__ 
 
-        (1)Number. Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
+        (1) Number. Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
 
         (2) Scope. An interrogatory may relate to any matter that may be inquired into under Rule 26(b). An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time.
 
@@ -25,7 +25,7 @@
 
         (1)
 
- Responding Party. The interrogatories must be answered—
+ Responding Party. The interrogatories must be answered:
 
             (A) by the party to whom they are directed; or
 

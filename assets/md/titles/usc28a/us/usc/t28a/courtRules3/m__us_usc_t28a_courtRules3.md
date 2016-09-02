@@ -15,7 +15,7 @@
 
 ## FEDERAL RULES OF EVIDENCE
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
  __Effective Date and Application of Rules__ 
 
