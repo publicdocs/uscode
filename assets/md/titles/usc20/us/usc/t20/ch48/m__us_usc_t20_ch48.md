@@ -115,7 +115,7 @@ SUBCHAPTER II—ESTABLISHMENT OF THE DEPARTMENT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs3416" data-uslm-ref="/us/usc/t20/s3416">3416.</a>  </td>
 
-    <td> Office of Career, Technical, and Adult Education.  </td>
+    <td> Office of Vocational and Adult Education.  </td>
 
   </tr>
 

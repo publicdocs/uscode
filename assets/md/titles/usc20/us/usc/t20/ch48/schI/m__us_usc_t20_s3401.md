@@ -61,7 +61,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–88, § 1][/us/pl/96/88/s1], Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668], provided in part: 
+[Pub. L. 96–88, § 1][/us/pl/96/88/s1], Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3][/us/usc/t3/s19], The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, [section 1004 of Title 21][/us/usc/t21/s1004], Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and [section 1102 of this title][/us/usc/t20/s1102]\] may be cited as the ‘Department of Education Organization Act’.”
 

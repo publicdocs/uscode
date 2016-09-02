@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended by the Education Amendments of 1980, [Pub. L. 96–374][/us/pl/96/374], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367], which is classified generally to this chapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
+    The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended by the Education Amendments of 1980, [Pub. L. 96–373][/us/pl/96/373], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367], which is classified generally to this chapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 [/us/stat/94/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1504
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
-[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F373
 [/us/stat/94/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1367
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1146

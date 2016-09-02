@@ -33,7 +33,7 @@
 
         (1) __Collection of information at reasonable cost__ 
 
-            The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Career, Technical, and Adult Education, and an entity assisted under [section 2328 of this title][/us/usc/t20/s2328] (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
+            The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under [section 2328 of this title][/us/usc/t20/s2328] (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
 
         (2) __Cooperation of States__ 
 
@@ -209,7 +209,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-([Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 702][/us/stat/120/702]; amended [Pub. L. 113–76, div. H, title III, § 307(d)][/us/pl/113/76/s307/d], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
+([Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 702][/us/stat/120/702].)
 
  __References in Text__ 
 
@@ -222,10 +222,6 @@
     A prior section 2324, [Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3089][/us/stat/112/3089], related to national activities, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
     Another prior section 2324, [Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2449][/us/stat/98/2449]; amended [Pub. L. 101–392, title I, § 114][/us/pl/101/392/s114], Sept. 25, 1990, [104 Stat. 769][/us/stat/104/769], related to development and approval of State plans, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
-
- __Amendments__ 
-
-    2014—Subsec. (b)(1). [Pub. L. 113–76][/us/pl/113/76] substituted “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”.
 
 ----------
 
@@ -241,8 +237,6 @@
 [/us/pl/88/210/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs114
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F702
-[/us/pl/113/76/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fd
-[/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
@@ -258,6 +252,5 @@
 [/us/pl/101/392/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs114
 [/us/stat/104/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F769
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 
