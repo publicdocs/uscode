@@ -1123,7 +1123,7 @@ Part I—General Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6574" data-uslm-ref="/us/usc/t20/s6574">6574.</a>  </td>
 
-    <td> Local educational agency spending audits.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

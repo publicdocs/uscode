@@ -275,23 +275,11 @@
 
             (F) Such other information and assurances as the Secretary may reasonably require.
 
-        (7) __Report__ 
-
-            (A) __In general__ 
-
-                Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
-
-            (B) __Definition__ 
-
-            In this paragraph, the term “appropriate congressional committees” means—
-
-                (i) the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
-
-                (ii) the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate.
-
-([Pub. L. 89–10, title VIII, § 8007][/us/pl/89/10/s8007], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3763][/us/stat/108/3763]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title III, § 306(b)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–236; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVIII, § 1811\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–383; [Pub. L. 107–110, title VIII, § 803][/us/pl/107/110/s803], Jan. 8, 2002, [115 Stat. 1950][/us/stat/115/1950].)
+([Pub. L. 89–10, title VIII, § 8007][/us/pl/89/10/s8007], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3763][/us/stat/108/3763]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title III, § 306(b)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–236; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVIII, § 1811\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–383; [Pub. L. 107–110, title VIII, § 803][/us/pl/107/110/s803], Jan. 8, 2002, [115 Stat. 1950][/us/stat/115/1950]; [Pub. L. 113–188, title V, § 501][/us/pl/113/188/s501], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(7). [Pub. L. 113–188][/us/pl/113/188] struck out par. (7) which required annual reports containing justifications for each grant awarded under subsec. (b) for the prior fiscal year.
 
     2002—Subsec. (b). [Pub. L. 107–110][/us/pl/107/110] amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
 
@@ -343,6 +331,9 @@
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/110/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs803
 [/us/stat/115/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1950
+[/us/pl/113/188/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs501
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
