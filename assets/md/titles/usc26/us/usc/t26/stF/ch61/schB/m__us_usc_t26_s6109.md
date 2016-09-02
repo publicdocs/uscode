@@ -249,7 +249,7 @@
 
 [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(f), Dec. 18, 2015, [129 Stat. 3081][/us/stat/129/3081], provided that: 
 
-> “The amendments made by this section \[amending this section and section 6213 of this section\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\].”
+> “The amendments made by this section \[amending this section and [section 6213 of this title][/us/usc/t26/s6213]\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -447,6 +447,7 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3081
+[/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

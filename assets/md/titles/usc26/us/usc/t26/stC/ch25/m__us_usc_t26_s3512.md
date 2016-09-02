@@ -65,7 +65,7 @@
 
 [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(c), Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
 
-> “The amendments made by this section \[enacting this section and provisions set out as a note under this section\] shall apply to remuneration paid after December 31, 2015.”
+> “The amendments made by this section \[enacting this section\] shall apply to remuneration paid after December 31, 2015.”
 
  __Construction__ 
 
