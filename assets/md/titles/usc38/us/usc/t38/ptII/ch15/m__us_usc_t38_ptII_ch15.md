@@ -289,9 +289,17 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1560" data-uslm-ref="/us/usc/t38/s1560">1560</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1561" data-uslm-ref="/us/usc/t38/s1561">1561.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1560" data-uslm-ref="/us/usc/t38/s1560">1560.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Medal of Honor Roll; persons eligible.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1561" data-uslm-ref="/us/usc/t38/s1561">1561.</a>  </td>
+
+    <td> Certificate.  </td>
 
   </tr>
 
@@ -306,8 +314,6 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title V, § 563(c)(2)][/us/pl/113/66/s563/c/2], Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768], struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
 
     2001—[Pub. L. 107–103, title II, § 207(a)(2)][/us/pl/107/103/s207/a/2], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991], added item 1513.
 
@@ -346,8 +352,6 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 ----------
 ----------
 
-[/us/pl/113/66/s563/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fc%2F2
-[/us/stat/127/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F768
 [/us/pl/107/103/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fa%2F2
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568

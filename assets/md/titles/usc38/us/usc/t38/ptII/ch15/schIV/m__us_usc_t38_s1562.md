@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch15/schIV/m__us_usc_t38_ptII_ch15_schIV.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/m__us_usc_t38_ptII_ch17.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch15/schIV/m__us_usc_t38_s1561.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/m__us_usc_t38_ptII_ch17.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562)
 
 ## § 1562. Special provisions relating to pension
 
-    (a) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10][/us/usc/t10/s1134a], a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+    (a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of [section 1561 of this title][/us/usc/t38/s1561], a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under [section 1560 of this title][/us/usc/t38/s1560].
 
     (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -31,13 +31,7 @@
 
         (2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
 
-    (g)
-
-        (1) A person who is entitled to special pension under subsection (a) may elect not to receive special pension by notifying the Secretary of such election in writing.
-
-        (2) Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.
-
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1140][/us/stat/72/1140], § 562; [Pub. L. 87–138, § 3][/us/pl/87/138/s3], Aug. 14, 1961, [75 Stat. 339][/us/stat/75/339]; [Pub. L. 88–77, § 5(2)][/us/pl/88/77/s5/2], July 25, 1963, [77 Stat. 95][/us/stat/77/95]; [Pub. L. 94–169, title I, § 106(44)][/us/pl/94/169/s106/44], (45), Dec. 23, 1975, [89 Stat. 1019][/us/stat/89/1019]; [Pub. L. 95–479, title III, § 302][/us/pl/95/479/s302], Oct. 18, 1978, [92 Stat. 1565][/us/stat/92/1565]; renumbered § 1562 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–161, § 1(a)][/us/pl/103/161/s1/a], Nov. 30, 1993, [107 Stat. 1967][/us/stat/107/1967]; [Pub. L. 105–368, title III, § 301(a)][/us/pl/105/368/s301/a], Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332]; [Pub. L. 107–330, title III, § 304(a)][/us/pl/107/330/s304/a]–(c), Dec. 6, 2002, [116 Stat. 2826][/us/stat/116/2826]; [Pub. L. 113–66, div. A, title V, § 563(b)][/us/pl/113/66/s563/b], Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1140][/us/stat/72/1140], § 562; [Pub. L. 87–138, § 3][/us/pl/87/138/s3], Aug. 14, 1961, [75 Stat. 339][/us/stat/75/339]; [Pub. L. 88–77, § 5(2)][/us/pl/88/77/s5/2], July 25, 1963, [77 Stat. 95][/us/stat/77/95]; [Pub. L. 94–169, title I, § 106(44)][/us/pl/94/169/s106/44], (45), Dec. 23, 1975, [89 Stat. 1019][/us/stat/89/1019]; [Pub. L. 95–479, title III, § 302][/us/pl/95/479/s302], Oct. 18, 1978, [92 Stat. 1565][/us/stat/92/1565]; renumbered § 1562 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–161, § 1(a)][/us/pl/103/161/s1/a], Nov. 30, 1993, [107 Stat. 1967][/us/stat/107/1967]; [Pub. L. 105–368, title III, § 301(a)][/us/pl/105/368/s301/a], Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332]; [Pub. L. 107–330, title III, § 304(a)][/us/pl/107/330/s304/a]–(c), Dec. 6, 2002, [116 Stat. 2826][/us/stat/116/2826].)
 
  __References in Text__ 
 
@@ -169,10 +163,6 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 563(b)(1)][/us/pl/113/66/s563/b/1], substituted “each living person” for “each person”, “Honor Roll, and” for “Honor roll, and”, “subsection (d) of [section 1134a of title 10][/us/usc/t10/s1134a]” for “subsection (c) of [section 1561 of this title][/us/usc/t38/s1561]”, and “date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section” for “date of application therefor under [section 1560 of this title][/us/usc/t38/s1560]”.
-
-    Subsec. (g). [Pub. L. 113–66, § 563(b)(2)][/us/pl/113/66/s563/b/2], added subsec. (g).
-
     2002—Subsec. (a). [Pub. L. 107–330, § 304(a)][/us/pl/107/330/s304/a], substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
 
     Subsec. (e). [Pub. L. 107–330, § 304(b)][/us/pl/107/330/s304/b], added subsec. (e).
@@ -198,10 +188,6 @@
     1963—Subsec. (a). [Pub. L. 88–77][/us/pl/88/77] inserted references to the Coast Guard.
 
     1961—Subsec. (a). [Pub. L. 87–138][/us/pl/87/138] inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of [section 561 of this title][/us/usc/t38/s561],” after “Medal of Honor roll”, and increased pension from $10 to $100.
-
- __Effective Date of 2013 Amendment__ 
-
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see [section 563(d) of Pub. L. 113–66][/us/pl/113/66/s563/d], set out as an Effective Date note under [section 1134a of Title 10][/us/usc/t10/s1134a], Armed Forces.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -231,24 +217,19 @@
 
     [Pub. L. 94–169, title I, § 106][/us/pl/94/169/s106], Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
 
- __Effective Date of 1961 Amendment__ 
-
-[Pub. L. 87–138, § 4][/us/pl/87/138/s4], Aug. 14, 1961, [75 Stat. 339][/us/stat/75/339], provided that: 
-
-> “The amendments made by this Act \[amending this section and sections 560 and 561 \[now 1560 and 1561\] of this title\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Aug. 14, 1961\], except that the amendments made by subsection (b) of the first section \[amending section 560 \[now 1560\] of this title\] and by section 2 \[amending section 561 \[now 1561\] of this title\] shall not apply with respect to any application under section 560 \[now 1560\] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
-
  __Transfer of Functions__ 
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch15/schIV/m__us_usc_t38_ptII_ch15_schIV.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/m__us_usc_t38_ptII_ch17.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch15/schIV/m__us_usc_t38_s1561.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/m__us_usc_t38_ptII_ch17.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562)
 
 ----------
 ----------
 
-[/us/usc/t10/s1134a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134a
+[/us/usc/t38/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1561
+[/us/usc/t38/s1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1560
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
@@ -269,8 +250,6 @@
 [/us/stat/112/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3332
 [/us/pl/107/330/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs304%2Fa
 [/us/stat/116/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2826
-[/us/pl/113/66/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fb
-[/us/stat/127/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F767
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -440,11 +419,6 @@
 [/us/pl/95/202/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs302%2Fb
 [/us/stat/91/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1441
 [/us/usc/t38/s3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3500
-[/us/pl/113/66/s563/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fb%2F1
-[/us/usc/t10/s1134a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134a
-[/us/usc/t38/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1561
-[/us/usc/t38/s1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1560
-[/us/pl/113/66/s563/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fb%2F2
 [/us/pl/107/330/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs304%2Fa
 [/us/pl/107/330/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs304%2Fb
 [/us/pl/107/330/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs304%2Fc
@@ -460,9 +434,6 @@
 [/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/pl/87/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F138
 [/us/usc/t38/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs561
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/66/s563/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fd
-[/us/usc/t10/s1134a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134a
 [/us/pl/107/330/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs304%2Fd
 [/us/stat/116/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2826
 [/us/usc/t38/s1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562
@@ -476,8 +447,6 @@
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/94/169/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
-[/us/pl/87/138/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F138%2Fs4
-[/us/stat/75/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F339
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 
