@@ -49,7 +49,7 @@
 
         (1) the term “counterfeit label” means an identifying label or container that appears to be genuine, but is not;
 
-        (2) the term “traffic” has the same meaning as in section 2320(e)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title;
+        (2) the term “traffic” has the same meaning as in [section 2320(f) of this title][/us/usc/t18/s2320/f];
 
         (3) the terms “copy”, “phonorecord”, “motion picture”, “computer program”, “audiovisual work”, “literary work”, “pictorial, graphic, or sculptural work”, “sound recording”, “work of visual art”, and “copyright owner” have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
 
@@ -175,13 +175,11 @@
 
         A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added [Pub. L. 87–773][/us/pl/87/773], § 1, Oct. 9, 1962, [76 Stat. 775][/us/stat/76/775]; amended [Pub. L. 93–573, title I][/us/pl/93/573/tI], § 103, Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873]; [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 111, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600]; [Pub. L. 97–180][/us/pl/97/180], § 2, May 24, 1982, [96 Stat. 91][/us/stat/96/91]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3567, Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(10), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–153][/us/pl/104/153], § 4(a), (b)(1), July 2, 1996, [110 Stat. 1386][/us/stat/110/1386], 1387; [Pub. L. 108–482, title I][/us/pl/108/482/tI], § 102(a), (b), Dec. 23, 2004, [118 Stat. 3912][/us/stat/118/3912], 3914; [Pub. L. 109–181][/us/pl/109/181], § 2(c)(2), Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 202, Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260]; [Pub. L. 111–295][/us/pl/111/295], § 6(i), Dec. 9, 2010, [124 Stat. 3182][/us/stat/124/3182].)
-
- __References in Text__ 
-
-    [Section 2320 of this title][/us/usc/t18/s2320], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(h), Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497], and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+(Added [Pub. L. 87–773][/us/pl/87/773], § 1, Oct. 9, 1962, [76 Stat. 775][/us/stat/76/775]; amended [Pub. L. 93–573, title I][/us/pl/93/573/tI], § 103, Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873]; [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 111, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600]; [Pub. L. 97–180][/us/pl/97/180], § 2, May 24, 1982, [96 Stat. 91][/us/stat/96/91]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3567, Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(10), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–153][/us/pl/104/153], § 4(a), (b)(1), July 2, 1996, [110 Stat. 1386][/us/stat/110/1386], 1387; [Pub. L. 108–482, title I][/us/pl/108/482/tI], § 102(a), (b), Dec. 23, 2004, [118 Stat. 3912][/us/stat/118/3912], 3914; [Pub. L. 109–181][/us/pl/109/181], § 2(c)(2), Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 202, Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260]; [Pub. L. 111–295][/us/pl/111/295], § 6(i), Dec. 9, 2010, [124 Stat. 3182][/us/stat/124/3182]; [Pub. L. 114–154][/us/pl/114/154], § 3(1), May 16, 2016, [130 Stat. 387][/us/stat/130/387].)
 
  __Amendments__ 
+
+    2016—Subsec. (b)(2). [Pub. L. 114–154][/us/pl/114/154] substituted “section 2320(f)” for “section 2320(e)”.
 
     2010—Subsec. (e)(6). [Pub. L. 111–295][/us/pl/111/295] substituted “under this subsection” for “under section”.
 
@@ -272,6 +270,7 @@
 ----------
 ----------
 
+[/us/usc/t18/s2320/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2320%2Ff
 [/us/usc/t49/s46501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501
 [/us/pl/87/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F773
 [/us/stat/76/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F775
@@ -297,9 +296,9 @@
 [/us/stat/122/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4260
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3182
-[/us/usc/t18/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2320
-[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
-[/us/stat/125/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1497
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/stat/130/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F387
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403

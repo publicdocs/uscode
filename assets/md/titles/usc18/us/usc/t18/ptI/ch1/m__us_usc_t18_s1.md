@@ -23,6 +23,10 @@
 
  __Short Title of 2016 Amendment__ 
 
+[Pub. L. 114–154][/us/pl/114/154], § 1, May 16, 2016, [130 Stat. 387][/us/stat/130/387], provided that: 
+
+> “This Act \[amending sections 2318 and 2320 of this title and [section 959 of Title 21][/us/usc/t21/s959], Food and Drugs\] may be cited as the ‘Transnational Drug Trafficking Act of 2015’.”
+
 [Pub. L. 114–153][/us/pl/114/153], § 1, May 11, 2016, [130 Stat. 376][/us/stat/130/376], provided that: 
 
 > “This Act \[amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and [section 620 of Title 28][/us/usc/t28/s620], Judiciary and Judicial Procedure\] may be cited as the ‘Defend Trade Secrets Act of 2016’.”
@@ -340,6 +344,9 @@
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/stat/130/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F387
+[/us/usc/t21/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs959
 [/us/pl/114/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F153
 [/us/stat/130/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F376
 [/us/usc/t28/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs620

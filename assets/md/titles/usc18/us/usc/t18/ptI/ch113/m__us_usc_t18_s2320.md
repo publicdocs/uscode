@@ -25,7 +25,7 @@
 
         (3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
 
-        (4) traffics in a counterfeit drug,
+        (4) traffics in a drug and knowingly uses a counterfeit mark on or in connection with such drug,
 
         or attempts or conspires to violate any of paragraphs (1) through (4) shall be punished as provided in subsection (b).
 
@@ -51,7 +51,7 @@
 
         (3)  __Counterfeit military goods or services and counterfeit drugs__  __.—__ 
 
-        Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
+        Whoever commits an offense under subsection (a) involving a counterfeit military good or service or drug that uses a counterfeit mark on or in connection with the drug—
 
             (A) if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
 
@@ -117,7 +117,7 @@
 
         (5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
 
-        (6) the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
+        (6) the term “drug” means a drug, as defined in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321][/us/usc/t21/s321]).
 
     (g)  __Limitation on Cause of Action__  __.—__ 
 
@@ -165,15 +165,13 @@
 
     No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
 
-(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1502(a), Oct. 12, 1984, [98 Stat. 2178][/us/stat/98/2178]; amended [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320104(a), title XXXIII, § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2110][/us/stat/108/2110], 2148; [Pub. L. 104–153][/us/pl/104/153], § 5, July 2, 1996, [110 Stat. 1387][/us/stat/110/1387]; [Pub. L. 105–147][/us/pl/105/147], § 2(f), Dec. 16, 1997, [111 Stat. 2679][/us/stat/111/2679]; [Pub. L. 105–225][/us/pl/105/225], § 4(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499]; [Pub. L. 105–354][/us/pl/105/354], § 2(c)(1), Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 107–140][/us/pl/107/140], § 1, Feb. 8, 2002, [116 Stat. 12][/us/stat/116/12]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 205(e), Nov. 2, 2002, [116 Stat. 1778][/us/stat/116/1778]; [Pub. L. 109–181][/us/pl/109/181], §§ 1(b), 2(b), Mar. 16, 2006, [120 Stat. 285][/us/stat/120/285], 288; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 205, Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(h), Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497]; [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 717(a)(1)–(3), July 9, 2012, [126 Stat. 1076][/us/stat/126/1076].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1502(a), Oct. 12, 1984, [98 Stat. 2178][/us/stat/98/2178]; amended [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320104(a), title XXXIII, § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2110][/us/stat/108/2110], 2148; [Pub. L. 104–153][/us/pl/104/153], § 5, July 2, 1996, [110 Stat. 1387][/us/stat/110/1387]; [Pub. L. 105–147][/us/pl/105/147], § 2(f), Dec. 16, 1997, [111 Stat. 2679][/us/stat/111/2679]; [Pub. L. 105–225][/us/pl/105/225], § 4(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499]; [Pub. L. 105–354][/us/pl/105/354], § 2(c)(1), Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 107–140][/us/pl/107/140], § 1, Feb. 8, 2002, [116 Stat. 12][/us/stat/116/12]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 205(e), Nov. 2, 2002, [116 Stat. 1778][/us/stat/116/1778]; [Pub. L. 109–181][/us/pl/109/181], §§ 1(b), 2(b), Mar. 16, 2006, [120 Stat. 285][/us/stat/120/285], 288; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 205, Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(h), Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497]; [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 717(a)(1)–(3), July 9, 2012, [126 Stat. 1076][/us/stat/126/1076]; [Pub. L. 114–154][/us/pl/114/154], § 3(2), May 16, 2016, [130 Stat. 387][/us/stat/130/387].)
 
  __References in Text__ 
 
     The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15][/us/usc/t15/s1051] and Tables.
 
     The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
-
-    Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(6), is classified to [section 321 of Title 21][/us/usc/t21/s321], Food and Drugs.
 
     The date of enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of [Pub. L. 112–81][/us/pl/112/81], which was approved Dec. 31, 2011.
 
@@ -182,6 +180,12 @@
     Another section 2320 was renumbered [section 2321 of this title][/us/usc/t18/s2321].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(4). [Pub. L. 114–154][/us/pl/114/154], § 3(2)(A), added par. (4) and struck out former par. (4) which read as follows: “traffics in a counterfeit drug,”.
+
+    Subsec. (b)(3). [Pub. L. 114–154][/us/pl/114/154], § 3(2)(B), substituted “drug that uses a counterfeit mark on or in connection with the drug” for “counterfeit drug” in introductory provisions.
+
+    Subsec. (f)(6). [Pub. L. 114–154][/us/pl/114/154], § 3(2)(C), added par. (6) and struck out former par. (6) which defined “counterfeit drug”.
 
     2012—Subsec. (a). [Pub. L. 112–144][/us/pl/112/144], § 717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
 
@@ -280,6 +284,7 @@
 
 [/us/usc/t36/s220506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs220506
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
+[/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
 [/us/usc/t18/s2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2318
 [/us/usc/t18/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319
@@ -309,12 +314,16 @@
 [/us/stat/125/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1497
 [/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1076
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/stat/130/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F387
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t18/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2321
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
