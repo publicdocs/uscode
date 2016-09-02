@@ -3595,7 +3595,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286ww" data-uslm-ref="/us/usc/t22/s286ww">286ww.</a>  </td>
 
-    <td> Acceptance of amendments to the Articles of Agreement of the Fund.  </td>
+    <td> Acceptance of amendments to Articles of Agreement of Fund.  </td>
 
   </tr>
 

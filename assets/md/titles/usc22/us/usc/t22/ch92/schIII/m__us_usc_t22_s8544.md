@@ -15,9 +15,9 @@
 
 ## § 8544. Enforcement authority
 
-    The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and (iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B)) \[now [50 U.S.C. 4614][/us/usc/t50/s4614]\] when the employee is carrying out activities to enforce—
+    The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and (iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  when the employee is carrying out activities to enforce—
 
-    (1) the provisions of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.));
+    (1) the provisions of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1 (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.));
 
     (2) the provisions of this subchapter, or any other provision of law relating to export controls, with respect to which the Secretary of Commerce has enforcement responsibility; or
 
@@ -25,7 +25,7 @@
 
      any license, order, or regulation issued under—
 
-        (A) the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)); or
+        (A) the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1 (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)); or
 
         (B) a provision of law referred to in paragraph (2).
 
@@ -33,7 +33,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in pars. (1) and (3)(A), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+    The Export Administration Act of 1979, referred to in pars. (1) and (3)(A), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 12 of the Act is now classified to [section 4614 of Title 50][/us/usc/t50/s4614]. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in pars. (1) and (3)(A), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
@@ -44,15 +44,13 @@
 ----------
 ----------
 
-[/us/usc/t50/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/111/195/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIII
 [/us/stat/124/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1349
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
+[/us/usc/t50/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

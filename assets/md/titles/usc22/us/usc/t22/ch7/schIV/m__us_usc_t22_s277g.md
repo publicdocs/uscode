@@ -21,7 +21,7 @@
 
     (b) __Content of agreements__ 
 
-    Agreements concluded under subsection (a) of this section should consist of recommendations to the Governments of the United States and Mexico of measures to protect the health and welfare of persons along the Rio Grande from the effects of pollution, including—
+    Agreements concluded under subsection (a) should consist of recommendations to the Governments of the United States and Mexico of measures to protect the health and welfare of persons along the Rio Grande from the effects of pollution, including—
 
         (1) facilities that should be constructed, operated, and maintained in each country;
 

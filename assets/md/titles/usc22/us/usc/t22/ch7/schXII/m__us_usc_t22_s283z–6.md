@@ -21,7 +21,7 @@
 
     (b) __“Investments in human capital” defined__ 
 
-        As used in subsection (a) of this section, the term “investments in human capital” means investments in projects, policies, and programs designed to improve urban and rural health care and sanitation, basic nutrition, education, the small-producer private sector, the economic activities of women, and the development of indigenous non-governmental organizations.
+        As used in subsection (a), the term “investments in human capital” means investments in projects, policies, and programs designed to improve urban and rural health care and sanitation, basic nutrition, education, the small-producer private sector, the economic activities of women, and the development of indigenous non-governmental organizations.
 
 ([Pub. L. 86–147][/us/pl/86/147], § 34, as added [Pub. L. 101–240, title II][/us/pl/101/240/tII], § 202(a), Dec. 19, 1989, [103 Stat. 2498][/us/stat/103/2498].)
 

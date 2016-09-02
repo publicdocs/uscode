@@ -21,7 +21,7 @@
 
     (b) __Authorization of appropriations__ 
 
-        In order to pay for United States subscription authorized in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $222,015,580, for payment by the Secretary of the Treasury.
+        In order to pay for United States subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $222,015,580, for payment by the Secretary of the Treasury.
 
     (c) __Dividends deposited into Treasury__ 
 

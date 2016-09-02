@@ -21,7 +21,7 @@
 
     (b) __Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization__ 
 
-    The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
+    The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
 
         (1) minimize any projected adverse impacts on such sector or markets of making such loans, credits, or utilization of resources; and
 
@@ -29,7 +29,7 @@
 
     (c) __Project proposals relating to mining, smelting, refining, and fabricating of minerals and metal products__ 
 
-    More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutions described in subsection (d) of this section against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
+    More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutions described in subsection (d) against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
 
         (1) Analysis shows that the risks, returns, and incentives of a project are such that it could be financed at reasonable terms by commercial lending services.
 
@@ -39,7 +39,7 @@
 
     (d) __International financial institutions__ 
 
-        The international financial institutions referred to in subsections (a) and (b) of this section are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
+        The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
 
 ([Pub. L. 99–88, title I][/us/pl/99/88/tI], § 502, Aug. 15, 1985, [99 Stat. 330][/us/stat/99/330]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 

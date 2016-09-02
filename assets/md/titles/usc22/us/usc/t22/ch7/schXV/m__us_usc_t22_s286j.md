@@ -21,7 +21,7 @@
 
     (b) __Proposal of amendment__ 
 
-        If the interpretation by the Fund answers in the affirmative any of the questions stated in subsection (a) of this section, the governor of the Fund representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of expressly negativing such interpretation. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
+        If the interpretation by the Fund answers in the affirmative any of the questions stated in subsection (a), the governor of the Fund representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of expressly negativing such interpretation. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
 
 ([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 13, [59 Stat. 517][/us/stat/59/517].)
 

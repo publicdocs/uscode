@@ -27,7 +27,7 @@
 
     (b) __Limitations on authorization of appropriations__ 
 
-        For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a) of this section, there are authorized to be appropriated $1,050,007,800 without fiscal year limitation.
+        For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a), there are authorized to be appropriated $1,050,007,800 without fiscal year limitation.
 
     (c) __Limitations on obligation of appropriated amounts for shares of capital stock__ 
 
@@ -35,15 +35,15 @@
 
             (A) __In general__ 
 
-                Not more than $105,000,000 of the amounts appropriated pursuant to subsection (b) of this section may be obligated for subscription to shares of paid-in capital stock.
+                Not more than $105,000,000 of the amounts appropriated pursuant to subsection (b) may be obligated for subscription to shares of paid-in capital stock.
 
             (B) __Fiscal year 1997__ 
 
-                Not more than $52,500,000 of the amounts appropriated pursuant to subsection (b) of this section for fiscal year 1997 may be obligated for subscription to shares of paid-in capital stock.
+                Not more than $52,500,000 of the amounts appropriated pursuant to subsection (b) for fiscal year 1997 may be obligated for subscription to shares of paid-in capital stock.
 
         (2) __Callable capital stock__ 
 
-            Not more than $787,505,852 of the amounts appropriated pursuant to subsection (b) of this section may be obligated for subscription to shares of callable capital stock.
+            Not more than $787,505,852 of the amounts appropriated pursuant to subsection (b) may be obligated for subscription to shares of callable capital stock.
 
     (d) __Disposition of net income distributions by Bank__ 
 

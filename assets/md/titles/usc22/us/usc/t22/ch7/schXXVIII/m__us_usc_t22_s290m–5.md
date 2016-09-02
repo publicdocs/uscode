@@ -27,7 +27,7 @@
 
         (1) __General rule__ 
 
-        The requirements of subsection (a) of this section shall not apply in cases where—
+        The requirements of subsection (a) shall not apply in cases where—
 
             (A) the President determines there are exceptional economic circumstances for making the grant and consults with the Committee on Foreign Relations of the Senate and the Committee on Financial Services of the House of Representatives; or
 

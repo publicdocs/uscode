@@ -25,7 +25,7 @@
 
     (c) __Annual report__ 
 
-    In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
+    In addition to the report required by subsection (a), the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
 
         (1) __Costs of peacekeeping operations__ 
 

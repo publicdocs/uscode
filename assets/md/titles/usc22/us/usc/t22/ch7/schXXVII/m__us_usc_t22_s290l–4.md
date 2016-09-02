@@ -27,7 +27,7 @@
 
     (b) __Limitations on authorization of appropriations__ 
 
-        For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a) of this section, there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
+        For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a), there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
 
     (c) __Disposition of net income distributions by Bank__ 
 

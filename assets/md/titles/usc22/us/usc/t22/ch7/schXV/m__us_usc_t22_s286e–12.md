@@ -27,7 +27,7 @@
 
     (b) __Limitation on authorization of appropriations__ 
 
-        To pay for the contribution authorized by subsection (a) of this section, there are authorized to be appropriated not to exceed $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
+        To pay for the contribution authorized by subsection (a), there are authorized to be appropriated not to exceed $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
 
 ([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 54, as added [Pub. L. 101–240, title III][/us/pl/101/240/tIII], § 301, Dec. 19, 1989, [103 Stat. 2500][/us/stat/103/2500].)
 

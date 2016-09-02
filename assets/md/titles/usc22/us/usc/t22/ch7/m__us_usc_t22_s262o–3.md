@@ -35,7 +35,7 @@
 
     (b) __Report__ 
 
-        Not later than September 1, 2004, and 6 months thereafter, the Secretary of the Treasury shall submit a report to the appropriate congressional committees describing the actions taken by each multilateral development institution to implement the policy goals described in subsection (a) of this section, and any further actions that need to be taken to fully implement such goals.
+        Not later than September 1, 2004, and 6 months thereafter, the Secretary of the Treasury shall submit a report to the appropriate congressional committees describing the actions taken by each multilateral development institution to implement the policy goals described in subsection (a), and any further actions that need to be taken to fully implement such goals.
 
     (c) __Publication of written statements regarding inspection mechanism cases__ 
 

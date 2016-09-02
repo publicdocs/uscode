@@ -177,13 +177,11 @@
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
->         “(1) the congressional intelligence committees;
+>         “(1) the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\];
 
 >         “(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
 
 >         “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
-
-    \[For definition of “congressional intelligence committees” as used in [section 513 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s513], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s2], set out as a note under [section 3003 of Title 50][/us/usc/t50/s3003], War and National Defense.\]
 
  __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries__ 
 
@@ -348,9 +346,6 @@
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
 [/us/pl/114/113/dM/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtV
 [/us/stat/129/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2926
-[/us/pl/114/113/dM/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs513
-[/us/pl/114/113/dM/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs2
-[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4002
 [/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII

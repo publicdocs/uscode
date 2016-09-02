@@ -523,7 +523,7 @@
 
 >         “(1) Amounts authorized to be appropriated for fiscal year 2016 and available for reimbursement of certain coalition nations for support provided to United States military operations pursuant to section 1233 of the National Defense Authorization Act for fiscal year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 393][/us/stat/122/393]).
 
->         “(2) Amounts authorized to be appropriated for fiscal year 2016 for the Counterterrorism Partnerships Fund pursuant to section 1534 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for fiscal year 2015 ([Public Law 113–291][/us/pl/113/291]; [128 Stat. 3616][/us/stat/128/3616]).
+>         “(2) Amounts authorized to be appropriated for fiscal year 2016 for the Counterterrorism Partnerships Fund pursuant to section 1534 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for fiscal year 2015 ([Public Law 113–291][/us/pl/113/291]; [128 Stat. 3616][/us/stat/128/3616]).
 
 >     “(c) __Limitations.—__ 
 

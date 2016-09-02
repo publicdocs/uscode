@@ -81,7 +81,7 @@
 
 [Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(q)(4), Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768], provided that: 
 
-> “For the purposes of [section 7080 of Public Law 113–235][/us/pl/113/235/s7080] \[this section\], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
+> “For the purposes of [section 7080 of Public Law 113–235][/us/pl/113/235/s7080] \[[22 U.S.C. 2152i][/us/usc/t22/s2152i]\], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
 
 [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(t)(1), Dec. 16, 2014, [128 Stat. 2627][/us/stat/128/2627], provided that: 
 
@@ -119,6 +119,7 @@
 [/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2768
 [/us/pl/113/235/s7080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7080
+[/us/usc/t22/s2152i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152i
 [/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2627
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235

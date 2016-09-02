@@ -29,7 +29,7 @@
 
         The United States Executive Director of the International Bank for Reconstruction and Development shall submit 3 reports to the Congress on—
 
-            (A) the progress made in transforming government-owned enterprises into privately owned enterprises as described in subsection (b) of this section;
+            (A) the progress made in transforming government-owned enterprises into privately owned enterprises as described in subsection (b);
 
             (B) the performance of the privately owned enterprises resulting from such transformation; and
 

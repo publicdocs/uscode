@@ -61,7 +61,7 @@
 
     (b) __Timing__ 
 
-        Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.
+        Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a).
 
 ([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1704, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 612\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228; amended [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 404(b), May 18, 2000, [114 Stat. 292][/us/stat/114/292].)
 

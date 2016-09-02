@@ -39,11 +39,11 @@
 
     (b) __Implementation and financing of program__ 
 
-        It is the sense of the Congress that the Grassroots Collaboration Program described in subsection (a) of this section should be implemented and financed as part of the normal operations of the International Bank for Reconstruction and Development and the International Development Association.
+        It is the sense of the Congress that the Grassroots Collaboration Program described in subsection (a) should be implemented and financed as part of the normal operations of the International Bank for Reconstruction and Development and the International Development Association.
 
     (c) __Flexible financing; initial grant__ 
 
-    To the extent the activities under the Grassroots Collaboration Program described in subsection (a) of this section need more flexible financing, it is the sense of the Congress that—
+    To the extent the activities under the Grassroots Collaboration Program described in subsection (a) need more flexible financing, it is the sense of the Congress that—
 
         (1) such activities could be funded through a grant from the net income of the International Bank for Reconstruction and Development; and
 
@@ -53,7 +53,7 @@
 
     (e) __Annual reports to Congress__ 
 
-        Each annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies shall describe the status of the establishment and operation of the Grassroots Collaboration Program described in subsection (a) of this section, the activities under taken by the Program and the sum of the amounts expended by the Program.
+        Each annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies shall describe the status of the establishment and operation of the Grassroots Collaboration Program described in subsection (a), the activities under taken by the Program and the sum of the amounts expended by the Program.
 
 ([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1602, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(4), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 

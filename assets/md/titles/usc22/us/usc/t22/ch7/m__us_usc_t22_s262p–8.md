@@ -35,7 +35,7 @@
 
              the annual payments due on such public and publicly guaranteed debt to not more than—
 
-                (i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e) of this section), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
+                (i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e)), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
 
                 (ii) a percentage of the gross national product of the country, or another benchmark, that will yield a result substantially equivalent to that which would be achieved through application of clause (i).
 
@@ -45,7 +45,7 @@
 
     (b) __Relation to poverty and the environment__ 
 
-    Debt cancellation under the modifications to the Enhanced HIPC Initiative described in subsection (a) of this section should not be conditioned on any agreement by an impoverished country to implement or comply with policies that deepen poverty or degrade the environment, including any policy that—
+    Debt cancellation under the modifications to the Enhanced HIPC Initiative described in subsection (a) should not be conditioned on any agreement by an impoverished country to implement or comply with policies that deepen poverty or degrade the environment, including any policy that—
 
         (1) implements or extends user fees on primary education or primary health care, including prevention and treatment efforts for HIV/AIDS, tuberculosis, malaria, and infant, child, and maternal well-being;
 
@@ -57,7 +57,7 @@
 
     (c) __Conditions__ 
 
-    A country shall not be eligible for cancellation of debt under modifications to the Enhanced HIPC Initiative described in subsection (a) of this section if the government of the country—
+    A country shall not be eligible for cancellation of debt under modifications to the Enhanced HIPC Initiative described in subsection (a) if the government of the country—
 
         (1) has an excessive level of military expenditures;
 
@@ -69,7 +69,7 @@
 
     (d) __Programs to combat HIV/AIDS and poverty__ 
 
-    A country that is otherwise eligible to receive cancellation of debt under the modifications to the Enhanced HIPC Initiative described in subsection (a) of this section may receive such cancellation only if the country has agreed—
+    A country that is otherwise eligible to receive cancellation of debt under the modifications to the Enhanced HIPC Initiative described in subsection (a) may receive such cancellation only if the country has agreed—
 
         (1) to ensure that the financial benefits of debt cancellation are applied to programs to combat HIV/AIDS and poverty, in particular through concrete measures to improve basic services in health, education, nutrition, and other development priorities, and to redress environmental degradation;
 

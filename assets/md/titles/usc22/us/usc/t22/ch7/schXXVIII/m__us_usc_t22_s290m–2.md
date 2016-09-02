@@ -67,7 +67,7 @@
 
         It shall be the function of the Advisory Committee—
 
-            (A) to provide advice to the President regarding the implementation of the community adjustment and investment program, including advice on the guidelines to be established by the President for the loans and loan guarantees to be made pursuant to subsection (a)(4) of this section, advice on identifying the needs for adjustment assistance and investment in support of the goals and objectives of the Agreement, taking into account economic and geographic considerations, and advice on such other matters as may be requested by the President; and
+            (A) to provide advice to the President regarding the implementation of the community adjustment and investment program, including advice on the guidelines to be established by the President for the loans and loan guarantees to be made pursuant to subsection (a)(4), advice on identifying the needs for adjustment assistance and investment in support of the goals and objectives of the Agreement, taking into account economic and geographic considerations, and advice on such other matters as may be requested by the President; and
 
             (B) to review on a regular basis the operation of the community adjustment and investment program and provide the President with the conclusions of its review.
 

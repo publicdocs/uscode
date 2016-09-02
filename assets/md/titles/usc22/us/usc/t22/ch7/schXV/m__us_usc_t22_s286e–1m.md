@@ -21,7 +21,7 @@
 
     (b) __Subject to appropriations__ 
 
-        The authority provided by subsection (a) of this section shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+        The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 ([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 61, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 608\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224.)
 

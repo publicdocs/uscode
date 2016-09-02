@@ -295,7 +295,7 @@
 
     Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
- __Plan Required to Promote Security of Afghan Women and Girls__ 
+ __Plan Required To Promote Security of Afghan Women and Girls__ 
 
 [Pub. L. 114–92, div. A, title XV][/us/pl/114/92/dA/tXV], § 1531(c)(2), Nov. 25, 2015, [129 Stat. 1089][/us/stat/129/1089], provided that:
 

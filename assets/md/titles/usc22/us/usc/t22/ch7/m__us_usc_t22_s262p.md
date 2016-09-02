@@ -25,7 +25,7 @@
 
     (b) __Proposed contents of impact statements__ 
 
-    In the discussions referred to in subsection (a) of this section with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
+    In the discussions referred to in subsection (a) with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
 
         (1) specify what the projected effects of the adjustment loan will be on the poor;
 

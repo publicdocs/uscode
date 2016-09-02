@@ -25,7 +25,7 @@
 
     (c) __Advance appropriations__ 
 
-        The authority of subsection (b) of this section may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
+        The authority of subsection (b) may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
 
 ([Pub. L. 88–300][/us/pl/88/300], § 2, Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184]; [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 423(a), Apr. 30, 1994, [108 Stat. 457][/us/stat/108/457]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 703\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460.)
 

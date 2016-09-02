@@ -35,7 +35,7 @@
 
         (A) controlled on the United States Munitions List established under [section 2778 of this title][/us/usc/t22/s2778];
 
-        (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\]; or
+        (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or
 
         (C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
@@ -59,7 +59,6 @@
 [/us/usc/t22/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202
 [/us/usc/t22/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII

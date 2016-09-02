@@ -31,7 +31,7 @@
 
     (c) __Analysis and assessment of military spending to be included in article IV consultations by Fund__ 
 
-        The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning no later than the date of the first report provided as described in subsection (b) of this section, to include in every article IV consultation with a developing country an analysis of the level of military spending by the developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country).
+        The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning no later than the date of the first report provided as described in subsection (b), to include in every article IV consultation with a developing country an analysis of the level of military spending by the developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country).
 
 ([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 60, as added [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1003, Oct. 24, 1992, [106 Stat. 3359][/us/stat/106/3359].)
 

@@ -21,7 +21,7 @@
 
     (b) __Progress report to Congress__ 
 
-        The United States Governor of the Bank shall report to the Congress no later than six months after May 31, 1976, on the proposal made under subsection (a) of this section, and no later than twelve months after such date on the progress that has been made with respect to such proposal.
+        The United States Governor of the Bank shall report to the Congress no later than six months after May 31, 1976, on the proposal made under subsection (a), and no later than twelve months after such date on the progress that has been made with respect to such proposal.
 
 ([Pub. L. 86–147][/us/pl/86/147], § 28, formerly § 29, as added [Pub. L. 94–302, title I][/us/pl/94/302/tI], § 104, May 31, 1976, [90 Stat. 593][/us/stat/90/593]; renumbered § 28, [Pub. L. 96–259, title I][/us/pl/96/259/tI], § 101(1), June 3, 1980, [94 Stat. 429][/us/stat/94/429].)
 

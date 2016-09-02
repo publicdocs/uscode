@@ -97,7 +97,7 @@
 
     (i) __Authorization of appropriations to the Secretary of Homeland Security__ 
 
-        There are authorized to be appropriated to the Secretary of Homeland Security,  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The comma probably should not appear. </sup></sup>  $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+        There are authorized to be appropriated to the Secretary of Homeland Security, <sup>\[4\]</sup>  <sup><sup> 4 So in original. The comma probably should not appear. </sup></sup>  $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
 ([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 113, Oct. 28, 2000, [114 Stat. 1490][/us/stat/114/1490]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 682(b), Sept. 30, 2002, [116 Stat. 1410][/us/stat/116/1410]; [Pub. L. 108–193][/us/pl/108/193], § 7, Dec. 19, 2003, [117 Stat. 2884][/us/stat/117/2884]; [Pub. L. 109–164, title III][/us/pl/109/164/tIII], § 301, Jan. 10, 2006, [119 Stat. 3572][/us/stat/119/3572]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 213(a)(2), title III, § 301, Dec. 23, 2008, [122 Stat. 5065][/us/stat/122/5065], 5085; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], §§ 1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143], 155.)
 

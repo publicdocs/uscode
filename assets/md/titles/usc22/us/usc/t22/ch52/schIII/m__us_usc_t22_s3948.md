@@ -45,7 +45,7 @@
 
 >     “(d)  __Program Account Charged__  __.—__ 
 
->     The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. K of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2715][/us/stat/129/2715]\]under the heading ‘Operating Expenses’.
+>     The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. K of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2715][/us/stat/129/2715]\] under the heading ‘Operating Expenses’.
 
 >     “(e)  __Foreign Service Limited Extensions__  __.—__ 
 

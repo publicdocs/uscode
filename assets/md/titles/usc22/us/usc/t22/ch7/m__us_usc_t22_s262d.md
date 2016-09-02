@@ -45,15 +45,15 @@
 
     (c) __Requirements of United States assistance through institutions for projects in recipient countries__ 
 
-        The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
+        The United States Government, in connection with its voice and vote in the institutions listed in subsection (a), shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
 
     (d) __Criteria for determination of gross violations of internationally recognized human rights standards__ 
 
-        In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a) of this section, the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
+        In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a), the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
 
     (e) __Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries__ 
 
-        The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
+        The United States Executive Directors of the institutions listed in subsection (a) are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2), unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
 
     (f) __Consultative requirement__ 
 
@@ -61,7 +61,7 @@
 
     (g) __Violations of religious freedom__ 
 
-    In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a) of this section, the President shall give particular consideration to whether a foreign government—
+    In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a), the President shall give particular consideration to whether a foreign government—
 
         (1) has engaged in or tolerated particularly severe violations of religious freedom, as defined in [section 6402 of this title][/us/usc/t22/s6402]; or
 
@@ -87,7 +87,7 @@
 
     1989—Subsec. (c). [Pub. L. 101–240][/us/pl/101/240], § 541(c), amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
 
-    Subsec. (d). [Pub. L. 101–240][/us/pl/101/240], § 541(e)(8), struck out at end “The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
+    Subsec. (d). [Pub. L. 101–240][/us/pl/101/240], § 541(e)(8), struck out at end “The annual report required under subsection (c) shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
 
     Subsec. (g)(1). [Pub. L. 101–240][/us/pl/101/240], § 541(d)(4), struck out par. (1) which related to quarterly reporting requirements by Secretary of the Treasury in consultation with Secretary of State.
 

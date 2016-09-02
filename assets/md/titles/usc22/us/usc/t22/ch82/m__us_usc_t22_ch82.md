@@ -113,73 +113,9 @@ SUBCHAPTER II—MILITARY ASSISTANCE FOR AFGHANISTAN AND CERTAIN OTHER FOREIGN CO
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7531" data-uslm-ref="/us/usc/t22/s7531">7531.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7531" data-uslm-ref="/us/usc/t22/s7531">7531</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7538" data-uslm-ref="/us/usc/t22/s7538">7538.</a>  </td>
 
-    <td> Support for security during transition in Afghanistan.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7532" data-uslm-ref="/us/usc/t22/s7532">7532.</a>  </td>
-
-    <td> Authorization of assistance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7533" data-uslm-ref="/us/usc/t22/s7533">7533.</a>  </td>
-
-    <td> Eligible foreign countries and eligible international organizations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7534" data-uslm-ref="/us/usc/t22/s7534">7534.</a>  </td>
-
-    <td> Reimbursement for assistance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7535" data-uslm-ref="/us/usc/t22/s7535">7535.</a>  </td>
-
-    <td> Congressional notification requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7536" data-uslm-ref="/us/usc/t22/s7536">7536.</a>  </td>
-
-    <td> Promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7536a" data-uslm-ref="/us/usc/t22/s7536a">7536a.</a>  </td>
-
-    <td> Sense of Congress and report regarding counter-drug efforts in Afghanistan.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7537" data-uslm-ref="/us/usc/t22/s7537">7537.</a>  </td>
-
-    <td> Relationship to other authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7538" data-uslm-ref="/us/usc/t22/s7538">7538.</a>  </td>
-
-    <td> Sunset.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 

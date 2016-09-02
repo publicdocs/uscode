@@ -21,7 +21,7 @@
 
     (b) __Authority of Securities and Exchange Commission to suspend exemption; reports to Congress__ 
 
-        The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
+        The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
 
 ([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 13, as added [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(e)(1)(A), Nov. 5, 1990, [104 Stat. 2037][/us/stat/104/2037].)
 

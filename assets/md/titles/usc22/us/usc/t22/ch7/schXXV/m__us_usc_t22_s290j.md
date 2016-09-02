@@ -25,7 +25,7 @@
 
     (c) __Funding of programs__ 
 
-        United States Government agencies carrying out programs of the types specified in subsection (a) of this section may receive amounts directly from the Fund for use in carrying out those programs.
+        United States Government agencies carrying out programs of the types specified in subsection (a) may receive amounts directly from the Fund for use in carrying out those programs.
 
 ([Pub. L. 98–164, title IX][/us/pl/98/164/tIX], § 902, Nov. 22, 1983, [97 Stat. 1051][/us/stat/97/1051].)
 

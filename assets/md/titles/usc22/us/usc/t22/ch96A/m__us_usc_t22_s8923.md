@@ -93,7 +93,7 @@
 
         (4) __Dual-use export prohibition__ 
 
-            The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+            The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
 
         (5) __Property transactions__ 
 
@@ -141,7 +141,7 @@
 
             (B) __Good defined__ 
 
-                In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\] (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+                In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) 1 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
         (2) __Additional exceptions__ 
 
@@ -245,7 +245,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (c)(4), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+    The Export Administration Act of 1979, referred to in subsec. (c)(4), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 16 of the Act is now classified to [section 4618 of Title 50][/us/usc/t50/s4618]. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
@@ -258,9 +258,7 @@
 
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t19/s2518/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518%2F4
 [/us/usc/t19/s2511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb%2F1
@@ -271,6 +269,7 @@
 [/us/stat/128/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2953
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

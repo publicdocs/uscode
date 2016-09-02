@@ -21,7 +21,7 @@
 
     (b) __Authorization of appropriations__ 
 
-        There is hereby authorized to be appropriated without fiscal year limitation $500,000,000 for the contribution authorized in subsection (a) of this section.
+        There is hereby authorized to be appropriated without fiscal year limitation $500,000,000 for the contribution authorized in subsection (a).
 
     (c) __Environmental assessment of actions__ 
 
