@@ -15,7 +15,7 @@
 
 # Title 43—PUBLIC LANDS
 
-Current through 113-46
+Current through 113-47
 
 <table>
 
