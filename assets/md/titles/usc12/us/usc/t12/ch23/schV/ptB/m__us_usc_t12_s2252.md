@@ -247,6 +247,30 @@
 
     For termination, effective May 15, 2000, of provisions in subsec. (a)(3) of this section relating to requirement to make annual reports to Congress, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and page 166 of House Document No. 103–7.
 
+ __Compensation Disclosure by Farm Credit System Institutions__ 
+
+[Pub. L. 113–79, title V, § 5404][/us/pl/113/79/s5404], Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840], provided that:
+
+>     “(a)  __Findings__  __.—__ 
+
+>     Congress finds that —
+
+>         “(1) the reasonable disclosure to stockholders by Farm Credit System institutions regarding the compensation of Farm Credit System institution senior officers is beneficial to stockholders’ understanding of the operation of their institutions;
+
+>         “(2) transparency regarding compensation practices reinforces the cooperative nature of Farm Credit System institutions;
+
+>         “(3) the unique cooperative structure of the Farm Credit System should be considered when promulgating rules;
+
+>         “(4) the participation of stockholders in the election of the boards of directors of Farm Credit System institutions provides stockholders the opportunity to participate in the management of their institutions;
+
+>         “(5) as representatives of stockholders, the boards of directors of Farm Credit System institutions importantly establish and oversee the compensation practices of Farm Credit System institutions to ensure the safe and sound operation of those institutions; and
+
+>         “(6) any regulation should strengthen and not hinder the ability of Farm Credit System boards of directors to oversee compensation practices.
+
+>     “(b)  __Implementation__  __.—__ 
+
+>     Not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], the Farm Credit Administration shall review its rules to reflect Congressional intent that a primary responsibility of the boards of directors of Farm Credit System institutions, as elected representatives of their stockholders, is to oversee compensation practices.”
+
  __Regulatory Review__ 
 
 [Pub. L. 104–105, title II, § 212][/us/pl/104/105/s212], Feb. 10, 1996, [110 Stat. 174][/us/stat/110/174], provided that:
@@ -404,6 +428,8 @@
 [/us/stat/101/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1656
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/113/79/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5404
+[/us/stat/128/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F840
 [/us/pl/104/105/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs212
 [/us/stat/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F174
 [/us/pl/100/387/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs313%2Fb
