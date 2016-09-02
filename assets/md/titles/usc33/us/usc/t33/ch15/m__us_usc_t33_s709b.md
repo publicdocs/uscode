@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709a.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s3027.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709b)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709a.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709b)
 
 ## § 709b. Flood hazard information
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709a.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s3027.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709b)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709a.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709b)
 
 ----------
 ----------

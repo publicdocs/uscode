@@ -1,7 +1,7 @@
 ---
 ---
 
-# 33 U.S.C., USLM ref /us/usc/t33/s3027
+# 33 U.S.C., USLM ref /us/usc/t33/s709c
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3027)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709c)
 
-## § 3027. Emergency communication of risk
+## § 709c. Emergency communication of risk
 
     (a) __Definitions__ 
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3027)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_ch16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs709c)
 
 ----------
 ----------
