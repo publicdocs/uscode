@@ -643,9 +643,9 @@
 
  __Port Shopping__ 
 
-[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 115, Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 115, Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922], as amended by [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that: 
 
-> “Until the date on which the Secretary promulgates a final rule that implements the amendments made by section 308 of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, ([Public Law 107–188][/us/pl/107/188]) \[amending this section and [section 343 of this title][/us/usc/t21/s343]\], the Secretary shall notify the Secretary of Homeland Security of all instances in which the Secretary refuses to admit a food into the United States under section 801(a) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 381(a)][/us/usc/t21/s381/a]) so that the Secretary of Homeland Security, acting through the Commissioner of Customs and Border Protection, may prevent food refused admittance into the United States by a United States port of entry from being admitted by another United States port of entry, through the notification of other such United States ports of entry.”
+> “Until the date on which the Secretary promulgates a final rule that implements the amendments made by section 308 of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, ([Public Law 107–188][/us/pl/107/188]) \[amending this section and [section 343 of this title][/us/usc/t21/s343]\], the Secretary shall notify the Secretary of Homeland Security of all instances in which the Secretary refuses to admit a food into the United States under section 801(a) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 381(a)][/us/usc/t21/s381/a]) so that the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection and Border Protection, may prevent food refused admittance into the United States by a United States port of entry from being admitted by another United States port of entry, through the notification of other such United States ports of entry.”
 
  __Modification of Deadlines for Secretarial Action__ 
 
@@ -901,6 +901,8 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3922
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
 [/us/usc/t21/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fa

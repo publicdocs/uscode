@@ -59,7 +59,7 @@
 
     (b) __Regulations__ 
 
-        The Secretary, after consultation with the United States Trade Representative and the Commissioner of Customs, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
+        The Secretary, after consultation with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
 
     (c) __Limitation__ 
 
@@ -269,11 +269,15 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 804, as added [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1121(a), Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 804, as added [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1121(a), Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464]; amended [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Prior Provisions__ 
 
     A prior section 384, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 804, as added [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 745(c)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–36, related to importation of covered products, prior to repeal by [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1121(a), Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (b) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -303,11 +307,15 @@
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2464
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2464
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2469

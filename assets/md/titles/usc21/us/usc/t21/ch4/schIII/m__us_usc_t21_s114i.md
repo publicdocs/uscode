@@ -25,11 +25,11 @@
 
     (c) __Use of funds for testing and control of pseudorabies__ 
 
-        The Secretary shall ensure that not less than 65 percent of the funds appropriated for the program established under subsection (b) of this section shall be used for testing and screening of animals and for other purposes directly related to the eradication or control of pseudorabies. This requirement on the use of appropriated funds for this program shall not be implemented in a manner that would adversely affect any other animal or plant disease or pest eradication or control program.
+        The Secretary shall ensure that not less than 65 percent of the funds appropriated for the program established under subsection (b) shall be used for testing and screening of animals and for other purposes directly related to the eradication or control of pseudorabies. This requirement on the use of appropriated funds for this program shall not be implemented in a manner that would adversely affect any other animal or plant disease or pest eradication or control program.
 
     (d) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b) of this section.
+        There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b).
 
 ([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2506, Nov. 28, 1990, [104 Stat. 4068][/us/stat/104/4068]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 916, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10505, May 13, 2002, [116 Stat. 511][/us/stat/116/511].)
 

@@ -125,7 +125,7 @@
 
         (2) __Customs territory__ 
 
-            For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+            For the purposes of subsection (a), the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
 
         (3) __Person__ 
 
@@ -133,11 +133,11 @@
 
         (4) __United States__ 
 
-            For the purposes of subsection (b) of this section, the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+            For the purposes of subsection (b), the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
         (5) __Vessel__ 
 
-            For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
+            For the purposes of subsection (a), the term “vessel” does not include any ferry.
 
 ([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2509, Nov. 28, 1990, [104 Stat. 4069][/us/stat/104/4069]; [Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1203, Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1015, Dec. 13, 1991, [105 Stat. 1902][/us/stat/105/1902]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 917, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(b)(5), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
