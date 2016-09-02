@@ -1,0 +1,103 @@
+---
+---
+
+# 28 U.S.C., USLM ref /us/usc/t28/s141
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t28/ptI/ch5/m__us_usc_t28_s140.md) | [Next](./../../../../..//us/usc/t28/ptI/ch5/m__us_usc_t28_s142.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs141)
+
+## § 141. Special sessions; places; notice
+
+    (a)
+
+        (1) Special sessions of the district court may be held at such places in the district as the nature of the business may require, and upon such notice as the court orders.
+
+        (2) Any business may be transacted at a special session which might be transacted at a regular session.
+
+    (b)
+
+        (1) Special sessions of the district court may be held at such places within the United States outside the district as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the district court (or, if the chief judge is unavailable, the most senior available active judge of the district court) or the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where such special sessions could be held.
+
+        (2) Pursuant to this subsection, any business which may be transacted at a regular session of a district court may be transacted at a special session conducted outside the district, except that a criminal trial may not be conducted at a special session outside the State in which the crime has been committed unless the defendant consents to such a criminal trial.
+
+        (3)
+
+         Notwithstanding any other provision of law, in any case in which special sessions are conducted pursuant to this section, the district court may summon jurors—
+
+            (A) in civil proceedings, from any part of the district in which the court ordinarily conducts business or the district in which it is holding a special session; and
+
+            (B) in criminal trials, from any part of the district in which the crime has been committed and, if the defendant so consents, from any district in which the court is conducting business pursuant to this section.
+
+        (4)
+
+         If a district court issues an order exercising its authority under paragraph (1), the court—
+
+            (A)
+
+             through the Administrative Office of the United States Courts, shall—
+
+                (i) send notice of such order, including the reasons for the issuance of such order, to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
+
+                (ii)
+
+                 not later than 180 days after the expiration of such court order submit a brief report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives describing the impact of such order, including—
+
+                    (I) the reasons for the issuance of such order;
+
+                    (II) the duration of such order;
+
+                    (III) the impact of such order on litigants; and
+
+                    (IV) the costs to the judiciary resulting from such order; and
+
+            (B) shall provide reasonable notice to the United States Marshals Service before the commencement of any special session held pursuant to such order.
+
+        (5) If a district court issues an order exercising its authority under paragraph (1), the court shall direct the United States marshal of the district where the court is meeting to furnish transportation and subsistence to the same extent as that provided in sections 4282 and 4285 of title 18.
+
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139, § 1][/us/pl/88/139/s1], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248]; [Pub. L. 109–63, § 2(b)][/us/pl/109/63/s2/b], Sept. 9, 2005, [119 Stat. 1994][/us/stat/119/1994]; [Pub. L. 109–162, title XI, § 1198(a)][/us/pl/109/162/s1198/a], Jan. 5, 2006, [119 Stat. 3132][/us/stat/119/3132].)
+
+ __Historical and Revision Notes__ 
+
+    Based on title 28, U.S.C., 1940 ed., § 15 ([Mar. 3, 1911, ch. 231, § 11][/us/act/1911-03-03/ch231/s11], [36 Stat. 1089][/us/stat/36/1089]).
+
+    Section was rewritten to include provision that notice of special terms should conform to rules approved by the judicial council of the circuit, thus insuring a uniform practice among the courts for convening special terms.
+
+    Changes of phraseology were made.
+
+ __Amendments__ 
+
+    2006—Subsec. (b)(5). [Pub. L. 109–162][/us/pl/109/162] added par. (5).
+
+    2005—[Pub. L. 109–63][/us/pl/109/63] designated first and second undesignated pars. as pars. (1) and (2), respectively, of subsec. (a) and added subsec. (b).
+
+    1963—[Pub. L. 88–139][/us/pl/88/139] substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
+
+----------
+
+[Previous](./../../../../..//us/usc/t28/ptI/ch5/m__us_usc_t28_s140.md) | [Next](./../../../../..//us/usc/t28/ptI/ch5/m__us_usc_t28_s142.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs141)
+
+----------
+----------
+
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
+[/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
+[/us/pl/88/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs1
+[/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
+[/us/pl/109/63/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63%2Fs2%2Fb
+[/us/stat/119/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1994
+[/us/pl/109/162/s1198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1198%2Fa
+[/us/stat/119/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3132
+[/us/act/1911-03-03/ch231/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs11
+[/us/stat/36/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1089
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
+
+
