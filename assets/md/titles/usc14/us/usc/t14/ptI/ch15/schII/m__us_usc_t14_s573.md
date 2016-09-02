@@ -15,7 +15,7 @@
 
 ## § 573. Preliminary development and demonstration
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Commandant shall ensure that developmental test and evaluation, operational test and evaluation, life-cycle cost estimates, and the development and demonstration requirements applied by this chapter to acquisition projects and programs are met to confirm that the projects or programs meet the requirements identified in the mission-analysis and affordability assessment prepared under section 571(a)(2), the operational requirements developed under section 572(a)(1) and the following development and demonstration objectives:
 
@@ -27,23 +27,23 @@
 
     (b) __Tests and Evaluations.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 572(d)(1).
 
-        (2)  __Use of third parties__  __.—__ 
+        (2) __Use of third parties.—__ 
 
         The Commandant shall ensure that the Coast Guard uses independent third parties with expertise in testing and evaluating the capabilities or assets and the subsystems of the capabilities or assets being acquired to conduct developmental tests and evaluations and operational tests and evaluations whenever the Coast Guard lacks the capability to conduct the tests and evaluations required by a master plan.
 
-        (3)  __Communication of safety concerns__  __.—__ 
+        (3) __Communication of safety concerns.—__ 
 
         The Commandant shall require that safety concerns identified during developmental or operational tests and evaluations or through independent or Government-conducted design assessments of capabilities or assets and subsystems of capabilities or assets to be acquired by the Coast Guard shall be communicated as soon as practicable, but not later than 30 days after the completion of the test or assessment event or activity that identified the safety concern, to the program manager for the capability or asset and the subsystems concerned and to the Chief Acquisition Officer.
 
-        (4)  __Reporting of safety concerns__  __.—__ 
+        (4) __Reporting of safety concerns.—__ 
 
         Any safety concerns that have been reported to the Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant to the appropriate congressional committees at least 90 days before the award of any contract or issuance of any delivery order or task order for low, initial, or full-rate production of the capability or asset concerned if they will remain uncorrected or unmitigated at the time such a contract is awarded or delivery order or task order is issued. The report shall include a justification for the approval of that level of production of the capability or asset before the safety concerns are corrected or mitigated. The report shall also include an explanation of the actions that will be taken to correct or mitigate the safety concerns, the date by which those actions will be taken, and the adequacy of current funding to correct or mitigate the safety concerns.
 
-        (5)  __Asset already in low, initial, or full-rate production__  __.—__ 
+        (5) __Asset already in low, initial, or full-rate production.—__ 
 
         If operational test and evaluation of a capability or asset already in low, initial, or full-rate production identifies a safety concern with the capability or asset or any subsystems of the capability or asset not previously identified during developmental or operational test and evaluation, the Commandant shall—
 
@@ -61,11 +61,11 @@
 
     (c) __Technical Certification.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Commandant shall ensure that any Level 1 or Level 2 acquisition project or program is certified by the technical authority of the Coast Guard after review by an independent third party with capabilities in the mission area, asset, or particular asset component.
 
-        (2)  __TEMPEST testing__  __.—__ 
+        (2) __TEMPEST testing.—__ 
 
         The Commandant shall—
 
@@ -75,17 +75,17 @@
 
         (3) __Cutter classification.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Commandant shall cause each cutter, other than a National Security Cutter, acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be classed by the American Bureau of Shipping before final acceptance.
 
             \[(B) Repealed. [Pub. L. 112–213, title II, § 210(c)(2)(B)][/us/pl/112/213/s210/c/2/B], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
 
-        (4)  __Other vessels__  __.—__ 
+        (4) __Other vessels.—__ 
 
         The Commandant shall cause the design and construction of each National Security Cutter, other than National Security Cutters 1, 2, and 3, to be assessed by an independent third party with expertise in vessel design and construction certification.
 
-        (5)  __Aircraft airworthiness__  __.—__ 
+        (5) __Aircraft airworthiness.—__ 
 
         The Commandant shall cause all aircraft and aircraft engines acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be assessed for airworthiness by an independent third party with expertise in aircraft and aircraft engine certification before final acceptance.
 
@@ -109,15 +109,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1)  __Multiyear authority__  __.—__ 
+>         “(1) __Multiyear authority.—__ 
 
 >         In fiscal year 2013 and each fiscal year thereafter, the Secretary of the department in which the Coast Guard is operating may enter into, in accordance with [section 2306b of title 10][/us/usc/t10/s2306b], United States Code, a multiyear contract for the procurement of Coast Guard National Security Cutters and Government-furnished equipment associated with the National Security Cutter program.
 
->         “(2)  __Limitation__  __.—__ 
+>         “(2) __Limitation.—__ 
 
 >         The Secretary may not enter into a contract under paragraph (1) until the date that is 30 days after the date the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a certification that the Secretary has made, with respect to the contract, each of the findings specified under [section 2306b(a) of title 10][/us/usc/t10/s2306b/a], United States Code, and has done so in accordance with paragraph (3) of this subsection.
 
->         “(3)  __Determination of substantial savings__  __.—__ 
+>         “(3) __Determination of substantial savings.—__ 
 
 >         For purposes of this section, in conducting an analysis with respect to substantial savings under [section 2306b(a)(1) of title 10][/us/usc/t10/s2306b/a/1], United States Code, the Secretary—
 
@@ -131,7 +131,7 @@
 
 >                 “(ii) taking into account the potential benefit any accrued savings might have for future shipbuilding programs if the cost avoidance savings were subsequently utilized for further ship construction.
 
->     “(b)  __Certificate To Operate__  __.—__ 
+>     “(b) __Certificate To Operate.—__ 
 
 >     The Commandant of the Coast Guard may not certify a sixth National Security Cutter as Ready for Operations before the Commandant has—
 

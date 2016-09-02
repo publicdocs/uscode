@@ -15,7 +15,7 @@
 
 ## § 675. Small boat station closures
 
-    (a)  __Closures__  __.—__ 
+    (a) __Closures.—__ 
 
     The Secretary may not close a Coast Guard multimission small boat station or subunit unless the Secretary—
 
@@ -31,7 +31,7 @@
 
         (2) provides an opportunity for public comment and for public meetings in the area of the station or subunit with regard to the decision to close the station or subunit.
 
-    (b)  __Operational Flexibility__  __.—__ 
+    (b) __Operational Flexibility.—__ 
 
     The Secretary may implement any management efficiencies within the small boat station system, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide. No stations or subunits may be closed under this subsection except in accordance with subsection (a).
 

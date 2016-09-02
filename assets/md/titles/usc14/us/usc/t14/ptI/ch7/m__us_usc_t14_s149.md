@@ -15,15 +15,15 @@
 
 ## § 149. Assistance to foreign governments and maritime authorities
 
-    (a)  __Detail of Members to Assist Foreign Governments__  __.—__ 
+    (a) __Detail of Members to Assist Foreign Governments.—__ 
 
     The President may upon application from the foreign governments concerned, and whenever in his discretion the public interests render such a course advisable, detail members of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
 
-    (b)  __Technical Assistance to Foreign Maritime Authorities__  __.—__ 
+    (b) __Technical Assistance to Foreign Maritime Authorities.—__ 
 
     The Commandant, in coordination with the Secretary of State, may provide, in conjunction with regular Coast Guard operations, technical assistance (including law enforcement and maritime safety and security training) to foreign navies, coast guards, and other maritime authorities.
 
-    (c)  __Grants to International Maritime Organizations__  __.—__ 
+    (c) __Grants to International Maritime Organizations.—__ 
 
     After consultation with the Secretary of State, the Commandant may make grants to, or enter into cooperative agreements, contracts, or other agreements with, international maritime organizations for the purpose of acquiring information or data about merchant vessel inspections, security, safety, environmental protection, classification, and port state or flag state law enforcement or oversight.
 

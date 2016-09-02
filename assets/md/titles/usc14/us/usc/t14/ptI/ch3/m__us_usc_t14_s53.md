@@ -15,11 +15,11 @@
 
 ## § 53. Office of the Coast Guard Reserve; Director
 
-    (a)  __Establishment of Office; Director__  __.—__ 
+    (a) __Establishment of Office; Director.—__ 
 
     There is in the executive part of the Coast Guard an Office of the Coast Guard Reserve. The head of the Office is the Director of the Coast Guard Reserve. The Director of the Coast Guard Reserve is the principal adviser to the Commandant on Coast Guard Reserve matters and may have such additional functions as the Commandant may direct.
 
-    (b)  __Appointment__  __.—__ 
+    (b) __Appointment.—__ 
 
     The President, by and with the advice and consent of the Senate, shall appoint the Director of the Coast Guard Reserve, from officers of the Coast Guard who—
 
@@ -29,17 +29,17 @@
 
         (3) have been recommended by the Secretary of Homeland Security.
 
-    (c)  __Term__  __.—__ 
+    (c) __Term.—__ 
 
         (1) The Director of the Coast Guard Reserve holds office for a term determined by the President, normally two years, but not more than four years. An officer may be removed from the position of Director for cause at any time.
 
         (2) The Director of the Coast Guard Reserve, while so serving, holds a grade above Captain, without vacating the officer’s permanent grade.
 
-    (d)  __Budget__  __.—__ 
+    (d) __Budget.—__ 
 
     The Director of the Coast Guard Reserve is the official within the executive part of the Coast Guard who, subject to the authority, direction, and control of the Secretary of Homeland Security and the Commandant, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Coast Guard Reserve. As such, the Director of the Coast Guard Reserve is the director and functional manager of appropriations made for the Coast Guard Reserve in those areas.
 
-    (e)  __Annual Report__  __.—__ 
+    (e) __Annual Report.—__ 
 
     The Director of the Coast Guard Reserve shall submit to the Secretary of Homeland Security and the Secretary of Defense an annual report on the state of the Coast Guard Reserve and the ability of the Coast Guard Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant and may be submitted in classified and unclassified versions.
 

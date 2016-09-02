@@ -15,11 +15,11 @@
 
 ## § 561. Acquisition directorate
 
-    (a)  __Establishment__  __.—__ 
+    (a) __Establishment.—__ 
 
     The Commandant of the Coast Guard shall establish an acquisition directorate to provide guidance and oversight for the implementation and management of all Coast Guard acquisition processes, programs, and projects.
 
-    (b)  __Mission__  __.—__ 
+    (b) __Mission.—__ 
 
     The mission of the acquisition directorate is—
 

@@ -23,7 +23,7 @@
 
         (2) The authorized number of Reserve Officers in an active status not on active duty in the grades of rear admiral (lower half) and rear admiral is a total of two. However, the Secretary of the department in which the Coast Guard is operating may authorize an additional number of Reserve officers not on active duty in the grades of rear admiral (lower half) and rear admiral as necessary in order to meet planned mobilization requirements.
 
-    (c)  __Deferral of Limitation__  __.—__ 
+    (c) __Deferral of Limitation.—__ 
 
     If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
 

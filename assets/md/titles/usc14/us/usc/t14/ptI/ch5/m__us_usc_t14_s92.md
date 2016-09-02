@@ -85,11 +85,11 @@
 
 [Pub. L. 111–281, title III, § 307][/us/pl/111/281/s307], Oct. 15, 2010, [124 Stat. 2927][/us/stat/124/2927], provided that:
 
->     “(a)  __Purpose__  __.—__ 
+>     “(a) __Purpose.—__ 
 
 >     The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
 
->     “(b)  __International Maritime Organization Agreements__  __.—__ 
+>     “(b) __International Maritime Organization Agreements.—__ 
 
 >     To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
 
@@ -103,21 +103,21 @@
 
 >         “(5) search and rescue.
 
->     “(c)  __Coordination by Committee on the Maritime Transportation System__  __.—__ 
+>     “(c) __Coordination by Committee on the Maritime Transportation System.—__ 
 
 >     The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued December 17, 2004, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 
->     “(d)  __Agreements and Contracts__  __.—__ 
+>     “(d) __Agreements and Contracts.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 
->     “(e)  __Icebreaking__  __.—__ 
+>     “(e) __Icebreaking.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 
 >     “(f) __Independent Ice Breaker Analyses.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
 
@@ -137,15 +137,15 @@
 
 >             “(B) conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
 
->         “(2)  __Report__  __.—__ 
+>         “(2) __Report.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under [section 93(a)(24) of title 14][/us/usc/t14/s93/a/24], United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(g)  __High-Latitude Study__  __.—__ 
+>     “(g) __High-Latitude Study.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under [section 93(a)(24) of title 14][/us/usc/t14/s93/a/24], United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(h)  __Arctic Definition__  __.—__ 
+>     “(h) __Arctic Definition.—__ 
 
 >     In this section the term ‘Arctic’ has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).”
 
@@ -153,11 +153,11 @@
 
 [Pub. L. 111–281, title IX, § 914][/us/pl/111/281/s914], Oct. 15, 2010, [124 Stat. 3018][/us/stat/124/3018], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity.
 
->     “(b)  __Conditions of Conveyance__  __.—__ 
+>     “(b) __Conditions of Conveyance.—__ 
 
 >     The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—
 
@@ -169,11 +169,11 @@
 
 >         “(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
 
->     “(c)  __Other Obligations Unaffected__  __.—__ 
+>     “(c) __Other Obligations Unaffected.—__ 
 
 >     Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act ([15 U.S.C. 2601][/us/usc/t15/s2601] et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
 
->     “(d)  __Eligible Entity Defined__  __.—__ 
+>     “(d) __Eligible Entity Defined.—__ 
 
 >     In this section, the term ‘eligible entity’ means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section.”
 
@@ -201,7 +201,7 @@
 
 [Pub. L. 107–295, title III, § 345][/us/pl/107/295/s345], Nov. 25, 2002, [116 Stat. 2106][/us/stat/116/2106], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     The Congress finds the following:
 
@@ -217,7 +217,7 @@
 
 >         “(6) The National Trust for Historic Preservation has placed Michigan lighthouses on their list of Most Endangered Historic Places.
 
->     “(b)  __Assistance for Great Lakes Lighthouse Preservation Efforts__  __.—__ 
+>     “(b) __Assistance for Great Lakes Lighthouse Preservation Efforts.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating, may—
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 104–324, title XI, § 1127][/us/pl/104/324/s1127], Oct. 19, 1996, [110 Stat. 3983][/us/stat/110/3983], provided that:
 
->     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
+>     “(a) __Purchase of American-Made Equipment and Products.—__ 
 
 >     It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American-made.
 
->     “(b)  __Notice to Recipients of Assistance__  __.—__ 
+>     “(b) __Notice to Recipients of Assistance.—__ 
 
 >     In providing financial assistance under this Act, the official responsible for providing the assistance, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 
@@ -257,11 +257,11 @@
 
 [Pub. L. 101–225, title II, § 204][/us/pl/101/225/s204], Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating (hereinafter in this section referred to as the ‘Secretary’) may carry out a pilot program to establish and maintain a junior reserve officers training program in cooperation with the Dade County Public School System of Dade County, Florida, as part of the Maritime and Science Technology Academy established by that school system (hereinafter in this section referred to as the ‘Academy’).
 
->     “(b)  __Program Requirements__  __.—__ 
+>     “(b) __Program Requirements.—__ 
 
 >     A pilot program carried out by the Secretary under this section—
 
@@ -275,7 +275,7 @@
 
 >             “(B) training in skills which are useful and appropriate for a career in the Coast Guard.
 
->     “(c)  __Provision of Additional Support__  __.—__ 
+>     “(c) __Provision of Additional Support.—__ 
 
 >     To carry out a pilot program under this section, the Secretary may provide to the Academy—
 
@@ -287,11 +287,11 @@
 
 >     “(d) __Employment of Retired Coast Guard Personnel.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Subject to paragraph (2) of this subsection, the Secretary may authorize the Academy to employ as administrators and instructors for the pilot program retired Coast Guard and Coast Guard Reserve commissioned, warrant, and petty officers who request that employment and who are approved by the Secretary and the Academy.
 
->         “(2)  __Authorized pay__  __.—__ 
+>         “(2) __Authorized pay.—__ 
 
 >             (A)
 

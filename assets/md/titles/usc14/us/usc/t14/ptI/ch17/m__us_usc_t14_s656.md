@@ -23,11 +23,11 @@
 
     (d) __Minor Construction and Improvement.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
 
-        (2)  __Reporting requirements__  __.—__ 
+        (2) __Reporting requirements.—__ 
 
         Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on each project undertaken during the course of the preceding fiscal year for which the amount expended under paragraph (1) exceeded $500,000.
 

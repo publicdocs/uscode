@@ -15,11 +15,11 @@
 
 ## § 293. Compulsory retirement
 
-    (a)  __Regular Commissioned Officers__  __.—__ 
+    (a) __Regular Commissioned Officers.—__ 
 
     Any regular commissioned officer, except a commissioned warrant officer, serving in a grade below rear admiral (lower half) shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
 
-    (b)  __Flag-Officer Grades__  __.—__ 
+    (b) __Flag-Officer Grades.—__ 
 
         (1) Except as provided in paragraph (2), any regular commissioned officer serving in a grade of rear admiral (lower half) or above shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 

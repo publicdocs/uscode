@@ -15,11 +15,11 @@
 
 ## § 687. Coast Guard Housing Fund
 
-    (a)  __Establishment__  __.—__ 
+    (a) __Establishment.—__ 
 
     There is hereby established on the books of the Treasury an account to be known as the Coast Guard Housing Fund (in this section referred to as the “Fund”).
 
-    (b)  __Credits to Fund__  __.—__ 
+    (b) __Credits to Fund.—__ 
 
     There shall be credited to the Fund the following:
 
@@ -29,7 +29,7 @@
 
         (3) Proceeds from the conveyance of property under [section 685 of this title][/us/usc/t14/s685] for the purpose of carrying out activities under this chapter with respect to military family housing and military unaccompanied housing.
 
-    (c)  __Use of Amounts in Fund__  __.—__ 
+    (c) __Use of Amounts in Fund.—__ 
 
         (1)
 
@@ -43,11 +43,11 @@
 
         (2) Amounts made available under this subsection shall remain available until expended.
 
-    (d)  __Limitation on Obligations__  __.—__ 
+    (d) __Limitation on Obligations.—__ 
 
     The Secretary may not incur an obligation under a contract or other agreements entered into under this chapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
 
-    (e)  __Notification Required for Transfers__  __.—__ 
+    (e) __Notification Required for Transfers.—__ 
 
     A transfer of appropriated amounts to the Fund under subsection (b)(2) of this section may be made only after the end of a 30-day period beginning on the date the Secretary submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
 

@@ -15,15 +15,15 @@
 
 ## § 3. Department in which the Coast Guard operates
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Coast Guard shall be a service in the Department of Homeland Security, except when operating as a service in the Navy.
 
-    (b)  __Transfers__  __.—__ 
+    (b) __Transfers.—__ 
 
     Upon the declaration of war if Congress so directs in the declaration or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy, who may order changes in Coast Guard operations to render them uniform, to the extent such Secretary deems advisable, with Navy operations.
 
-    (c)  __Operation as a Service in the Navy__  __.—__ 
+    (c) __Operation as a Service in the Navy.—__ 
 
     Whenever the Coast Guard operates as a service in the Navy—
 

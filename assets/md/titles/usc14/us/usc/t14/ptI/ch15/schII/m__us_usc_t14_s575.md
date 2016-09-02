@@ -15,7 +15,7 @@
 
 ## § 575. Acquisition program baseline breach
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Commandant shall submit a report to the appropriate congressional committees and the Committee on Homeland Security of the House of Representatives as soon as possible, but not later than 30 days, after the Chief Acquisition Officer of the Coast Guard becomes aware of the breach of an acquisition program baseline for any Level 1 or Level 2 acquisition program, by—
 
@@ -25,7 +25,7 @@
 
         (3) an anticipated failure for any individual capability or asset or class of capabilities or assets to satisfy any key performance threshold or parameter under the acquisition program baseline.
 
-    (b)  __Content__  __.—__ 
+    (b) __Content.—__ 
 
     The report submitted under subsection (a) shall include—
 
@@ -43,7 +43,7 @@
 
         (7) a description of how progress in the remediation plan will be measured and monitored.
 
-    (c)  __Substantial Variances in Costs or Schedule__  __.—__ 
+    (c) __Substantial Variances in Costs or Schedule.—__ 
 
     If a likely cost overrun is greater than 20 percent or a likely delay is greater than 12 months from the costs and schedule described in the acquisition program baseline for any Level 1 or Level 2 acquisition project or program of the Coast Guard, the Commandant shall include in the report a written certification, with a supporting explanation, that—
 

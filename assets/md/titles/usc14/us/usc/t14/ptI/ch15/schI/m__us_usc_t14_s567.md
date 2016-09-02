@@ -15,17 +15,17 @@
 
 ## § 567. Undefinitized contractual actions
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Coast Guard may not enter into an undefinitized contractual action unless such action is directly approved by the Head of Contracting Activity of the Coast Guard.
 
-    (b)  __Requests for Undefinitized Contractual Actions__  __.—__ 
+    (b) __Requests for Undefinitized Contractual Actions.—__ 
 
     Any request to the Head of Contracting Activity for approval of an undefinitized contractual action shall include a description of the anticipated effect on requirements of the Coast Guard if a delay is incurred for the purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
 
     (c) __Requirements for Undefinitized Contractual Actions.—__ 
 
-        (1)  __Deadline for agreement on terms, specifications, and price__  __.—__ 
+        (1) __Deadline for agreement on terms, specifications, and price.—__ 
 
         A contracting officer of the Coast Guard may not enter into an undefinitized contractual action unless the contractual action provides for agreement upon contractual terms, specification, and price by the earlier of—
 
@@ -35,15 +35,15 @@
 
         (2) __Limitation on obligations.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraph (B), the contracting officer for an undefinitized contractual action may not obligate under such contractual action an amount that exceeds 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
-            (B)  __Exception__  __.—__ 
+            (B) __Exception.—__ 
 
             Notwithstanding subparagraph (A), if a contractor submits a qualifying proposal to definitize an undefinitized contractual action before an amount that exceeds 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that exceeds 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
-        (3)  __Waiver__  __.—__ 
+        (3) __Waiver.—__ 
 
         The Commandant may waive the application of this subsection with respect to a contract if the Commandant determines that the waiver is necessary to support—
 
@@ -55,11 +55,11 @@
 
             (D) an operation in response to a natural disaster or major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).
 
-        (4)  __Limitation on application__  __.—__ 
+        (4) __Limitation on application.—__ 
 
         This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
 
-    (d)  __Inclusion of Nonurgent Requirements__  __.—__ 
+    (d) __Inclusion of Nonurgent Requirements.—__ 
 
     Requirements for spare parts and support equipment that are not needed on an urgent basis may not be included in an undefinitized contractual action by the Coast Guard for spare parts and support equipment that are needed on an urgent basis unless the Commandant approves such inclusion as being—
 
@@ -67,7 +67,7 @@
 
         (2) in the best interests of the United States.
 
-    (e)  __Modification of Scope__  __.—__ 
+    (e) __Modification of Scope.—__ 
 
     The scope of an undefinitized contractual action under which performance has begun may not be modified unless the Commandant approves such modification as being—
 
@@ -75,7 +75,7 @@
 
         (2) in the best interests of the United States.
 
-    (f)  __Allowable Profit__  __.—__ 
+    (f) __Allowable Profit.—__ 
 
     The Commandant shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
 
@@ -83,17 +83,17 @@
 
         (2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
 
-    (g)  __Definitions__  __.—__ 
+    (g) __Definitions.—__ 
 
     In this section:
 
         (1) __Undefinitized contractual action.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             Except as provided in subparagraph (B), the term “undefinitized contractual action” means a new procurement action entered into by the Coast Guard for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action.
 
-            (B)  __Exclusion__  __.—__ 
+            (B) __Exclusion.—__ 
 
             The term “undefinitized contractual action” does not include contractual actions with respect to—
 
@@ -103,7 +103,7 @@
 
                 (iii) special access programs.
 
-        (2)  __Qualifying proposal__  __.—__ 
+        (2) __Qualifying proposal.—__ 
 
         The term “qualifying proposal” means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
 

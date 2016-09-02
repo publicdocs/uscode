@@ -15,11 +15,11 @@
 
 ## § 517. Travel card management
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Secretary may require that travel or transportation allowances due a civilian employee or military member of the Coast Guard be disbursed directly to the issuer of a Federal contractor-issued travel charge card, but only in an amount not to exceed the authorized travel expenses charged by that Coast Guard member to that travel charge card issued to that employee or member.
 
-    (b)  __Withholding of Nondisputed Obligations__  __.—__ 
+    (b) __Withholding of Nondisputed Obligations.—__ 
 
     The Secretary may also establish requirements similar to those established by the Secretary of Defense pursuant to [section 2784a of title 10][/us/usc/t10/s2784a] for deduction or withholding of pay or retired pay from a Coast Guard employee, member, or retired member who is delinquent in payment under the terms of the contract under which the card was issued and does not dispute the amount of the delinquency.
 

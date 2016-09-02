@@ -81,11 +81,11 @@
 
 [Pub. L. 107–295, title III, § 346][/us/pl/107/295/s346], Nov. 25, 2002, [116 Stat. 2107][/us/stat/116/2107], provided that:
 
->     “(a)  __Report__  __.—__ 
+>     “(a) __Report.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act \[Nov. 25, 2002\] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(b)  __Contents__  __.—__ 
+>     “(b) __Contents.—__ 
 
 >     The report required by subsection (a) shall—
 

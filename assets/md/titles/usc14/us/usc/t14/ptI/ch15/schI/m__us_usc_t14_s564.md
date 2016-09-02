@@ -17,19 +17,19 @@
 
     (a) __In General.—__ 
 
-        (1)  __Use of lead systems integrator__  __.—__ 
+        (1) __Use of lead systems integrator.—__ 
 
         The Commandant may not use a private sector entity as a lead systems integrator.
 
-        (2)  __Full and open competition__  __.—__ 
+        (2) __Full and open competition.—__ 
 
         The Commandant shall use full and open competition for any acquisition contract unless otherwise excepted in accordance with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
 
-        (3)  __No effect on small business act__  __.—__ 
+        (3) __No effect on small business act.—__ 
 
         Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided by and under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.).
 
-    (b)  __Limitation on Financial Interest in Subcontractors__  __.—__ 
+    (b) __Limitation on Financial Interest in Subcontractors.—__ 
 
     Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor for any acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—
 

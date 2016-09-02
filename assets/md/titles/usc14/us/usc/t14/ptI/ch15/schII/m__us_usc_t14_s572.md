@@ -15,7 +15,7 @@
 
 ## § 572. Acquisition
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     The Commandant may not establish a Level 1 or Level 2 acquisition project or program until the Commandant—
 
@@ -29,7 +29,7 @@
 
         (5) assesses the relative merits of alternatives to determine a preferred solution in accordance with the requirements of this section.
 
-    (b)  __Submission Required Before Proceeding__  __.—__ 
+    (b) __Submission Required Before Proceeding.—__ 
 
     Any Coast Guard Level 1 or Level 2 acquisition project or program may not begin to obtain any capability or asset or proceed beyond that phase of its development that entails approving the supporting acquisition until the Commandant submits to the appropriate congressional committees the following:
 
@@ -43,11 +43,11 @@
 
     (c) __Analysis of Alternatives.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Coast Guard may not acquire an experimental or technically immature capability or asset or implement a Level 1 or Level 2 acquisition project or program, unless it has prepared an analysis of alternatives for the capability or asset to be acquired in the concept and technology development phase of the acquisition process for the capability or asset.
 
-        (2)  __Requirements__  __.—__ 
+        (2) __Requirements.—__ 
 
         The analysis of alternatives shall be prepared by a federally funded research and development center, a qualified entity of the Department of Defense, or a similar independent third-party entity that has appropriate acquisition expertise and has no financial interest in any part of the acquisition project or program that is the subject of the analysis. At a minimum, the analysis of alternatives shall include—
 
@@ -79,11 +79,11 @@
 
     (d) __Test and Evaluation Master Plan.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         For any Level 1 or Level 2 acquisition project or program the Chief Acquisition Officer must approve a test and evaluation master plan specific to the acquisition project or program for the capability, asset, or subsystems of the capability or asset and intended to minimize technical, cost, and schedule risk as early as practicable in the development of the project or program.
 
-        (2)  __Test and evaluation strategy__  __.—__ 
+        (2) __Test and evaluation strategy.—__ 
 
         The master plan shall—
 
@@ -91,7 +91,7 @@
 
             (B) require that adequate developmental tests and evaluations and operational tests and evaluations established under subparagraph (A) are performed to inform production decisions.
 
-        (3)  __Other components of the master plan__  __.—__ 
+        (3) __Other components of the master plan.—__ 
 
         At a minimum, the master plan shall identify—
 
@@ -111,11 +111,11 @@
 
             (H) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
 
-        (4)  __Update__  __.—__ 
+        (4) __Update.—__ 
 
         The Chief Acquisition Officer must approve an updated master plan whenever there is a revision to project or program test and evaluation strategy, scope, or phasing.
 
-        (5)  __Limitation__  __.—__ 
+        (5) __Limitation.—__ 
 
         The Coast Guard may not—
 
@@ -125,15 +125,15 @@
 
     (e) __Life-Cycle Cost Estimates.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Commandant shall implement mechanisms to ensure the development and regular updating of life-cycle cost estimates for each acquisition with a total acquisition cost that equals or exceeds $10,000,000 and an expected service life of 10 or more years, and to ensure that these estimates are considered in decisions to develop or produce new or enhanced capabilities and assets.
 
-        (2)  __Types of estimates__  __.—__ 
+        (2) __Types of estimates.—__ 
 
         In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
 
-        (3)  __Required updates__  __.—__ 
+        (3) __Required updates.—__ 
 
         For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
 

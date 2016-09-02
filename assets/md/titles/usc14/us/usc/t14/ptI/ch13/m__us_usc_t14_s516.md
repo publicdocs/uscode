@@ -15,15 +15,15 @@
 
 ## § 516. Presentation of United States flag upon retirement
 
-    (a)  __Presentation of Flag__  __.—__ 
+    (a) __Presentation of Flag.—__ 
 
     Upon the release of a member of the Coast Guard from active duty for retirement, the Secretary shall present a United States flag to the member.
 
-    (b)  __Multiple Presentations Not Authorized__  __.—__ 
+    (b) __Multiple Presentations Not Authorized.—__ 
 
     A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
-    (c)  __No Cost to Recipient__  __.—__ 
+    (c) __No Cost to Recipient.—__ 
 
     The presentation of a flag under this section shall be at no cost to the recipient.
 

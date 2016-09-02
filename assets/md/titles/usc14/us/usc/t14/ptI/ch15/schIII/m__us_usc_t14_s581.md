@@ -17,19 +17,19 @@
 
     In this chapter:
 
-    (1)  __Appropriate congressional committees__  __.—__ 
+    (1) __Appropriate congressional committees.—__ 
 
     The term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-    (2)  __Chief acquisition officer__  __.—__ 
+    (2) __Chief acquisition officer.—__ 
 
     The term “Chief Acquisition Officer” means the officer appointed under [section 56 of this title][/us/usc/t14/s56].
 
-    (3)  __Commandant__  __.—__ 
+    (3) __Commandant.—__ 
 
     The term “Commandant” means the Commandant of the Coast Guard.
 
-    (4)  __Level 1 acquisition__  __.—__ 
+    (4) __Level 1 acquisition.—__ 
 
     The term “Level 1 acquisition” means—
 
@@ -59,7 +59,7 @@
 
             (ii) because such acquisition is a joint acquisition.
 
-    (5)  __Level 2 acquisition__  __.—__ 
+    (5) __Level 2 acquisition.—__ 
 
     The term “Level 2 acquisition” means an acquisition by the Coast Guard—
 
@@ -67,11 +67,11 @@
 
         (B) the estimated total acquisition costs of which are equal to or less than $300,000,0000,  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  but greater than $100,000,000.
 
-    (6)  __Life-cycle cost__  __.—__ 
+    (6) __Life-cycle cost.—__ 
 
     The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
 
-    (7)  __Project or program manager defined__  __.—__ 
+    (7) __Project or program manager defined.—__ 
 
     The term “project or program manager” means an individual designated—
 
@@ -79,11 +79,11 @@
 
         (B) to manage cost, schedule, and performance of the acquisition, project, or program.
 
-    (8)  __Safety concern__  __.—__ 
+    (8) __Safety concern.—__ 
 
     The term “safety concern” means any hazard associated with a capability or asset or a subsystem of a capability or asset that is likely to cause serious bodily injury or death to a typical Coast Guard user in testing, maintaining, repairing, or operating the capability, asset, or subsystem or any hazard associated with the capability, asset, or subsystem that is likely to cause major damage to the capability, asset, or subsystem during the course of its normal operation by a typical Coast Guard user.
 
-    (9)  __Developmental test and evaluation__  __.—__ 
+    (9) __Developmental test and evaluation.—__ 
 
     The term “developmental test and evaluation” means—
 
@@ -91,7 +91,7 @@
 
         (B) the evaluation of the results of such testing.
 
-    (10)  __Operational test and evaluation__  __.—__ 
+    (10) __Operational test and evaluation.—__ 
 
     The term “operational test and evaluation” means—
 

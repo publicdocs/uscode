@@ -15,11 +15,11 @@
 
 ## § 57. Prevention and response workforces
 
-    (a)  __Career Paths__  __.—__ 
+    (a) __Career Paths.—__ 
 
     The Secretary, acting through the Commandant, shall ensure that appropriate career paths for civilian and military Coast Guard personnel who wish to pursue career paths in prevention or response positions are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the Armed Forces to the most senior prevention or response positions, as appropriate. The Secretary shall make available published information on such career paths.
 
-    (b)  __Qualifications for Certain Assignments__  __.—__ 
+    (b) __Qualifications for Certain Assignments.—__ 
 
     An officer, member, or civilian employee of the Coast Guard assigned as a—
 
@@ -37,11 +37,11 @@
 
             (C) the qualifications and training of vessel personnel.
 
-    (c)  __Apprenticeship Requirement To Qualify for Certain Careers__  __.—__ 
+    (c) __Apprenticeship Requirement To Qualify for Certain Careers.—__ 
 
     The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, or marine safety engineer shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
 
-    (d)  __Management Information System__  __.—__ 
+    (d) __Management Information System.—__ 
 
     The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on persons serving in those workforces:
 
@@ -51,15 +51,15 @@
 
     (e) __Assessment of Adequacy of Marine Safety Workforce.—__ 
 
-        (1)  __Report__  __.—__ 
+        (1) __Report.—__ 
 
         The Secretary, acting through the Commandant, shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate by December 1 of each year on the adequacy of the current marine safety workforce to meet that anticipated workload.
 
-        (2)  __Contents__  __.—__ 
+        (2) __Contents.—__ 
 
         The report shall specify the number of civilian and military Coast Guard personnel currently assigned to marine safety positions and shall identify positions that are understaffed to meet the anticipated marine safety workload.
 
-    (f)  __Sector Chief of Prevention__  __.—__ 
+    (f) __Sector Chief of Prevention.—__ 
 
     There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
 
@@ -67,11 +67,11 @@
 
         (2) qualified marine casualty investigator or marine safety engineer.
 
-    (g)  __Signatories of Letter of Qualification for Certain Prevention Personnel__  __.—__ 
+    (g) __Signatories of Letter of Qualification for Certain Prevention Personnel.—__ 
 
     Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
 
-    (h)  __Sector Chief of Response__  __.—__ 
+    (h) __Sector Chief of Response.—__ 
 
     There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
 

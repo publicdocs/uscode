@@ -15,7 +15,7 @@
 
 ## § 56. Chief Acquisition Officer
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     There shall be in the Coast Guard a Chief Acquisition Officer selected by the Commandant who shall be a Rear Admiral or civilian from the Senior Executive Service (career reserved) and who meets the qualifications set forth under subsection (b). The Chief Acquisition Officer shall serve at the Assistant Commandant level and have acquisition management as that individual’s primary duty.
 
@@ -39,7 +39,7 @@
 
         (3) In this subsection each of the terms “Level 1 acquisition” and “Level 2 acquisition” has the meaning that term has in chapter 15 of this title.
 
-    (c)  __Functions of the Chief Acquisition Officer__  __.—__ 
+    (c) __Functions of the Chief Acquisition Officer.—__ 
 
     The functions of the Chief Acquisition Officer include—
 
@@ -73,11 +73,11 @@
 
 [Pub. L. 111–281, title IV, § 401(d)][/us/pl/111/281/s401/d], Oct. 15, 2010, [124 Stat. 2930][/us/stat/124/2930], as amended by [Pub. L. 111–330, § 1(3)][/us/pl/111/330/s1/3], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that:
 
->     “(1)  __Requirement to establish__  __.—__ 
+>     “(1) __Requirement to establish.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 15, 2010\] and in accordance with section 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section \[adding this section\].
 
->     “(2)  __Subject to appropriations__  __.—__ 
+>     “(2) __Subject to appropriations.—__ 
 
 >     The requirement under paragraph (1) is subject to the availability of appropriations.”
 
