@@ -37,11 +37,11 @@
 
         (9) Any other requirements that the Secretary believes will increase the safe operation of the search and rescue centers.
 
-    (b) __Sense of Congress.—__ 
+    (b)  __Sense of Congress__  __.—__ 
 
     It is the sense of the Congress that the Secretary should establish, implement, and maintain minimum standards necessary to ensure that an individual on duty or watch in a Coast Guard search and rescue command center facility does not work more than 12 hours in a 24-hour period, except in an emergency or unforeseen circumstances.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     For the purposes of this section, the term “search and rescue center facility” means a Coast Guard shore facility that maintains a search and rescue mission coordination and communications watch.
 

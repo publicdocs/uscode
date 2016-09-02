@@ -17,17 +17,17 @@
 
     (a) __Project or Program Managers.—__ 
 
-        (1) __Level 1 projects.—__ 
+        (1)  __Level 1 projects__  __.—__ 
 
         An individual may not be assigned as the project or program manager for a Level 1 acquisition unless the individual holds a Level III acquisition certification as a program manager.
 
-        (2) __Level 2 projects.—__ 
+        (2)  __Level 2 projects__  __.—__ 
 
         An individual may not be assigned as the project or program manager for a Level 2 acquisition unless the individual holds a Level II acquisition certification as a program manager.
 
     (b) __Guidance on Tenure and Accountability of Program and Project Managers.—__ 
 
-        (1) __Issuance of guidance.—__ 
+        (1)  __Issuance of guidance__  __.—__ 
 
         Not later than one year after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall issue guidance to address the qualifications, resources, responsibilities, tenure, and accountability of program and project managers for the management of acquisition projects and programs. The guidance shall address, at a minimum—
 
@@ -39,11 +39,11 @@
 
         (2) __Strategy.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 18 months after the date of enactment of this section, the Commandant shall develop a comprehensive strategy for enhancing the role of Coast Guard project or program managers in developing and carrying out acquisition programs.
 
-            (B) __Matters to be addressed.—__ 
+            (B)  __Matters to be addressed__  __.—__ 
 
             The strategy required by this section shall address, at a minimum—
 
@@ -61,11 +61,11 @@
 
     (c) __Acquisition Workforce.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commandant shall designate a sufficient number of positions to be in the Coast Guard’s acquisition workforce to perform acquisition-related functions at Coast Guard headquarters and field activities.
 
-        (2) __Required positions.—__ 
+        (2)  __Required positions__  __.—__ 
 
         In designating positions under subsection (a), the Commandant shall include, at a minimum, positions encompassing the following competencies and functions:
 
@@ -91,21 +91,21 @@
 
             (K) Testing and evaluation.
 
-        (3) __Acquisition management headquarter activities.—__ 
+        (3)  __Acquisition management headquarter activities__  __.—__ 
 
         The Commandant shall also designate as positions in the acquisition workforce under paragraph (1) those acquisition-related positions located at Coast Guard headquarters units.
 
-        (4) __Appropriate expertise required.—__ 
+        (4)  __Appropriate expertise required__  __.—__ 
 
         The Commandant shall ensure that each individual assigned to a position in the acquisition workforce has the appropriate expertise to carry out the responsibilities of that position.
 
     (d) __Management Information System.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commandant shall establish a management information system capability to improve acquisition workforce management and reporting.
 
-        (2) __Information maintained.—__ 
+        (2)  __Information maintained__  __.—__ 
 
         Information maintained with such capability shall include the following standardized information on individuals assigned to positions in the workforce:
 
@@ -115,13 +115,13 @@
 
     \[(e) Repealed. [Pub. L. 112–213, title II, § 210(c)(2)(A)][/us/pl/112/213/s210/c/2/A], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
 
-    (f) __Appointments to Acquisition Positions.—__ 
+    (f)  __Appointments to Acquisition Positions__  __.—__ 
 
     The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
 
     (g) __Career Paths.—__ 
 
-        (1) __Identification of career paths.—__ 
+        (1)  __Identification of career paths__  __.—__ 
 
         To establish acquisition management as a core competency of the Coast Guard, the Commandant shall—
 
@@ -129,7 +129,7 @@
 
             (B) publish information on such career paths.
 
-        (2) __Promotion parity.—__ 
+        (2)  __Promotion parity__  __.—__ 
 
         The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
 

@@ -15,11 +15,11 @@
 
 ## § 425. Board for Correction of Military Records deadline
 
-    (a) __Deadline for Completion of Action.—__ 
+    (a)  __Deadline for Completion of Action__  __.—__ 
 
     The Secretary shall complete processing of an application for correction of military records under [section 1552 of title 10][/us/usc/t10/s1552] by not later than 10 months after the date the Secretary receives the completed application.
 
-    (b) __Remedies Deemed Exhausted.—__ 
+    (b)  __Remedies Deemed Exhausted__  __.—__ 
 
     Ten months after a complete application for correction of military records is received by the Board for Correction of Military Records of the Coast Guard, administrative remedies are deemed to have been exhausted, and—
 

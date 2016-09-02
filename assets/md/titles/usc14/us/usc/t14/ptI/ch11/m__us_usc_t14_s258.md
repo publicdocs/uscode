@@ -15,7 +15,7 @@
 
 ## § 258. Selection boards; information to be furnished boards
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall furnish the appropriate selection board convened under [section 251 of this title][/us/usc/t14/s251] with—
 

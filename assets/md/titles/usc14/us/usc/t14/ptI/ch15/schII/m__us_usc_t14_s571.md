@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1) __Support mechanisms.—__ 
+        (1)  __Support mechanisms__  __.—__ 
 
         The Commandant shall develop and implement mechanisms to support the establishment of mature and stable operational requirements for all acquisitions.
 
-        (2) __Mission analysis; affordability assessment.—__ 
+        (2)  __Mission analysis; affordability assessment__  __.—__ 
 
         The Commandant may not initiate a Level 1 or Level 2 acquisition project or program until the Commandant—
 
@@ -37,15 +37,15 @@
 
     (b) __Elements.—__ 
 
-        (1) __Requirements.—__ 
+        (1)  __Requirements__  __.—__ 
 
         The mechanisms required by subsection (a) shall ensure the implementation of a formal process for the development of a mission-needs statement, concept-of-operations document, capability development plan, and resource proposal for the initial project or program funding, and shall ensure the project or program is included in the Coast Guard Capital Investment Plan.
 
-        (2) __Assessment of trade-offs.—__ 
+        (2)  __Assessment of trade-offs__  __.—__ 
 
         In conducting an affordability assessment under subsection (a)(2)(B), the Commandant shall develop and implement mechanisms to ensure that trade-offs among cost, schedule, and performance are considered in the establishment of preliminary operational requirements for development and production of new assets and capabilities for Level 1 and Level 2 acquisitions projects and programs.
 
-    (c) __Human Resource Capital Planning.—__ 
+    (c)  __Human Resource Capital Planning__  __.—__ 
 
     The Commandant shall develop staffing predictions, define human capital performance initiatives, and identify preliminary training needs required to implement each Level 1 and Level 2 acquisition project and program.
 

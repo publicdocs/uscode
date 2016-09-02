@@ -15,7 +15,7 @@
 
 ## § 681. General authority
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     In addition to any other authority providing for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary may acquire or construct the following:
 
@@ -23,7 +23,7 @@
 
         (2) Military unaccompanied housing on or near such Coast Guard installations.
 
-    (b) __Limitation on Appropriations.—__ 
+    (b)  __Limitation on Appropriations__  __.—__ 
 
     No appropriation shall be made to acquire or construct military family housing or military unaccompanied housing under this chapter if that acquisition or construction has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 

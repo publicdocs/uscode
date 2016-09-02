@@ -15,17 +15,17 @@
 
 ## § 678. Aircraft accident investigations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whenever the Commandant of the Coast Guard conducts an accident investigation of an accident involving an aircraft under the jurisdiction of the Commandant, the records and report of the investigation shall be treated in accordance with this section.
 
     (b) __Public Disclosure of Certain Accident Investigation Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the Commandant, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation.
 
-        (2) __Conditions.—__ 
+        (2)  __Conditions__  __.—__ 
 
         The Commandant shall only disclose information requested pursuant to paragraph (1) if the Commandant determines—
 
@@ -39,11 +39,11 @@
 
                 (ii) would not compromise national security.
 
-        (3) __Restriction.—__ 
+        (3)  __Restriction__  __.—__ 
 
         A disclosure under paragraph (1) may not be made by or through officials with responsibility for, or who are conducting, a safety investigation with respect to the accident.
 
-    (c) __Opinions Regarding Causation of Accident.—__ 
+    (c)  __Opinions Regarding Causation of Accident__  __.—__ 
 
     Following an aircraft accident referred to in subsection (a)—
 
@@ -51,11 +51,11 @@
 
         (2) if the evidence surrounding the accident is not sufficient for the investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
 
-    (d) __Use of Information in Civil or Criminal Proceedings.—__ 
+    (d)  __Use of Information in Civil or Criminal Proceedings__  __.—__ 
 
     For purposes of any civil or criminal proceeding arising from an aircraft accident referred to in subsection (a), any opinion of the accident investigators as to the cause of, or the factors contributing to, the accident set forth in the accident investigation report may not be considered as evidence in such proceeding, nor may such report be considered an admission of liability by the United States or by any person referred to in such report.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

@@ -15,7 +15,7 @@
 
 ## § 685. Conveyance of real property
 
-    (a) __Conveyance Authorized.—__ 
+    (a)  __Conveyance Authorized__  __.—__ 
 
     Notwithstanding any other provision of law, the Secretary may convey, at fair market value, real property, owned or under the administrative control of the Coast Guard, for the purpose of expending the proceeds from such conveyance to acquire and construct military family housing and military unaccompanied housing.
 
@@ -25,7 +25,7 @@
 
         (2) The conveyance of real property under this section shall not diminish the mission capacity of the Coast Guard, but further the mission support capability of the Coast Guard with regard to military family housing or military unaccompanied housing.
 
-    (c) __Relationship to Environmental Law.—__ 
+    (c)  __Relationship to Environmental Law__  __.—__ 
 
     This section does not affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]).
 

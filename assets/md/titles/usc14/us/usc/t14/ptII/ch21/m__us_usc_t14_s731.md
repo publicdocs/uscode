@@ -15,11 +15,11 @@
 
 ## § 731. Establishment of promotion zones under running mate system
 
-    (a) __Authority To Use Running Mate System.—__ 
+    (a)  __Authority To Use Running Mate System__  __.—__ 
 
     The Secretary may by regulation implement [section 729(d)(1) of this title][/us/usc/t14/s729/d/1] by requiring that the promotion zone for consideration of Reserve officers in an active status for promotion to the next higher grade be determined in accordance with a running mate system as provided in subsection (b).
 
-    (b) __Consideration for Promotion.—__ 
+    (b)  __Consideration for Promotion__  __.—__ 
 
     If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter, be placed in a promotion zone when that officer’s running mate is placed in a promotion zone and shall, in accordance with the provisions of this subchapter, be considered for promotion at approximately the same time as that officer’s running mate or as soon thereafter as practicable, or in the event that promotion is not determined in accordance with a running mate system, then a Reserve officer becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he or she completes the following amount of service computed from the date of rank in the grade in which he or she is serving:
 
@@ -33,7 +33,7 @@
 
         (5) three years in the grade of captain.
 
-    (c) __Consideration of Officers Below the Zone.—__ 
+    (c)  __Consideration of Officers Below the Zone__  __.—__ 
 
     If the Secretary authorizes the selection of officers for promotion from below the promotion zone in accordance with [section 729(d)(3) of this title][/us/usc/t14/s729/d/3], the number of officers to be considered from below the zone may be established through the application of the running mate system under this subchapter or otherwise as the Secretary determines to be appropriate to meet the needs of the Coast Guard.
 

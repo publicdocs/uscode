@@ -15,19 +15,19 @@
 
 ## § 426. Emergency leave retention authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.) or in response to a spill of national significance shall be treated, for the purpose of [section 701(f)(2) of title 10][/us/usc/t10/s701/f/2], as a duty assignment in support of a contingency operation.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Spill of national significance.—__ 
+        (1)  __Spill of national significance__  __.—__ 
 
         The term “spill of national significance” means a discharge of oil or a hazardous substance that is declared by the Commandant to be a spill of national significance.
 
-        (2) __Discharge.—__ 
+        (2)  __Discharge__  __.—__ 
 
         The term “discharge” has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701][/us/usc/t33/s2701]).
 

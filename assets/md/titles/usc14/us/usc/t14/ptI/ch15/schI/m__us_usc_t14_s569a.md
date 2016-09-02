@@ -15,11 +15,11 @@
 
 ## § 569a. Major acquisitions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all major acquisition programs.
 
-    (b) __Information To Be Included.—__ 
+    (b)  __Information To Be Included__  __.—__ 
 
     Each report under subsection (a) shall include for each major acquisition program—
 
@@ -55,7 +55,7 @@
 
         (10) an annual performance comparison of new assets to legacy assets.
 
-    (c) __Adequacy of Acquisition Workforce.—__ 
+    (c)  __Adequacy of Acquisition Workforce__  __.—__ 
 
     Each report under subsection (a) shall—
 
@@ -65,11 +65,11 @@
 
         (3) identify positions that are or will be understaffed and actions that will be taken to correct such understaffing.
 
-    (d) __Cutters Not Maintained in Class.—__ 
+    (d)  __Cutters Not Maintained in Class__  __.—__ 
 
     Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
 
-    (e) __Major Acquisition Program Defined.—__ 
+    (e)  __Major Acquisition Program Defined__  __.—__ 
 
     In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
 

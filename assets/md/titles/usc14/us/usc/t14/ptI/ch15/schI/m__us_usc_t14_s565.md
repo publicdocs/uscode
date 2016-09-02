@@ -15,7 +15,7 @@
 
 ## § 565. Required contract terms
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of 10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000 awarded or issued by the Coast Guard after the date of enactment of the Coast Guard Authorization Act of 2010—
 
@@ -31,11 +31,11 @@
 
     (b) __Prohibited Provisions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commandant shall ensure that any contract awarded or delivery order or task order issued by the Coast Guard after the date of enactment of the Coast Guard Authorization Act of 2010 does not include any provision allowing for equitable adjustment that is not consistent with the Federal Acquisition Regulations.
 
-        (2) __Extension of program.—__ 
+        (2)  __Extension of program__  __.—__ 
 
         A contract, contract modification, or award term extending a contract with a lead systems integrator—
 
@@ -43,11 +43,11 @@
 
             (B) shall be reviewed by an independent third party with expertise in acquisition management, and the results of that review shall be submitted to the appropriate congressional committees at least 60 days prior to the award of the contract, contract modification, or award term.
 
-    (c) __Integrated Product Teams.—__ 
+    (c)  __Integrated Product Teams__  __.—__ 
 
     Integrated product teams, and all teams that oversee integrated product teams, shall be chaired by officers, members, or employees of the Coast Guard.
 
-    (d) __Technical Authority.—__ 
+    (d)  __Technical Authority__  __.—__ 
 
     The Commandant shall maintain or designate the technical authority to establish, approve, and maintain technical requirements. Any such designation shall be made in writing and may not be delegated to the authority of the Chief Acquisition Officer established by [section 56 of this title][/us/usc/t14/s56].
 
