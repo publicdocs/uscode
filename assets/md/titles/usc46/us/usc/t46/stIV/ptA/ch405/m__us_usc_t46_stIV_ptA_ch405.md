@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 40501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40501" data-uslm-ref="/us/usc/t46/s40501">40501.</a>  </td>
 
     <td> General rate and tariff requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 40502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40502" data-uslm-ref="/us/usc/t46/s40502">40502.</a>  </td>
 
     <td> Service contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 40503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40503" data-uslm-ref="/us/usc/t46/s40503">40503.</a>  </td>
 
     <td> Refunds and waivers.  </td>
 

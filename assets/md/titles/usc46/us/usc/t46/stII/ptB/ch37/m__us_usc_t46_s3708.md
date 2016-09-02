@@ -15,7 +15,7 @@
 
 ## § 3708. Self-propelled tank vessel minimum standards
 
-A self-propelled tank vessel of at least 10,000 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] shall be equipped with—
+    A self-propelled tank vessel of at least 10,000 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] shall be equipped with—
 
     (1) a dual radar system with short-range and long-range capabilities, each with true-north features;
 

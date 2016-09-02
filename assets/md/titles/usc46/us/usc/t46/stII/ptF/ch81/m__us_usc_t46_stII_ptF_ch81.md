@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8101" data-uslm-ref="/us/usc/t46/s8101">8101.</a>  </td>
 
     <td> Complement of inspected vessels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8102" data-uslm-ref="/us/usc/t46/s8102">8102.</a>  </td>
 
     <td> Watchmen.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8103" data-uslm-ref="/us/usc/t46/s8103">8103.</a>  </td>
 
     <td> Citizenship and Navy Reserve requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8104" data-uslm-ref="/us/usc/t46/s8104">8104.</a>  </td>
 
     <td> Watches.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8105" data-uslm-ref="/us/usc/t46/s8105">8105.</a>  </td>
 
     <td> Fishing vessel exemption.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8106" data-uslm-ref="/us/usc/t46/s8106">8106.</a>  </td>
 
     <td> Riding gangs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8107" data-uslm-ref="/us/usc/t46/s8107">8107.</a>  </td>
 
     <td> Use of force against piracy.  </td>
 

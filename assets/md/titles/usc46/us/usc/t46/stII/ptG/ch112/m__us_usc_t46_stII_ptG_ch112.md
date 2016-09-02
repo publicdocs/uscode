@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11201" data-uslm-ref="/us/usc/t46/s11201">11201.</a>  </td>
 
     <td> Eligibility for veterans’ burial and cemetery benefits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11202" data-uslm-ref="/us/usc/t46/s11202">11202.</a>  </td>
 
     <td> Qualified service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11203" data-uslm-ref="/us/usc/t46/s11203">11203.</a>  </td>
 
     <td> Documentation of qualified service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11204" data-uslm-ref="/us/usc/t46/s11204">11204.</a>  </td>
 
     <td> Processing fees.  </td>
 

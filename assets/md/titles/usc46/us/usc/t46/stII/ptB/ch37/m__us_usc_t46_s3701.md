@@ -15,7 +15,7 @@
 
 ## § 3701. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “existing”, when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
 

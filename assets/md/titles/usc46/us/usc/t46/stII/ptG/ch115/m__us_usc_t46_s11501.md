@@ -15,7 +15,7 @@
 
 ## § 11501. Penalties for specified offenses
 
-When a seaman lawfully engaged commits any of the following offenses, the seaman shall be punished as specified:
+    When a seaman lawfully engaged commits any of the following offenses, the seaman shall be punished as specified:
 
     (1) For desertion, the seaman forfeits any part of the money or property the seaman leaves on board and any part of earned wages.
 

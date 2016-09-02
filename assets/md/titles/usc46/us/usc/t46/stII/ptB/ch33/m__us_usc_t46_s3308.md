@@ -15,7 +15,7 @@
 
 ## § 3308. Examinations
 
-In addition to inspections required by [section 3307 of this title][/us/usc/t46/s3307], the Secretary shall examine or have examined—
+    In addition to inspections required by [section 3307 of this title][/us/usc/t46/s3307], the Secretary shall examine or have examined—
 
     (1) each vessel subject to inspection at proper times to ensure compliance with law and regulations; and
 

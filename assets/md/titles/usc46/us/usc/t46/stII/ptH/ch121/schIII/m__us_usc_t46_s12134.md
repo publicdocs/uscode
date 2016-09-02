@@ -15,7 +15,7 @@
 
 ## § 12134. Evidentiary uses of documentation
 
-A certificate of documentation is—
+    A certificate of documentation is—
 
     (1) conclusive evidence of nationality for international purposes, but not in a proceeding conducted under the laws of the United States;
 

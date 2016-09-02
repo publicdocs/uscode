@@ -15,7 +15,7 @@
 
 ## § 31302. Availability of instruments, copies, and information
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) make any instrument filed or recorded with the Secretary under this chapter available for public inspection;
 

@@ -15,7 +15,7 @@
 
 ## § 14511. Application
 
-This subchapter applies to a vessel described in [section 14501 of this title][/us/usc/t46/s14501] if—
+    This subchapter applies to a vessel described in [section 14501 of this title][/us/usc/t46/s14501] if—
 
     (1) the owner requests; or
 

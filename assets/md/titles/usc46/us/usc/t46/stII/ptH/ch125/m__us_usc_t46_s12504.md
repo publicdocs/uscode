@@ -15,7 +15,7 @@
 
 ## § 12504. Information available from the system
 
-For law enforcement or other purposes and under conditions prescribed by the Secretary of Transportation, the Secretary—
+    For law enforcement or other purposes and under conditions prescribed by the Secretary of Transportation, the Secretary—
 
     (1) shall make available information in the vessel identification system to a State making information available under [section 12503(a) of this title][/us/usc/t46/s12503/a]; and
 

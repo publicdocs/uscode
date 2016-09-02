@@ -15,7 +15,7 @@
 
 ## § 6301. Investigation of marine casualties
 
-The Secretary shall prescribe regulations for the immediate investigation of marine casualties under this part to decide, as closely as possible—
+    The Secretary shall prescribe regulations for the immediate investigation of marine casualties under this part to decide, as closely as possible—
 
     (1) the cause of the casualty, including the cause of any death;
 

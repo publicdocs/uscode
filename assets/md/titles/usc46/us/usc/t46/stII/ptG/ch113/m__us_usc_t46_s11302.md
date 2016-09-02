@@ -15,7 +15,7 @@
 
 ## § 11302. Manner of making entries
 
-Each entry made in the official logbook—
+    Each entry made in the official logbook—
 
     (1) shall be made as soon as possible after the occurrence;
 

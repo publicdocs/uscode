@@ -15,7 +15,7 @@
 
 ## § 7703. Bases for suspension or revocation
 
-A license, certificate of registry, or merchant mariner’s document issued by the Secretary may be suspended or revoked if the holder—
+    A license, certificate of registry, or merchant mariner’s document issued by the Secretary may be suspended or revoked if the holder—
 
     (1)
 

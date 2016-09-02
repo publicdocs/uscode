@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t46/stI/m__us_usc_t46_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46)
 
-# 
-
-Title 46—SHIPPING
+# Title 46—SHIPPING
 
 This title was enacted by [Pub. L. 98–89, § 1][/us/pl/98/89/s1], Aug. 26, 1983, [97 Stat. 500][/us/stat/97/500]; [Pub. L. 99–509, title V][/us/pl/99/509], subtitle B, § 5101, Oct. 21, 1986, [100 Stat. 1913][/us/stat/100/1913]; [Pub. L. 100–424, § 6][/us/pl/100/424/s6], Sept. 9, 1988, [102 Stat. 1591][/us/stat/102/1591]; [Pub. L. 100–710, title I, § 102][/us/pl/100/710/s102], Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738]; [Pub. L. 109–304][/us/pl/109/304], Oct. 6, 2006, [120 Stat. 1485][/us/stat/120/1485]
+
+Current through 113–44
 
 <table>
 
@@ -33,81 +33,81 @@ This title was enacted by [Pub. L. 98–89, § 1][/us/pl/98/89/s1], Aug. 26, 1
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstI" data-uslm-ref="/us/usc/t46/stI">I.</a>  </td>
 
     <td> GENERAL  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs101" data-uslm-ref="/us/usc/t46/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstII" data-uslm-ref="/us/usc/t46/stII">II.</a>  </td>
 
     <td> VESSELS AND SEAMEN  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2101" data-uslm-ref="/us/usc/t46/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstIII" data-uslm-ref="/us/usc/t46/stIII">III.</a>  </td>
 
     <td> MARITIME LIABILITY  </td>
 
-    <td> 30101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs30101" data-uslm-ref="/us/usc/t46/s30101">30101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstIV" data-uslm-ref="/us/usc/t46/stIV">IV.</a>  </td>
 
     <td> REGULATION OF OCEAN SHIPPING  </td>
 
-    <td> 40101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40101" data-uslm-ref="/us/usc/t46/s40101">40101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstV" data-uslm-ref="/us/usc/t46/stV">V.</a>  </td>
 
     <td> MERCHANT MARINE  </td>
 
-    <td> 50101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50101" data-uslm-ref="/us/usc/t46/s50101">50101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstVI" data-uslm-ref="/us/usc/t46/stVI">VI.</a>  </td>
 
     <td> CLEARANCE, TONNAGE TAXES, AND DUTIES  </td>
 
-    <td> 60101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs60101" data-uslm-ref="/us/usc/t46/s60101">60101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstVII" data-uslm-ref="/us/usc/t46/stVII">VII.</a>  </td>
 
     <td> SECURITY AND DRUG ENFORCEMENT  </td>
 
-    <td> 70101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70101" data-uslm-ref="/us/usc/t46/s70101">70101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VIII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2FstVIII" data-uslm-ref="/us/usc/t46/stVIII">VIII.</a>  </td>
 
     <td> MISCELLANEOUS  </td>
 
-    <td> 80101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs80101" data-uslm-ref="/us/usc/t46/s80101">80101</a>  </td>
 
   </tr>
 

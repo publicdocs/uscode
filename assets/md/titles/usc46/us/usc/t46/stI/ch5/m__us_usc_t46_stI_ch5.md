@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs501" data-uslm-ref="/us/usc/t46/s501">501.</a>  </td>
 
     <td> Waiver of navigation and vessel-inspection laws.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs502" data-uslm-ref="/us/usc/t46/s502">502.</a>  </td>
 
     <td> Cargo exempt from forfeiture.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs503" data-uslm-ref="/us/usc/t46/s503">503.</a>  </td>
 
     <td> Notice of seizure.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs504" data-uslm-ref="/us/usc/t46/s504">504.</a>  </td>
 
     <td> Remission of fees and penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs505" data-uslm-ref="/us/usc/t46/s505">505.</a>  </td>
 
     <td> Penalty for violating regulation or order.  </td>
 

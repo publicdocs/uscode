@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 40701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40701" data-uslm-ref="/us/usc/t46/s40701">40701.</a>  </td>
 
     <td> Rates.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 40702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40702" data-uslm-ref="/us/usc/t46/s40702">40702.</a>  </td>
 
     <td> Rate standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 40703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40703" data-uslm-ref="/us/usc/t46/s40703">40703.</a>  </td>
 
     <td> Effective date of rates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 40704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40704" data-uslm-ref="/us/usc/t46/s40704">40704.</a>  </td>
 
     <td> Commission review.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 40705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40705" data-uslm-ref="/us/usc/t46/s40705">40705.</a>  </td>
 
     <td> Presidential review of Commission orders.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 40706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40706" data-uslm-ref="/us/usc/t46/s40706">40706.</a>  </td>
 
     <td> Exceptions.  </td>
 

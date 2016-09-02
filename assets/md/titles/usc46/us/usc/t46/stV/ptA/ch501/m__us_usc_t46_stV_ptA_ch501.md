@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50101" data-uslm-ref="/us/usc/t46/s50101">50101.</a>  </td>
 
     <td> Objectives and policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50102" data-uslm-ref="/us/usc/t46/s50102">50102.</a>  </td>
 
     <td> Survey of merchant marine.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50103" data-uslm-ref="/us/usc/t46/s50103">50103.</a>  </td>
 
     <td> Determinations of essential services.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 50104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50104" data-uslm-ref="/us/usc/t46/s50104">50104.</a>  </td>
 
     <td> Studies of general maritime problems.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 50105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50105" data-uslm-ref="/us/usc/t46/s50105">50105.</a>  </td>
 
     <td> Studies and cooperation relating to the construction of vessels.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 50106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50106" data-uslm-ref="/us/usc/t46/s50106">50106.</a>  </td>
 
     <td> Studies on the operation of vessels.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 50107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50107" data-uslm-ref="/us/usc/t46/s50107">50107.</a>  </td>
 
     <td> Studies on marine insurance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 50108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50108" data-uslm-ref="/us/usc/t46/s50108">50108.</a>  </td>
 
     <td> Studies on cargo carriage and cargo containers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 50109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50109" data-uslm-ref="/us/usc/t46/s50109">50109.</a>  </td>
 
     <td> Miscellaneous studies.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 50110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50110" data-uslm-ref="/us/usc/t46/s50110">50110.</a>  </td>
 
     <td> Securing preference to vessels of the United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 50111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50111" data-uslm-ref="/us/usc/t46/s50111">50111.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 50112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50112" data-uslm-ref="/us/usc/t46/s50112">50112.</a>  </td>
 
     <td> National Maritime Enhancement Institutes.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 50113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50113" data-uslm-ref="/us/usc/t46/s50113">50113.</a>  </td>
 
     <td> Use and performance reports by operators of vessels.  </td>
 

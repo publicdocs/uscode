@@ -15,7 +15,7 @@
 
 ## § 10506. Trusts
 
-[Section 10505 of this title][/us/usc/t46/s10505] does not prevent an employer from making deductions from the wages of a seaman, with the written consent of the seaman, if—
+    [Section 10505 of this title][/us/usc/t46/s10505] does not prevent an employer from making deductions from the wages of a seaman, with the written consent of the seaman, if—
 
     (1) the deductions are paid into a trust fund established only for the benefit of seamen employed by that employer, and the families and dependents of those seamen (or of those seamen, families, and dependents jointly with other seamen employed by other employers, and the families and dependents of the other seamen); and
 

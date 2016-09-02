@@ -15,7 +15,7 @@
 
 ## § 9305. Agreements with Canada
 
-To provide for a coordinated system of pilotage service on the Great Lakes, the Secretary, subject to the concurrence of the Secretary of State, may make agreements with the appropriate agency of Canada to—
+    To provide for a coordinated system of pilotage service on the Great Lakes, the Secretary, subject to the concurrence of the Secretary of State, may make agreements with the appropriate agency of Canada to—
 
     (1) fix the number of pilots to be registered in each country;
 

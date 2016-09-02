@@ -11,16 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch37/m__us_usc_t46_s3719.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_s3901, 3902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch39)
+[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch37/m__us_usc_t46_s3719.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_stII_ptB_ch41.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch39)
 
 #### \[CHAPTER 39—REPEALED\]
 
+\[§§ 3901, 3902. __Repealed.__  __[__  __Pub. L. 107–171, title X, § 10418(a)(20)__  __][/us/pl/107/171/s10418/a/20]__  __,__  __May 13, 2002__  __,__  __[__  __116 Stat. 508__  __][/us/stat/116/508]__  __\]__ 
+
+    Section 3901, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528], related to regulations for accommodations for export animals.
+
+    Section 3902, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528], related to penalties.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch37/m__us_usc_t46_s3719.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_s3901, 3902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch39)
+[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch37/m__us_usc_t46_s3719.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_stII_ptB_ch41.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch39)
 
 ----------
 ----------
 
+[/us/pl/107/171/s10418/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa%2F20
+[/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
+[/us/stat/97/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F528
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
+[/us/stat/97/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F528
 
 

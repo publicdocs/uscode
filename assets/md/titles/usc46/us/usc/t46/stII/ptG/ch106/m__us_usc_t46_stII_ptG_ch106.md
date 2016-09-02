@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10601" data-uslm-ref="/us/usc/t46/s10601">10601.</a>  </td>
 
     <td> Fishing agreements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10602" data-uslm-ref="/us/usc/t46/s10602">10602.</a>  </td>
 
     <td> Recovery of wages and shares of fish under agreement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10603" data-uslm-ref="/us/usc/t46/s10603">10603.</a>  </td>
 
     <td> Seaman’s duty to notify employer regarding illness, disability, and injury.  </td>
 

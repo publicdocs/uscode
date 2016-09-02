@@ -15,7 +15,7 @@
 
 ## § 42305. Refusal of clearance and entry
 
-Subject to [section 42306 of this title][/us/usc/t46/s42306], whenever the Federal Maritime Commission determines that the conditions specified in [section 42302(a) of this title][/us/usc/t46/s42302/a] exist, then at the request of the Commission—
+    Subject to [section 42306 of this title][/us/usc/t46/s42306], whenever the Federal Maritime Commission determines that the conditions specified in [section 42302(a) of this title][/us/usc/t46/s42302/a] exist, then at the request of the Commission—
 
     (1) the Secretary of Homeland Security shall refuse the clearance required by [section 60105 of this title][/us/usc/t46/s60105] to a vessel of a foreign carrier that is identified by the Commission under [section 42304 of this title][/us/usc/t46/s42304]; and
 

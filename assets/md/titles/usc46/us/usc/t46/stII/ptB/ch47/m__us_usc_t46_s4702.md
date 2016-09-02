@@ -15,7 +15,7 @@
 
 ## § 4702. Abandonment of barge prohibited
 
-An owner or operator of a barge may not abandon it on the navigable waters of the United States. A barge is deemed not to be abandoned if—
+    An owner or operator of a barge may not abandon it on the navigable waters of the United States. A barge is deemed not to be abandoned if—
 
     (1) it is located at a Federally- or State-approved mooring area;
 

@@ -15,7 +15,7 @@
 
 ## § 2113. Authority to exempt certain vessels
 
-If the Secretary decides that the application of a provision of part B, C, F, or G of this subtitle is not necessary in performing the mission of the vessel engaged in excursions or an oceanographic research vessel, or not necessary for the safe operation of certain vessels carrying passengers, the Secretary by regulation may—
+    If the Secretary decides that the application of a provision of part B, C, F, or G of this subtitle is not necessary in performing the mission of the vessel engaged in excursions or an oceanographic research vessel, or not necessary for the safe operation of certain vessels carrying passengers, the Secretary by regulation may—
 
     (1) for a vessel, issue a special permit specifying the conditions of operation and equipment;
 

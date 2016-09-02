@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 14501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14501" data-uslm-ref="/us/usc/t46/s14501">14501.</a>  </td>
 
     <td> Application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 14502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14502" data-uslm-ref="/us/usc/t46/s14502">14502.</a>  </td>
 
     <td> Measurement.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 14503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14503" data-uslm-ref="/us/usc/t46/s14503">14503.</a>  </td>
 
     <td> Certificate of measurement.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 14504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14504" data-uslm-ref="/us/usc/t46/s14504">14504.</a>  </td>
 
     <td> Remeasurement.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—FORMAL SYSTEMS  </td>
 
   <tr>
 
-    <td> 14511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14511" data-uslm-ref="/us/usc/t46/s14511">14511.</a>  </td>
 
     <td> Application.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—FORMAL SYSTEMS  </td>
 
   <tr>
 
-    <td> 14512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14512" data-uslm-ref="/us/usc/t46/s14512">14512.</a>  </td>
 
     <td> Standard tonnage measurement.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—FORMAL SYSTEMS  </td>
 
   <tr>
 
-    <td> 14513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14513" data-uslm-ref="/us/usc/t46/s14513">14513.</a>  </td>
 
     <td> Dual tonnage measurement.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—FORMAL SYSTEMS  </td>
 
   <tr>
 
-    <td> 14514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14514" data-uslm-ref="/us/usc/t46/s14514">14514.</a>  </td>
 
     <td> Reciprocity for foreign vessels.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—SIMPLIFIED SYSTEM  </td>
 
   <tr>
 
-    <td> 14521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14521" data-uslm-ref="/us/usc/t46/s14521">14521.</a>  </td>
 
     <td> Application.  </td>
 
@@ -121,15 +121,21 @@ SUBCHAPTER III—SIMPLIFIED SYSTEM  </td>
 
   <tr>
 
-    <td> 14522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14522" data-uslm-ref="/us/usc/t46/s14522">14522.</a>  </td>
 
     <td> Measurement.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Historical and Revision Notes__ 
+    <td> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+</table>
 
     This chapter provides for the measurement of vessels for the purpose of the application of domestic laws.
 

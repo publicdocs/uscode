@@ -15,7 +15,7 @@
 
 ## § 40101. Purposes
 
-The purposes of this part are to—
+    The purposes of this part are to—
 
     (1) establish a nondiscriminatory regulatory process for the common carriage of goods by water in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
 

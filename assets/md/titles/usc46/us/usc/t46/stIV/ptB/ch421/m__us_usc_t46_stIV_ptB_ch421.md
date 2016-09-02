@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 42101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42101" data-uslm-ref="/us/usc/t46/s42101">42101.</a>  </td>
 
     <td> Regulations of the Commission.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42102" data-uslm-ref="/us/usc/t46/s42102">42102.</a>  </td>
 
     <td> Regulations of other agencies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 42103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42103" data-uslm-ref="/us/usc/t46/s42103">42103.</a>  </td>
 
     <td> No preference to Government-owned vessels.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 42104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42104" data-uslm-ref="/us/usc/t46/s42104">42104.</a>  </td>
 
     <td> Information, witnesses, and evidence.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 42105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42105" data-uslm-ref="/us/usc/t46/s42105">42105.</a>  </td>
 
     <td> Disclosure to public.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 42106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42106" data-uslm-ref="/us/usc/t46/s42106">42106.</a>  </td>
 
     <td> Other actions to remedy unfavorable conditions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 42107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42107" data-uslm-ref="/us/usc/t46/s42107">42107.</a>  </td>
 
     <td> Refusal of clearance and entry.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 42108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42108" data-uslm-ref="/us/usc/t46/s42108">42108.</a>  </td>
 
     <td> Penalty for operating under suspended tariff or service contract.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 42109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs42109" data-uslm-ref="/us/usc/t46/s42109">42109.</a>  </td>
 
     <td> Consultation with other agencies.  </td>
 

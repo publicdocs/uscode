@@ -15,7 +15,7 @@
 
 ## § 42106. Other actions to remedy unfavorable conditions
 
-If the Federal Maritime Commission finds that conditions unfavorable to shipping in foreign trade as described in [section 42101 of this title][/us/usc/t46/s42101] exist, the Commission may—
+    If the Federal Maritime Commission finds that conditions unfavorable to shipping in foreign trade as described in [section 42101 of this title][/us/usc/t46/s42101] exist, the Commission may—
 
     (1) limit voyages to and from United States ports or the amount or type of cargo carried;
 

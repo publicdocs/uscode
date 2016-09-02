@@ -15,7 +15,7 @@
 
 ## § 41104. Common carriers
 
-A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
+    A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
 
     (1) allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;
 

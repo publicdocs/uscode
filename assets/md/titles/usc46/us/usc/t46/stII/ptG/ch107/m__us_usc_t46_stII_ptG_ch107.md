@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10701" data-uslm-ref="/us/usc/t46/s10701">10701.</a>  </td>
 
     <td> Application.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10702" data-uslm-ref="/us/usc/t46/s10702">10702.</a>  </td>
 
     <td> Duties of masters.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10703" data-uslm-ref="/us/usc/t46/s10703">10703.</a>  </td>
 
     <td> Procedures of masters.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10704" data-uslm-ref="/us/usc/t46/s10704">10704.</a>  </td>
 
     <td> Duties of consular officers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10705" data-uslm-ref="/us/usc/t46/s10705">10705.</a>  </td>
 
     <td> Disposition of money, property, and wages by consular officers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10706" data-uslm-ref="/us/usc/t46/s10706">10706.</a>  </td>
 
     <td> Seamen dying in the United States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [10707.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10707" data-uslm-ref="/us/usc/t46/s10707">10707.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10708" data-uslm-ref="/us/usc/t46/s10708">10708.</a>  </td>
 
     <td> Sale of property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10709" data-uslm-ref="/us/usc/t46/s10709">10709.</a>  </td>
 
     <td> Distribution.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10710" data-uslm-ref="/us/usc/t46/s10710">10710.</a>  </td>
 
     <td> Unclaimed money, property, and wages.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10711" data-uslm-ref="/us/usc/t46/s10711">10711.</a>  </td>
 
     <td> Penalties.  </td>
 

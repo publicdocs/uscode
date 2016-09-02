@@ -15,7 +15,7 @@
 
 ## § 2101. General definitions
 
-In this subtitle—
+    In this subtitle—
 
     (1)
 
@@ -31,7 +31,7 @@ In this subtitle—
 
         (B) with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
 
-        \[(2) to (3a) Repealed. [Pub. L. 109–304, § 15(2)(A)][/us/pl/109/304/s15/2/A], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].\]
+    \[(2) to (3a) Repealed. [Pub. L. 109–304, § 15(2)(A)][/us/pl/109/304/s15/2/A], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].\]
 
     (4) “Coast Guard” means the organization established and continued under [section 1 of title 14][/us/usc/t14/s1].
 
@@ -49,7 +49,7 @@ In this subtitle—
 
     , (10a) Repealed. [Pub. L. 109–304, § 15(2)(A)][/us/pl/109/304/s15/2/A], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].\]
 
-    (10b) “ferry” means a vessel that is used on a regular schedule—
+        (10b) “ferry” means a vessel that is used on a regular schedule—
 
         (A) to provide transportation only between places that are not more than 300 miles apart; and
 
@@ -115,9 +115,9 @@ In this subtitle—
 
      “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
-    (20a) “oil spill response vessel” means a vessel that is designated in its certificate of inspection as such a vessel, or that is adapted to respond to a discharge of oil or a hazardous material.
+        (20a) “oil spill response vessel” means a vessel that is designated in its certificate of inspection as such a vessel, or that is adapted to respond to a discharge of oil or a hazardous material.
 
-    (20b) “overall in length” means—
+        (20b) “overall in length” means—
 
         (A)
 
@@ -215,7 +215,7 @@ In this subtitle—
 
      “recreational vessel manufacturer” means a person engaged in the manufacturing, construction, assembly, or importation of recreational vessels, components, or associated equipment.
 
-    (26a) “riding gang member” means an individual who—
+        (26a) “riding gang member” means an individual who—
 
         (A) has not been issued a merchant mariner document under chapter 73;
 
@@ -279,7 +279,7 @@ In this subtitle—
 
         (E) that is a ferry carrying more than 6 passengers.
 
-        \[(36) Repealed. [Pub. L. 109–304, § 15(2)(A)][/us/pl/109/304/s15/2/A], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].\]
+    \[(36) Repealed. [Pub. L. 109–304, § 15(2)(A)][/us/pl/109/304/s15/2/A], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].\]
 
     (37) “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.    (37a) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
 

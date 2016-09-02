@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8301" data-uslm-ref="/us/usc/t46/s8301">8301.</a>  </td>
 
     <td> Minimum number of licensed individuals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8302" data-uslm-ref="/us/usc/t46/s8302">8302.</a>  </td>
 
     <td> Staff department.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8303" data-uslm-ref="/us/usc/t46/s8303">8303.</a>  </td>
 
     <td> Service under licenses issued without examination.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8304" data-uslm-ref="/us/usc/t46/s8304">8304.</a>  </td>
 
     <td> Implementing the Officers’ Competency Certificates Convention, 1936.  </td>
 

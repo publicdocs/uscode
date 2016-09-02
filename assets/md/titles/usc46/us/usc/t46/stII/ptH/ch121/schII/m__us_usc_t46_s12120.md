@@ -15,7 +15,7 @@
 
 ## § 12120. Liquified gas tankers
 
-Notwithstanding any agreement with the United States Government, the Secretary may issue a certificate of documentation with a coastwise endorsement for a vessel to transport liquified natural gas or liquified petroleum gas to Puerto Rico from other ports in the United States, if the vessel—
+    Notwithstanding any agreement with the United States Government, the Secretary may issue a certificate of documentation with a coastwise endorsement for a vessel to transport liquified natural gas or liquified petroleum gas to Puerto Rico from other ports in the United States, if the vessel—
 
     (1) is a foreign built vessel that was built before October 19, 1996; or
 

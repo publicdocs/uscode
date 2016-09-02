@@ -15,7 +15,7 @@
 
 ## § 30507. Apportionment of losses
 
-If the amounts determined under sections 30505 and 30506 of this title are insufficient to pay all claims—
+    If the amounts determined under sections 30505 and 30506 of this title are insufficient to pay all claims—
 
     (1) all claimants shall be paid in proportion to their respective losses out of the amount determined under [section 30505 of this title][/us/usc/t46/s30505]; and
 

@@ -15,7 +15,7 @@
 
 ## § 11202. Qualified service
 
-For purposes of this chapter, a person shall be considered to have engaged in qualified service if, between August 16, 1945, and December 31, 1946, the person—
+    For purposes of this chapter, a person shall be considered to have engaged in qualified service if, between August 16, 1945, and December 31, 1946, the person—
 
     (1)
 

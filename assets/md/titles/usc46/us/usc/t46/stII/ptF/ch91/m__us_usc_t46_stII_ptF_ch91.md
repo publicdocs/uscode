@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs9101" data-uslm-ref="/us/usc/t46/s9101">9101.</a>  </td>
 
     <td> Standards for foreign tank vessels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs9102" data-uslm-ref="/us/usc/t46/s9102">9102.</a>  </td>
 
     <td> Standards for tank vessels of the United States.  </td>
 

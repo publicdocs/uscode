@@ -17,7 +17,7 @@
 
     The form of the agreement required by [section 10302 of this title][/us/usc/t46/s10302] shall be in substance as follows:
 
-    United States of America
+United States of America
 
     (Date and place of first signature of agreement):
 
@@ -149,7 +149,7 @@
 
     </table>
 
-Note.—In the place for signature and descriptions of individuals engaged after the first departure of the vessel, the entries are to be made as above, except that the signature of the consul or vice consul, customs officer, or witness before whom the individual is engaged, is to be entered.
+    Note.—In the place for signature and descriptions of individuals engaged after the first departure of the vessel, the entries are to be made as above, except that the signature of the consul or vice consul, customs officer, or witness before whom the individual is engaged, is to be entered.
 
 ([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 562][/us/stat/97/562]; [Pub. L. 103–206, title IV, § 402][/us/pl/103/206/s402], Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
 

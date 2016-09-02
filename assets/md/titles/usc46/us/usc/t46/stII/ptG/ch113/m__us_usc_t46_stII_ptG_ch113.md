@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11301" data-uslm-ref="/us/usc/t46/s11301">11301.</a>  </td>
 
     <td> Logbook and entry requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11302" data-uslm-ref="/us/usc/t46/s11302">11302.</a>  </td>
 
     <td> Manner of making entries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11303" data-uslm-ref="/us/usc/t46/s11303">11303.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11304" data-uslm-ref="/us/usc/t46/s11304">11304.</a>  </td>
 
     <td> Additional logbook and entry requirements.  </td>
 

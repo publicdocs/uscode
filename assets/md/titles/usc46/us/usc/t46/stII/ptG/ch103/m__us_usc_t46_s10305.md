@@ -15,7 +15,7 @@
 
 ## § 10305. Manner of signing agreement
 
-The agreement required by [section 10302 of this title][/us/usc/t46/s10302] shall be signed—
+    The agreement required by [section 10302 of this title][/us/usc/t46/s10302] shall be signed—
 
     (1) first by the master and dated at that time, after which each seaman shall sign; and
 

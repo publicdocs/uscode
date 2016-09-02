@@ -15,7 +15,7 @@
 
 ## § 10316. Trusts
 
-Sections 10314 and 10315 of this title do not prevent an employer from making deductions from the wages of a seaman, with the written consent of the seaman, if—
+    Sections 10314 and 10315 of this title do not prevent an employer from making deductions from the wages of a seaman, with the written consent of the seaman, if—
 
     (1) the deductions are paid into a trust fund established only for the benefit of seamen employed by that employer, and the families and dependents of those seamen (or of those seamen, families, and dependents jointly with other seamen employed by other employers, and the families and dependents of the other seamen); and
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11501" data-uslm-ref="/us/usc/t46/s11501">11501.</a>  </td>
 
     <td> Penalties for specified offenses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11502" data-uslm-ref="/us/usc/t46/s11502">11502.</a>  </td>
 
     <td> Entry of offenses in logbook.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11503" data-uslm-ref="/us/usc/t46/s11503">11503.</a>  </td>
 
     <td> Duties of consular officers related to insubordination.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11504" data-uslm-ref="/us/usc/t46/s11504">11504.</a>  </td>
 
     <td> Enforcement of forfeitures.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 11505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11505" data-uslm-ref="/us/usc/t46/s11505">11505.</a>  </td>
 
     <td> Disposal of forfeitures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 11506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11506" data-uslm-ref="/us/usc/t46/s11506">11506.</a>  </td>
 
     <td> Carrying sheath knives.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 11507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs11507" data-uslm-ref="/us/usc/t46/s11507">11507.</a>  </td>
 
     <td> Surrender of offending officers.  </td>
 

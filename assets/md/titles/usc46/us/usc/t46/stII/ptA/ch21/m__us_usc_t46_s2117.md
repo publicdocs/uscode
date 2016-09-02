@@ -15,7 +15,7 @@
 
 ## § 2117. Termination for unsafe operation
 
-An individual authorized to enforce this title—
+    An individual authorized to enforce this title—
 
     (1) may remove a certificate required by this title from a vessel that is operating in a condition that does not comply with the provisions of the certificate;
 

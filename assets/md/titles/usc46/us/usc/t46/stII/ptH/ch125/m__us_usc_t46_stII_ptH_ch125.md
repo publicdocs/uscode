@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12501" data-uslm-ref="/us/usc/t46/s12501">12501.</a>  </td>
 
     <td> Establishment of a vessel identification system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12502" data-uslm-ref="/us/usc/t46/s12502">12502.</a>  </td>
 
     <td> Identification numbers, signal letters, and markings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12503" data-uslm-ref="/us/usc/t46/s12503">12503.</a>  </td>
 
     <td> Information available to the system.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12504" data-uslm-ref="/us/usc/t46/s12504">12504.</a>  </td>
 
     <td> Information available from the system.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12505" data-uslm-ref="/us/usc/t46/s12505">12505.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12506" data-uslm-ref="/us/usc/t46/s12506">12506.</a>  </td>
 
     <td> Delegation of authority.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs12507" data-uslm-ref="/us/usc/t46/s12507">12507.</a>  </td>
 
     <td> Penalties.  </td>
 

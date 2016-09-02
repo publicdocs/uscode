@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14101" data-uslm-ref="/us/usc/t46/s14101">14101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [14102.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14102" data-uslm-ref="/us/usc/t46/s14102">14102.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14103" data-uslm-ref="/us/usc/t46/s14103">14103.</a>  </td>
 
     <td> Delegation of authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs14104" data-uslm-ref="/us/usc/t46/s14104">14104.</a>  </td>
 
     <td> Measurement to determine application of a law.  </td>
 

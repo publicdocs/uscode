@@ -15,7 +15,7 @@
 
 ## § 3301. Vessels subject to inspection
 
-The following categories of vessels are subject to inspection under this part:
+    The following categories of vessels are subject to inspection under this part:
 
     (1) freight vessels.
 

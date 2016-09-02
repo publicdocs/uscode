@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8701" data-uslm-ref="/us/usc/t46/s8701">8701.</a>  </td>
 
     <td> Merchant mariners’ documents required.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8702" data-uslm-ref="/us/usc/t46/s8702">8702.</a>  </td>
 
     <td> Certain crew requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8703" data-uslm-ref="/us/usc/t46/s8703">8703.</a>  </td>
 
     <td> Tankermen on tank vessels.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8704" data-uslm-ref="/us/usc/t46/s8704">8704.</a>  </td>
 
     <td> Alien deemed to be employed in the United States.  </td>
 

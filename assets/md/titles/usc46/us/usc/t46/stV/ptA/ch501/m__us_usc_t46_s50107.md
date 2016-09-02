@@ -15,7 +15,7 @@
 
 ## § 50107. Studies on marine insurance
 
-The Secretary of Transportation shall—
+    The Secretary of Transportation shall—
 
     (1) examine into the subject of marine insurance, the number of companies in the United States, domestic and foreign, engaging in marine insurance, the extent of the insurance on hulls and cargoes placed or written in the United States, and the extent of reinsurance of American maritime risks in foreign companies; and
 

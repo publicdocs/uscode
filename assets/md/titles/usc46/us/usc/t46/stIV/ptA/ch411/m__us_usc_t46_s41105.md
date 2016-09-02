@@ -15,7 +15,7 @@
 
 ## § 41105. Concerted action
 
-A conference or group of two or more common carriers may not—
+    A conference or group of two or more common carriers may not—
 
     (1) boycott or take any other concerted action resulting in an unreasonable refusal to deal;
 

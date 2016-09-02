@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41101" data-uslm-ref="/us/usc/t46/s41101">41101.</a>  </td>
 
     <td> Joint ventures and consortiums.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 41102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41102" data-uslm-ref="/us/usc/t46/s41102">41102.</a>  </td>
 
     <td> General prohibitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 41103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41103" data-uslm-ref="/us/usc/t46/s41103">41103.</a>  </td>
 
     <td> Disclosure of information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 41104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41104" data-uslm-ref="/us/usc/t46/s41104">41104.</a>  </td>
 
     <td> Common carriers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 41105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41105" data-uslm-ref="/us/usc/t46/s41105">41105.</a>  </td>
 
     <td> Concerted action.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 41106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41106" data-uslm-ref="/us/usc/t46/s41106">41106.</a>  </td>
 
     <td> Marine terminal operators.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 41107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41107" data-uslm-ref="/us/usc/t46/s41107">41107.</a>  </td>
 
     <td> Monetary penalties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 41108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41108" data-uslm-ref="/us/usc/t46/s41108">41108.</a>  </td>
 
     <td> Additional penalties.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 41109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs41109" data-uslm-ref="/us/usc/t46/s41109">41109.</a>  </td>
 
     <td> Assessment of penalties.  </td>
 

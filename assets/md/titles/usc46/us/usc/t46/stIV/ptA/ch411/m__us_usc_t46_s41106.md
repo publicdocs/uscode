@@ -15,7 +15,7 @@
 
 ## § 41106. Marine terminal operators
 
-A marine terminal operator may not—
+    A marine terminal operator may not—
 
     (1) agree with another marine terminal operator or with a common carrier to boycott, or unreasonably discriminate in the provision of terminal services to, a common carrier or ocean tramp;
 

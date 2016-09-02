@@ -15,7 +15,7 @@
 
 ## § 40503. Refunds and waivers
 
-The Federal Maritime Commission, on application of a carrier or shipper, may permit a common carrier or conference to refund a portion of the freight charges collected from a shipper, or to waive collection of a portion of the charges from a shipper, if—
+    The Federal Maritime Commission, on application of a carrier or shipper, may permit a common carrier or conference to refund a portion of the freight charges collected from a shipper, or to waive collection of a portion of the charges from a shipper, if—
 
     (1) there is an error in a tariff, a failure to publish a new tariff, or an error in quoting a tariff, and the refund or waiver will not result in discrimination among shippers, ports, or carriers;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8901" data-uslm-ref="/us/usc/t46/s8901">8901.</a>  </td>
 
     <td> Freight vessels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8902" data-uslm-ref="/us/usc/t46/s8902">8902.</a>  </td>
 
     <td> Small passenger vessels.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8903" data-uslm-ref="/us/usc/t46/s8903">8903.</a>  </td>
 
     <td> Self-propelled, uninspected passenger vessels.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8904" data-uslm-ref="/us/usc/t46/s8904">8904.</a>  </td>
 
     <td> Towing vessels.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8905" data-uslm-ref="/us/usc/t46/s8905">8905.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8906" data-uslm-ref="/us/usc/t46/s8906">8906.</a>  </td>
 
     <td> Penalty.  </td>
 

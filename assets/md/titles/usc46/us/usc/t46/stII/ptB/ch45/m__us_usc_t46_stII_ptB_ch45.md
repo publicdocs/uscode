@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4501" data-uslm-ref="/us/usc/t46/s4501">4501.</a>  </td>
 
     <td> Application.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4502" data-uslm-ref="/us/usc/t46/s4502">4502.</a>  </td>
 
     <td> Safety standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4503" data-uslm-ref="/us/usc/t46/s4503">4503.</a>  </td>
 
     <td> Fishing, fish tender, and fish processing vessel certification.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4504" data-uslm-ref="/us/usc/t46/s4504">4504.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4505" data-uslm-ref="/us/usc/t46/s4505">4505.</a>  </td>
 
     <td> Termination of unsafe operations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4506" data-uslm-ref="/us/usc/t46/s4506">4506.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4507" data-uslm-ref="/us/usc/t46/s4507">4507.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs4508" data-uslm-ref="/us/usc/t46/s4508">4508.</a>  </td>
 
     <td> Commercial Fishing Safety Advisory Committee.  </td>
 

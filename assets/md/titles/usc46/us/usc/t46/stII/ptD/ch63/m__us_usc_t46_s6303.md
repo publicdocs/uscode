@@ -15,7 +15,7 @@
 
 ## § 6303. Rights of parties in interest
 
-In an investigation conducted under this chapter, the following shall be allowed to be represented by counsel, to cross-examine witnesses, and to call witnesses:
+    In an investigation conducted under this chapter, the following shall be allowed to be represented by counsel, to cross-examine witnesses, and to call witnesses:
 
     (1) an owner,
 

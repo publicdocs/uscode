@@ -15,7 +15,7 @@
 
 ## § 3201. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “International Safety Management Code” has the same meaning given that term in chapter IX of the Annex to the International Convention for the Safety of Life at Sea, 1974;
 

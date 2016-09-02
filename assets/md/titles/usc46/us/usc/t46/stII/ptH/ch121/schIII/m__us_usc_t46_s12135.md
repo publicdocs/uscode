@@ -15,7 +15,7 @@
 
 ## § 12135. Invalidation of certificates of documentation
 
-A certificate of documentation or an endorsement on the certificate is invalid if the vessel for which it is issued—
+    A certificate of documentation or an endorsement on the certificate is invalid if the vessel for which it is issued—
 
     (1) no longer meets the requirements of this chapter and regulations prescribed under this chapter applicable to the certificate or endorsement; or
 

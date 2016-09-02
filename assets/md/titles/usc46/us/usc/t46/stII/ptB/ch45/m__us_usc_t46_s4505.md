@@ -15,7 +15,7 @@
 
 ## § 4505. Termination of unsafe operations
 
-An official authorized to enforce this chapter—
+    An official authorized to enforce this chapter—
 
     (1) may direct the individual in charge of a vessel to which this chapter applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended; and
 

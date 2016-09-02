@@ -15,7 +15,7 @@
 
 ## § 7316. Lifeboatmen
 
-To qualify for an endorsement as lifeboatman, an applicant must provide satisfactory proof that the applicant—
+    To qualify for an endorsement as lifeboatman, an applicant must provide satisfactory proof that the applicant—
 
     (1) has the service or training required by regulation;
 

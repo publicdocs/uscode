@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50113.md) | [Next](./../../../../../..//us/usc/t46/stV/ptA/ch503/m__us_usc_t46_s50301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptA%2Fch503)
+[Previous](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50113.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptA%2Fch503)
 
 #### CHAPTER 503—ADMINISTRATIVE
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50301" data-uslm-ref="/us/usc/t46/s50301">50301.</a>  </td>
 
     <td> Vessel Operations Revolving Fund.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50302" data-uslm-ref="/us/usc/t46/s50302">50302.</a>  </td>
 
     <td> Port development.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50303" data-uslm-ref="/us/usc/t46/s50303">50303.</a>  </td>
 
     <td> Operating property and extending term of notes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 50304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50304" data-uslm-ref="/us/usc/t46/s50304">50304.</a>  </td>
 
     <td> Sale and transfer of property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 50305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50305" data-uslm-ref="/us/usc/t46/s50305">50305.</a>  </td>
 
     <td> Appointment of trustee or receiver and operation of vessels.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 50306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50306" data-uslm-ref="/us/usc/t46/s50306">50306.</a>  </td>
 
     <td> Requiring testimony and records in investigations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 50307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50307" data-uslm-ref="/us/usc/t46/s50307">50307.</a>  </td>
 
     <td> Maritime environmental and technical assistance program.  </td>
 
@@ -81,18 +81,12 @@
 
 </table>
 
- __Amendments__ 
-
-    2012—[Pub. L. 112–213, title IV, § 403(b)][/us/pl/112/213/s403/b], Dec. 20, 2012, [126 Stat. 1570][/us/stat/126/1570], added item 50307.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50113.md) | [Next](./../../../../../..//us/usc/t46/stV/ptA/ch503/m__us_usc_t46_s50301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptA%2Fch503)
+[Previous](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50113.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptA%2Fch503)
 
 ----------
 ----------
 
-[/us/pl/112/213/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs403%2Fb
-[/us/stat/126/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1570
 
 

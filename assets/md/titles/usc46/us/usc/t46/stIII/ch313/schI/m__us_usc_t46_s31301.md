@@ -15,7 +15,7 @@
 
 ## § 31301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 12506. Delegation of authority
 
-The Secretary of Transportation may delegate to an agency, a State, or a qualified person the authority to—
+    The Secretary of Transportation may delegate to an agency, a State, or a qualified person the authority to—
 
     (1) establish and maintain the vessel identification system; and
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 40101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40101" data-uslm-ref="/us/usc/t46/s40101">40101.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 40102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40102" data-uslm-ref="/us/usc/t46/s40102">40102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 40103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40103" data-uslm-ref="/us/usc/t46/s40103">40103.</a>  </td>
 
     <td> Administrative exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 40104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs40104" data-uslm-ref="/us/usc/t46/s40104">40104.</a>  </td>
 
     <td> Reports filed with the Commission.  </td>
 

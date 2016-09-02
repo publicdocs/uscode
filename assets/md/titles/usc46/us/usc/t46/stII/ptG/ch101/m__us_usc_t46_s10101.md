@@ -15,7 +15,7 @@
 
 ## § 10101. Definitions
 
-In this part—
+    In this part—
 
     (1) “master” means the individual having command of a vessel.
 

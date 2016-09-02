@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs6101" data-uslm-ref="/us/usc/t46/s6101">6101.</a>  </td>
 
     <td> Marine casualties and reporting.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs6102" data-uslm-ref="/us/usc/t46/s6102">6102.</a>  </td>
 
     <td> State marine casualty reporting system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs6103" data-uslm-ref="/us/usc/t46/s6103">6103.</a>  </td>
 
     <td> Penalty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs6104" data-uslm-ref="/us/usc/t46/s6104">6104.</a>  </td>
 
     <td> Commercial fishing industry vessel casualty statistics.  </td>
 

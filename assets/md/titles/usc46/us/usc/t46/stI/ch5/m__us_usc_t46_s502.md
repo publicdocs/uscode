@@ -15,7 +15,7 @@
 
 ## § 502. Cargo exempt from forfeiture
 
-Cargo on a vessel is exempt from forfeiture under this title if—
+    Cargo on a vessel is exempt from forfeiture under this title if—
 
     (1) the cargo is owned in good faith by a person not the owner, master, or crewmember of the vessel; and
 

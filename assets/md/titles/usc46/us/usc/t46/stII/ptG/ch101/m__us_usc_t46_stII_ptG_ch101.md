@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10101" data-uslm-ref="/us/usc/t46/s10101">10101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [10102.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10102" data-uslm-ref="/us/usc/t46/s10102">10102.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10103" data-uslm-ref="/us/usc/t46/s10103">10103.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs10104" data-uslm-ref="/us/usc/t46/s10104">10104.</a>  </td>
 
     <td> Requirement to report sexual offenses.  </td>
 

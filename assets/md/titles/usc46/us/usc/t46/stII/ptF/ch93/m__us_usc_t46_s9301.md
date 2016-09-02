@@ -15,7 +15,7 @@
 
 ## § 9301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “Canadian registered pilot” means an individual (except a regular crewmember of a vessel) who is registered by Canada on the same basis as an individual registered under [section 9303 of this title][/us/usc/t46/s9303].
 

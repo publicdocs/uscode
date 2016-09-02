@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7701" data-uslm-ref="/us/usc/t46/s7701">7701.</a>  </td>
 
     <td> General.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7702" data-uslm-ref="/us/usc/t46/s7702">7702.</a>  </td>
 
     <td> Administrative procedure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7703" data-uslm-ref="/us/usc/t46/s7703">7703.</a>  </td>
 
     <td> Bases for suspension or revocation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7704" data-uslm-ref="/us/usc/t46/s7704">7704.</a>  </td>
 
     <td> Dangerous drugs as grounds for revocation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7705" data-uslm-ref="/us/usc/t46/s7705">7705.</a>  </td>
 
     <td> Subpenas and oaths.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7706" data-uslm-ref="/us/usc/t46/s7706">7706.</a>  </td>
 
     <td> Drug testing reporting.  </td>
 

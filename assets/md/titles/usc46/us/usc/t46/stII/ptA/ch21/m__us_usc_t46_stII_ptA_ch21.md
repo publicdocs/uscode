@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2101" data-uslm-ref="/us/usc/t46/s2101">2101.</a>  </td>
 
     <td> General definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2102" data-uslm-ref="/us/usc/t46/s2102">2102.</a>  </td>
 
     <td> Limited definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2103" data-uslm-ref="/us/usc/t46/s2103">2103.</a>  </td>
 
     <td> Superintendence of the merchant marine.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2104" data-uslm-ref="/us/usc/t46/s2104">2104.</a>  </td>
 
     <td> Delegation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2105" data-uslm-ref="/us/usc/t46/s2105">2105.</a>  </td>
 
     <td> Report.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2106" data-uslm-ref="/us/usc/t46/s2106">2106.</a>  </td>
 
     <td> Liability in rem.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2107" data-uslm-ref="/us/usc/t46/s2107">2107.</a>  </td>
 
     <td> Civil penalty procedures.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2108.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2108" data-uslm-ref="/us/usc/t46/s2108">2108.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2109" data-uslm-ref="/us/usc/t46/s2109">2109.</a>  </td>
 
     <td> Public vessels.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2110" data-uslm-ref="/us/usc/t46/s2110">2110.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2111" data-uslm-ref="/us/usc/t46/s2111">2111.</a>  </td>
 
     <td> Pay for overtime services.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2112" data-uslm-ref="/us/usc/t46/s2112">2112.</a>  </td>
 
     <td> Authority to change working hours.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2113" data-uslm-ref="/us/usc/t46/s2113">2113.</a>  </td>
 
     <td> Authority to exempt certain vessels.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2114" data-uslm-ref="/us/usc/t46/s2114">2114.</a>  </td>
 
     <td> Protection of seamen against discrimination.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2115" data-uslm-ref="/us/usc/t46/s2115">2115.</a>  </td>
 
     <td> Civil penalty to enforce alcohol and dangerous drug testing.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2116" data-uslm-ref="/us/usc/t46/s2116">2116.</a>  </td>
 
     <td> Marine safety strategy, goals, and performance assessments.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2117" data-uslm-ref="/us/usc/t46/s2117">2117.</a>  </td>
 
     <td> Termination for unsafe operation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs2118" data-uslm-ref="/us/usc/t46/s2118">2118.</a>  </td>
 
     <td> Establishment of equipment standards.  </td>
 

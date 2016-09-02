@@ -15,7 +15,7 @@
 
 ## § 3719. Reduction of oil spills from single hull non-self-propelled tank vessels
 
-The Secretary shall, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and the size and nature of service of single hull non-self-propelled tank vessels and towing vessels, prescribe regulations requiring a single hull non-self-propelled tank vessel that operates in the open ocean or coastal waters, or the vessel towing it, to have at least one of the following:
+    The Secretary shall, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and the size and nature of service of single hull non-self-propelled tank vessels and towing vessels, prescribe regulations requiring a single hull non-self-propelled tank vessel that operates in the open ocean or coastal waters, or the vessel towing it, to have at least one of the following:
 
     (1) A crew member and an operable anchor on board the tank vessel that together are capable of arresting the tank vessel without additional assistance under reasonably foreseeable sea conditions.
 

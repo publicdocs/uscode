@@ -15,7 +15,7 @@
 
 ## § 4101. Application
 
-This chapter applies to an uninspected vessel not subject to chapter 45 of this title—
+    This chapter applies to an uninspected vessel not subject to chapter 45 of this title—
 
     (1) on the navigable waters of the United States; or
 
