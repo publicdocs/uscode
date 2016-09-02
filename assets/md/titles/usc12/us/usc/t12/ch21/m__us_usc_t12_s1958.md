@@ -15,13 +15,19 @@
 
 ## § 1958. Compliance
 
-    The Secretary shall have the responsibility to assure compliance with the requirements of this chapter and sections 1730d  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 1829b of this title and may delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency.
+    The Secretary shall have the responsibility to assure compliance with the requirements of this chapter and [section 1829b of this title][/us/usc/t12/s1829b] and may delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency. The Secretary may rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that the category of financial institution is required to comply with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]), or the State supervisory agency examines the category of financial institution for compliance with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]).
 
-([Pub. L. 91–508, title I, § 128][/us/pl/91/508/s128], Oct. 26, 1970, [84 Stat. 1118][/us/stat/84/1118].)
+([Pub. L. 91–508, title I, § 128][/us/pl/91/508/s128], Oct. 26, 1970, [84 Stat. 1118][/us/stat/84/1118]; [Pub. L. 113–156, § 2(b)][/us/pl/113/156/s2/b], Aug. 8, 2014, [128 Stat. 1829][/us/stat/128/1829].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    [Section 1730d of this title][/us/usc/t12/s1730d], referred to in text, was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    2014—[Pub. L. 113–156][/us/pl/113/156] substituted “requirements of this chapter and [section 1829b of this title][/us/usc/t12/s1829b]” for “requirements of this chapter and sections 1730d and 1829b of this title” and inserted at end “The Secretary may rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that the category of financial institution is required to comply with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]), or the State supervisory agency examines the category of financial institution for compliance with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]).”
+
+ __Consultation with State Agencies__ 
+
+[Pub. L. 113–156, § 2(c)][/us/pl/113/156/s2/c], Aug. 8, 2014, [128 Stat. 1830][/us/stat/128/1830], provided that: 
+
+> “In issuing rules to carry out [section 5318(a)(6) of title 31][/us/usc/t31/s5318/a/6], United States Code, and [section 128 of Public Law 91–508][/us/pl/91/508/s128] ([12 U.S.C. 1958][/us/usc/t12/s1958]), the Secretary of the Treasury shall consult with State supervisory agencies.”
 
 ----------
 
@@ -30,10 +36,25 @@
 ----------
 ----------
 
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/pl/91/508/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs128
 [/us/stat/84/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1118
-[/us/usc/t12/s1730d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730d
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
-[/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
+[/us/pl/113/156/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156%2Fs2%2Fb
+[/us/stat/128/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1829
+[/us/pl/113/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
+[/us/pl/113/156/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156%2Fs2%2Fc
+[/us/stat/128/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1830
+[/us/usc/t31/s5318/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318%2Fa%2F6
+[/us/pl/91/508/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs128
+[/us/usc/t12/s1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1958
 
 

@@ -71,7 +71,7 @@
 
         (1) __“Remaining useful life” defined__ 
 
-            For purposes of this title, <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  the term “remaining useful life” means, with respect to eligible low-income housing, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
+            For purposes of this title,1 the term “remaining useful life” means, with respect to eligible low-income housing, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
         (2) __Standards__ 
 
@@ -97,7 +97,7 @@
 
             The Secretary shall take any action appropriate to require the owner of any housing not in compliance with such standards to bring such housing into compliance with the standards, including—
 
-                (i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) 3 of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
+                (i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) 1 of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
 
                 (ii) reduce the amount of the annual authorized return, as determined by the Secretary, for the period ending upon a determination by the Secretary that the project is in compliance with the standards and requiring that such amounts be used for repair.
 
@@ -111,7 +111,7 @@
 
                 (i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(o) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-                (ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title, declare such loan to be in default and accelerate the maturity date of the loan.
+                (ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) 1 of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
                 (iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 

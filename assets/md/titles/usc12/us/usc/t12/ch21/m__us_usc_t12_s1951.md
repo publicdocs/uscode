@@ -29,6 +29,12 @@
 
 >     “(b) The Secretary of the Treasury may by regulation provide that any provision of title I or II or any amendment made thereby \[enacting this chapter and sections 1730d and 1829b of this title\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–156, § 1][/us/pl/113/156/s1], Aug. 8, 2014, [128 Stat. 1829][/us/stat/128/1829], provided that: 
+
+> “This Act \[amending [section 1958 of this title][/us/usc/t12/s1958] and [section 5318 of title 31][/us/usc/t31/s5318], Money and Finance\] may be cited as the ‘Money Remittances Improvement Act of 2014’.”
+
  __Short Title__ 
 
     Title I of [Pub. L. 91–508, title II][/us/pl/91/508] of [Pub. L. 91–508][/us/pl/91/508], titles I and II of [Pub. L. 91–508][/us/pl/91/508], and subchapter II of chapter 53 of Title 31, Money and Finance, have each been popularly known as the “Bank Secrecy Act”. Title I of [Pub. L. 91–508][/us/pl/91/508], Oct. 26, 1970, [84 Stat. 1114][/us/stat/84/1114], as amended, enacted this chapter, former [section 1730d of this title][/us/usc/t12/s1730d], and [section 1829b of this title][/us/usc/t12/s1829b]. Title II of [Pub. L. 91–508][/us/pl/91/508], Oct. 26, 1970, [84 Stat. 1118][/us/stat/84/1118], as amended, also known as the Currency and Foreign Transactions Reporting Act, enacted chapter 21 (§ 1051 et seq.) of former Title 31, Money and Finance, which was repealed and reenacted as subchapter II of chapter 53 of Title 31, Money and Finance, by [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31. For complete classification of [Pub. L. 91–508][/us/pl/91/508] to the Code, see Tables.
@@ -48,6 +54,10 @@
 [/us/stat/84/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1125
 [/us/usc/t15/s78g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78g
 [/us/usc/t15/s78g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78g
+[/us/pl/113/156/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156%2Fs1
+[/us/stat/128/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1829
+[/us/usc/t12/s1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1958
+[/us/usc/t31/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508

@@ -35,7 +35,7 @@
 
         After December 19, 1991, notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\], in order to accept or maintain domestic retail deposit accounts having balances of less than an amount equal to the standard maximum deposit insurance amount, and requiring deposit insurance protection, a foreign bank shall—
 
-            (A) establish 1 or more banking subsidies in the United States for that purpose; and
+            (A) establish 1 or more banking subsidiaries in the United States for that purpose; and
 
             (B) obtain Federal deposit insurance for any such subsidiary in accordance with the Federal Deposit Insurance Act.
 

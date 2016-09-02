@@ -117,7 +117,25 @@
 
         Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
-([Pub. L. 90–448, § 3][/us/pl/90/448/s3], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]; [Pub. L. 91–152, title IV, § 404][/us/pl/91/152/s404], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 93–383, title I, § 118][/us/pl/93/383/s118], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; [Pub. L. 96–399, title III, § 329][/us/pl/96/399/s329], Oct. 8, 1980, [94 Stat. 1651][/us/stat/94/1651]; [Pub. L. 102–550, title IX, § 915][/us/pl/102/550/s915], Oct. 28, 1992, [106 Stat. 3878][/us/stat/106/3878]; [Pub. L. 109–281, § 2(d)(1)][/us/pl/109/281/s2/d/1], Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181].)
+([Pub. L. 90–448, § 3][/us/pl/90/448/s3], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]; [Pub. L. 91–152, title IV, § 404][/us/pl/91/152/s404], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 93–383, title I, § 118][/us/pl/93/383/s118], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; [Pub. L. 96–399, title III, § 329][/us/pl/96/399/s329], Oct. 8, 1980, [94 Stat. 1651][/us/stat/94/1651]; [Pub. L. 102–550, title IX, § 915][/us/pl/102/550/s915], Oct. 28, 1992, [106 Stat. 3878][/us/stat/106/3878]; [Pub. L. 109–281, § 2(d)(1)][/us/pl/109/281/s2/d/1], Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181]; [Pub. L. 113–128, title V, § 512(p)][/us/pl/113/128/s512/p], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(p), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (c):
+
+    (A) in paragraph (1)(B)(iii), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
+
+    (B) in paragraph (2)(B), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
+
+    (2) in subsection (d):
+
+    (A) in paragraph (1)(B)(iii), by striking “To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
+
+    (B) in paragraph (2)(B), by striking “to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -130,6 +148,14 @@
     October 28, 1992, referred to in subsec. (g), was in the original “the date of enactment of the National Affordable Housing Act Amendments of 1992”, and was translated as meaning the date of enactment of the Housing and Community Development Act of 1992, [Pub. L. 102–550][/us/pl/102/550], which amended this section generally, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(B)(iii). [Pub. L. 113–128, § 512(p)(1)(A)][/us/pl/113/128/s512/p/1/A], substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+
+    Subsec. (c)(2)(B). [Pub. L. 113–128, § 512(p)(1)(B)][/us/pl/113/128/s512/p/1/B], substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+
+    Subsec. (d)(1)(B)(iii). [Pub. L. 113–128, § 512(p)(2)(A)][/us/pl/113/128/s512/p/2/A], substituted “To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+
+    Subsec. (d)(2)(B). [Pub. L. 113–128, § 512(p)(2)(B)][/us/pl/113/128/s512/p/2/B], substituted “to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
 
     2006—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). [Pub. L. 109–281][/us/pl/109/281] substituted “YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” for “Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act”.
 
@@ -146,6 +172,10 @@
     1974—[Pub. L. 93–383][/us/pl/93/383] inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
     1969—[Pub. L. 91–152][/us/pl/91/152] substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715l(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -235,9 +265,33 @@
 [/us/stat/106/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3878
 [/us/pl/109/281/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Fd%2F1
 [/us/stat/120/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1181
+[/us/pl/113/128/s512/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp
+[/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/113/128/s512/p/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F1%2FA
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/pl/113/128/s512/p/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F1%2FB
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/pl/113/128/s512/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F2%2FA
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/pl/113/128/s512/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F2%2FB
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
 [/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
@@ -245,6 +299,9 @@
 [/us/pl/96/399/s329/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs329%2F2
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/109/281/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Ff
 [/us/stat/120/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1182
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
