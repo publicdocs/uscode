@@ -15,7 +15,7 @@
 
 ## § 601. Applicability
 
-This chapter applies to—
+    This chapter applies to—
 
     (1) members of a uniformed service who are on active duty (other than for training) or who are on a retired list of that service; and
 

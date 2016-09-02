@@ -33,7 +33,7 @@ SUBCHAPTER I—TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW  </td>
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs451" data-uslm-ref="/us/usc/t37/s451">451.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW  </td>
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs452" data-uslm-ref="/us/usc/t37/s452">452.</a>  </td>
 
     <td> Allowable travel and transportation: general authorities.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW  </td>
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs453" data-uslm-ref="/us/usc/t37/s453">453.</a>  </td>
 
     <td> Allowable travel and transportation: specific authorities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW  </td>
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs454" data-uslm-ref="/us/usc/t37/s454">454.</a>  </td>
 
     <td> Travel and transportation: pilot programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW  </td>
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs455" data-uslm-ref="/us/usc/t37/s455">455.</a>  </td>
 
     <td> Appropriations for travel: may not be used for attendance at certain meetings.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs461" data-uslm-ref="/us/usc/t37/s461">461.</a>  </td>
 
     <td> Relationship to other travel and transportation authorities.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs462" data-uslm-ref="/us/usc/t37/s462">462.</a>  </td>
 
     <td> Travel and transportation allowances paid to members that are unauthorized or in excess of authorized amounts: requirement for repayment.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs463" data-uslm-ref="/us/usc/t37/s463">463.</a>  </td>
 
     <td> Program of compliance; electronic processing of travel claims. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs464" data-uslm-ref="/us/usc/t37/s464">464.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs471" data-uslm-ref="/us/usc/t37/s471">471.</a>  </td>
 
     <td> Travel authorities transition expiration date.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs472" data-uslm-ref="/us/usc/t37/s472">472.</a>  </td>
 
     <td> Definitions and other incorporated provisions of chapter 7.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs474" data-uslm-ref="/us/usc/t37/s474">474.</a>  </td>
 
     <td> Travel and transportation allowances: general.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 474a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs474a" data-uslm-ref="/us/usc/t37/s474a">474a.</a>  </td>
 
     <td> Travel and transportation allowances: temporary lodging expenses.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 474b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs474b" data-uslm-ref="/us/usc/t37/s474b">474b.</a>  </td>
 
     <td> Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs475" data-uslm-ref="/us/usc/t37/s475">475.</a>  </td>
 
     <td> Travel and transportation allowances: per diem while on duty outside the continental United States.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 475a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs475a" data-uslm-ref="/us/usc/t37/s475a">475a.</a>  </td>
 
     <td> Travel and transportation allowances: departure allowances.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs476" data-uslm-ref="/us/usc/t37/s476">476.</a>  </td>
 
     <td> Travel and transportation allowances: dependents; baggage and household effects.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 476a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs476a" data-uslm-ref="/us/usc/t37/s476a">476a.</a>  </td>
 
     <td> Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 476b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs476b" data-uslm-ref="/us/usc/t37/s476b">476b.</a>  </td>
 
     <td> Travel and transportation allowances: members of the uniformed services attached to a ship overhauling or inactivating.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 476c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs476c" data-uslm-ref="/us/usc/t37/s476c">476c.</a>  </td>
 
     <td> Travel and transportation allowances: members assigned to a vessel under construction.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs477" data-uslm-ref="/us/usc/t37/s477">477.</a>  </td>
 
     <td> Travel and transportation allowances: dislocation allowance.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs478" data-uslm-ref="/us/usc/t37/s478">478.</a>  </td>
 
     <td> Travel and transportation allowances: travel within limits of duty station.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 478a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs478a" data-uslm-ref="/us/usc/t37/s478a">478a.</a>  </td>
 
     <td> Travel and transportation allowances: inactive duty training outside of the normal commuting distances. <sup>[1]</sup>   </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs479" data-uslm-ref="/us/usc/t37/s479">479.</a>  </td>
 
     <td> Travel and transportation allowances: house trailers and mobile homes.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs480" data-uslm-ref="/us/usc/t37/s480">480.</a>  </td>
 
     <td> Travel and transportation allowances: miscellaneous categories.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481" data-uslm-ref="/us/usc/t37/s481">481.</a>  </td>
 
     <td> Travel and transportation allowances: administrative provisions.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481a" data-uslm-ref="/us/usc/t37/s481a">481a.</a>  </td>
 
     <td> Travel and transportation allowances: travel performed in connection with convalescent leave.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481b" data-uslm-ref="/us/usc/t37/s481b">481b.</a>  </td>
 
     <td> Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481c" data-uslm-ref="/us/usc/t37/s481c">481c.</a>  </td>
 
     <td> Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481d" data-uslm-ref="/us/usc/t37/s481d">481d.</a>  </td>
 
     <td> Travel and transportation allowances: transportation incident to personal emergencies for certain members and dependents.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481e" data-uslm-ref="/us/usc/t37/s481e">481e.</a>  </td>
 
     <td> Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481f" data-uslm-ref="/us/usc/t37/s481f">481f.</a>  </td>
 
     <td> Travel and transportation allowances: transportation for survivors of deceased member to attend the member’s burial ceremonies. <sup>[1]</sup>   </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481h" data-uslm-ref="/us/usc/t37/s481h">481h.</a>  </td>
 
     <td> Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481i" data-uslm-ref="/us/usc/t37/s481i">481i.</a>  </td>
 
     <td> Travel and transportation allowances: parking expenses.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481j" data-uslm-ref="/us/usc/t37/s481j">481j.</a>  </td>
 
     <td> Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481k" data-uslm-ref="/us/usc/t37/s481k">481k.</a>  </td>
 
     <td> Travel and transportation allowances: non-medical attendants for members determined to be very seriously or seriously wounded, ill, or injured. <sup>[1]</sup>   </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 481l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs481l" data-uslm-ref="/us/usc/t37/s481l">481l.</a>  </td>
 
     <td> Travel and transportation allowances: attendance of members and others at Yellow Ribbon Reintegration Program events. <sup>[1]</sup>   </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs484" data-uslm-ref="/us/usc/t37/s484">484.</a>  </td>
 
     <td> Travel and transportation: dependents of members in a missing status; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable. <sup>[1]</sup>   </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs488" data-uslm-ref="/us/usc/t37/s488">488.</a>  </td>
 
     <td> Allowance for recruiting expenses.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs489" data-uslm-ref="/us/usc/t37/s489">489.</a>  </td>
 
     <td> Travel and transportation allowances: minor dependent schooling.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs490" data-uslm-ref="/us/usc/t37/s490">490.</a>  </td>
 
     <td> Travel and transportation: dependent children of members stationed overseas.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs491" data-uslm-ref="/us/usc/t37/s491">491.</a>  </td>
 
     <td> Benefits for certain members assigned to the Defense Intelligence Agency.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs492" data-uslm-ref="/us/usc/t37/s492">492.</a>  </td>
 
     <td> Travel and transportation: members escorting certain dependents.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs494" data-uslm-ref="/us/usc/t37/s494">494.</a>  </td>
 
     <td> Subsistence reimbursement relating to escorts of foreign arms control inspection teams.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW  </td>
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs495" data-uslm-ref="/us/usc/t37/s495">495.</a>  </td>
 
     <td> Funeral honors duty: allowance.  </td>
 

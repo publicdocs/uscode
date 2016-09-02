@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs701" data-uslm-ref="/us/usc/t37/s701">701.</a>  </td>
 
     <td> Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [702.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs702" data-uslm-ref="/us/usc/t37/s702">702.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs703" data-uslm-ref="/us/usc/t37/s703">703.</a>  </td>
 
     <td> Allotments: members of Coast Guard.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs704" data-uslm-ref="/us/usc/t37/s704">704.</a>  </td>
 
     <td> Allotments: officers of Public Health Service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [705.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs705" data-uslm-ref="/us/usc/t37/s705">705.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs706" data-uslm-ref="/us/usc/t37/s706">706.</a>  </td>
 
     <td> Allotments: commissioned officers of the National Oceanic and Atmospheric Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs707" data-uslm-ref="/us/usc/t37/s707">707.</a>  </td>
 
     <td> Allotments: members of the National Guard.  </td>
 

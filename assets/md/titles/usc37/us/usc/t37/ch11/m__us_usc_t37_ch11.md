@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs601" data-uslm-ref="/us/usc/t37/s601">601.</a>  </td>
 
     <td> Applicability.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs602" data-uslm-ref="/us/usc/t37/s602">602.</a>  </td>
 
     <td> Payments: designation of person to receive amounts due.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs603" data-uslm-ref="/us/usc/t37/s603">603.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs604" data-uslm-ref="/us/usc/t37/s604">604.</a>  </td>
 
     <td> Determination of Secretary final.  </td>
 

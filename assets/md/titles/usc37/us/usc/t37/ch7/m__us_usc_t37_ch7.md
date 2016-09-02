@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs401" data-uslm-ref="/us/usc/t37/s401">401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs402" data-uslm-ref="/us/usc/t37/s402">402.</a>  </td>
 
     <td> Basic allowance for subsistence.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 402a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs402a" data-uslm-ref="/us/usc/t37/s402a">402a.</a>  </td>
 
     <td> Supplemental subsistence allowance for low-income members with dependents.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs403" data-uslm-ref="/us/usc/t37/s403">403.</a>  </td>
 
     <td> Basic allowance for housing.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [403a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs403a" data-uslm-ref="/us/usc/t37/s403a">403a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 403b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs403b" data-uslm-ref="/us/usc/t37/s403b">403b.</a>  </td>
 
     <td> Cost-of-living allowance in the continental United States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [404 to 412.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs404" data-uslm-ref="/us/usc/t37/s404">404</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs412" data-uslm-ref="/us/usc/t37/s412">412.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs413" data-uslm-ref="/us/usc/t37/s413">413.</a>  </td>
 
     <td> Chairman and Vice Chairman of the Joint Chiefs of Staff.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs414" data-uslm-ref="/us/usc/t37/s414">414.</a>  </td>
 
     <td> Personal money allowance.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs415" data-uslm-ref="/us/usc/t37/s415">415.</a>  </td>
 
     <td> Uniform allowance: officers; initial allowance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs416" data-uslm-ref="/us/usc/t37/s416">416.</a>  </td>
 
     <td> Uniform allowance: officers; additional allowances.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs417" data-uslm-ref="/us/usc/t37/s417">417.</a>  </td>
 
     <td> Uniform allowance: officers; general provisions.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs418" data-uslm-ref="/us/usc/t37/s418">418.</a>  </td>
 
     <td> Clothing allowance: enlisted members.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs419" data-uslm-ref="/us/usc/t37/s419">419.</a>  </td>
 
     <td> Civilian clothing allowance.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs420" data-uslm-ref="/us/usc/t37/s420">420.</a>  </td>
 
     <td> Allowances while participating in international sports.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs421" data-uslm-ref="/us/usc/t37/s421">421.</a>  </td>
 
     <td> Allowances: no increase while dependent is entitled to basic pay.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs422" data-uslm-ref="/us/usc/t37/s422">422.</a>  </td>
 
     <td> Cadets and midshipmen.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs423" data-uslm-ref="/us/usc/t37/s423">423.</a>  </td>
 
     <td> Validity of allowance payments based on purported marriages.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs424" data-uslm-ref="/us/usc/t37/s424">424.</a>  </td>
 
     <td> Band leaders.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs425" data-uslm-ref="/us/usc/t37/s425">425.</a>  </td>
 
     <td> United States Navy Band; United States Marine Corps Band: allowances while on concert tour.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> [426.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs426" data-uslm-ref="/us/usc/t37/s426">426.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs427" data-uslm-ref="/us/usc/t37/s427">427.</a>  </td>
 
     <td> Family separation allowance.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> [428 to 432.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs428" data-uslm-ref="/us/usc/t37/s428">428</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs432" data-uslm-ref="/us/usc/t37/s432">432.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs433" data-uslm-ref="/us/usc/t37/s433">433.</a>  </td>
 
     <td> Allowance for muster duty.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 433a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs433a" data-uslm-ref="/us/usc/t37/s433a">433a.</a>  </td>
 
     <td> Allowance for participation in Ready Reserve screening.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> [434, 435.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs434" data-uslm-ref="/us/usc/t37/s434">434</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs435" data-uslm-ref="/us/usc/t37/s435">435.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs436" data-uslm-ref="/us/usc/t37/s436">436.</a>  </td>
 
     <td> High-deployment allowance: lengthy or numerous deployments; frequent mobilizations.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs437" data-uslm-ref="/us/usc/t37/s437">437.</a>  </td>
 
     <td> Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs438" data-uslm-ref="/us/usc/t37/s438">438.</a>  </td>
 
     <td> Preventive health services allowance.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs439" data-uslm-ref="/us/usc/t37/s439">439.</a>  </td>
 
     <td> Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living.  </td>
 

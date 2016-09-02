@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t37/ch1/m__us_usc_t37_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37)
 
-# 
-
-Title 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
+# Title 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
 This title was enacted by [Pub. L. 87–649, § 1][/us/pl/87/649/s1], Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451]
+
+Current through 113–44
 
 <table>
 
@@ -33,121 +33,121 @@ This title was enacted by [Pub. L. 87–649, § 1][/us/pl/87/649/s1], Sept. 7,
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch1" data-uslm-ref="/us/usc/t37/ch1">1.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs101" data-uslm-ref="/us/usc/t37/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch3" data-uslm-ref="/us/usc/t37/ch3">3.</a>  </td>
 
     <td> Basic Pay  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs201" data-uslm-ref="/us/usc/t37/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch5" data-uslm-ref="/us/usc/t37/ch5">5.</a>  </td>
 
     <td> Special and Incentive Pays  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301" data-uslm-ref="/us/usc/t37/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch7" data-uslm-ref="/us/usc/t37/ch7">7.</a>  </td>
 
     <td> Allowances Other Than Travel and Transportation Allowances  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs401" data-uslm-ref="/us/usc/t37/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch8" data-uslm-ref="/us/usc/t37/ch8">8.</a>  </td>
 
     <td> Travel and Transportation Allowances  </td>
 
-    <td> 451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs451" data-uslm-ref="/us/usc/t37/s451">451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch9" data-uslm-ref="/us/usc/t37/ch9">9.</a>  </td>
 
     <td> Leave  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs501" data-uslm-ref="/us/usc/t37/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch10" data-uslm-ref="/us/usc/t37/ch10">10.</a>  </td>
 
     <td> Payments to Missing Persons  </td>
 
-    <td> 551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs551" data-uslm-ref="/us/usc/t37/s551">551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch11" data-uslm-ref="/us/usc/t37/ch11">11.</a>  </td>
 
     <td> Payments to Mentally Incompetent Persons  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs601" data-uslm-ref="/us/usc/t37/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch13" data-uslm-ref="/us/usc/t37/ch13">13.</a>  </td>
 
     <td> Allotments and Assignments of Pay  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs701" data-uslm-ref="/us/usc/t37/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch15" data-uslm-ref="/us/usc/t37/ch15">15.</a>  </td>
 
     <td> Prohibitions and Penalties  </td>
 
-    <td> 801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs801" data-uslm-ref="/us/usc/t37/s801">801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch17" data-uslm-ref="/us/usc/t37/ch17">17.</a>  </td>
 
     <td> Miscellaneous Rights and Benefits  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs901" data-uslm-ref="/us/usc/t37/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fch19" data-uslm-ref="/us/usc/t37/ch19">19.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs1001" data-uslm-ref="/us/usc/t37/s1001">1001</a>  </td>
 
   </tr>
 

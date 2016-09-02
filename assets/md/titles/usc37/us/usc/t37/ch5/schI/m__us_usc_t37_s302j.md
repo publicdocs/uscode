@@ -19,9 +19,9 @@
 
     A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2013, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
-    (b) __Limitation on Amount of Bonus.—__ 
+    (b) __Limitation on Amount of Bonus.__ 
 
-    The amount of an accession bonus under subsection (a) may not exceed $30,000.
+    —The amount of an accession bonus under subsection (a) may not exceed $30,000.
 
     (c) __Limitation on Eligibility for Bonus.—__ 
 

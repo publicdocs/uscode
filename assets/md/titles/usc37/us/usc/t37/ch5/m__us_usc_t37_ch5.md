@@ -33,7 +33,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301" data-uslm-ref="/us/usc/t37/s301">301.</a>  </td>
 
     <td> Incentive pay: hazardous duty.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301a" data-uslm-ref="/us/usc/t37/s301a">301a.</a>  </td>
 
     <td> Incentive pay: aviation career.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301b" data-uslm-ref="/us/usc/t37/s301b">301b.</a>  </td>
 
     <td> Special pay: aviation career officers extending period of active duty.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301c" data-uslm-ref="/us/usc/t37/s301c">301c.</a>  </td>
 
     <td> Incentive pay: submarine duty.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301d" data-uslm-ref="/us/usc/t37/s301d">301d.</a>  </td>
 
     <td> Multiyear retention bonus: medical officers of the armed forces.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 301e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs301e" data-uslm-ref="/us/usc/t37/s301e">301e.</a>  </td>
 
     <td> Multiyear retention bonus: dental officers of the armed forces.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302" data-uslm-ref="/us/usc/t37/s302">302.</a>  </td>
 
     <td> Special pay: medical officers of the armed forces.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302a" data-uslm-ref="/us/usc/t37/s302a">302a.</a>  </td>
 
     <td> Special pay: optometrists.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302b" data-uslm-ref="/us/usc/t37/s302b">302b.</a>  </td>
 
     <td> Special pay: dental officers of the armed forces.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302c" data-uslm-ref="/us/usc/t37/s302c">302c.</a>  </td>
 
     <td> Special pay: psychologists and nonphysician health care providers.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302c%E2%80%931" data-uslm-ref="/us/usc/t37/s302c–1">302c–1.</a>  </td>
 
     <td> Special pay: accession and retention bonuses for psychologists.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302d" data-uslm-ref="/us/usc/t37/s302d">302d.</a>  </td>
 
     <td> Special pay: accession bonus for registered nurses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302e" data-uslm-ref="/us/usc/t37/s302e">302e.</a>  </td>
 
     <td> Special pay: nurse anesthetists.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302f" data-uslm-ref="/us/usc/t37/s302f">302f.</a>  </td>
 
     <td> Special pay: reserve, recalled, or retained health care officers.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302g" data-uslm-ref="/us/usc/t37/s302g">302g.</a>  </td>
 
     <td> Special pay: Selected Reserve health care professionals in critically short wartime specialties.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302h" data-uslm-ref="/us/usc/t37/s302h">302h.</a>  </td>
 
     <td> Special pay: accession bonus for dental officers.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302i" data-uslm-ref="/us/usc/t37/s302i">302i.</a>  </td>
 
     <td> Special pay: pharmacy officers.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302j" data-uslm-ref="/us/usc/t37/s302j">302j.</a>  </td>
 
     <td> Special pay: accession bonus for pharmacy officers.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302k" data-uslm-ref="/us/usc/t37/s302k">302k.</a>  </td>
 
     <td> Special pay: accession bonus for medical officers in critically short wartime specialties.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 302l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs302" data-uslm-ref="/us/usc/t37/s302">302</a>l.  </td>
 
     <td> Special pay: accession bonus for dental specialist officers in critically short wartime specialties.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs303" data-uslm-ref="/us/usc/t37/s303">303.</a>  </td>
 
     <td> Special pay: veterinarians.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 303a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs303a" data-uslm-ref="/us/usc/t37/s303a">303a.</a>  </td>
 
     <td> Special pay: general provisions.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 303b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs303b" data-uslm-ref="/us/usc/t37/s303b">303b.</a>  </td>
 
     <td> Waiver of board certification requirements.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs304" data-uslm-ref="/us/usc/t37/s304">304.</a>  </td>
 
     <td> Special pay: diving duty.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs305" data-uslm-ref="/us/usc/t37/s305">305.</a>  </td>
 
     <td> Special pay: hardship duty pay.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 305a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs305a" data-uslm-ref="/us/usc/t37/s305a">305a.</a>  </td>
 
     <td> Special pay: career sea pay.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 305b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs305b" data-uslm-ref="/us/usc/t37/s305b">305b.</a>  </td>
 
     <td> Special pay: service as member of Weapons of Mass Destruction Civil Support Team.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs306" data-uslm-ref="/us/usc/t37/s306">306.</a>  </td>
 
     <td> Special pay: officers holding positions of unusual responsibility and of critical nature.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs306a" data-uslm-ref="/us/usc/t37/s306a">306a.</a>  </td>
 
     <td> Special pay: members assigned to international military headquarters.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs307" data-uslm-ref="/us/usc/t37/s307">307.</a>  </td>
 
     <td> Special pay: special duty assignment pay for enlisted members.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 307a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs307a" data-uslm-ref="/us/usc/t37/s307a">307a.</a>  </td>
 
     <td> Special pay: assignment incentive pay.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308" data-uslm-ref="/us/usc/t37/s308">308.</a>  </td>
 
     <td> Special pay: reenlistment bonus.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [308a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308a" data-uslm-ref="/us/usc/t37/s308a">308a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308b" data-uslm-ref="/us/usc/t37/s308b">308b.</a>  </td>
 
     <td> Special pay: reenlistment bonus for members of the Selected Reserve.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308c" data-uslm-ref="/us/usc/t37/s308c">308c.</a>  </td>
 
     <td> Special pay: bonus for affiliation or enlistment in the Selected Reserve.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308d" data-uslm-ref="/us/usc/t37/s308d">308d.</a>  </td>
 
     <td> Special pay: members of the Selected Reserve assigned to certain high priority units.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [308e, 308f.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308e" data-uslm-ref="/us/usc/t37/s308e">308e</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308f" data-uslm-ref="/us/usc/t37/s308f">308f.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308g" data-uslm-ref="/us/usc/t37/s308g">308g.</a>  </td>
 
     <td> Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308h" data-uslm-ref="/us/usc/t37/s308h">308h.</a>  </td>
 
     <td> Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308i" data-uslm-ref="/us/usc/t37/s308i">308i.</a>  </td>
 
     <td> Special pay: prior service enlistment bonus.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 308j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs308j" data-uslm-ref="/us/usc/t37/s308j">308j.</a>  </td>
 
     <td> Special pay: affiliation bonus for officers in the Selected Reserve.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs309" data-uslm-ref="/us/usc/t37/s309">309.</a>  </td>
 
     <td> Special pay: enlistment bonus.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs310" data-uslm-ref="/us/usc/t37/s310">310.</a>  </td>
 
     <td> Special pay: duty subject to hostile fire or imminent danger.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [311.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs311" data-uslm-ref="/us/usc/t37/s311">311.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs312" data-uslm-ref="/us/usc/t37/s312">312.</a>  </td>
 
     <td> Special pay: nuclear-qualified officers extending period of active service.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [312a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs312a" data-uslm-ref="/us/usc/t37/s312a">312a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 312b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs312b" data-uslm-ref="/us/usc/t37/s312b">312b.</a>  </td>
 
     <td> Special pay: nuclear career accession bonus.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 312c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs312c" data-uslm-ref="/us/usc/t37/s312c">312c.</a>  </td>
 
     <td> Special pay: nuclear career annual incentive bonus.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [313.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs313" data-uslm-ref="/us/usc/t37/s313">313.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs314" data-uslm-ref="/us/usc/t37/s314">314.</a>  </td>
 
     <td> Special pay or bonus: qualified members extending duty at designated locations overseas.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs315" data-uslm-ref="/us/usc/t37/s315">315.</a>  </td>
 
     <td> Special pay: engineering and scientific career continuation pay.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs316" data-uslm-ref="/us/usc/t37/s316">316.</a>  </td>
 
     <td> Special pay: bonus for members with foreign language proficiency.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 316a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs316a" data-uslm-ref="/us/usc/t37/s316a">316a.</a>  </td>
 
     <td> Special pay: incentive pay for members of precommissioning programs pursuing foreign language proficiency.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs317" data-uslm-ref="/us/usc/t37/s317">317.</a>  </td>
 
     <td> Special pay: officers in critical acquisition positions extending period of active duty.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs318" data-uslm-ref="/us/usc/t37/s318">318.</a>  </td>
 
     <td> Special pay: special warfare officers extending period of active duty.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs319" data-uslm-ref="/us/usc/t37/s319">319.</a>  </td>
 
     <td> Special pay: surface warfare officer continuation pay.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs320" data-uslm-ref="/us/usc/t37/s320">320.</a>  </td>
 
     <td> Incentive pay: career enlisted flyers.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs321" data-uslm-ref="/us/usc/t37/s321">321.</a>  </td>
 
     <td> Special pay: judge advocate continuation pay.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> [322, 323.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs322" data-uslm-ref="/us/usc/t37/s322">322</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs323" data-uslm-ref="/us/usc/t37/s323">323.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs324" data-uslm-ref="/us/usc/t37/s324">324.</a>  </td>
 
     <td> Special pay: accession bonus for new officers in critical skills.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs325" data-uslm-ref="/us/usc/t37/s325">325.</a>  </td>
 
     <td> Incentive bonus: savings plan for education expenses and other contingencies.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs326" data-uslm-ref="/us/usc/t37/s326">326.</a>  </td>
 
     <td> Incentive bonus: conversion to military occupational specialty to ease personnel shortage.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs327" data-uslm-ref="/us/usc/t37/s327">327.</a>  </td>
 
     <td> Incentive bonus: transfer between armed forces.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs328" data-uslm-ref="/us/usc/t37/s328">328.</a>  </td>
 
     <td> Combat-related injury rehabilitation pay.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs329" data-uslm-ref="/us/usc/t37/s329">329.</a>  </td>
 
     <td> Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES  </td>
 
   <tr>
 
-    <td> 330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs330" data-uslm-ref="/us/usc/t37/s330">330.</a>  </td>
 
     <td> Special pay: accession bonus for officer candidates.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs331" data-uslm-ref="/us/usc/t37/s331">331.</a>  </td>
 
     <td> General bonus authority for enlisted members.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs332" data-uslm-ref="/us/usc/t37/s332">332.</a>  </td>
 
     <td> General bonus authority for officers.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs333" data-uslm-ref="/us/usc/t37/s333">333.</a>  </td>
 
     <td> Special bonus and incentive pay authorities for nuclear officers.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs334" data-uslm-ref="/us/usc/t37/s334">334.</a>  </td>
 
     <td> Special aviation incentive pay and bonus authorities for officers.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs335" data-uslm-ref="/us/usc/t37/s335">335.</a>  </td>
 
     <td> Special bonus and incentive pay authorities for officers in health professions.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs351" data-uslm-ref="/us/usc/t37/s351">351.</a>  </td>
 
     <td> Hazardous duty pay.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs352" data-uslm-ref="/us/usc/t37/s352">352.</a>  </td>
 
     <td> Assignment pay or special duty pay.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs353" data-uslm-ref="/us/usc/t37/s353">353.</a>  </td>
 
     <td> Skill incentive pay or proficiency bonus.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs354" data-uslm-ref="/us/usc/t37/s354">354.</a>  </td>
 
     <td> Special pay: 15-year career status bonus for members entering service on or after August 1, 1986.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> 355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs355" data-uslm-ref="/us/usc/t37/s355">355.</a>  </td>
 
     <td> Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs371" data-uslm-ref="/us/usc/t37/s371">371.</a>  </td>
 
     <td> Relationship to other incentives and pays.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs372" data-uslm-ref="/us/usc/t37/s372">372.</a>  </td>
 
     <td> Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs373" data-uslm-ref="/us/usc/t37/s373">373.</a>  </td>
 
     <td> Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs374" data-uslm-ref="/us/usc/t37/s374">374.</a>  </td>
 
     <td> Regulations.  </td>
 

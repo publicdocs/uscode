@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs501" data-uslm-ref="/us/usc/t37/s501">501.</a>  </td>
 
     <td> Payments for unused accrued leave.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs502" data-uslm-ref="/us/usc/t37/s502">502.</a>  </td>
 
     <td> Absences due to sickness, wounds, and certain other causes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs503" data-uslm-ref="/us/usc/t37/s503">503.</a>  </td>
 
     <td> Absence without leave or over leave.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs504" data-uslm-ref="/us/usc/t37/s504">504.</a>  </td>
 
     <td> Cadets and midshipmen: chapter does not apply to.  </td>
 

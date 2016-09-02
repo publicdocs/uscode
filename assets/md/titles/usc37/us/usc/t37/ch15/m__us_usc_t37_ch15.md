@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [801.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs801" data-uslm-ref="/us/usc/t37/s801">801.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs802" data-uslm-ref="/us/usc/t37/s802">802.</a>  </td>
 
     <td> Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs803" data-uslm-ref="/us/usc/t37/s803">803.</a>  </td>
 
     <td> Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [804, 805.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs804" data-uslm-ref="/us/usc/t37/s804">804</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs805" data-uslm-ref="/us/usc/t37/s805">805.</a>  </td>
 
     <td> Repealed.]  </td>
 

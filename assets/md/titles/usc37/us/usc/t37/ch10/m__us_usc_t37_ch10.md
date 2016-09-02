@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs551" data-uslm-ref="/us/usc/t37/s551">551.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs552" data-uslm-ref="/us/usc/t37/s552">552.</a>  </td>
 
     <td> Pay and allowances; continuance while in a missing status; limitations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs553" data-uslm-ref="/us/usc/t37/s553">553.</a>  </td>
 
     <td> Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [554.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs554" data-uslm-ref="/us/usc/t37/s554">554.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs555" data-uslm-ref="/us/usc/t37/s555">555.</a>  </td>
 
     <td> Secretarial review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs556" data-uslm-ref="/us/usc/t37/s556">556.</a>  </td>
 
     <td> Secretarial determinations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs557" data-uslm-ref="/us/usc/t37/s557">557.</a>  </td>
 
     <td> Settlement of accounts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 558.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs558" data-uslm-ref="/us/usc/t37/s558">558.</a>  </td>
 
     <td> Income tax deferment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs559" data-uslm-ref="/us/usc/t37/s559">559.</a>  </td>
 
     <td> Benefits for members held as captives.  </td>
 

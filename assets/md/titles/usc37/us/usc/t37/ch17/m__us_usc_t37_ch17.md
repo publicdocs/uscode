@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs901" data-uslm-ref="/us/usc/t37/s901">901.</a>  </td>
 
     <td> Wartime pay of officer of armed force exercising command higher than his grade.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs902" data-uslm-ref="/us/usc/t37/s902">902.</a>  </td>
 
     <td> Pay of crews of wrecked or lost naval vessels.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs903" data-uslm-ref="/us/usc/t37/s903">903.</a>  </td>
 
     <td> Retired members recalled to active duty; former members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [904.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs904" data-uslm-ref="/us/usc/t37/s904">904.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs905" data-uslm-ref="/us/usc/t37/s905">905.</a>  </td>
 
     <td> Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs906" data-uslm-ref="/us/usc/t37/s906">906.</a>  </td>
 
     <td> Extension of enlistment: effect on pay and allowances.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs907" data-uslm-ref="/us/usc/t37/s907">907.</a>  </td>
 
     <td> Enlisted members and warrant officers appointed as officers: pay and allowances stabilized.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs908" data-uslm-ref="/us/usc/t37/s908">908.</a>  </td>
 
     <td> Employment of reserves and retired members by foreign governments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs909" data-uslm-ref="/us/usc/t37/s909">909.</a>  </td>
 
     <td> Special and incentive pay: payment at unreduced rates during suspension of personnel laws.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs910" data-uslm-ref="/us/usc/t37/s910">910.</a>  </td>
 
     <td> Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service.  </td>
 

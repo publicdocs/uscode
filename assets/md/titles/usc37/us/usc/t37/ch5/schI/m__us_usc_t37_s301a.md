@@ -623,7 +623,7 @@
 
 >     “(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in [section 301a(b) of title 37][/us/usc/t37/s301a/b], United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act \[June 1, 1974\], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade.
 
->         The amount to which a reserve officer who is entitled to compensation under [section 206 of title 37][/us/usc/t37/s206], United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
+>     The amount to which a reserve officer who is entitled to compensation under [section 206 of title 37][/us/usc/t37/s206], United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
 
  __Annual Report by Department of Defense__ 
 

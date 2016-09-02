@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs201" data-uslm-ref="/us/usc/t37/s201">201.</a>  </td>
 
     <td> Pay grades: assignment to; general rules.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs202" data-uslm-ref="/us/usc/t37/s202">202.</a>  </td>
 
     <td> Pay grades: retired Coast Guard rear admirals (lower half).  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs203" data-uslm-ref="/us/usc/t37/s203">203.</a>  </td>
 
     <td> Rates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs204" data-uslm-ref="/us/usc/t37/s204">204.</a>  </td>
 
     <td> Entitlement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs205" data-uslm-ref="/us/usc/t37/s205">205.</a>  </td>
 
     <td> Computation: service creditable.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs206" data-uslm-ref="/us/usc/t37/s206">206.</a>  </td>
 
     <td> Reserves; members of National Guard: inactive-duty training.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs207" data-uslm-ref="/us/usc/t37/s207">207.</a>  </td>
 
     <td> Band leaders.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [208.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs208" data-uslm-ref="/us/usc/t37/s208">208.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs209" data-uslm-ref="/us/usc/t37/s209">209.</a>  </td>
 
     <td> Members of precommissioning programs.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs210" data-uslm-ref="/us/usc/t37/s210">210.</a>  </td>
 
     <td> Pay of senior enlisted members during terminal leave and while hospitalized.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs211" data-uslm-ref="/us/usc/t37/s211">211.</a>  </td>
 
     <td> Participation in Thrift Savings Plan.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs212" data-uslm-ref="/us/usc/t37/s212">212.</a>  </td>
 
     <td> Advancement of basic pay: members deployed in combat zone for more than one year.  </td>
 

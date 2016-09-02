@@ -365,7 +365,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(2) who after having so served on active duty for not less than one year received special pay under section 302 or 302b of title 37, United States Code, as in effect during the period beginning on May 6, 1974, and ending on June 30, 1980, for service performed during such period,
 
->         shall be considered to have been entitled to such pay as if that part of such section, as in effect during such period, which read ‘who is on active duty for a period of at least one year’ read ‘who has served on active duty for not less than one year’.”
+>     shall be considered to have been entitled to such pay as if that part of such section, as in effect during such period, which read ‘who is on active duty for a period of at least one year’ read ‘who has served on active duty for not less than one year’.”
 
  __Transition Provisions__ 
 

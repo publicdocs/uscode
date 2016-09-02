@@ -15,7 +15,7 @@
 
 ## § 374. Regulations
 
-This subchapter and subchapter II shall be administered under regulations prescribed by—
+    This subchapter and subchapter II shall be administered under regulations prescribed by—
 
     (1) the Secretary of Defense, with respect to the armed forces under the jurisdiction of the Secretary of Defense;
 
