@@ -41,13 +41,9 @@
 
         (2) If a sentence extends to dismissal or a dishonorable or bad conduct discharge and if the right of the accused to appellate review is waived, or an appeal is withdrawn, under [section 861 of this title][/us/usc/t10/s861] (article 61), that part of the sentence extending to dismissal or a bad-conduct or dishonorable discharge may not be executed until review of the case by a judge advocate (and any action on that review) under [section 864 of this title][/us/usc/t10/s864] (article 64) is completed. Any other part of a court-martial sentence may be ordered executed by the convening authority or other person acting on the case under [section 860 of this title][/us/usc/t10/s860] (article 60) when approved by him under that section.
 
-    (d) The convening authority or other person acting on the case under [section 860 of this title][/us/usc/t10/s860] (article 60) may suspend the execution of any sentence or part thereof, except a death sentence.
+    (d) The convening authority or other person acting on the case under [section 860 of this title][/us/usc/t10/s860] (article 60) may suspend the execution of any sentence or part thereof, except a death sentence. Paragraphs (2) and (4) of subsection (c) of [section 860 of this title][/us/usc/t10/s860] (article 60) shall apply to any decision by the convening authority or another person authorized to act under this section to suspend the execution of any sentence or part thereof under this subsection.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 62][/us/stat/70A/62]; [Pub. L. 90–632, § 2(32)][/us/pl/90/632/s2/32], Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 98–209, § 5(e)][/us/pl/98/209/s5/e], Dec. 6, 1983, [97 Stat. 1399][/us/stat/97/1399]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(2)][/us/pl/113/66/s1702/c/2], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
-
- __Amendment of Subsection (d)__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(c)(2)][/us/pl/113/66/s1702/c/2], (d)(2), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957], 958, provided that, effective 180 days after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, subsection (d) of this section is amended by inserting at the end the following: “Paragraphs (2) and (4) of subsection (c) of [section 860 of this title][/us/usc/t10/s860] (article 60) shall apply to any decision by the convening authority or another person authorized to act under this section to suspend the execution of any sentence or part thereof under this subsection.” See 2013 Amendment note below.
 
 <table>
 
@@ -173,6 +169,7 @@ May 5, 1950, ch. 169, § 1 (Art. 71), 64 Stat. 131.  </td>
 [/us/usc/t10/s864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs864
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
+[/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F62
 [/us/pl/90/632/s2/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F32
@@ -183,9 +180,6 @@ May 5, 1950, ch. 169, § 1 (Art. 71), 64 Stat. 131.  </td>
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/113/66/s1702/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F2
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/pl/113/66/s1702/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F2
-[/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

@@ -97,7 +97,9 @@
 
             (O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-            (P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under [section 1127 of title 41][/us/usc/t41/s1127], except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+            (P)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Two subpars. (P) have been enacted. </sup></sup>  Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+
+            (P) 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
         (2)
 
@@ -305,16 +307,6 @@
 
 (Added [Pub. L. 99–145, title IX, § 911(a)(1)][/us/pl/99/145/s911/a/1], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682]; amended [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8112(a)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1223; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VIII, § 805(a)][/us/pl/100/180/s805/a], Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126]; [Pub. L. 100–370, § 1(f)(2)(A)][/us/pl/100/370/s1/f/2/A], (3)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 100–456, div. A, title III, § 322(a)][/us/pl/100/456/s322/a], title VIII, §§ 826(a), 832(a), Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952], 2022, 2023; [Pub. L. 100–463, title VIII, § 8105(a)][/us/pl/100/463/s8105/a], Oct. 1, 1988, [102 Stat. 2270–36][/us/stat/102/2270-36]; [Pub. L. 100–526, title I, § 106(a)(2)][/us/pl/100/526/s106/a/2], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625]; [Pub. L. 100–700, § 8(b)][/us/pl/100/700/s8/b], Nov. 19, 1988, [102 Stat. 4636][/us/stat/102/4636]; [Pub. L. 101–189, div. A, title III, § 311(a)(1)][/us/pl/101/189/s311/a/1], title VIII, § 853(a)(1), (b)(3), Nov. 29, 1989, [103 Stat. 1411][/us/stat/103/1411], 1518; [Pub. L. 101–510, div. A, title XIII, § 1301(10)][/us/pl/101/510/s1301/10], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. A, title III, § 346(a)][/us/pl/102/190/s346/a], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 102–484, div. A, title VIII, § 818(a)][/us/pl/102/484/s818/a], title X, § 1052(26), title XIII, § 1352(b), Oct. 23, 1992, [106 Stat. 2457][/us/stat/106/2457], 2500, 2559; [Pub. L. 103–355, title II, § 2101(a)][/us/pl/103/355/s2101/a]–(d), Oct. 13, 1994, [108 Stat. 3306–3308][/us/stat/108/3306-3308]; [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5)][/us/pl/104/106/s4321/a/5], (b)(9), Feb. 10, 1996, [110 Stat. 671][/us/stat/110/671], 672; [Pub. L. 105–85, div. A, title VIII, § 808(a)][/us/pl/105/85/s808/a], Nov. 18, 1997, [111 Stat. 1836][/us/stat/111/1836]; [Pub. L. 105–261, div. A, title VIII, § 804(a)][/us/pl/105/261/s804/a], Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083]; [Pub. L. 111–350, § 5(b)(19)][/us/pl/111/350/s5/b/19], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 112–81, div. A, title VIII, § 803(a)][/us/pl/112/81/s803/a], (b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485]; [Pub. L. 112–239, div. A, title VIII, § 827(g)][/us/pl/112/239/s827/g], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836]; [Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
 
- __Amendment of Subsection (e)(1)(P)__ 
-
-[Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:
-
->     “(P) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
-
-[Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:
-
->     “(P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.”
-
  __Historical and Revision Notes__ 
 
     Subsection (e)(1)(L) is based on [section 2399 of this title][/us/usc/t10/s2399] as enacted by [Pub. L. 97–295, § 1(29)(A)][/us/pl/97/295/s1/29/A], Oct. 12, 1982, [96 Stat. 1293][/us/stat/96/1293].
@@ -333,7 +325,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (k)(1). [Pub. L. 112–239, § 827(g)(1)][/us/pl/112/239/s827/g/1], substituted “commenced by the United States, by a State, or by a contractor employee submitting a complaint under [section 2409 of this title][/us/usc/t10/s2409]” for “commenced by the United States or a State”.
+    2013—Subsec. (e)(1)(P). [Pub. L. 113–66][/us/pl/113/66] and [Pub. L. 113–67][/us/pl/113/67] amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows: “Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under [section 1127 of title 41][/us/usc/t41/s1127], except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.”
+
+    Subsec. (k)(1). [Pub. L. 112–239, § 827(g)(1)][/us/pl/112/239/s827/g/1], substituted “commenced by the United States, by a State, or by a contractor employee submitting a complaint under [section 2409 of this title][/us/usc/t10/s2409]” for “commenced by the United States or a State”.
 
     Subsec. (k)(2)(C). [Pub. L. 112–239, § 827(g)(2)][/us/pl/112/239/s827/g/2], substituted “the imposition of a monetary penalty or an order to take corrective action under [section 2409 of this title][/us/usc/t10/s2409]” for “the imposition of a monetary penalty”.
 
@@ -838,7 +832,6 @@
 
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
 [/us/usc/t41/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fa
-[/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
 [/us/usc/t18/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs287
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
 [/us/usc/t10/s2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2409
@@ -889,10 +882,6 @@
 [/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
 [/us/pl/113/67/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F2
 [/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
-[/us/pl/113/67/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F2
-[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
-[/us/pl/113/66/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fa
-[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
 [/us/usc/t10/s2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2399
 [/us/pl/97/295/s1/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F29%2FA
 [/us/stat/96/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1293
@@ -910,6 +899,9 @@
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
 [/us/usc/t10/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2344
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
 [/us/pl/112/239/s827/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs827%2Fg%2F1
 [/us/usc/t10/s2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2409
 [/us/pl/112/239/s827/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs827%2Fg%2F2

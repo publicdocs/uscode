@@ -61,7 +61,7 @@ Cruel and unusual punishments prohibited.  </td>
 
     <td> 
 
-Maximum limits.  </td>
+Maximum and minimum limits.  </td>
 
   </tr>
 
@@ -163,48 +163,6 @@ Sentences: forfeiture of pay and allowances during confinement.  </td>
 
 </table>
 
- __Amendment of Analysis__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1705(a)(2)(B)][/us/pl/113/66/s1705/a/2/B], (c), Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959], 960, provided that, effective 180 days after Dec. 26, 2013, and applicable to offenses specified in [section 856(b)(2) of this title][/us/usc/t10/s856/b/2] committed on or after that date, this analysis is amended by striking the item relating to section 856 and inserting the following new item:
-
-<table>
-
-  <tr>
-
-    <td> 
-
-   </td>
-
-    <td> 
-
-Art.  </td>
-
-    <td> 
-
-   </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-856.  </td>
-
-    <td> 
-
-56.  </td>
-
-    <td> 
-
-Maximum and minimum limits.  </td>
-
-  </tr>
-
-</table>
-
-    See 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—[Pub. L. 113–66, div. A, title XVII, § 1705(a)(2)(B)][/us/pl/113/66/s1705/a/2/B], Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959], substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
@@ -222,9 +180,6 @@ Maximum and minimum limits.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1705/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1705%2Fa%2F2%2FB
-[/us/stat/127/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F959
-[/us/usc/t10/s856/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb%2F2
 [/us/pl/113/66/s1705/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1705%2Fa%2F2%2FB
 [/us/stat/127/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F959
 [/us/pl/105/85/s581/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs581%2Fa%2F2
