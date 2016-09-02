@@ -201,7 +201,7 @@
 
 >         “(D) the Native American Graves Protection and Repatriation Act ([25 U.S.C. 3001][/us/usc/t25/s3001] et seq.);
 
->         “(E) the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.);
+>         “(E) the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.) \[see [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.\];
 
 >         “(F) the Native American Languages Act of 1992 ([106 Stat. 3434][/us/stat/106/3434] \[[Pub. L. 102–524][/us/pl/102/524], see Short Title of 1992 Amendment note set out under [section 2991 of Title 42][/us/usc/t42/s2991], The Public Health and Welfare\]);
 
@@ -279,6 +279,7 @@
 [/us/usc/t20/s80q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/stat/106/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3434
 [/us/pl/102/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F524
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991

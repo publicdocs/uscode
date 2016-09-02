@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.), and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
+    Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), division A of subtitle III of title 54, and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
 
         (1) designating a certifying officer to represent the Indian tribe and to assume the status of a responsible Federal official under such laws; and
 
@@ -51,13 +51,11 @@
 
         Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
 
-([Pub. L. 93–638, title V, § 509][/us/pl/93/638/s509], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 724][/us/stat/114/724].)
+([Pub. L. 93–638, title V, § 509][/us/pl/93/638/s509], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 724][/us/stat/114/724]; amended [Pub. L. 113–287, § 5(g)][/us/pl/113/287/s5/g], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
  __References in Text__ 
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
-
-    The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
 
     This subchapter, referred to in subsec. (g), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
@@ -69,6 +67,10 @@
 
     In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–287][/us/pl/113/287], which directed substitution of “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470et][/us/usc/t16/s470et] seq.)”, was executed by making the substitution for “the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.)” in introductory provisions to reflect the probable intent of Congress.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–7.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptE/m__us_usc_t25_s458aaa–9.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aaa%E2%80%938)
@@ -77,18 +79,16 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t25/s450j/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%2Fm
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/pl/93/638/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs509
 [/us/pl/106/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260%2Fs4
 [/us/stat/114/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F724
+[/us/pl/113/287/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fg
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
@@ -100,5 +100,8 @@
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s470et]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470et
+[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 
 
