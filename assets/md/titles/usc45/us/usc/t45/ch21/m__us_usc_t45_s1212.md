@@ -17,7 +17,7 @@
 
     (a) __Actions subject to other laws__ 
 
-        The provisions of chapter 5 of title 5 (popularly known as the Administrative Procedure Act, and including provisions popularly known as the Government in the Sunshine Act), the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.), the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.), [section 303 of title 49][/us/usc/t49/s303], and the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) shall not apply to actions taken pursuant to this chapter, except to the extent that such laws may be applicable to granting of rights-of-way under [section 1208 of this title][/us/usc/t45/s1208].
+        The provisions of chapter 5 of title 5 (popularly known as the Administrative Procedure Act, and including provisions popularly known as the Government in the Sunshine Act), the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.), division A of subtitle III of title 54, [section 303 of title 49][/us/usc/t49/s303], and the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) shall not apply to actions taken pursuant to this chapter, except to the extent that such laws may be applicable to granting of rights-of-way under [section 1208 of this title][/us/usc/t45/s1208].
 
     (b) __Federal surplus property disposal; withdrawal or reservation of land for use of Alaska Railroad__ 
 
@@ -35,7 +35,7 @@
 
         With respect to interests of Native Corporations under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.) and the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101][/us/usc/t16/s3101] et seq.), except as provided in this chapter, nothing contained in this chapter shall be construed to deny, enlarge, grant, impair, or otherwise affect any judgment heretofore entered in a court of competent jurisdiction, or valid existing right or claim of valid existing right.
 
-([Pub. L. 97–468, title VI, § 613][/us/pl/97/468/s613], Jan. 14, 1983, [96 Stat. 2577][/us/stat/96/2577].)
+([Pub. L. 97–468, title VI, § 613][/us/pl/97/468/s613], Jan. 14, 1983, [96 Stat. 2577][/us/stat/96/2577]; [Pub. L. 113–287, § 5(m)(2)][/us/pl/113/287/s5/m/2], Dec. 19, 2014, [128 Stat. 3271][/us/stat/128/3271].)
 
  __References in Text__ 
 
@@ -44,8 +44,6 @@
     The Government in the Sunshine Act, referred to in subsec. (a), is [Pub. L. 94–409][/us/pl/94/409], Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241], which enacted [section 552b of Title 5][/us/usc/t5/s552b], Government Organization and Employees, amended sections 551, 552, 556, and 557 of Title 5, [section 10 of Pub. L. 92–463][/us/pl/92/463/s10], set out in the Appendix to Title 5, and [section 410 of Title 39][/us/usc/t39/s410], Postal Service, and enacted provisions set out as notes under [section 552b of Title 5][/us/usc/t5/s552b]. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 552b of Title 5][/us/usc/t5/s552b] and Tables.
 
     The Federal Advisory Committee Act, referred to in subsec. (a), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5.
-
-    The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
@@ -67,6 +65,10 @@
 
     In subsec. (b), “sections 541 to 555 of title 40” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484][/us/usc/t40/s484])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
 
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.)”.
+
 ----------
 
 [Previous](./../../../..//us/usc/t45/ch21/m__us_usc_t45_s1211.md) | [Next](./../../../..//us/usc/t45/ch21/m__us_usc_t45_s1213.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1212)
@@ -74,7 +76,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t45/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1208
@@ -91,6 +92,8 @@
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 [/us/pl/97/468/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs613
 [/us/stat/96/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2577
+[/us/pl/113/287/s5/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fm%2F2
+[/us/stat/128/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3271
 [/us/act/1946-06-11/ch324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch324
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
@@ -104,9 +107,6 @@
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -150,5 +150,7 @@
 [/us/usc/t40/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 
 
