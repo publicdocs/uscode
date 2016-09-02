@@ -291,15 +291,15 @@
 
 [Pub. L. 109–8, title XII, § 1228][/us/pl/109/8/s1228], Apr. 20, 2005, [119 Stat. 200][/us/stat/119/200], provided that:
 
->     “(a) __Chapter 7 Cases.—__ 
+>     “(a)  __Chapter__  __7__  __Cases__  __.—__ 
 
 >     The court shall not grant a discharge in the case of an individual who is a debtor in a case under chapter 7 of title 11, United States Code, unless requested tax documents have been provided to the court.
 
->     “(b) __Chapter 11 and Chapter 13 Cases.—__ 
+>     “(b)  __Chapter__  __11__  __and Chapter__  __13__  __Cases__  __.—__ 
 
 >     The court shall not confirm a plan of reorganization in the case of an individual under chapter 11 or 13 of title 11, United States Code, unless requested tax documents have been filed with the court.
 
->     “(c) __Document Retention.—__ 
+>     “(c)  __Document Retention__  __.—__ 
 
 >     The court shall destroy documents submitted in support of a bankruptcy claim not sooner than 3 years after the date of the conclusion of a case filed by an individual under chapter 7, 11, or 13 of title 11, United States Code. In the event of a pending audit or enforcement action, the court may extend the time for destruction of such requested tax documents.”
 

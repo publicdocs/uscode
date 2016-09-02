@@ -81,11 +81,11 @@
 
 [Pub. L. 103–394, title I, § 105][/us/pl/103/394/s105], Oct. 22, 1994, [108 Stat. 4111][/us/stat/108/4111], provided that:
 
->     “(a) __Presiding Officer.—__ 
+>     “(a)  __Presiding Officer__  __.—__ 
 
 >     A bankruptcy administrator appointed under section 302(d)(3)(I) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 ([28 U.S.C. 581][/us/usc/t28/s581] note; [Public Law 99–554][/us/pl/99/554]; [100 Stat. 3123][/us/stat/100/3123]), as amended by section 317(a) of the Federal Courts Study Committee Implementation Act of 1990 ([Public Law 101–650][/us/pl/101/650]; [104 Stat. 5115][/us/stat/104/5115]), or the bankruptcy administrator’s designee may preside at the meeting of creditors convened under [section 341(a) of title 11][/us/usc/t11/s341/a], United States Code. The bankruptcy administrator or the bankruptcy administrator’s designee may preside at any meeting of equity security holders convened under [section 341(b) of title 11][/us/usc/t11/s341/b], United States Code.
 
->     “(b) __Examination of the Debtor.—__ 
+>     “(b)  __Examination of the Debtor__  __.—__ 
 
 >     The bankruptcy administrator or the bankruptcy administrator’s designee may examine the debtor at the meeting of creditors and may administer the oath required under [section 343 of title 11][/us/usc/t11/s343], United States Code.”
 

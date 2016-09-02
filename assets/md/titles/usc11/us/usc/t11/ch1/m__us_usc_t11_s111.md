@@ -129,23 +129,23 @@
 
 [Pub. L. 109–8, title I, § 105][/us/pl/109/8/s105], Apr. 20, 2005, [119 Stat. 36][/us/stat/119/36], provided that:
 
->     “(a) __Development of Financial Management and Training Curriculum and Materials.—__ 
+>     “(a)  __Development of Financial Management and Training Curriculum and Materials__  __.—__ 
 
 >     The Director of the Executive Office for United States Trustees (in this section referred to as the ‘Director’) shall consult with a wide range of individuals who are experts in the field of debtor education, including trustees who serve in cases under chapter 13 of title 11, United States Code, and who operate financial management education programs for debtors, and shall develop a financial management training curriculum and materials that can be used to educate debtors who are individuals on how to better manage their finances.
 
 >     “(b) __Test.—__ 
 
->         “(1) __Selection of districts.—__ 
+>         “(1)  __Selection of districts__  __.—__ 
 
 >         The Director shall select 6 judicial districts of the United States in which to test the effectiveness of the financial management training curriculum and materials developed under subsection (a).
 
->         “(2) __Use.—__ 
+>         “(2)  __Use__  __.—__ 
 
 >         For an 18-month period beginning not later than 270 days after the date of the enactment of this Act \[Apr. 20, 2005\], such curriculum and materials shall be, for the 6 judicial districts selected under paragraph (1), used as the instructional course concerning personal financial management for purposes of [section 111 of title 11][/us/usc/t11/s111], United States Code.
 
 >     “(c) __Evaluation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         During the 18-month period referred to in subsection (b), the Director shall evaluate the effectiveness of—
 
@@ -153,7 +153,7 @@
 
 >             “(B) a sample of existing consumer education programs such as those described in the Report of the National Bankruptcy Review Commission (October 20, 1997) that are representative of consumer education programs carried out by the credit industry, by trustees serving under chapter 13 of title 11, United States Code, and by consumer counseling groups.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 3 months after concluding such evaluation, the Director shall submit a report to the Speaker of the House of Representatives and the President pro tempore of the Senate, for referral to the appropriate committees of the Congress, containing the findings of the Director regarding the effectiveness of such curriculum, such materials, and such programs and their costs.”
 

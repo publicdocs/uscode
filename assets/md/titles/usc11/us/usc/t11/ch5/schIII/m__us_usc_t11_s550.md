@@ -25,7 +25,7 @@
 
     (b)
 
-     The trustee may not recover under section (a)(2) of this section from—
+     The trustee may not recover under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a)(2) of this section from—
 
         (1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
 

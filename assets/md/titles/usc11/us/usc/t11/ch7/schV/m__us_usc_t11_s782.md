@@ -17,15 +17,15 @@
 
     (a) __In General.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         Notwithstanding any other provision of this title, the conservator or receiver who files the petition shall be the trustee under this chapter, unless the Board designates an alternative trustee.
 
-        (2) __Successor.—__ 
+        (2)  __Successor__  __.—__ 
 
         The Board may designate a successor trustee if required.
 
-    (b) __Authority of Trustee.—__ 
+    (b)  __Authority of Trustee__  __.—__ 
 
     Whenever the Board appoints or designates a trustee, chapter 3 and sections 704 and 705 of this title shall apply to the Board in the same way and to the same extent that they apply to a United States trustee.
 

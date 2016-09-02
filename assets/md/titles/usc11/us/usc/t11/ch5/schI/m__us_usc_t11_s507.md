@@ -349,17 +349,17 @@
 
 [Pub. L. 109–8, title XIV, § 1406][/us/pl/109/8/s1406], Apr. 20, 2005, [119 Stat. 215][/us/stat/119/215], as amended by [Pub. L. 111–327, § 3][/us/pl/111/327/s3], Dec. 22, 2010, [124 Stat. 3563][/us/stat/124/3563], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under [section 523 of this title][/us/usc/t11/s523]\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\].
 
 >     “(b) __Application of Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendments made by this title shall apply only with respect to cases commenced under title 11 of the United States Code on or after the date of the enactment of this Act \[Apr. 20, 2005\].
 
->         “(2) __Avoidance period.—__ 
+>         “(2)  __Avoidance period__  __.—__ 
 
 >         The amendment made by section 1402(1) \[amending [section 548 of this title][/us/usc/t11/s548]\] shall apply only with respect to cases commenced under title 11 of the United States Code more than 1 year after the date of the enactment of this Act.”
 

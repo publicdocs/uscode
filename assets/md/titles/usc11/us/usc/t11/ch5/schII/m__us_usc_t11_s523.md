@@ -459,11 +459,11 @@
 
 [Pub. L. 101–647, title XXXI, § 3104][/us/pl/101/647/s3104], Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This title and the amendments made by this title \[amending this section and [section 1328 of this title][/us/usc/t11/s1328] and enacting provisions set out as a note under [section 101 of this title][/us/usc/t11/s101]\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this title \[amending this section and [section 1328 of this title][/us/usc/t11/s1328]\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
 
@@ -471,11 +471,11 @@
 
 [Pub. L. 101–581, § 4][/us/pl/101/581/s4], Nov. 15, 1990, [104 Stat. 2865][/us/stat/104/2865], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act and the amendments made by this Act \[amending this section and [section 1328 of this title][/us/usc/t11/s1328] and enacting provisions set out as a note under [section 101 of this title][/us/usc/t11/s101]\] shall take effect on the date of the enactment of this Act \[Nov. 15, 1990\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this Act \[amending this section and [section 1328 of this title][/us/usc/t11/s1328]\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
 

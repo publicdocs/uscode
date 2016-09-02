@@ -15,11 +15,11 @@
 
 ## § 783. Additional powers of trustee
 
-    (a) __Distribution of Property Not of the Estate.—__ 
+    (a)  __Distribution of Property Not of the Estate__  __.—__ 
 
     The trustee under this subchapter has power to distribute property not of the estate, including distributions to customers that are mandated by subchapters III and IV of this chapter.
 
-    (b) __Disposition of Institution.—__ 
+    (b)  __Disposition of Institution__  __.—__ 
 
     The trustee under this subchapter may, after notice and a hearing—
 
@@ -39,7 +39,7 @@
 
             (B) any references in any such provision of law to the Federal Deposit Insurance Corporation shall be construed to be references to the appointing agency and that references to deposit insurance shall be omitted.
 
-    (c) __Certain Transfers Included.—__ 
+    (c)  __Certain Transfers Included__  __.—__ 
 
     Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
 

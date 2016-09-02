@@ -119,11 +119,11 @@
 
 [Pub. L. 100–334, § 4][/us/pl/100/334/s4], June 16, 1988, [102 Stat. 615][/us/stat/102/615], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting this section, amending [section 1129 of this title][/us/usc/t11/s1129], enacting provisions set out as a note under [section 101 of this title][/us/usc/t11/s101], and amending and repealing provisions set out as notes under [section 1106 of this title][/us/usc/t11/s1106]\] shall take effect on the date of the enactment of this Act \[June 16, 1988\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by section 2 \[enacting this section and amending [section 1129 of this title][/us/usc/t11/s1129]\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act \[June 16, 1988\].”
 

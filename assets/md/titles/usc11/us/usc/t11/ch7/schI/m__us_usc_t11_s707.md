@@ -303,11 +303,11 @@
 
 [Pub. L. 110–438, § 4][/us/pl/110/438/s4], Oct. 20, 2008, [122 Stat. 5002][/us/stat/122/5002], as amended by [Pub. L. 112–64, § 2][/us/pl/112/64/s2], Dec. 13, 2011, [125 Stat. 766][/us/stat/125/766], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as a note under [section 101 of this title][/us/usc/t11/s101]\] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act \[Oct. 20, 2008\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”
 

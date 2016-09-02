@@ -247,7 +247,7 @@
 
         (7) This subsection does not affect the operation of section 1144 or the power of the district court to refer a proceeding under [section 157 of title 28][/us/usc/t28/s157] or any reference of a proceeding made prior to the date of the enactment of this subsection.
 
-    (h) __Application to Existing Injunctions.—__ 
+    (h)  __Application to Existing Injunctions__  __.—__ 
 
     For purposes of subsection (g)—
 

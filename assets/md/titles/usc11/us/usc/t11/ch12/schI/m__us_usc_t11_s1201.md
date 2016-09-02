@@ -99,15 +99,15 @@
 
 >     “(a) __Reenactment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 ([Public Law 105–277][/us/pl/105/277]) \[set out as a note below\], and as in effect on June 30, 2005, is hereby reenacted.
 
->         “(2) __Effective date of reenactment.—__ 
+>         “(2)  __Effective date of reenactment__  __.—__ 
 
 >         Paragraph (1) shall take effect on July 1, 2005.
 
->     “(b) __Amendments—__ 
+>     “(b)  __Amendments__  __—__ 
 
 >     Chapter 12 of title 11, United States Code, as reenacted by subsection (a), is amended by this Act \[see Tables for classification\].”
 

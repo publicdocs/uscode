@@ -31,11 +31,11 @@
 
 [Pub. L. 103–65, § 3][/us/pl/103/65/s3], Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[amending this section and provisions set out as a note under [section 581 of Title 28][/us/usc/t28/s581], Judiciary and Judicial Procedure\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 6, 1993\].
 
->     “(b) __Application of Amendment Made by Section 2.—__ 
+>     “(b)  __Application of Amendment Made by Section__  __2.—__ 
 
 >     The amendment made by section 2 \[amending this section\] shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
 

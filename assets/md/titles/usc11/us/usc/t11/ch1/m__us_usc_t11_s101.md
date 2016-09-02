@@ -1377,17 +1377,17 @@
 
 [Pub. L. 109–8, title XV, § 1501][/us/pl/109/8/s1501], Apr. 20, 2005, [119 Stat. 216][/us/stat/119/216], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this Act, this Act \[see Tables for classification\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Apr. 20, 2005\].
 
 >     “(b) __Application of Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this Act and paragraph (2), the amendments made by this Act shall not apply with respect to cases commenced under title 11, United States Code, before the effective date of this Act.
 
->         “(2) __Certain limitations applicable to debtors.—__ 
+>         “(2)  __Certain limitations applicable to debtors__  __.—__ 
 
 >         The amendments made by sections 308, 322, and 330 \[amending sections 104, 522, 727, 1141, 1228, and 1328 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Apr. 20, 2005\].”
 
@@ -1395,11 +1395,11 @@
 
 [Pub. L. 103–394, title VII, § 702][/us/pl/103/394/s702], Oct. 22, 1994, [108 Stat. 4150][/us/stat/108/4150], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1994\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the amendments made by this Act shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.
 
@@ -1425,21 +1425,21 @@
 
 [Pub. L. 100–597, § 12][/us/pl/100/597/s12], Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering [section 927 of this title][/us/usc/t11/s927] as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this Act shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act \[Nov. 3, 1988\].”
 
 [Pub. L. 100–506, § 2][/us/pl/100/506/s2], Oct. 18, 1988, [102 Stat. 2539][/us/stat/102/2539], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and [section 365 of this title][/us/usc/t11/s365]\] shall take effect on the date of the enactment of this Act \[Oct. 18, 1988\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this Act shall not apply with respect to any case commenced under title 11 of the United States Code before the date of the enactment of this Act \[Oct. 18, 1988\].”
 

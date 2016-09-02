@@ -23,7 +23,7 @@
 
     (d) Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
 
-    (e) __Scope of Application.—__ 
+    (e)  __Scope of Application__  __.—__ 
 
     Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
