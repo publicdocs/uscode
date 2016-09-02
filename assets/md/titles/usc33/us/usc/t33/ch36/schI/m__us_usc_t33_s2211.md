@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_ch36_schI.md) | [Next](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_s2212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211)
+[Previous](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_ch36_schI.md) | [Next](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_s2211a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211)
 
 ## § 2211. Harbors
 
@@ -47,7 +47,7 @@
 
         (1) __In general__ 
 
-            The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 45 feet.
+            The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 50 feet.
 
         (2) __Dredged material disposal facilities__ 
 
@@ -83,13 +83,15 @@
 
         (3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
 
-([Pub. L. 99–662, title I, § 101][/us/pl/99/662/s101], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082]; [Pub. L. 100–676, § 13(a)][/us/pl/100/676/s13/a], Nov. 17, 1988, [102 Stat. 4025][/us/stat/102/4025]; [Pub. L. 102–580, title III, § 333(b)(1)][/us/pl/102/580/s333/b/1], Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 104–303, title II, § 201(a)][/us/pl/104/303/s201/a]–(d), Oct. 12, 1996, [110 Stat. 3671][/us/stat/110/3671], 3672.)
+([Pub. L. 99–662, title I, § 101][/us/pl/99/662/s101], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082]; [Pub. L. 100–676, § 13(a)][/us/pl/100/676/s13/a], Nov. 17, 1988, [102 Stat. 4025][/us/stat/102/4025]; [Pub. L. 102–580, title III, § 333(b)(1)][/us/pl/102/580/s333/b/1], Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 104–303, title II, § 201(a)][/us/pl/104/303/s201/a]–(d), Oct. 12, 1996, [110 Stat. 3671][/us/stat/110/3671], 3672; [Pub. L. 113–121, title II, § 2102(b)][/us/pl/113/121/s2102/b], June 10, 2014, [128 Stat. 1278][/us/stat/128/1278].)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (b)(1), is [Pub. L. 99–662][/us/pl/99/662], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082], as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title][/us/usc/t33/s2201] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–121][/us/pl/113/121] substituted “50 feet” for “45 feet”.
 
     1996—Subsec. (a)(2). [Pub. L. 104–303, § 201(a)(1)][/us/pl/104/303/s201/a/1], inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
 
@@ -163,7 +165,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_ch36_schI.md) | [Next](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_s2212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211)
+[Previous](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_ch36_schI.md) | [Next](./../../../../..//us/usc/t33/ch36/schI/m__us_usc_t33_s2211a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2211)
 
 ----------
 ----------
@@ -180,9 +182,12 @@
 [/us/stat/106/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4852
 [/us/pl/104/303/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fa
 [/us/stat/110/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3671
+[/us/pl/113/121/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2102%2Fb
+[/us/stat/128/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1278
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/104/303/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fa%2F1
 [/us/pl/104/303/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fa%2F2
 [/us/pl/104/303/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs201%2Fa%2F3

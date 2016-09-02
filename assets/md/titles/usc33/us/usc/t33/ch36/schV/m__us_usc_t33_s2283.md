@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282d.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
 
 ## § 2283. Fish and wildlife mitigation
 
@@ -51,17 +51,17 @@
 
         (1) __In general__ 
 
-            After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to Congress in any report, and shall not select a project alternative in any report, unless such report contains (A) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, and other habitat types are mitigated to not less than in-kind conditions, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
+            After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to Congress in any report, and shall not select a project alternative in any report, unless such report contains (A) a recommendation with a specific plan to mitigate for damages to ecological resources, including terrestrial and aquatic resources, and fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on ecological resources and fish and wildlife without the implementation of mitigation measures. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, and other habitat types are mitigated to not less than in-kind conditions, to the extent possible. If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of [section 2317(a)(1) of this title][/us/usc/t33/s2317/a/1]. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
 
-        (2) __Design of mitigation projects__ 
+        (2) __Selection and design of mitigation projects__ 
 
-            The Secretary shall design mitigation projects to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
+            The Secretary shall select and design mitigation projects using a watershed approach to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
 
         (3) __Mitigation requirements__ 
 
             (A) __In general__ 
 
-                To mitigate losses to flood damage reduction capabilities and fish and wildlife resulting from a water resources project, the Secretary shall ensure that the mitigation plan for each water resources project complies with the mitigation standards and policies established pursuant to the regulatory programs administered by the Secretary.
+                To mitigate losses to flood damage reduction capabilities and fish and wildlife resulting from a water resources project, the Secretary shall ensure that the mitigation plan for each water resources project complies with, at a minimum, the mitigation standards and policies established pursuant to the regulatory programs administered by the Secretary.
 
             (B) __Inclusions__ 
 
@@ -71,9 +71,25 @@
 
                 (ii) the criteria for ecological success by which the mitigation will be evaluated and determined to be successful based on replacement of lost functions and values of the habitat, including hydrologic and vegetative characteristics;
 
-                (iii) a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;
+                (iii)
+
+                 for projects where mitigation will be carried out by the Secretary—
+
+                    (I) a description of the land and interest in land to be acquired for the mitigation plan;
+
+                    (II) the basis for a determination that the land and interests are available for acquisition; and
+
+                    (III) a determination that the proposed interest sought does not exceed the minimum interest in land necessary to meet the mitigation requirements for the project;
 
                 (iv)
+
+                 for projects where mitigation will be carried out through a third party mitigation arrangement in accordance with subsection (i)—
+
+                    (I) a description of the third party mitigation instrument to be used; and
+
+                    (II) the basis for a determination that the mitigation instrument can meet the mitigation requirements for the project;
+
+                (v)
 
                  a description of—
 
@@ -83,7 +99,7 @@
 
                     (III) the functions and values that will result from the mitigation plan; and
 
-                (v) a contingency plan for taking corrective actions in cases in which monitoring demonstrates that mitigation measures are not achieving ecological success in accordance with criteria under clause (ii).
+                (vi) a contingency plan for taking corrective actions in cases in which monitoring demonstrates that mitigation measures are not achieving ecological success in accordance with criteria under clause (ii).
 
             (C) __Responsibility for monitoring__ 
 
@@ -131,7 +147,119 @@
 
         The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[[16 U.S.C. 661][/us/usc/t16/s661] et seq.\], and nothing in this section is intended to affect that Act.
 
-([Pub. L. 99–662, title IX, § 906][/us/pl/99/662/s906], Nov. 17, 1986, [100 Stat. 4186][/us/stat/100/4186]; [Pub. L. 102–580, title III, § 333(a)][/us/pl/102/580/s333/a], Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 106–53, title II, § 221][/us/pl/106/53/s221], Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295]; [Pub. L. 106–541, title II, § 224(a)][/us/pl/106/541/s224/a], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II, § 2036(a)][/us/pl/110/114/s2036/a], Nov. 8, 2007, [121 Stat. 1092][/us/stat/121/1092].)
+    (h) __Programmatic mitigation plans__ 
+
+        (1) __In general__ 
+
+            The Secretary may develop programmatic mitigation plans to address the potential impacts to ecological resources, fish, and wildlife associated with existing or future Federal water resources development projects.
+
+        (2) __Use of mitigation plans__ 
+
+            The Secretary shall, to the maximum extent practicable, use programmatic mitigation plans developed in accordance with this subsection to guide the development of a mitigation plan under subsection (d).
+
+        (3) __Non-Federal plans__ 
+
+            The Secretary shall, to the maximum extent practicable and subject to all conditions of this subsection, use programmatic environmental plans developed by a State, a body politic of the State, which derives its powers from a State constitution, a government entity created by State legislation, or a local government, that meet the requirements of this subsection to address the potential environmental impacts of existing or future water resources development projects.
+
+        (4) __Scope__ 
+
+        A programmatic mitigation plan developed by the Secretary or an entity described in paragraph (3) to address potential impacts of existing or future water resources development projects shall, to the maximum extent practicable—
+
+            (A) be developed on a regional, ecosystem, watershed, or statewide scale;
+
+            (B) include specific goals for aquatic resource and fish and wildlife habitat restoration, establishment, enhancement, or preservation;
+
+            (C) identify priority areas for aquatic resource and fish and wildlife habitat protection or restoration;
+
+            (D) encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
+
+            (E) address impacts from all projects in a defined geographical area or focus on a specific type of project.
+
+        (5) __Consultation__ 
+
+            The scope of the plan shall be determined by the Secretary or an entity described in paragraph (3), as appropriate, in consultation with the agency with jurisdiction over the resources being addressed in the environmental mitigation plan.
+
+        (6) __Contents__ 
+
+        A programmatic environmental mitigation plan may include—
+
+            (A) an assessment of the condition of environmental resources in the geographical area covered by the plan, including an assessment of recent trends and any potential threats to those resources;
+
+            (B) an assessment of potential opportunities to improve the overall quality of environmental resources in the geographical area covered by the plan through strategic mitigation for impacts of water resources development projects;
+
+            (C) standard measures for mitigating certain types of impacts;
+
+            (D) parameters for determining appropriate mitigation for certain types of impacts, such as mitigation ratios or criteria for determining appropriate mitigation sites;
+
+            (E) adaptive management procedures, such as protocols that involve monitoring predicted impacts over time and adjusting mitigation measures in response to information gathered through the monitoring;
+
+            (F) acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources; and
+
+            (G) any offsetting benefits of self-mitigating projects, such as ecosystem or resource restoration and protection.
+
+        (7) __Process__ 
+
+        Before adopting a programmatic environmental mitigation plan for use under this subsection, the Secretary shall—
+
+            (A)
+
+             for a plan developed by the Secretary—
+
+                (i) make a draft of the plan available for review and comment by applicable environmental resource agencies and the public; and
+
+                (ii) consider any comments received from those agencies and the public on the draft plan; and
+
+            (B) for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through (6) and was made available for public comment.
+
+        (8) __Integration with other plans__ 
+
+            A programmatic environmental mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
+
+        (9) __Consideration in project development and permitting__ 
+
+            If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
+
+        (10) __Preservation of existing authorities__ 
+
+            Nothing in this subsection limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
+
+        (11) __Mitigation for existing projects__ 
+
+            Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated.
+
+    (i) __Third-party mitigation arrangements__ 
+
+        (1) __Eligible activities__ 
+
+        In accordance with all applicable Federal laws (including regulations), mitigation efforts carried out under this section may include—
+
+            (A)
+
+             participation in mitigation banking or other third-party mitigation arrangements, such as—
+
+                (i) the purchase of credits from commercial or State, regional, or local agency-sponsored mitigation banks; and
+
+                (ii) the purchase of credits from in-lieu fee mitigation programs; and
+
+            (B) contributions to statewide and regional efforts to conserve, restore, enhance, and create natural habitats and wetlands if the Secretary determines that the contributions will ensure that the mitigation requirements of this section and the goals of [section 2317(a)(1) of this title][/us/usc/t33/s2317/a/1] will be met.
+
+        (2) __Inclusion of other activities__ 
+
+            The banks, programs, and efforts described in paragraph (1) include any banks, programs, and efforts developed in accordance with applicable law (including regulations).
+
+        (3) __Terms and conditions__ 
+
+        In carrying out natural habitat and wetlands mitigation efforts under this section, contributions to the mitigation effort may—
+
+            (A) take place concurrent with, or in advance of, the commitment of funding to a project; and
+
+            (B) occur in advance of project construction only if the efforts are consistent with all applicable requirements of Federal law (including regulations) and water resources development planning processes.
+
+        (4) __Preference__ 
+
+            At the request of the non-Federal project sponsor, preference may be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project has been approved by the applicable Federal agency.
+
+([Pub. L. 99–662, title IX, § 906][/us/pl/99/662/s906], Nov. 17, 1986, [100 Stat. 4186][/us/stat/100/4186]; [Pub. L. 102–580, title III, § 333(a)][/us/pl/102/580/s333/a], Oct. 31, 1992, [106 Stat. 4852][/us/stat/106/4852]; [Pub. L. 106–53, title II, § 221][/us/pl/106/53/s221], Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295]; [Pub. L. 106–541, title II, § 224(a)][/us/pl/106/541/s224/a], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II, § 2036(a)][/us/pl/110/114/s2036/a], Nov. 8, 2007, [121 Stat. 1092][/us/stat/121/1092]; [Pub. L. 113–121, title I, § 1040(a)][/us/pl/113/121/s1040/a], June 10, 2014, [128 Stat. 1239][/us/stat/128/1239].)
 
  __References in Text__ 
 
@@ -143,7 +271,21 @@
 
     The Fish and Wildlife Coordination Act referred to in subsec. (g), is [act Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], [48 Stat. 401][/us/stat/48/401], as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16][/us/usc/t16/s661] and Tables.
 
+    The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–121, § 1040(a)(1)(A)][/us/pl/113/121/s1040/a/1/A], inserted “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”, “ecological resources and” after “impact on”, “without the implementation of mitigation measures” before period at end of first sentence, and “If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of [section 2317(a)(1) of this title][/us/usc/t33/s2317/a/1].” after “to the extent possible.”
+
+    Subsec. (d)(2). [Pub. L. 113–121, § 1040(a)(1)(B)(iii)][/us/pl/113/121/s1040/a/1/B/iii], which directed insertion of “using a watershed approach” after “projects” was executed by making the insertion after “projects” the first place appearing to reflect the probable intent of Congress.
+
+    [Pub. L. 113–121, § 1040(a)(1)(B)(i)][/us/pl/113/121/s1040/a/1/B/i], (ii), substituted “Selection and design” for “Design” in heading and inserted “select and” before “design” in text.
+
+    Subsec. (d)(3)(A). [Pub. L. 113–121, § 1040(a)(1)(C)(i)][/us/pl/113/121/s1040/a/1/C/i], inserted “, at a minimum,” after “complies with”.
+
+    Subsec. (d)(3)(B)(iii) to (vi). [Pub. L. 113–121, § 1040(a)(1)(C)(ii)][/us/pl/113/121/s1040/a/1/C/ii], added cls. (iii) and (iv), redesignated former cls. (iv) and (v) as (v) and (vi), respectively, and struck out former cl. (iii) which read as follows: “a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;”.
+
+    Subsecs. (h), (i). [Pub. L. 113–121, § 1040(a)(2)][/us/pl/113/121/s1040/a/2], added subsecs. (h) and (i).
 
     2007—Subsec. (d)(1). [Pub. L. 110–114, § 2036(a)(1)][/us/pl/110/114/s2036/a/1], (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
 
@@ -154,6 +296,12 @@
     1999—Subsec. (e). [Pub. L. 106–53][/us/pl/106/53] inserted after second sentence “Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project.”
 
     1992—Subsec. (c). [Pub. L. 102–580][/us/pl/102/580] inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
+
+ __Application__ 
+
+[Pub. L. 113–121, title I, § 1040(b)][/us/pl/113/121/s1040/b], June 10, 2014, [128 Stat. 1243][/us/stat/128/1243], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall not apply to a project for which a mitigation plan has been completed as of the date of enactment of this Act \[June 10, 2014\].”
 
  __Concurrent Mitigation__ 
 
@@ -183,15 +331,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282d.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
 
 ----------
 ----------
 
+[/us/usc/t33/s2317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2317%2Fa%2F1
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/99/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t33/s2317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2317%2Fa%2F1
 [/us/pl/99/662/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs906
 [/us/stat/100/4186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4186
 [/us/pl/102/580/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs333%2Fa
@@ -202,6 +354,8 @@
 [/us/stat/114/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2597
 [/us/pl/110/114/s2036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa
 [/us/stat/121/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1092
+[/us/pl/113/121/s1040/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa
+[/us/stat/128/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1239
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
@@ -214,11 +368,23 @@
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
+[/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
+[/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/113/121/s1040/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FA
+[/us/usc/t33/s2317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2317%2Fa%2F1
+[/us/pl/113/121/s1040/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FB%2Fiii
+[/us/pl/113/121/s1040/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FB%2Fi
+[/us/pl/113/121/s1040/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FC%2Fi
+[/us/pl/113/121/s1040/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F1%2FC%2Fii
+[/us/pl/113/121/s1040/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fa%2F2
 [/us/pl/110/114/s2036/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa%2F1
 [/us/pl/110/114/s2036/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2036%2Fa%2F3
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
+[/us/pl/113/121/s1040/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1040%2Fb
+[/us/stat/128/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1243
 [/us/pl/106/541/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs224%2Fb
 [/us/stat/114/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2598
 [/us/usc/t33/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283

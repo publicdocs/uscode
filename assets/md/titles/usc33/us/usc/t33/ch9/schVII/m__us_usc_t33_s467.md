@@ -17,11 +17,15 @@
 
     In this subchapter, the following definitions apply:
 
-    (1) __Board__ 
+    (1) __Administrator__ 
+
+        The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+    (2) __Board__ 
 
         The term “Board” means a National Dam Safety Review Board established under [section 467f(f) of this title][/us/usc/t33/s467f/f].
 
-    (2) __Dam__ 
+    (3) __Dam__ 
 
     The term “dam”—
 
@@ -55,11 +59,7 @@
 
                 (II) has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
 
-             unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Director).
-
-    (3) __Director__ 
-
-        The term “Director” means the Administrator of FEMA.
+             unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Administrator).
 
     (4) __Federal agency__ 
 
@@ -101,7 +101,7 @@
 
         The term “United States”, when used in a geographical sense, means all of the States.
 
-([Pub. L. 92–367, § 2][/us/pl/92/367/s2], as added [Pub. L. 104–303, title II, § 215(c)(4)][/us/pl/104/303/s215/c/4], Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685]; amended [Pub. L. 107–310, § 3(e)(2)][/us/pl/107/310/s3/e/2], Dec. 2, 2002, [116 Stat. 2451][/us/stat/116/2451]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 92–367, § 2][/us/pl/92/367/s2], as added [Pub. L. 104–303, title II, § 215(c)(4)][/us/pl/104/303/s215/c/4], Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685]; amended [Pub. L. 107–310, § 3(e)(2)][/us/pl/107/310/s3/e/2], Dec. 2, 2002, [116 Stat. 2451][/us/stat/116/2451]; [Pub. L. 113–121, title III, § 3001(a)][/us/pl/113/121/s3001/a], June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
 
  __Prior Provisions__ 
 
@@ -111,13 +111,17 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–121, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], substituted “Administrator” for “Director” wherever appearing.
+
+    Par. (1). [Pub. L. 113–121, § 3001(a)(2)(B)][/us/pl/113/121/s3001/a/2/B], (C), added par. (1) and redesignated former par. (1) as (2).
+
+    Par. (2). [Pub. L. 113–121, § 3001(a)(2)(B)][/us/pl/113/121/s3001/a/2/B], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+    Par. (3). [Pub. L. 113–121, § 3001(a)(2)(A)][/us/pl/113/121/s3001/a/2/A], (B), redesignated par. (2) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Administrator’ means the Administrator of FEMA.”
+
     2002—Par. (1). [Pub. L. 107–310, § 3(e)(2)(A)][/us/pl/107/310/s3/e/2/A], substituted “section 467f(f)” for “section 467f(h)”.
 
     Par. (12). [Pub. L. 107–310, § 3(e)(2)(B)][/us/pl/107/310/s3/e/2/B], substituted “section 467f(e)” for “section 467f(f)”.
-
- __Change of Name__ 
-
-    “Administrator of FEMA” substituted for “Director of FEMA” in par. (3) on authority of [section 612(c) of Pub. L. 109–295][/us/pl/109/295/s612/c], set out as a note under [section 313 of Title 6][/us/usc/t6/s313], Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of [Pub. L. 109–295][/us/pl/109/295] or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see [section 612(f)(2) of Pub. L. 109–295][/us/pl/109/295/s612/f/2], set out as a note under [section 313 of Title 6][/us/usc/t6/s313].
 
  __Short Title of 2006 Amendment__ 
 
@@ -147,7 +151,7 @@
 
     For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6][/us/usc/t6/s315/a/1], Domestic Security.
 
-    For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+    For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
  __Congressional Statement of Purpose; National Dam Safety Program__ 
 
@@ -177,8 +181,8 @@
 [/us/stat/110/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3685
 [/us/pl/107/310/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs3%2Fe%2F2
 [/us/stat/116/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2451
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
-[/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
+[/us/pl/113/121/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa
+[/us/stat/128/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1282
 [/us/pl/92/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs1
 [/us/stat/86/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F506
 [/us/pl/99/662/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1201%2Fa
@@ -187,13 +191,12 @@
 [/us/pl/92/367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs2
 [/us/pl/104/303/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F3
 [/us/usc/t33/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467a
+[/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
+[/us/pl/113/121/s3001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FB
+[/us/pl/113/121/s3001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FB
+[/us/pl/113/121/s3001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FA
 [/us/pl/107/310/s3/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs3%2Fe%2F2%2FA
 [/us/pl/107/310/s3/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs3%2Fe%2F2%2FB
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
-[/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
-[/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/460/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F460%2Fs1%2Fa
 [/us/stat/120/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3401
 [/us/pl/107/310/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs1%2Fa

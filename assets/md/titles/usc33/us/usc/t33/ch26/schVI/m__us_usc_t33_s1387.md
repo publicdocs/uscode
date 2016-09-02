@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1386.md) | [Next](./../../../../..//us/usc/t33/ch27/m__us_usc_t33_ch27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1387)
+[Previous](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1386.md) | [Next](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1388.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1387)
 
 ## § 1387. Authorization of appropriations
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1386.md) | [Next](./../../../../..//us/usc/t33/ch27/m__us_usc_t33_ch27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1387)
+[Previous](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1386.md) | [Next](./../../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1388.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1387)
 
 ----------
 ----------

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2338.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2340.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2339)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2338.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2339a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2339)
 
 ## § 2339. Assistance programs
 
     (a) __Conservation and recreation management__ 
 
-        To further training and educational opportunities at water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entities for services relating to natural resources conservation or recreation management.
+        To further training and educational opportunities about water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entities for services relating to natural resources conservation or recreation management.
 
     (b) __Rural community assistance__ 
 
@@ -27,11 +27,15 @@
 
         A cooperative agreement entered into under this section shall not be considered to be, or treated as being, a cooperative agreement to which chapter 63 of title 31 applies.
 
-([Pub. L. 106–541, title II, § 213][/us/pl/106/541/s213], Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593].)
+([Pub. L. 106–541, title II, § 213][/us/pl/106/541/s213], Dec. 11, 2000, [114 Stat. 2593][/us/stat/114/2593]; [Pub. L. 113–121, title I, § 1047(e)][/us/pl/113/121/s1047/e], June 10, 2014, [128 Stat. 1257][/us/stat/128/1257].)
 
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–121][/us/pl/113/121] substituted “about” for “at”.
 
  __“Secretary” Defined__ 
 
@@ -39,13 +43,16 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2338.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2340.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2339)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2338.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2339a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2339)
 
 ----------
 ----------
 
 [/us/pl/106/541/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs213
 [/us/stat/114/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2593
+[/us/pl/113/121/s1047/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1047%2Fe
+[/us/stat/128/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1257
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

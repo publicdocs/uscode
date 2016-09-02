@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1387.md) | [Next](./../../../..//us/usc/t33/ch27/m__us_usc_t33_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch27)
+[Previous](./../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1388.md) | [Next](./../../../..//us/usc/t33/ch27/m__us_usc_t33_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch27)
 
 ## CHAPTER 27—OCEAN DUMPING
 
@@ -219,7 +219,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1387.md) | [Next](./../../../..//us/usc/t33/ch27/m__us_usc_t33_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch27)
+[Previous](./../../../..//us/usc/t33/ch26/schVI/m__us_usc_t33_s1388.md) | [Next](./../../../..//us/usc/t33/ch27/m__us_usc_t33_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch27)
 
 ----------
 ----------

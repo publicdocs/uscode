@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s604.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s606.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs605)
+[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s604.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs605)
 
 ## § 605. Operation of snag boats on Upper Mississippi River
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s604.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s606.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs605)
+[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s604.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs605)
 
 ----------
 ----------

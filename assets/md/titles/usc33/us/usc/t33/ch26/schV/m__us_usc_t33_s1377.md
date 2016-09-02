@@ -25,7 +25,23 @@
 
     (c) __Reservation of funds__ 
 
-        The Administrator shall reserve each fiscal year beginning after September 30, 1986, before allotments to the States under [section 1285(e) of this title][/us/usc/t33/s1285/e], one-half of one percent of the sums appropriated under [section 1287 of this title][/us/usc/t33/s1287]. Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in [Public Law 92–203][/us/pl/92/203] \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\].
+        (1) __Fiscal years 1987–2014__ 
+
+            The Administrator shall reserve each of fiscal years 1987 through 2014, before allotments to the States under [section 1285(e) of this title][/us/usc/t33/s1285/e], one-half of one percent of the sums appropriated under [section 1287 of this title][/us/usc/t33/s1287].
+
+        (2) __Fiscal year 2015 and thereafter__ 
+
+            For fiscal year 2015 and each fiscal year thereafter, the Administrator shall reserve, before allotments to the States under [section 1384(a) of this title][/us/usc/t33/s1384/a], not less than 0.5 percent and not more than 2.0 percent of the funds made available to carry out subchapter VI.
+
+        (3) __Use of funds__ 
+
+        Funds reserved under this subsection shall be available only for grants for projects and activities eligible for assistance under [section 1383(c) of this title][/us/usc/t33/s1383/c] to serve—
+
+            (A) Indian tribes (as defined in subsection (h));
+
+            (B) former Indian reservations in Oklahoma (as determined by the Secretary of the Interior); and
+
+            (C) Native villages (as defined in [section 1602 of title 43][/us/usc/t43/s1602]).
 
     (d) __Cooperative agreements__ 
 
@@ -65,11 +81,9 @@
 
         (2) “Indian tribe” means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 518, as added [Pub. L. 100–4, title V, § 506][/us/pl/100/4/s506], Feb. 4, 1987, [101 Stat. 76][/us/stat/101/76]; amended [Pub. L. 100–581, title II, § 207][/us/pl/100/581/s207], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 106–284, § 6][/us/pl/106/284/s6], Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 518, as added [Pub. L. 100–4, title V, § 506][/us/pl/100/4/s506], Feb. 4, 1987, [101 Stat. 76][/us/stat/101/76]; amended [Pub. L. 100–581, title II, § 207][/us/pl/100/581/s207], Nov. 1, 1988, [102 Stat. 2940][/us/stat/102/2940]; [Pub. L. 106–284, § 6][/us/pl/106/284/s6], Oct. 10, 2000, [114 Stat. 876][/us/stat/114/876]; [Pub. L. 113–121, title V, § 5013][/us/pl/113/121/s5013], June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
 
  __References in Text__ 
-
-    [Public Law 92–203][/us/pl/92/203], referred to in subsec. (c), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. The term “Alaska Native Villages” is defined in [section 3 of Pub. L. 92–203][/us/pl/92/203/s3] which is classified to [section 1602 of Title 43][/us/usc/t43/s1602]. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
     Act of June 18, 1934 ([48 Stat. 987][/us/stat/48/987]), referred to in subsec. (g)(1), is [act June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], [48 Stat. 984][/us/stat/48/984], as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25][/us/usc/t25/s461] and Tables.
 
@@ -78,6 +92,10 @@
     A prior section 518 of act June 30, 1948, was renumbered section 519 and is set out as a note under [section 1251 of this title][/us/usc/t33/s1251].
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–121, § 5013(1)][/us/pl/113/121/s5013/1], (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+    Subsec. (c)(1). [Pub. L. 113–121, § 5013(2)][/us/pl/113/121/s5013/2], substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in [Public Law 92–203][/us/pl/92/203].”
 
     2000—Subsec. (e). [Pub. L. 106–284][/us/pl/106/284] substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
 
@@ -119,8 +137,9 @@ Provisions stating that for fiscal year 2006 and notwithstanding [section 1377(f
 [/us/usc/t33/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1296
 [/us/usc/t33/s1285/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1285%2Fe
 [/us/usc/t33/s1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1287
-[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
-[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/usc/t33/s1384/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1384%2Fa
+[/us/usc/t33/s1383/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fc
+[/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
@@ -133,17 +152,16 @@ Provisions stating that for fiscal year 2006 and notwithstanding [section 1377(f
 [/us/stat/102/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2940
 [/us/pl/106/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284%2Fs6
 [/us/stat/114/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F876
-[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
-[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
-[/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
-[/us/pl/92/203/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203%2Fs3
-[/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
-[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/pl/113/121/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013
+[/us/stat/128/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1328
 [/us/stat/48/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F987
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
+[/us/pl/113/121/s5013/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013%2F1
+[/us/pl/113/121/s5013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5013%2F2
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203

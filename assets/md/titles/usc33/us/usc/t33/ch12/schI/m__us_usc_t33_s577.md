@@ -17,11 +17,11 @@
 
     (a) __Allotment from appropriations for construction__ 
 
-        The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $35,000,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigation and which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
+        The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $50,000,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigation and which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
 
     (b) __Limitation on allotment__ 
 
-        Not more than $7,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
+        Not more than $10,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
 
     (c) __Lands, easements, and rights-of-way; indemnification; assurances of local cooperation__ 
 
@@ -39,9 +39,13 @@
 
         This section shall apply to, but not be limited to, the provision of low water access navigation channels from the existing channel of the Mississippi River to harbor areas heretofore or now established and located along the Mississippi River.
 
-([Pub. L. 86–645, title I, § 107][/us/pl/86/645/s107], July 14, 1960, [74 Stat. 486][/us/stat/74/486]; [Pub. L. 89–298, title III, § 310(a)][/us/pl/89/298/s310/a] Oct. 27, 1965, [79 Stat. 1095][/us/stat/79/1095]; [Pub. L. 91–611, title I, § 112(a)][/us/pl/91/611/s112/a], Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821]; [Pub. L. 94–587, § 133(a)][/us/pl/94/587/s133/a], Oct. 22, 1976, [90 Stat. 2928][/us/stat/90/2928]; [Pub. L. 99–662, title IX, § 915(d)][/us/pl/99/662/s915/d], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 110–114, title II, § 2022][/us/pl/110/114/s2022], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078].)
+([Pub. L. 86–645, title I, § 107][/us/pl/86/645/s107], July 14, 1960, [74 Stat. 486][/us/stat/74/486]; [Pub. L. 89–298, title III, § 310(a)][/us/pl/89/298/s310/a] Oct. 27, 1965, [79 Stat. 1095][/us/stat/79/1095]; [Pub. L. 91–611, title I, § 112(a)][/us/pl/91/611/s112/a], Dec. 31, 1970, [84 Stat. 1821][/us/stat/84/1821]; [Pub. L. 94–587, § 133(a)][/us/pl/94/587/s133/a], Oct. 22, 1976, [90 Stat. 2928][/us/stat/90/2928]; [Pub. L. 99–662, title IX, § 915(d)][/us/pl/99/662/s915/d], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 110–114, title II, § 2022][/us/pl/110/114/s2022], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(b)][/us/pl/113/121/s1030/b], June 10, 2014, [128 Stat. 1231][/us/stat/128/1231].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–121, § 1030(b)(1)][/us/pl/113/121/s1030/b/1], substituted “$50,000,000” for “$35,000,000”.
+
+    Subsec. (b). [Pub. L. 113–121, § 1030(b)(2)][/us/pl/113/121/s1030/b/2], substituted “$10,000,000” for “$7,000,000”.
 
     2007—Subsec. (b). [Pub. L. 110–114][/us/pl/110/114] substituted “$7,000,000” for “$4,000,000”.
 
@@ -92,6 +96,10 @@
 [/us/stat/100/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4191
 [/us/pl/110/114/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2022
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
+[/us/pl/113/121/s1030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fb
+[/us/stat/128/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1231
+[/us/pl/113/121/s1030/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fb%2F1
+[/us/pl/113/121/s1030/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fb%2F2
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

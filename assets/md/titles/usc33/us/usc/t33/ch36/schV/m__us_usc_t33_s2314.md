@@ -53,15 +53,17 @@
 
     (d) __“Innovative technology” defined__ 
 
-        For the purpose of this section, the term “innovative technology” means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
+        For the purpose of this section, the term “innovative technology” means designs, methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.
 
-([Pub. L. 100–676, § 8][/us/pl/100/676/s8], Nov. 17, 1988, [102 Stat. 4023][/us/stat/102/4023]; [Pub. L. 106–53, title V, § 503(b)][/us/pl/106/53/s503/b], Aug. 17, 1999, [113 Stat. 337][/us/stat/113/337].)
+([Pub. L. 100–676, § 8][/us/pl/100/676/s8], Nov. 17, 1988, [102 Stat. 4023][/us/stat/102/4023]; [Pub. L. 106–53, title V, § 503(b)][/us/pl/106/53/s503/b], Aug. 17, 1999, [113 Stat. 337][/us/stat/113/337]; [Pub. L. 113–121, title III, § 3021][/us/pl/113/121/s3021], June 10, 2014, [128 Stat. 1301][/us/stat/128/1301].)
 
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.” for “materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.”
 
     1999—Subsecs. (b) to (d). [Pub. L. 106–53][/us/pl/106/53] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -134,6 +136,9 @@
 [/us/stat/102/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4023
 [/us/pl/106/53/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs503%2Fb
 [/us/stat/113/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F337
+[/us/pl/113/121/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3021
+[/us/stat/128/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1301
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53
 [/us/pl/106/541/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs221
 [/us/stat/114/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2596

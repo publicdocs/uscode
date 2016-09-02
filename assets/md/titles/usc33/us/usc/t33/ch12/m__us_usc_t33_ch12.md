@@ -577,6 +577,22 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs579b" data-uslm-ref="/us/usc/t33/s579b">579b.</a>  </td>
+
+    <td> Deauthorization of inactive projects.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs579c" data-uslm-ref="/us/usc/t33/s579c">579c.</a>  </td>
+
+    <td> Backlog prevention.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE  </td>
@@ -756,6 +772,14 @@ SUBCHAPTER IV—PARTICULAR WORK OR IMPROVEMENTS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs605" data-uslm-ref="/us/usc/t33/s605">605.</a>  </td>
 
     <td> Operation of snag boats on Upper Mississippi River.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs605a" data-uslm-ref="/us/usc/t33/s605a">605a.</a>  </td>
+
+    <td> Mississippi River forecasting improvements.  </td>
 
   </tr>
 

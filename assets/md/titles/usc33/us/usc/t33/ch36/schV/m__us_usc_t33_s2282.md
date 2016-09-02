@@ -19,11 +19,11 @@
 
         (1) __In general__ 
 
-            In the case of any water resources project-related study authorized to be undertaken by the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and prepare a feasibility report, subject to [section 2215 of this title][/us/usc/t33/s2215].
+            In the case of any water resources project-related study authorized to be undertaken by the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall prepare a feasibility report, subject to [section 2215 of this title][/us/usc/t33/s2215].
 
         (2) __Contents of feasibility reports__ 
 
-            A feasibility report shall describe, with reasonable certainty, the economic, environmental, and social benefits and detriments of the recommended plan and alternative plans considered by the Secretary and the engineering features (including hydrologic and geologic information), the public acceptability, and the purposes, scope, and scale of the recommended plan. A feasibility report shall also include the views of other Federal agencies and non-Federal agencies with regard to the recommended plan, a description of a nonstructural alternative to the recommended plan when such plan does not have significant nonstructural features, and a description of the Federal and non-Federal participation in such plan, and shall demonstrate that States, other non-Federal interests, and Federal agencies have been consulted in the development of the recommended plan.
+            A feasibility report shall describe, with reasonable certainty, the economic, environmental, and social benefits and detriments of the recommended plan and alternative plans considered by the Secretary and the engineering features (including hydrologic and geologic information), the public acceptability, and the purposes, scope, and scale of the recommended plan. A feasibility report shall also include the views of other Federal agencies and non-Federal agencies with regard to the recommended plan, a description of a nonstructural alternative to the recommended plan when such plan does not have significant nonstructural features, and a description of the Federal and non-Federal participation in such plan, and shall demonstrate that States, other non-Federal interests, and Federal agencies have been consulted in the development of the recommended plan. A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.
 
         (3) __Applicability__ 
 
@@ -41,9 +41,7 @@
 
             In this subsection, the term “feasibility report” means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 ([114 Stat. 2680–2694][/us/stat/114/2680-2694]), a general reevaluation report, and a limited reevaluation report.
 
-    (b) __Reconnaissance studies__ 
-
-        Before initiating any feasibility study under subsection (a) of this section after November 17, 1986, the Secretary shall first perform, at Federal expense, a reconnaissance study of the water resources problem in order to identify potential solutions to such problem in sufficient detail to enable the Secretary to determine whether or not planning to develop a project should proceed to the preparation of a feasibility report. Such reconnaissance study shall include a preliminary analysis of the Federal interest, costs, benefits, and environmental impacts of such project, and an estimate of the costs of preparing the feasibility report. The duration of a reconnaissance study shall normally be no more than twelve months, but in all cases is to be limited to eighteen months.
+    (b) __Repealed.__  __[__  __Pub. L. 113–121, title I, § 1002(a)(1)__  __][/us/pl/113/121/s1002/a/1]__  __,__  __June 10, 2014__  __,__  __[__  __128 Stat. 1198__  __][/us/stat/128/1198]__ 
 
     (c) __Projects not specifically authorized by Congress__ 
 
@@ -71,7 +69,47 @@
 
             Procedures established under this subsection shall not delay development of any feasibility study under subsection (a) of this section.
 
-([Pub. L. 99–662, title IX, § 905][/us/pl/99/662/s905], Nov. 17, 1986, [100 Stat. 4185][/us/stat/100/4185]; [Pub. L. 106–541, title II, § 222(a)][/us/pl/106/541/s222/a], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II, § 2043(b)][/us/pl/110/114/s2043/b], Nov. 8, 2007, [121 Stat. 1101][/us/stat/121/1101].)
+    (g) __Detailed project schedule__ 
+
+        (1) __In general__ 
+
+            Not later than 180 days after June 10, 2014, the Secretary shall determine a set of milestones needed for the completion of a feasibility study under this subsection, including all major actions, report submissions and responses, reviews, and comment periods.
+
+        (2) __Detailed project schedule milestones__ 
+
+            Each District Engineer shall, to the maximum extent practicable, establish a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to feasibility studies in the District developed by the Secretary under paragraph (1).
+
+        (3) __Non-Federal interest notification__ 
+
+        Each District Engineer shall submit by certified mail the detailed project schedule under paragraph (2) to each relevant non-Federal interest—
+
+            (A) for projects that have received funding from the General Investigations Account of the Corps of Engineers in the period beginning on October 1, 2009, and ending on June 10, 2014, not later than 180 days after the establishment of milestones under paragraph (1); and
+
+            (B) for projects for which a feasibility cost-sharing agreement is executed after the establishment of milestones under paragraph (1), not later than 90 days after the date on which the agreement is executed.
+
+        (4) __Congressional and public notification__ 
+
+        Beginning in the first full fiscal year after June 10, 2014, the Secretary shall—
+
+            (A) submit an annual report that lists all detailed project schedules under paragraph (2) and an explanation of any missed deadlines to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+            (B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “the”. </sup></sup>  on which a report is submitted to Congress.
+
+        (5) __Failure to act__ 
+
+        If a District Engineer fails to meet any of the deadlines in the project schedule under paragraph (2), the District Engineer shall—
+
+            (A)
+
+             not later than 30 days after each missed deadline, submit to the non-Federal interest a report detailing—
+
+                (i) why the District Engineer failed to meet the deadline; and
+
+                (ii) a revised project schedule reflecting amended deadlines for the feasibility study; and
+
+            (B) not later than 30 days after each missed deadline, make publicly available, including on the Internet, a copy of the amended project schedule described in subparagraph (A)(ii).
+
+([Pub. L. 99–662, title IX, § 905][/us/pl/99/662/s905], Nov. 17, 1986, [100 Stat. 4185][/us/stat/100/4185]; [Pub. L. 106–541, title II, § 222(a)][/us/pl/106/541/s222/a], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597]; [Pub. L. 110–114, title II, § 2043(b)][/us/pl/110/114/s2043/b], Nov. 8, 2007, [121 Stat. 1101][/us/stat/121/1101]; [Pub. L. 113–121, title I, § 1002(a)][/us/pl/113/121/s1002/a]–(c), June 10, 2014, [128 Stat. 1198][/us/stat/128/1198].)
 
  __References in Text__ 
 
@@ -83,6 +121,14 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(1). [Pub. L. 113–121, § 1002(a)(2)][/us/pl/113/121/s1002/a/2], struck out “perform a reconnaissance study and” after “shall”.
+
+    Subsec. (a)(2). [Pub. L. 113–121, § 1002(b)][/us/pl/113/121/s1002/b], inserted at end “A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.”
+
+    Subsec. (b). [Pub. L. 113–121, § 1002(a)(1)][/us/pl/113/121/s1002/a/1], struck out subsec. (b) which related to performing reconnaissance studies prior to initiating feasibility studies.
+
+    Subsec. (g). [Pub. L. 113–121, § 1002(c)][/us/pl/113/121/s1002/c], added subsec. (g).
+
     2007—Subsec. (a). [Pub. L. 110–114, § 2043(b)(1)][/us/pl/110/114/s2043/b/1], designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s][/us/usc/t33/s701s]), section 2 of the Flood Control Act of August 28, 1946 ([33 U.S.C. 701r][/us/usc/t33/s701r]), section 107 of the River and Harbor Act of 1960 ([33 U.S.C. 577][/us/usc/t33/s577]), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 ([33 U.S.C. 426g][/us/usc/t33/s426g]), and section 111 of the River and Harbor Act of 1968 ([33 U.S.C. 426i][/us/usc/t33/s426i]), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
 
     Subsec. (b). [Pub. L. 110–114, § 2043(b)(2)(A)][/us/pl/110/114/s2043/b/2/A], inserted heading.
@@ -90,6 +136,22 @@
     Subsecs. (c) to (f). [Pub. L. 110–114, § 2043(b)(2)(B)][/us/pl/110/114/s2043/b/2/B]–(E), added subsec. (c), redesignated former subsecs. (c) to (e) as (d) to (f), respectively, and inserted headings in subsecs. (d) and (e).
 
     2000—Subsec. (e). [Pub. L. 106–541][/us/pl/106/541] added subsec. (e).
+
+ __Applicability__ 
+
+[Pub. L. 113–121, title I, § 1002(d)][/us/pl/113/121/s1002/d], June 10, 2014, [128 Stat. 1199][/us/stat/128/1199], provided that: 
+
+> “The Secretary \[of the Army\] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act \[June 10, 2014\] as if this section \[amending this section\], including the amendments made by this section, had not been enacted.”
+
+ __Expedited Completion of Reports__ 
+
+[Pub. L. 113–121, title I, § 1003][/us/pl/113/121/s1003], June 10, 2014, [128 Stat. 1199][/us/stat/128/1199], provided that: 
+
+> “The Secretary \[of the Army\] shall—
+
+>     “(1) expedite the completion of any on-going feasibility study for a project initiated before the date of enactment of this Act \[June 10, 2014\]; and
+
+>     “(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design of the project in accordance with section 910 of the Water Resources Development Act of 1986 ([33 U.S.C. 2287][/us/usc/t33/s2287]).”
 
  __National Academy of Sciences Study__ 
 
@@ -182,12 +244,16 @@
 
 [/us/usc/t33/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2215
 [/us/stat/114/2680-2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2680-2694
+[/us/pl/113/121/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fa%2F1
+[/us/stat/128/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1198
 [/us/pl/99/662/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs905
 [/us/stat/100/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4185
 [/us/pl/106/541/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs222%2Fa
 [/us/stat/114/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2597
 [/us/pl/110/114/s2043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fb
 [/us/stat/121/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1101
+[/us/pl/113/121/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fa
+[/us/stat/128/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1198
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4082
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
@@ -196,6 +262,10 @@
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/stat/114/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2572
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
+[/us/pl/113/121/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fa%2F2
+[/us/pl/113/121/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fb
+[/us/pl/113/121/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fa%2F1
+[/us/pl/113/121/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fc
 [/us/pl/110/114/s2043/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fb%2F1
 [/us/usc/t33/s701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701s
 [/us/usc/t33/s701r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701r
@@ -205,6 +275,11 @@
 [/us/pl/110/114/s2043/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fb%2F2%2FA
 [/us/pl/110/114/s2043/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2043%2Fb%2F2%2FB
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/113/121/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1002%2Fd
+[/us/stat/128/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1199
+[/us/pl/113/121/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1003
+[/us/stat/128/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1199
+[/us/usc/t33/s2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2287
 [/us/pl/106/541/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs216
 [/us/stat/114/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2595
 [/us/pl/106/541/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs219

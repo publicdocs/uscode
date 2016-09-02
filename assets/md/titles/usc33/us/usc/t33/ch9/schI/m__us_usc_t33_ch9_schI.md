@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/m__us_usc_t33_ch9.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s401.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch9%2FschI)
+[Previous](./../../../../..//us/usc/t33/ch9/m__us_usc_t33_ch9.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s400.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch9%2FschI)
 
 ### SUBCHAPTER I—IN GENERAL
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/m__us_usc_t33_ch9.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s401.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch9%2FschI)
+[Previous](./../../../../..//us/usc/t33/ch9/m__us_usc_t33_ch9.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s400.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch9%2FschI)
 
 ----------
 ----------

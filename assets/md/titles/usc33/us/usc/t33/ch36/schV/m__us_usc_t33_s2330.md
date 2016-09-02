@@ -55,19 +55,21 @@
 
     (d) __Cost limitation__ 
 
-        Not more than $5,000,000 in Federal funds may be allotted under this section for a project at any single locality.
+        Not more than $10,000,000 in Federal funds may be allotted under this section for a project at any single locality.
 
     (e) __Funding__ 
 
         There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.
 
-([Pub. L. 104–303, title II, § 206][/us/pl/104/303/s206], Oct. 12, 1996, [110 Stat. 3679][/us/stat/110/3679]; [Pub. L. 106–53, title II, § 210][/us/pl/106/53/s210], Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II, § 2020][/us/pl/110/114/s2020], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078].)
+([Pub. L. 104–303, title II, § 206][/us/pl/104/303/s206], Oct. 12, 1996, [110 Stat. 3679][/us/stat/110/3679]; [Pub. L. 106–53, title II, § 210][/us/pl/106/53/s210], Aug. 17, 1999, [113 Stat. 287][/us/stat/113/287]; [Pub. L. 110–114, title II, § 2020][/us/pl/110/114/s2020], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(g)][/us/pl/113/121/s1030/g], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “$10,000,000” for “$5,000,000”.
 
     2007—Subsec. (a). [Pub. L. 110–114, § 2020(1)][/us/pl/110/114/s2020/1], added subsec. (a) and struck out former subsec. (a), which read as follows:
 
@@ -102,6 +104,9 @@
 [/us/stat/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F287
 [/us/pl/110/114/s2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
+[/us/pl/113/121/s1030/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fg
+[/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2020/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020%2F1
 [/us/pl/110/114/s2020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2020%2F2
 [/us/pl/106/53/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs210%2F1

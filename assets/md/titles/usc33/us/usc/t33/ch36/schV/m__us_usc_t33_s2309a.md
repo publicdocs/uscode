@@ -39,7 +39,7 @@
 
     (d) __Non-Federal share; limitation on maximum Federal expenditure__ 
 
-        The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. Not more than 80 percent of the non-Federal share may be in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $5,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
+        The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. The non-Federal share may be provided in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $10,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
 
     (e) __Coordination of actions__ 
 
@@ -59,7 +59,7 @@
 
         In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-([Pub. L. 99–662, title XI, § 1135][/us/pl/99/662/s1135], Nov. 17, 1986, [100 Stat. 4251][/us/stat/100/4251]; [Pub. L. 100–676, § 41][/us/pl/100/676/s41], Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040]; [Pub. L. 101–640, title III, § 304][/us/pl/101/640/s304], Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 102–580, title II, § 202][/us/pl/102/580/s202], Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II, § 204][/us/pl/104/303/s204], Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678]; [Pub. L. 106–53, title V, § 506][/us/pl/106/53/s506], Aug. 17, 1999, [113 Stat. 338][/us/stat/113/338]; [Pub. L. 106–541, title II, § 210(c)][/us/pl/106/541/s210/c], Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592]; [Pub. L. 110–114, title II, § 2024][/us/pl/110/114/s2024], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079].)
+([Pub. L. 99–662, title XI, § 1135][/us/pl/99/662/s1135], Nov. 17, 1986, [100 Stat. 4251][/us/stat/100/4251]; [Pub. L. 100–676, § 41][/us/pl/100/676/s41], Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040]; [Pub. L. 101–640, title III, § 304][/us/pl/101/640/s304], Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 102–580, title II, § 202][/us/pl/102/580/s202], Oct. 31, 1992, [106 Stat. 4826][/us/stat/106/4826]; [Pub. L. 104–303, title II, § 204][/us/pl/104/303/s204], Oct. 12, 1996, [110 Stat. 3678][/us/stat/110/3678]; [Pub. L. 106–53, title V, § 506][/us/pl/106/53/s506], Aug. 17, 1999, [113 Stat. 338][/us/stat/113/338]; [Pub. L. 106–541, title II, § 210(c)][/us/pl/106/541/s210/c], Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592]; [Pub. L. 110–114, title II, § 2024][/us/pl/110/114/s2024], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079]; [Pub. L. 113–121, title I, § 1030(f)][/us/pl/113/121/s1030/f], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
@@ -68,6 +68,8 @@
     Section was formerly set out as a note under [section 2294 of this title][/us/usc/t33/s2294].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “The non-Federal share may be provided” for “Not more than 80 percent of the non-Federal share may be” and “$10,000,000” for “$5,000,000”.
 
     2007—Subsec. (h). [Pub. L. 110–114][/us/pl/110/114] substituted “$40,000,000” for “$25,000,000”.
 
@@ -129,9 +131,12 @@
 [/us/stat/114/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2592
 [/us/pl/110/114/s2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2024
 [/us/stat/121/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1079
+[/us/pl/113/121/s1030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Ff
+[/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t33/s2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2294
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/106/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53

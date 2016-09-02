@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–14.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701c)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–16.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701c)
 
 ## § 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance
 
@@ -73,7 +73,7 @@ Similar provisions were contained in the following prior acts:
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–14.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701c)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–16.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701c)
 
 ----------
 ----------

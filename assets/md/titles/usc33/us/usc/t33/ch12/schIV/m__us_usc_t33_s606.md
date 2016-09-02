@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s607.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs606)
+[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s607.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs606)
 
 ## § 606. Removal of snags, and so forth, from Ohio River
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s607.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs606)
+[Previous](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s605a.md) | [Next](./../../../../..//us/usc/t33/ch12/schIV/m__us_usc_t33_s607.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs606)
 
 ----------
 ----------

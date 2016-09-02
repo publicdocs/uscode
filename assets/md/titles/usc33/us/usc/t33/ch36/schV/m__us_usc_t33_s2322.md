@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2322)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2322)
 
 ## § 2322. Single entities
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2322)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2322)
 
 ----------
 ----------

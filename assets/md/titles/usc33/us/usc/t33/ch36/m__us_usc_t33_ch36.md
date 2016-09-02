@@ -49,6 +49,14 @@ SUBCHAPTER I—COST SHARING  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2211a" data-uslm-ref="/us/usc/t33/s2211a">2211a.</a>  </td>
+
+    <td> Preserving United States harbors.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2212" data-uslm-ref="/us/usc/t33/s2212">2212.</a>  </td>
 
     <td> Inland waterway transportation.  </td>
@@ -137,6 +145,46 @@ SUBCHAPTER I—COST SHARING  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2223" data-uslm-ref="/us/usc/t33/s2223">2223.</a>  </td>
+
+    <td> Transfer of excess credit.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2224" data-uslm-ref="/us/usc/t33/s2224">2224.</a>  </td>
+
+    <td> Crediting authority for federally authorized navigation projects.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2225" data-uslm-ref="/us/usc/t33/s2225">2225.</a>  </td>
+
+    <td> Credit in lieu of reimbursement.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2226" data-uslm-ref="/us/usc/t33/s2226">2226.</a>  </td>
+
+    <td> Water resources projects on Federal land.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2227" data-uslm-ref="/us/usc/t33/s2227">2227.</a>  </td>
+
+    <td> Clarification of impacts to other Federal facilities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—HARBOR DEVELOPMENT  </td>
@@ -147,7 +195,7 @@ SUBCHAPTER II—HARBOR DEVELOPMENT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2231" data-uslm-ref="/us/usc/t33/s2231">2231.</a>  </td>
 
-    <td> Studies of projects by non-Federal interests.  </td>
+    <td> Study of water resources development projects by non-Federal interests.  </td>
 
   </tr>
 
@@ -155,7 +203,7 @@ SUBCHAPTER II—HARBOR DEVELOPMENT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2232" data-uslm-ref="/us/usc/t33/s2232">2232.</a>  </td>
 
-    <td> Construction of projects by non-Federal interests.  </td>
+    <td> Construction of water resources development projects by non-Federal interests.  </td>
 
   </tr>
 
@@ -217,6 +265,22 @@ SUBCHAPTER II—HARBOR DEVELOPMENT  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2238b" data-uslm-ref="/us/usc/t33/s2238b">2238b.</a>  </td>
+
+    <td> Funding for harbor maintenance programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2238c" data-uslm-ref="/us/usc/t33/s2238c">2238c.</a>  </td>
+
+    <td> Additional measures at donor ports and energy transfer ports.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2239" data-uslm-ref="/us/usc/t33/s2239">2239.</a>  </td>
 
     <td> Repealed.  </td>
@@ -249,6 +313,14 @@ SUBCHAPTER II—HARBOR DEVELOPMENT  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2243" data-uslm-ref="/us/usc/t33/s2243">2243.</a>  </td>
+
+    <td> Arctic deep draft port development partnerships.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—INLAND WATERWAY TRANSPORTATION SYSTEM  </td>
@@ -260,6 +332,38 @@ SUBCHAPTER III—INLAND WATERWAY TRANSPORTATION SYSTEM  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2251" data-uslm-ref="/us/usc/t33/s2251">2251.</a>  </td>
 
     <td> Inland Waterways Users Board.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2252" data-uslm-ref="/us/usc/t33/s2252">2252.</a>  </td>
+
+    <td> Project delivery process reforms.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2253" data-uslm-ref="/us/usc/t33/s2253">2253.</a>  </td>
+
+    <td> Annual financial review.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2254" data-uslm-ref="/us/usc/t33/s2254">2254.</a>  </td>
+
+    <td> Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2255" data-uslm-ref="/us/usc/t33/s2255">2255.</a>  </td>
+
+    <td> Inland waterways riverbank stabilization.  </td>
 
   </tr>
 
@@ -337,6 +441,14 @@ SUBCHAPTER IV—WATER RESOURCES STUDIES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2267b" data-uslm-ref="/us/usc/t33/s2267b">2267b.</a>  </td>
+
+    <td> Post-disaster watershed assessments.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2268" data-uslm-ref="/us/usc/t33/s2268">2268.</a>  </td>
 
     <td> Marine technology review.  </td>
@@ -401,6 +513,22 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2282c" data-uslm-ref="/us/usc/t33/s2282c">2282c.</a>  </td>
+
+    <td> Vertical integration and acceleration of studies.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2282d" data-uslm-ref="/us/usc/t33/s2282d">2282d.</a>  </td>
+
+    <td> Annual report to Congress.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2283" data-uslm-ref="/us/usc/t33/s2283">2283.</a>  </td>
 
     <td> Fish and wildlife mitigation.  </td>
@@ -412,6 +540,22 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2283a" data-uslm-ref="/us/usc/t33/s2283a">2283a.</a>  </td>
 
     <td> Status report.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2283b" data-uslm-ref="/us/usc/t33/s2283b">2283b.</a>  </td>
+
+    <td> Clarification of mitigation authority.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2283c" data-uslm-ref="/us/usc/t33/s2283c">2283c.</a>  </td>
+
+    <td> Technical assistance.  </td>
 
   </tr>
 
@@ -467,7 +611,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2288" data-uslm-ref="/us/usc/t33/s2288">2288.</a>  </td>
 
-    <td> Review of cost effectiveness of design.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -713,9 +857,25 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2314b" data-uslm-ref="/us/usc/t33/s2314b">2314b.</a>  </td>
+
+    <td> Advanced modeling technologies.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2315" data-uslm-ref="/us/usc/t33/s2315">2315.</a>  </td>
 
     <td> Periodic statements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2315a" data-uslm-ref="/us/usc/t33/s2315a">2315a.</a>  </td>
+
+    <td> Transparency in accounting and administrative expenses.  </td>
 
   </tr>
 
@@ -793,6 +953,14 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2321b" data-uslm-ref="/us/usc/t33/s2321b">2321b.</a>  </td>
+
+    <td> Expediting hydropower at Corps of Engineers facilities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2322" data-uslm-ref="/us/usc/t33/s2322">2322.</a>  </td>
 
     <td> Single entities.  </td>
@@ -828,6 +996,14 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2325" data-uslm-ref="/us/usc/t33/s2325">2325.</a>  </td>
 
     <td> Voluntary contributions for environmental and recreation projects.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2325a" data-uslm-ref="/us/usc/t33/s2325a">2325a.</a>  </td>
+
+    <td> Authority to accept and use materials and services.  </td>
 
   </tr>
 
@@ -876,6 +1052,14 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2328" data-uslm-ref="/us/usc/t33/s2328">2328.</a>  </td>
 
     <td> Challenge cost-sharing program for management of recreation facilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2328a" data-uslm-ref="/us/usc/t33/s2328a">2328a.</a>  </td>
+
+    <td> Special use permits.  </td>
 
   </tr>
 
@@ -977,6 +1161,14 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2339a" data-uslm-ref="/us/usc/t33/s2339a">2339a.</a>  </td>
+
+    <td> Cooperative agreements with Indian tribes.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2340" data-uslm-ref="/us/usc/t33/s2340">2340.</a>  </td>
 
     <td> Revision of project partnership agreement; cost sharing.  </td>
@@ -988,6 +1180,14 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2341" data-uslm-ref="/us/usc/t33/s2341">2341.</a>  </td>
 
     <td> Expedited actions for emergency flood damage reduction.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2341a" data-uslm-ref="/us/usc/t33/s2341a">2341a.</a>  </td>
+
+    <td> Prioritization.  </td>
 
   </tr>
 
@@ -1041,9 +1241,49 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2347a" data-uslm-ref="/us/usc/t33/s2347a">2347a.</a>  </td>
+
+    <td> Determination of project completion.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2348" data-uslm-ref="/us/usc/t33/s2348">2348.</a>  </td>
 
-    <td> Project streamlining.  </td>
+    <td> Project acceleration.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2349" data-uslm-ref="/us/usc/t33/s2349">2349.</a>  </td>
+
+    <td> Categorical exclusions in emergencies.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2350" data-uslm-ref="/us/usc/t33/s2350">2350.</a>  </td>
+
+    <td> Corrosion prevention.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2351" data-uslm-ref="/us/usc/t33/s2351">2351.</a>  </td>
+
+    <td> Durability, sustainability, and resilience.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs2352" data-uslm-ref="/us/usc/t33/s2352">2352.</a>  </td>
+
+    <td> Funding to process permits.  </td>
 
   </tr>
 

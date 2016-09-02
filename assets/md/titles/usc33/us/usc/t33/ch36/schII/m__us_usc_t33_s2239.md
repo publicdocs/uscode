@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238a.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238c.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
 
 ## § 2239. Repealed. [Pub. L. 101–640, title IV, § 412(f)][/us/pl/101/640/s412/f], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650]
 
@@ -101,7 +101,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238a.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238c.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
 
 ----------
 ----------

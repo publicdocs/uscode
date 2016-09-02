@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s408.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s410.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs409)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s408a.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s410.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs409)
 
 ## § 409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s408.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s410.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs409)
+[Previous](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s408a.md) | [Next](./../../../../..//us/usc/t33/ch9/schI/m__us_usc_t33_s410.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs409)
 
 ----------
 ----------

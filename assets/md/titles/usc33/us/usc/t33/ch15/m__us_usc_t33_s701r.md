@@ -15,11 +15,13 @@
 
 ## § 701r. Protection of highways, bridge approaches, public works, and nonprofit public services
 
-    The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $15,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $1,500,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year.
+    The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $20,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year.
 
-([July 24, 1946, ch. 596, § 14][/us/act/1946-07-24/ch596/s14], [60 Stat. 653][/us/stat/60/653]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 93–251, title I, § 27][/us/pl/93/251/s27], Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 99–662, title IX, § 915(c)][/us/pl/99/662/s915/c], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II, § 219][/us/pl/104/303/s219], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 110–114, title II, § 2023][/us/pl/110/114/s2023], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078].)
+([July 24, 1946, ch. 596, § 14][/us/act/1946-07-24/ch596/s14], [60 Stat. 653][/us/stat/60/653]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 93–251, title I, § 27][/us/pl/93/251/s27], Mar. 7, 1974, [88 Stat. 20][/us/stat/88/20]; [Pub. L. 99–662, title IX, § 915(c)][/us/pl/99/662/s915/c], Nov. 17, 1986, [100 Stat. 4191][/us/stat/100/4191]; [Pub. L. 104–303, title II, § 219][/us/pl/104/303/s219], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 110–114, title II, § 2023][/us/pl/110/114/s2023], Nov. 8, 2007, [121 Stat. 1078][/us/stat/121/1078]; [Pub. L. 113–121, title I, § 1030(i)][/us/pl/113/121/s1030/i], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–121][/us/pl/113/121] substituted “$20,000,000” for “$15,000,000” and “$5,000,000” for “$1,500,000”.
 
     2007—[Pub. L. 110–114][/us/pl/110/114] substituted “$1,500,000” for “$1,000,000”.
 
@@ -56,6 +58,9 @@
 [/us/stat/110/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3696
 [/us/pl/110/114/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2023
 [/us/stat/121/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1078
+[/us/pl/113/121/s1030/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fi
+[/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

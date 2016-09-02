@@ -17,7 +17,7 @@
 
     (a) __General authority__ 
 
-        Subject to the provisions of this subchapter, the Administrator shall make capitalization grants to each State for the purpose of establishing a water pollution control revolving fund for providing assistance (1) for construction of treatment works (as defined in [section 1292 of this title][/us/usc/t33/s1292]) which are publicly owned, (2) for implementing a management program under [section 1329 of this title][/us/usc/t33/s1329], and (3) for developing and implementing a conservation and management plan under [section 1330 of this title][/us/usc/t33/s1330].
+        Subject to the provisions of this subchapter, the Administrator shall make capitalization grants to each State for the purpose of establishing a water pollution control revolving fund to accomplish the objectives, goals, and policies of this chapter by providing assistance for projects and activities identified in [section 1383(c) of this title][/us/usc/t33/s1383/c].
 
     (b) __Schedule of grant payments__ 
 
@@ -33,7 +33,17 @@
 
             (B) 12 quarters after the date such funds were allotted to the State.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 601, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 22][/us/stat/101/22].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title VI, § 601, as added [Pub. L. 100–4, title II, § 212(a)][/us/pl/100/4/s212/a], Feb. 4, 1987, [101 Stat. 22][/us/stat/101/22]; amended [Pub. L. 113–121, title V, § 5001][/us/pl/113/121/s5001], June 10, 2014, [128 Stat. 1322][/us/stat/128/1322].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–121][/us/pl/113/121] substituted “to accomplish the objectives, goals, and policies of this chapter by providing assistance for projects and activities identified in [section 1383(c) of this title][/us/usc/t33/s1383/c].” for “for providing assistance (1) for construction of treatment works (as defined in [section 1292 of this title][/us/usc/t33/s1292]) which are publicly owned, (2) for implementing a management program under [section 1329 of this title][/us/usc/t33/s1329], and (3) for developing and implementing a conservation and management plan under [section 1330 of this title][/us/usc/t33/s1330].”
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–121, title V, § 5006][/us/pl/113/121/s5006], June 10, 2014, [128 Stat. 1327][/us/stat/128/1327], provided that: 
+
+> “This subtitle \[subtitle A (§§ 5001–5006) of title V of [Pub. L. 113–121][/us/pl/113/121], enacting [section 1388 of this title][/us/usc/t33/s1388] and amending this section and sections 1382 and 1383 of this title\], including any amendments made by the subtitle, shall take effect on October 1, 2014.”
 
 ----------
 
@@ -42,12 +52,21 @@
 ----------
 ----------
 
-[/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
-[/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
-[/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
+[/us/usc/t33/s1383/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fc
 [/us/usc/t33/s1386/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1386%2Fc
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/pl/100/4/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs212%2Fa
 [/us/stat/101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F22
+[/us/pl/113/121/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5001
+[/us/stat/128/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1322
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/usc/t33/s1383/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1383%2Fc
+[/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
+[/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
+[/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
+[/us/pl/113/121/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5006
+[/us/stat/128/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1327
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/usc/t33/s1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1388
 
 

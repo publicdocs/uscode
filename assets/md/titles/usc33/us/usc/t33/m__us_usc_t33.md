@@ -15,7 +15,7 @@
 
 # Title 33—NAVIGATION AND NAVIGABLE WATERS
 
-Current through 113-120
+Current through 113-121
 
 <table>
 
@@ -125,7 +125,7 @@ Current through 113-120
 
     <td> Protection of Navigable Waters and of Harbor and River Improvements Generally  </td>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs401" data-uslm-ref="/us/usc/t33/s401">401</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs400" data-uslm-ref="/us/usc/t33/s400">400</a>  </td>
 
   </tr>
 
@@ -546,6 +546,16 @@ Current through 113-120
     <td> Clean Hulls  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3801" data-uslm-ref="/us/usc/t33/s3801">3801</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch52" data-uslm-ref="/us/usc/t33/ch52">52.</a>  </td>
+
+    <td> Water Infrastructure Finance and Innovation  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3901" data-uslm-ref="/us/usc/t33/s3901">3901</a>  </td>
 
   </tr>
 

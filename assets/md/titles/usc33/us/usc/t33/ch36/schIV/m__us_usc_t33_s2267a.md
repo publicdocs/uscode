@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2268.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267a)
+[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267a)
 
 ## § 2267a. Watershed and river basin assessments
 
@@ -113,7 +113,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2268.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267a)
+[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2267a)
 
 ----------
 ----------

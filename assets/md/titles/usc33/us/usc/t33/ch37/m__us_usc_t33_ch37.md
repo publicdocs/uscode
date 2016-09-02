@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2348.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_ch38.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch37)
+[Previous](./../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2352.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_ch38.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch37)
 
 ## CHAPTER 37—ORGANOTIN ANTIFOULING PAINT CONTROL
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2348.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_ch38.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch37)
+[Previous](./../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2352.md) | [Next](./../../../..//us/usc/t33/ch38/m__us_usc_t33_ch38.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch37)
 
 ----------
 ----------

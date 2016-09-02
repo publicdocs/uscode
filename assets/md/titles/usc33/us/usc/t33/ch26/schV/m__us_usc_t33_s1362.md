@@ -121,9 +121,15 @@
 
             (ii) carries paying passengers.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 502, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 886][/us/stat/86/886]; amended [Pub. L. 95–217, § 33(b)][/us/pl/95/217/s33/b], Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577]; [Pub. L. 100–4, title V][/us/pl/100/4], §§ 502(a), 503, Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 100–688, title III, § 3202(a)][/us/pl/100/688/s3202/a], Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154]; [Pub. L. 104–106, div. A, title III, § 325(c)(3)][/us/pl/104/106/s325/c/3], Feb. 10, 1996, [110 Stat. 259][/us/stat/110/259]; [Pub. L. 106–284, § 5][/us/pl/106/284/s5], Oct. 10, 2000, [114 Stat. 875][/us/stat/114/875]; [Pub. L. 109–58, title III, § 323][/us/pl/109/58/s323], Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694]; [Pub. L. 110–288, § 3][/us/pl/110/288/s3], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650].)
+    (26)  __Treatment works__  __.—__ 
+
+    The term “treatment works” has the meaning given the term in [section 1292 of this title][/us/usc/t33/s1292].
+
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title V, § 502, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 886][/us/stat/86/886]; amended [Pub. L. 95–217, § 33(b)][/us/pl/95/217/s33/b], Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577]; [Pub. L. 100–4, title V][/us/pl/100/4], §§ 502(a), 503, Feb. 4, 1987, [101 Stat. 75][/us/stat/101/75]; [Pub. L. 100–688, title III, § 3202(a)][/us/pl/100/688/s3202/a], Nov. 18, 1988, [102 Stat. 4154][/us/stat/102/4154]; [Pub. L. 104–106, div. A, title III, § 325(c)(3)][/us/pl/104/106/s325/c/3], Feb. 10, 1996, [110 Stat. 259][/us/stat/110/259]; [Pub. L. 106–284, § 5][/us/pl/106/284/s5], Oct. 10, 2000, [114 Stat. 875][/us/stat/114/875]; [Pub. L. 109–58, title III, § 323][/us/pl/109/58/s323], Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694]; [Pub. L. 110–288, § 3][/us/pl/110/288/s3], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650]; [Pub. L. 113–121, title V, § 5012(b)][/us/pl/113/121/s5012/b], June 10, 2014, [128 Stat. 1328][/us/stat/128/1328].)
 
  __Amendments__ 
+
+    2014—Par. (26). [Pub. L. 113–121][/us/pl/113/121] added par. (26).
 
     2008—Par. (25). [Pub. L. 110–288][/us/pl/110/288] added par. (25).
 
@@ -140,6 +146,10 @@
     Par. (14). [Pub. L. 100–4, § 503][/us/pl/100/4/s503], inserted “agricultural stormwater discharges and” after “does not include”.
 
     1977—Par. (14). [Pub. L. 95–217][/us/pl/95/217] inserted provision that “point source” does not include return flows from irrigated agriculture.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–121][/us/pl/113/121] effective Oct. 1, 2014, see [section 5012(c) of Pub. L. 113–121][/us/pl/113/121/s5012/c], set out as a note under [section 1292 of this title][/us/usc/t33/s1292].
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -165,6 +175,7 @@
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
 [/us/usc/t33/s1313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1313%2Fc
+[/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
 [/us/stat/86/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F886
@@ -182,6 +193,9 @@
 [/us/stat/119/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F694
 [/us/pl/110/288/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288%2Fs3
 [/us/stat/122/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2650
+[/us/pl/113/121/s5012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5012%2Fb
+[/us/stat/128/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1328
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F284
@@ -190,6 +204,9 @@
 [/us/pl/100/4/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs502%2Fa
 [/us/pl/100/4/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs503
 [/us/pl/95/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F217
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121/s5012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5012%2Fc
+[/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/100/4/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs507

@@ -85,7 +85,7 @@
 
     [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–224.
 
-    [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title I\], Oct. 21, 1998, [105 Stat. 2681–337][/us/stat/105/2681-337], 2681–345.
+    [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title I\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–345.
 
     [Pub. L. 105–78, title I][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1475][/us/stat/111/1475].
 
@@ -142,7 +142,7 @@
 [/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/stat/105/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2681-337
+[/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
 [/us/stat/111/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1475
 [/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe

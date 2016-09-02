@@ -63,23 +63,33 @@
 
             (B) __Use of procedures__ 
 
-                The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+                (i) __In general__ 
+
+                    The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+
+                (ii) __Determination__ 
+
+                    Not later than 180 days after June 10, 2014, the Secretary shall issue guidance on the procedures described in clause (i).
 
         (2) __Credit__ 
 
             The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) of this section the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.
 
-    (e) __Authorization of appropriations__ 
+    (e) __Restrictions__ 
 
-        There is authorized to be appropriated to carry out subsection (b) of this section $5,000,000 for each of fiscal years 2002 through 2012, of which not more than $1,000,000 may be used with respect to any 1 Indian tribe.
+        The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.
 
-([Pub. L. 106–541, title II, § 203][/us/pl/106/541/s203], Dec. 11, 2000, [114 Stat. 2588][/us/stat/114/2588]; [Pub. L. 110–114, title II, § 2011][/us/pl/110/114/s2011], Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074].)
+([Pub. L. 106–541, title II, § 203][/us/pl/106/541/s203], Dec. 11, 2000, [114 Stat. 2588][/us/stat/114/2588]; [Pub. L. 110–114, title II, § 2011][/us/pl/110/114/s2011], Nov. 8, 2007, [121 Stat. 1074][/us/stat/121/1074]; [Pub. L. 113–121, title I, § 1031(a)][/us/pl/113/121/s1031/a], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1)(B). [Pub. L. 113–121, § 1031(a)(1)][/us/pl/113/121/s1031/a/1], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+    Subsec. (e). [Pub. L. 113–121, § 1031(a)(2)][/us/pl/113/121/s1031/a/2], added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
 
     2007—Subsec. (b)(1). [Pub. L. 110–114, § 2011(a)(1)][/us/pl/110/114/s2011/a/1], inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
 
@@ -106,6 +116,10 @@
 [/us/stat/114/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2588
 [/us/pl/110/114/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011
 [/us/stat/121/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1074
+[/us/pl/113/121/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa
+[/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
+[/us/pl/113/121/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa%2F1
+[/us/pl/113/121/s1031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1031%2Fa%2F2
 [/us/pl/110/114/s2011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fa%2F1
 [/us/pl/110/114/s2011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2011%2Fa%2F2
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151

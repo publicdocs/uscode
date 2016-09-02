@@ -43,7 +43,7 @@
 
     (7) __Nongovernmental entities__ 
 
-        The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines,  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “images,”. </sup></sup>  or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
+        The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines, <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “images,”. </sup></sup>  or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
 
     (8) __Outer Continental Shelf__ 
 

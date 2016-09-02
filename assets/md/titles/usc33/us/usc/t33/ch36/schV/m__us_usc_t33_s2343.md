@@ -31,7 +31,7 @@
 
             A project study shall be subject to peer review under paragraph (1) if—
 
-                (i) the project has an estimated total cost of more than $45,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
+                (i) the project has an estimated total cost of more than $200,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
 
                 (ii) the Governor of an affected State requests a peer review by an independent panel of experts; or
 
@@ -111,7 +111,21 @@
 
             (C) the preferred alternative is identified.
 
-        (3) __Limitation on multiple peer review__ 
+        (3) __Reasons for timing__ 
+
+        If the Chief of Engineers does not initiate a peer review for a project study at a time described in paragraph (2), the Chief shall—
+
+            (A)
+
+             not later than 7 days after the date on which the Chief of Engineers determines not to initiate a peer review—
+
+                (i) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of that decision; and
+
+                (ii) make publicly available, including on the Internet, the reasons for not conducting the review; and
+
+            (B) include the reasons for not conducting the review in the decision document for the project study.
+
+        (4) __Limitation on multiple peer review__ 
 
             Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
 
@@ -129,9 +143,21 @@
 
             The National Academy of Sciences or any other organization the Chief of Engineers contracts with under paragraph (1) to establish a panel of experts shall apply the National Academy of Science’s policy for selecting committee members to ensure that members selected for the panel of experts have no conflict with the project being reviewed.
 
-        (4) __Congressional notification__ 
+        (4) __Congressional and public notification__ 
 
-            Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.
+        Following the identification of a project study for peer review under this section, but prior to initiation of the review by the panel of experts, the Chief of Engineers shall, not later than 7 days after the date on which the Chief of Engineers determines to conduct a review—
+
+            (A) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review conducted under this section; and
+
+            (B)
+
+             make publicly available, including on the Internet, information on—
+
+                (i) the dates scheduled for beginning and ending the review;
+
+                (ii) the entity that has the contract for the review; and
+
+                (iii) the names and qualifications of the panel of experts.
 
     (d) __Duties of panels__ 
 
@@ -167,13 +193,17 @@
 
             After receiving a report on a project study from a panel of experts under this section and before entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
 
-        (2) __Public availability and transmittal to Congress__ 
+        (2) __Public availability and submission to Congress__ 
 
-        After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall—
+        After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall make available to the public, including on the Internet, and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-            (A) make a copy of the report and any written response of the Chief of Engineers on recommendations contained in the report available to the public by electronic means, including the Internet; and
+            (A) a copy of the report not later than 7 days after the date on which the report is delivered to the Chief of Engineers; and
 
-            (B) transmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of the report, together with any such written response, on the date of a final report of the Chief of Engineers or other final decision document for the project study.
+            (B) a copy of any written response of the Chief of Engineers on recommendations contained in the report not later than 3 days after the date on which the response is delivered to the Chief of Engineers.
+
+        (3) __Inclusion in project study__ 
+
+            A report on a project study from a panel of experts under this section and the written response of the Chief of Engineers shall be included in the final decision document for the project study.
 
     (g) __Costs__ 
 
@@ -195,7 +225,7 @@
 
         (1) project studies initiated during the 2-year period preceding November 8, 2007, and for which the array of alternatives to be considered has not been identified; and
 
-        (2) project studies initiated during the period beginning on November 8, 2007, and ending 7 years after November 8, 2007.
+        (2) project studies initiated during the period beginning on November 8, 2007, and ending 12 years after November 8, 2007.
 
     (i) __Reports__ 
 
@@ -249,7 +279,7 @@
 
             The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
-([Pub. L. 110–114, title II, § 2034][/us/pl/110/114/s2034], Nov. 8, 2007, [121 Stat. 1086][/us/stat/121/1086].)
+([Pub. L. 110–114, title II, § 2034][/us/pl/110/114/s2034], Nov. 8, 2007, [121 Stat. 1086][/us/stat/121/1086]; [Pub. L. 113–121, title I, § 1044][/us/pl/113/121/s1044], June 10, 2014, [128 Stat. 1250][/us/stat/128/1250].)
 
  __References in Text__ 
 
@@ -260,6 +290,18 @@
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(3)(A)(i). [Pub. L. 113–121, § 1044(a)][/us/pl/113/121/s1044/a], substituted “$200,000,000” for “$45,000,000”.
+
+    Subsec. (b)(3), (4). [Pub. L. 113–121, § 1044(b)][/us/pl/113/121/s1044/b], added par. (3) and redesignated former par. (3) as (4).
+
+    Subsec. (c)(4). [Pub. L. 113–121, § 1044(c)][/us/pl/113/121/s1044/c], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.”
+
+    Subsec. (f)(2), (3). [Pub. L. 113–121, § 1044(d)][/us/pl/113/121/s1044/d], added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
+
+    Subsec. (h)(2). [Pub. L. 113–121, § 1044(e)][/us/pl/113/121/s1044/e], substituted “12 years” for “7 years”.
 
 ----------
 
@@ -281,10 +323,17 @@
 [/us/usc/t33/s701–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701%E2%80%931
 [/us/pl/110/114/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2034
 [/us/stat/121/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1086
+[/us/pl/113/121/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044
+[/us/stat/128/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1250
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/113/121/s1044/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044%2Fa
+[/us/pl/113/121/s1044/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044%2Fb
+[/us/pl/113/121/s1044/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044%2Fc
+[/us/pl/113/121/s1044/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044%2Fd
+[/us/pl/113/121/s1044/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1044%2Fe
 
 

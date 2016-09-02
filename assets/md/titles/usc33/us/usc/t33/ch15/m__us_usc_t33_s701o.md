@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701o)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n–1.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701o)
 
 ## § 701o. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701o)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701n–1.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701o)
 
 ----------
 ----------

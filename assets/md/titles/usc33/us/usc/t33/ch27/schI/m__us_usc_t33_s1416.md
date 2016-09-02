@@ -69,9 +69,9 @@
 
     The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title I of [Pub. L. 92–532][/us/pl/92/532], which is six months after Oct. 23, 1972. See [section 110(a) of Pub. L. 92–532][/us/pl/92/532/s110/a], set out as an Effective Date note under [section 1411 of this title][/us/usc/t33/s1411].
 
-    The Rivers and Harbors Act of 1899, referred to in subsec. (b), is [act Mar. 3, 1899, ch. 425][/us/act/1899-03-03/ch425], [30 Stat. 1151][/us/stat/30/1151], as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+    The Rivers and Harbors Act of 1899, referred to in subsec. (b), probably means the Act popularly known as the Rivers and Harbors Appropriation Act of 1899, [act Mar. 3, 1899, ch. 425][/us/act/1899-03-03/ch425], [30 Stat. 1151][/us/stat/30/1151], which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The Fish and Wildlife Coordination Act referred to in subsec. (e), is [act Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], [48 Stat. 401][/us/stat/48/401], as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16][/us/usc/t16/s661] and Tables.
+    The Fish and Wildlife Coordination Act referred to in subsec. (e), is [act Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], [48 Stat. 401][/us/stat/48/401], which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16][/us/usc/t16/s661] and Tables.
 
     This Act, referred to in subsec. (g), means [Pub. L. 92–532][/us/pl/92/532], which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16.
 

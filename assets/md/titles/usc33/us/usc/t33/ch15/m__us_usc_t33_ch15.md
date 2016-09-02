@@ -171,7 +171,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9313" data-uslm-ref="/us/usc/t33/s701b–13">701b–13.</a>  </td>
 
-    <td> Construction of flood control projects by non-Federal interests.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -180,6 +180,22 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9314" data-uslm-ref="/us/usc/t33/s701b–14">701b–14.</a>  </td>
 
     <td> Structural integrity evaluations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9315" data-uslm-ref="/us/usc/t33/s701b–15">701b–15.</a>  </td>
+
+    <td> Non-Federal plans to provide additional flood risk reduction.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9316" data-uslm-ref="/us/usc/t33/s701b–16">701b–16.</a>  </td>
+
+    <td> Management of flood risk reduction projects.  </td>
 
   </tr>
 
@@ -332,6 +348,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701n" data-uslm-ref="/us/usc/t33/s701n">701n.</a>  </td>
 
     <td> Emergency response to natural disasters.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701n%E2%80%931" data-uslm-ref="/us/usc/t33/s701n–1">701n–1.</a>  </td>
+
+    <td> Biennial report to Congress.  </td>
 
   </tr>
 
@@ -756,6 +780,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs709b" data-uslm-ref="/us/usc/t33/s709b">709b.</a>  </td>
 
     <td> Flood hazard information.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs709c" data-uslm-ref="/us/usc/t33/s709c">709c.</a>  </td>
+
+    <td> Emergency communication of risk.  </td>
 
   </tr>
 

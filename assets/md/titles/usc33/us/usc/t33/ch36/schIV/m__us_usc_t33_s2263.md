@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $50,000,000 to carry out such projects.
+            The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $60,000,000 to carry out such projects.
 
         (2) __Inclusions__ 
 
@@ -65,7 +65,19 @@
 
             (B) __Form__ 
 
-                The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.
+            The non-Federal share may be provided through in-kind services, including—
+
+                (i) the provision by the non-Federal interest of shell stock material that is determined by the Secretary to be suitable for use in carrying out the project; and
+
+                (ii)
+
+                 in the case of a project carried out under paragraph (2)(D) after June 10, 2014, land conservation or restoration efforts undertaken by the non-Federal interest that the Secretary determines provide water quality benefits that—
+
+                    (I) enhance the viability of oyster restoration efforts;
+
+                    (II) are integral to the project; and
+
+                    (III) are cost effective.
 
             (C) __Applicability__ 
 
@@ -81,13 +93,17 @@
 
         In carrying out paragraph (4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-([Pub. L. 99–662, title VII, § 704][/us/pl/99/662/s704], Nov. 17, 1986, [100 Stat. 4157][/us/stat/100/4157]; [Pub. L. 104–303, title V, § 505][/us/pl/104/303/s505], Oct. 12, 1996, [110 Stat. 3757][/us/stat/110/3757]; [Pub. L. 106–541, title III, § 342][/us/pl/106/541/s342], Dec. 11, 2000, [114 Stat. 2612][/us/stat/114/2612]; [Pub. L. 107–66, title I, § 113][/us/pl/107/66/s113], Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]; [Pub. L. 109–103, title I, § 126][/us/pl/109/103/s126], Nov. 19, 2005, [119 Stat. 2259][/us/stat/119/2259]; [Pub. L. 110–114, title V, § 5021][/us/pl/110/114/s5021], Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202].)
+([Pub. L. 99–662, title VII, § 704][/us/pl/99/662/s704], Nov. 17, 1986, [100 Stat. 4157][/us/stat/100/4157]; [Pub. L. 104–303, title V, § 505][/us/pl/104/303/s505], Oct. 12, 1996, [110 Stat. 3757][/us/stat/110/3757]; [Pub. L. 106–541, title III, § 342][/us/pl/106/541/s342], Dec. 11, 2000, [114 Stat. 2612][/us/stat/114/2612]; [Pub. L. 107–66, title I, § 113][/us/pl/107/66/s113], Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]; [Pub. L. 109–103, title I, § 126][/us/pl/109/103/s126], Nov. 19, 2005, [119 Stat. 2259][/us/stat/119/2259]; [Pub. L. 110–114, title V, § 5021][/us/pl/110/114/s5021], Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202]; [Pub. L. 113–121, title IV, § 4010(b)][/us/pl/113/121/s4010/b], June 10, 2014, [128 Stat. 1318][/us/stat/128/1318].)
 
  __References in Text__ 
 
     Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by [Pub. L. 107–66, title I, § 113(1)][/us/pl/107/66/s113/1], (2), Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496]. Subsequently, [Pub. L. 110–114, title V, § 5021(1)][/us/pl/110/114/s5021/1], (2)(B), (3), Nov. 8, 2007, [121 Stat. 1202][/us/stat/121/1202], redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–121, § 4010(b)(1)][/us/pl/113/121/s4010/b/1], substituted “$60,000,000” for “$50,000,000”.
+
+    Subsec. (b)(4)(B). [Pub. L. 113–121, § 4010(b)(2)][/us/pl/113/121/s4010/b/2], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.”
 
     2007—Subsec. (b)(1). [Pub. L. 110–114, § 5021(2)][/us/pl/110/114/s5021/2], substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
 
@@ -132,10 +148,14 @@
 [/us/stat/119/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2259
 [/us/pl/110/114/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021
 [/us/stat/121/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1202
+[/us/pl/113/121/s4010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb
+[/us/stat/128/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1318
 [/us/pl/107/66/s113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2Fs113%2F1
 [/us/stat/115/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F496
 [/us/pl/110/114/s5021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F1
 [/us/stat/121/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1202
+[/us/pl/113/121/s4010/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb%2F1
+[/us/pl/113/121/s4010/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs4010%2Fb%2F2
 [/us/pl/110/114/s5021/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F2
 [/us/pl/110/114/s5021/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F2%2FB
 [/us/pl/110/114/s5021/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5021%2F3

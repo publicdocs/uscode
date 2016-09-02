@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2317.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2316)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2317.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2316)
 
 ## § 2316. Environmental protection mission
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2317.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2316)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2317.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2316)
 
 ----------
 ----------

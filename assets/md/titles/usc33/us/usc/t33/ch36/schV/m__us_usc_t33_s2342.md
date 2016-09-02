@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2341.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2343.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2342)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2341a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2343.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2342)
 
 ## § 2342. Access to water resource data
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2341.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2343.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2342)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2341a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2343.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2342)
 
 ----------
 ----------

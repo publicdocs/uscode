@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238a)
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238a)
 
 ## § 2238a. Estimate of harbor maintenance needs
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238a)
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238a)
 
 ----------
 ----------

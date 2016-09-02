@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2321a)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2321a)
 
 ## § 2321a. Hydroelectric power project uprating
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2321a)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2321b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2321a)
 
 ----------
 ----------

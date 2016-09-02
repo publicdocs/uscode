@@ -47,7 +47,7 @@ Provisions similar to those in this section were contained in the following prio
 
     [Pub. L. 106–58, title IV][/us/pl/106/58], Sept. 29, 1999, [113 Stat. 463][/us/stat/113/463].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title IV\], Oct. 21, 1998, [105 Stat. 2681–480][/us/stat/105/2681-480], 2681–509.
+    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title IV\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–509.
 
     [Pub. L. 105–61, title IV][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1303][/us/stat/111/1303].
 
@@ -129,7 +129,7 @@ Provisions similar to those in this section were contained in the following prio
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
 [/us/stat/113/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F463
 [/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
-[/us/stat/105/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2681-480
+[/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/stat/111/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1303
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff

@@ -29,11 +29,13 @@
 
     (d) __Fiscal year limitation on expenditures__ 
 
-        The Secretary of the Army is authorized to expend not to exceed $15,000,000 per fiscal year for the compilation and dissemination of information under this section.
+        The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
-([Pub. L. 86–645, title II, § 206][/us/pl/86/645/s206], July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 89–298, title II, § 220][/us/pl/89/298/s220], Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089]; [Pub. L. 89–789, title II, § 206][/us/pl/89/789/s206], Nov. 7, 1966, [80 Stat. 1422][/us/stat/80/1422]; [Pub. L. 91–611, title II, § 225][/us/pl/91/611/s225], Dec. 31, 1970, [84 Stat. 1832][/us/stat/84/1832]; [Pub. L. 93–251, title I, § 64][/us/pl/93/251/s64], Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30]; [Pub. L. 101–640, title III, § 321][/us/pl/101/640/s321], Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643]; [Pub. L. 106–53, title II][/us/pl/106/53], §§ 202, 216, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], 293; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 86–645, title II, § 206][/us/pl/86/645/s206], July 14, 1960, [74 Stat. 500][/us/stat/74/500]; [Pub. L. 89–298, title II, § 220][/us/pl/89/298/s220], Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089]; [Pub. L. 89–789, title II, § 206][/us/pl/89/789/s206], Nov. 7, 1966, [80 Stat. 1422][/us/stat/80/1422]; [Pub. L. 91–611, title II, § 225][/us/pl/91/611/s225], Dec. 31, 1970, [84 Stat. 1832][/us/stat/84/1832]; [Pub. L. 93–251, title I, § 64][/us/pl/93/251/s64], Mar. 7, 1974, [88 Stat. 30][/us/stat/88/30]; [Pub. L. 101–640, title III, § 321][/us/pl/101/640/s321], Nov. 28, 1990, [104 Stat. 4643][/us/stat/104/4643]; [Pub. L. 106–53, title II][/us/pl/106/53], §§ 202, 216, Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], 293; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 113–121, title I, § 1030(h)][/us/pl/113/121/s1030/h], June 10, 2014, [128 Stat. 1232][/us/stat/128/1232].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–121][/us/pl/113/121] substituted “$50,000,000” for “$15,000,000”.
 
     1999—Subsec. (b). [Pub. L. 106–53, § 216][/us/pl/106/53/s216], added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -80,6 +82,9 @@
 [/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
+[/us/pl/113/121/s1030/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1030%2Fh
+[/us/stat/128/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1232
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/106/53/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs216
 [/us/pl/106/53/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs202
 [/us/pl/106/53/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs216%2F1

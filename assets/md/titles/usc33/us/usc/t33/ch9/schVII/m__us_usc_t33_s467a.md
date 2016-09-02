@@ -23,11 +23,11 @@
 
     On request of a State dam safety agency, with respect to any dam the failure of which would affect the State, the head of a Federal agency shall—
 
-        (1) provide information to the State dam safety agency on the construction, operation, or maintenance of the dam; or
+        (1) provide information to the State dam safety agency on the construction, operation, maintenance, condition, or provisions for emergency operations of the dam; or
 
         (2) allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
 
-([Pub. L. 92–367, § 3][/us/pl/92/367/s3], formerly § 2, Aug. 8, 1972, [86 Stat. 506][/us/stat/86/506]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; renumbered § 3 and amended [Pub. L. 104–303, title II, § 215(c)(3)][/us/pl/104/303/s215/c/3], (5), Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685], 3687.)
+([Pub. L. 92–367, § 3][/us/pl/92/367/s3], formerly § 2, Aug. 8, 1972, [86 Stat. 506][/us/stat/86/506]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; renumbered § 3 and amended [Pub. L. 104–303, title II, § 215(c)(3)][/us/pl/104/303/s215/c/3], (5), Oct. 12, 1996, [110 Stat. 3685][/us/stat/110/3685], 3687; [Pub. L. 113–121, title III, § 3001(b)][/us/pl/113/121/s3001/b], June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
 
  __References in Text__ 
 
@@ -38,6 +38,8 @@
     A prior [section 3 of Pub. L. 92–367][/us/pl/92/367/s3] was renumbered section 4 and is classified to [section 467b of this title][/us/usc/t33/s467b].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–121][/us/pl/113/121] substituted “maintenance, condition, or provisions for emergency operations” for “or maintenance”.
 
     1996—[Pub. L. 104–303][/us/pl/104/303] inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
@@ -59,11 +61,14 @@
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/pl/104/303/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F3
 [/us/stat/110/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3685
+[/us/pl/113/121/s3001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fb
+[/us/stat/128/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1282
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/pl/92/367/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs3
 [/us/usc/t33/s467b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467b
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583

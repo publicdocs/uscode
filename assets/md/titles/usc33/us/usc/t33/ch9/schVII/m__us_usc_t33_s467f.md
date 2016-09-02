@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    The Director, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
+    The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
         (1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
 
@@ -35,7 +35,7 @@
 
     (b) __Duties__ 
 
-    The Director shall prepare a strategic plan—
+    The Administrator shall prepare a strategic plan—
 
         (1) to establish goals, priorities, performance measures, and target dates toward effectively administering this subchapter in order to improve the safety of dams in the United States; and
 
@@ -51,7 +51,7 @@
 
         (3) encourage the establishment and implementation of effective dam safety programs in each State based on State standards;
 
-        (4) develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;
+        (4) develop and implement a comprehensive dam safety hazard education and public awareness initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents;
 
         (5) develop technical assistance materials for Federal and non-Federal dam safety programs;
 
@@ -101,7 +101,7 @@
 
         (1) __In general__ 
 
-            To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Director shall provide assistance with amounts made available under [section 467j of this title][/us/usc/t33/s467j] to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
+            To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 467j  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
 
         (2) __Criteria and budgeting requirement__ 
 
@@ -157,35 +157,35 @@
 
         (3) __Work plans__ 
 
-            The Director shall enter into a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
+            The Administrator shall enter into a  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “an”. </sup></sup>  agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
 
         (4) __Maintenance of effort__ 
 
-            Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Director as the Director requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
+            Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Administrator as the Administrator requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
 
         (5) __Approval of programs__ 
 
             (A) __Submission__ 
 
-                For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Director for approval.
+                For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Administrator for approval.
 
             (B) __Approval__ 
 
-                A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Director unless the Director determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
+                A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
 
             (C) __Notification of disapproval__ 
 
-                If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+                If the Administrator determines that a State dam safety program does not meet the requirements for approval, the Administrator shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
         (6) __Review of State dam safety programs__ 
 
-            Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+            Using the expertise of the Board, the Administrator shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Administrator concurs, the Administrator shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
     (f) __Board__ 
 
         (1) __Establishment__ 
 
-            The Director shall establish an advisory board to be known as the “National Dam Safety Review Board” to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Director on national dam safety policy.
+            The Administrator shall establish an advisory board to be known as the “National Dam Safety Review Board” to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Administrator on national dam safety policy.
 
         (2) __Authority__ 
 
@@ -193,7 +193,7 @@
 
         (3) __Voting membership__ 
 
-        The Board shall consist of 11 voting members selected by the Director for expertise in dam safety, of whom—
+        The Board shall consist of 11 voting members selected by the Administrator for expertise in dam safety, of whom—
 
             (A) 1 member shall represent the Department of Agriculture;
 
@@ -205,13 +205,13 @@
 
             (E) 1 member shall represent the Federal Energy Regulatory Commission;
 
-            (F) 5 members shall be selected by the Director from among State dam safety officials; and
+            (F) 5 members shall be selected by the Administrator from among State dam safety officials; and
 
-            (G) 1 member shall be selected by the Director to represent the private sector.
+            (G) 1 member shall be selected by the Administrator to represent the private sector.
 
         (4) __Nonvoting membership__ 
 
-            The Director, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies or dam safety experts, as needed, to participate in meetings of the Board.
+            The Administrator, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies, representatives from nongovernmental organizations, or dam safety experts, as needed, to participate in meetings of the Board.
 
         (5) __Duties__ 
 
@@ -225,7 +225,7 @@
 
         (6) __Work groups__ 
 
-            The Director may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Director.
+            The Administrator may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Administrator.
 
         (7) __Compensation of members__ 
 
@@ -251,9 +251,11 @@
 
             The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
 
-([Pub. L. 92–367, § 8][/us/pl/92/367/s8], as added [Pub. L. 104–303, title II, § 215(c)(8)][/us/pl/104/303/s215/c/8], Oct. 12, 1996, [110 Stat. 3688][/us/stat/110/3688]; amended [Pub. L. 107–310, § 3(a)][/us/pl/107/310/s3/a]–(e)(1), (f), (g), Dec. 2, 2002, [116 Stat. 2450][/us/stat/116/2450], 2451; [Pub. L. 109–460, § 1(c)][/us/pl/109/460/s1/c], Dec. 22, 2006, [120 Stat. 3401][/us/stat/120/3401].)
+([Pub. L. 92–367, § 8][/us/pl/92/367/s8], as added [Pub. L. 104–303, title II, § 215(c)(8)][/us/pl/104/303/s215/c/8], Oct. 12, 1996, [110 Stat. 3688][/us/stat/110/3688]; amended [Pub. L. 107–310, § 3(a)][/us/pl/107/310/s3/a]–(e)(1), (f), (g), Dec. 2, 2002, [116 Stat. 2450][/us/stat/116/2450], 2451; [Pub. L. 109–460, § 1(c)][/us/pl/109/460/s1/c], Dec. 22, 2006, [120 Stat. 3401][/us/stat/120/3401]; [Pub. L. 113–121, title III, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], (c), June 10, 2014, [128 Stat. 1282][/us/stat/128/1282].)
 
  __References in Text__ 
+
+    [Section 467j of this title][/us/usc/t33/s467j], referred to in subsec. (e)(1), was in the original “section 13” and was translated as meaning [section 13 of Pub. L. 92–367][/us/pl/92/367/s13] prior to its redesignation as section 14 by [Pub. L. 113–121, § 3001(d)(1)][/us/pl/113/121/s3001/d/1].
 
     The Federal Advisory Committee Act, referred to in subsec. (f)(9), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -264,6 +266,12 @@
     A prior [section 8 of Pub. L. 92–367][/us/pl/92/367/s8] was classified to [section 467g of this title][/us/usc/t33/s467g] prior to repeal by [Pub. L. 104–303][/us/pl/104/303].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–121, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], substituted “Administrator” for “Director” wherever appearing.
+
+    Subsec. (c)(4). [Pub. L. 113–121, § 3001(c)(1)][/us/pl/113/121/s3001/c/1], added par. (4) and struck out former par. (4) which read as follows: “develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;”.
+
+    Subsec. (f)(4). [Pub. L. 113–121, § 3001(c)(2)][/us/pl/113/121/s3001/c/2], inserted “, representatives from nongovernmental organizations,” after “State agencies”.
 
     2006—Subsec. (b)(1). [Pub. L. 109–460, § 1(c)(1)][/us/pl/109/460/s1/c/1], substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
 
@@ -347,7 +355,7 @@
 
     For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6][/us/usc/t6/s315/a/1], Domestic Security.
 
-    For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+    For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
 ----------
 
@@ -357,7 +365,6 @@
 ----------
 
 [/us/usc/t33/s467e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467e
-[/us/usc/t33/s467j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j
 [/us/pl/92/367/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs8
 [/us/pl/104/303/s215/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F8
 [/us/stat/110/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3688
@@ -365,6 +372,11 @@
 [/us/stat/116/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2450
 [/us/pl/109/460/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F460%2Fs1%2Fc
 [/us/stat/120/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3401
+[/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
+[/us/stat/128/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1282
+[/us/usc/t33/s467j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467j
+[/us/pl/92/367/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs13
+[/us/pl/113/121/s3001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fd%2F1
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/92/367/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs7
@@ -377,6 +389,9 @@
 [/us/pl/92/367/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F367%2Fs8
 [/us/usc/t33/s467g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467g
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
+[/us/pl/113/121/s3001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fc%2F1
+[/us/pl/113/121/s3001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fc%2F2
 [/us/pl/109/460/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F460%2Fs1%2Fc%2F1
 [/us/pl/109/460/s1/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F460%2Fs1%2Fc%2F2%2FA
 [/us/pl/109/460/s1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F460%2Fs1%2Fc%2F2%2FB

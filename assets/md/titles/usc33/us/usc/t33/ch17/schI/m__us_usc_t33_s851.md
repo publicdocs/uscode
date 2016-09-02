@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II\], Oct. 21, 1998, [105 Stat. 2681–50][/us/stat/105/2681-50], 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
+    Section, [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -283,7 +283,7 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 ----------
 
 [/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/stat/105/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2681-50
+[/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/stat/111/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2477
 [/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa

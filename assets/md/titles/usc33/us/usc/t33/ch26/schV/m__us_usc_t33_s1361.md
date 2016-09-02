@@ -49,9 +49,117 @@
 
     1987—Subsec. (d). [Pub. L. 100–4][/us/pl/100/4] inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
 
+ __Applicability of Spill Prevention, Control, and Countermeasure Rule__ 
+
+[Pub. L. 113–121, title I, § 1049][/us/pl/113/121/s1049], June 10, 2014, [128 Stat. 1257][/us/stat/128/1257], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Administrator__  __.—__ 
+
+>         The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+
+>         “(2)  __Farm__  __.—__ 
+
+>         The term ‘farm’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+>         “(3)  __Gallon__  __.—__ 
+
+>         The term ‘gallon’ means a United States gallon.
+
+>         “(4)  __Oil__  __.—__ 
+
+>         The term ‘oil’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+>         “(5)  __Oil discharge__  __.—__ 
+
+>         The term ‘oil discharge’ has the meaning given the term ‘discharge’ in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+>         “(6) __Reportable oil discharge history.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Subject to subparagraph (B), the term ‘reportable oil discharge history’ means a single oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that exceeds 1,000 gallons or 2 oil discharges, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that each exceed 42 gallons within any 12-month period—
+
+>                 “(i) in the 3 years prior to the certification date of the Spill Prevention, Control, and Countermeasure plan (as described in section 112.3 of title 40, Code of Federal Regulations (including successor regulations); or
+
+>                 “(ii) since becoming subject to part 112 of title 40, Code of Federal Regulations, if the facility has been in operation for less than 3 years.
+
+>             “(B)  __Exclusions__  __.—__ 
+
+>             The term ‘reportable oil discharge history’ does not include an oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that is the result of a natural disaster, an act of war, or terrorism.
+
+>         “(7)  __Spill prevention, control, and countermeasure rule__  __.—__ 
+
+>         The term ‘Spill Prevention, Control, and Countermeasure rule’ means the regulation, including amendments, promulgated by the Administrator under part 112 of title 40, Code of Federal Regulations (or successor regulations).
+
+>     “(b)  __Certification__  __.—__ 
+
+>     In implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, the Administrator shall—
+
+>         “(1)
+
+>          require certification by a professional engineer for a farm with—
+
+>             “(A) an individual tank with an aboveground storage capacity greater than 10,000 gallons;
+
+>             “(B) an aggregate aboveground storage capacity greater than or equal to 20,000 gallons; or
+
+>             “(C) a reportable oil discharge history; or
+
+>         “(2)
+
+>          allow certification by the owner or operator of the farm (via self-certification) for a farm with—
+
+>             “(A)
+
+>              an aggregate aboveground storage capacity less than 20,000 gallons and greater than the lesser of—
+
+>                 “(i) 6,000 gallons; and
+
+>                 “(ii) the adjustment quantity established under subsection (d)(2); and
+
+>             “(B) no reportable oil discharge history; and
+
+>         “(3)
+
+>          not require compliance with the rule by any farm—
+
+>             “(A)
+
+>              with an aggregate aboveground storage capacity greater than 2,500 gallons and less than the lesser of—
+
+>                 “(i) 6,000 gallons; and
+
+>                 “(ii) the adjustment quantity established under subsection (d)(2); and
+
+>             “(B) no reportable oil discharge history; and
+
+>         “(4) not require compliance with the rule by any farm with an aggregate aboveground storage capacity of less than 2,500 gallons.
+
+>     “(c)  __Calculation of Aggregate Aboveground Storage Capacity__  __.—__ 
+
+>     For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
+
+>         “(1) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
+
+>         “(2) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs.
+
+>     “(d) __Study.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) of subsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water.
+
+>         “(2)  __Adjustment__  __.—__ 
+
+>         Not later than 18 months after the date on which the study described in paragraph (1) is complete, the Administrator, in consultation with the Secretary of Agriculture, shall promulgate a rule to adjust the exemption levels described in paragraphs (2) and (3) of subsection (b) in accordance with the study.”
+
  __Environmental Court Feasibility Study__ 
 
-    [Section 9 of Pub. L. 92–500][/us/pl/92/500/s9] authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
+    [Pub. L. 92–500, § 9][/us/pl/92/500/s9], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899], authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
 
  __Transfer of Public Health Service Officers__ 
 
@@ -70,7 +178,10 @@
 [/us/pl/100/4/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs501
 [/us/stat/101/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F75
 [/us/pl/100/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4
+[/us/pl/113/121/s1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1049
+[/us/stat/128/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1257
 [/us/pl/92/500/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs9
+[/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
 [/us/pl/89/234/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F234%2Fs2%2Fb
 [/us/stat/79/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F904
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282b)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282b)
 
 ## § 2282b. Submission of reports to Congress
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282b)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282b)
 
 ----------
 ----------

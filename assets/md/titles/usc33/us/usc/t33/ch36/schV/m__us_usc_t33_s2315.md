@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2314a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2316.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2315)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2314b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2315)
 
 ## § 2315. Periodic statements
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2314a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2316.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2315)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2314b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2315a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2315)
 
 ----------
 ----------

@@ -23,6 +23,8 @@
 
     The Civil Functions Appropriations Act, 1936, [Public Law 75–208][/us/pl/75/208], referred to in text, may mean the War Department Civil Appropriation Act, 1938, [act July 19, 1937, ch. 511][/us/act/1937-07-19/ch511], [50 Stat. 515][/us/stat/50/515], 518, which amended [act June 22, 1936, ch. 688, § 5][/us/act/1936-06-22/ch688/s5], by adding the proviso classified to [section 701h of this title][/us/usc/t33/s701h].
 
+    Sections 426i–1 and 701b–13 of this title, referred to in text, were repealed by [Pub. L. 113–121, title I, § 1014(c)(2)][/us/pl/113/121/s1014/c/2], (3), June 10, 2014, [128 Stat. 1222][/us/stat/128/1222].
+
  __Codification__ 
 
     Section was enacted as part of the Energy and Water Development Appropriations Act, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -63,6 +65,8 @@ Provisions similar to those in this section were contained in the following prio
 [/us/stat/50/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F515
 [/us/act/1936-06-22/ch688/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch688%2Fs5
 [/us/usc/t33/s701h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701h
+[/us/pl/113/121/s1014/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fc%2F2
+[/us/stat/128/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1222
 [/us/pl/108/447/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs101
 [/us/stat/118/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2941
 [/us/pl/109/13/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6005

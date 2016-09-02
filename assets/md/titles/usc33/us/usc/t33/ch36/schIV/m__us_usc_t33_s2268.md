@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267a.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2269.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2268)
+[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267b.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2269.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2268)
 
 ## § 2268. Marine technology review
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267a.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2269.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2268)
+[Previous](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2267b.md) | [Next](./../../../../..//us/usc/t33/ch36/schIV/m__us_usc_t33_s2269.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2268)
 
 ----------
 ----------

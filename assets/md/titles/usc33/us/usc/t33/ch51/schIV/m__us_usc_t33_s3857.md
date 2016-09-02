@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch51/schIV/m__us_usc_t33_s3856.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3857)
+[Previous](./../../../../..//us/usc/t33/ch51/schIV/m__us_usc_t33_s3856.md) | [Next](./../../../../..//us/usc/t33/ch52/m__us_usc_t33_ch52.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3857)
 
 ## § 3857. Remedies not affected
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch51/schIV/m__us_usc_t33_s3856.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3857)
+[Previous](./../../../../..//us/usc/t33/ch51/schIV/m__us_usc_t33_s3856.md) | [Next](./../../../../..//us/usc/t33/ch52/m__us_usc_t33_ch52.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3857)
 
 ----------
 ----------

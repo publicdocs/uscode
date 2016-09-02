@@ -71,6 +71,16 @@
 
             (D) carry out such other duties as are prescribed by the Secretary.
 
+        (3) __Deep draft navigation planning center of expertise__ 
+
+            (A) __In general__ 
+
+                The Secretary shall consolidate deep draft navigation expertise within the Corps of Engineers into a deep draft navigation planning center of expertise.
+
+            (B) __List__ 
+
+                Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
+
     (f) __Completion of Corps of Engineers reports__ 
 
         (1) __Alternatives__ 
@@ -119,7 +129,7 @@
 
             Not later than 180 days after November 8, 2007, with respect to any report of the Chief of Engineers recommending a water resources project that is complete prior to November 8, 2007, the Secretary shall complete review of, and provide recommendations to Congress for, the report in accordance with paragraph (1).
 
-([Pub. L. 110–114, title II, § 2033][/us/pl/110/114/s2033], Nov. 8, 2007, [121 Stat. 1084][/us/stat/121/1084].)
+([Pub. L. 110–114, title II, § 2033][/us/pl/110/114/s2033], Nov. 8, 2007, [121 Stat. 1084][/us/stat/121/1084]; [Pub. L. 113–121, title II, § 2103][/us/pl/113/121/s2103], June 10, 2014, [128 Stat. 1278][/us/stat/128/1278].)
 
  __References in Text__ 
 
@@ -130,6 +140,10 @@
     Section is comprised of [section 2033 of Pub. L. 110–114][/us/pl/110/114/s2033]. Subsec. (a) of [section 2033 of Pub. L. 110–114][/us/pl/110/114/s2033] amended [section 2281 of this title][/us/usc/t33/s2281].
 
     Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (e)(3). [Pub. L. 113–121][/us/pl/113/121] added par. (3).
 
  __“Secretary” Defined__ 
 
@@ -147,12 +161,15 @@
 [/us/usc/t33/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2343
 [/us/pl/110/114/s2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2033
 [/us/stat/121/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1084
+[/us/pl/113/121/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2103
+[/us/stat/128/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1278
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/110/114/s2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2033
 [/us/pl/110/114/s2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2033
 [/us/usc/t33/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2281
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

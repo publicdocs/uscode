@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s716.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch16)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s3027.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s716.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch16)
 
 ## CHAPTER 16—LIGHTHOUSES
 
@@ -357,7 +357,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s709b.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s716.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch16)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s3027.md) | [Next](./../../../..//us/usc/t33/ch16/m__us_usc_t33_s716.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch16)
 
 ----------
 ----------

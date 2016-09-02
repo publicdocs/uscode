@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s579a.md) | [Next](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschII)
+[Previous](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s579c.md) | [Next](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschII)
 
 ### SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s579a.md) | [Next](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschII)
+[Previous](./../../../../..//us/usc/t33/ch12/schI/m__us_usc_t33_s579c.md) | [Next](./../../../../..//us/usc/t33/ch12/schII/m__us_usc_t33_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fch12%2FschII)
 
 ----------
 ----------

@@ -267,7 +267,7 @@ SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1274" data-uslm-ref="/us/usc/t33/s1274">1274.</a>  </td>
 
-    <td> Wet weather watershed pilot projects.  </td>
+    <td> Watershed pilot projects.  </td>
 
   </tr>
 
@@ -940,6 +940,14 @@ SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1387" data-uslm-ref="/us/usc/t33/s1387">1387.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs1388" data-uslm-ref="/us/usc/t33/s1388">1388.</a>  </td>
+
+    <td> Requirements.  </td>
 
   </tr>
 

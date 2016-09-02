@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–13.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9314)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–13.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–15.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9314)
 
 ## § 701b–14. Structural integrity evaluations
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–13.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9314)
+[Previous](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–13.md) | [Next](./../../../..//us/usc/t33/ch15/m__us_usc_t33_s701b–15.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9314)
 
 ----------
 ----------

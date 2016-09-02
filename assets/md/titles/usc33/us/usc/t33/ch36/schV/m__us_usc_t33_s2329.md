@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2328.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2330.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2329)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2328a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2330.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2329)
 
 ## § 2329. International outreach program
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2328.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2330.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2329)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2328a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2330.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2329)
 
 ----------
 ----------

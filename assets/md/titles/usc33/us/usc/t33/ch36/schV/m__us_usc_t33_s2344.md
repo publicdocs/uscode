@@ -57,11 +57,23 @@
 
         This section shall apply to any project in design or under construction on November 8, 2007, and to any project with respect to which design or construction is initiated during the period beginning on November 8, 2007, and ending 7 years after November 8, 2007.
 
-([Pub. L. 110–114, title II, § 2035][/us/pl/110/114/s2035], Nov. 8, 2007, [121 Stat. 1091][/us/stat/121/1091].)
+    (g) __Nonapplicability of FACA__ 
+
+        The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a safety assurance review conducted under this section.
+
+([Pub. L. 110–114, title II, § 2035][/us/pl/110/114/s2035], Nov. 8, 2007, [121 Stat. 1091][/us/stat/121/1091]; [Pub. L. 113–121, title III, § 3028][/us/pl/113/121/s3028], June 10, 2014, [128 Stat. 1305][/us/stat/128/1305].)
+
+ __References in Text__ 
+
+    The Federal Advisory Committee Act, referred to in subsec. (g), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
 
     Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–121][/us/pl/113/121] added subsec. (g).
 
  __“Secretary” Defined__ 
 
@@ -76,6 +88,11 @@
 
 [/us/pl/110/114/s2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2035
 [/us/stat/121/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1091
+[/us/pl/113/121/s3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3028
+[/us/stat/128/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1305
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
+[/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

@@ -33,6 +33,14 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs400" data-uslm-ref="/us/usc/t33/s400">400.</a>  </td>
+
+    <td> Continuing authority programs.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs401" data-uslm-ref="/us/usc/t33/s401">401.</a>  </td>
 
     <td> Construction of bridges, causeways, dams or dikes generally; exemptions.  </td>
@@ -353,6 +361,14 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426e%E2%80%932" data-uslm-ref="/us/usc/t33/s426e–2">426e–2.</a>  </td>
+
+    <td> Clarification of munition disposal authorities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426f" data-uslm-ref="/us/usc/t33/s426f">426f.</a>  </td>
 
     <td> Reimbursements.  </td>
@@ -403,7 +419,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs426i%E2%80%931" data-uslm-ref="/us/usc/t33/s426i–1">426i–1.</a>  </td>
 
-    <td> Construction of shoreline protection projects by non-Federal interests.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -796,6 +812,14 @@ SUBCHAPTER VII—DAM INSPECTION PROGRAM  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467g%E2%80%931" data-uslm-ref="/us/usc/t33/s467g–1">467g–1.</a>  </td>
 
     <td> Dam safety training.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs467g%E2%80%932" data-uslm-ref="/us/usc/t33/s467g–2">467g–2.</a>  </td>
+
+    <td> Public awareness and outreach for dam safety.  </td>
 
   </tr>
 

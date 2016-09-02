@@ -17,7 +17,7 @@
 
     Contracts for architect and engineering services, and surveying and mapping services, shall be awarded by the Chief of Engineers in accordance with title IX of the Federal Property and Administrative Services Act of 1949. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 98–63, title I, § 101][/us/pl/98/63/s101], July 30, 1983, [97 Stat. 311][/us/stat/97/311].)
+([Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 311][/us/stat/97/311].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/63/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F311
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377
