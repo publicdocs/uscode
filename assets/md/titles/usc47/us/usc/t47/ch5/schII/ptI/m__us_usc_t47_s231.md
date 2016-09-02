@@ -151,15 +151,15 @@
 
 [Pub. L. 105–277, div. C, title XIV, § 1405][/us/pl/105/277/s1405], Oct. 21, 1998, [112 Stat. 2681–739][/us/stat/112/2681-739], as amended by [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5001(b)–(f), Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591, 1501–592; [Pub. L. 106–229, title IV, § 401][/us/pl/106/229/s401], June 30, 2000, [114 Stat. 476][/us/stat/114/476], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established a temporary Commission to be known as the Commission on Online Child Protection (in this section referred to as the ‘Commission’) for the purpose of conducting a study under this section regarding methods to help reduce access by minors to material that is harmful to minors on the Internet.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The Commission shall be composed of 19 members, as follows:
 
->         “(1) __Industry members.—__ 
+>         “(1)  __Industry members__  __.—__ 
 
 >         The Commission shall include 16 members who shall consist of representatives of—
 
@@ -179,7 +179,7 @@
 
 >             Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
 
->         “(2) __Ex officio members.—__ 
+>         “(2)  __Ex officio members__  __.—__ 
 
 >         The Commission shall include the following officials:
 
@@ -189,21 +189,21 @@
 
 >             “(C) The Chairman of the Federal Trade Commission (or the Chairman’s designee).
 
->         “(3) __Prohibition of pay.—__ 
+>         “(3)  __Prohibition of pay__  __.—__ 
 
 >         Members of the Commission shall not receive any pay by reason of their membership on the Commission.
 
->     “(c) __First Meeting.—__ 
+>     “(c)  __First Meeting__  __.—__ 
 
 >     The Commission shall hold its first meeting not later than March 31, 2000.
 
->     “(d) __Chairperson.—__ 
+>     “(d)  __Chairperson__  __.—__ 
 
 >     The chairperson of the Commission shall be elected by a vote of a majority of the members, which shall take place not later than 30 days after the first meeting of the Commission.
 
 >     “(e) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall conduct a study to identify technological or other methods that—
 
@@ -211,7 +211,7 @@
 
 >             “(B) may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 \[[47 U.S.C. 231(c)][/us/usc/t47/s231/c]\] (as added by this title).    “Any methods so identified shall be used as the basis for making legislative recommendations to the Congress under subsection (d)(3).
 
->         “(2) __Specific methods.—__ 
+>         “(2)  __Specific methods__  __.—__ 
 
 >         In carrying out the study, the Commission shall identify and analyze various technological tools and methods for protecting minors from material that is harmful to minors, which shall include (without limitation)—
 
@@ -227,7 +227,7 @@
 
 >             “(F) any other existing or proposed technologies or methods for reducing access by minors to such material.
 
->         “(3) __Analysis.—__ 
+>         “(3)  __Analysis__  __.—__ 
 
 >         In analyzing technologies and other methods identified pursuant to paragraph (2), the Commission shall examine—
 
@@ -243,7 +243,7 @@
 
 >             “(F) such other factors and issues as the Commission considers relevant and appropriate.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 2 years after the enactment of this Act \[Oct. 21, 1998\], the Commission shall submit a report to the Congress containing the results of the study under this section, which shall include—
 
@@ -257,31 +257,31 @@
 
 >     “(g) __Rules of the Commission.—__ 
 
->         “(1) __Quorum.—__ 
+>         “(1)  __Quorum__  __.—__ 
 
 >         Nine members of the Commission shall constitute a quorum for conducting the business of the Commission.
 
->         “(2) __Meetings.—__ 
+>         “(2)  __Meetings__  __.—__ 
 
 >         Any meetings held by the Commission shall be duly noticed at least 14 days in advance and shall be open to the public.
 
->         “(3) __Opportunities to testify.—__ 
+>         “(3)  __Opportunities to testify__  __.—__ 
 
 >         The Commission shall provide opportunities for representatives of the general public to testify.
 
->         “(4) __Additional rules.—__ 
+>         “(4)  __Additional rules__  __.—__ 
 
 >         The Commission may adopt other rules as necessary to carry out this section.
 
->     “(h) __Gifts, Bequests, and Devises.—__ 
+>     “(h)  __Gifts, Bequests, and Devises__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real (including the use of office space) and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts or grants not used at the termination of the Commission shall be returned to the donor or grantee.
 
->     “(l) __\[i\] Termination.—__ 
+>     “(l) __\[i\]__  __Termination__  __.—__ 
 
 >     The Commission shall terminate 30 days after the submission of the report under subsection (d) or November 30, 2000, whichever occurs earlier.
 
->     “(m) __\[j\] Inapplicability of Federal Advisory Committee Act.—__ 
+>     “(m) __\[j\]__  __Inapplicability of Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 

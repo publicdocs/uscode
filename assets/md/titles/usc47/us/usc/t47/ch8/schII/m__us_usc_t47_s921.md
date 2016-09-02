@@ -39,7 +39,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1705\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–366, provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Secretary of Defense, in consultation with the Attorney General and the Secretary of Commerce, shall provide for the conduct of an engineering study to identify—
 
@@ -49,11 +49,11 @@
 
 >         “(3) a reasonable schedule for implementation of such sharing of frequencies.
 
->     “(b) __Submission of Interim Report.—__ 
+>     “(b)  __Submission of Interim Report__  __.—__ 
 
 >     Within one year after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an interim report on the progress of the study conducted pursuant to subsection (a).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than January 1, 2002, the Secretary of Commerce and the Chairman of the Federal Communications Commission shall jointly submit a report to Congress on alternative frequencies available for use by public safety systems.”
 
@@ -61,7 +61,7 @@
 
 [Pub. L. 106–65, div. A, title X, § 1062(b)][/us/pl/106/65/s1062/b], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
 
@@ -69,7 +69,7 @@
 
 >         “(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 ([Public Law 103–66][/us/pl/103/66]; [107 Stat. 379][/us/stat/107/379]) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33], [111 Stat. 258][/us/stat/111/258]) \[enacting [section 337 of this title][/us/usc/t47/s337], amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under [section 309 of this title][/us/usc/t47/s309]\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending [section 923 of this title][/us/usc/t47/s923] and enacting provisions set out as a note below\].”
 

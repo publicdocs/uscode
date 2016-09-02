@@ -49,7 +49,7 @@
 
             $20,400,000,000 shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
 
-        (6) __9–1–1, e9–1–1, and next generation 9–1–1 implementation grants__ 
+        (6) __9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants__ 
 
             $115,000,000 shall be available to the Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration to carry out the grant program under [section 942 of this title][/us/usc/t47/s942].
 

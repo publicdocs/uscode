@@ -371,23 +371,23 @@
 
 [Pub. L. 111–175, title II, § 205][/us/pl/111/175/s205], May 27, 2010, [124 Stat. 1250][/us/stat/124/1250], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17][/us/usc/t17/s111], Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and [section 204 of this title][/us/usc/t47/s204] \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[[47 U.S.C. 338][/us/usc/t47/s338] to 340\] as in effect on the day before the date of the enactment of this Act.
 
->     “(b) __Translator Stations and Low Power Television Stations.—__ 
+>     “(b)  __Translator Stations and Low Power Television Stations__  __.—__ 
 
 >     Notwithstanding subsection (a), for purposes of determining whether a subscriber within the local market served by a translator station or a low power television station affiliated with a television network is eligible to receive distant signals under section 339 of the Communications Act of 1934, the rules and regulations of the Federal Communications Commission for determining such subscriber’s eligibility as in effect on the day before the date of the enactment of this Act shall apply until the date on which the translator station or low power television station is licensed to broadcast a digital signal.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     As used in this subtitle \[title II of [Pub. L. 111–175][/us/pl/111/175] does not contain subtitles\]:
 
->         “(1) __Local market; low power television station; satellite carrier; subscriber; television broadcast station.—__ 
+>         “(1)  __Local market; low power television station; satellite carrier; subscriber; television broadcast station__  __.—__ 
 
 >         The terms ‘local market’, ‘low power television station’, ‘satellite carrier’, ‘subscriber’, and ‘television broadcast station’ have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[[47 U.S.C. 338(k)][/us/usc/t47/s338/k]\].
 
->         “(2) __Network station; television network.—__ 
+>         “(2)  __Network station; television network__  __.—__ 
 
 >         The terms ‘network station’ and ‘television network’ have the meanings given such terms in section 339(d) of such Act \[[47 U.S.C. 339(d)][/us/usc/t47/s339/d]\].”
 
@@ -403,7 +403,7 @@
 
 >     “(a) __Requirement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         On the 270th day after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17][/us/usc/t17/s111], Copyrights\], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the Federal Communications Commission setting forth—
 
@@ -419,13 +419,13 @@
 
 >             “(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
 
 >     “(b) __FCC Study; Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         If no satellite carrier files a request for a certification under section 342 of the Communications Act of 1934 \[[47 U.S.C. 342][/us/usc/t47/s342]\] (as added by [section 206 of this title][/us/usc/t47/s206]) within 270 days after the date of the enactment of this Act, the Federal Communications Commission shall initiate a study of—
 
@@ -433,11 +433,11 @@
 
 >             “(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Within 1 year after the date of the initiation of the study under paragraph (1), the Federal Communications Commission shall submit a report to the appropriate Congressional committees containing its findings, conclusions, and recommendations.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -455,25 +455,25 @@
 
 > “SEC. 2002. __LOCAL TELEVISION SERVICE IN UNSERVED AND UNDERSERVED MARKETS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission (‘the Commission’) shall take all actions necessary to make a determination regarding licenses or other authorizations for facilities that will utilize, for delivering local broadcast television station signals to satellite television subscribers in unserved and underserved local television markets, spectrum otherwise allocated to commercial use.
 
 >     “(b) __Rules.—__ 
 
->         “(1) __Form of business.—__ 
+>         “(1)  __Form of business__  __.—__ 
 
 >         To the extent not inconsistent with the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\] and the Commission’s rules, the Commission shall permit applicants under subsection (a) to engage in partnerships, joint ventures, and similar operating arrangements for the purpose of carrying out subsection (a).
 
->         “(2) __Harmful interference.—__ 
+>         “(2)  __Harmful interference__  __.—__ 
 
 >         The Commission shall ensure that no facility licensed or authorized under subsection (a) causes harmful interference to the primary users of that spectrum or to public safety spectrum use.
 
->         “(3) __Limitation on commission.—__ 
+>         “(3)  __Limitation on commission__  __.—__ 
 
 >         Except as provided in paragraphs (1) and (2), the Commission may not restrict any entity granted a license or other authorization under subsection (a) from using any reasonable compression, reformatting, or other technology.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
 

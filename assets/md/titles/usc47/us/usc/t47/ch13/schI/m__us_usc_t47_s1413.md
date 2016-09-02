@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t47/ch13/schI/m__us_usc_t47_s1412.md) | [Next](./../../../../..//us/usc/t47/ch13/schII/m__us_usc_t47_ch13_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1413)
 
-## § 1413. 470–512 MHz public safety spectrum.
+## § 1413. 470–512 MHz public safety spectrum
 
     (a) __In general__ 
 

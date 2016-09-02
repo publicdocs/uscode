@@ -75,11 +75,11 @@
 
 [Pub. L. 103–66, title VI, § 6002(d)(1)][/us/pl/103/66/s6002/d/1], (2), Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396], provided that:
 
->     “(1) __General rulemaking.—__ 
+>     “(1)  __General rulemaking__  __.—__ 
 
 >     The Federal Communications Commission shall prescribe regulations to implement section 309(j) of the Communications Act of 1934 \[[47 U.S.C. 309(j)][/us/usc/t47/s309/j]\] (as added by this section) within 210 days after the date of enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __PCS orders and licensing.—__ 
+>     “(2)  __PCS orders and licensing__  __.—__ 
 
 >     The Commission shall—
 

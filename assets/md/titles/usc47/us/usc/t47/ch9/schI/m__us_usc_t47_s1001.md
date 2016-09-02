@@ -75,11 +75,11 @@
 
 [Pub. L. 103–414, title I, § 111][/us/pl/103/414/s111], Oct. 25, 1994, [108 Stat. 4288][/us/stat/108/4288], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[enacting this subchapter and provisions set out below\] shall take effect on the date of enactment of this Act \[Oct. 25, 1994\].
 
->     “(b) __Assistance Capability and Systems Security and Integrity Requirements.—__ 
+>     “(b)  __Assistance Capability and Systems Security and Integrity Requirements__  __.—__ 
 
 >     Sections 103 and 105 of this title \[enacting sections 1002 and 1004 of this title\] shall take effect on the date that is 4 years after the date of enactment of this Act.”
 

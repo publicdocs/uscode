@@ -45,7 +45,7 @@
 
 [Pub. L. 102–385, § 2(a)][/us/pl/102/385/s2/a], (b), Oct. 5, 1992, [106 Stat. 1460][/us/stat/106/1460], 1463, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares the following:
 
@@ -101,7 +101,7 @@
 
 >         “(21) Cable systems should be encouraged to carry low-power television stations licensed to the communities served by those systems where the low-power station creates and broadcasts, as a substantial part of its programming day, local programming.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     It is the policy of the Congress in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] to—
 

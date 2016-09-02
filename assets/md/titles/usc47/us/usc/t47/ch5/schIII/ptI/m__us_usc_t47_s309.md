@@ -93,7 +93,7 @@
 
     (i) __Random selection__ 
 
-        (1) __General authority.—__ 
+        (1)  __General authority__  __.—__ 
 
         Except as provided in paragraph (5), if there is more than one application for any initial license or construction permit, then the Commission shall have the authority to grant such license or permit to a qualified applicant through the use of a system of random selection.
 
@@ -129,7 +129,7 @@
 
             (C) Not later than 180 days after August 10, 1993, the Commission shall prescribe such transfer disclosures and antitrafficking restrictions and payment schedules as are necessary to prevent the unjust enrichment of recipients of licenses or permits as a result of the methods employed to issue licenses under this subsection.
 
-        (5) __Termination of authority.—__ 
+        (5)  __Termination of authority__  __.—__ 
 
             (A) Except as provided in subparagraph (B), the Commission shall not issue any license or permit using a system of random selection under this subsection after July 1, 1997.
 
@@ -809,15 +809,15 @@
 
 [Pub. L. 111–4, § 4][/us/pl/111/4/s4], Feb. 11, 2009, [123 Stat. 113][/us/stat/123/113], provided that:
 
->     “(a) __Permissive Early Termination Under Existing Requirements.—__ 
+>     “(a)  __Permissive Early Termination Under Existing Requirements__  __.—__ 
 
 >     Nothing in this Act \[amending this section and [section 337 of this title][/us/usc/t47/s337], enacting provisions set out as notes under this section and [section 609 of this title][/us/usc/t47/s609], and amending provisions set out as notes under this section\] is intended to prevent a licensee of a television broadcast station from terminating the broadcasting of such station’s analog television signal (and continuing to broadcast exclusively in the digital television service) prior to the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[[section 3002(b) of Pub. L. 109–171][/us/pl/109/171/s3002/b], set out below\] for termination of all licenses for full-power television stations in the analog television service (as amended by section 2 of this Act) so long as such prior termination is conducted in accordance with the Federal Communications Commission’s requirements in effect on the date of enactment of this Act \[Feb. 11, 2009\], including the flexible procedures established in the Matter of Third Periodic Review of the Commission’s Rules and Policies Affecting the Conversion to Digital Television (FCC 07–228, MB Docket No. 07–91, released December 31, 2007).
 
->     “(b) __Public Safety Radio Services.—__ 
+>     “(b)  __Public Safety Radio Services__  __.—__ 
 
 >     Nothing in this Act, or the amendments made by this Act, shall prevent a public safety service licensee from commencing operations consistent with the terms of its license on spectrum recovered as a result of the voluntary cessation of broadcasting in the analog or digital television service pursuant to subsection (a). Any such public safety use shall be subject to the relevant Federal Communications Commission rules and regulations in effect on the date of enactment of this Act \[Feb. 11, 2009\], including section 90.545 of the Commission’s rules (47 C.F.R. § 90.545).
 
->     “(c) __Expedited Rulemaking.—__ 
+>     “(c)  __Expedited Rulemaking__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Federal Communications Commission and the National Telecommunications and Information Administration shall, not later than 30 days after the date of enactment of this Act \[Feb. 11, 2009\], each adopt or revise its rules, regulations, or orders or take such other actions as may be necessary or appropriate to implement the provisions, and carry out the purposes, of this Act and the amendments made by this Act.”
 
@@ -829,11 +829,11 @@
 
 > “SEC. 2. __COMMISSION ACTION REQUIRED.__ 
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Federal Communications Commission shall, not later than January 15, 2009, develop and implement a program to encourage and permit, to the extent technically feasible and subject to such limitations as the Commission finds to be consistent with the public interest and the requirements of this Act, the broadcasting in the analog television service of only the public safety information and digital transition information specified in subsection (b) during the 30-day period beginning on the day after the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[[section 3002(b) of Pub. L. 109–171][/us/pl/109/171/s3002/b], set out below\] for termination of all licenses for full-power television stations in the analog television service and the cessation of broadcasting by full-power stations in the analog television service.
 
->     “(b) __Information required.—__ 
+>     “(b)  __Information required__  __.—__ 
 
 >     The program required by subsection (a) shall provide for the broadcast of—
 
@@ -873,21 +873,21 @@
 
 > “SEC. 3001. __SHORT TITLE; DEFINITION.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This title may be cited as the ‘Digital Television Transition and Public Safety Act of 2005’.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in this Act \[probably should be “this title”\], the term ‘Assistant Secretary’ means the Assistant Secretary for Communications and Information of the Department of Commerce.
 
 > “SEC. 3002. __ANALOG SPECTRUM RECOVERY: FIRM DEADLINE.__ 
 
->     “(a) __Amendments.—__ 
+>     “(a)  __Amendments__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(b) __Terminations of Analog Licenses and Broadcasting.—__ 
+>     “(b)  __Terminations of Analog Licenses and Broadcasting__  __.—__ 
 
 >     The Federal Communications Commission shall take such actions as are necessary—
 
@@ -895,7 +895,7 @@
 
 >         “(2) to require by that date that all broadcasting by Class A stations, whether in the analog television service or digital television service, and all broadcasting by full-power stations in the digital television service, occur only on channels between channels 2 and 36, inclusive, or 38 and 51, inclusive (between frequencies 54 and 698 megahertz, inclusive).
 
->     “(c) __Conforming Amendments.—__ 
+>     “(c)  __Conforming Amendments__  __.—__ 
 
 >     \[Amended [section 337 of this title][/us/usc/t47/s337].\]
 

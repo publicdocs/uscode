@@ -15,7 +15,7 @@
 
 ## § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
 
-    (a) __9–1–1 implementation Coordination Office__ 
+    (a) __9–1–1 Implementation Coordination Office__ 
 
         (1) __Establishment and continuation__ 
 
@@ -219,7 +219,7 @@
 
 >     “(3) any funds that are collected from fees imposed on consumer bills for the purposes of funding 911 services or enhanced 911 should go only for the purposes for which the funds are collected; and
 
->     “(4) enhanced 911 is a high national priority and it requires Federal leadership, working in copperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
+>     “(4) enhanced 911 is a high national priority and it requires Federal leadership, working in cooperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
 
  __Purposes__ 
 

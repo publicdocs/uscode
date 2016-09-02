@@ -115,7 +115,7 @@ SUBCHAPTER II—GOVERNANCE OF PUBLIC SAFETY SPECTRUM  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1423" data-uslm-ref="/us/usc/t47/s1423">1423.</a>  </td>
 
-    <td> Public Safety Interoperability Board.  </td>
+    <td> Public safety Interoperability Board.  </td>
 
   </tr>
 

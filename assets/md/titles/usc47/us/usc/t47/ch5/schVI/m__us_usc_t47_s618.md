@@ -39,7 +39,7 @@
 
                 (i) If the Commission determines that a violation has occurred, the Commission may, in the order issued under this subparagraph or in a subsequent order, direct the manufacturer or service provider to bring the service, or in the case of a manufacturer, the next generation of the equipment or device, into compliance with requirements of those sections within a reasonable time established by the Commission in its order.
 
-                (ii) __No violation.—__ 
+                (ii)  __No violation__  __.—__ 
 
                 If a determination is made that a violation has not occurred, the Commission shall provide the basis for such determination.
 

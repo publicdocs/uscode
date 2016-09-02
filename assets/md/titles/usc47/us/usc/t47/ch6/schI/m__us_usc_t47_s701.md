@@ -51,7 +51,7 @@
 
 [Pub. L. 99–93, title I, § 146][/us/pl/99/93/s146], Aug. 16, 1985, [99 Stat. 425][/us/stat/99/425], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     The Congress declares that it is the policy of the United States—
 
@@ -67,7 +67,7 @@
 
 >         “(3) to authorize use and operation of any additional space segment facilities only if the obligations of the United States under article XIV(d) of the Intelsat Agreement have been met.
 
->     “(b) __Preconditions for Intelsat Consultation.—__ 
+>     “(b)  __Preconditions for Intelsat Consultation__  __.—__ 
 
 >     Before consulting with Intelsat for purposes of coordination of any separate international telecommunications satellite system under article XIV(d) of the Intelsat Agreement, the Secretary of State shall—
 
@@ -75,7 +75,7 @@
 
 >         “(2) ensure that one or more foreign authorities have authorized the use of such system consistent with such conditions.
 
->     “(c) __Amendment of Intelsat Agreement.—__ 
+>     “(c)  __Amendment of Intelsat Agreement__  __.—__ 
 
 >         (1) The Secretary of State shall consult with the United States signatory to Intelsat and the Secretary of Commerce regarding the appropriate scope and character of a modification to article V(d) of the Intelsat Agreement which would permit Intelsat to establish cost-based rates for individual traffic routes, as exceptional circumstances warrant, paying particular attention to the need for avoiding significant economic harm to the global system of Intelsat as well as United States national and foreign policy interests.
 
@@ -87,7 +87,7 @@
 
 >         “(3) Pursuant to the consultation under paragraph (1) and taking the steps prescribed in paragraph (2) to provide documentation, the United States shall support an appropriate modification to article V(d) of the Intelsat Agreement to accomplish the purpose described in paragraph (1).
 
->     “(d) __Congressional Consultation.—__ 
+>     “(d)  __Congressional Consultation__  __.—__ 
 
 >     In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly’s failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
 
@@ -95,15 +95,15 @@
 
 >         “(2) a plan for minimizing any negative effects of the President’s action on Intelsat and on United States foreign policy interests.
 
->     “(e) __Notification to Federal Communications Commission.—__ 
+>     “(e)  __Notification to Federal Communications Commission__  __.—__ 
 
 >     In the event the Secretary of State submits a report under subsection (d), the Secretary, 60 calendar days after the receipt by the Congress of such report, shall notify the Federal Communications Commission as to whether the United States obligations under article XIV(d) of the Intelsat Agreement have been met.
 
->     “(f) __Implementation.—__ 
+>     “(f)  __Implementation__  __.—__ 
 
 >     In implementing the provisions of this section, the Secretary of State shall act in accordance with Executive order 12046 \[set out under [section 305 of this title][/us/usc/t47/s305]\].
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     For the purposes of this section, the term ‘separate international telecommunications satellite system’ or ‘separate system’ means a system of one or more telecommunications satellites separate from the Intelsat space segment which is established to provide international telecommunications services between points within the United States and points outside the United States, except that such term shall not include any satellite or system of satellites established—
 

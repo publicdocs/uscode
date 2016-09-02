@@ -79,7 +79,7 @@
 
 [Pub. L. 105–33, title III, § 3002(c)][/us/pl/105/33/s3002/c], Aug. 5, 1997, [111 Stat. 261][/us/stat/111/261], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Commission shall complete all actions necessary to permit the assignment by September 30, 2002, by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)][/us/usc/t47/s309/j]), of licenses for the use of bands of frequencies that—
 
@@ -105,7 +105,7 @@
 
 >         “(E) include 15 megahertz from within the bands of frequencies at 1,990–2,110 megahertz.
 
->     “(2) __Criteria for Reassignment.—__ 
+>     “(2)  __Criteria for Reassignment__  __.—__ 
 
 >     In making available bands of frequencies for competitive bidding pursuant to paragraph (1), the Commission shall—
 
@@ -119,15 +119,15 @@
 
 >         “(E) coordinate with the Secretary of Commerce when there is any impact on Federal Government spectrum use.
 
->     “(3) __Use of bands at 2,110–2,150 megahertz.—__ 
+>     “(3)  __Use of bands at 2,110–2,150 megahertz__  __.—__ 
 
 >     The Commission shall reallocate spectrum located at 2,110–2,150 megahertz for assignment by competitive bidding unless the Commission determines that auction of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce greater receipts. If the Commission makes such a determination, then the Commission shall, within 2 years after the date of enactment of this Act \[Aug. 5, 1997\], identify an alternative 40 megahertz, and report to the Congress an identification of such alternative 40 megahertz for assignment by competitive bidding.
 
->     “(4) __Use of 15 megahertz from bands at 1,990–2,110 megahertz.—__ 
+>     “(4)  __Use of__  __15__  __megahertz from bands at 1,990–2,110 megahertz__  __.—__ 
 
 >     The Commission shall reallocate 15 megahertz from spectrum located at 1,990–2,110 megahertz for assignment by competitive bidding unless the President determines such spectrum cannot be reallocated due to the need to protect incumbent Federal systems from interference, and that allocation of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce comparable receipts. If the President makes such a determination, then the President shall, within 2 years after the date of enactment of this Act, identify alternative bands of frequencies totalling 15 megahertz, and report to the Congress an identification of such alternative bands for assignment by competitive bidding.
 
->     “(5) __Notification to the Secretary of Commerce.—__ 
+>     “(5)  __Notification to the Secretary of Commerce__  __.—__ 
 
 >     The Commission shall attempt to accommodate incumbent licensees displaced under this section by relocating them to other frequencies available for allocation by the Commission. The Commission shall notify the Secretary of Commerce whenever the Commission is not able to provide for the effective relocation of an incumbent licensee to a band of frequencies available to the Commission for assignment. The notification shall include—
 

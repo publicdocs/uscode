@@ -17,11 +17,11 @@
 
 ## “SEC. 3011. ENHANCE 911.
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 ([47 U.S.C. 309(j)(8)(E)][/us/usc/t47/s309/j/8/E]) to implement the ENHANCE 911 Act of 2004 \[title I of [Pub. L. 108–494][/us/pl/108/494], see Short Title of 2004 Amendment note set out under [section 901 of this title][/us/usc/t47/s901]\].
 
->     “(b) __Credit.—__ 
+>     “(b)  __Credit__  __.—__ 
 
 >     The Assistant Secretary may borrow from the Treasury, upon enactment of the 911 Modernization Act \[Aug. 3, 2007\], such sums as necessary, but not to exceed $43,500,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 

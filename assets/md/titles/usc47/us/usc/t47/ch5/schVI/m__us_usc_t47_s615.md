@@ -27,7 +27,7 @@
 
 [Pub. L. 106–81, § 2][/us/pl/106/81/s2], Oct. 26, 1999, [113 Stat. 1286][/us/stat/113/1286], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -43,7 +43,7 @@
 
 >         “(6) the construction and operation of seamless, ubiquitous, and reliable wireless telecommunications systems promote public safety and provide immediate and critical communications links among members of the public; emergency medical service providers and emergency dispatch providers; public safety, fire service and law enforcement officials; transportation officials, and hospital emergency and trauma care facilities.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1999 Amendments note set out under [section 609 of this title][/us/usc/t47/s609]\] is to encourage and facilitate the prompt deployment throughout the United States of a seamless, ubiquitous, and reliable end-to-end infrastructure for communications, including wireless communications, to meet the Nation’s public safety and other communications needs.”
 

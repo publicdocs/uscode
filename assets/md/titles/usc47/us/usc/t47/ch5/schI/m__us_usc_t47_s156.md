@@ -63,11 +63,11 @@
 
 [Pub. L. 104–104, title VII, § 710(a)][/us/pl/104/104/s710/a], (b), Feb. 8, 1996, [110 Stat. 160][/us/stat/110/160], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In addition to any other sums authorized by law, there are authorized to be appropriated to the Federal Communications Commission such sums as may be necessary to carry out this Act \[see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] and the amendments made by this Act.
 
->     “(b) __Effect on Fees.—__ 
+>     “(b)  __Effect on Fees__  __.—__ 
 
 >     For the purposes of section 9(b)(2) ([47 U.S.C. 159(b)(2)][/us/usc/t47/s159/b/2]), additional amounts appropriated pursuant to subsection (a) shall be construed to be changes in the amounts appropriated for the performance of activities described in section 9(a) of the Communications Act of 1934 \[[47 U.S.C. 159(a)][/us/usc/t47/s159/a]\].”
 

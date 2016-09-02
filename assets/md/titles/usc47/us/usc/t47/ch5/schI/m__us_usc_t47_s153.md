@@ -407,7 +407,7 @@ Section 19 of act July 16, 1952, provided that:
 
 [Pub. L. 111–260, § 2][/us/pl/111/260/s2], Oct. 8, 2010, [124 Stat. 2751][/us/stat/124/2751], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), no person shall be liable for a violation of the requirements of this Act \[see Short Title of 2010 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] (or of the provisions of the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\] that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services to the extent such person—
 
@@ -415,7 +415,7 @@ Section 19 of act July 16, 1952, provided that:
 
 >         “(2) provides an information location tool, such as a directory, index, reference, pointer, menu, guide, user interface, or hypertext link, through which an end user obtains access to such video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The limitation on liability under subsection (a) shall not apply to any person who relies on third party applications, services, software, hardware, or equipment to comply with the requirements of this Act (or of the provisions of the Communications Act of 1934 that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services.”
 
@@ -439,35 +439,35 @@ Section 19 of act July 16, 1952, provided that:
 
 > “In this title \[amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title\]:
 
->     “(1) __Advisory committee.—__ 
+>     “(1)  __Advisory committee__  __.—__ 
 
 >     The term ‘Advisory Committee’ means the advisory committee established in section 201 \[[47 U.S.C. 613][/us/usc/t47/s613] note\].
 
->     “(2) __Chairman.—__ 
+>     “(2)  __Chairman__  __.—__ 
 
 >     The term ‘Chairman’ means the Chairman of the Federal Communications Commission.
 
->     “(3) __Commission.—__ 
+>     “(3)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Federal Communications Commission.
 
->     “(4) __Emergency information.—__ 
+>     “(4)  __Emergency information__  __.—__ 
 
 >     The term ‘emergency information’ has the meaning given such term in section 79.2 of title 47, Code of Federal Regulations.
 
->     “(5) __Internet protocol.—__ 
+>     “(5)  __Internet protocol__  __.—__ 
 
 >     The term ‘Internet protocol’ includes Transmission Control Protocol and a successor protocol or technology to Internet protocol.
 
->     “(6) __Navigation device.—__ 
+>     “(6)  __Navigation device__  __.—__ 
 
 >     The term ‘navigation device’ has the meaning given such term in section 76.1200 of title 47, Code of Federal Regulations.
 
->     “(7) __Video description.—__ 
+>     “(7)  __Video description__  __.—__ 
 
 >     The term ‘video description’ has the meaning given such term in section 713 of the Communications Act of 1934 ([47 U.S.C. 613][/us/usc/t47/s613]).
 
->     “(8) __Video programming.—__ 
+>     “(8)  __Video programming__  __.—__ 
 
 >     The term ‘video programming’ has the meaning given such term in section 713 of the Communications Act of 1934 ([47 U.S.C. 613][/us/usc/t47/s613]).”
 

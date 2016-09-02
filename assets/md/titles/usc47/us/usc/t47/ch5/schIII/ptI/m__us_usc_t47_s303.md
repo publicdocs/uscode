@@ -257,7 +257,7 @@
 
 [Pub. L. 104–104, title V, § 551(e)][/us/pl/104/104/s551/e], Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that:
 
->     “(1) __Applicability of rating provision.—__ 
+>     “(1)  __Applicability of rating provision__  __.—__ 
 
 >     The amendment made by subsection (b) of this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Feb. 8, 1996\], but only if the Commission determines \[see Codification note above\], in consultation with appropriate public interest groups and interested individuals from the private sector, that distributors of video programming have not, by such date—
 
@@ -265,7 +265,7 @@
 
 >         “(B) agreed voluntarily to broadcast signals that contain ratings of such programming.
 
->     “(2) __Effective date of manufacturing provision.—__ 
+>     “(2)  __Effective date of manufacturing provision__  __.—__ 
 
 >     In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].”
 
@@ -287,7 +287,7 @@
 
 [Pub. L. 111–260, title II, § 203(d)][/us/pl/111/260/s203/d], (e), Oct. 8, 2010, [124 Stat. 2773][/us/stat/124/2773], provided that:
 
->     “(d) __Implementing Regulations.—__ 
+>     “(d)  __Implementing Regulations__  __.—__ 
 
 >     The Federal Communications Commission shall prescribe such regulations as are necessary to implement the requirements of sections 303(u), 303(z), and 330(b) of the Communications Act of 1934 \[[47 U.S.C. 303(u)][/us/usc/t47/s303/u], (z), 330(b)\], as amended by this section, including any technical standards, protocols, and procedures needed for the transmission of—
 
@@ -295,7 +295,7 @@
 
 >         “(2) video description and emergency information within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) \[[47 U.S.C. 613][/us/usc/t47/s613] note\].
 
->     “(e) __Alternate Means of Compliance.—__ 
+>     “(e)  __Alternate Means of Compliance__  __.—__ 
 
 >     An entity may meet the requirements of sections 303(u), 303(z), and 330(b) of the Communications Act of 1934 through alternate means than those prescribed by regulations pursuant to subsection (d) if the requirements of those sections are met, as determined by the Commission.”
 
@@ -303,15 +303,15 @@
 
 [Pub. L. 111–260, title II, § 204(b)][/us/pl/111/260/s204/b]–(d), Oct. 8, 2010, [124 Stat. 2774][/us/stat/124/2774], provided that:
 
->     “(b) __Implementing Regulations.—__ 
+>     “(b)  __Implementing Regulations__  __.—__ 
 
 >     Within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) \[[47 U.S.C. 613][/us/usc/t47/s613] note\], the Commission shall prescribe such regulations as are necessary to implement the amendments made by subsection (a) \[amending this section\].
 
->     “(c) __Alternate Means of Compliance.—__ 
+>     “(c)  __Alternate Means of Compliance__  __.—__ 
 
 >     An entity may meet the requirements of section 303(aa) of the Communications Act of 1934 \[[47 U.S.C. 303(aa)][/us/usc/t47/s303/aa]\] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
 
->     “(d) __Deferral of Compliance with ATSC Mobile DTV Standard A/153.—__ 
+>     “(d)  __Deferral of Compliance with ATSC Mobile DTV Standard A__  __/153.—__ 
 
 >     A digital apparatus designed and manufactured to receive or play back the Advanced Television Systems Committee’s Mobile DTV Standards A/153 shall not be required to meet the requirements of the regulations prescribed under subsection (b) for a period of not less than 24 months after the date on which the final regulations are published in the Federal Register.”
 
@@ -319,35 +319,35 @@
 
 [Pub. L. 111–260, title II, § 205(b)][/us/pl/111/260/s205/b], Oct. 8, 2010, [124 Stat. 2775][/us/stat/124/2775], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) \[[47 U.S.C. 613][/us/usc/t47/s613] note\], the Commission shall prescribe such regulations as are necessary to implement the amendment made by subsection (a) \[amending this section\].
 
->     “(2) __Exemption.—__ 
+>     “(2)  __Exemption__  __.—__ 
 
 >     Such regulations may provide an exemption from the regulations for cable systems serving 20,000 or fewer subscribers.
 
->     “(3) __Responsibility.—__ 
+>     “(3)  __Responsibility__  __.—__ 
 
 >     An entity shall only be responsible for compliance with the requirements added by this section with respect to navigation devices that it provides to a requesting blind or visually impaired individual.
 
 >     “(4) __Separate equipment or software.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Such regulations shall permit but not require the entity providing the navigation device to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 \[[47 U.S.C. 303(bb)(1)][/us/usc/t47/s303/bb/1]\] through that entity’s use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
 
->         “(B) __Requirements.—__ 
+>         “(B)  __Requirements__  __.—__ 
 
 >         If an entity complies with section 303(bb)(1) of the Communications Act of 1934 under subparagraph (A), the entity providing the navigation device to the requesting blind or visually impaired individual shall provide any such software, peripheral device, equipment, service, or solution at no additional charge and within a reasonable time to such individual and shall ensure that such software, device, equipment, service, or solution provides the access required by such regulations.
 
->     “(5) __User controls for closed captioning.—__ 
+>     “(5)  __User controls for closed captioning__  __.—__ 
 
 >     Such regulations shall permit the entity providing the navigation device maximum flexibility in the selection of means for compliance with section 303(bb)(2) of the Communications Act of 1934 \[[47 U.S.C. 303(bb)(2)][/us/usc/t47/s303/bb/2]\] (as added by subsection (a) of this section).
 
 >     “(6) __Phase-in.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Commission shall provide affected entities with—
 
@@ -355,7 +355,7 @@
 
 >             “(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
 
->         “(B) __Application.—__ 
+>         “(B)  __Application__  __.—__ 
 
 >         Such regulations shall apply only to devices manufactured or imported on or after the respective effective dates established in subparagraph (A).”
 
@@ -387,7 +387,7 @@
 
 > “SEC. 3. __MINIMUM DISTANCE SEPARATION REQUIREMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Communications Commission shall modify its rules to eliminate third-adjacent minimum distance separation requirements between—
 
@@ -397,7 +397,7 @@
 
 >     “(b) __Restriction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Federal Communications Commission shall not amend its rules to reduce the minimum co-channel and first- and second-adjacent channel distance separation requirements in effect on the date of enactment of this Act \[Jan. 4, 2011\] between—
 
@@ -407,21 +407,21 @@
 
 >         “(2) __Waiver.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding paragraph (1), the Federal Communications Commission may grant a waiver of the second-adjacent channel distance separation requirement to low-power FM stations that establish, using methods of predicting interference taking into account all relevant factors, including terrain-sensitive propagation models, that their proposed operations will not result in interference to any authorized radio service.
 
 >             “(B) __Requirements.—__ 
 
->                 “(i) __Suspension.—__ 
+>                 “(i)  __Suspension__  __.—__ 
 
 >                 Any low-power FM station that receives a waiver under subparagraph (A) shall be required to suspend operation immediately upon notification by the Federal Communications Commission that it is causing interference to the reception of an existing or modified full-service FM station without regard to the location of the station receiving interference.
 
->                 “(ii) __Elimination of interference.—__ 
+>                 “(ii)  __Elimination of interference__  __.—__ 
 
 >                 A low-power FM station described in clause (i) shall not resume operation until such interference has been eliminated or it can demonstrate to the Federal Communications Commission that the interference was not due to emissions from the low-power FM station, except that such station may make short test transmissions during the period of suspended operation to check the efficacy of remedial measures.
 
->                 “(iii) __Notification.—__ 
+>                 “(iii)  __Notification__  __.—__ 
 
 >                 Upon receipt of a complaint of interference from a low-power FM station operating pursuant to a waiver authorized under subparagraph (A), the Federal Communications Commission shall notify the identified low-power FM station by telephone or other electronic communication within 1 business day.
 
@@ -475,15 +475,15 @@
 
 > “SEC. 8. __FCC STUDY ON IMPACT OF LOW-POWER FM STATIONS ON FULL-SERVICE COMMERCIAL FM STATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Communications Commission shall conduct an economic study on the impact that low-power FM stations will have on full-service commercial FM stations.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Federal Communications Commission shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the study conducted under subsection (a).
 
->     “(c) __Licensing Not Affected by Study.—__ 
+>     “(c)  __Licensing Not Affected by Study__  __.—__ 
 
 >     Nothing in this section shall affect the licensing of new low-power FM stations as otherwise permitted under this Act.”
 
@@ -491,13 +491,13 @@
 
 [Pub. L. 104–104, title II, § 202][/us/pl/104/104/s202], Feb. 8, 1996, [110 Stat. 110][/us/stat/110/110], as amended by [Pub. L. 108–199, div. B, title VI, § 629][/us/pl/108/199/s629], Jan. 23, 2004, [118 Stat. 99][/us/stat/118/99], provided that:
 
->     “(a) __National Radio Station Ownership Rule Changes Required.—__ 
+>     “(a)  __National Radio Station Ownership Rule Changes Required__  __.—__ 
 
 >     The Commission shall modify section 73.3555 of its regulations (47 C.F.R. 73.3555) by eliminating any provisions limiting the number of AM or FM broadcast stations which may be owned or controlled by one entity nationally.
 
 >     “(b) __Local Radio Diversity.—__ 
 
->         “(1) __Applicable caps.—__ 
+>         “(1)  __Applicable caps__  __.—__ 
 
 >         The Commission shall revise section 73.3555(a) of its regulations (47 C.F.R. 73.3555) to provide that—
 
@@ -509,13 +509,13 @@
 
 >             “(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Notwithstanding any limitation authorized by this subsection, the Commission may permit a person or entity to own, operate, or control, or have a cognizable interest in, radio broadcast stations if the Commission determines that such ownership, operation, control, or interest will result in an increase in the number of radio broadcast stations in operation.
 
 >     “(c) __Television Ownership Limitations.—__ 
 
->         “(1) __National ownership limitations.—__ 
+>         “(1)  __National ownership limitations__  __.—__ 
 
 >         The Commission shall modify its rules for multiple ownership set forth in section 73.3555 of its regulations (47 C.F.R. 73.3555)—
 
@@ -523,23 +523,23 @@
 
 >             “(B) by increasing the national audience reach limitation for television stations to 39 percent.
 
->         “(2) __Local ownership limitations.—__ 
+>         “(2)  __Local ownership limitations__  __.—__ 
 
 >         The Commission shall conduct a rulemaking proceeding to determine whether to retain, modify, or eliminate its limitations on the number of television stations that a person or entity may own, operate, or control, or have a cognizable interest in, within the same television market.
 
->         “(3) __Divestiture.—__ 
+>         “(3)  __Divestiture__  __.—__ 
 
 >         A person or entity that exceeds the 39 percent national audience reach limitation for television stations in paragraph (1)(B) through grant, transfer, or assignment of an additional license for a commercial television broadcast station shall have not more than 2 years after exceeding such limitation to come into compliance with such limitation. This divestiture requirement shall not apply to persons or entities that exceed the 39 percent national audience reach limitation through population growth.
 
->         “(4) __Forbearance.—__ 
+>         “(4)  __Forbearance__  __.—__ 
 
 >         Section 10 of the Communications Act of 1934 ([47 U.S.C. 160][/us/usc/t47/s160]) shall not apply to any person or entity that exceeds the 39 percent national audience reach limitation for television stations in paragraph (1)(B);\[.\]
 
->     “(d) __Relaxation of One-To-A-Market.—__ 
+>     “(d)  __Relaxation of One-To-A-Market__  __.—__ 
 
 >     With respect to its enforcement of its one-to-a-market ownership rules under section 73.3555 of its regulations, the Commission shall extend its waiver policy to any of the top 50 markets, consistent with the public interest, convenience, and necessity.
 
->     “(e) __Dual Network Changes.—__ 
+>     “(e)  __Dual Network Changes__  __.—__ 
 
 >     The Commission shall revise section 73.658(g) of its regulations (47 C.F.R. 658(g)) to permit a television broadcast station to affiliate with a person or entity that maintains 2 or more networks of television broadcast stations unless such dual or multiple networks are composed of—
 
@@ -549,23 +549,23 @@
 
 >     “(f) __Cable Cross Ownership.—__ 
 
->         “(1) __Elimination of restrictions.—__ 
+>         “(1)  __Elimination of restrictions__  __.—__ 
 
 >         The Commission shall revise section 76.501 of its regulations (47 C.F.R. 76.501) to permit a person or entity to own or control a network of broadcast stations and a cable system.
 
->         “(2) __Safeguards against discrimination.—__ 
+>         “(2)  __Safeguards against discrimination__  __.—__ 
 
 >         The Commission shall revise such regulations if necessary to ensure carriage, channel positioning, and nondiscriminatory treatment of nonaffiliated broadcast stations by a cable system described in paragraph (1).
 
->     “(g) __Local Marketing Agreements.—__ 
+>     “(g)  __Local Marketing Agreements__  __.—__ 
 
 >     Nothing in this section shall be construed to prohibit the origination, continuation, or renewal of any television local marketing agreement that is in compliance with the regulations of the Commission.
 
->     “(h) __Further Commission Review.—__ 
+>     “(h)  __Further Commission Review__  __.—__ 
 
 >     The Commission shall review its rules adopted pursuant to this section and all of its ownership rules quadrennially as part of its regulatory reform review under section 11 of the Communications Act of 1934 \[[47 U.S.C. 161][/us/usc/t47/s161]\] and shall determine whether any of such rules are necessary in the public interest as the result of competition. The Commission shall repeal or modify any regulation it determines to be no longer in the public interest. This subsection does not apply to any rules relating to the 39 percent national audience reach limitation in subsection (c)(1)(B).
 
->     “(i) __Elimination of Statutory Restriction.—__ 
+>     “(i)  __Elimination of Statutory Restriction__  __.—__ 
 
 >     \[Amended [section 533(a) of this title][/us/usc/t47/s533/a].\]”
 

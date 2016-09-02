@@ -17,11 +17,11 @@
 
 ## “SEC. 3009. LOW-POWER TELEVISION AND TRANSLATOR UPGRADE PROGRAM.
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Assistant Secretary shall make payments of not to exceed $65,000,000, in the aggregate, during fiscal years 2009 through 2012 from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 ([47 U.S.C. 309(j)(8)(E)][/us/usc/t47/s309/j/8/E]) to implement and administer a program through which each licensee of an eligible low-power television station may receive reimbursement for equipment to upgrade low-power television stations from analog to digital in eligible rural communities, as that term is defined in section 610(b)(2) \[601(b)(2)\] of the Rural Electrification Act of 1937 \[1936\] ([7 U.S.C. 950bb(b)(2)][/us/usc/t7/s950bb/b/2]). Such reimbursements shall be issued to eligible stations on or after February 18, 2009. Priority reimbursements shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
 
->     “(b) __Eligible Stations.—__ 
+>     “(b)  __Eligible Stations__  __.—__ 
 
 >     For purposes of this section, the term ‘eligible low-power television station’ means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
 

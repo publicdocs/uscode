@@ -501,11 +501,11 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that:
 
->     “(1) __Requirement.—__ 
+>     “(1)  __Requirement__  __.—__ 
 
 >     The Federal Communications Commission shall prescribe regulations for purposes of administering the provisions of paragraphs (5) and (6) of section 254(h) of the Communications Act of 1934 \[[47 U.S.C. 254(h)][/us/usc/t47/s254/h]\], as amended by this section.
 
->     “(2) __Deadline.—__ 
+>     “(2)  __Deadline__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -523,11 +523,11 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1702\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
 
->     “(a) __Disclaimer Regarding Content.—__ 
+>     “(a)  __Disclaimer Regarding Content__  __.—__ 
 
 >     Nothing in this title \[see Short Title of 2000 Amendments note set out under [section 6301 of Title 20][/us/usc/t20/s6301], Education\] or the amendments made by this title shall be construed to prohibit a local educational agency, elementary or secondary school, or library from blocking access on the Internet on computers owned or operated by that agency, school, or library to any content other than content covered by this title or the amendments made by this title.
 
->     “(b) __Disclaimer Regarding Privacy.—__ 
+>     “(b)  __Disclaimer Regarding Privacy__  __.—__ 
 
 >     Nothing in this title or the amendments made by this title shall be construed to require the tracking of Internet use by any identifiable minor or adult user.”
 
@@ -535,11 +535,11 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1741\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that:
 
->     “(a) __Three-Judge District Court Hearing.—__ 
+>     “(a)  __Three-Judge District Court Hearing__  __.—__ 
 
 >     Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title \[see Short Title of 2000 Amendments note set out under [section 6301 of Title 20][/us/usc/t20/s6301], Education\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of three judges convened pursuant to the provisions of [section 2284 of title 28][/us/usc/t28/s2284], United States Code.
 
->     “(b) __Appellate Review.—__ 
+>     “(b)  __Appellate Review__  __.—__ 
 
 >     Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
 

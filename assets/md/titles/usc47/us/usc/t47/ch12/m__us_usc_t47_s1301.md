@@ -127,6 +127,8 @@
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
  __Unleashing the Wireless Broadband Revolution__ 
 
     Memorandum of President of the United States, June 28, 2010, 75 F.R. 38387, provided:
@@ -180,6 +182,8 @@
     Sec. 7. The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register.
 
                               Barack Obama.
+
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
 
  __Expanding America’s Leadership in Wireless Innovation__ 
 
@@ -253,6 +257,8 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../..//us/usc/t47/ch12/m__us_usc_t47_ch12.md) | [Next](./../../../..//us/usc/t47/ch12/m__us_usc_t47_s1302.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1301)
@@ -267,11 +273,14 @@ Therefore, by the authority vested in me as President by the Constitution and th
 [/us/usc/t47/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1302
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/11/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F11%2F175
 [/us/pl/108/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 

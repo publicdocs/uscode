@@ -227,7 +227,7 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1703\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the National Telecommunications and Information Administration shall initiate a notice and comment proceeding for purposes of—
 
@@ -237,11 +237,11 @@
 
 >         “(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Technology protection measure.—__ 
+>         “(1)  __Technology protection measure__  __.—__ 
 
 >         The term ‘technology protection measure’ means a specific technology that blocks or filters Internet access to visual depictions that are—
 
@@ -251,7 +251,7 @@
 
 >             “(C) harmful to minors.
 
->         “(2) __Harmful to minors.—__ 
+>         “(2)  __Harmful to minors__  __.—__ 
 
 >         The term ‘harmful to minors’ means any picture, image, graphic image file, or other visual depiction that—
 
@@ -261,7 +261,7 @@
 
 >             “(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
 
->         “(3) __Sexual act; sexual contact.—__ 
+>         “(3)  __Sexual act; sexual contact__  __.—__ 
 
 >         The terms ‘sexual act’ and ‘sexual contact’ have the meanings given such terms in [section 2246 of title 18][/us/usc/t18/s2246], United States Code.”
 

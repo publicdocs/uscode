@@ -33,11 +33,11 @@
 
 [Pub. L. 109–459, § 2][/us/pl/109/459/s2], Dec. 22, 2006, [120 Stat. 3399][/us/stat/120/3399], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Communications Commission shall take such action as may be necessary to reduce the cost of calling home for Armed Forces personnel who are stationed outside the United States under official military orders or deployed outside the United States in support of military operations, training exercises, or other purposes as approved by the Secretary of Defense, including the reduction of such costs through the waiver of government fees, assessments, or other charges for such calls. The Commission may not regulate rates in order to carry out this section.
 
->     “(b) __Factors To Consider.—__ 
+>     “(b)  __Factors To Consider__  __.—__ 
 
 >     In taking the action described in subsection (a), the Commission, in coordination with the Department of Defense and the Department of State, shall—
 
@@ -49,15 +49,15 @@
 
 >         “(4) seek agreements with foreign governments to reduce international surcharges on such telephone calls.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Armed forces.—__ 
+>         “(1)  __Armed forces__  __.—__ 
 
 >         The term ‘Armed Forces’ has the meaning given that term by [section 2101(2) of title 5][/us/usc/t5/s2101/2], United States Code.
 
->         “(2) __Military base.—__ 
+>         “(2)  __Military base__  __.—__ 
 
 >         The term ‘military base’ includes official duty stations to include vessels, whether such vessels are in port or underway outside of the United States.”
 

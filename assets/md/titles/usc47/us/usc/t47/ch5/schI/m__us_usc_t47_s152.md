@@ -71,63 +71,63 @@
 
 >     “(a) __Applicability of Amendments to Future Conduct.—__ 
 
->         “(1) __AT&T consent decree.—__ 
+>         “(1)  __AT&T consent decree__  __.—__ 
 
 >         Any conduct or activity that was, before the date of enactment of this Act \[Feb. 8, 1996\], subject to any restriction or obligation imposed by the AT&T Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\] as amended by this Act and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
 
->         “(2) __GTE consent decree.—__ 
+>         “(2)  __GTE consent decree__  __.—__ 
 
 >         Any conduct or activity that was, before the date of enactment of this Act, subject to any restriction or obligation imposed by the GTE Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 as amended by this Act and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
 
->         “(3) __McCaw consent decree.—__ 
+>         “(3)  __McCaw consent decree__  __.—__ 
 
 >         Any conduct or activity that was, before the date of enactment of this Act, subject to any restriction or obligation imposed by the McCaw Consent Decree shall, on and after such date, be subject to the restrictions and obligations imposed by the Communications Act of 1934 as amended by this Act and subsection (d) of this section and shall not be subject to the restrictions and the obligations imposed by such Consent Decree.
 
 >     “(b) __Antitrust Laws.—__ 
 
->         “(1) __Savings clause.—__ 
+>         “(1)  __Savings clause__  __.—__ 
 
 >         Except as provided in paragraphs (2) and (3), nothing in this Act \[see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] or the amendments made by this Act shall be construed to modify, impair, or supersede the applicability of any of the antitrust laws.
 
->         “(2) __Repeal.—__ 
+>         “(2)  __Repeal__  __.—__ 
 
 >         \[Amended [section 221 of this title][/us/usc/t47/s221].\]
 
->         “(3) __Clayton act.—__ 
+>         “(3)  __Clayton act__  __.—__ 
 
 >         \[Amended [section 18 of Title 15][/us/usc/t15/s18], Commerce and Trade.\]
 
 >     “(c) __Federal, State, and Local Law.—__ 
 
->         “(1) __No implied effect.—__ 
+>         “(1)  __No implied effect__  __.—__ 
 
 >         This Act and the amendments made by this Act shall not be construed to modify, impair, or supersede Federal, State, or local law unless expressly so provided in such Act or amendments.
 
->         “(2) __State tax savings provision.—__ 
+>         “(2)  __State tax savings provision__  __.—__ 
 
 >         Notwithstanding paragraph (1), nothing in this Act or the amendments made by this Act shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or supersession of, any State or local law pertaining to taxation, except as provided in sections 622 and 653(c) of the Communications Act of 1934 \[[47 U.S.C. 542][/us/usc/t47/s542], 573(c)\] and section 602 of this Act \[set out as a note below\].
 
->     “(d) __Commercial Mobile Service Joint Marketing.—__ 
+>     “(d)  __Commercial Mobile Service Joint Marketing__  __.—__ 
 
 >     Notwithstanding section 22.903 of the Commission’s regulations (47 C.F.R. 22.903) or any other Commission regulation, a Bell operating company or any other company may, except as provided in sections 271(e)(1) and 272 of the Communications Act of 1934 \[[47 U.S.C. 271(e)(1)][/us/usc/t47/s271/e/1], 272\] as amended by this Act as they relate to wireline service, jointly market and sell commercial mobile services in conjunction with telephone exchange service, exchange access, intraLATA telecommunications service, interLATA telecommunications service, and information services.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     As used in this section:
 
->         “(1) __AT&T consent decree.—__ 
+>         “(1)  __AT&T consent decree__  __.—__ 
 
 >         The term ‘AT&T Consent Decree’ means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the District of Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
 
->         “(2) __GTE consent decree.—__ 
+>         “(2)  __GTE consent decree__  __.—__ 
 
 >         The term ‘GTE Consent Decree’ means the order entered December 21, 1984, as restated January 11, 1985, in the action styled United States v. GTE Corp., Civil Action No. 83–1298, in the United States District Court for the District of Columbia, and any judgment or order with respect to such action entered on or after December 21, 1984.
 
->         “(3) __McCaw consent decree.—__ 
+>         “(3)  __McCaw consent decree__  __.—__ 
 
 >         The term ‘McCaw Consent Decree’ means the proposed consent decree filed on July 15, 1994, in the antitrust action styled United States v. AT&T Corp. and McCaw Cellular Communications, Inc., Civil Action No. 94–01555, in the United States District Court for the District of Columbia. Such term includes any stipulation that the parties will abide by the terms of such proposed consent decree until it is entered and any order entering such proposed consent decree.
 
->         “(4) __Antitrust laws.—__ 
+>         “(4)  __Antitrust laws__  __.—__ 
 
 >         The term ‘antitrust laws’ has the meaning given it in subsection (a) of the first section of the Clayton Act ([15 U.S.C. 12(a)][/us/usc/t15/s12/a]), except that such term includes the Act of June 19, 1936 ([49 Stat. 1526][/us/stat/49/1526]; [15 U.S.C. 13][/us/usc/t15/s13] et seq.), commonly known as the Robinson-Patman Act, and section 5 of the Federal Trade Commission Act ([15 U.S.C. 45][/us/usc/t15/s45]) to the extent that such section 5 applies to unfair methods of competition.”
 
@@ -135,35 +135,35 @@
 
 [Pub. L. 104–104, title VI, § 602][/us/pl/104/104/s602], Feb. 8, 1996, [110 Stat. 144][/us/stat/110/144], provided that:
 
->     “(a) __Preemption.—__ 
+>     “(a)  __Preemption__  __.—__ 
 
 >     A provider of direct-to-home satellite service shall be exempt from the collection or remittance, or both, of any tax or fee imposed by any local taxing jurisdiction on direct-to-home satellite service.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For the purposes of this section—
 
->         “(1) __Direct-to-home satellite service.—__ 
+>         “(1)  __Direct-to-home satellite service__  __.—__ 
 
 >         The term ‘direct-to-home satellite service’ means only programming transmitted or broadcast by satellite directly to the subscribers’ premises without the use of ground receiving or distribution equipment, except at the subscribers’ premises or in the uplink process to the satellite.
 
->         “(2) __Provider of direct-to-home satellite service.—__ 
+>         “(2)  __Provider of direct-to-home satellite service__  __.—__ 
 
 >         For purposes of this section, a ‘provider of direct-to-home satellite service’ means a person who transmits, broadcasts, sells, or distributes direct-to-home satellite service.
 
->         “(3) __Local taxing jurisdiction.—__ 
+>         “(3)  __Local taxing jurisdiction__  __.—__ 
 
 >         The term ‘local taxing jurisdiction’ means any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other local jurisdiction in the territorial jurisdiction of the United States with the authority to impose a tax or fee, but does not include a State.
 
->         “(4) __State.—__ 
+>         “(4)  __State__  __.—__ 
 
 >         The term ‘State’ means any of the several States, the District of Columbia, or any territory or possession of the United States.
 
->         “(5) __Tax or fee.—__ 
+>         “(5)  __Tax or fee__  __.—__ 
 
 >         The terms ‘tax’ and ‘fee’ mean any local sales tax, local use tax, local intangible tax, local income tax, business license tax, utility tax, privilege tax, gross receipts tax, excise tax, franchise fees, local telecommunications tax, or any other tax, license, or fee that is imposed for the privilege of doing business, regulating, or raising revenue for a local taxing jurisdiction.
 
->     “(c) __Preservation of State Authority.—__ 
+>     “(c)  __Preservation of State Authority__  __.—__ 
 
 >     This section shall not be construed to prevent taxation of a provider of direct-to-home satellite service by a State or to prevent a local taxing jurisdiction from receiving revenue derived from a tax or fee imposed and collected by a State.”
 

@@ -237,11 +237,11 @@
 
 [Pub. L. 111–260, § 201][/us/pl/111/260/s201], Oct. 8, 2010, [124 Stat. 2764][/us/stat/124/2764], as amended by [Pub. L. 111–265, § 1(2)][/us/pl/111/265/s1/2]–(5), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Oct. 8, 2010\], the Chairman shall establish an advisory committee to be known as the Video Programming and Emergency Access Advisory Committee.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     As soon as practicable after the date of enactment of this Act, the Chairman shall appoint individuals who have the technical knowledge and engineering expertise to serve on the Advisory Committee in the fulfillment of its duties, including the following:
 
@@ -259,17 +259,17 @@
 
 >         “(7) Other individuals with technical and engineering expertise, as the Chairman determines appropriate.
 
->     “(c) __Commission Oversight.—__ 
+>     “(c)  __Commission Oversight__  __.—__ 
 
 >     The Chairman shall appoint a member of the Commission’s staff to moderate and direct the work of the Advisory Committee.
 
->     “(d) __Technical Staff.—__ 
+>     “(d)  __Technical Staff__  __.—__ 
 
 >     The Commission shall appoint a member of the Commission’s technical staff to provide technical assistance to the Advisory Committee.
 
 >     “(e) __Development of Recommendations.—__ 
 
->         “(1) __Closed captioning report.—__ 
+>         “(1)  __Closed captioning report__  __.—__ 
 
 >         Within 6 months after the date of the first meeting of the Advisory Committee, the Advisory Committee shall develop and submit to the Commission a report that includes the following:
 
@@ -283,7 +283,7 @@
 
 >             “(E) A recommendation for any regulations that may be necessary to ensure compatibility between video programming, except for consumer generated media, delivered using Internet protocol and devices capable of receiving and displaying such programming in order to facilitate access to closed captions.
 
->         “(2) __Video description, emergency information, user interfaces, and video programming guides and menus.—__ 
+>         “(2)  __Video description, emergency information, user interfaces, and video programming guides and menus__  __.—__ 
 
 >         Within 18 months after the date of enactment of this Act, the Advisory Committee shall develop and submit to the Commission a report that includes the following:
 
@@ -303,39 +303,39 @@
 
 >             “(H) With respect to video programming guides and menus, a recommendation for the standards, protocols, and procedures used to enable video programming information and selection provided by means of a navigation device, guide, or menu to be accessible in real-time by individuals who are blind or visually impaired.
 
->         “(3) __Consideration of work by standard-setting organizations.—__ 
+>         “(3)  __Consideration of work by standard-setting organizations__  __.—__ 
 
 >         The recommendations of the advisory committee shall, insofar as possible, incorporate the standards, protocols, and procedures that have been adopted by recognized industry standard-setting organizations for each of the purposes described in paragraphs (1) and (2).
 
 >     “(f) __Meetings.—__ 
 
->         “(1) __Initial meeting.—__ 
+>         “(1)  __Initial meeting__  __.—__ 
 
 >         The initial meeting of the Advisory Committee shall take place not later than 180 days after the date of the enactment of this Act \[Oct. 8, 2010\].
 
->         “(2) __Other meetings.—__ 
+>         “(2)  __Other meetings__  __.—__ 
 
 >         After the initial meeting, the Advisory Committee shall meet at the call of the Chairman.
 
->         “(3) __Notice; open meetings.—__ 
+>         “(3)  __Notice; open meetings__  __.—__ 
 
 >         Any meeting held by the Advisory Committee shall be noticed at least 14 days before such meeting and shall be open to the public.
 
 >     “(g) __Procedural Rules.—__ 
 
->         “(1) __Quorum.—__ 
+>         “(1)  __Quorum__  __.—__ 
 
 >         The presence of one-third of the members of the Advisory Committee shall constitute a quorum for conducting the business of the Advisory Committee.
 
->         “(2) __Subcommittees.—__ 
+>         “(2)  __Subcommittees__  __.—__ 
 
 >         To assist the Advisory Committee in carrying out its functions, the Chairman may establish appropriate subcommittees composed of members of the Advisory Committee and other subject matter experts.
 
->         “(3) __Additional procedural rules.—__ 
+>         “(3)  __Additional procedural rules__  __.—__ 
 
 >         The Advisory Committee may adopt other procedural rules as needed.
 
->     “(h) __Federal Advisory Committee Act.—__ 
+>     “(h)  __Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.”
 

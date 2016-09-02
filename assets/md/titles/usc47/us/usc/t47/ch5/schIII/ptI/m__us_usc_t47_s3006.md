@@ -17,7 +17,7 @@
 
 ## “SEC. 3006. PUBLIC SAFETY INTEROPERABLE COMMUNICATIONS.
 
->     “(a) __Creation of Program.—__ 
+>     “(a)  __Creation of Program__  __.—__ 
 
 >     The Assistant Secretary, in consultation with the Secretary of the Department of Homeland Security—
 
@@ -41,17 +41,17 @@
 
 >         “(3) shall permit any funds allocated for use under paragraph (1)(B) to be used for purposes identified under paragraph (1)(A), if the public safety agency demonstrates that it has already implemented such a strategic technology reserve or demonstrates higher priority public safety communications needs.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     To be eligible for assistance under the grant program established under subparagraph (a)(1)(A), an applicant shall submit an application, at such time, in such form, and containing such information as the Assistant Secretary may require, including a detailed explanation of how assistance received under the program would be used to improve communications interoperability and ensure interoperability with other public safety agencies in an emergency or a major disaster.
 
 >     “(c) __Criteria for Strategic Technology Reserves.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall consider the continuing technological evolution of communications technologies and devices, with its implicit risk of obsolescence, and shall ensure, to the maximum extent feasible, that a substantial part of the reserve involves prenegotiated contracts and other arrangements for rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems), rather than the warehousing or storage of equipment and supplies currently available at the time the reserve is established.
 
->         “(2) __Requirements and characteristics.—__ 
+>         “(2)  __Requirements and characteristics__  __.—__ 
 
 >         Funds provided to meet uses described in paragraph (1) shall be used in support of reserves that—
 
@@ -65,33 +65,33 @@
 
 >             “(E) include arrangements for training to ensure that personnel are familiar with the operation of the equipment and devices to be delivered pursuant to such contracts.
 
->         “(3) __Additional characteristics.—__ 
+>         “(3)  __Additional characteristics__  __.—__ 
 
 >         Portions of the reserve may be virtual and may include items donated on an in-kind contribution basis.
 
->         “(4) __Allocation of funds.—__ 
+>         “(4)  __Allocation of funds__  __.—__ 
 
 >         In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall take into account barriers to immediate deployment, including time and distance, that may slow the rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems) in the event of an emergency in any State.
 
->     “(d) __Voluntary Consensus Standards.—__ 
+>     “(d)  __Voluntary Consensus Standards__  __.—__ 
 
 >     In carrying out this section, the Assistant Secretary, in cooperation with the Secretary of Homeland Security, shall identify and, if necessary, encourage the development and implementation of, voluntary consensus standards for interoperable communications systems to the greatest extent practicable, but shall not require any such standard.
 
 >     “(e) __Inspector General Report and Audits.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 \[Aug. 3, 2007\], the Inspector General of the Department of Commerce shall conduct an annual assessment of the management of the grant program implemented under subsection (a)(1) and transmit a report containing the findings of that assessment and any recommendations related thereto to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
 
->         “(2) __Audits.—__ 
+>         “(2)  __Audits__  __.—__ 
 
 >         Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Inspector General of the Department of Commerce shall conduct financial audits of entities receiving grants from the program implemented under subsection (a)(1), and shall ensure that, over the course of 4 years, such audits cover recipients in a representative sample of not fewer than 25 States or territories. The results of any such audits shall be made publicly available via web site, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
 
->     “(f) __Rule of Construction.—__ 
+>     “(f)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed or interpreted to preclude the use of funds under this section by any public safety agency for interim- or long-term Internet Protocol-based interoperable solutions.
 
->     “(h)    \[(g) __\] Credit.—__ 
+>     “(h)    \[(g) __\]__  __Credit__  __.—__ 
 
 >         The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
@@ -101,11 +101,11 @@
 
 >         “(j)
 
->         \[(i)\] Definitions.—For purposes of this section:    “(1) __Public safety agency.—__ 
+>         \[(i)\] Definitions.—For purposes of this section:    “(1)  __Public safety agency__  __.—__ 
 
 >             The term ‘public safety agency’ means any State, local, or tribal government entity, or nongovernmental organization authorized by such entity, whose sole or principal purpose is to protect the safety of life, health, or property.
 
->             “(2) __Interoperable communications systems.—__ 
+>             “(2)  __Interoperable communications systems__  __.—__ 
 
 >             The term ‘interoperable communications systems’ means communications systems which enable public safety agencies to share information amongst local, State, Federal, and tribal public safety agencies in the same area via voice or data signals.
 

@@ -39,7 +39,7 @@
 
             A broadcast television station that voluntarily relinquishes spectrum usage rights under this subsection in order to share a television channel and that possessed carriage rights under section 338, 534, or 535 of this title on November 30, 2010, shall have, at its shared location, the carriage rights under such section that would apply to such station at such location if it were not sharing a channel.
 
-    (b) __Reorganization of broadcast tv spectrum__ 
+    (b) __Reorganization of broadcast TV spectrum__ 
 
         (1) __In general__ 
 

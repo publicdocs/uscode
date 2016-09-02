@@ -133,7 +133,7 @@
 
 [Pub. L. 107–195, § 6][/us/pl/107/195/s6], June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
 
->     “(a) __Interference Waivers.—__ 
+>     “(a)  __Interference Waivers__  __.—__ 
 
 >     In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels 2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
 
@@ -143,7 +143,7 @@
 
 >         if such waiver or reduction will result in any degradation in or loss of service, or an increased level of interference, to any television household except as the Commission’s rules would otherwise expressly permit, exclusive of any waivers previously granted.
 
->     “(b) __Exception for Public Safety Channel Clearing.—__ 
+>     “(b)  __Exception for Public Safety Channel Clearing__  __.—__ 
 
 >     The restrictions in subsection (a) shall not apply to a station licensee that is seeking authority (either by waiver or otherwise) to vacate the frequencies that constitute television channel 63, 64, 68, or 69 in order to make such frequencies available for public safety purposes pursuant to the provisions of section 337 of the Communications Act of 1934 ([47 U.S.C. 337][/us/usc/t47/s337]).”
 
@@ -151,7 +151,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, as amended by [Pub. L. 107–195, § 3(b)(3)][/us/pl/107/195/s3/b/3], June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
 
->     “(a) __Revised Schedule for Competitive Bidding of Spectrum.—__ 
+>     “(a)  __Revised Schedule for Competitive Bidding of Spectrum__  __.—__ 
 
 >         (1) __\[Amended subsec. (b) of this section.\]__ 
 
@@ -167,7 +167,7 @@
 
 >         “(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 ([47 U.S.C. 309(d)(1)][/us/usc/t47/s309/d/1]), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuance of the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -215,11 +215,11 @@
 
 >             “(B) The Committees on Appropriations, the Budget, and Commerce of the House of Representatives.
 
->     “(c) __Construction.—__ 
+>     “(c)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to supersede the requirements placed on the Federal Communications Commission by section 337(d)(4) of the Communications Act of 1934 ([47 U.S.C. 337(d)(4)][/us/usc/t47/s337/d/4]).
 
->     “(d) __Repeal of Superseded Provisions.—__ 
+>     “(d)  __Repeal of Superseded Provisions__  __.—__ 
 
 >     Section 8124 of the Department of Defense Appropriations Act, 2000 \[[Pub. L. 106–79][/us/pl/106/79], amending this section and enacting provisions formerly set out under this section\] is repealed.”
 

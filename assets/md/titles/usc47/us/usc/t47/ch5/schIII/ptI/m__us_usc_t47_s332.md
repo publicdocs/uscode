@@ -171,11 +171,11 @@
 
 [Pub. L. 103–66, title VI, § 6002(c)][/us/pl/103/66/s6002/c], Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 152, 153, and 309 of this title\] are effective on the date of enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __Effective dates of mobile service amendments.—__ 
+>     “(2)  __Effective dates of mobile service amendments__  __.—__ 
 
 >     The amendments made by subsection (b)(2) \[amending this section and sections 152 and 153 of this title\] shall be effective on the date of enactment of this Act \[Aug. 10, 1993\], except that—
 

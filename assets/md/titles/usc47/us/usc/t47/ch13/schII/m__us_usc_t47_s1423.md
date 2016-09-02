@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t47/ch13/schII/m__us_usc_t47_s1422.md) | [Next](./../../../../..//us/usc/t47/ch13/schII/m__us_usc_t47_s1424.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1423)
 
-## § 1423. Public Safety Interoperability Board
+## § 1423. Public safety Interoperability Board
 
     (a) __Establishment__ 
 
@@ -109,7 +109,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Interoperability Board.
 
-    (f) __Termination of Authority__ 
+    (f) __Termination of authority__ 
 
         The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
 

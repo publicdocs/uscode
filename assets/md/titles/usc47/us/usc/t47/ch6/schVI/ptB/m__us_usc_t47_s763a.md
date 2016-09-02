@@ -17,7 +17,7 @@
 
     In securing the privatizations required by [section 763 of this title][/us/usc/t47/s763], the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A of this subchapter:
 
-    (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __Technical coordination under intelsat agreements.—__ 
+    (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __Technical coordination under intelsat agreements__  __.—__ 
 
     Technical coordination shall not be used to impair competition or competitors, and shall be conducted under International Telecommunication Union procedures and not under Article XIV(d) of the INTELSAT Agreement.
 

@@ -351,7 +351,7 @@
 
 [Pub. L. 107–188, title V, § 531][/us/pl/107/188/s531], June 12, 2002, [116 Stat. 695][/us/stat/116/695], provided that:
 
->     “(a) __Pair Assignment Required.—__ 
+>     “(a)  __Pair Assignment Required__  __.—__ 
 
 >     In order to further promote the orderly transition to digital television, and to promote the equitable allocation and use of digital channels by television broadcast permittees and licensees, the Federal Communications Commission, at the request of an eligible licensee or permittee, shall, within 90 days after the date of enactment of this Act \[June 12, 2002\], allot, if necessary, and assign a paired digital television channel to that licensee or permittee, provided that—
 
@@ -359,7 +359,7 @@
 
 >         “(2) such allotment and assignment is otherwise consistent with the Commission’s rules (47 CFR part 73).
 
->     “(b) __Eligible Transition Licensee or Permittee.—__ 
+>     “(b)  __Eligible Transition Licensee or Permittee__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘eligible licensee or permittee’ means only a full power television broadcast licensee or permittee (or its successor in interest) that—
 
@@ -369,7 +369,7 @@
 
 >     “(c) __Requirements on Licensee or Permittee.—__ 
 
->         “(1) __Construction deadline.—__ 
+>         “(1)  __Construction deadline__  __.—__ 
 
 >         Any licensee or permittee receiving a paired digital channel pursuant to this section—
 
@@ -377,11 +377,11 @@
 
 >             “(B) shall be prohibited from obtaining or receiving an extension of time from the Commission beyond the construction deadline established by paragraph (1).
 
->         “(2) __Prohibition of analog operation using digital pair.—__ 
+>         “(2)  __Prohibition of analog operation using digital pair__  __.—__ 
 
 >         Any licensee or permittee receiving a paired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
 
->     “(d) __Relief Restricted.—__ 
+>     “(d)  __Relief Restricted__  __.—__ 
 
 >     Any paired digital allotment and assignment made under this section shall not be available to any other applicant unless such applicant is an eligible licensee or permittee within the meaning of subsection (b).”
 

@@ -497,6 +497,10 @@
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 227, as added [Pub. L. 102–243, § 3(a)][/us/pl/102/243/s3/a], Dec. 20, 1991, [105 Stat. 2395][/us/stat/105/2395]; amended [Pub. L. 102–556, title IV, § 402][/us/pl/102/556/s402], Oct. 28, 1992, [106 Stat. 4194][/us/stat/106/4194]; [Pub. L. 103–414, title III, § 303(a)(11)][/us/pl/103/414/s303/a/11], (12), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 108–187, § 12][/us/pl/108/187/s12], Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717]; [Pub. L. 109–21][/us/pl/109/21], §§ 2(a)–(g), 3, July 9, 2005, [119 Stat. 359–362][/us/stat/119/359-362]; [Pub. L. 111–331, § 2][/us/pl/111/331/s2], Dec. 22, 2010, [124 Stat. 3572][/us/stat/124/3572].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (e)(5)(A)(i), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
+
  __Amendments__ 
 
     2010—Subsecs. (e) to (h). [Pub. L. 111–331][/us/pl/111/331] added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
@@ -527,11 +531,11 @@
 
 [Pub. L. 102–243, § 3(c)][/us/pl/102/243/s3/c], Dec. 20, 1991, [105 Stat. 2402][/us/stat/105/2402], as amended by [Pub. L. 102–556, title I, § 102][/us/pl/102/556/s102], Oct. 28, 1992, [106 Stat. 4186][/us/stat/106/4186], provided that:
 
->     “(1) __Regulations.—__ 
+>     “(1)  __Regulations__  __.—__ 
 
 >     The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section \[enacting this section and amending [section 152 of this title][/us/usc/t47/s152]\] not later than 9 months after the date of enactment of this Act \[Dec. 20, 1991\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The requirements of section 227 of the Communications Act of 1934 \[this section\] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act \[Dec. 20, 1991\].”
 
@@ -607,6 +611,9 @@
 [/us/stat/119/359-362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F359-362
 [/us/pl/111/331/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331%2Fs2
 [/us/stat/124/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3572
+[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
+[/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
+[/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/111/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331
 [/us/pl/109/21/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fb
 [/us/pl/109/21/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fb%2F1

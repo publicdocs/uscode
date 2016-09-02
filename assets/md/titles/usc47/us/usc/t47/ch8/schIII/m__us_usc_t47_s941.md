@@ -151,7 +151,7 @@
 
 [Pub. L. 107–317, § 2][/us/pl/107/317/s2], Dec. 4, 2002, [116 Stat. 2766][/us/stat/116/2766], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -177,7 +177,7 @@
 
 >         “(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2002 Amendment note set out under [section 901 of this title][/us/usc/t47/s901]\] are—
 

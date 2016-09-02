@@ -67,7 +67,7 @@
 
             (F) __Definitions__ 
 
-                For purposes of this paragraph, the terms “authorized committee” and “Federal office” have the meanings given such terms by [section 431 of title 2][/us/usc/t2/s431].
+                For purposes of this paragraph, the terms “authorized committee” and “Federal office” have the meanings given such terms by [section 30101 of title 52][/us/usc/t52/s30101].
 
     (c) __Definitions__ 
 
@@ -155,11 +155,11 @@
 
 > “The amendments made by this section \[amending this section\] shall apply to broadcasts made after the effective date of this Act \[Nov. 6, 2002\].”
 
-    Amendment by [Pub. L. 107–155][/us/pl/107/155] effective Nov. 6, 2002 (notwithstanding [section 305(c) of Pub. L. 107–155][/us/pl/107/155/s305/c], set out above), but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 107–155][/us/pl/107/155] effective Nov. 6, 2002 (notwithstanding [section 305(c) of Pub. L. 107–155][/us/pl/107/155/s305/c], set out above), but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Effective Date of 1974 Amendment__ 
 
-    Amendment by [Pub. L. 93–443][/us/pl/93/443] effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 93–443][/us/pl/93/443] effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Repeals__ 
 
@@ -184,7 +184,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1088
 [/us/act/1952-07-16/ch879/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs11
@@ -214,10 +214,10 @@
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs305%2Fc
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/pl/93/443/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs205%2Fb
 [/us/stat/88/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1278

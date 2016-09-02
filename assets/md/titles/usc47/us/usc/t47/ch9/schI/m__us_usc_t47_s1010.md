@@ -39,7 +39,7 @@
 
             (B) reflecting its analysis of the reasonableness and cost-effectiveness of the payments made by the Attorney General to telecommunications carriers for modifications necessary to ensure compliance with this subchapter.
 
-        (2) __Compliance cost estimates.—__ 
+        (2)  __Compliance cost estimates__  __.—__ 
 
         A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of [section 1002 of this title][/us/usc/t47/s1002] after the effective date of such [section 1002 of this title][/us/usc/t47/s1002], including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
 

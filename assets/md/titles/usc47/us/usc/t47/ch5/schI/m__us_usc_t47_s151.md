@@ -39,7 +39,7 @@
 
 > “SEC. 1101. __MORATORIUM.__ 
 
->     “(a) __Moratorium.—__ 
+>     “(a)  __Moratorium__  __.—__ 
 
 >     No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:
 
@@ -57,7 +57,7 @@
 
 >     “(d) __Exception to Moratorium.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) shall also not apply in the case of any person or entity who knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors unless such person or entity has restricted access by minors to material that is harmful to minors—
 
@@ -67,7 +67,7 @@
 
 >             “(C) by any other reasonable measures that are feasible under available technology.
 
->         “(2) __Scope of exception.—__ 
+>         “(2)  __Scope of exception__  __.—__ 
 
 >         For purposes of paragraph (1), a person shall not be considered to \[be\] making a communication for commercial purposes of material to the extent that the person is—
 
@@ -79,37 +79,37 @@
 
 >             “(D) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the communication.
 
->         “(3) __Definitions.—__ 
+>         “(3)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __By means of the world wide web.—__ 
+>             “(A)  __By means of the world wide web__  __.—__ 
 
 >             The term ‘by means of the World Wide Web’ means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol, file transfer protocol, or other similar protocols.
 
 >             “(B) __Commercial purposes; engaged in the business.—__ 
 
->                 “(i) __Commercial purposes.—__ 
+>                 “(i)  __Commercial purposes__  __.—__ 
 
 >                 A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
 
->                 “(ii) __Engaged in the business.—__ 
+>                 “(ii)  __Engaged in the business__  __.—__ 
 
 >                 The term ‘engaged in the business’ means that the person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person’s trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person’s sole or principal business or source of income). A person may be considered to be engaged in the business of making, by means of the World Wide Web, communications for commercial purposes that include material that is harmful to minors, only if the person knowingly causes the material that is harmful to minors to be posted on the World Wide Web or knowingly solicits such material to be posted on the World Wide Web.
 
->             “(C) __Internet.—__ 
+>             “(C)  __Internet__  __.—__ 
 
 >             The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
 
->             “(D) __Internet access service.—__ 
+>             “(D)  __Internet access service__  __.—__ 
 
 >             The term ‘Internet access service’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. The term ‘Internet access service’ does not include telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
 
->             “(E) __Internet information location tool.—__ 
+>             “(E)  __Internet information location tool__  __.—__ 
 
 >             The term ‘Internet information location tool’ means a service that refers or links users to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
 
->             “(F) __Material that is harmful to minors.—__ 
+>             “(F)  __Material that is harmful to minors__  __.—__ 
 
 >             The term ‘material that is harmful to minors’ means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
 
@@ -119,37 +119,37 @@
 
 >                 “(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
 
->             “(G) __Minor.—__ 
+>             “(G)  __Minor__  __.—__ 
 
 >             The term ‘minor’ means any person under 17 years of age.
 
->             “(H) __Telecommunications carrier; telecommunications service.—__ 
+>             “(H)  __Telecommunications carrier; telecommunications service__  __.—__ 
 
 >             The terms ‘telecommunications carrier’ and ‘telecommunications service’ have the meanings given such terms in section 3 of the Communications Act of 1934 ([47 U.S.C. 153][/us/usc/t47/s153]).
 
 >     “(e) __Additional Exception to Moratorium.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) shall also not apply with respect to an Internet access provider, unless, at the time of entering into an agreement with a customer for the provision of Internet access services, such provider offers such customer (either for a fee or at no charge) screening software that is designed to permit the customer to limit access to material on the Internet that is harmful to minors.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Internet access provider.—__ 
+>             “(A)  __Internet access provider__  __.—__ 
 
 >             The term ‘Internet access provider’ means a person engaged in the business of providing a computer and communications facility through which a customer may obtain access to the Internet, but does not include a common carrier to the extent that it provides only telecommunications services.
 
->             “(B) __Internet access services.—__ 
+>             “(B)  __Internet access services__  __.—__ 
 
 >             The term ‘Internet access services’ means the provision of computer and communications services through which a customer using a computer and a modem or other communications device may obtain access to the Internet, but does not include telecommunications services provided by a common carrier.
 
->             “(C) __Screening software.—__ 
+>             “(C)  __Screening software__  __.—__ 
 
 >             The term ‘screening software’ means software that is designed to permit a person to limit access to material on the Internet that is harmful to minors.
 
->         “(3) __Applicability.—__ 
+>         “(3)  __Applicability__  __.—__ 
 
 >         Paragraph (1) shall apply to agreements for the provision of Internet access services entered into on or after the date that is 6 months after the date of enactment of this Act \[Oct. 21, 1998\].
 
@@ -185,51 +185,51 @@
 
 >                 “(iv) 3 individuals appointed by the Minority Leader of the House of Representatives.
 
->         “(2) __Appointments.—__ 
+>         “(2)  __Appointments__  __.—__ 
 
 >         Appointments to the Commission shall be made not later than 45 days after the date of the enactment of this Act \[Oct. 21, 1998\]. The chairperson shall be selected not later than 60 days after the date of the enactment of this Act.
 
->         “(3) __Vacancies.—__ 
+>         “(3)  __Vacancies__  __.—__ 
 
 >         Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
->     “(c) __Acceptance of Gifts and Grants.—__ 
+>     “(c)  __Acceptance of Gifts and Grants__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or grants of services or property, both real and personal, for purposes of aiding or facilitating the work of the Commission. Gifts or grants not used at the expiration of the Commission shall be returned to the donor or grantor.
 
->     “(d) __Other Resources.—__ 
+>     “(d)  __Other Resources__  __.—__ 
 
 >     The Commission shall have reasonable access to materials, resources, data, and other information from the Department of Justice, the Department of Commerce, the Department of State, the Department of the Treasury, and the Office of the United States Trade Representative. The Commission shall also have reasonable access to use the facilities of any such Department or Office for purposes of conducting meetings.
 
->     “(e) __Sunset.—__ 
+>     “(e)  __Sunset__  __.—__ 
 
 >     The Commission shall terminate 18 months after the date of the enactment of this Act \[Oct. 21, 1998\].
 
->     “(f) __Rules of the Commission.—__ 
+>     “(f)  __Rules of the Commission__  __.—__ 
 
->         “(1) __Quorum.—__ 
+>         “(1)  __Quorum__  __.—__ 
 
 >         Nine members of the Commission shall constitute a quorum for conducting the business of the Commission.
 
->         “(2) __Meetings.—__ 
+>         “(2)  __Meetings__  __.—__ 
 
 >         Any meetings held by the Commission shall be duly noticed at least 14 days in advance and shall be open to the public.
 
->         “(3) __Opportunities to testify.—__ 
+>         “(3)  __Opportunities to testify__  __.—__ 
 
 >         The Commission shall provide opportunities for representatives of the general public, taxpayer groups, consumer groups, and State and local government officials to testify.
 
->         “(4) __Additional rules.—__ 
+>         “(4)  __Additional rules__  __.—__ 
 
 >         The Commission may adopt other rules as needed.
 
->     “(g) __Duties of the Commission.—__ 
+>     “(g)  __Duties of the Commission__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall conduct a thorough study of Federal, State and local, and international taxation and tariff treatment of transactions using the Internet and Internet access and other comparable intrastate, interstate or international sales activities.
 
->         “(2) __Issues to be studied.—__ 
+>         “(2)  __Issues to be studied__  __.—__ 
 
 >         The Commission may include in the study under subsection (a)—
 
@@ -257,7 +257,7 @@
 
 >             “(F) the examination of ways to simplify Federal and State and local taxes imposed on the provision of telecommunications services.
 
->         “(3) __Effect on the communications act of 1934.—__ 
+>         “(3)  __Effect on the communications act of__  __1934.—__ 
 
 >         Nothing in this section shall include an examination of any fees or charges imposed by the Federal Communications Commission or States related to—
 
@@ -275,9 +275,9 @@
 
 > “SEC. 1104. __GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.__ 
 
->     “(a) __Pre-October 1998 Taxes.—__ 
+>     “(a)  __Pre-October__  __1998 Taxes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 1101(a) does not apply to a tax on Internet access that was generally imposed and actually enforced prior to October 1, 1998, if, before that date—
 
@@ -293,17 +293,17 @@
 
 >         “(2) __Termination.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2014.
 
 >             “(B) __State telecommunications service tax.—__ 
 
->                 “(i) __Date for termination.—__ 
+>                 “(i)  __Date for termination__  __.—__ 
 
 >                 This subsection shall not apply after November 1, 2006, with respect to a State telecommunications service tax described in clause (ii).
 
->                 “(ii) __Description of tax.—__ 
+>                 “(ii)  __Description of tax__  __.—__ 
 
 >                 A State telecommunications service tax referred to in subclause (i) is a State tax—
 
@@ -311,13 +311,13 @@
 
 >                          “(II) applied to Internet access through administrative code or regulation issued on or after December 1, 2002.
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         Paragraphs (1) and (2) shall not apply to any State that has, more than 24 months prior to the date of enactment of this paragraph \[Oct. 31, 2007\], enacted legislation to repeal the State’s taxes on Internet access or issued a rule or other proclamation made by the appropriate agency of the State that such State agency has decided to no longer apply such tax to Internet access.
 
->     “(b) __Pre-November 2003 Taxes.—__ 
+>     “(b)  __Pre-November__  __2003 Taxes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 1101(a) does not apply to a tax on Internet access that was generally imposed and actually enforced as of November 1, 2003, if, as of that date, the tax was authorized by statute and—
 
@@ -325,13 +325,13 @@
 
 >             “(B) a State or political subdivision thereof generally collected such tax on charges for Internet access.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         This subsection shall not apply after November 1, 2005.
 
 >     “(c) __Application of Definition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective as of November 1, 2003—
 
@@ -339,7 +339,7 @@
 
 >             “(B) for purposes of subsection (b), the term ‘Internet access’ shall have the meaning given such term by section 1104(5) of this Act as enacted on October 21, 1998, and amended by section 2(c) of the Internet Tax Nondiscrimination Act ([Public Law 108–435][/us/pl/108/435]).
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         Paragraph (1) shall not apply until June 30, 2008, to a tax on Internet access that is—
 
@@ -347,7 +347,7 @@
 
 >             “(B) the subject of litigation instituted in a judicial court of competent jurisdiction prior to July 1, 2007, in which a State or political subdivision is seeking to enforce, in a manner that is inconsistent with paragraph (1), such tax on telecommunications service purchased, used, or sold by a provider of Internet access.
 
->         “(3) __No inference.—__ 
+>         “(3)  __No inference__  __.—__ 
 
 >         No inference of legislative construction shall be drawn from this subsection or the amendments to section 1105(5) made by the Internet Tax Freedom Act Amendments Act of 2007 \[[Pub. L. 110–108][/us/pl/110/108]\] for any period prior to June 30, 2008, with respect to any tax subject to the exceptions described in subparagraphs (A) and (B) of paragraph (2).
 
@@ -355,7 +355,7 @@
 
 > “For the purposes of this title:
 
->     “(1) __Bit tax.—__ 
+>     “(1)  __Bit tax__  __.—__ 
 
 >     The term ‘bit tax’ means any tax on electronic commerce expressly imposed on or measured by the volume of digital information transmitted electronically, or the volume of digital information per unit of time transmitted electronically, but does not include taxes imposed on the provision of telecommunications.
 
@@ -389,7 +389,7 @@
 
 >                      “(II) the processing of orders through the out-of-State computer server of a provider of Internet access service or online services.
 
->     “(3) __Electronic commerce.—__ 
+>     “(3)  __Electronic commerce__  __.—__ 
 
 >     The term ‘electronic commerce’ means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property, goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
 
@@ -397,7 +397,7 @@
 
 >     The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
 
->     “(5) __Internet access.—__ 
+>     “(5)  __Internet access__  __.—__ 
 
 >     The term ‘Internet access’—
 
@@ -419,19 +419,19 @@
 
 >     “(6) __Multiple tax.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the same rate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Such term shall not include a sales or use tax imposed by a State and 1 or more political subdivisions thereof on the same electronic commerce or a tax on persons engaged in electronic commerce which also may have been subject to a sales or use tax thereon.
 
->         “(C) __Sales or use tax.—__ 
+>         “(C)  __Sales or use tax__  __.—__ 
 
 >         For purposes of subparagraph (B), the term ‘sales or use tax’ means a tax that is imposed on or incident to the sale, purchase, storage, consumption, distribution, or other use of tangible personal property or services as may be defined by laws imposing such tax and which is measured by the amount of the sales price or other charge for such property or service.
 
->     “(7) __State.—__ 
+>     “(7)  __State__  __.—__ 
 
 >     The term ‘State’ means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
@@ -449,23 +449,23 @@
 
 >         Such term does not include any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 of the Communications Act of 1934 ([47 U.S.C. 542][/us/usc/t47/s542], 573), or any other fee related to obligations or telecommunications carriers under the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 
->     “(9) __Telecommunications.—__ 
+>     “(9)  __Telecommunications__  __.—__ 
 
 >     The term ‘telecommunications’ means ‘telecommunications’ as such term is defined in section 3(43) of the Communications Act of 1934 ([47 U.S.C. 153(43)][/us/usc/t47/s153/43] \[now 153(50)\]) and ‘telecommunications service’ as such term is defined in section 3(46) of such Act ([47 U.S.C. 153(46)][/us/usc/t47/s153/46] \[now 153(53)\]), and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 ([26 U.S.C. 4251][/us/usc/t26/s4251])).
 
 >     “(10) __Tax on internet access.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘tax on Internet access’ means a tax on Internet access, regardless of whether such tax is imposed on a provider of Internet access or a buyer of Internet access and regardless of the terminology used to describe the tax.
 
->         “(B) __General exception.—__ 
+>         “(B)  __General exception__  __.—__ 
 
 >         The term ‘tax on Internet access’ does not include a tax levied upon or measured by net income, capital stock, net worth, or property value.
 
 >         “(C) __Specific exception.—__ 
 
->             “(i) __Specified taxes.—__ 
+>             “(i)  __Specified taxes__  __.—__ 
 
 >             Effective November 1, 2007, the term ‘tax on Internet access’ also does not include a State tax expressly levied on commercial activity, modified gross receipts, taxable margin, or gross income of the business, by a State law specifically using one of the foregoing terms, that—
 
@@ -477,35 +477,35 @@
 
 >                      “(IV) is not discriminatory in its application to providers of communication services, Internet access, or telecommunications.
 
->             “(ii) __Modifications.—__ 
+>             “(ii)  __Modifications__  __.—__ 
 
 >             Nothing in this subparagraph shall be construed as a limitation on a State’s ability to make modifications to a tax covered by clause (i) of this subparagraph after November 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
 
->             “(iii) __No inference.—__ 
+>             “(iii)  __No inference__  __.—__ 
 
 >             No inference of legislative construction shall be drawn from this subparagraph regarding the application of subparagraph (A) or (B) to any tax described in clause (i) for periods prior to November 1, 2007.
 
 > “SEC. 1106. __ACCOUNTING RULE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Charges for internet access.—__ 
+>         “(1)  __Charges for internet access__  __.—__ 
 
 >         The term ‘charges for Internet access’ means all charges for Internet access as defined in section 1105(5).
 
->         “(2) __Charges for telecommunications.—__ 
+>         “(2)  __Charges for telecommunications__  __.—__ 
 
 >         The term ‘charges for telecommunications’ means all charges for telecommunications, except to the extent such telecommunications are purchased, used, or sold by a provider of Internet access to provide Internet access or to otherwise enable users to access content, information or other services offered over the Internet.
 
 > “SEC. 1107. __EFFECT ON OTHER LAWS.__ 
 
->     “(a) __Universal Service.—__ 
+>     “(a)  __Universal Service__  __.—__ 
 
 >     Nothing in this Act \[probably means “this title”\] shall prevent the imposition or collection of any fees or charges used to preserve and advance Federal universal service or similar State programs—
 
@@ -513,11 +513,11 @@
 
 >         “(2) in effect on February 8, 1996.
 
->     “(b) __911 and E–911 Services.—__ 
+>     “(b) __911__  __and E–__  __911__  __Services__  __.—__ 
 
 >     Nothing in this Act \[probably means “this title”\] shall prevent the imposition or collection, on a service used for access to 911 or E–911 services, of any fee or charge specifically designated or presented as dedicated by a State or political subdivision thereof for the support of 911 or E–911 services if no portion of the revenue derived from such fee or charge is obligated or expended for any purpose other than support of 911 or E–911 services.
 
->     “(c) __Non-Tax Regulatory Proceedings.—__ 
+>     “(c)  __Non-Tax Regulatory Proceedings__  __.—__ 
 
 >     Nothing in this Act \[probably means “this title”\] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.
 

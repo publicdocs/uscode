@@ -319,11 +319,11 @@
 
 [Pub. L. 104–104, title V, § 561][/us/pl/104/104/s561], Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that:
 
->     “(a) __Three-Judge District Court Hearing.—__ 
+>     “(a)  __Three-Judge District Court Hearing__  __.—__ 
 
 >     Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title \[see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of 3 judges convened pursuant to the provisions of [section 2284 of title 28][/us/usc/t28/s2284], United States Code.
 
->     “(b) __Appellate Review.—__ 
+>     “(b)  __Appellate Review__  __.—__ 
 
 >     Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of 3 judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
 
