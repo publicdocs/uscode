@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141" data-uslm-ref="/us/usc/t12/s1141">1141.</a>  </td>
 
     <td> Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1141a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141a" data-uslm-ref="/us/usc/t12/s1141a">1141a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1141b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141b" data-uslm-ref="/us/usc/t12/s1141b">1141b.</a>  </td>
 
     <td> General powers of Farm Credit Administration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1141c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141c" data-uslm-ref="/us/usc/t12/s1141c">1141c.</a>  </td>
 
     <td> Special powers of administration.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1141d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141d" data-uslm-ref="/us/usc/t12/s1141d">1141d.</a>  </td>
 
     <td> Revolving fund.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1141d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141d%E2%80%931" data-uslm-ref="/us/usc/t12/s1141d–1">1141d–1.</a>  </td>
 
     <td> Interest rates on loans made from revolving fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1141e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141e" data-uslm-ref="/us/usc/t12/s1141e">1141e.</a>  </td>
 
     <td> Loans to cooperative associations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1141f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141f" data-uslm-ref="/us/usc/t12/s1141f">1141f.</a>  </td>
 
     <td> Miscellaneous loan provisions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1141g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141g" data-uslm-ref="/us/usc/t12/s1141g">1141g.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1141h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141h" data-uslm-ref="/us/usc/t12/s1141h">1141h.</a>  </td>
 
     <td> Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1141i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141i" data-uslm-ref="/us/usc/t12/s1141i">1141i.</a>  </td>
 
     <td> Examination of books and accounts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1141j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141j" data-uslm-ref="/us/usc/t12/s1141j">1141j.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2801" data-uslm-ref="/us/usc/t12/s2801">2801.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2802" data-uslm-ref="/us/usc/t12/s2802">2802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2803" data-uslm-ref="/us/usc/t12/s2803">2803.</a>  </td>
 
     <td> Maintenance of records and public disclosure.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2804" data-uslm-ref="/us/usc/t12/s2804">2804.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2805" data-uslm-ref="/us/usc/t12/s2805">2805.</a>  </td>
 
     <td> Relation to State laws.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2806" data-uslm-ref="/us/usc/t12/s2806">2806.</a>  </td>
 
     <td> Compliance improvement methods.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2807" data-uslm-ref="/us/usc/t12/s2807">2807.</a>  </td>
 
     <td> Report.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2808" data-uslm-ref="/us/usc/t12/s2808">2808.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2809" data-uslm-ref="/us/usc/t12/s2809">2809.</a>  </td>
 
     <td> Compilation of aggregate data.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2810" data-uslm-ref="/us/usc/t12/s2810">2810.</a>  </td>
 
     <td> Disclosure by Secretary; commencement, scope, etc.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2811" data-uslm-ref="/us/usc/t12/s2811">2811.</a>  </td>
 
     <td> Repealed.  </td>
 

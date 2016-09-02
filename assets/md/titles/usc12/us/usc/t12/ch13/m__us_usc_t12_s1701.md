@@ -23,6 +23,12 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–29, § 1][/us/pl/113/29/s1], Aug. 9, 2013, [127 Stat. 509][/us/stat/127/509], provided that: 
+
+> “This Act \[amending [section 1715z–20 of this title][/us/usc/t12/s1715z–20]\] may be cited as the ‘Reverse Mortgage Stabilization Act of 2013’.”
+
  __Short Title of 2011 Amendment__ 
 
 [Pub. L. 111–372, § 1(a)][/us/pl/111/372/s1/a], Jan. 4, 2011, [124 Stat. 4077][/us/stat/124/4077], provided that: 
@@ -340,6 +346,9 @@ Act June 27, 1934, title III, § 312, as added [Aug. 2, 1954, ch. 649, § 20
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
+[/us/pl/113/29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F29%2Fs1
+[/us/stat/127/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F509
+[/us/usc/t12/s1715z–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9320
 [/us/pl/111/372/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs1%2Fa
 [/us/stat/124/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4077
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f

@@ -33,7 +33,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs601" data-uslm-ref="/us/usc/t12/s601">601.</a>  </td>
 
     <td> Authorization; conditions and regulations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs602" data-uslm-ref="/us/usc/t12/s602">602.</a>  </td>
 
     <td> Reports and examinations.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs603" data-uslm-ref="/us/usc/t12/s603">603.</a>  </td>
 
     <td> Restrictions imposed by Board of Governors of the Federal Reserve System on banks purchasing stock in corporations doing foreign business.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs604" data-uslm-ref="/us/usc/t12/s604">604.</a>  </td>
 
     <td> Accounts of foreign branches; profit and loss.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 604a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs604a" data-uslm-ref="/us/usc/t12/s604a">604a.</a>  </td>
 
     <td> Regulations authorizing exercise by foreign branches of usual powers of local banks; restrictions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMEN
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs605" data-uslm-ref="/us/usc/t12/s605">605.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs611" data-uslm-ref="/us/usc/t12/s611">611.</a>  </td>
 
     <td> Formation authorized; fiscal agents; depositaries in insular possessions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 611a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs611a" data-uslm-ref="/us/usc/t12/s611a">611a.</a>  </td>
 
     <td> Statement of purposes; rules and regulations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs612" data-uslm-ref="/us/usc/t12/s612">612.</a>  </td>
 
     <td> Articles of association; contents.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs613" data-uslm-ref="/us/usc/t12/s613">613.</a>  </td>
 
     <td> Signing of articles of association; forwarding to and filing by Board of Governors of the Federal Reserve System; organization certificate; contents.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs614" data-uslm-ref="/us/usc/t12/s614">614.</a>  </td>
 
     <td> Organization certificate; acknowledgment; forwarding to, filing, and approval by Board of Governors of the Federal Reserve System; permit to do business; body corporate; name; seal; corporate succession; contracts; suits; directors, officers, and employees; bylaws.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs615" data-uslm-ref="/us/usc/t12/s615">615.</a>  </td>
 
     <td> Powers of corporation.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs616" data-uslm-ref="/us/usc/t12/s616">616.</a>  </td>
 
     <td> Place of carrying on business; when business may be begun.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs617" data-uslm-ref="/us/usc/t12/s617">617.</a>  </td>
 
     <td> Engaging in commerce or trade in commodities; price fixing; forfeiture of charter; acts forbidden to directors, officers, agents, or employees.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs618" data-uslm-ref="/us/usc/t12/s618">618.</a>  </td>
 
     <td> Capital stock; amount; when paid in.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs619" data-uslm-ref="/us/usc/t12/s619">619.</a>  </td>
 
     <td> Capital stock; by whom held; ownership of capital stock by foreign bank.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 620.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs620" data-uslm-ref="/us/usc/t12/s620">620.</a>  </td>
 
     <td> Members of Board of Governors of the Federal Reserve System without interest in corporation.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs621" data-uslm-ref="/us/usc/t12/s621">621.</a>  </td>
 
     <td> Liability of shareholders on unpaid subscriptions; membership of corporation in Federal reserve bank prohibited.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs622" data-uslm-ref="/us/usc/t12/s622">622.</a>  </td>
 
     <td> Forfeiture of rights and privileges; dissolution; liability of directors and officers.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs623" data-uslm-ref="/us/usc/t12/s623">623.</a>  </td>
 
     <td> Voluntary liquidation.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs624" data-uslm-ref="/us/usc/t12/s624">624.</a>  </td>
 
     <td> Appointment of receiver or conservator.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs625" data-uslm-ref="/us/usc/t12/s625">625.</a>  </td>
 
     <td> Stockholders’ meetings; books and records; reports; examination.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs626" data-uslm-ref="/us/usc/t12/s626">626.</a>  </td>
 
     <td> Dividends; surplus fund.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs627" data-uslm-ref="/us/usc/t12/s627">627.</a>  </td>
 
     <td> State taxation.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs628" data-uslm-ref="/us/usc/t12/s628">628.</a>  </td>
 
     <td> Extension of corporate existence.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs629" data-uslm-ref="/us/usc/t12/s629">629.</a>  </td>
 
     <td> Conversion of banking corporations into Federal corporations; procedure.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 630.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs630" data-uslm-ref="/us/usc/t12/s630">630.</a>  </td>
 
     <td> Offenses by officers of corporation; punishment.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs631" data-uslm-ref="/us/usc/t12/s631">631.</a>  </td>
 
     <td> False representations as to liability of United States for acts of corporation; punishment.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs632" data-uslm-ref="/us/usc/t12/s632">632.</a>  </td>
 
     <td> Jurisdiction of United States courts; disposition by banks of foreign owned property.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING  </td>
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs633" data-uslm-ref="/us/usc/t12/s633">633.</a>  </td>
 
     <td> Potential liability on foreign accounts.  </td>
 

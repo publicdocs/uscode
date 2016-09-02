@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2601" data-uslm-ref="/us/usc/t12/s2601">2601.</a>  </td>
 
     <td> Congressional findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2602" data-uslm-ref="/us/usc/t12/s2602">2602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2603" data-uslm-ref="/us/usc/t12/s2603">2603.</a>  </td>
 
     <td> Uniform settlement statement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2604" data-uslm-ref="/us/usc/t12/s2604">2604.</a>  </td>
 
     <td> Home buying information booklets.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2605" data-uslm-ref="/us/usc/t12/s2605">2605.</a>  </td>
 
     <td> Servicing of mortgage loans and administration of escrow accounts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2606" data-uslm-ref="/us/usc/t12/s2606">2606.</a>  </td>
 
     <td> Exempted transactions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2607" data-uslm-ref="/us/usc/t12/s2607">2607.</a>  </td>
 
     <td> Prohibition against kickbacks and unearned fees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2608" data-uslm-ref="/us/usc/t12/s2608">2608.</a>  </td>
 
     <td> Title companies; liability of seller.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2609" data-uslm-ref="/us/usc/t12/s2609">2609.</a>  </td>
 
     <td> Limitation on requirement of advance deposits in escrow accounts.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2610" data-uslm-ref="/us/usc/t12/s2610">2610.</a>  </td>
 
     <td> Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2611 to 2613.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2611" data-uslm-ref="/us/usc/t12/s2611">2611</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2613" data-uslm-ref="/us/usc/t12/s2613">2613.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2614" data-uslm-ref="/us/usc/t12/s2614">2614.</a>  </td>
 
     <td> Jurisdiction of courts; limitations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2615" data-uslm-ref="/us/usc/t12/s2615">2615.</a>  </td>
 
     <td> Contracts and liens; validity.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2616" data-uslm-ref="/us/usc/t12/s2616">2616.</a>  </td>
 
     <td> State laws unaffected; inconsistent Federal and State provisions.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2617" data-uslm-ref="/us/usc/t12/s2617">2617.</a>  </td>
 
     <td> Authority of Bureau.  </td>
 

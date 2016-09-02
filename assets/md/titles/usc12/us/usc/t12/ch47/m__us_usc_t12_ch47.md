@@ -33,7 +33,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4701" data-uslm-ref="/us/usc/t12/s4701">4701.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4702" data-uslm-ref="/us/usc/t12/s4702">4702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4703" data-uslm-ref="/us/usc/t12/s4703">4703.</a>  </td>
 
     <td> Establishment of national Fund for community development banking.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4704" data-uslm-ref="/us/usc/t12/s4704">4704.</a>  </td>
 
     <td> Applications for assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4705" data-uslm-ref="/us/usc/t12/s4705">4705.</a>  </td>
 
     <td> Community partnerships.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4706" data-uslm-ref="/us/usc/t12/s4706">4706.</a>  </td>
 
     <td> Selection of institutions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4707" data-uslm-ref="/us/usc/t12/s4707">4707.</a>  </td>
 
     <td> Assistance provided by Fund.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4708" data-uslm-ref="/us/usc/t12/s4708">4708.</a>  </td>
 
     <td> Training.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4709" data-uslm-ref="/us/usc/t12/s4709">4709.</a>  </td>
 
     <td> Encouragement of private entities.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4710" data-uslm-ref="/us/usc/t12/s4710">4710.</a>  </td>
 
     <td> Collection and compilation of information.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4711" data-uslm-ref="/us/usc/t12/s4711">4711.</a>  </td>
 
     <td> Investment of receipts and proceeds.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4712" data-uslm-ref="/us/usc/t12/s4712">4712.</a>  </td>
 
     <td> Capitalization assistance to enhance liquidity.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4713" data-uslm-ref="/us/usc/t12/s4713">4713.</a>  </td>
 
     <td> Incentives for depository institution participation.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4713a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4713a" data-uslm-ref="/us/usc/t12/s4713a">4713a.</a>  </td>
 
     <td> Guarantees for bonds and notes issued for community or economic development purposes.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4714" data-uslm-ref="/us/usc/t12/s4714">4714.</a>  </td>
 
     <td> Recordkeeping.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4715" data-uslm-ref="/us/usc/t12/s4715">4715.</a>  </td>
 
     <td> Special provisions with respect to institutions that are supervised by Federal banking agencies.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4716" data-uslm-ref="/us/usc/t12/s4716">4716.</a>  </td>
 
     <td> Studies and reports; examination and audit.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4717" data-uslm-ref="/us/usc/t12/s4717">4717.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4718" data-uslm-ref="/us/usc/t12/s4718">4718.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 4719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4719" data-uslm-ref="/us/usc/t12/s4719">4719.</a>  </td>
 
     <td> Grants to establish loan-loss reserve funds.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4741" data-uslm-ref="/us/usc/t12/s4741">4741.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4742" data-uslm-ref="/us/usc/t12/s4742">4742.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4743" data-uslm-ref="/us/usc/t12/s4743">4743.</a>  </td>
 
     <td> Approving States for participation.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4744" data-uslm-ref="/us/usc/t12/s4744">4744.</a>  </td>
 
     <td> Participation agreements.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4745" data-uslm-ref="/us/usc/t12/s4745">4745.</a>  </td>
 
     <td> Terms of participation agreements.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4746" data-uslm-ref="/us/usc/t12/s4746">4746.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4747" data-uslm-ref="/us/usc/t12/s4747">4747.</a>  </td>
 
     <td> Reimbursement by Fund.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4748.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4748" data-uslm-ref="/us/usc/t12/s4748">4748.</a>  </td>
 
     <td> Reimbursement to Fund.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4749" data-uslm-ref="/us/usc/t12/s4749">4749.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 4750.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4750" data-uslm-ref="/us/usc/t12/s4750">4750.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

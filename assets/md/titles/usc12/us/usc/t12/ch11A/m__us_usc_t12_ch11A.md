@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1451" data-uslm-ref="/us/usc/t12/s1451">1451.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1452" data-uslm-ref="/us/usc/t12/s1452">1452.</a>  </td>
 
     <td> Federal Home Loan Mortgage Corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1453" data-uslm-ref="/us/usc/t12/s1453">1453.</a>  </td>
 
     <td> Capitalization of Federal Home Loan Mortgage Corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1454" data-uslm-ref="/us/usc/t12/s1454">1454.</a>  </td>
 
     <td> Purchase and sale of mortgages; residential mortgages; conventional mortgages; terms and conditions of sale or other disposition; authority to enter into, perform, and carry out transactions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1455" data-uslm-ref="/us/usc/t12/s1455">1455.</a>  </td>
 
     <td> Obligations and securities of the Corporation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1456" data-uslm-ref="/us/usc/t12/s1456">1456.</a>  </td>
 
     <td> Immunity of Corporation; audits and reporting requirements; data collection; Housing Advisory Council.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1457" data-uslm-ref="/us/usc/t12/s1457">1457.</a>  </td>
 
     <td> Prohibited activities; penalties for violations by organizations, officers and members of organizations, and individuals.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1458" data-uslm-ref="/us/usc/t12/s1458">1458.</a>  </td>
 
     <td> Territorial applicability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1459" data-uslm-ref="/us/usc/t12/s1459">1459.</a>  </td>
 
     <td> Separability.  </td>
 

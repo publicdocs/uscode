@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635.</a>  </td>
 
     <td> Powers and functions of Bank.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635a" data-uslm-ref="/us/usc/t12/s635a">635a.</a>  </td>
 
     <td> Management of Bank.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%931" data-uslm-ref="/us/usc/t12/s635a–1">635a–1.</a>  </td>
 
     <td> Export credit competition.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635a–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%932" data-uslm-ref="/us/usc/t12/s635a–2">635a–2.</a>  </td>
 
     <td> Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635a–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%933" data-uslm-ref="/us/usc/t12/s635a–3">635a–3.</a>  </td>
 
     <td> Export-Import Bank financing to match foreign financing.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635a–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%934" data-uslm-ref="/us/usc/t12/s635a–4">635a–4.</a>  </td>
 
     <td> Guarantees for export accounts receivable and inventory.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635b" data-uslm-ref="/us/usc/t12/s635b">635b.</a>  </td>
 
     <td> Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635c" data-uslm-ref="/us/usc/t12/s635c">635c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635d" data-uslm-ref="/us/usc/t12/s635d">635d.</a>  </td>
 
     <td> Issuance of debentures, bonds, etc.; obligations redeemable; payment of interest; obligations purchasable by Secretary of the Treasury; public-debt transactions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635e" data-uslm-ref="/us/usc/t12/s635e">635e.</a>  </td>
 
     <td> Aggregate loan, guarantee, and insurance authority.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635f" data-uslm-ref="/us/usc/t12/s635f">635f.</a>  </td>
 
     <td> Termination date of Bank’s functions; exceptions; liquidation.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635g" data-uslm-ref="/us/usc/t12/s635g">635g.</a>  </td>
 
     <td> Report to Congress; time for submission; contents.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635g–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635g%E2%80%931" data-uslm-ref="/us/usc/t12/s635g–1">635g–1.</a>  </td>
 
     <td> Annual competitiveness report.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635h" data-uslm-ref="/us/usc/t12/s635h">635h.</a>  </td>
 
     <td> Exemption from prohibition of <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs955" data-uslm-ref="/us/usc/t18/s955">section 955 of title 18</a>.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i to 635i–2.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i" data-uslm-ref="/us/usc/t12/s635i">635i</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%932" data-uslm-ref="/us/usc/t12/s635i–2">635i–2.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933" data-uslm-ref="/us/usc/t12/s635i–3">635i–3.</a>  </td>
 
     <td> Tied Aid Credit Fund and program.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%934" data-uslm-ref="/us/usc/t12/s635i–4">635i–4.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%935" data-uslm-ref="/us/usc/t12/s635i–5">635i–5.</a>  </td>
 
     <td> Environmental policy and procedures.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%936" data-uslm-ref="/us/usc/t12/s635i–6">635i–6.</a>  </td>
 
     <td> Debt reduction; Enterprise for the Americas Initiative.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%937" data-uslm-ref="/us/usc/t12/s635i–7">635i–7.</a>  </td>
 
     <td> Cooperation on export financing programs.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%938" data-uslm-ref="/us/usc/t12/s635i–8">635i–8.</a>  </td>
 
     <td> Special debt relief for poorest, most heavily indebted countries.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 635i–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%939" data-uslm-ref="/us/usc/t12/s635i–9">635i–9.</a>  </td>
 
     <td> Market windows.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> 635j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635j" data-uslm-ref="/us/usc/t12/s635j">635j.</a>  </td>
 
     <td> Export financing program to foster foreign trade and commercial interest of the United States.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> 635k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635k" data-uslm-ref="/us/usc/t12/s635k">635k.</a>  </td>
 
     <td> Apportionment of losses incurred on loans, guarantees, and insurance; reimbursement; contingent obligations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> 635l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635</a>l.  </td>
 
     <td> Authorization for appropriation of funds for losses.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> 635m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635m" data-uslm-ref="/us/usc/t12/s635m">635m.</a>  </td>
 
     <td> Loans, guarantees, and insurance subject to the provisions of this chapter.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> 635n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635n" data-uslm-ref="/us/usc/t12/s635n">635n.</a>  </td>
 
     <td> Prohibition of loans, guarantees, and insurance as to sales of defense articles or services.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635</a>o.  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635p" data-uslm-ref="/us/usc/t12/s635p">635p.</a>  </td>
 
     <td> Presidential mandate to negotiate; objectives.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635q" data-uslm-ref="/us/usc/t12/s635q">635q.</a>  </td>
 
     <td> Establishment of tied aid credit program in United States Export-Import Bank.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635r" data-uslm-ref="/us/usc/t12/s635r">635r.</a>  </td>
 
     <td> Establishment of tied aid credit program administered by Trade and Development Agency.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635s" data-uslm-ref="/us/usc/t12/s635s">635s.</a>  </td>
 
     <td> Implementation.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> 635t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635t" data-uslm-ref="/us/usc/t12/s635t">635t.</a>  </td>
 
     <td> Definitions.  </td>
 

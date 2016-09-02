@@ -33,7 +33,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs581" data-uslm-ref="/us/usc/t12/s581">581.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs582" data-uslm-ref="/us/usc/t12/s582">582.</a>  </td>
 
     <td> Receipt of United States or bank notes as collateral.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 583 to 588d. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs583" data-uslm-ref="/us/usc/t12/s583">583</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs588d" data-uslm-ref="/us/usc/t12/s588d">588d.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—FEDERAL RESERVE AND MEMBER BANKS, OFFICERS, EMPLOYEES, AND EXAMI
 
   <tr>
 
-    <td> 591 to 599.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs591" data-uslm-ref="/us/usc/t12/s591">591</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs599" data-uslm-ref="/us/usc/t12/s599">599.</a>  </td>
 
     <td> Repealed.  </td>
 

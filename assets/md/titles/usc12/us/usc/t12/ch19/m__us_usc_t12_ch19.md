@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1881" data-uslm-ref="/us/usc/t12/s1881">1881.</a>  </td>
 
     <td> “Federal supervisory agency” defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1882.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1882" data-uslm-ref="/us/usc/t12/s1882">1882.</a>  </td>
 
     <td> Security measures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1883.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1883" data-uslm-ref="/us/usc/t12/s1883">1883.</a>  </td>
 
     <td> Insurance rates; report to Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1884.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1884" data-uslm-ref="/us/usc/t12/s1884">1884.</a>  </td>
 
     <td> Penalties for violations.  </td>
 

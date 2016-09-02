@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1150" data-uslm-ref="/us/usc/t12/s1150">1150.</a>  </td>
 
     <td> Compromise, adjustment, and cancellation of farm loans; conditions; delegation of powers and duties by Secretary of Agriculture.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1150a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1150a" data-uslm-ref="/us/usc/t12/s1150a">1150a.</a>  </td>
 
     <td> Farm loans to which chapter is applicable.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1150b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1150b" data-uslm-ref="/us/usc/t12/s1150b">1150b.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1150c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1150c" data-uslm-ref="/us/usc/t12/s1150c">1150c.</a>  </td>
 
     <td> Self-hauling of hay or other roughages under hay transportation assistance program; liability for or refund of excess payments; availability of funds for payments.  </td>
 

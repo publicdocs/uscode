@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2701" data-uslm-ref="/us/usc/t12/s2701">2701.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2702" data-uslm-ref="/us/usc/t12/s2702">2702.</a>  </td>
 
     <td> Mortgages eligible for assistance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2703" data-uslm-ref="/us/usc/t12/s2703">2703.</a>  </td>
 
     <td> Manner of assistance and repayment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2704" data-uslm-ref="/us/usc/t12/s2704">2704.</a>  </td>
 
     <td> Insurance for emergency mortgage loans and advances.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2705" data-uslm-ref="/us/usc/t12/s2705">2705.</a>  </td>
 
     <td> Emergency mortgage relief payments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2706" data-uslm-ref="/us/usc/t12/s2706">2706.</a>  </td>
 
     <td> Emergency Homeowners’ Relief Fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2707" data-uslm-ref="/us/usc/t12/s2707">2707.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2708" data-uslm-ref="/us/usc/t12/s2708">2708.</a>  </td>
 
     <td> Expiration date.  </td>
 
@@ -89,15 +89,15 @@
 
   <tr>
 
-    <td> 2709, 2710.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2709" data-uslm-ref="/us/usc/t12/s2709">2709</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2710" data-uslm-ref="/us/usc/t12/s2710">2710.</a>  </td>
 
-    <td> Repealed  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2711" data-uslm-ref="/us/usc/t12/s2711">2711.</a>  </td>
 
     <td> Nonapplicability of other laws.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2712" data-uslm-ref="/us/usc/t12/s2712">2712.</a>  </td>
 
     <td> Repealed.  </td>
 

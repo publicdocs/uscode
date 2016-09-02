@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148" data-uslm-ref="/us/usc/t12/s1148">1148.</a>  </td>
 
     <td> Regional agricultural credit corporations; creation; capital; management; loans; rediscounts; supervision  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1148a to 1148a–3.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148a" data-uslm-ref="/us/usc/t12/s1148a">1148a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%933" data-uslm-ref="/us/usc/t12/s1148a–3">1148a–3.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1148a–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148a%E2%80%934" data-uslm-ref="/us/usc/t12/s1148a–4">1148a–4.</a>  </td>
 
     <td> Security for economic disaster and special livestock loans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1148b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148b" data-uslm-ref="/us/usc/t12/s1148b">1148b.</a>  </td>
 
     <td> Additional powers of regional agricultural credit corporations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1148c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148c" data-uslm-ref="/us/usc/t12/s1148c">1148c.</a>  </td>
 
     <td> Consolidation or merger.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1148d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148d" data-uslm-ref="/us/usc/t12/s1148d">1148d.</a>  </td>
 
     <td> Rights and powers unaffected by sections 1148b and 1148c.  </td>
 

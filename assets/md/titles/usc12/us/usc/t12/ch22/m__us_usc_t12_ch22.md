@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1971" data-uslm-ref="/us/usc/t12/s1971">1971.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1972" data-uslm-ref="/us/usc/t12/s1972">1972.</a>  </td>
 
     <td> Certain tying arrangements prohibited; correspondent accounts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1973" data-uslm-ref="/us/usc/t12/s1973">1973.</a>  </td>
 
     <td> Jurisdiction of courts; duty of United States attorneys; equitable proceedings; petition; expedition of cases; temporary restraining orders; bringing in additional parties; subpenas.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1974" data-uslm-ref="/us/usc/t12/s1974">1974.</a>  </td>
 
     <td> Actions by United States; subpenas for witnesses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1975" data-uslm-ref="/us/usc/t12/s1975">1975.</a>  </td>
 
     <td> Civil actions by persons injured; jurisdiction and venue; amount of recovery.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1976" data-uslm-ref="/us/usc/t12/s1976">1976.</a>  </td>
 
     <td> Injunctive relief for persons against threatened loss or damages; equitable proceedings; preliminary injunctions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1977" data-uslm-ref="/us/usc/t12/s1977">1977.</a>  </td>
 
     <td> Limitation of actions; suspension of limitations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1978" data-uslm-ref="/us/usc/t12/s1978">1978.</a>  </td>
 
     <td> Actions under other Federal or State laws unaffected; regulations or orders barred as a defense.  </td>
 

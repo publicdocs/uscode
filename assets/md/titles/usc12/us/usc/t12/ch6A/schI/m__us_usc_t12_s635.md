@@ -171,25 +171,21 @@
 
                 The President shall make a separate determination under clause (i) for each transaction described in clause (i) or (ii) of subparagraph (A) for which the Bank would extend a loan in an amount equal to or greater than $50,000,000.
 
-                (iii) __Report of clause__ 
+                (iii) __Report of clause (i) determinations to congress.—__ 
 
-                    (i) __determinations to congress.—__ 
+                Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
 
-                    Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
+                    (I) the end of the 30-day period beginning on the date of such determination; or
 
-                (I) the end of the 30-day period beginning on the date of such determination; or
+                    (II) the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975, unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975.
 
-                (II) the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975, unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975.
+                (iv) __Report of clause (ii) determinations to congress.—__ 
 
-                (iv) __Report of clause__ 
+                Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
 
-                    (ii) __determinations to congress.—__ 
+                    (I) the end of the 30-day period beginning on the date of such determination; or
 
-                    Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
-
-                (I) the end of the 30-day period beginning on the date of such determination; or
-
-                (II) the date the Bank takes final action with respect to the transaction for which such determination is made.
+                    (II) the date the Bank takes final action with respect to the transaction for which such determination is made.
 
         (3)
 
@@ -1213,7 +1209,7 @@ For termination of amendment by [section 1(c) of Pub. L. 103–428][/us/pl/103/4
 
  __Delegation of Functions__ 
 
-    Functions of President under subsec. (b)(6) of this section delegated to Secretary of State by section 1(s) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under [section 2751 of Title 22][/us/usc/t22/s2751], Foreign Relations and Intercourse.
+    For delegation of functions of the President under subsec. (b)(6) of this section, see section 1(u) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under [section 2751 of Title 22][/us/usc/t22/s2751], Foreign Relations and Intercourse. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of Title 22][/us/usc/t22/s2751] and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
  __Board of Directors__ 
 
@@ -1869,6 +1865,7 @@ By the authority vested in me as President of the United States of America by Se
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
+[/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/act/1954-08-09/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch660
 [/us/stat/68/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F677

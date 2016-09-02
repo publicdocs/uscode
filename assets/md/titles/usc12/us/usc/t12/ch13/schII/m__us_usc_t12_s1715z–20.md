@@ -161,9 +161,11 @@
 
     The Secretary may—
 
-        (1) enter into such contracts and agreements with Federal, State, and local agencies, public and private entities, and such other persons as the Secretary determines to be necessary or desirable to carry out the purposes of this section; and
+        (1) enter into such contracts and agreements with Federal, State, and local agencies, public and private entities, and such other persons as the Secretary determines to be necessary or desirable to carry out the purposes of this section;
 
-        (2) make such investigations and studies of data, and publish and distribute such reports, as the Secretary determines to be appropriate.
+        (2) make such investigations and studies of data, and publish and distribute such reports, as the Secretary determines to be appropriate; and
+
+        (3) establish, by notice or mortgagee letter, any additional or alternative requirements that the Secretary, in the Secretary’s discretion, determines are necessary to improve the fiscal safety and soundness of the program authorized by this section, which requirements shall take effect upon issuance.
 
     (i) __Protection of homeowner and lender__ 
 
@@ -297,9 +299,11 @@
 
         (6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 255, as added [Pub. L. 100–242, title IV, § 417(a)][/us/pl/100/242/s417/a], Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908]; amended [Pub. L. 100–628, title X, § 1066][/us/pl/100/628/s1066], Nov. 7, 1988, [102 Stat. 3275][/us/stat/102/3275]; [Pub. L. 101–508, title II, § 2106][/us/pl/101/508/s2106], Nov. 5, 1990, [104 Stat. 1388–20][/us/stat/104/1388-20]; [Pub. L. 101–625, title III, § 334(b)][/us/pl/101/625/s334/b]–(d), Nov. 28, 1990, [104 Stat. 4141][/us/stat/104/4141], 4142; [Pub. L. 102–389, title II][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1592][/us/stat/106/1592]; [Pub. L. 102–550, title V][/us/pl/102/550], §§ 503(c)(2), 520, Oct. 28, 1992, [106 Stat. 3779][/us/stat/106/3779], 3793; [Pub. L. 104–99, title IV, § 406][/us/pl/104/99/s406], Jan. 26, 1996, [110 Stat. 45][/us/stat/110/45]; [Pub. L. 104–120, § 6][/us/pl/104/120/s6], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 105–276, title V, § 593(a)][/us/pl/105/276/s593/a]–(e)(1), Oct. 21, 1998, [112 Stat. 2654][/us/stat/112/2654], 2655; [Pub. L. 106–569, title II, § 201(a)(1)][/us/pl/106/569/s201/a/1], (b), (c)(1), Dec. 27, 2000, [114 Stat. 2948][/us/stat/114/2948], 2950; [Pub. L. 109–13, div. A, title VI, § 6074][/us/pl/109/13/s6074], May 11, 2005, [119 Stat. 300][/us/stat/119/300]; [Pub. L. 109–289, div. B, § 131][/us/pl/109/289/s131], Sept. 29, 2006, [120 Stat. 1316][/us/stat/120/1316]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289], §§ 2118(b)(2), 2122(a)–(c), July 30, 2008, [122 Stat. 2835–2838][/us/stat/122/2835-2838]; [Pub. L. 111–22, div. A, title II, § 206][/us/pl/111/22/s206], May 20, 2009, [123 Stat. 1654][/us/stat/123/1654].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 255, as added [Pub. L. 100–242, title IV, § 417(a)][/us/pl/100/242/s417/a], Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908]; amended [Pub. L. 100–628, title X, § 1066][/us/pl/100/628/s1066], Nov. 7, 1988, [102 Stat. 3275][/us/stat/102/3275]; [Pub. L. 101–508, title II, § 2106][/us/pl/101/508/s2106], Nov. 5, 1990, [104 Stat. 1388–20][/us/stat/104/1388-20]; [Pub. L. 101–625, title III, § 334(b)][/us/pl/101/625/s334/b]–(d), Nov. 28, 1990, [104 Stat. 4141][/us/stat/104/4141], 4142; [Pub. L. 102–389, title II][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1592][/us/stat/106/1592]; [Pub. L. 102–550, title V][/us/pl/102/550], §§ 503(c)(2), 520, Oct. 28, 1992, [106 Stat. 3779][/us/stat/106/3779], 3793; [Pub. L. 104–99, title IV, § 406][/us/pl/104/99/s406], Jan. 26, 1996, [110 Stat. 45][/us/stat/110/45]; [Pub. L. 104–120, § 6][/us/pl/104/120/s6], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 105–276, title V, § 593(a)][/us/pl/105/276/s593/a]–(e)(1), Oct. 21, 1998, [112 Stat. 2654][/us/stat/112/2654], 2655; [Pub. L. 106–569, title II, § 201(a)(1)][/us/pl/106/569/s201/a/1], (b), (c)(1), Dec. 27, 2000, [114 Stat. 2948][/us/stat/114/2948], 2950; [Pub. L. 109–13, div. A, title VI, § 6074][/us/pl/109/13/s6074], May 11, 2005, [119 Stat. 300][/us/stat/119/300]; [Pub. L. 109–289, div. B, § 131][/us/pl/109/289/s131], Sept. 29, 2006, [120 Stat. 1316][/us/stat/120/1316]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289], §§ 2118(b)(2), 2122(a)–(c), July 30, 2008, [122 Stat. 2835–2838][/us/stat/122/2835-2838]; [Pub. L. 111–22, div. A, title II, § 206][/us/pl/111/22/s206], May 20, 2009, [123 Stat. 1654][/us/stat/123/1654]; [Pub. L. 113–29, § 2][/us/pl/113/29/s2], Aug. 9, 2013, [127 Stat. 509][/us/stat/127/509].)
 
  __Amendments__ 
+
+    2013—Subsec. (h)(3). [Pub. L. 113–29][/us/pl/113/29] added par. (3).
 
     2009—Subsec. (b)(4)(B). [Pub. L. 111–22][/us/pl/111/22] added subpar. (B) and struck out former subpar. (B), which read as follows: “under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.”
 
@@ -467,6 +471,9 @@
 [/us/stat/122/2835-2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835-2838
 [/us/pl/111/22/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs206
 [/us/stat/123/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1654
+[/us/pl/113/29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F29%2Fs2
+[/us/stat/127/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F509
+[/us/pl/113/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F29
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/110/289/s2122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2122%2Fa%2F1
 [/us/pl/110/289/s2122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2122%2Fb%2F1

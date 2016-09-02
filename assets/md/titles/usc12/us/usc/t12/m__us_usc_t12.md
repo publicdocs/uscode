@@ -31,601 +31,601 @@ Title 12—BANKS AND BANKING
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch1" data-uslm-ref="/us/usc/t12/ch1">1.</a>  </td>
 
     <td> The Comptroller of the Currency  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1" data-uslm-ref="/us/usc/t12/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch2" data-uslm-ref="/us/usc/t12/ch2">2.</a>  </td>
 
     <td> National Banks  </td>
 
-    <td> 21  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs21" data-uslm-ref="/us/usc/t12/s21">21</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch3" data-uslm-ref="/us/usc/t12/ch3">3.</a>  </td>
 
     <td> Federal Reserve System  </td>
 
-    <td> 221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs221" data-uslm-ref="/us/usc/t12/s221">221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch4" data-uslm-ref="/us/usc/t12/ch4">4.</a>  </td>
 
     <td> Taxation  </td>
 
-    <td> 531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs531" data-uslm-ref="/us/usc/t12/s531">531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch5" data-uslm-ref="/us/usc/t12/ch5">5.</a>  </td>
 
     <td> Crimes and Offenses  </td>
 
-    <td> 581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs581" data-uslm-ref="/us/usc/t12/s581">581</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch6" data-uslm-ref="/us/usc/t12/ch6">6.</a>  </td>
 
     <td> Foreign Banking  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs601" data-uslm-ref="/us/usc/t12/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch6A" data-uslm-ref="/us/usc/t12/ch6A">6A.</a>  </td>
 
     <td> Export-Import Bank of the United States  </td>
 
-    <td> 635  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch7" data-uslm-ref="/us/usc/t12/ch7">7.</a>  </td>
 
     <td> Farm Credit Administration [Repealed or Omitted, See Chapter 23]  </td>
 
-    <td> 636  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs636" data-uslm-ref="/us/usc/t12/s636">636</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch7A" data-uslm-ref="/us/usc/t12/ch7A">7A.</a>  </td>
 
     <td> Agricultural Marketing  </td>
 
-    <td> 1141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1141" data-uslm-ref="/us/usc/t12/s1141">1141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch7B" data-uslm-ref="/us/usc/t12/ch7B">7B.</a>  </td>
 
     <td> Regional Agricultural Credit Corporations  </td>
 
-    <td> 1148  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1148" data-uslm-ref="/us/usc/t12/s1148">1148</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch8" data-uslm-ref="/us/usc/t12/ch8">8.</a>  </td>
 
     <td> Adjustment and Cancellation of Farm Loans  </td>
 
-    <td> 1150  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1150" data-uslm-ref="/us/usc/t12/s1150">1150</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch9" data-uslm-ref="/us/usc/t12/ch9">9.</a>  </td>
 
     <td> National Agricultural Credit Corporations [Repealed or Omitted]  </td>
 
-    <td> 1151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1151" data-uslm-ref="/us/usc/t12/s1151">1151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch10" data-uslm-ref="/us/usc/t12/ch10">10.</a>  </td>
 
     <td> Local Agricultural-Credit Corporations, Livestock-Loan Companies and Like Organizations; Loans to Individuals To Aid in Formation or To Increase Capital Stock  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1401" data-uslm-ref="/us/usc/t12/s1401">1401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch11" data-uslm-ref="/us/usc/t12/ch11">11.</a>  </td>
 
     <td> Federal Home Loan Banks  </td>
 
-    <td> 1421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1421" data-uslm-ref="/us/usc/t12/s1421">1421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch11A" data-uslm-ref="/us/usc/t12/ch11A">11A.</a>  </td>
 
     <td> Federal Home Loan Mortgage Corporation  </td>
 
-    <td> 1451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1451" data-uslm-ref="/us/usc/t12/s1451">1451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch12" data-uslm-ref="/us/usc/t12/ch12">12.</a>  </td>
 
     <td> Savings Associations  </td>
 
-    <td> 1461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1461" data-uslm-ref="/us/usc/t12/s1461">1461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch13" data-uslm-ref="/us/usc/t12/ch13">13.</a>  </td>
 
     <td> National Housing  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701" data-uslm-ref="/us/usc/t12/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch14" data-uslm-ref="/us/usc/t12/ch14">14.</a>  </td>
 
     <td> Federal Credit Unions  </td>
 
-    <td> 1751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1751" data-uslm-ref="/us/usc/t12/s1751">1751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch15" data-uslm-ref="/us/usc/t12/ch15">15.</a>  </td>
 
     <td> Federal Loan Agency [Omitted]  </td>
 
-    <td> 1801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1801" data-uslm-ref="/us/usc/t12/s1801">1801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch16" data-uslm-ref="/us/usc/t12/ch16">16.</a>  </td>
 
     <td> Federal Deposit Insurance Corporation  </td>
 
-    <td> 1811  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1811" data-uslm-ref="/us/usc/t12/s1811">1811</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch17" data-uslm-ref="/us/usc/t12/ch17">17.</a>  </td>
 
     <td> Bank Holding Companies  </td>
 
-    <td> 1841  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1841" data-uslm-ref="/us/usc/t12/s1841">1841</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch18" data-uslm-ref="/us/usc/t12/ch18">18.</a>  </td>
 
     <td> Bank Service Companies  </td>
 
-    <td> 1861  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1861" data-uslm-ref="/us/usc/t12/s1861">1861</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch19" data-uslm-ref="/us/usc/t12/ch19">19.</a>  </td>
 
     <td> Security Measures for Banks and Savings Associations  </td>
 
-    <td> 1881  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1881" data-uslm-ref="/us/usc/t12/s1881">1881</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch20" data-uslm-ref="/us/usc/t12/ch20">20.</a>  </td>
 
     <td> Credit Control [Omitted]  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1901" data-uslm-ref="/us/usc/t12/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch21" data-uslm-ref="/us/usc/t12/ch21">21.</a>  </td>
 
     <td> Financial Recordkeeping  </td>
 
-    <td> 1951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1951" data-uslm-ref="/us/usc/t12/s1951">1951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch22" data-uslm-ref="/us/usc/t12/ch22">22.</a>  </td>
 
     <td> Tying Arrangements  </td>
 
-    <td> 1971  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1971" data-uslm-ref="/us/usc/t12/s1971">1971</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch23" data-uslm-ref="/us/usc/t12/ch23">23.</a>  </td>
 
     <td> Farm Credit System  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2001" data-uslm-ref="/us/usc/t12/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch24" data-uslm-ref="/us/usc/t12/ch24">24.</a>  </td>
 
     <td> Federal Financing Bank  </td>
 
-    <td> 2281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2281" data-uslm-ref="/us/usc/t12/s2281">2281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch25" data-uslm-ref="/us/usc/t12/ch25">25.</a>  </td>
 
     <td> National Commission on Electronic Fund Transfers  </td>
 
-    <td> 2401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2401" data-uslm-ref="/us/usc/t12/s2401">2401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch26" data-uslm-ref="/us/usc/t12/ch26">26.</a>  </td>
 
     <td> Disposition of Abandoned Money Orders and Traveler’s Checks  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2501" data-uslm-ref="/us/usc/t12/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch27" data-uslm-ref="/us/usc/t12/ch27">27.</a>  </td>
 
     <td> Real Estate Settlement Procedures  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2601" data-uslm-ref="/us/usc/t12/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch28" data-uslm-ref="/us/usc/t12/ch28">28.</a>  </td>
 
     <td> Emergency Mortgage Relief  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2701" data-uslm-ref="/us/usc/t12/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch29" data-uslm-ref="/us/usc/t12/ch29">29.</a>  </td>
 
     <td> Home Mortgage Disclosure  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2801" data-uslm-ref="/us/usc/t12/s2801">2801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch30" data-uslm-ref="/us/usc/t12/ch30">30.</a>  </td>
 
     <td> Community Reinvestment  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2901" data-uslm-ref="/us/usc/t12/s2901">2901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch31" data-uslm-ref="/us/usc/t12/ch31">31.</a>  </td>
 
     <td> National Consumer Cooperative Bank  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3001" data-uslm-ref="/us/usc/t12/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch32" data-uslm-ref="/us/usc/t12/ch32">32.</a>  </td>
 
     <td> Foreign Bank Participation in Domestic Markets  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3101" data-uslm-ref="/us/usc/t12/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch33" data-uslm-ref="/us/usc/t12/ch33">33.</a>  </td>
 
     <td> Depository Institution Management Interlocks  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3201" data-uslm-ref="/us/usc/t12/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch34" data-uslm-ref="/us/usc/t12/ch34">34.</a>  </td>
 
     <td> Federal Financial Institutions Examination Council  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3301" data-uslm-ref="/us/usc/t12/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch34A" data-uslm-ref="/us/usc/t12/ch34A">34A.</a>  </td>
 
     <td> Appraisal Subcommittee of Federal Financial Institutions Examination Council  </td>
 
-    <td> 3331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3331" data-uslm-ref="/us/usc/t12/s3331">3331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch35" data-uslm-ref="/us/usc/t12/ch35">35.</a>  </td>
 
     <td> Right to Financial Privacy  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3401" data-uslm-ref="/us/usc/t12/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch36" data-uslm-ref="/us/usc/t12/ch36">36.</a>  </td>
 
     <td> Depository Institutions Deregulation and Financial Regulation Simplification [Omitted or Repealed]  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3501" data-uslm-ref="/us/usc/t12/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch37" data-uslm-ref="/us/usc/t12/ch37">37.</a>  </td>
 
     <td> Solar Energy and Energy Conservation Bank [Repealed]  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3601" data-uslm-ref="/us/usc/t12/s3601">3601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch38" data-uslm-ref="/us/usc/t12/ch38">38.</a>  </td>
 
     <td> Multifamily Mortgage Foreclosure  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3701" data-uslm-ref="/us/usc/t12/s3701">3701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch38A" data-uslm-ref="/us/usc/t12/ch38A">38A.</a>  </td>
 
     <td> Single Family Mortgage Foreclosure  </td>
 
-    <td> 3751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3751" data-uslm-ref="/us/usc/t12/s3751">3751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch39" data-uslm-ref="/us/usc/t12/ch39">39.</a>  </td>
 
     <td> Alternative Mortgage Transactions  </td>
 
-    <td> 3801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3801" data-uslm-ref="/us/usc/t12/s3801">3801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch40" data-uslm-ref="/us/usc/t12/ch40">40.</a>  </td>
 
     <td> International Lending Supervision  </td>
 
-    <td> 3901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3901" data-uslm-ref="/us/usc/t12/s3901">3901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch41" data-uslm-ref="/us/usc/t12/ch41">41.</a>  </td>
 
     <td> Expedited Funds Availability  </td>
 
-    <td> 4001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4001" data-uslm-ref="/us/usc/t12/s4001">4001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch42" data-uslm-ref="/us/usc/t12/ch42">42.</a>  </td>
 
     <td> Low-Income Housing Preservation and Resident Homeownership  </td>
 
-    <td> 4101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4101" data-uslm-ref="/us/usc/t12/s4101">4101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch43" data-uslm-ref="/us/usc/t12/ch43">43.</a>  </td>
 
     <td> Actions Against Persons Committing Bank Fraud Crimes  </td>
 
-    <td> 4201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4201" data-uslm-ref="/us/usc/t12/s4201">4201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch44" data-uslm-ref="/us/usc/t12/ch44">44.</a>  </td>
 
     <td> Truth in Savings  </td>
 
-    <td> 4301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4301" data-uslm-ref="/us/usc/t12/s4301">4301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch45" data-uslm-ref="/us/usc/t12/ch45">45.</a>  </td>
 
     <td> Payment System Risk Reduction  </td>
 
-    <td> 4401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4401" data-uslm-ref="/us/usc/t12/s4401">4401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch46" data-uslm-ref="/us/usc/t12/ch46">46.</a>  </td>
 
     <td> Government Sponsored Enterprises  </td>
 
-    <td> 4501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4501" data-uslm-ref="/us/usc/t12/s4501">4501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch47" data-uslm-ref="/us/usc/t12/ch47">47.</a>  </td>
 
     <td> Community Development Banking  </td>
 
-    <td> 4701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4701" data-uslm-ref="/us/usc/t12/s4701">4701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch48" data-uslm-ref="/us/usc/t12/ch48">48.</a>  </td>
 
     <td> Financial Institutions Regulatory Improvement  </td>
 
-    <td> 4801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4801" data-uslm-ref="/us/usc/t12/s4801">4801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch49" data-uslm-ref="/us/usc/t12/ch49">49.</a>  </td>
 
     <td> Homeowners Protection  </td>
 
-    <td> 4901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4901" data-uslm-ref="/us/usc/t12/s4901">4901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch50" data-uslm-ref="/us/usc/t12/ch50">50.</a>  </td>
 
     <td> Check Truncation  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5001" data-uslm-ref="/us/usc/t12/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch51" data-uslm-ref="/us/usc/t12/ch51">51.</a>  </td>
 
     <td> Secure and Fair Enforcement for Mortgage Licensing  </td>
 
-    <td> 5101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5101" data-uslm-ref="/us/usc/t12/s5101">5101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch52" data-uslm-ref="/us/usc/t12/ch52">52.</a>  </td>
 
     <td> Emergency Economic Stabilization  </td>
 
-    <td> 5201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5201" data-uslm-ref="/us/usc/t12/s5201">5201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch53" data-uslm-ref="/us/usc/t12/ch53">53.</a>  </td>
 
     <td> Wall Street Reform and Consumer Protection  </td>
 
-    <td> 5301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5301" data-uslm-ref="/us/usc/t12/s5301">5301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fch54" data-uslm-ref="/us/usc/t12/ch54">54.</a>  </td>
 
     <td> State Small Business Credit Initiative  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5701" data-uslm-ref="/us/usc/t12/s5701">5701</a>  </td>
 
   </tr>
 

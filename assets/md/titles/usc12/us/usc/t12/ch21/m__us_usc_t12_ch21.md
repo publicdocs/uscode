@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1951" data-uslm-ref="/us/usc/t12/s1951">1951.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1952" data-uslm-ref="/us/usc/t12/s1952">1952.</a>  </td>
 
     <td> Reports on ownership and control.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1953" data-uslm-ref="/us/usc/t12/s1953">1953.</a>  </td>
 
     <td> Recordkeeping and procedures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1954" data-uslm-ref="/us/usc/t12/s1954">1954.</a>  </td>
 
     <td> Injunctions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1955" data-uslm-ref="/us/usc/t12/s1955">1955.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1956" data-uslm-ref="/us/usc/t12/s1956">1956.</a>  </td>
 
     <td> Criminal penalty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1957" data-uslm-ref="/us/usc/t12/s1957">1957.</a>  </td>
 
     <td> Additional criminal penalty in certain cases.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1958" data-uslm-ref="/us/usc/t12/s1958">1958.</a>  </td>
 
     <td> Compliance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1959" data-uslm-ref="/us/usc/t12/s1959">1959.</a>  </td>
 
     <td> Administrative procedure.  </td>
 

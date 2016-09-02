@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4801" data-uslm-ref="/us/usc/t12/s4801">4801.</a>  </td>
 
     <td> Incorporated definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4802" data-uslm-ref="/us/usc/t12/s4802">4802.</a>  </td>
 
     <td> Administrative consideration of burden with new regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4803" data-uslm-ref="/us/usc/t12/s4803">4803.</a>  </td>
 
     <td> Streamlining of regulatory requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4804" data-uslm-ref="/us/usc/t12/s4804">4804.</a>  </td>
 
     <td> Elimination of duplicative filings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4805" data-uslm-ref="/us/usc/t12/s4805">4805.</a>  </td>
 
     <td> Call report simplification.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4805a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4805a" data-uslm-ref="/us/usc/t12/s4805a">4805a.</a>  </td>
 
     <td> Call report simplification.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4806" data-uslm-ref="/us/usc/t12/s4806">4806.</a>  </td>
 
     <td> Regulatory appeals process, ombudsman, and alternative dispute resolution.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4807" data-uslm-ref="/us/usc/t12/s4807">4807.</a>  </td>
 
     <td> Time limit on agency consideration of completed applications.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4808" data-uslm-ref="/us/usc/t12/s4808">4808.</a>  </td>
 
     <td> Revising regulatory requirements for transfers of all types of assets with recourse.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4809" data-uslm-ref="/us/usc/t12/s4809">4809.</a>  </td>
 
     <td> “Plain language” requirement for Federal banking agency rules.  </td>
 

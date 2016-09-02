@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1" data-uslm-ref="/us/usc/t12/s1">1.</a>  </td>
 
     <td> Office of the Comptroller of the Currency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2" data-uslm-ref="/us/usc/t12/s2">2.</a>  </td>
 
     <td> Comptroller of the Currency; appointment; term.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs3" data-uslm-ref="/us/usc/t12/s3">3.</a>  </td>
 
     <td> Oath of Comptroller.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4" data-uslm-ref="/us/usc/t12/s4">4.</a>  </td>
 
     <td> Deputy Comptrollers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4a" data-uslm-ref="/us/usc/t12/s4a">4a.</a>  </td>
 
     <td> Delegation of authority by Comptroller.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4b" data-uslm-ref="/us/usc/t12/s4b">4b.</a>  </td>
 
     <td> Deputy Comptroller for the supervision and examination of Federal savings associations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5, 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5" data-uslm-ref="/us/usc/t12/s5">5</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs6" data-uslm-ref="/us/usc/t12/s6">6.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs7" data-uslm-ref="/us/usc/t12/s7">7.</a>  </td>
 
     <td> Chief of examining division.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs8" data-uslm-ref="/us/usc/t12/s8">8.</a>  </td>
 
     <td> Clerks.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs9" data-uslm-ref="/us/usc/t12/s9">9.</a>  </td>
 
     <td> Additional examiners, clerks, and other employees.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 9a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs9a" data-uslm-ref="/us/usc/t12/s9a">9a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs10" data-uslm-ref="/us/usc/t12/s10">10.</a>  </td>
 
     <td> Salaries of Deputy Comptrollers, examiners, and other employees as part of bank examination expenses.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs11" data-uslm-ref="/us/usc/t12/s11">11.</a>  </td>
 
     <td> Interest in national banks.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs12" data-uslm-ref="/us/usc/t12/s12">12.</a>  </td>
 
     <td> Seal of Comptroller.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs13" data-uslm-ref="/us/usc/t12/s13">13.</a>  </td>
 
     <td> Rooms for Currency Bureau.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs14" data-uslm-ref="/us/usc/t12/s14">14.</a>  </td>
 
     <td> Report of Comptroller.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs15" data-uslm-ref="/us/usc/t12/s15">15.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs16" data-uslm-ref="/us/usc/t12/s16">16.</a>  </td>
 
     <td> Funding of Office.  </td>
 

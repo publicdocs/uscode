@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL RESERVE BANKS  </td>
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs531" data-uslm-ref="/us/usc/t12/s531">531.</a>  </td>
 
     <td> Exemption from taxation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—NATIONAL BANK CIRCULATION  </td>
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs541" data-uslm-ref="/us/usc/t12/s541">541.</a>  </td>
 
     <td> Tax on circulating notes generally.  </td>
 
@@ -57,7 +57,9 @@ SUBCHAPTER II—NATIONAL BANK CIRCULATION  </td>
 
   <tr>
 
-    <td> 542 to 547. Omitted or Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs542" data-uslm-ref="/us/usc/t12/s542">542</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs547" data-uslm-ref="/us/usc/t12/s547">547.</a>  </td>
+
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 
@@ -71,7 +73,7 @@ SUBCHAPTER III—NATIONAL BANK SHARES  </td>
 
   <tr>
 
-    <td> 548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs548" data-uslm-ref="/us/usc/t12/s548">548.</a>  </td>
 
     <td> State taxation.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER IV—STATE BANK CIRCULATION  </td>
 
   <tr>
 
-    <td> 561 to 570.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs561" data-uslm-ref="/us/usc/t12/s561">561</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs570" data-uslm-ref="/us/usc/t12/s570">570.</a>  </td>
 
     <td> Omitted.  </td>
 

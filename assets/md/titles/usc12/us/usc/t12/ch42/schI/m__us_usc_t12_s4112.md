@@ -43,7 +43,7 @@
 
                     (II) shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
 
-                (ii) assistance under [section 1437f of title 42][/us/usc/t42/s1437f] shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Word “and” probably should not appear. </sup></sup> 
+                (ii) assistance under [section 1437f of title 42][/us/usc/t42/s1437f] shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup> 
 
             (F)
 

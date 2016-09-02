@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5001" data-uslm-ref="/us/usc/t12/s5001">5001.</a>  </td>
 
     <td> Findings; purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5002" data-uslm-ref="/us/usc/t12/s5002">5002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5003" data-uslm-ref="/us/usc/t12/s5003">5003.</a>  </td>
 
     <td> General provisions governing substitute checks.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5004" data-uslm-ref="/us/usc/t12/s5004">5004.</a>  </td>
 
     <td> Substitute check warranties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5005" data-uslm-ref="/us/usc/t12/s5005">5005.</a>  </td>
 
     <td> Indemnity.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5006" data-uslm-ref="/us/usc/t12/s5006">5006.</a>  </td>
 
     <td> Expedited recredit for consumers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5007" data-uslm-ref="/us/usc/t12/s5007">5007.</a>  </td>
 
     <td> Expedited recredit procedures for banks.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5008" data-uslm-ref="/us/usc/t12/s5008">5008.</a>  </td>
 
     <td> Delays in an emergency.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5009" data-uslm-ref="/us/usc/t12/s5009">5009.</a>  </td>
 
     <td> Measure of damages.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5010" data-uslm-ref="/us/usc/t12/s5010">5010.</a>  </td>
 
     <td> Statute of limitations and notice of claim.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5011" data-uslm-ref="/us/usc/t12/s5011">5011.</a>  </td>
 
     <td> Consumer awareness.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5012" data-uslm-ref="/us/usc/t12/s5012">5012.</a>  </td>
 
     <td> Effect on other law.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5013" data-uslm-ref="/us/usc/t12/s5013">5013.</a>  </td>
 
     <td> Variation by agreement.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5014" data-uslm-ref="/us/usc/t12/s5014">5014.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5015" data-uslm-ref="/us/usc/t12/s5015">5015.</a>  </td>
 
     <td> Study and report on funds availability.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 5016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5016" data-uslm-ref="/us/usc/t12/s5016">5016.</a>  </td>
 
     <td> Statistical reporting of costs and revenues for transporting checks between reserve banks.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 5017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5017" data-uslm-ref="/us/usc/t12/s5017">5017.</a>  </td>
 
     <td> Evaluation and report by the Comptroller General.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 5018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5018" data-uslm-ref="/us/usc/t12/s5018">5018.</a>  </td>
 
     <td> Depositary services efficiency and cost reduction.  </td>
 

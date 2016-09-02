@@ -33,7 +33,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4101" data-uslm-ref="/us/usc/t12/s4101">4101.</a>  </td>
 
     <td> General prepayment limitation.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4102" data-uslm-ref="/us/usc/t12/s4102">4102.</a>  </td>
 
     <td> Notice of intent.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4103" data-uslm-ref="/us/usc/t12/s4103">4103.</a>  </td>
 
     <td> Appraisal and preservation value of eligible low-income housing.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4104" data-uslm-ref="/us/usc/t12/s4104">4104.</a>  </td>
 
     <td> Annual authorized return and preservation rents.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4105" data-uslm-ref="/us/usc/t12/s4105">4105.</a>  </td>
 
     <td> Federal cost limits and limitations on plans of action.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4106" data-uslm-ref="/us/usc/t12/s4106">4106.</a>  </td>
 
     <td> Information from Secretary.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4107" data-uslm-ref="/us/usc/t12/s4107">4107.</a>  </td>
 
     <td> Plan of action.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4108" data-uslm-ref="/us/usc/t12/s4108">4108.</a>  </td>
 
     <td> Prepayment and voluntary termination.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4109" data-uslm-ref="/us/usc/t12/s4109">4109.</a>  </td>
 
     <td> Incentives to extend low-income use.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4110" data-uslm-ref="/us/usc/t12/s4110">4110.</a>  </td>
 
     <td> Incentives for transfer to qualified purchasers.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4111" data-uslm-ref="/us/usc/t12/s4111">4111.</a>  </td>
 
     <td> Mandatory sale for housing exceeding Federal cost limits.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4112" data-uslm-ref="/us/usc/t12/s4112">4112.</a>  </td>
 
     <td> Criteria for approval of plan of action involving incentives.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4113" data-uslm-ref="/us/usc/t12/s4113">4113.</a>  </td>
 
     <td> Assistance for displaced tenants.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4114" data-uslm-ref="/us/usc/t12/s4114">4114.</a>  </td>
 
     <td> Permissible prepayment or voluntary termination and modification of commitments.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4115" data-uslm-ref="/us/usc/t12/s4115">4115.</a>  </td>
 
     <td> Timetable for approval of plan of action.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4116" data-uslm-ref="/us/usc/t12/s4116">4116.</a>  </td>
 
     <td> Resident homeownership program.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4117" data-uslm-ref="/us/usc/t12/s4117">4117.</a>  </td>
 
     <td> Delegated responsibility to State agencies.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4118" data-uslm-ref="/us/usc/t12/s4118">4118.</a>  </td>
 
     <td> Consultations with other interested parties.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4119" data-uslm-ref="/us/usc/t12/s4119">4119.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4120" data-uslm-ref="/us/usc/t12/s4120">4120.</a>  </td>
 
     <td> Notice to tenants.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4121" data-uslm-ref="/us/usc/t12/s4121">4121.</a>  </td>
 
     <td> Definitions of qualified and priority purchaser and related party rule.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4122" data-uslm-ref="/us/usc/t12/s4122">4122.</a>  </td>
 
     <td> Preemption of State and local laws.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4123" data-uslm-ref="/us/usc/t12/s4123">4123.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4124" data-uslm-ref="/us/usc/t12/s4124">4124.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT  </td>
 
   <tr>
 
-    <td> 4125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4125" data-uslm-ref="/us/usc/t12/s4125">4125.</a>  </td>
 
     <td> State preservation project assistance.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4141" data-uslm-ref="/us/usc/t12/s4141">4141.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4142" data-uslm-ref="/us/usc/t12/s4142">4142.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4143" data-uslm-ref="/us/usc/t12/s4143">4143.</a>  </td>
 
     <td> Grants for building resident capacity and funding predevelopment costs.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4144" data-uslm-ref="/us/usc/t12/s4144">4144.</a>  </td>
 
     <td> Grants for other purposes.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4145" data-uslm-ref="/us/usc/t12/s4145">4145.</a>  </td>
 
     <td> Delivery of assistance through intermediaries.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4146" data-uslm-ref="/us/usc/t12/s4146">4146.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
   <tr>
 
-    <td> 4147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4147" data-uslm-ref="/us/usc/t12/s4147">4147.</a>  </td>
 
     <td> Funding.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2501" data-uslm-ref="/us/usc/t12/s2501">2501.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2502" data-uslm-ref="/us/usc/t12/s2502">2502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs2503" data-uslm-ref="/us/usc/t12/s2503">2503.</a>  </td>
 
     <td> State entitlement to escheat or custody.  </td>
 

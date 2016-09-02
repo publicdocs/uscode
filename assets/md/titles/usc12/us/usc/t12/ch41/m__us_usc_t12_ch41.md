@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4001" data-uslm-ref="/us/usc/t12/s4001">4001.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4002" data-uslm-ref="/us/usc/t12/s4002">4002.</a>  </td>
 
     <td> Expedited funds availability schedules.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4003" data-uslm-ref="/us/usc/t12/s4003">4003.</a>  </td>
 
     <td> Safeguard exceptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4004" data-uslm-ref="/us/usc/t12/s4004">4004.</a>  </td>
 
     <td> Disclosure of funds availability policies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4005" data-uslm-ref="/us/usc/t12/s4005">4005.</a>  </td>
 
     <td> Payment of interest.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4006" data-uslm-ref="/us/usc/t12/s4006">4006.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4007" data-uslm-ref="/us/usc/t12/s4007">4007.</a>  </td>
 
     <td> Effect on State law.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4008" data-uslm-ref="/us/usc/t12/s4008">4008.</a>  </td>
 
     <td> Regulations and reports by Board.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4009" data-uslm-ref="/us/usc/t12/s4009">4009.</a>  </td>
 
     <td> Administrative enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs4010" data-uslm-ref="/us/usc/t12/s4010">4010.</a>  </td>
 
     <td> Civil liability.  </td>
 

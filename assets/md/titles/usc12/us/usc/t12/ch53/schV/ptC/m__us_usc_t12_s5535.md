@@ -51,6 +51,10 @@
 
 ([Pub. L. 111–203, title X, § 1035][/us/pl/111/203/s1035], July 21, 2010, [124 Stat. 2009][/us/stat/124/2009].)
 
+ __Change of Name__ 
+
+    Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
  __Effective Date__ 
 
     Section effective on the designated transfer date, see [section 1037 of Pub. L. 111–203][/us/pl/111/203/s1037], set out as a note under [section 5531 of this title][/us/usc/t12/s5531].

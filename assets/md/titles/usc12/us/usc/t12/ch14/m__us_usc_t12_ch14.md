@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1751" data-uslm-ref="/us/usc/t12/s1751">1751.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1751a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1751a" data-uslm-ref="/us/usc/t12/s1751a">1751a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1752" data-uslm-ref="/us/usc/t12/s1752">1752.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1752a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1752a" data-uslm-ref="/us/usc/t12/s1752a">1752a.</a>  </td>
 
     <td> National Credit Union Administration.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1753" data-uslm-ref="/us/usc/t12/s1753">1753.</a>  </td>
 
     <td> Federal credit union organization.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1754" data-uslm-ref="/us/usc/t12/s1754">1754.</a>  </td>
 
     <td> Approval of organization certificate.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1755" data-uslm-ref="/us/usc/t12/s1755">1755.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1756" data-uslm-ref="/us/usc/t12/s1756">1756.</a>  </td>
 
     <td> Reports and examinations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1756a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1756a" data-uslm-ref="/us/usc/t12/s1756a">1756a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1757" data-uslm-ref="/us/usc/t12/s1757">1757.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1757a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1757a" data-uslm-ref="/us/usc/t12/s1757a">1757a.</a>  </td>
 
     <td> Limitation on member business loans.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1758.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1758" data-uslm-ref="/us/usc/t12/s1758">1758.</a>  </td>
 
     <td> Bylaws.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1759.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1759" data-uslm-ref="/us/usc/t12/s1759">1759.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1760.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1760" data-uslm-ref="/us/usc/t12/s1760">1760.</a>  </td>
 
     <td> Members’ meetings.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1761" data-uslm-ref="/us/usc/t12/s1761">1761.</a>  </td>
 
     <td> Management.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1761a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1761a" data-uslm-ref="/us/usc/t12/s1761a">1761a.</a>  </td>
 
     <td> Officers of the board.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1761b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1761b" data-uslm-ref="/us/usc/t12/s1761b">1761b.</a>  </td>
 
     <td> Board of directors; meetings; powers and duties; executive committee; membership officers; membership application.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1761c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1761c" data-uslm-ref="/us/usc/t12/s1761c">1761c.</a>  </td>
 
     <td> Credit committee.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1761d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1761d" data-uslm-ref="/us/usc/t12/s1761d">1761d.</a>  </td>
 
     <td> Supervisory committee; powers and duties; suspension of members; passbook.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1762" data-uslm-ref="/us/usc/t12/s1762">1762.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1763" data-uslm-ref="/us/usc/t12/s1763">1763.</a>  </td>
 
     <td> Dividends.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1764" data-uslm-ref="/us/usc/t12/s1764">1764.</a>  </td>
 
     <td> Expulsion and withdrawal.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1765" data-uslm-ref="/us/usc/t12/s1765">1765.</a>  </td>
 
     <td> Minors.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1766.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1766" data-uslm-ref="/us/usc/t12/s1766">1766.</a>  </td>
 
     <td> Powers of Board.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1767.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1767" data-uslm-ref="/us/usc/t12/s1767">1767.</a>  </td>
 
     <td> Fiscal agents and depositories; authorization to secure deposits by governmental bodies.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1768.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1768" data-uslm-ref="/us/usc/t12/s1768">1768.</a>  </td>
 
     <td> Taxation.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1769.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1769" data-uslm-ref="/us/usc/t12/s1769">1769.</a>  </td>
 
     <td> Separability; right to alter, amend, or repeal chapter.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1770.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1770" data-uslm-ref="/us/usc/t12/s1770">1770.</a>  </td>
 
     <td> Allotment of space in Federal buildings or Federal land.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1771" data-uslm-ref="/us/usc/t12/s1771">1771.</a>  </td>
 
     <td> Conversion from Federal to State credit union and from State to Federal credit union.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772" data-uslm-ref="/us/usc/t12/s1772">1772.</a>  </td>
 
     <td> Territorial application of chapter.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772a" data-uslm-ref="/us/usc/t12/s1772a">1772a.</a>  </td>
 
     <td> Gifts; acceptance of conditional gifts; deposit.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772b" data-uslm-ref="/us/usc/t12/s1772b">1772b.</a>  </td>
 
     <td> Apportionment.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772c" data-uslm-ref="/us/usc/t12/s1772c">1772c.</a>  </td>
 
     <td> Trust fund.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772c%E2%80%931" data-uslm-ref="/us/usc/t12/s1772c–1">1772c–1.</a>  </td>
 
     <td> Community development revolving loan fund for credit unions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1772d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1772d" data-uslm-ref="/us/usc/t12/s1772d">1772d.</a>  </td>
 
     <td> Forfeiture of organization certificate for money laundering or cash transaction reporting offenses.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1773" data-uslm-ref="/us/usc/t12/s1773">1773.</a>  </td>
 
     <td> District of Columbia credit unions; conversion to Federal status.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1774" data-uslm-ref="/us/usc/t12/s1774">1774.</a>  </td>
 
     <td> Approval of certificate; assets and obligations of applicant credit union.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1775" data-uslm-ref="/us/usc/t12/s1775">1775.</a>  </td>
 
     <td> Conditions upon conversion to Federal status.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1781" data-uslm-ref="/us/usc/t12/s1781">1781.</a>  </td>
 
     <td> Insurance of member accounts.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1782" data-uslm-ref="/us/usc/t12/s1782">1782.</a>  </td>
 
     <td> Administration of insurance fund.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1783" data-uslm-ref="/us/usc/t12/s1783">1783.</a>  </td>
 
     <td> National Credit Union Share Insurance Fund.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1784" data-uslm-ref="/us/usc/t12/s1784">1784.</a>  </td>
 
     <td> Examination of insured credit unions.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1785" data-uslm-ref="/us/usc/t12/s1785">1785.</a>  </td>
 
     <td> Requirements governing insured credit unions.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1786.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1786" data-uslm-ref="/us/usc/t12/s1786">1786.</a>  </td>
 
     <td> Termination of insured credit union status; cease and desist orders; removal or suspension from office; procedure.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1786a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1786a" data-uslm-ref="/us/usc/t12/s1786a">1786a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1787.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1787" data-uslm-ref="/us/usc/t12/s1787">1787.</a>  </td>
 
     <td> Payment of insurance.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1788.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1788" data-uslm-ref="/us/usc/t12/s1788">1788.</a>  </td>
 
     <td> Special assistance to avoid liquidation.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1789.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1789" data-uslm-ref="/us/usc/t12/s1789">1789.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1789a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1789a" data-uslm-ref="/us/usc/t12/s1789a">1789a.</a>  </td>
 
     <td> Credit unions as depositaries of public money; fiscal agents; duties.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790" data-uslm-ref="/us/usc/t12/s1790">1790.</a>  </td>
 
     <td> Nondiscriminatory provision.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790a" data-uslm-ref="/us/usc/t12/s1790a">1790a.</a>  </td>
 
     <td> Board disapproval of directors, committee members, and senior executive officers of insured credit unions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790b" data-uslm-ref="/us/usc/t12/s1790b">1790b.</a>  </td>
 
     <td> Credit union employee protection remedy.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790c" data-uslm-ref="/us/usc/t12/s1790c">1790c.</a>  </td>
 
     <td> Reward for information leading to recoveries or civil penalties.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790d" data-uslm-ref="/us/usc/t12/s1790d">1790d.</a>  </td>
 
     <td> Prompt corrective action.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER II—SHARE INSURANCE  </td>
 
   <tr>
 
-    <td> 1790e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1790e" data-uslm-ref="/us/usc/t12/s1790e">1790e.</a>  </td>
 
     <td> Temporary Corporate Credit Union Stabilization Fund.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795" data-uslm-ref="/us/usc/t12/s1795">1795.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795a" data-uslm-ref="/us/usc/t12/s1795a">1795a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795b" data-uslm-ref="/us/usc/t12/s1795b">1795b.</a>  </td>
 
     <td> National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795c" data-uslm-ref="/us/usc/t12/s1795c">1795c.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795d" data-uslm-ref="/us/usc/t12/s1795d">1795d.</a>  </td>
 
     <td> Capital stock.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795e" data-uslm-ref="/us/usc/t12/s1795e">1795e.</a>  </td>
 
     <td> Extensions of credit.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795f" data-uslm-ref="/us/usc/t12/s1795f">1795f.</a>  </td>
 
     <td> Powers of Board.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795g" data-uslm-ref="/us/usc/t12/s1795g">1795g.</a>  </td>
 
     <td> Depositories, custodians, and fiscal agents.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795h" data-uslm-ref="/us/usc/t12/s1795h">1795h.</a>  </td>
 
     <td> Audit of financial transactions.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795i" data-uslm-ref="/us/usc/t12/s1795i">1795i.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795j" data-uslm-ref="/us/usc/t12/s1795j">1795j.</a>  </td>
 
     <td> Agent of Federal Reserve System.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY  </td>
 
   <tr>
 
-    <td> 1795k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1795k" data-uslm-ref="/us/usc/t12/s1795k">1795k.</a>  </td>
 
     <td> State and local tax exemption.  </td>
 
