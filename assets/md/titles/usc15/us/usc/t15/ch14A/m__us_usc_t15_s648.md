@@ -203,7 +203,7 @@
 
     (c) __Problem-solving assistance; development center extension services; staff and access requirements; assistance services; changing services for evolving needs; qualified small business vendors; non-profit entities; cooperation with regional and local offices, etc.; information sharing system__ 
 
-        (1) Applicants receiving grants under this section shall assist small businesses in solving problems concerning operations, manufacturing, engineering, technology exchange and development, personnel administration, marketing, sales, merchandising, finance, accounting, business strategy development, and other disciplines required for small business growth and expansion, innovation, increased productivity, and management improvement, and for decreasing industry economic concentrations.
+        (1) Applicants receiving grants under this section shall assist small businesses in solving problems concerning operations, manufacturing, engineering, technology exchange and development, personnel administration, marketing, sales, merchandising, finance, accounting, business strategy development, and other disciplines required for small business growth and expansion, innovation, increased productivity, and management improvement, and for decreasing industry economic concentrations. Applicants receiving grants under this section may also assist small businesses by providing, where appropriate, education on the requirements applicable to small businesses under the regulations issued under [section 2778 of title 22][/us/usc/t22/s2778] and on compliance with those requirements.
 
         (2)
 
@@ -429,7 +429,7 @@
 
             Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter into cooperative agreements to carry out the provisions of this subsection.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[21\], as added [Pub. L. 96–302, title II, § 202][/us/pl/96/302/s202], July 2, 1980, [94 Stat. 843][/us/stat/94/843]; amended [Pub. L. 98–395, § 2][/us/pl/98/395/s2], Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366]; [Pub. L. 100–418, title VIII, § 8006(b)][/us/pl/100/418/s8006/b], Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 134, 135(3), Nov. 3, 1988, [102 Stat. 3006][/us/stat/102/3006], 3007; [Pub. L. 101–515, title V][/us/pl/101/515], §§ 5(a), 6, Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; [Pub. L. 101–574, title II, § 201(a)(1)][/us/pl/101/574/s201/a/1], title III, § 303, Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], 2828; [Pub. L. 102–366, title II][/us/pl/102/366], §§ 212, 223(a), Sept. 4, 1992, [106 Stat. 998][/us/stat/106/998], 1000; [Pub. L. 103–81, § 9(a)][/us/pl/103/81/s9/a], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 402–404, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4191; [Pub. L. 104–66, title II, § 2121][/us/pl/104/66/s2121], Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 104–121, title II, § 214(a)][/us/pl/104/121/s214/a], Mar. 29, 1996, [110 Stat. 859][/us/stat/110/859]; [Pub. L. 104–208, div. D, title I, § 106][/us/pl/104/208/s106], Sept. 30, 1996, [110 Stat. 3009–731][/us/stat/110/3009-731]; [Pub. L. 105–135, title V][/us/pl/105/135], §§ 502, 506(a), Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], 2624; [Pub. L. 105–277, div. C, title IX, § 905][/us/pl/105/277/s905], Oct. 21, 1998, [112 Stat. 2681–710][/us/stat/112/2681-710]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(e), title VIII, § 804(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–703; [Pub. L. 107–20, title II, § 2203(b)][/us/pl/107/20/s2203/b], July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 122, 142, Dec. 8, 2004, [118 Stat. 3449][/us/stat/118/3449], 3454; [Pub. L. 110–186, title I, § 107][/us/pl/110/186/s107], Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627]; [Pub. L. 111–240, title I, § 1209][/us/pl/111/240/s1209], Sept. 27, 2010, [124 Stat. 2536][/us/stat/124/2536].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[21\], as added [Pub. L. 96–302, title II, § 202][/us/pl/96/302/s202], July 2, 1980, [94 Stat. 843][/us/stat/94/843]; amended [Pub. L. 98–395, § 2][/us/pl/98/395/s2], Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366]; [Pub. L. 100–418, title VIII, § 8006(b)][/us/pl/100/418/s8006/b], Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 134, 135(3), Nov. 3, 1988, [102 Stat. 3006][/us/stat/102/3006], 3007; [Pub. L. 101–515, title V][/us/pl/101/515], §§ 5(a), 6, Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; [Pub. L. 101–574, title II, § 201(a)(1)][/us/pl/101/574/s201/a/1], title III, § 303, Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], 2828; [Pub. L. 102–366, title II][/us/pl/102/366], §§ 212, 223(a), Sept. 4, 1992, [106 Stat. 998][/us/stat/106/998], 1000; [Pub. L. 103–81, § 9(a)][/us/pl/103/81/s9/a], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 402–404, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4191; [Pub. L. 104–66, title II, § 2121][/us/pl/104/66/s2121], Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 104–121, title II, § 214(a)][/us/pl/104/121/s214/a], Mar. 29, 1996, [110 Stat. 859][/us/stat/110/859]; [Pub. L. 104–208, div. D, title I, § 106][/us/pl/104/208/s106], Sept. 30, 1996, [110 Stat. 3009–731][/us/stat/110/3009-731]; [Pub. L. 105–135, title V][/us/pl/105/135], §§ 502, 506(a), Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], 2624; [Pub. L. 105–277, div. C, title IX, § 905][/us/pl/105/277/s905], Oct. 21, 1998, [112 Stat. 2681–710][/us/stat/112/2681-710]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(e), title VIII, § 804(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–703; [Pub. L. 107–20, title II, § 2203(b)][/us/pl/107/20/s2203/b], July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 122, 142, Dec. 8, 2004, [118 Stat. 3449][/us/stat/118/3449], 3454; [Pub. L. 110–186, title I, § 107][/us/pl/110/186/s107], Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627]; [Pub. L. 111–240, title I, § 1209][/us/pl/111/240/s1209], Sept. 27, 2010, [124 Stat. 2536][/us/stat/124/2536]; [Pub. L. 113–291, div. A, title VIII, § 823(a)][/us/pl/113/291/s823/a], Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436].)
 
  __References in Text__ 
 
@@ -450,6 +450,8 @@
     A prior section 2\[21\] of [Pub. L. 85–536][/us/pl/85/536] was renumbered section 2\[47\] and is set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291] inserted at end “Applicants receiving grants under this section may also assist small businesses by providing, where appropriate, education on the requirements applicable to small businesses under the regulations issued under [section 2778 of title 22][/us/usc/t22/s2778] and on compliance with those requirements.”
 
     2010—Subsec. (a)(2). [Pub. L. 111–240][/us/pl/111/240] designated existing provisions as subpar. (A), inserted par. (2) and subpar. (A) headings, substituted “The small business development centers” for “The Small Business Development Centers”, inserted “(including State trade agencies),” after “local agencies”, and added subpars. (B) and (C).
 
@@ -651,6 +653,7 @@
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
 [/us/usc/t15/s644/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg
+[/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/pl/96/302/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs202
 [/us/stat/94/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F843
@@ -690,6 +693,8 @@
 [/us/stat/122/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F627
 [/us/pl/111/240/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1209
 [/us/stat/124/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2536
+[/us/pl/113/291/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs823%2Fa
+[/us/stat/128/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3436
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/104/121/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs212%2Fa
@@ -704,6 +709,8 @@
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
 [/us/pl/108/447/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs122%2Fb

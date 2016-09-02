@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1543.md) | [Next](./../../../..//us/usc/t15/ch41/schI/m__us_usc_t15_ch41_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch41)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1548.md) | [Next](./../../../..//us/usc/t15/ch41/schI/m__us_usc_t15_ch41_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch41)
 
 ## CHAPTER 41—CONSUMER CREDIT PROTECTION
 
@@ -1507,7 +1507,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1543.md) | [Next](./../../../..//us/usc/t15/ch41/schI/m__us_usc_t15_ch41_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch41)
+[Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1548.md) | [Next](./../../../..//us/usc/t15/ch41/schI/m__us_usc_t15_ch41_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch41)
 
 ----------
 ----------

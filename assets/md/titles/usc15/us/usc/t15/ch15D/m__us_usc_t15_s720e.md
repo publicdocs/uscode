@@ -33,7 +33,7 @@
 
             (C) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.);
 
-            (D) the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.); and
+            (D) chapter 2003 of title 54;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “division A of subtitle III of title 54;”. </sup></sup>  and
 
             (E) the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101][/us/usc/t16/s3101] et seq.).
 
@@ -45,7 +45,7 @@
 
         The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.
 
-([Pub. L. 108–324, div. C, § 107][/us/pl/108/324/s107], Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261]; [Pub. L. 111–11, title XIII, § 13003][/us/pl/111/11/s13003], Mar. 30, 2009, [123 Stat. 1448][/us/stat/123/1448].)
+([Pub. L. 108–324, div. C, § 107][/us/pl/108/324/s107], Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261]; [Pub. L. 111–11, title XIII, § 13003][/us/pl/111/11/s13003], Mar. 30, 2009, [123 Stat. 1448][/us/stat/123/1448]; [Pub. L. 113–287, § 5(c)][/us/pl/113/287/s5/c], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __References in Text__ 
 
@@ -55,8 +55,6 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a)(3)(D), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
-
     The Alaska National Interest Lands Conservation Act, referred to in subsec. (a)(3)(E), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371]. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16][/us/usc/t16/s3101], Conservation, and Tables.
 
  __Codification__ 
@@ -64,6 +62,8 @@
     Section is comprised of [section 107 of Pub. L. 108–324][/us/pl/108/324/s107]. Subsec. (d) of [section 107 of Pub. L. 108–324][/us/pl/108/324/s107] amended [section 719h of this title][/us/usc/t15/s719h].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)(D). [Pub. L. 113–287][/us/pl/113/287], which directed the substitution of “chapter 2003 of title 54” for “the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.)” in section 1072(a)(3)(D) of the Alaska Natural Gas Pipeline Act, was executed to this section, which is section 107 of the Alaska Natural Gas Pipeline Act, to reflect the probable intent of Congress.
 
     2009—Subsec. (a)(3). [Pub. L. 111–11][/us/pl/111/11] added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) with respect to any action under this chapter.”
 
@@ -77,12 +77,13 @@
 [/us/usc/t15/s720a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720a
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 [/us/pl/108/324/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107
 [/us/stat/118/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1261
 [/us/pl/111/11/s13003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs13003
 [/us/stat/123/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1448
+[/us/pl/113/287/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fc
+[/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255
 [/us/usc/t15/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720
@@ -92,15 +93,14 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 [/us/pl/108/324/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107
 [/us/pl/108/324/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107
 [/us/usc/t15/s719h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719h
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

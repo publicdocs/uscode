@@ -471,6 +471,46 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1544" data-uslm-ref="/us/usc/t15/s1544">1544.</a>  </td>
+
+    <td> Promotion of tourist travel.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1545" data-uslm-ref="/us/usc/t15/s1545">1545.</a>  </td>
+
+    <td> Cooperation with travel agencies; publication of information.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1546" data-uslm-ref="/us/usc/t15/s1546">1546.</a>  </td>
+
+    <td> Advisory committee for promotion of tourist travel; expenses.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1547" data-uslm-ref="/us/usc/t15/s1547">1547.</a>  </td>
+
+    <td> Rules and regulations; employees.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1548" data-uslm-ref="/us/usc/t15/s1548">1548.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
 </table>
 
 ----------

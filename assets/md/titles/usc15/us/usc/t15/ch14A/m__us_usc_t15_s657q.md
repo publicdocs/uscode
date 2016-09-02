@@ -19,7 +19,7 @@
 
     In this section—
 
-        (1) the term “Chief Acquisition Officer” means the employee of a Federal agency designated as the Chief Acquisition Officer for the Federal agency under [section 1702(a) of title 41][/us/usc/t41/s1702/a];
+        (1) the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section [section 1702(a) of title 41][/us/usc/t41/s1702/a];
 
         (2)
 
@@ -73,19 +73,17 @@
 
             (D) any other benefit.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[44\], as added [Pub. L. 111–240, title I, § 1313(a)(2)][/us/pl/111/240/s1313/a/2], Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; amended [Pub. L. 112–239, div. A, title XVI, § 1671(a)][/us/pl/112/239/s1671/a], (b), (c)(2), Jan. 2, 2013, [126 Stat. 2084][/us/stat/126/2084], 2085.)
-
- __Codification__ 
-
-    In subsec. (a)(1), “[section 1702(a) of title 41][/us/usc/t41/s1702/a]” substituted for “section 16(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(a)][/us/usc/t41/s414/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
-
-    In subsec. (a)(3), “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” substituted for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[44\], as added [Pub. L. 111–240, title I, § 1313(a)(2)][/us/pl/111/240/s1313/a/2], Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; amended [Pub. L. 112–239, div. A, title XVI, § 1671(a)][/us/pl/112/239/s1671/a], (b), (c)(2), Jan. 2, 2013, [126 Stat. 2084][/us/stat/126/2084], 2085; [Pub. L. 113–291, div. A, title VIII, § 822(b)][/us/pl/113/291/s822/b], Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436].)
 
  __Prior Provisions__ 
 
     A prior section 2\[44\] of [Pub. L. 85–536][/us/pl/85/536] was renumbered section 2\[47\] and is set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291, § 822(b)(1)][/us/pl/113/291/s822/b/1], inserted “appointed or” before “designated” and substituted “[section 1702(a) of title 41][/us/usc/t41/s1702/a]” for “section 16(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(a)][/us/usc/t41/s414/a])”.
+
+    Subsec. (a)(3). [Pub. L. 113–291, § 822(b)(2)][/us/pl/113/291/s822/b/2], substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])”.
 
     2013—Subsec. (a)(2). [Pub. L. 112–239, § 1671(a)][/us/pl/112/239/s1671/a], substituted “or a multiple award contract—” and subpars. (A) and (B) for “or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and”.
 
@@ -113,16 +111,16 @@
 [/us/stat/124/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2538
 [/us/pl/112/239/s1671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fa
 [/us/stat/126/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2084
-[/us/usc/t41/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fa
-[/us/usc/t41/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
-[/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
-[/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
-[/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/291/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb
+[/us/stat/128/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3436
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/113/291/s822/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb%2F1
+[/us/usc/t41/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fa
+[/us/usc/t41/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fa
+[/us/pl/113/291/s822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb%2F2
+[/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
+[/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
 [/us/pl/112/239/s1671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fa
 [/us/pl/112/239/s1671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fb
 [/us/pl/112/239/s1671/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fc%2F2

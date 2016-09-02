@@ -297,9 +297,15 @@
 
                     (III) through competitions restricted using the authority under [section 637(m)(2) of this title][/us/usc/t15/s637/m/2];
 
-                    (IV) through competitions restricted using the authority under [section 637(m)(2) of this title][/us/usc/t15/s637/m/2] and in which the waiver authority under [section 637(m)(3) of this title][/us/usc/t15/s637/m/3] was used; and
+                    (IV) through competitions restricted using the authority under [section 637(m)(2) of this title][/us/usc/t15/s637/m/2] and in which the waiver authority under [section 637(m)(3) of this title][/us/usc/t15/s637/m/3] was used;
 
-                    (V) through unrestricted competition; and
+                    (V) through sole source contracts awarded using the authority under subsection <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  637(m)(7) of this title;
+
+                    (VI) through sole source contracts awarded using the authority under [section 637(m)(8) of this title][/us/usc/t15/s637/m/8];
+
+                    (VII) by industry for contracts described in subclause (III), (IV), (V), or (VI); and
+
+                    (VIII) through unrestricted competition; and
 
             (F) for the Federal Government, the number, dollar amount, and distribution with respect to the North American Industry Classification System of subcontracts awarded during such fiscal year to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, provided that such information is publicly available through data systems developed pursuant to the Federal Funding Accountability and Transparency Act of 2006 ([Public Law 109–282][/us/pl/109/282]), or otherwise available as provided in paragraph (3).
 
@@ -323,7 +329,7 @@
 
         (2) In carrying out paragraph (1), a contracting officer shall consider a responsive offer timely received from an eligible small business offeror.
 
-        (3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title][/us/usc/t15/s637], [section 2323 of title 10][/us/usc/t10/s2323], section 712  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Business Opportunity Development Reform Act of 1988 ([Public Law 100–656][/us/pl/100/656]; [15 U.S.C. 644][/us/usc/t15/s644] note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
+        (3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title][/us/usc/t15/s637], [section 2323 of title 10][/us/usc/t10/s2323], section 712  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of the Business Opportunity Development Reform Act of 1988 ([Public Law 100–656][/us/pl/100/656]; [15 U.S.C. 644][/us/usc/t15/s644] note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
 
     (k) __Office of Small and Disadvantaged Business Utilization; Director__ 
 
@@ -339,7 +345,7 @@
 
         (5) shall identify proposed solicitations that involve significant bundling of contract requirements, and work with the agency acquisition officials and the Administration to revise the procurement strategies for such proposed solicitations where appropriate to increase the probability of participation by small businesses as prime contractors, or to facilitate small business participation as subcontractors and suppliers, if a solicitation for a bundled contract is to be issued;
 
-        (6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should be a semicolon. </sup></sup> 
+        (6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be a semicolon. </sup></sup> 
 
         (7) shall have supervisory authority over personnel of such agency to the extent that the functions and duties of such personnel relate to functions and duties under this section and [section 637 of this title][/us/usc/t15/s637];
 
@@ -349,7 +355,7 @@
 
             (A) who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity; and
 
-            (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and [section 637 of this title][/us/usc/t15/s637],2
+            (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and [section 637 of this title][/us/usc/t15/s637],3
 
         (9) shall cooperate, and consult on a regular basis, with the Administration with respect to carrying out the functions and duties described in paragraph (4) of this subsection;
 
@@ -399,7 +405,7 @@
 
             (F) receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
 
-            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “paragraphs”. </sup></sup>  (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “paragraphs”. </sup></sup>  (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
 
             (H) be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified; and
 
@@ -435,7 +441,7 @@
 
             (A)  __Authorization__  __.—__ 
 
-            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
 
             (B)  __Limitation__  __.—__ 
 
@@ -451,7 +457,7 @@
 
          Each agency subject to the requirements of [section 2323 of title 10][/us/usc/t10/s2323] shall, when implementing such requirements—
 
-            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
+            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
 
             (B) assure that such requirements will not alter or change the procurement process used to implement this section or [section 637(a) of this title][/us/usc/t15/s637/a].
 
@@ -481,7 +487,7 @@
 
         (2) __Database__ 
 
-            (A)  __ <sup>\[__  __6__  __\]</sup> __  __ <sup><sup> __  __6__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
+            (A)  __ <sup>\[__  __7__  __\]</sup> __  __ <sup><sup> __  __7__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
 
             Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
 
@@ -579,7 +585,47 @@
 
         (3) reserve 1 or more contract awards for small business concerns under full and open multiple award procurements, including the subcategories of small business concerns identified in subsection (g)(2).
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613][/us/pl/113/66/s1613], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948]; [Pub. L. 113–76, div. D, title III, § 318][/us/pl/113/76/s318], Jan. 17, 2014, [128 Stat. 178][/us/stat/128/178].)
+    (s) __Data quality improvement plan__ 
+
+        (1) __In general__ 
+
+            Not later than October 1, 2015, the Administrator of the Small Business Administration, in consultation with the Small Business Procurement Advisory Council, the Administrator for Federal Procurement Policy, and the Administrator of General Services, shall develop a plan to improve the quality of data reported on bundled or consolidated contracts in the Federal procurement data system (described in [section 1122(a)(4)(A) of title 41][/us/usc/t41/s1122/a/4/A]).
+
+        (2) __Plan requirements__ 
+
+        The plan shall—
+
+            (A)
+
+             describe the roles and responsibilities of the Administrator of the Small Business Administration, each Director of Small and Disadvantaged Business Utilization, the Administrator for Federal Procurement Policy, the Administrator of General Services, senior procurement executives, and Chief Acquisition Officers in—
+
+                (i) improving the quality of data reported on bundled or consolidated contracts in the Federal procurement data system; and
+
+                (ii) contributing to the annual report required by subsection (p)(4);
+
+            (B) recommend changes to policies and procedures, including training procedures of relevant personnel, to properly identify and mitigate the effects of bundled or consolidated contracts;
+
+            (C) recommend requirements for periodic and statistically valid data verification and validation; and
+
+            (D) recommend clear data verification responsibilities.
+
+        (3) __Plan submission__ 
+
+            The Administrator of the Small Business Administration shall submit the plan to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate not later than December 1, 2016.
+
+        (4) __Definitions__ 
+
+        In this subsection, the following definitions apply:
+
+            (A) __Chief Acquisition Officer; senior procurement executive__ 
+
+                The terms “Chief Acquisition Officer” and “senior procurement executive” have the meanings given such terms in [section 657q(a) of this title][/us/usc/t15/s657q/a].
+
+            (B) __Bundled or consolidated contract__ 
+
+                The term “bundled or consolidated contract” means a bundled contract (as defined in section 632(o) of this title) or a contract resulting from the consolidation of contracting requirements (as defined in [section 657q(a)(2) of this title][/us/usc/t15/s657q/a/2]).
+
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[15\], July 18, 1958, [72 Stat. 395][/us/stat/72/395]; [Pub. L. 95–89, title V, § 502][/us/pl/95/89/s502], Aug. 4, 1977, [91 Stat. 562][/us/stat/91/562]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770][/us/stat/92/1770], 1772; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 116, 117, July 2, 1980, [94 Stat. 839][/us/stat/94/839]; [Pub. L. 98–577, title IV, § 403(a)][/us/pl/98/577/s403/a], Oct. 30, 1984, [98 Stat. 3080][/us/stat/98/3080]; [Pub. L. 99–272, title XVIII, § 18003(a)][/us/pl/99/272/s18003/a], Apr. 7, 1986, [100 Stat. 363][/us/stat/100/363]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912][/us/stat/100/3912], 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 10(a)(1)][/us/pl/100/26/s10/a/1], (b)(1), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–180, div. A, title VIII, § 809(a)][/us/pl/100/180/s809/a]–(c), Dec. 4, 1987, [101 Stat. 1130][/us/stat/101/1130]; [Pub. L. 100–496, § 12][/us/pl/100/496/s12], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994], 3005; [Pub. L. 100–656, title V][/us/pl/100/656], §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881][/us/stat/102/3881], 3887, 3888; [Pub. L. 101–37][/us/pl/101/37], §§ 19, 21, June 15, 1989, [103 Stat. 74][/us/stat/103/74], 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)][/us/pl/101/510/s806/e/3], Nov. 5, 1990, [104 Stat. 1593][/us/stat/104/1593]; [Pub. L. 101–574, title II, § 208][/us/pl/101/574/s208], Nov. 15, 1990, [104 Stat. 2820][/us/stat/104/2820]; [Pub. L. 102–190, div. A, title VIII, § 806(d)][/us/pl/102/190/s806/d], Dec. 5, 1991, [105 Stat. 1419][/us/stat/105/1419]; [Pub. L. 102–366, title II, § 232(b)][/us/pl/102/366/s232/b], Sept. 4, 1992, [106 Stat. 1002][/us/stat/106/1002]; [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)][/us/pl/102/484/s801/h/8], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446]; [Pub. L. 102–569, title IX, § 911(b)][/us/pl/102/569/s911/b], Oct. 29, 1992, [106 Stat. 4486][/us/stat/106/4486]; [Pub. L. 103–355, title IV, § 4004][/us/pl/103/355/s4004], title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3367, 3374; [Pub. L. 103–403, title III, § 305][/us/pl/103/403/s305], Oct. 22, 1994, [108 Stat. 4189][/us/stat/108/4189]; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)][/us/pl/104/106/s4321/c/3], Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674]; [Pub. L. 105–135, title IV, § 413][/us/pl/105/135/s413], title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618][/us/stat/111/2618], 2632; [Pub. L. 106–50, title V, § 502][/us/pl/106/50/s502], title VI, § 601, Aug. 17, 1999, [113 Stat. 247][/us/stat/113/247], 248; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, §§ 806(a), 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–706; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537][/us/stat/124/2537], 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239], §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613][/us/pl/113/66/s1613], Dec. 26, 2013, [127 Stat. 948][/us/stat/127/948]; [Pub. L. 113–76, div. D, title III, § 318][/us/pl/113/76/s318], Jan. 17, 2014, [128 Stat. 178][/us/stat/128/178]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], §§ 822(a), 825(b), Dec. 19, 2014, [128 Stat. 3435][/us/stat/128/3435], 3438.)
 
  __References in Text__ 
 
@@ -608,6 +654,10 @@
  __Amendments__ 
 
     2014—Subsec. (g)(3). [Pub. L. 113–76][/us/pl/113/76] added par. (3).
+
+    Subsec. (h)(2)(E)(viii)(V) to (VIII). [Pub. L. 113–291, § 825(b)][/us/pl/113/291/s825/b], added subcls. (V) to (VII) and redesignated former subcl. (V) as (VIII).
+
+    Subsec. (s). [Pub. L. 113–291, § 822(a)][/us/pl/113/291/s822/a], added subsec. (s).
 
     2013—Subsec. (e)(1). [Pub. L. 112–239, § 1623][/us/pl/112/239/s1623], substituted “a Federal department or agency” for “the various agencies” and “, and each such Federal department or agency shall—” and subpars. (A) and (B) for period at end.
 
@@ -1334,6 +1384,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s637/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm%2F2
 [/us/usc/t15/s637/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm%2F2
 [/us/usc/t15/s637/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm%2F3
+[/us/usc/t15/s637/m/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm%2F8
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
@@ -1359,6 +1410,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t41/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa
 [/us/usc/t10/s2304c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304c%2Fb
 [/us/usc/t41/s4106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fc
+[/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA
+[/us/usc/t15/s657q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657q%2Fa
+[/us/usc/t15/s657q/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657q%2Fa%2F2
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F395
 [/us/pl/95/89/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs502
@@ -1423,6 +1477,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/127/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F948
 [/us/pl/113/76/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs318
 [/us/stat/128/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F178
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3435
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/stat/120/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1186
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
@@ -1459,6 +1515,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs639
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/291/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs825%2Fb
+[/us/pl/113/291/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fa
 [/us/pl/112/239/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1623
 [/us/pl/112/239/s1631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1631%2Fa
 [/us/pl/112/239/s1631/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1631%2Fb%2F1

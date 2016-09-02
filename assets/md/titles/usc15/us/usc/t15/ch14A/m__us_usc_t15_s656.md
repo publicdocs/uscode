@@ -347,9 +347,9 @@
 
         (2) __Report__ 
 
-            Not later than 5 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+            Not later than 3 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[29\], formerly § 2\[28\], as added [Pub. L. 102–191, § 2][/us/pl/102/191/s2], Dec. 5, 1991, [105 Stat. 1589][/us/stat/105/1589]; renumbered § 2\[29\] and amended [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 411, 412, Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192], 4193; [Pub. L. 105–135, title III, § 308(a)][/us/pl/105/135/s308/a], Dec. 2, 1997, [111 Stat. 2611][/us/stat/111/2611]; [Pub. L. 106–17][/us/pl/106/17], §§ 2(a), 3, Apr. 6, 1999, [113 Stat. 27][/us/stat/113/27]; [Pub. L. 106–165][/us/pl/106/165], §§ 2–4(b), Dec. 9, 1999, [113 Stat. 1795–1798][/us/stat/113/1795-1798]; [Pub. L. 110–28, title VIII, § 8305(a)][/us/pl/110/28/s8305/a], (b), May 25, 2007, [121 Stat. 209][/us/stat/121/209], 210; [Pub. L. 111–240, title I, § 1401(b)][/us/pl/111/240/s1401/b], (c)(2), Sept. 27, 2010, [124 Stat. 2549][/us/stat/124/2549], 2550; [Pub. L. 112–239, div. A, title XVI, § 1697(b)][/us/pl/112/239/s1697/b], Jan. 2, 2013, [126 Stat. 2091][/us/stat/126/2091].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[29\], formerly § 2\[28\], as added [Pub. L. 102–191, § 2][/us/pl/102/191/s2], Dec. 5, 1991, [105 Stat. 1589][/us/stat/105/1589]; renumbered § 2\[29\] and amended [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 411, 412, Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192], 4193; [Pub. L. 105–135, title III, § 308(a)][/us/pl/105/135/s308/a], Dec. 2, 1997, [111 Stat. 2611][/us/stat/111/2611]; [Pub. L. 106–17][/us/pl/106/17], §§ 2(a), 3, Apr. 6, 1999, [113 Stat. 27][/us/stat/113/27]; [Pub. L. 106–165][/us/pl/106/165], §§ 2–4(b), Dec. 9, 1999, [113 Stat. 1795–1798][/us/stat/113/1795-1798]; [Pub. L. 110–28, title VIII, § 8305(a)][/us/pl/110/28/s8305/a], (b), May 25, 2007, [121 Stat. 209][/us/stat/121/209], 210; [Pub. L. 111–240, title I, § 1401(b)][/us/pl/111/240/s1401/b], (c)(2), Sept. 27, 2010, [124 Stat. 2549][/us/stat/124/2549], 2550; [Pub. L. 112–239, div. A, title XVI, § 1697(b)][/us/pl/112/239/s1697/b], Jan. 2, 2013, [126 Stat. 2091][/us/stat/126/2091]; [Pub. L. 113–291, div. A, title VIII, § 825(c)][/us/pl/113/291/s825/c], Dec. 19, 2014, [128 Stat. 3438][/us/stat/128/3438].)
 
  __References in Text__ 
 
@@ -360,6 +360,8 @@
     May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of [Pub. L. 110–28][/us/pl/110/28], which enacted subsec. (m), to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (o)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “3 years after January 2, 2013” for “5 years after January 2, 2013”.
 
     2013—Subsec. (o). [Pub. L. 112–239][/us/pl/112/239] added subsec. (o).
 
@@ -498,9 +500,12 @@
 [/us/stat/124/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2549
 [/us/pl/112/239/s1697/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1697%2Fb
 [/us/stat/126/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2091
+[/us/pl/113/291/s825/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs825%2Fc
+[/us/stat/128/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3438
 [/us/pl/110/28/s8305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8305%2Fb
 [/us/stat/121/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F210
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/240/s1401/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1401%2Fc%2F2%2FA
 [/us/pl/111/240/s1401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1401%2Fb%2F1
