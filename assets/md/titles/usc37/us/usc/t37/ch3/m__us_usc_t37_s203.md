@@ -301,7 +301,11 @@ Oct. 12, 1949, ch. 681, § 201(a); May 19, 1952, ch. 310, § 1(a); restated 
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
- __No Fiscal Year 2015 Increase in Basic Pay for General and Flag Officers__ 
+ __Increases in Basic Pay for General and Flag Officers__ 
+
+[Pub. L. 114–92, div. A, title VI, § 601][/us/pl/114/92/s601], Nov. 25, 2015, [129 Stat. 836][/us/stat/129/836], provided that: 
+
+> “[Section 203(a)(2) of title 37][/us/usc/t37/s203/a/2], United States Code, shall be applied for rates of basic pay payable for commissioned officers in pay grades O–7 through O–10 during calendar year 2016 by using the rate of pay for level II of the Executive Schedule in effect during 2014. The rates of basic pay payable for such officers shall not increase during calendar year 2016.”
 
 [Pub. L. 113–291, div. A, title VI, § 601][/us/pl/113/291/s601], Dec. 19, 2014, [128 Stat. 3397][/us/stat/128/3397], provided that: 
 
@@ -590,6 +594,9 @@ Prior to amendment of this section by [Pub. L. 93–419][/us/pl/93/419], pay rat
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/92/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs601
+[/us/stat/129/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F836
+[/us/usc/t37/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fa%2F2
 [/us/pl/113/291/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs601
 [/us/stat/128/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3397
 [/us/usc/t37/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fa%2F2

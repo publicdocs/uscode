@@ -137,15 +137,17 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs1015" data-uslm-ref="/us/usc/t37/s1015">1015.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs1015" data-uslm-ref="/us/usc/t37/s1015">1015.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Recordation of installment payment obligations for incentive pays and similar benefits.  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VI, § 662(b)][/us/pl/114/92/s662/b], Nov. 25, 2015, [129 Stat. 859][/us/stat/129/859], added item 1015.
 
     2006—[Pub. L. 109–364, div. A, title X, § 1046(b)(2)][/us/pl/109/364/s1046/b/2], Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394], struck out item 1015 “Annual report on effects of recruitment and retention initiatives”.
 
@@ -178,6 +180,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs662%2Fb
+[/us/stat/129/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F859
 [/us/pl/109/364/s1046/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1046%2Fb%2F2
 [/us/stat/120/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2394
 [/us/pl/106/65/s673/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs673%2Fa%2F2

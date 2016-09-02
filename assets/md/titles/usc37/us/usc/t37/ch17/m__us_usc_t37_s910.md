@@ -81,11 +81,13 @@
 
     (g)  __Termination__  __.—__ 
 
-    No payment shall be made to a member under this section for months beginning after December 31, 2015, unless the entitlement of the member to payments under this section commenced on or before that date.
+    No payment shall be made to a member under this section for months beginning after December 31, 2016, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added [Pub. L. 109–163, div. A, title VI, § 614(a)][/us/pl/109/163/s614/a], Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI, § 604][/us/pl/110/181/s604], Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI, § 611(7)][/us/pl/111/84/s611/7], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)][/us/pl/112/81/s611/7], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(8)][/us/pl/112/239/s611/8], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(8)][/us/pl/113/66/s611/8], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 611(8)][/us/pl/113/291/s611/8], Dec. 19, 2014, [128 Stat. 3399][/us/stat/128/3399].)
+(Added [Pub. L. 109–163, div. A, title VI, § 614(a)][/us/pl/109/163/s614/a], Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI, § 604][/us/pl/110/181/s604], Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI, § 611(7)][/us/pl/111/84/s611/7], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)][/us/pl/112/81/s611/7], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(8)][/us/pl/112/239/s611/8], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(8)][/us/pl/113/66/s611/8], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 611(8)][/us/pl/113/291/s611/8], Dec. 19, 2014, [128 Stat. 3399][/us/stat/128/3399]; [Pub. L. 114–92, div. A, title VI, § 611(8)][/us/pl/114/92/s611/8], Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–92][/us/pl/114/92] substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (g). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -155,6 +157,9 @@
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
 [/us/pl/113/291/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs611%2F8
 [/us/stat/128/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3399
+[/us/pl/114/92/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs611%2F8
+[/us/stat/129/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F838
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

@@ -657,6 +657,14 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs356" data-uslm-ref="/us/usc/t37/s356">356.</a>  </td>
+
+    <td> Continuation pay: full TSP members with 12 years of service.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—GENERAL PROVISIONS  </td>
@@ -698,6 +706,8 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VI, § 634(b)][/us/pl/114/92/s634/b], Nov. 25, 2015, [129 Stat. 851][/us/stat/129/851], which directed amendment of this analysis by adding item 356 “at the end”, was executed by adding item 356 after item 355 to reflect the probable intent of Congress.
 
     2013—[Pub. L. 113–66, div. A, title VI, § 617(b)][/us/pl/113/66/s617/b], Dec. 26, 2013, [127 Stat. 782][/us/stat/127/782], added item 336.
 
@@ -788,6 +798,8 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 ----------
 ----------
 
+[/us/pl/114/92/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs634%2Fb
+[/us/stat/129/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F851
 [/us/pl/113/66/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs617%2Fb
 [/us/stat/127/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F782
 [/us/pl/111/383/s1075/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fc%2F2

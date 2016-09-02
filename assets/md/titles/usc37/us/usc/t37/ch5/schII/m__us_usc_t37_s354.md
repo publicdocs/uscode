@@ -79,9 +79,29 @@
 
     If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of [section 373 of this title][/us/usc/t37/s373].
 
-(Added [Pub. L. 106–65, div. A, title VI, § 642(a)][/us/pl/106/65/s642/a], Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], § 322; amended [Pub. L. 107–107, div. A, title VI, § 620(a)][/us/pl/107/107/s620/a], Dec. 28, 2001, [115 Stat. 1138][/us/stat/115/1138]; [Pub. L. 109–163, div. A, title VI, § 687(b)(30)][/us/pl/109/163/s687/b/30], Jan. 6, 2006, [119 Stat. 3332][/us/stat/119/3332]; renumbered § 354 and amended [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].)
+(Added [Pub. L. 106–65, div. A, title VI, § 642(a)][/us/pl/106/65/s642/a], Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], § 322; amended [Pub. L. 107–107, div. A, title VI, § 620(a)][/us/pl/107/107/s620/a], Dec. 28, 2001, [115 Stat. 1138][/us/stat/115/1138]; [Pub. L. 109–163, div. A, title VI, § 687(b)(30)][/us/pl/109/163/s687/b/30], Jan. 6, 2006, [119 Stat. 3332][/us/stat/119/3332]; renumbered § 354 and amended [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 114–92, div. A, title VI, § 631(c)(2)][/us/pl/114/92/s631/c/2], Nov. 25, 2015, [129 Stat. 844][/us/stat/129/844].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 631(c)(2), 635, Nov. 25, 2015, [129 Stat. 844][/us/stat/129/844], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+
+    (1) in subsection (f), by striking “If a” and inserting “(1) If a” and by adding at the end the following new paragraph:
+
+    “(2) If a person who is paid a bonus under this section subsequently makes an election described in [section 1409(b)(4)(B) of title 10][/us/usc/t10/s1409/b/4/B], the person shall repay any bonus payments received under this section in the same manner as repayments are made under [section 373 of this title][/us/usc/t37/s373].”; and
+
+    (2) by adding at the end the following new subsection:
+
+    (g) Sunset and Continuation of Payments.—(1) A Secretary concerned may not pay a new bonus under this section after December 31, 2017.
+
+    (2) Subject to subsection (f)(2), the Secretary concerned may continue to make payments for bonuses that were awarded under this section on or before the date specified in paragraph (1).
+
+    See 2015 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–92, § 631(c)(2)(A)][/us/pl/114/92/s631/c/2/A], designated existing provisions as par. (1) and added par. (2).
+
+    Subsec. (g). [Pub. L. 114–92, § 631(c)(2)(B)][/us/pl/114/92/s631/c/2/B], added subsec. (g).
 
     2008—[Pub. L. 110–181, § 661(b)(1)][/us/pl/110/181/s661/b/1], renumbered [section 322 of this title][/us/usc/t37/s322] as this section.
 
@@ -92,6 +112,10 @@
     2001—Subsec. (d)(1). [Pub. L. 107–107, § 620(a)(1)][/us/pl/107/107/s620/a/1], substituted “equal to $30,000” for “paid in a single lump sum of $30,000”.
 
     Subsec. (d)(2) to (4). [Pub. L. 107–107, § 620(a)(2)][/us/pl/107/107/s620/a/2], (3), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted therein “The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments,” for “The bonus”.
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -124,12 +148,23 @@
 [/us/stat/119/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3332
 [/us/pl/110/181/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F1
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
+[/us/pl/114/92/s631/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F2
+[/us/stat/129/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F844
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F844
+[/us/usc/t10/s1409/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409%2Fb%2F4%2FB
+[/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
+[/us/pl/114/92/s631/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F2%2FA
+[/us/pl/114/92/s631/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F2%2FB
 [/us/pl/110/181/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F1
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/pl/110/181/s661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F2
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/107/s620/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs620%2Fa%2F1
 [/us/pl/107/107/s620/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs620%2Fa%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/106/65/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs644
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb

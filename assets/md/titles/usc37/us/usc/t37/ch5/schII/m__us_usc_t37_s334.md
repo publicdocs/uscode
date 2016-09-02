@@ -15,19 +15,25 @@
 
 ## § 334. Special aviation incentive pay and bonus authorities for officers
 
-    (a)  __Aviation Incentive Pay__  __.—__ 
+    (a) __Aviation Incentive Pay.—__ 
 
-    The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
+        (1)  __Incentive pay authorized__  __.—__ 
 
-        (1) is entitled to basic pay under [section 204 of this title][/us/usc/t37/s204] or compensation under [section 206 of this title][/us/usc/t37/s206];
+        The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
 
-        (2) maintains, or is in training leading to, an aeronautical rating or designation that qualifies the officer to engage in operational flying duty or proficiency flying duty;
+            (A) is entitled to basic pay under [section 204 of this title][/us/usc/t37/s204] or compensation under [section 206 of this title][/us/usc/t37/s206];
 
-        (3) engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
+            (B) maintains, or is in training leading to, an aeronautical rating or designation that qualifies the officer to engage in operational flying duty or proficiency flying duty;
 
-        (4) engages in or remains in aviation service for a specified period; and
+            (C) engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
 
-        (5) meets such other criteria as the Secretary concerned determines appropriate.
+            (D) engages in or remains in aviation service for a specified period; and
+
+            (E) meets such other criteria as the Secretary concerned determines appropriate.
+
+        (2)  __Officers not currently engaged in flying duty__  __.—__ 
+
+        The Secretary concerned may pay aviation incentive pay under this section to an officer who is otherwise qualified for such pay but who is not currently engaged in the performance of operational flying duty or proficiency flying duty if the Secretary determines, under regulations prescribed under [section 374 of this title][/us/usc/t37/s374], that payment of aviation incentive pay to that officer is in the best interests of the service.
 
     (b)  __Aviation Bonus__  __.—__ 
 
@@ -47,9 +53,21 @@
 
         The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
 
-            (A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed $850 per month; and
+            (A)
 
-            (B) an aviation bonus under subsection (b) may not exceed $25,000 for each 12-month period of obligated service agreed to under subsection (d).
+             aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
+
+                (i) $1,000 per month for officers performing qualifying flying duty relating to remotely piloted aircraft (RPA); or
+
+                (ii) $850 per month for officers performing other qualifying flying duty; and
+
+            (B)
+
+             an aviation bonus under subsection (b) may not exceed, for each 12-month period of obligated service agreed to under subsection (d)—
+
+                (i) $35,000 for officers performing qualifying flying duty relating to remotely piloted aircraft; or
+
+                (ii) $25,000 for officers performing other qualifying flying duty.
 
         (2)  __Lump sum or installments__  __.—__ 
 
@@ -79,11 +97,11 @@
 
         (1)  __Aviation incentive pay__  __.—__ 
 
-        Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353 of this title for the same skill and period of service.
+        Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353(a) of this title for the same skill and period of service.
 
         (2)  __Aviation bonus__  __.—__ 
 
-        An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 332 or 353 of this title for the same skill and period of service.
+        An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a bonus payment under such subsection and section 332 or 353(b) of this title for the same skill and period of service.
 
     (g)  __Repayment__  __.—__ 
 
@@ -93,7 +111,7 @@
 
     In this section:
 
-        (1) The term “aviation service” means service performed by an officer in a regular or reserve component (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+        (1) The term “aviation service” means service performed by an officer in a regular or reserve component while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
         (2) The term “operational flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
@@ -103,11 +121,25 @@
 
     (i)  __Termination of Authority__  __.—__ 
 
-    No agreement may be entered into under this section after December 31, 2015.
+    No agreement may be entered into under this section after December 31, 2016.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 167][/us/stat/122/167]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 618(b), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title VI, § 614(4)][/us/pl/111/84/s614/4], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(4)][/us/pl/111/383/s614/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(4)][/us/pl/112/81/s614/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(4)][/us/pl/112/239/s614/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(4)][/us/pl/113/66/s614/4], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 614(4)][/us/pl/113/291/s614/4], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400].)
+(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 167][/us/stat/122/167]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 618(b), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title VI, § 614(4)][/us/pl/111/84/s614/4], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(4)][/us/pl/111/383/s614/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(4)][/us/pl/112/81/s614/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(4)][/us/pl/112/239/s614/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(4)][/us/pl/113/66/s614/4], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 614(4)][/us/pl/113/291/s614/4], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 614(4), 617(a)–(d), Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839], 840.)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 617(a)][/us/pl/114/92/s617/a], designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), and added par. (2).
+
+    Subsec. (c)(1)(A). [Pub. L. 114–92, § 617(c)(1)][/us/pl/114/92/s617/c/1], substituted “exceed—” for “exceed $850 per month; and” and added cls. (i) and (ii).
+
+    Subsec. (c)(1)(B). [Pub. L. 114–92, § 617(c)(2)][/us/pl/114/92/s617/c/2], substituted “, for each 12-month period of obligated service agreed to under subsection (d)—” for “$25,000 for each 12-month period of obligated service agreed to under subsection (d).” and added cls. (i) and (ii).
+
+    Subsec. (f)(1). [Pub. L. 114–92, § 617(d)(1)][/us/pl/114/92/s617/d/1], substituted “353(a)” for “353”.
+
+    Subsec. (f)(2). [Pub. L. 114–92, § 617(d)(2)][/us/pl/114/92/s617/d/2], substituted “a bonus payment” for “a payment” and “353(b)” for “353”.
+
+    Subsec. (h)(1). [Pub. L. 114–92, § 617(b)][/us/pl/114/92/s617/b], struck out “(except a flight surgeon or other medical officer)” after “regular or reserve component”.
+
+    Subsec. (i). [Pub. L. 114–92, § 614(4)][/us/pl/114/92/s614/4], substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (i). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -132,6 +164,7 @@
 
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
+[/us/usc/t37/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs374
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
 [/us/usc/t10/s6911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6911
@@ -151,6 +184,15 @@
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
 [/us/pl/113/291/s614/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs614%2F4
 [/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F839
+[/us/pl/114/92/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fa
+[/us/pl/114/92/s617/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fc%2F1
+[/us/pl/114/92/s617/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fc%2F2
+[/us/pl/114/92/s617/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fd%2F1
+[/us/pl/114/92/s617/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fd%2F2
+[/us/pl/114/92/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs617%2Fb
+[/us/pl/114/92/s614/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs614%2F4
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

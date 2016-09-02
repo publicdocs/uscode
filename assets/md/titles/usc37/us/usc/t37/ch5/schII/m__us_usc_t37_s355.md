@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s354.md) | [Next](./../../../../..//us/usc/t37/ch5/schIII/m__us_usc_t37_ch5_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355)
+[Previous](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s354.md) | [Next](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s356.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355)
 
 ## § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units
 
@@ -73,11 +73,13 @@
 
     (h)  __Termination of Bonus Authority__  __.—__ 
 
-    No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2015, and no agreement under this section may be entered into after that date.
+    No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2016, and no agreement under this section may be entered into after that date.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 633(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, § 323; amended [Pub. L. 107–107, div. A, title VI, § 614(d)][/us/pl/107/107/s614/d], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 614(d), 618, Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2570; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(d), 622, title X, § 1045(b)(1), Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501], 1505, 1612; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(e), 621, title X, § 1084(e)(2), Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948], 1954, 2064; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3302, 3303, 3332; [Pub. L. 109–364, div. A, title VI, § 614(e)][/us/pl/109/364/s614/e], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; renumbered § 355 and amended [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 614(d), 622, 661(c), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 152, 178; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(h), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 614(9)][/us/pl/111/84/s614/9], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–207, § 4(a)(4)][/us/pl/111/207/s4/a/4], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251]; [Pub. L. 111–383, div. A, title VI, § 614(9)][/us/pl/111/383/s614/9], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(9)][/us/pl/112/81/s614/9], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(9)][/us/pl/112/239/s614/9], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(9)][/us/pl/113/66/s614/9], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 614(10)][/us/pl/113/291/s614/10], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
+(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 633(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, § 323; amended [Pub. L. 107–107, div. A, title VI, § 614(d)][/us/pl/107/107/s614/d], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 614(d), 618, Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2570; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(d), 622, title X, § 1045(b)(1), Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501], 1505, 1612; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(e), 621, title X, § 1084(e)(2), Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948], 1954, 2064; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3302, 3303, 3332; [Pub. L. 109–364, div. A, title VI, § 614(e)][/us/pl/109/364/s614/e], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; renumbered § 355 and amended [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 614(d), 622, 661(c), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 152, 178; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(h), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 614(9)][/us/pl/111/84/s614/9], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–207, § 4(a)(4)][/us/pl/111/207/s4/a/4], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251]; [Pub. L. 111–383, div. A, title VI, § 614(9)][/us/pl/111/383/s614/9], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(9)][/us/pl/112/81/s614/9], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(9)][/us/pl/112/239/s614/9], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(9)][/us/pl/113/66/s614/9], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 614(10)][/us/pl/113/291/s614/10], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI, § 614(10)][/us/pl/114/92/s614/10], Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839].)
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–92][/us/pl/114/92] substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (h). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -175,7 +177,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s354.md) | [Next](./../../../../..//us/usc/t37/ch5/schIII/m__us_usc_t37_ch5_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355)
+[Previous](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s354.md) | [Next](./../../../../..//us/usc/t37/ch5/schII/m__us_usc_t37_s356.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355)
 
 ----------
 ----------
@@ -215,6 +217,9 @@
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
 [/us/pl/113/291/s614/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs614%2F10
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
+[/us/pl/114/92/s614/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs614%2F10
+[/us/stat/129/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F839
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

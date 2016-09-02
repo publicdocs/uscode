@@ -65,9 +65,15 @@
 
     If a loan is issued to a member under [section 8433(g) of title 5][/us/usc/t5/s8433/g] from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under [section 1014(c) of this title][/us/usc/t37/s1014/c].
 
-(Added and amended [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 661(a)(1)(A), 662, Oct. 5, 1999, [113 Stat. 670][/us/stat/113/670], 672; [Pub. L. 109–163, div. A, title VI, § 605][/us/pl/109/163/s605], Jan. 6, 2006, [119 Stat. 3287][/us/stat/119/3287]; [Pub. L. 110–181, div. A, title VI, § 605(b)][/us/pl/110/181/s605/b], Jan. 28, 2008, [122 Stat. 146][/us/stat/122/146].)
+(Added and amended [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 661(a)(1)(A), 662, Oct. 5, 1999, [113 Stat. 670][/us/stat/113/670], 672; [Pub. L. 109–163, div. A, title VI, § 605][/us/pl/109/163/s605], Jan. 6, 2006, [119 Stat. 3287][/us/stat/119/3287]; [Pub. L. 110–181, div. A, title VI, § 605(b)][/us/pl/110/181/s605/b], Jan. 28, 2008, [122 Stat. 146][/us/stat/122/146]; [Pub. L. 114–92, div. A, title VI, § 632(e)(1)][/us/pl/114/92/s632/e/1], Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(e)(1), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by striking subsection (d) and redesignating subsection (e) as subsection (d). See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsecs. (d), (e). [Pub. L. 114–92][/us/pl/114/92] redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to agency contributions for retention in critical specialties and first-time enlistees.
 
     2008—Subsec. (e). [Pub. L. 110–181][/us/pl/110/181] added subsec. (e).
 
@@ -78,6 +84,10 @@
     Subsec. (d)(2) to (4). [Pub. L. 109–163, § 605(a)(2)][/us/pl/109/163/s605/a/2]–(4), substituted “member under paragraph (1)(A)” for “member under paragraph (1)” in first sentence of par. (2), added par. (3), designated second sentence of par. (2) as (4), and in par. (4) substituted “this subsection” for “this paragraph”.
 
     1999—Subsec. (d). [Pub. L. 106–65, § 662][/us/pl/106/65/s662], added subsec. (d).
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -148,11 +158,19 @@
 [/us/stat/119/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3287
 [/us/pl/110/181/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs605%2Fb
 [/us/stat/122/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F146
+[/us/pl/114/92/s632/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fe%2F1
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs605%2Fb
 [/us/pl/109/163/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs605%2Fa%2F1
 [/us/pl/109/163/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs605%2Fa%2F2
 [/us/pl/106/65/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs662
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs663
 [/us/usc/t5/s8440e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440e
