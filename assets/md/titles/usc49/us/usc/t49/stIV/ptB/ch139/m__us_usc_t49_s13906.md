@@ -33,209 +33,23 @@
 
         The Secretary may require a registered motor carrier to file with the Secretary a type of security sufficient to pay a shipper or consignee for damage to property of the shipper or consignee placed in the possession of the motor carrier as the result of transportation provided under this part. A carrier required by law to pay a shipper or consignee for loss, damage, or default for which a connecting motor carrier is responsible is subrogated, to the extent of the amount paid, to the rights of the shipper or consignee under any such security.
 
-    (b) __Broker Financial Security Requirements.—__ 
+    (b)  __Broker Requirements__  __.—__ 
 
-        (1) __Requirements.—__ 
+    The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
 
-            (A)  __In general__  __.—__ 
+    (c) __Freight Forwarder Requirements.—__ 
 
-            The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+        (1)  __Liability insurance__  __.—__ 
 
-            (B)  __Use of a group surety bond, trust fund, or other surety__  __.—__ 
+        The Secretary may register a person as a freight forwarder under [section 13903 of this title][/us/usc/t49/s13903] only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the freight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in paragraph (2) of this subsection), resulting from the negligent operation, maintenance, or use of motor vehicles by or under the direction and control of the freight forwarder when providing transfer, collection, or delivery service under this part.
 
-            In implementing the standards established by subparagraph (A), the Secretary may authorize the use of a group surety bond, trust fund, or other financial security, or a combination thereof, that meets the requirements of this subsection.
+        (2)  __Freight forwarder insurance__  __.—__ 
 
-            (C)  __Proof of trust or other financial security__  __.—__ 
+        The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for loss of, or damage to, property for which the freight forwarder provides service.
 
-            For purposes of subparagraph (A), a trust fund or other financial security may be acceptable to the Secretary only if the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
+        (3)  __Effective period__  __.—__ 
 
-        (2) __Scope of financial responsibility.—__ 
-
-            (A)  __Payment of claims__  __.—__ 
-
-            A surety bond, trust fund, or other financial security obtained under paragraph (1) shall be available to pay any claim against a broker arising from its failure to pay freight charges under its contracts, agreements, or arrangements for transportation subject to jurisdiction under chapter 135 if—
-
-                (i) subject to the review by the surety provider, the broker consents to the payment;
-
-                (ii) in any case in which the broker does not respond to adequate notice to address the validity of the claim, the surety provider determines that the claim is valid; or
-
-                (iii) the claim is not resolved within a reasonable period of time following a reasonable attempt by the claimant to resolve the claim under clauses (i) and (ii), and the claim is reduced to a judgment against the broker.
-
-            (B)  __Response of surety providers to claims__  __.—__ 
-
-            If a surety provider receives notice of a claim described in subparagraph (A), the surety provider shall—
-
-                (i) respond to the claim on or before the 30th day following the date on which the notice was received; and
-
-                (ii) in the case of a denial, set forth in writing for the claimant the grounds for the denial.
-
-            (C)  __Costs and attorney’s fees__  __.—__ 
-
-            In any action against a surety provider to recover on a claim described in subparagraph (A), the prevailing party shall be entitled to recover its reasonable costs and attorney’s fees.
-
-        (3)  __Minimum financial security__  __.—__ 
-
-        Each broker subject to the requirements of this section shall provide financial security of $75,000 for purposes of this subsection, regardless of the number of branch offices or sales agents of the broker.
-
-        (4)  __Cancellation notice__  __.—__ 
-
-        If a financial security required under this subsection is canceled—
-
-            (A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
-
-            (B) the Secretary shall immediately post such notification on the public Internet Website of the Department of Transportation.
-
-        (5)  __Suspension__  __.—__ 
-
-        The Secretary shall immediately suspend the registration of a broker issued under this chapter if the available financial security of that person falls below the amount required under this subsection.
-
-        (6)  __Payment of claims in cases of financial failure or insolvency__  __.—__ 
-
-        If a broker registered under this chapter experiences financial failure or insolvency, the surety provider of the broker shall—
-
-            (A) submit a notice to cancel the financial security to the Administrator in accordance with paragraph (4);
-
-            (B) publicly advertise for claims for 60 days beginning on the date of publication by the Secretary of the notice to cancel the financial security; and
-
-            (C)
-
-             pay, not later than 30 days after the expiration of the 60-day period for submission of claims—
-
-                (i) all uncontested claims received during such period; or
-
-                (ii) a pro rata share of such claims if the total amount of such claims exceeds the financial security available.
-
-        (7) __Penalties.—__ 
-
-            (A)  __Civil actions__  __.—__ 
-
-            Either the Secretary or the Attorney General of the United States may bring a civil action in an appropriate district court of the United States to enforce the requirements of this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
-
-            (B)  __Civil penalties__  __.—__ 
-
-            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be liable to the United States for a civil penalty in an amount not to exceed $10,000.
-
-            (C)  __Eligibility__  __.—__ 
-
-            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider broker financial security for 3 years.
-
-        (8)  __Deduction of costs prohibited__  __.—__ 
-
-        The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
-
-    (c) __Freight Forwarder Financial Security Requirements.—__ 
-
-        (1) __Requirements.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
-
-            (B)  __Use of a group surety bond, trust fund, or other financial security__  __.—__ 
-
-            In implementing the standards established under subparagraph (A), the Secretary may authorize the use of a group surety bond, trust fund, other financial security, or a combination of such instruments, that meets the requirements of this subsection.
-
-            (C)  __Surety bonds__  __.—__ 
-
-            A surety bond obtained under this section may only be obtained from a bonding company that has been approved by the Secretary of the Treasury.
-
-            (D)  __Proof of trust or other financial security__  __.—__ 
-
-            For purposes of subparagraph (A), a trust fund or other financial security may not be accepted by the Secretary unless the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
-
-        (2) __Scope of financial responsibility.—__ 
-
-            (A)  __Payment of claims__  __.—__ 
-
-            A surety bond, trust fund, or other financial security obtained under paragraph (1) shall be available to pay any claim against a freight forwarder arising from its failure to pay freight charges under its contracts, agreements, or arrangements for transportation subject to jurisdiction under chapter 135 if—
-
-                (i) subject to the review by the surety provider, the freight forwarder consents to the payment;
-
-                (ii) in the case the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
-
-                (iii)
-
-                 the claim—
-
-                    (I) is not resolved within a reasonable period of time following a reasonable attempt by the claimant to resolve the claim under clauses (i) and (ii); and
-
-                    (II) is reduced to a judgment against the freight forwarder.
-
-            (B)  __Response of surety providers to claims__  __.—__ 
-
-            If a surety provider receives notice of a claim described in subparagraph (A), the surety provider shall—
-
-                (i) respond to the claim on or before the 30th day following receipt of the notice; and
-
-                (ii) in the case of a denial, set forth in writing for the claimant the grounds for the denial.
-
-            (C)  __Costs and attorney’s fees__  __.—__ 
-
-            In any action against a surety provider to recover on a claim described in subparagraph (A), the prevailing party shall be entitled to recover its reasonable costs and attorney’s fees.
-
-        (3) __Freight forwarder insurance.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
-
-            (B)  __Liability insurance__  __.—__ 
-
-            A financial security filed by a freight forwarder under subparagraph (A) shall be sufficient to pay an amount, not to exceed the amount of the financial security, for each final judgment against the freight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in subparagraph (C)), resulting from the negligent operation, maintenance, or use of motor vehicles by, or under the direction and control of, the freight forwarder while providing transfer, collection, or delivery service under this part.
-
-            (C)  __Cargo insurance__  __.—__ 
-
-            The Secretary may require a registered freight forwarder to file with the Secretary a surety bond, insurance policy, or other type of financial security approved by the Secretary, that will pay an amount, not to exceed the amount of the financial security, for loss of, or damage to, property for which the freight forwarder provides service.
-
-        (4)  __Minimum financial security__  __.—__ 
-
-        Each freight forwarder subject to the requirements of this section shall provide financial security of $75,000, regardless of the number of branch offices or sales agents of the freight forwarder.
-
-        (5)  __Cancellation notice__  __.—__ 
-
-        If a financial security required under this subsection is canceled—
-
-            (A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
-
-            (B) the Secretary shall immediately post such notification on the public Internet web site of the Department of Transportation.
-
-        (6)  __Suspension__  __.—__ 
-
-        The Secretary shall immediately suspend the registration of a freight forwarder issued under this chapter if its available financial security falls below the amount required under this subsection.
-
-        (7)  __Payment of claims in cases of financial failure or insolvency__  __.—__ 
-
-        If a freight forwarder registered under this chapter experiences financial failure or insolvency, the surety provider of the freight forwarder shall—
-
-            (A) submit a notice to cancel the financial security to the Administrator in accordance with paragraph (5);
-
-            (B) publicly advertise for claims for 60 days beginning on the date of publication by the Secretary of the notice to cancel the financial security; and
-
-            (C)
-
-             pay, not later than 30 days after the expiration of the 60-day period for submission of claims—
-
-                (i) all uncontested claims received during such period; or
-
-                (ii) a pro rata share of such claims if the total amount of such claims exceeds the financial security available.
-
-        (8) __Penalties.—__ 
-
-            (A)  __Civil actions__  __.—__ 
-
-            Either the Secretary or the Attorney General may bring a civil action in an appropriate district court of the United States to enforce the requirements of this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
-
-            (B)  __Civil penalties__  __.—__ 
-
-            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be liable to the United States for a civil penalty in an amount not to exceed $10,000.
-
-            (C)  __Eligibility__  __.—__ 
-
-            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provide freight forwarder financial security for 3 years
-
-        (9)  __Deduction of costs prohibited__  __.—__ 
-
-        The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
+        The freight forwarder’s registration remains in effect only as long as the freight forwarder continues to satisfy the security requirements of this subsection.
 
     (d)  __Type of Insurance__  __.—__ 
 
@@ -251,11 +65,155 @@
 
 (Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 885][/us/stat/109/885]; amended [Pub. L. 104–287, § 5(34)][/us/pl/104/287/s5/34], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4303(b)][/us/pl/109/59/s4303/b], (d)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762], 1763; [Pub. L. 112–141, div. C, title II, § 32918(a)][/us/pl/112/141/s32918/a], July 6, 2012, [126 Stat. 822][/us/stat/126/822].)
 
+ __Amendment of Section__ 
+
+    [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32918(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 822, 826, provided that, effective 1 year after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), this section is amended by striking subsections (b) and (c) and inserting the following:
+
+    (b) Broker Financial Security Requirements.—
+
+    (1) Requirements.—
+
+    (A) In general.—The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+
+    (B) Use of a group surety bond, trust fund, or other surety.—In implementing the standards established by subparagraph (A), the Secretary may authorize the use of a group surety bond, trust fund, or other financial security, or a combination thereof, that meets the requirements of this subsection.
+
+    (C) Proof of trust or other financial security.—For purposes of subparagraph (A), a trust fund or other financial security may be acceptable to the Secretary only if the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
+
+    (2) Scope of financial responsibility.—
+
+    (A) Payment of claims.—A surety bond, trust fund, or other financial security obtained under paragraph (1) shall be available to pay any claim against a broker arising from its failure to pay freight charges under its contracts, agreements, or arrangements for transportation subject to jurisdiction under chapter 135 if—
+
+    (i) subject to the review by the surety provider, the broker consents to the payment;
+
+    (ii) in any case in which the broker does not respond to adequate notice to address the validity of the claim, the surety provider determines that the claim is valid; or
+
+    (iii) the claim is not resolved within a reasonable period of time following a reasonable attempt by the claimant to resolve the claim under clauses (i) and (ii), and the claim is reduced to a judgment against the broker.
+
+    (B) Response of surety providers to claims.—If a surety provider receives notice of a claim described in subparagraph (A), the surety provider shall—
+
+    (i) respond to the claim on or before the 30th day following the date on which the notice was received; and
+
+    (ii) in the case of a denial, set forth in writing for the claimant the grounds for the denial.
+
+    (C) Costs and attorney’s fees.—In any action against a surety provider to recover on a claim described in subparagraph (A), the prevailing party shall be entitled to recover its reasonable costs and attorney’s fees.
+
+    (3) Minimum financial security.—Each broker subject to the requirements of this section shall provide financial security of $75,000 for purposes of this subsection, regardless of the number of branch offices or sales agents of the broker.
+
+    (4) Cancellation notice.—If a financial security required under this subsection is canceled—
+
+    (A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
+
+    (B) the Secretary shall immediately post such notification on the public Internet Website of the Department of Transportation.
+
+    (5) Suspension.—The Secretary shall immediately suspend the registration of a broker issued under this chapter if the available financial security of that person falls below the amount required under this subsection.
+
+    (6) Payment of claims in cases of financial failure or insolvency.—If a broker registered under this chapter experiences financial failure or insolvency, the surety provider of the broker shall—
+
+    (A) submit a notice to cancel the financial security to the Administrator in accordance with paragraph (4);
+
+    (B) publicly advertise for claims for 60 days beginning on the date of publication by the Secretary of the notice to cancel the financial security; and
+
+    (C) pay, not later than 30 days after the expiration of the 60-day period for submission of claims—
+
+    (i) all uncontested claims received during such period; or
+
+    (ii) a pro rata share of such claims if the total amount of such claims exceeds the financial security available.
+
+    (7) Penalties.—
+
+    (A) Civil actions.—Either the Secretary or the Attorney General of the United States may bring a civil action in an appropriate district court of the United States to enforce the requirements of this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
+
+    (B) Civil penalties.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be liable to the United States for a civil penalty in an amount not to exceed $10,000.
+
+    (C) Eligibility.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider broker financial security for 3 years.
+
+    (8) Deduction of costs prohibited.—The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
+
+    (c) Freight Forwarder Financial Security Requirements.—
+
+    (1) Requirements.—
+
+    (A) In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+
+    (B) Use of a group surety bond, trust fund, or other financial security.—In implementing the standards established under subparagraph (A), the Secretary may authorize the use of a group surety bond, trust fund, other financial security, or a combination of such instruments, that meets the requirements of this subsection.
+
+    (C) Surety bonds.—A surety bond obtained under this section may only be obtained from a bonding company that has been approved by the Secretary of the Treasury.
+
+    (D) Proof of trust or other financial security.—For purposes of subparagraph (A), a trust fund or other financial security may not be accepted by the Secretary unless the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
+
+    (2) Scope of financial responsibility.—
+
+    (A) Payment of claims.—A surety bond, trust fund, or other financial security obtained under paragraph (1) shall be available to pay any claim against a freight forwarder arising from its failure to pay freight charges under its contracts, agreements, or arrangements for transportation subject to jurisdiction under chapter 135 if—
+
+    (i) subject to the review by the surety provider, the freight forwarder consents to the payment;
+
+    (ii) in the case the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
+
+    (iii) the claim—
+
+    (I) is not resolved within a reasonable period of time following a reasonable attempt by the claimant to resolve the claim under clauses (i) and (ii); and
+
+    (II) is reduced to a judgment against the freight forwarder.
+
+    (B) Response of surety providers to claims.—If a surety provider receives notice of a claim described in subparagraph (A), the surety provider shall—
+
+    (i) respond to the claim on or before the 30th day following receipt of the notice; and
+
+    (ii) in the case of a denial, set forth in writing for the claimant the grounds for the denial.
+
+    (C) Costs and attorney’s fees.—In any action against a surety provider to recover on a claim described in subparagraph (A), the prevailing party shall be entitled to recover its reasonable costs and attorney’s fees.
+
+    (3) Freight forwarder insurance.—
+
+    (A) In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
+
+    (B) Liability insurance.—A financial security filed by a freight forwarder under subparagraph (A) shall be sufficient to pay an amount, not to exceed the amount of the financial security, for each final judgment against the freight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in subparagraph (C)), resulting from the negligent operation, maintenance, or use of motor vehicles by, or under the direction and control of, the freight forwarder while providing transfer, collection, or delivery service under this part.
+
+    (C) Cargo insurance.—The Secretary may require a registered freight forwarder to file with the Secretary a surety bond, insurance policy, or other type of financial security approved by the Secretary, that will pay an amount, not to exceed the amount of the financial security, for loss of, or damage to, property for which the freight forwarder provides service.
+
+    (4) Minimum financial security.—Each freight forwarder subject to the requirements of this section shall provide financial security of $75,000, regardless of the number of branch offices or sales agents of the freight forwarder.
+
+    (5) Cancellation notice.—If a financial security required under this subsection is canceled—
+
+    (A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
+
+    (B) the Secretary shall immediately post such notification on the public Internet web site of the Department of Transportation.
+
+    (6) Suspension.—The Secretary shall immediately suspend the registration of a freight forwarder issued under this chapter if its available financial security falls below the amount required under this subsection.
+
+    (7) Payment of claims in cases of financial failure or insolvency.—If a freight forwarder registered under this chapter experiences financial failure or insolvency, the surety provider of the freight forwarder shall—
+
+    (A) submit a notice to cancel the financial security to the Administrator in accordance with paragraph (5);
+
+    (B) publicly advertise for claims for 60 days beginning on the date of publication by the Secretary of the notice to cancel the financial security; and
+
+    (C) pay, not later than 30 days after the expiration of the 60-day period for submission of claims—
+
+    (i) all uncontested claims received during such period; or
+
+    (ii) a pro rata share of such claims if the total amount of such claims exceeds the financial security available.
+
+    (8) Penalties.—
+
+    (A) Civil actions.—Either the Secretary or the Attorney General may bring a civil action in an appropriate district court of the United States to enforce the requirements of this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
+
+    (B) Civil penalties.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be liable to the United States for a civil penalty in an amount not to exceed $10,000.
+
+    (C) Eligibility.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provide freight forwarder financial security for 3 years
+
+    (9) Deduction of costs prohibited.—The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
+
+    See 2012 Amendment note below.
+
  __References in Text__ 
 
     Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by [Pub. L. 109–59, title IV, § 4303(b)(1)][/us/pl/109/59/s4303/b/1], Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762].
 
     The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in [section 10927 of this title][/us/usc/t49/s10927] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
 
  __Amendments__ 
 
@@ -302,6 +260,7 @@
 ----------
 ----------
 
+[/us/usc/t49/s13903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13903
 [/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
 [/us/stat/109/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F885
 [/us/pl/104/287/s5/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F34
@@ -310,9 +269,16 @@
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
 [/us/pl/112/141/s32918/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fa
 [/us/stat/126/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F822
+[/us/pl/112/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3
+[/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59/s4303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb%2F1
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/usc/t49/s10927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10927
+[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s4303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fd%2F1
 [/us/pl/109/59/s4303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb

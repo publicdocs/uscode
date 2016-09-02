@@ -19,15 +19,13 @@
 
     The Secretary may make a grant to a State authority (including a municipality with respect to intrastate gas pipeline transportation) to assist in improving the overall quality and effectiveness of a damage prevention program of the State authority under subsection (e) if the State authority—
 
-        (1) has in effect an annual certification under section 60105 or an agreement under section 60106;
+        (1) has in effect an annual certification under section 60105 or an agreement under section 60106; and
 
         (2)
 
             (A) has in effect an effective damage prevention program that meets the requirements of subsection (b); or
 
-            (B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b); and
-
-        (3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
+            (B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b).
 
     (b)  __Damage Prevention Program Elements__  __.—__ 
 
@@ -81,6 +79,20 @@
 
 (Added [Pub. L. 109–468, § 2(b)(2)][/us/pl/109/468/s2/b/2], Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487]; amended [Pub. L. 112–90][/us/pl/112/90], §§ 3(b), 32(d), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], 1923.)
 
+ __Amendment of Subsection (a)__ 
+
+[Pub. L. 112–90, § 3(b)][/us/pl/112/90/s3/b], (c), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], provided that, effective 2 years after Jan. 3, 2012, subsec. (a) is amended as follows:
+
+    (1) in paragraph (1) by striking “and” after the semicolon;
+
+    (2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and
+
+    (3) by adding at the end the following:
+
+    (3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
+
+    See 2012 Amendment note below.
+
  __Amendments__ 
 
     2012—Subsec. (a)(3). [Pub. L. 112–90, § 3(b)][/us/pl/112/90/s3/b], added par. (3).
@@ -101,6 +113,8 @@
 [/us/pl/109/468/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fb%2F2
 [/us/stat/120/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3487
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
+[/us/pl/112/90/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fb
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
 [/us/pl/112/90/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fb
 [/us/pl/112/90/s32/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fd

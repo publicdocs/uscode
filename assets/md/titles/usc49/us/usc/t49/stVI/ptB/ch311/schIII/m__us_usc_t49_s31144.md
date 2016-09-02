@@ -89,15 +89,9 @@
 
     (g) __Safety Reviews of New Operators.—__ 
 
-        (1) __Safety review.—__ 
+        (1)  __In general__  __.—__ 
 
-            (A)  __In general__  __.—__ 
-
-            Except as provided under subparagraph (B), the Secretary shall require, by regulation, each owner and each operator granted new registration under section 13902 or 31134 to undergo a safety review not later than 12 months after the owner or operator, as the case may be, begins operations under such registration.
-
-            (B)  __Providers of motorcoach services__  __.—__ 
-
-            The Secretary shall require, by regulation, each owner and each operator granted new registration to transport passengers under section 13902 or 31134 to undergo a safety review not later than 120 days after the owner or operator, as the case may be, begins operations under such registration.
+        The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.
 
         (2)  __Elements__  __.—__ 
 
@@ -170,6 +164,16 @@
 ([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012]; [Pub. L. 104–88, title I, § 104(g)][/us/pl/104/88/s104/g], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920]; [Pub. L. 105–178, title IV, § 4009(a)][/us/pl/105/178/s4009/a], June 9, 1998, [112 Stat. 405][/us/stat/112/405]; [Pub. L. 106–159, title II, § 210(a)][/us/pl/106/159/s210/a], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720], 1725, 1899; [Pub. L. 110–244, title III, § 301(b)][/us/pl/110/244/s301/b], (c), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(e)][/us/pl/111/147/s422/e], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(e)][/us/pl/111/322/s2202/e], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(e)][/us/pl/112/5/s202/e], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(e)][/us/pl/112/30/s122/e], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(e)][/us/pl/112/102/s202/e], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(e)][/us/pl/112/140/s202/e], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 784, 808, 813, 828, 983.)
 
  __Amendment of Subsection (g)__ 
+
+[Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32102, July 6, 2012, [126 Stat. 413][/us/stat/126/413], 778, provided that, effective 1 year after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), subsection (g)(1) of this section is amended to read as follows:
+
+    (1) Safety review.—
+
+    (A) In general.—Except as provided under subparagraph (B), the Secretary shall require, by regulation, each owner and each operator granted new registration under section 13902 or 31134 to undergo a safety review not later than 12 months after the owner or operator, as the case may be, begins operations under such registration.
+
+    (B) Providers of motorcoach services.—The Secretary shall require, by regulation, each owner and each operator granted new registration to transport passengers under section 13902 or 31134 to undergo a safety review not later than 120 days after the owner or operator, as the case may be, begins operations under such registration.
+
+    See 2012 Amendment note below.
 
     [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32921(b), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 828, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), subsection (g) of this section is amended by adding at the end the following:
 
@@ -408,6 +412,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 [/us/stat/126/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F395
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
+[/us/pl/112/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3
+[/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

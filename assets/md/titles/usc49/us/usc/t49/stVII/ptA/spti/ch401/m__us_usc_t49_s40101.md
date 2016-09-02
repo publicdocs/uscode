@@ -561,18 +561,6 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “This title \[enacting [section 47509 of this title][/us/usc/t49/s47509], amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and [section 49101 of this title][/us/usc/t49/s49101]\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
 
- __Unmanned Aircraft Joint Training and Usage Plan__ 
-
-[Pub. L. 113–66, div. A, title X, § 1075(a)][/us/pl/113/66/s1075/a], Dec. 26, 2013, [127 Stat. 870][/us/stat/127/870], provided that:
-
->     “(1)  __Methods__  __.—__ 
-
->     The Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the Federal Aviation Administration shall jointly develop and implement plans and procedures to review the potential of joint testing and evaluation of unmanned aircraft equipment and systems with other appropriate departments and agencies of the Federal Government that may serve the dual purpose of providing capabilities to the Department of Defense to meet the future requirements of combatant commanders and domestically to strengthen international border security.
-
->     “(2)  __Report__  __.—__ 
-
->     Not later than 270 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the Federal Aviation Administration shall jointly submit to Congress a report on the status of the development of the plans and procedures required under paragraph (1), including a cost-benefit analysis of the shared expenses between the Department of Defense and other appropriate departments and agencies of the Federal Government to support such plans.”
-
  __Interagency Collaboration__ 
 
 [Pub. L. 112–239, div. A, title X, § 1052(b)][/us/pl/112/239/s1052/b], (c), Jan. 2, 2013, [126 Stat. 1935][/us/stat/126/1935], 1936, provided that:
@@ -3489,8 +3477,6 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/stat/108/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1589
 [/us/usc/t49/s47509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47509
 [/us/usc/t49/s49101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49101
-[/us/pl/113/66/s1075/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1075%2Fa
-[/us/stat/127/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F870
 [/us/pl/112/239/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1052%2Fb
 [/us/stat/126/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1935
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

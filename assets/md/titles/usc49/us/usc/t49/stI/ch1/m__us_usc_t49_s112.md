@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s111.md) | [Next](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s113.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112)
 
-## § 112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation
+## § 112. Research and Innovative Technology Administration
 
     (a)  __Establishment__  __.—__ 
 
-    The Office of the Assistant Secretary for Research and Technology of the Department of Transportation shall be an administration in the Department of Transportation.
+    The Research and Innovative Technology Administration shall be an administration in the Department of Transportation.
 
     (b) __Administrator.—__ 
 
@@ -103,7 +103,7 @@
 
         [Section 6101 of title 41][/us/usc/t41/s6101] shall not apply to a contract, grant, or other agreement entered into under this section.
 
-(Added [Pub. L. 102–508, title IV, § 401(a)][/us/pl/102/508/s401/a], Oct. 24, 1992, [106 Stat. 3310][/us/stat/106/3310]; amended [Pub. L. 103–429, § 6(1)][/us/pl/103/429/s6/1], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 108–426, § 4(a)][/us/pl/108/426/s4/a], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425]; [Pub. L. 109–59, title VII, § 7301][/us/pl/109/59/s7301], Aug. 10, 2005, [119 Stat. 1914][/us/stat/119/1914]; [Pub. L. 112–141, div. E, title II, § 52012][/us/pl/112/141/s52012], July 6, 2012, [126 Stat. 896][/us/stat/126/896]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
+(Added [Pub. L. 102–508, title IV, § 401(a)][/us/pl/102/508/s401/a], Oct. 24, 1992, [106 Stat. 3310][/us/stat/106/3310]; amended [Pub. L. 103–429, § 6(1)][/us/pl/103/429/s6/1], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 108–426, § 4(a)][/us/pl/108/426/s4/a], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425]; [Pub. L. 109–59, title VII, § 7301][/us/pl/109/59/s7301], Aug. 10, 2005, [119 Stat. 1914][/us/stat/119/1914]; [Pub. L. 112–141, div. E, title II, § 52012][/us/pl/112/141/s52012], July 6, 2012, [126 Stat. 896][/us/stat/126/896].)
 
  __References in Text__ 
 
@@ -125,31 +125,23 @@
 
     1994—Subsec. (e). [Pub. L. 103–429][/us/pl/103/429] substituted “October 24, 1992” for “the date of the enactment of this section”.
 
- __Change of Name__ 
-
-    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in section catchline and subsec. (a) on authority of title I of div. L. of [Pub. L. 113–76][/us/pl/113/76], set out in part as a note below.
-
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
  __National Highway Traffic Safety Administration Programs Administered by Secretary of Transportation__ 
 
-[Pub. L. 108–426, § 4(b)][/us/pl/108/426/s4/b], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425], as amended by [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574], provided that:
+[Pub. L. 108–426, § 4(b)][/us/pl/108/426/s4/b], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
->     Nothing in this Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t49/s101]\] shall grant any authority to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration.
+>     Nothing in this Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t49/s101]\] shall grant any authority to the Research and Innovative Technology Administration over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration.
 
 >     “(2)  __Applicability__  __.—__ 
 
 >     Paragraph (1) shall not apply to the research and other programs, activities, standards, or regulations provided for in highway and traffic safety programs, administered by the Secretary through the National Highway Traffic Safety Administration, in title 23, United States Code, and chapter 303 of title 49, United States Code, as in effect on the date of enactment of this Act \[Nov. 30, 2004\].”
 
- __Transfer of Duties and Powers__ 
-
-[Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574], provided in part: 
-
-> “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary:  Provided further, That notwithstanding [section 102 of title 49][/us/usc/t49/s102] and [section 5315 of title 5][/us/usc/t5/s5315], United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office:  Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+ __Transfer of Duties and Powers of Research and Special Programs Administration__ 
 
 [Pub. L. 108–426, § 4(d)][/us/pl/108/426/s4/d], Nov. 30, 2004, [118 Stat. 2426][/us/stat/118/2426], provided that: 
 
@@ -189,8 +181,6 @@
 [/us/stat/119/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1914
 [/us/pl/112/141/s52012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52012
 [/us/stat/126/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F896
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
@@ -201,19 +191,12 @@
 [/us/pl/108/426/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fa%2F3
 [/us/pl/108/426/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fa%2F4
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/108/426/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fb
 [/us/stat/118/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2425
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
-[/us/usc/t49/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs102
-[/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/108/426/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fd
 [/us/stat/118/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2426
 [/us/pl/108/426/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fb
