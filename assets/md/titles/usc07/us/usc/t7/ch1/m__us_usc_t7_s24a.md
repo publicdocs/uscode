@@ -229,7 +229,7 @@
 
     Subsec. (c)(7)(E)(iv). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(1)(B), added cl. (iv).
 
-    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) related to confidentiality and indemnification agreement.
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
 
  __Effective Date of 2015 Amendment__ 
 

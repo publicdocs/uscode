@@ -21,11 +21,17 @@
 
     (b) __Funds collected for preclearance__ 
 
-    Funds collected for preclearance activities shall—
+    Funds collected for preclearance activities—
 
-        (1) be credited to accounts that may be established by the Secretary for carrying out this section; and
+        (1) may be collected in advance of the provision of such activities;
 
-        (2) remain available until expended for the preclearance activities, without fiscal year limitation.
+        (2) shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
+
+        (3) shall remain available until expended;
+
+        (4) shall be available for the purposes for which such appropriation, account, or fund is authorized to be used; and
+
+        (5) may be collected and shall be available only to the extent provided in appropriations Acts.
 
     (c) __Payment of employees__ 
 
@@ -61,11 +67,19 @@
 
             (B) remain available until expended, without fiscal year limitation.
 
-([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10412, May 13, 2002, [116 Stat. 503][/us/stat/116/503].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10412, May 13, 2002, [116 Stat. 503][/us/stat/116/503]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 818(b), Feb. 24, 2016, [130 Stat. 222][/us/stat/130/222].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 494][/us/stat/116/494], which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under [section 8301 of this title][/us/usc/t7/s8301] and Tables.
+
+ __Amendments__ 
+
+    2016—Subsec. (b). [Pub. L. 114–125][/us/pl/114/125] amended subsec. (b) generally. Prior to amendment, text read as follows: “Funds collected for preclearance activities shall—
+
+    “(1) be credited to accounts that may be established by the Secretary for carrying out this section; and
+
+    “(2) remain available until expended for the preclearance activities, without fiscal year limitation.”
 
  __Transfer of Functions__ 
 
@@ -81,9 +95,12 @@
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
 [/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F503
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F222
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

@@ -1421,7 +1421,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (k)(8). [Pub. L. 114–94][/us/pl/114/94], § 32205, repealed [Pub. L. 114–74][/us/pl/114/74], § 201, effective Nov. 2, 2105, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
+    2015—Subsec. (k)(8). [Pub. L. 114–94][/us/pl/114/94], § 32205, repealed [Pub. L. 114–74][/us/pl/114/74], § 201, effective Nov. 2, 2015, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
 
     Subsec. (k)(8)(A). [Pub. L. 114–74][/us/pl/114/74], § 201(1), which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
 
