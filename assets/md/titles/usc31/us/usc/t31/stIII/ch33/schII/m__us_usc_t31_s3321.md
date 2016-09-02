@@ -145,6 +145,104 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
     1994—Subsec. (c)(2). [Pub. L. 103–355][/us/pl/103/355] substituted “The Department of Defense” for “military departments of the Department of Defense”.
 
+ __Fraud Reduction and Data Analytics__ 
+
+[Pub. L. 114–186][/us/pl/114/186], June 30, 2016, [130 Stat. 546][/us/stat/130/546], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Fraud Reduction and Data Analytics Act of 2015’.
+
+> “SEC. 2. __DEFINITIONS.__ 
+
+> “In this Act—
+
+>     “(1) the term ‘agency’ has the meaning given the term in [section 551 of title 5][/us/usc/t5/s551], United States Code; and
+
+>     “(2) the term ‘improper payment’ has the meaning given the term in section 2(g) of the Improper Payments Information Act of 2002 \[[Pub. L. 107–300][/us/pl/107/300]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
+
+> “SEC. 3. __ESTABLISHMENT OF FINANCIAL AND ADMINISTRATIVE CONTROLS RELATING TO FRAUD AND IMPROPER PAYMENTS.__ 
+
+>     “(a) __Guidelines.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 90 days after the date of enactment of this Act \[June 30, 2016\], the Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, shall establish guidelines for agencies to establish financial and administrative controls to identify and assess fraud risks and design and implement control activities in order to prevent, detect, and respond to fraud, including improper payments.
+
+>         “(2)  __Contents__  __.—__ 
+
+>         The guidelines described in paragraph (1) shall incorporate the leading practices identified in the report published by the Government Accountability Office on July 28, 2015, entitled ‘Framework for Managing Fraud Risks in Federal Programs’.
+
+>         “(3)  __Modification__  __.—__ 
+
+>         The Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, may periodically modify the guidelines described in paragraph (1) as the Director and Comptroller General may determine necessary.
+
+>     “(b)  __Requirements for Controls__  __.—__ 
+
+>     The financial and administrative controls required to be established by agencies under subsection (a) shall include—
+
+>         “(1) conducting an evaluation of fraud risks and using a risk-based approach to design and implement financial and administrative control activities to mitigate identified fraud risks;
+
+>         “(2) collecting and analyzing data from reporting mechanisms on detected fraud to monitor fraud trends and using that data and information to continuously improve fraud prevention controls; and
+
+>         “(3) using the results of monitoring, evaluation, audits, and investigations to improve fraud prevention, detection, and response.
+
+>     “(c) __Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraph (2), for each of the first 3 fiscal years beginning after the date of enactment of this Act, each agency shall submit to Congress, as part of the annual financial report of the agency, a report on the progress of the agency in—
+
+>             “(A)
+
+>              implementing—
+
+>                 “(i) the financial and administrative controls required to be established under subsection (a);
+
+>                 “(ii) the fraud risk principle in the Standards for Internal Control in the Federal Government; and
+
+>                 “(iii) Office of Management and Budget Circular A–123 with respect to the leading practices for managing fraud risk;
+
+>             “(B) identifying risks and vulnerabilities to fraud, including with respect to payroll, beneficiary payments, grants, large contracts, and purchase and travel cards; and
+
+>             “(C) establishing strategies, procedures, and other steps to curb fraud.
+
+>         “(2)  __First report__  __.—__ 
+
+>         If the date of enactment of this Act is less than 180 days before the date on which an agency is required to submit the annual financial report of the agency, the agency may submit the report required under paragraph (1) as part of the following annual financial report of the agency.
+
+> “SEC. 4. __WORKING GROUP.__ 
+
+>     “(a)  __Establishment__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[June 30, 2016\], the Office of Management and Budget shall establish a working group to improve—
+
+>         “(1) the sharing of financial and administrative controls established under section 3(a) and other best practices and techniques for detecting, preventing, and responding to fraud, including improper payments; and
+
+>         “(2) the sharing and development of data analytics techniques.
+
+>     “(b)  __Composition__  __.—__ 
+
+>     The working group established under subsection (a) shall be composed of—
+
+>         “(1) the Controller of the Office of Management and Budget, who shall serve as Chairperson;
+
+>         “(2) the Chief Financial Officer of each agency; and
+
+>         “(3) any other party determined to be appropriate by the Director of the Office of Management and Budget, which may include the Chief Information Officer, the Chief Procurement Officer, or the Chief Operating Officer of each agency.
+
+>     “(c)  __Consultation__  __.—__ 
+
+>     The working group established under subsection (a) shall consult with Offices of Inspectors General and Federal and non-Federal experts on fraud risk assessments, financial controls, and other relevant matters.
+
+>     “(d)  __Meetings__  __.—__ 
+
+>     The working group established under subsection (a) shall hold not fewer than 4 meetings per year.
+
+>     “(e)  __Plan__  __.—__ 
+
+>     Not later than 270 days after the date of enactment of this Act, the working group established under subsection (a) shall submit to Congress a plan for the establishment and use of a Federal interagency library of data analytics and data sets, which can incorporate or improve upon existing Federal resources and capacities, for use by agencies and Offices of Inspectors General to facilitate the detection, prevention, and recovery of fraud, including improper payments.”
+
  __Improper Payments Elimination and Recovery Improvement__ 
 
 [Pub. L. 112–248][/us/pl/112/248], Jan. 10, 2013, [126 Stat. 2390][/us/stat/126/2390], as amended by [Pub. L. 113–67, div. A, title II][/us/pl/113/67/dA/tII], § 204(c), Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 114–109][/us/pl/114/109], §§ 2–4, Dec. 18, 2015, [129 Stat. 2225–2227][/us/stat/129/2225-2227], provided that:
@@ -224,6 +322,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/114/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F186
+[/us/stat/130/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F546
+[/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
+[/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
+[/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/pl/112/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248
 [/us/stat/126/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2390
 [/us/pl/113/67/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtII
