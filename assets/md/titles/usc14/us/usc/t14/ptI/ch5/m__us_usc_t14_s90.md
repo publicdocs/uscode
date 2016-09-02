@@ -47,7 +47,7 @@
 
     (f)  __Arctic Definition__  __.—__ 
 
-    In this section, the term “Arctic”? <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).
+    In this section, the term “Arctic”?  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).
 
 (Added [Pub. L. 113–281, title V, § 501(a)][/us/pl/113/281/s501/a], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
 
