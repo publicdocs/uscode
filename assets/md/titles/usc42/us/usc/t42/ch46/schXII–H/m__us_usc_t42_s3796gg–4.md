@@ -83,7 +83,7 @@
 
     2013—Subsec. (a)(1). [Pub. L. 113–4, § 101(4)(A)][/us/pl/113/4/s101/4/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.”
 
-    Subsec. (b)(1) to (3). [Pub. L. 113–4, § 101(4)(B)][/us/pl/113/4/s101/4/B], inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
+    Subsec. (b). [Pub. L. 113–4, § 101(4)(B)][/us/pl/113/4/s101/4/B], inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
 
     Subsec. (d). [Pub. L. 113–4, § 101(4)(C)][/us/pl/113/4/s101/4/C], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a rule of construction and a compliance period.
 

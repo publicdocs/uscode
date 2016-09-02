@@ -61,7 +61,7 @@ A prior section 1320a, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], t
 
  __Time Periods for Establishment of Uniform Reporting Systems; Consultations With Interested Parties__ 
 
-    [Pub. L. 95–142, § 19(c)(1)][/us/pl/95/142/s19/c/1], Oct. 25, 1977, [91 Stat. 1205][/us/stat/91/1205], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to establish the systems described in subsec. (a) of this section only after consultation with interested parties and for hospitals, skilled nursing facilities, and intermediate care facilities, not later than the end of the one year period beginning on Oct. 25, 1977, and for other types of health services facilities and organizations, not later than the end of the two-year period beginning on Oct. 25, 1977.
+    [Pub. L. 95–142, § 19(c)(1)][/us/pl/95/142/s19/c/1], Oct. 25, 1977, [91 Stat. 1205][/us/stat/91/1205], directed Secretary of Health, Education, and Welfare to establish the systems described in subsec. (a) of this section only after consultation with interested parties and for hospitals, skilled nursing facilities, and intermediate care facilities, not later than the end of the one year period beginning on Oct. 25, 1977, and for other types of health services facilities and organizations, not later than the end of the two-year period beginning on Oct. 25, 1977.
 
 ----------
 

@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Section 3(b) of Pub. L. 88–443][/us/pl/88/443/s3/b], as amended by [Pub. L. 91–296, title I, § 120][/us/pl/91/296/s120], June 30, 1970, [84 Stat. 343][/us/stat/84/343], provided that: 
+[Pub. L. 88–443, § 3(b)][/us/pl/88/443/s3/b], Aug. 18, 1964, [78 Stat. 461][/us/stat/78/461], as amended by [Pub. L. 91–296, title I, § 120][/us/pl/91/296/s120], June 30, 1970, [84 Stat. 343][/us/stat/84/343], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291o of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
 
@@ -72,6 +72,7 @@
 [/us/stat/68/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F461
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/pl/88/443/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fb
+[/us/stat/78/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F461
 [/us/pl/91/296/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs120
 [/us/stat/84/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F343
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291

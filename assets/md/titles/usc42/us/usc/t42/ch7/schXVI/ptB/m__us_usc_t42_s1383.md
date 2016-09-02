@@ -1625,7 +1625,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
-As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603] of the Social Security Act, which did not contain a section 1603, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1603 of the Social Security Act as it existed prior to the enactment of [Pub. L. 92–603][/us/pl/92/603] \[former [42 U.S.C. 1383][/us/usc/t42/s1383]\], and as amended, continues to apply and reads as follows:
+As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603] of the Social Security Act, which did not contain a section 1603, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1603 of the Social Security Act as it existed prior to the enactment of [Pub. L. 92–603][/us/pl/92/603] (former [42 U.S.C. 1383][/us/usc/t42/s1383]), and as amended, continues to apply and reads as follows:
 
     § 1383. Payments to States; quarterly expenditures to exceed average of total expenditures for each quarter of fiscal year ending June 30, 1965
 

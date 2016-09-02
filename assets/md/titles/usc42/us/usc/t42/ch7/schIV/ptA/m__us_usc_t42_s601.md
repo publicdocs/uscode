@@ -191,7 +191,7 @@
 
 >     “(c)  __Termination of Entitlement Under AFDC Program__  __.—__ 
 
->     Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq. or 681 et seq.\] (as in effect on September 30, 1995).”
+>     Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 681 et seq.\] (as in effect on September 30, 1995).”
 
  __Congressional Findings__ 
 

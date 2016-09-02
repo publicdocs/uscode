@@ -377,7 +377,7 @@
 
  __Amendment of Section__ 
 
-    For termination of amendment by [section 1106 of Pub. L. 113–4][/us/pl/113/4/s1106], see Termination Date of 2013 Amendment note below.
+    For termination of amendment by [section 1006 of Pub. L. 113–4][/us/pl/113/4/s1006], see Termination Date of 2013 Amendment note below.
 
  __References in Text__ 
 
@@ -663,7 +663,7 @@
 [/us/stat/126/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2409
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F127
-[/us/pl/113/4/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1106
+[/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2407
 [/us/usc/t42/s14135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135

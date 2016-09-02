@@ -143,7 +143,7 @@
 
 >     “(i)  __Treatment requirement__  __.—__ 
 
->     Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[[42 U.S.C. 425(c)(1)][/us/usc/t42/s425/c/1] to (4)\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
+>     Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[[42 U.S.C. 425(c)(1)][/us/usc/t42/s425/c/1]–(4)\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
 
 >     “(ii) __Termination after 36 months.—__ 
 

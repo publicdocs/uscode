@@ -329,7 +329,7 @@
 
  __Developmental Date for Standards, Criteria, and Procedures Pursuant to Subsec. (f) of This Section__ 
 
-    [Pub. L. 95–142, § 14(b)][/us/pl/95/142/s14/b], Oct. 15, 1977, [91 Stat. 1200][/us/stat/91/1200], directed the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[[42 U.S.C. 1395h(f)][/us/usc/t42/s1395h/f]\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
+    [Pub. L. 95–142, § 14(b)][/us/pl/95/142/s14/b], Oct. 15, 1977, [91 Stat. 1200][/us/stat/91/1200], directed the Secretary of Health, Education, and Welfare to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[[42 U.S.C. 1395h(f)][/us/usc/t42/s1395h/f]\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
 
 ----------
 

@@ -293,7 +293,7 @@
 
  __Constitutionality__ 
 
-For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of [section 339(a) of Pub. L. 89–97][/us/pl/89/97/s339/a], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
 
@@ -725,7 +725,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 
 >         “(iv) in case the benefits reduced under subsection (q) of section 202 of such Act are old-age insurance benefits (I) such old-age insurance benefits for the months in the period referred to in paragraph (2) of this subsection shall not be recomputed solely by reason of the enactment of this section, and, if otherwise recomputed, the provisions of and amendments made by this section shall not apply to such recomputation; and (II) the months for which he received such old-age insurance benefits before or during the period for which he becomes entitled, by reason of such enactment, to disability insurance benefits under such section 223 and the months for which he received such disability insurance benefits shall be excluded from the ‘reduction period’ and the ‘adjusted reduction period’, as defined in paragraphs (5) and (6), respectively, of such subsection (q) for purposes of determining the amount of the old-age insurance benefits to which he may subsequently become entitled.
 
->     “(6) The entitlement of any individual to benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] shall not be terminated solely by reason of the enactment of this section, except where such individual is entitled to benefits under section 202(a) or 223 of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a] or 423\] in an amount which (but for this subsection) would have required termination of such benefits under such section 202.”
+>     “(6) The entitlement of any individual to benefits under section 202 of the Social Security Act \[[section 402 of this title][/us/usc/t42/s402]\] shall not be terminated solely by reason of the enactment of this section, except where such individual is entitled to benefits under section 202(a) or 223 of such Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a], 423\] in an amount which (but for this subsection) would have required termination of such benefits under such section 202.”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -909,7 +909,7 @@ For constitutionality of [section 339(a) of Pub. L. 98–97][/us/pl/98/97/s339/a
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/108/203/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs414%2Fa
 [/us/stat/118/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F529
-[/us/pl/98/97/s339/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F97%2Fs339%2Fa
+[/us/pl/89/97/s339/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs339%2Fa
 [/us/pl/108/203/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs414%2Fa
 [/us/pl/108/203/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs414%2Fb
 [/us/pl/108/203/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs414%2Fc

@@ -811,7 +811,7 @@
 
  __Adjustment of Individual’s Monthly Supplemental Security Income Payments; Regulations; Limitations__ 
 
-    [Pub. L. 93–335, § 2(b)(2)][/us/pl/93/335/s2/b/2], July 8, 1974, [88 Stat. 291][/us/stat/88/291], authorized the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to prescribe regulations for the adjustment of an individual’s monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending [section 212(a)(3)(B)(i) of Pub. L. 93–66][/us/pl/93/66/s212/a/3/B/i], set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
+    [Pub. L. 93–335, § 2(b)(2)][/us/pl/93/335/s2/b/2], July 8, 1974, [88 Stat. 291][/us/stat/88/291], authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual’s monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending [section 212(a)(3)(B)(i) of Pub. L. 93–66][/us/pl/93/66/s212/a/3/B/i], set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
 
  __Medicaid Eligibility for Individuals Receiving Mandatory State Supplementary Payments; Effective Date__ 
 
@@ -1053,7 +1053,7 @@
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
-Enactment of section 1602 of the Social Security Act by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974 \[[42 U.S.C. 1381a][/us/usc/t42/s1381a]\], was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603] \[former [42 U.S.C. 1382][/us/usc/t42/s1382]\], and as amended, continues to apply and reads as follows:
+Enactment of section 1602 of the Social Security Act by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974 ([42 U.S.C. 1381a][/us/usc/t42/s1381a]), was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603] (former [42 U.S.C. 1382][/us/usc/t42/s1382]), and as amended, continues to apply and reads as follows:
 
     § 1382. State plans for aid to aged, blind, or disabled
 

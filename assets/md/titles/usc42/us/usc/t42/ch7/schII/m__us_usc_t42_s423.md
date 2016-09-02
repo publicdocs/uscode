@@ -531,7 +531,7 @@
 
 >     “(2)  __Limitation__  __.—__ 
 
->     No benefit shall be payable under title II or XVI \[of the Social Security Act, [42 U.S.C. 401][/us/usc/t42/s401] et seq. or 1381 et seq.\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act ([42 U.S.C. 423(i)][/us/usc/t42/s423/i], 1383(p)) before the effective date described in paragraph (1).”
+>     No benefit shall be payable under title II or XVI \[of the Social Security Act, [42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act ([42 U.S.C. 423(i)][/us/usc/t42/s423/i], 1383(p)) before the effective date described in paragraph (1).”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -593,7 +593,7 @@
 
 >     “(3)
 
->      In the case of a recipient of benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., or 1395 et seq.\]—
+>      In the case of a recipient of benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., 1395 et seq.\]—
 
 >         “(A) who has been determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits were provided has ceased, does not exist, or is not disabling, and
 
@@ -605,7 +605,7 @@
 
 >     “(5) No class in a class action relating to medical improvement may be certified after September 19, 1984, if the class action seeks judicial review of a decision terminating entitlement (or a period of disability) made by the Secretary of Health and Human Services prior to September 19, 1984.
 
->     “(6) For purposes of this subsection, the term ‘action relating to medical improvement’ means an action raising the issue of whether an individual who has had his entitlement to benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., or 1395 et seq.\] based on disability terminated (or period of disability ended) should not have had such entitlement terminated (or period of disability ended) without consideration of whether there has been medical improvement in the condition of such individual (or another individual on whose disability such entitlement is based) since the time of a prior determination that the individual was under a disability.”
+>     “(6) For purposes of this subsection, the term ‘action relating to medical improvement’ means an action raising the issue of whether an individual who has had his entitlement to benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., 1395 et seq.\] based on disability terminated (or period of disability ended) should not have had such entitlement terminated (or period of disability ended) without consideration of whether there has been medical improvement in the condition of such individual (or another individual on whose disability such entitlement is based) since the time of a prior determination that the individual was under a disability.”
 
 [Pub. L. 98–460, § 3(a)(3)][/us/pl/98/460/s3/a/3], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
 
@@ -767,7 +767,7 @@
 
 [Pub. L. 98–460, § 2(e)][/us/pl/98/460/s2/e], Oct. 9, 1984, [98 Stat. 1798][/us/stat/98/1798], provided that: 
 
-> “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g]or 1383(a)(7)\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
+> “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g], 1383(a)(7)\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
 
 >     “(1) shall be made at least until an initial redetermination is made by the Secretary; and
 

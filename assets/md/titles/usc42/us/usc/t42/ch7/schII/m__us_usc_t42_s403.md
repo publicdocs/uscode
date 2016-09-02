@@ -1205,7 +1205,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >      Where—
 
->         “(A) two or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1])\]) to monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for August 1954 on the basis of the wages and self-employment income of a deceased individual; and
+>         “(A) two or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]) to monthly benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for August 1954 on the basis of the wages and self-employment income of a deceased individual; and
 
 >         “(B) to total of the benefits to which all such persons are entitled on the basis of such deceased individual’s wages and self-employment income for any subsequent month would (but for the provisions of this paragraph) be reduced by reason of the application of the first sentence of section 203(a) of the Social Security Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act,
 

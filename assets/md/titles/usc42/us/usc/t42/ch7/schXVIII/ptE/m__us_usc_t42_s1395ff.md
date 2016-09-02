@@ -905,7 +905,7 @@
 
 >         “(A) in or after the month in which this Act is enacted \[Oct. 1972\], or
 
->         “(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] on such claim has not been commenced under such section 1869(b) \[[42 U.S.C. 1395ff(b)][/us/usc/t42/s1395ff/b]\] before such month.”
+>         “(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) \[[42 U.S.C. 1395ff(b)][/us/usc/t42/s1395ff/b]\] before such month.”
 
  __Transfer of Responsibility for Medicare Appeals__ 
 

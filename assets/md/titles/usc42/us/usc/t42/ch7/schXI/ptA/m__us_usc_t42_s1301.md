@@ -197,7 +197,7 @@
 
 >     “(c)  __Hold Harmless Provision__  __.—__ 
 
->     Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[[42 U.S.C. 603][/us/usc/t42/s603] and 1396b\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
+>     Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[[42 U.S.C. 603][/us/usc/t42/s603], 1396b\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
 
     \[[Pub. L. 99–509, title IX, § 9102][/us/pl/99/509/s9102], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972], provided that the amendment made by that section \[amending [section 9528(c) of Pub. L. 99–272][/us/pl/99/272/s9528/c], set out above\] is effective as provided in [section 9421(b) of Pub. L. 99–509][/us/pl/99/509/s9421/b]. See below.\]
 
@@ -367,7 +367,7 @@
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 114, [68 Stat. 1087][/us/stat/68/1087], as amended Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695], provided that: 
 
-> “As used in the provisions of the Social Security Act amended by this title \[[42 U.S.C. 402][/us/usc/t42/s402], 403, 415, and 421\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+> “As used in the provisions of the Social Security Act amended by this title \[[42 U.S.C. 402][/us/usc/t42/s402], 403, 415, 421\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
 ----------
 

@@ -37,7 +37,7 @@
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
-Enactment of section 1601 of the Social Security Act by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974 \[[42 U.S.C. 1381][/us/usc/t42/s1381]\], was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1601 of the Social Security Act as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603] \[former [42 U.S.C. 1381][/us/usc/t42/s1381]\], and as amended, continues to apply and reads as follows:
+Enactment of section 1601 of the Social Security Act by [Pub. L. 92–603][/us/pl/92/603], eff. Jan. 1, 1974 ([42 U.S.C. 1381][/us/usc/t42/s1381]), was not applicable to Puerto Rico, Guam, and the Virgin Islands. See [section 303(b) of Pub. L. 92–603][/us/pl/92/603/s303/b], set out as a note under [section 301 of this title][/us/usc/t42/s301]. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1601 of the Social Security Act as it existed prior to reenactment by [Pub. L. 92–603][/us/pl/92/603] (former [42 U.S.C. 1381][/us/usc/t42/s1381]), and as amended, continues to apply and reads as follows:
 
     § 1381. Authorization of appropriations
 

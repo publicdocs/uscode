@@ -193,7 +193,7 @@
 
 [Pub. L. 98–460, § 11(c)][/us/pl/98/460/s11/c], Oct. 9, 1984, [98 Stat. 1806][/us/stat/98/1806], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 1382d of this title][/us/usc/t42/s1382d]\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[[42 U.S.C. 425(b)][/us/usc/t42/s425/b] or 1383(a)(6)\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
+> “The amendments made by this section \[amending this section and [section 1382d of this title][/us/usc/t42/s1382d]\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[[42 U.S.C. 425(b)][/us/usc/t42/s425/b], 1383(a)(6)\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
 
     Amendment by [Pub. L. 98–369][/us/pl/98/369] effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see [section 2664(b) of Pub. L. 98–369][/us/pl/98/369/s2664/b], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
@@ -231,7 +231,7 @@
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall be effective only with respect to months beginning after the month in which this Act is enacted \[September 1960\].
 
->     “(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[[42 U.S.C. 423(a)][/us/usc/t42/s423/a] or 402(d)\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
+>     “(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[[42 U.S.C. 423(a)][/us/usc/t42/s423/a], 402(d)\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
 
 >     “(3) The amendment made by subsection (c) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who have a period of disability (as defined in section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) beginning on or after the date of the enactment of this Act \[Sept. 13, 1960\], or beginning before such date and continuing, without regard to such amendment, beyond the end of the month in which this Act is enacted.”
 

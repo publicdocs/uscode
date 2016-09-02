@@ -3025,7 +3025,7 @@
 
 [Pub. L. 105–33, title IV, § 4541(e)][/us/pl/105/33/s4541/e], Aug. 5, 1997, [111 Stat. 457][/us/stat/111/457], provided that:
 
->     “(1) The amendments made by subsections (a)(1), (a)(2), and (b) \[amending this section and sections 1395m and 1395y of this title\] apply to services furnished on or after January 1, 1998, including portions of cost reporting periods occurring on or after such date, except that section 1834(k) of the Social Security Act \[[42 U.S.C. 1395m(k)][/us/usc/t42/s1395m/k]\] (as added by subsection (a)(2)) shall not apply to services described in section 1833(a)(8)(B) of such Act \[42 U.S.C. (a)(8)(B)\] (as added by subsection (a)(1)) that are furnished during 1998.
+>     “(1) The amendments made by subsections (a)(1), (a)(2), and (b) \[amending this section and sections 1395m and 1395y of this title\] apply to services furnished on or after January 1, 1998, including portions of cost reporting periods occurring on or after such date, except that section 1834(k) of the Social Security Act \[[42 U.S.C. 1395m(k)][/us/usc/t42/s1395m/k]\] (as added by subsection (a)(2)) shall not apply to services described in section 1833(a)(8)(B) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(a)(8)(B)\] (as added by subsection (a)(1)) that are furnished during 1998.
 
 >     “(2) The amendments made by subsections (a)(3) and (c) \[amending this section and [section 1395cc of this title][/us/usc/t42/s1395cc]\] apply to services furnished on or after January 1, 1999.
 
@@ -4265,7 +4265,7 @@
 
  __Study of Feasibility and Desirability of Imposing Copayment Requirement on Rural Health Clinic Visits; Report Not Later Than__  __December 13, 1978__ 
 
-    [Pub. L. 95–210, § 1(c)][/us/pl/95/210/s1/c], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to conduct a study of the feasibility and desirability of imposing a copayment for each visit to a rural health clinic for rural health clinic services under this part and that Secretary report to appropriate committee of Congress, not later than one year after Dec. 13, 1977, on such study.
+    [Pub. L. 95–210, § 1(c)][/us/pl/95/210/s1/c], Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485], directed Secretary of Health, Education, and Welfare to conduct a study of the feasibility and desirability of imposing a copayment for each visit to a rural health clinic for rural health clinic services under this part and that Secretary report to appropriate committee of Congress, not later than one year after Dec. 13, 1977, on such study.
 
  __Prohibition Against Payments in Cases of Nonenti­tlement to Monthly Benefits Under Subchapter II or Suspension of Benefits of Aliens Outside the United States__ 
 
@@ -5548,6 +5548,7 @@
 [/us/pl/105/33/s4541/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4541%2Fe
 [/us/stat/111/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F457
 [/us/usc/t42/s1395m/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fk
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/pl/105/33/s4556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4556%2Fd
 [/us/stat/111/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F463

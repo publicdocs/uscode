@@ -151,11 +151,11 @@
 
  __Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary__ 
 
-    [Pub. L. 95–216, title III, § 311][/us/pl/95/216/s311], Dec. 20, 1977, [91 Stat. 1531][/us/stat/91/1531], as amended by 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
+    [Pub. L. 95–216, title III, § 311][/us/pl/95/216/s311], Dec. 20, 1977, [91 Stat. 1531][/us/stat/91/1531], as amended by 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783], directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
 
  __Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress__ 
 
-    [Pub. L. 95–216, title III, § 341][/us/pl/95/216/s341], Dec. 20, 1977, [91 Stat. 1548][/us/stat/91/1548], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\], in consultation with the Task Force on Sex Discrimination, to make a detailed study of proposals to eliminate dependency as a factor in the determination of entitlement to spouse’s benefits under the program established under subchapter II of this chapter and of proposals to bring about equal treatment for men and women in any and all respects under such program and submit a report to Congress within 6 months of Dec. 20, 1977.
+    [Pub. L. 95–216, title III, § 341][/us/pl/95/216/s341], Dec. 20, 1977, [91 Stat. 1548][/us/stat/91/1548], directed Secretary of Health, Education, and Welfare, in consultation with the Task Force on Sex Discrimination, to make a detailed study of proposals to eliminate dependency as a factor in the determination of entitlement to spouse’s benefits under the program established under subchapter II of this chapter and of proposals to bring about equal treatment for men and women in any and all respects under such program and submit a report to Congress within 6 months of Dec. 20, 1977.
 
 ----------
 

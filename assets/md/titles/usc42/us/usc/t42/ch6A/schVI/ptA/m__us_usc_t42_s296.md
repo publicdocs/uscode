@@ -147,7 +147,7 @@
 
  __Information Respecting Supply and Distribution of and Requirements for Nurses; Determination Procedures; Surveys and Collection of Dates; Annual Report to Congress on Determinations, Etc.; Review by Office of Management and Budget of Report Prior to Submission__ 
 
-[Pub. L. 94–63, title IX, § 951][/us/pl/94/63/s951], [89 Stat. 367][/us/stat/89/367], as amended by [Pub. L. 95–623, § 12(h)][/us/pl/95/623/s12/h], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
+[Pub. L. 94–63, title IX, § 951][/us/pl/94/63/s951], July 29, 1975, [89 Stat. 367][/us/stat/89/367], as amended by [Pub. L. 95–623, § 12(h)][/us/pl/95/623/s12/h], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
 
 >     “(a)
 

@@ -3393,7 +3393,7 @@
 
 >         “(1) the amount of such increase shall be 7 per centum,
 
->         “(2) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(e) of such Act \[[42 U.S.C. 402(e)][/us/usc/t42/s402/e]\] for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(f)\]), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act \[[42 U.S.C. 415(a)(3)][/us/usc/t42/s415/a/3]\] as amended by this section, such increase shall be determined without regard to paragraph (2)(B) of such section 202(e), and
+>         “(2) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(e) of such Act \[[42 U.S.C. 402(e)][/us/usc/t42/s402/e]\] for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(b)\]), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act \[[42 U.S.C. 415(a)(3)][/us/usc/t42/s415/a/3]\] as amended by this section, such increase shall be determined without regard to paragraph (2)(B) of such section 202(e), and
 
 >         “(3) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(f) of such Act for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act as amended by this section, such increase shall be determined without regard to paragraph (3)(B) of such section 202(f).
 

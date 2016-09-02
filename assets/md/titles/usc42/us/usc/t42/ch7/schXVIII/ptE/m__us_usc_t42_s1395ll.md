@@ -267,7 +267,7 @@
 
  __Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than__  __June 13, 1978__ 
 
-    [Pub. L. 95–210, § 4][/us/pl/95/210/s4], Dec. 13, 1977, [91 Stat. 1490][/us/stat/91/1490], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+    [Pub. L. 95–210, § 4][/us/pl/95/210/s4], Dec. 13, 1977, [91 Stat. 1490][/us/stat/91/1490], directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
  __Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress__ 
 
@@ -275,7 +275,7 @@
 
  __Report by Secretary of Health, Education, and Welfare on Delivery of Home Health and Other In-Home Services; Contents; Consultation Requirements; Submission to Congress__ 
 
-    [Pub. L. 95–142, § 18][/us/pl/95/142/s18], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], directed Secretary of Health, Education, and Welfare \[now Health and Human Services\], not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
+    [Pub. L. 95–142, § 18][/us/pl/95/142/s18], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
 
 ----------
 

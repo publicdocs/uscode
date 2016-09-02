@@ -675,7 +675,7 @@
 
  __Supplemental Report To Be Submitted to Congress Not Later Than__  __June 30, 1977__ 
 
-    [Pub. L. 95–30, title V, § 504(c)][/us/pl/95/30/s504/c], May 23, 1977, [91 Stat. 164][/us/stat/91/164], directed the Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\].
+    [Pub. L. 95–30, title V, § 504(c)][/us/pl/95/30/s504/c], May 23, 1977, [91 Stat. 164][/us/stat/91/164], directed the Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to part D of title IV of the Social Security Act ([42 U.S.C. 651][/us/usc/t42/s651] et seq.).
 
 ----------
 

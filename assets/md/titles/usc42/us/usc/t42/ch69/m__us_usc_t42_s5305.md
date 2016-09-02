@@ -125,55 +125,9 @@
 
             (C) such a shelter shall be of a size sufficient to accommodate, at a single time, all occupants of manufactured housing units located within the neighborhood in which the shelter is located; and
 
-            (D) amounts may not be used for a shelter as provided under this paragraph unless there is located, within the neighborhood in which the shelter is located (or, in the case of a shelter located in a manufactured housing park, within 1,500 feet of such park), a warning siren that is operated in accordance with such local, regional, or national disaster warning programs or systems as the Secretary, after consultation with the Administrator of the Federal Emergency Management Agency, considers appropriate to ensure adequate notice of occupants of manufactured housing located in such neighborhood or park of a tornado;
+            (D) amounts may not be used for a shelter as provided under this paragraph unless there is located, within the neighborhood in which the shelter is located (or, in the case of a shelter located in a manufactured housing park, within 1,500 feet of such park), a warning siren that is operated in accordance with such local, regional, or national disaster warning programs or systems as the Secretary, after consultation with the Administrator of the Federal Emergency Management Agency, considers appropriate to ensure adequate notice of occupants of manufactured housing located in such neighborhood or park of a tornado; and
 
-        (26) lead-based paint hazard evaluation and reduction, as defined in [section 4851b of this title][/us/usc/t42/s4851b];
-
-        (27)
-
-         supplementing existing State or local funding for administration of building code enforcement by local building code enforcement departments, including for increasing staffing, providing staff training, increasing staff competence and professional qualifications, and supporting individual certification or departmental accreditation, and for capital expenditures specifically dedicated to the administration of the building code enforcement department, except that, to be eligible to use amounts as provided in this paragraph—
-
-            (A)
-
-             a building code enforcement department shall provide matching, non-Federal funds to be used in conjunction with amounts used under this paragraph in an amount—
-
-                (i) in the case of a building code enforcement department serving an area with a population of more than 50,000, equal to not less than 50 percent of the total amount of any funds made available under this chapter that are used under this paragraph;
-
-                (ii) in the case of a building code enforcement department serving an area with a population of between 20,001 and 50,000, equal to not less than 25 percent of the total amount of any funds made available under this chapter that are used under this paragraph; and
-
-                (iii) in the case of a building code enforcement department serving an area with a population of less than 20,000, equal to not less than 12.5 percent of the total amount of any funds made available under this chapter that are used under this paragraph,
-
-                except that the Secretary may waive the matching fund requirements under this subparagraph, in whole or in part, based upon the level of economic distress of the jurisdiction in which is located the local building code enforcement department that is using amounts for purposes under this paragraph, and shall waive such matching fund requirements in whole for any recipient jurisdiction that has dedicated all building code permitting fees to the conduct of local building code enforcement; and
-
-            (B) any building code enforcement department using funds made available under this chapter for purposes under this paragraph shall empanel a code administration and enforcement team consisting of at least 1 full-time building code enforcement officer, a city planner, and a health planner or similar officer; and
-
-        (28)
-
-         provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Indian”. </sup></sup>  tribes, as such term is defined in [section 4103 of title 25][/us/usc/t25/s4103]) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
-
-            (A)
-
-             amounts used as provided under this paragraph shall be used only for activities designed to—
-
-                (i) identify owners and renters of properties in communities that participate in the national flood insurance program, including owners of residential and commercial properties;
-
-                (ii) notify such owners and renters when their properties become included in, or when they are excluded from, an area having special flood hazards and the effect of such inclusion or exclusion on the applicability of the mandatory flood insurance purchase requirement under [section 4012a of this title][/us/usc/t42/s4012a] to such properties;
-
-                (iii) educate such owners and renters regarding the flood risk and reduction of this risk in their community, including the continued flood risks to areas that are no longer subject to the flood insurance mandatory purchase requirement;
-
-                (iv) educate such owners and renters regarding the benefits and costs of maintaining or acquiring flood insurance, including, where applicable, lower-cost preferred risk policies under this chapter for such properties and the contents of such properties;
-
-                (v) encourage such owners and renters to maintain or acquire such coverage;
-
-                (vi) notify such owners of where to obtain information regarding how to obtain such coverage, including a telephone number, mailing address, and Internet site of the Administrator of the Federal Emergency Management Agency (in this paragraph referred to as the “Administrator”) where such information is available; and
-
-                (vii) educate local real estate agents in communities participating in the national flood insurance program regarding the program and the availability of coverage under the program for owners and renters of properties in such communities, and establish coordination and liaisons with such real estate agents to facilitate purchase of coverage under the National Flood Insurance Act of 1968 \[[42 U.S.C. 4001][/us/usc/t42/s4001] et seq.\] and increase awareness of flood risk reduction;
-
-            (B) in any fiscal year, a local governmental agency may not use an amount under this paragraph that exceeds 3 times the amount that the agency certifies, as the Secretary, in consultation with the Administrator, shall require, that the agency will contribute from non-Federal funds to be used with such amounts used under this paragraph only for carrying out activities described in subparagraph (A); and for purposes of this subparagraph, the term “non-Federal funds” includes State or local government agency amounts, in-kind contributions, any salary paid to staff to carry out the eligible activities of the local governmental agency involved, the value of the time and services contributed by volunteers to carry out such services (at a rate determined by the Secretary), and the value of any donated material or building and the value of any lease on a building;
-
-            (C) a local governmental agency that uses amounts as provided under this paragraph may coordinate or contract with other agencies and entities having particular capacities, specialties, or experience with respect to certain populations or constituencies, including elderly or disabled families or persons, to carry out activities described in subparagraph (A) with respect to such populations or constituencies; and
-
-            (D) each local government agency that uses amounts as provided under this paragraph shall submit a report to the Secretary and the Administrator, not later than 12 months after such amounts are first received, which shall include such information as the Secretary and the Administrator jointly consider appropriate to describe the activities conducted using such amounts and the effect of such activities on the retention or acquisition of flood insurance coverage.
+        (26) lead-based paint hazard evaluation and reduction, as defined in [section 4851b of this title][/us/usc/t42/s4851b].
 
     (b) __Reimbursement of Secretary for administrative services connected with rehabilitation of properties__ 
 
@@ -265,18 +219,6 @@
 
 ([Pub. L. 93–383, title I, § 105][/us/pl/93/383/s105], Aug. 22, 1974, [88 Stat. 641][/us/stat/88/641]; [Pub. L. 94–375, § 15(b)][/us/pl/94/375/s15/b], Aug. 3, 1976, [90 Stat. 1076][/us/stat/90/1076]; [Pub. L. 95–128, title I, § 105][/us/pl/95/128/s105], Oct. 12, 1977, [91 Stat. 1116][/us/stat/91/1116]; [Pub. L. 95–557, title I, § 103(e)][/us/pl/95/557/s103/e], Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084]; [Pub. L. 96–399, title I, § 104(c)][/us/pl/96/399/s104/c]–(e), Oct. 8, 1980, [94 Stat. 1616–1618][/us/stat/94/1616-1618]; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 303(a), 309(e)–(g), Aug. 13, 1981, [95 Stat. 387][/us/stat/95/387], 396; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 105(a), (b)(1), (c)–(e), title III, § 302(a)\], Nov. 30, 1983, [97 Stat. 1163][/us/stat/97/1163], 1164, 1206; [Pub. L. 98–479, title I, § 101(a)(8)][/us/pl/98/479/s101/a/8], (9)(A), Oct. 17, 1984, [98 Stat. 2219][/us/stat/98/2219]; [Pub. L. 100–242, title V][/us/pl/100/242], §§ 504, 510, 511, Feb. 5, 1988, [101 Stat. 1925][/us/stat/101/1925], 1929; [Pub. L. 100–404, title I][/us/pl/100/404], Aug. 19, 1988, [102 Stat. 1019][/us/stat/102/1019]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 907, 908, Nov. 28, 1990, [104 Stat. 4387][/us/stat/104/4387], 4389; [Pub. L. 102–550, title VIII][/us/pl/102/550], §§ 805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, § 1012(f), Oct. 28, 1992, [106 Stat. 3846][/us/stat/106/3846], 3847, 3849, 3850, 3905; [Pub. L. 103–195, § 2(a)][/us/pl/103/195/s2/a], Dec. 14, 1993, [107 Stat. 2297][/us/stat/107/2297]; [Pub. L. 103–233, title II, § 207][/us/pl/103/233/s207], Apr. 11, 1994, [108 Stat. 365][/us/stat/108/365]; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 225\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–291; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–204, title II, § 220][/us/pl/104/204/s220], Sept. 26, 1996, [110 Stat. 2906][/us/stat/110/2906]; [Pub. L. 105–276, title II][/us/pl/105/276], §§ 218, 232, title V, §§ 588, 596(a), Oct. 21, 1998, [112 Stat. 2487][/us/stat/112/2487], 2492, 2651, 2659; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 224\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 107–116, title VI, § 631][/us/pl/107/116/s631], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 108–146, § 2][/us/pl/108/146/s2], Dec. 3, 2003, [117 Stat. 1883][/us/stat/117/1883]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 112–141, div. F, title II, § 100243(a)][/us/pl/112/141/s100243/a], (b), July 6, 2012, [126 Stat. 963][/us/stat/126/963], 966.)
 
- __Amendment of Subsection (a)__ 
-
-    [Pub. L. 112–141, div. F, title II, § 100243(b)][/us/pl/112/141/s100243/b], July 6, 2012, [126 Stat. 966][/us/stat/126/966], provided that, effective on the date that is 2 years after July 6, 2012, subsection (a) of this section is amended as follows:
-
-    (1) in paragraph (25), by adding “and” at the end;
-
-    (2) in paragraph (26), by striking the semicolon at the end and inserting a period; and
-
-    (3) by striking paragraphs (27) and (28).
-
-    See 2012 Amendment notes below.
-
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), (c)(2), (3), and (e)(1), (3), was in the original “this title”, meaning title I of [Pub. L. 93–383][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -292,8 +234,6 @@
     [Section 681(d) of title 15][/us/usc/t15/s681/d], referred to in subsec. (a)(15), was repealed by [Pub. L. 104–208, div. D, title II, § 208(b)(3)(A)][/us/pl/104/208/s208/b/3/A], Sept. 30, 1996, [110 Stat. 3009–742][/us/stat/110/3009-742].
 
     Section 1437o of this title, referred to in subsec. (a)(18), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
-
-    The National Flood Insurance Act of 1968, referred to in subsec. (a)(28), is title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], which is classified principally to chapter 50 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
  __Codification__ 
 
@@ -585,10 +525,6 @@
 [/us/usc/t42/s1437a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F3
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
-[/us/usc/t25/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103
-[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/usc/t42/s4012a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a
-[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/pl/93/383/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs105
 [/us/stat/88/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F641
@@ -636,8 +572,6 @@
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/112/141/s100243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100243%2Fa
 [/us/stat/126/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F963
-[/us/pl/112/141/s100243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100243%2Fb
-[/us/stat/126/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F966
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
@@ -659,9 +593,6 @@
 [/us/stat/110/3009-742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-742
 [/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
-[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
-[/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
-[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/112/141/s100243/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100243%2Fa%2F3
 [/us/pl/112/141/s100243/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100243%2Fb%2F1
 [/us/pl/112/141/s100243/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100243%2Fa%2F4

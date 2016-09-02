@@ -2101,7 +2101,7 @@
 
  __Costs Charged to Personal Funds of Patients in Intermediate Care Facilities; Costs Included in Charges for Services; Regulations__ 
 
-    [Pub. L. 95–292, § 8(c)][/us/pl/95/292/s8/c], (d)(2), June 13, 1978, [92 Stat. 316][/us/stat/92/316], required the Secretary of Health, Education, and Welfare \[now Health and Human Services\] to issue regulations, within 90 days after enactment of [Pub. L. 95–292][/us/pl/95/292] but not later than July 1, 1978, defining those costs that may be charged to the personal funds of patients in intermediate care facilities who are individuals receiving medical assistance under a State plan approved under title XIX of the Social Security Act, and those costs that are to be included in the reasonable cost or reasonable charge for intermediate care facility services. See [section 1302 of this title][/us/usc/t42/s1302].
+    [Pub. L. 95–292, § 8(c)][/us/pl/95/292/s8/c], (d)(2), June 13, 1978, [92 Stat. 316][/us/stat/92/316], required the Secretary of Health, Education, and Welfare to issue regulations, within 90 days after enactment of [Pub. L. 95–292][/us/pl/95/292] but not later than July 1, 1978, defining those costs that may be charged to the personal funds of patients in intermediate care facilities who are individuals receiving medical assistance under a State plan approved under title XIX of the Social Security Act, and those costs that are to be included in the reasonable cost or reasonable charge for intermediate care facility services. See [section 1302 of this title][/us/usc/t42/s1302].
 
 ----------
 

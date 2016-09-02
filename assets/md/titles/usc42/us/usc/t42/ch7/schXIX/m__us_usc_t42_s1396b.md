@@ -2613,7 +2613,7 @@
 
 [Pub. L. 95–142, § 20(c)][/us/pl/95/142/s20/c], Oct. 25, 1977, [91 Stat. 1207][/us/stat/91/1207], as amended by [Pub. L. 95–292, § 8(e)][/us/pl/95/292/s8/e], June 13, 1978, [92 Stat. 316][/us/stat/92/316], provided that:
 
->     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396a of this title][/us/usc/t42/s1396a]\] shall be effective on October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall promptly adjust payments made to States under section 1903 of the Social Security Act \[[42 U.S.C. 1396b][/us/usc/t42/s1396b]\] to reflect the changes made by such amendments.
+>     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396a of this title][/us/usc/t42/s1396a]\] shall be effective on October 1, 1977, and the Secretary of Health, Education, and Welfare shall promptly adjust payments made to States under section 1903 of the Social Security Act \[[42 U.S.C. 1396b][/us/usc/t42/s1396b]\] to reflect the changes made by such amendments.
 
 >     “(2) The amount of any reduction in the Federal medical assistance percentage of a State, otherwise required to be imposed under section 1903(g)(1) of the Social Security Act \[[42 U.S.C. 1396b(g)(1)][/us/usc/t42/s1396b/g/1]\] because of an unsatisfactory or invalid showing made by the State with respect to a calendar quarter beginning on or after January 1, 1977, shall be determined under such section as amended by this section. Subparagraph (B) of paragraph (4) of section 1903(g) of such Act \[[42 U.S.C. 1396b(g)(4)(B)][/us/usc/t42/s1396b/g/4/B]\], as added by this section, shall apply to any showing made by a State under such section with respect to a calendar quarter beginning on or after January 1, 1977.”
 
@@ -2689,7 +2689,7 @@
 
 >         “(2)
 
->          In the case of any State whose plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] was approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under section 1902 of the Social Security Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\] prior to July 26, 1967, amendments made by subsection (a) \[amending this section\] shall apply with respect to calendar quarters beginning after June 30, 1968, except that—
+>          In the case of any State whose plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] was approved by the Secretary of Health, Education, and Welfare under section 1902 of the Social Security Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\] prior to July 26, 1967, amendments made by subsection (a) \[amending this section\] shall apply with respect to calendar quarters beginning after June 30, 1968, except that—
 
 >             “(A) with respect to the third and fourth calendar quarters of 1968, such subsection shall be applied by substituting in subsection (f) of section 1903 of the Social Security Act \[[42 U.S.C. 1396b(f)][/us/usc/t42/s1396b/f]\] 150 percent for 133½ percent each time such latter figure appears in such subsection (f), and
 
@@ -2935,7 +2935,7 @@
 
  __Promulgation of Regulations for Implementation of Amendments by__  __[__  __Section 17 of Pub. L. 95–142__  __][/us/pl/95/142/s17]__ 
 
-    [Pub. L. 95–142, § 17(e)(2)][/us/pl/95/142/s17/e/2], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], required Secretary of Health, Education, and Welfare \[now Health and Human Services\] to establish regulations, not later than 90 days after Oct. 25, 1977, to carry out amendments made by section 17 (amending sections 1395b–1 and 1396b of this title). See [section 1302 of this title][/us/usc/t42/s1302].
+    [Pub. L. 95–142, § 17(e)(2)][/us/pl/95/142/s17/e/2], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202], required Secretary of Health, Education, and Welfare to establish regulations, not later than 90 days after Oct. 25, 1977, to carry out amendments made by section 17 (amending sections 1395b–1 and 1396b of this title). See [section 1302 of this title][/us/usc/t42/s1302].
 
  __Deferral of Implementation of Decreases in Matching Funds__ 
 
@@ -2957,7 +2957,7 @@
 
 [Pub. L. 89–97, title I, § 121(b)][/us/pl/89/97/s121/b], July 30, 1965, [79 Stat. 352][/us/stat/79/352], as amended by [Pub. L. 92–603, title II, § 249D][/us/pl/92/603/s249D], Oct. 30, 1972, [86 Stat. 1429][/us/stat/86/1429], provided that: 
 
-> “No payment may be made to any State under title I, IV, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] with respect to aid or assistance in the form of medical or any other type of remedial care for any period for which such State receives payments under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], or for any period after December 31, 1969. After the date of enactment of the Social Security Amendments of 1972 \[Oct. 30, 1972\], Federal matching shall not be available for any portion of any payment by any State under title I, X, XIV, or XVI, or part A of title IV, of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq., or 601 et seq.\] for or on account of any medical or any other type of remedial care provided by an institution to any individual as an inpatient thereof, in the case of any State which has a plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], if such care is (or could be) provided under a State plan approved under title XIX of such Act by an institution certified under such title XIX.”
+> “No payment may be made to any State under title I, IV, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 601 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] with respect to aid or assistance in the form of medical or any other type of remedial care for any period for which such State receives payments under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], or for any period after December 31, 1969. After the date of enactment of the Social Security Amendments of 1972 \[Oct. 30, 1972\], Federal matching shall not be available for any portion of any payment by any State under title I, X, XIV, or XVI, or part A of title IV, of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq., 601 et seq.\] for or on account of any medical or any other type of remedial care provided by an institution to any individual as an inpatient thereof, in the case of any State which has a plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], if such care is (or could be) provided under a State plan approved under title XIX of such Act by an institution certified under such title XIX.”
 
 ----------
 

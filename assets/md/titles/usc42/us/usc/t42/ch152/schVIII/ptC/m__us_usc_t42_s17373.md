@@ -345,7 +345,7 @@
 
         (2) information relating to intelligence sources or methods protected by [section 3024(i) of title 50][/us/usc/t50/s3024/i]; or
 
-        (3) national security information classified under Executive Order 12958 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note \[now [50 U.S.C. 3161][/us/usc/t50/s3161] note\]; relating to classified national security information) (or a successor Executive Order or regulation).
+        (3) national security information classified under Executive Order 12958 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note; relating to classified national security information) (or a successor Executive Order or regulation).
 
     (l) __Regulations__ 
 
@@ -379,6 +379,8 @@
 
     Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under [section 1331 of Title 43][/us/usc/t43/s1331], Public Lands.
 
+    Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch152/schVIII/ptC/m__us_usc_t42_s17372.md) | [Next](./../../../../../..//us/usc/t42/ch152/schVIII/ptC/m__us_usc_t42_s17374.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17373)
@@ -401,7 +403,6 @@
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 [/us/usc/t50/s3024/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fi
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210

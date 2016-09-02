@@ -551,7 +551,7 @@
 
 [Pub. L. 97–35, title XXIII, § 2335(c)][/us/pl/97/35/s2335/c], Aug. 13, 1981, [95 Stat. 864][/us/stat/95/864], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 654 of this title][/us/usc/t42/s654]\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[[42 U.S.C. 654][/us/usc/t42/s654] or 503 \] before October 1, 1982.”
+> “The amendments made by this section \[amending this section and [section 654 of this title][/us/usc/t42/s654]\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[[42 U.S.C. 654][/us/usc/t42/s654], 503\] before October 1, 1982.”
 
  __Effective Date of 1980 Amendment__ 
 

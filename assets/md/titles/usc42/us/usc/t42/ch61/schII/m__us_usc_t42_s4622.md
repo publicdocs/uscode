@@ -25,7 +25,7 @@
 
         (3) actual reasonable expenses in searching for a replacement business or farm; and
 
-        (4) actual reasonable expenses necessary to reestablish a displaced farm, nonprofit organization, or small business at its new site, but not to exceed $10,000.
+        (4) actual reasonable expenses necessary to reestablish a displaced farm, nonprofit organization, or small business at its new site, but not to exceed $25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d].
 
     (b) __Displacement from dwelling; election of payments: expense and dislocation allowance__ 
 
@@ -33,7 +33,7 @@
 
     (c) __Displacement from business or farm operation; election of payments; minimum and maximum amounts; eligibility__ 
 
-        Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person’s place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $20,000. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
+        Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person’s place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
 
     (d) __Certain utility relocation expenses__ 
 
@@ -79,16 +79,6 @@
 
 ([Pub. L. 91–646, title II, § 202][/us/pl/91/646/s202], Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895]; [Pub. L. 100–17, title IV, § 405][/us/pl/100/17/s405], Apr. 2, 1987, [101 Stat. 249][/us/stat/101/249]; [Pub. L. 112–141, div. A, title I, § 1521(a)][/us/pl/112/141/s1521/a], July 6, 2012, [126 Stat. 577][/us/stat/126/577].)
 
- __Amendment of Subsections (a)(4) and (c)__ 
-
-[Pub. L. 112–141, div. A, title I, § 1521(a)][/us/pl/112/141/s1521/a], (g), July 6, 2012, [126 Stat. 577][/us/stat/126/577], 579, provided that, effective 2 years after the date of enactment of this Act, this section is amended as follows:
-
-    (1) in subsection (a)(4), by striking “$10,000” and inserting “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”; and
-
-    (2) in the second sentence of subsection (c), by striking “$20,000” and inserting “$40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”.
-
-    See 2012 Amendment notes below.
-
  __Amendments__ 
 
     2012—Subsec. (a)(4). [Pub. L. 112–141, § 1521(a)(1)][/us/pl/112/141/s1521/a/1], substituted “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$10,000”.
@@ -120,16 +110,14 @@
 ----------
 ----------
 
+[/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
+[/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
 [/us/pl/91/646/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs202
 [/us/stat/84/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1895
 [/us/pl/100/17/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405
 [/us/stat/101/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F249
 [/us/pl/112/141/s1521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa
 [/us/stat/126/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F577
-[/us/pl/112/141/s1521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa
-[/us/stat/126/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F577
-[/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
 [/us/pl/112/141/s1521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa%2F1
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
 [/us/pl/112/141/s1521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa%2F2

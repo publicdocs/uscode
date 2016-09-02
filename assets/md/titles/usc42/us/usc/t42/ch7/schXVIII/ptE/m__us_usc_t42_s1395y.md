@@ -1677,7 +1677,7 @@
 
  __Report to Congressional Committees on Implementation of Certification Requirements Relating to Modification of Health Benefits Plan or Program; Failure To Submit Report__ 
 
-    [Pub. L. 93–480, § 4(b)][/us/pl/93/480/s4/b], Oct. 26, 1974, [88 Stat. 1454][/us/stat/88/1454], provided that the Civil Service Commission and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] submit a report on or before Mar. 1, 1975, on the steps which have been taken, and the steps which are planned, to enable the Secretary to make the determination and certification referred to in former subsec. (c) of this section and that if such report is not submitted by Mar. 1, 1975, the date specified in former subsec. (c) shall be deemed to be July 1, 1975, rather than Jan. 1, 1976.
+    [Pub. L. 93–480, § 4(b)][/us/pl/93/480/s4/b], Oct. 26, 1974, [88 Stat. 1454][/us/stat/88/1454], provided that the Civil Service Commission and the Secretary of Health, Education, and Welfare submit a report on or before Mar. 1, 1975, on the steps which have been taken, and the steps which are planned, to enable the Secretary to make the determination and certification referred to in former subsec. (c) of this section and that if such report is not submitted by Mar. 1, 1975, the date specified in former subsec. (c) shall be deemed to be July 1, 1975, rather than Jan. 1, 1976.
 
 ----------
 

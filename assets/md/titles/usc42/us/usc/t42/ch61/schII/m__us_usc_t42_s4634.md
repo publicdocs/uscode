@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4634, [Pub. L. 91–646, title II, § 214][/us/pl/91/646/s214], Jan. 2, 1971, [84 Stat. 1901][/us/stat/84/1901], required head of each Federal agency to submit an annual report to the President respecting programs and policies established or authorized by this chapter, and the President to submit such reports to Congress, prior to repeal by [Pub. L. 100–17, title IV, § 415][/us/pl/100/17/s415], 418, Apr. 2, 1987, [100 Stat. 255][/us/stat/100/255], 256, effective on effective date provided in regulations promulgated under [section 4633 of this title][/us/usc/t42/s4633] (as amended by [section 412 of Pub. L. 100–17][/us/pl/100/17/s412]), but not later than 2 years after Apr. 2, 1987.
+    A prior section 4634, [Pub. L. 91–646, title II, § 214][/us/pl/91/646/s214], Jan. 2, 1971, [84 Stat. 1901][/us/stat/84/1901], required head of each Federal agency to submit an annual report to the President respecting programs and policies established or authorized by this chapter, and the President to submit such reports to Congress, prior to repeal by [Pub. L. 100–17, title IV][/us/pl/100/17], §§ 415, 418, Apr. 2, 1987, [100 Stat. 255][/us/stat/100/255], 256, effective on effective date provided in regulations promulgated under [section 4633 of this title][/us/usc/t42/s4633] (as amended by [section 412 of Pub. L. 100–17][/us/pl/100/17/s412]), but not later than 2 years after Apr. 2, 1987.
 
  __Effective Date__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/pl/91/646/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs214
 [/us/stat/84/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1901
-[/us/pl/100/17/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs415
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/stat/100/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F255
 [/us/usc/t42/s4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633
 [/us/pl/100/17/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs412

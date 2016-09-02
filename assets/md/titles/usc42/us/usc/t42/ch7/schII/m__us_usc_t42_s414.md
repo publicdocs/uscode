@@ -93,7 +93,7 @@
 
 [Pub. L. 92–603, title I, § 104(j)][/us/pl/92/603/s104/j], Oct. 30, 1972, [86 Stat. 1341][/us/stat/86/1341], provided that:
 
->     “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] (except the amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[[42 U.S.C. 409(i)][/us/usc/t42/s409/i]\], shall apply only with respect to payments after 1974.
+>     “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] (except the amendment made by subsection (i) \[amending [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code\], and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[[42 U.S.C. 409(i)][/us/usc/t42/s409/i]\]) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act, shall apply only with respect to payments after 1974.
 
 >     “(2) In the case of a man who attains age 62 prior to 1975, the number of his elapsed years for purposes of section 215(b)(3) of the Social Security Act \[[42 U.S.C. 415(b)(3)][/us/usc/t42/s415/b/3]\] shall be equal to (A) the number determined under such section as in effect on September 1, 1972, or (B) if less, the number determined as though he attained age 65 in 1975, except that monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months prior to January 1973 payable on the basis of his wages and self-employment income shall be determined as though this section had not been enacted.
 
@@ -101,7 +101,7 @@
 
 >         (A) In the case of a man who attains or will attain age 62 in 1973, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[[42 U.S.C. 414(a)(1)][/us/usc/t42/s414/a/1], 423(c)(1)(A), 416(i)(3)(A)\] shall be deemed to read ‘64’.
 
->         “(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[[42 U.S.C. 414(a)(1)][/us/usc/t42/s414/a/1], 423(c)(1)(A), 416(i)(3)(A)\] shall be deemed to read ‘63’.”
+>         “(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act shall be deemed to read ‘63’.”
 
  __Effective Date of 1961 Amendment__ 
 
@@ -282,10 +282,10 @@
 [/us/pl/92/603/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fj
 [/us/stat/86/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1341
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
+[/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t42/s409/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fi
 [/us/usc/t42/s415/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F3
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
 [/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
 [/us/pl/87/64/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs103%2Fb
 [/us/stat/75/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F137

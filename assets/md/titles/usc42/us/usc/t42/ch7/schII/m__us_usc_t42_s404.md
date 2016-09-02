@@ -157,7 +157,7 @@
 
 [Pub. L. 108–203, title II, § 210(c)][/us/pl/108/203/s210/c], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517], provided that: 
 
-> “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing [section 1320b–18 of this title][/us/usc/t42/s1320b–18]\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1001 et seq., and 1381 et seq.\] that are outstanding on or after such date.”
+> “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing [section 1320b–18 of this title][/us/usc/t42/s1320b–18]\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1001 et seq., 1381 et seq.\] that are outstanding on or after such date.”
 
  __Effective Date of 1999 Amendment__ 
 

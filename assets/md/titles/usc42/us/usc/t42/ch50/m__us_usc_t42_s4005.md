@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4004.md) | [Next](./../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_ch50_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4005)
 
-## § 4005Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014
+## § 4005. Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014
 
     For purposes of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the following definitions shall apply:
 

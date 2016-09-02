@@ -93,7 +93,7 @@
 
     Subsec. (b)(4). [Pub. L. 113–4, § 203(1)(B)][/us/pl/113/4/s203/1/B], substituted “victim service providers” for “victim service organizations”.
 
-    Subsec. (b)(5). [Pub. L. 113–4, § 203(1)(C)][/us/pl/113/4/s203/1/C], substituted “victim service providers” for “victim services organizations”.
+    Subsec. (b)(5). [Pub. L. 113–4, § 203(1)(C)][/us/pl/113/4/s203/1/C], substituted “victim service providers” for “victim services organizations” in introductory provisions.
 
     Subsec. (c)(1)(D). [Pub. L. 113–4, § 203(2)][/us/pl/113/4/s203/2], substituted “victim service provider, such as a State or tribal” for “nonprofit and nongovernmental victim services organization, such as a State”.
 

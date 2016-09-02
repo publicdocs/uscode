@@ -617,7 +617,7 @@
 
 [Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(b), [64 Stat. 512][/us/stat/64/512], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[[42 U.S.C. 414][/us/usc/t42/s414] to 416\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[[42 U.S.C. 414][/us/usc/t42/s414], 415, 416\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
 
  __Effective Date of 1948 Amendment__ 
 

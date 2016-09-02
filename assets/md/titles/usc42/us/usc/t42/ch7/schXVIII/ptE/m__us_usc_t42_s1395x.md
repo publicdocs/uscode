@@ -3675,7 +3675,7 @@
 
 >     “(2) The amendments made by subsection (b) \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] shall apply with respect to services furnished on or after the date of enactment of this Act \[Oct. 30, 1972\].
 
->     “(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[[42 U.S.C. 1395x(v)(5)][/us/usc/t42/s1395x/v/5]\].”
+>     “(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare, final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[[42 U.S.C. 1395x(v)(5)][/us/usc/t42/s1395x/v/5]\].”
 
 [Pub. L. 92–603, title II, § 252(b)][/us/pl/92/603/s252/b], Oct. 31, 1972, [86 Stat. 1446][/us/stat/86/1446], provided that: 
 
@@ -4459,7 +4459,7 @@
 
 \[[Pub. L. 95–142, § 21(c)(2)][/us/pl/95/142/s21/c/2], Oct. 25, 1977, [91 Stat. 1208][/us/stat/91/1208], provided that: 
 
-> “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”
+> “The Secretary of Health, Education, and Welfare shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”
 
 \]
 
@@ -4469,7 +4469,7 @@
 
  __Payment for Service of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After__  __June 30, 1975__  __, and Prior to__  __October 1, 1978__  __; Studies, Reports, etc.; Effective Dates__ 
 
-    [Pub. L. 93–233, § 15(a)(1)][/us/pl/93/233/s15/a/1], (b)–(d), Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], as amended by [Pub. L. 93–368, § 7][/us/pl/93/368/s7], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–368, § 1][/us/pl/94/368/s1], July 16, 1976, [90 Stat. 997][/us/stat/90/997]; [Pub. L. 95–292, § 7][/us/pl/95/292/s7], June 13, 1978, [92 Stat. 316][/us/stat/92/316], provided that for the cost accounting periods beginning after June 30, 1975, and prior to October 1, 1978, subsec. (b) of this section will be administered as if paragraph (7) of subsec. (b) read as follows: “(7) a physician where the hospital has a teaching program approved as specified in paragraph (6), if (A) the hospital elects to receive any payment due under this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for reasonable costs of such services, and (B) all physicians in such hospital agree not to bill charges for professional services rendered in such hospital to individuals covered under the insurance program established by this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]”, provided for studies with respect to methods of reimbursement for physicians’ services under subchapters XVIII and XIX of this chapter in hospitals which have a teaching program and a determination as to how and to what extent such funds are utilized, and provided that a final report be submitted to the Secretary of Health, Education, and Welfare \[now Health and Human Services\], the Committee on Finance of the Senate, and the Committee on Ways and Means of the House of Representatives not later than Mar. 1, 1976.
+    [Pub. L. 93–233, § 15(a)(1)][/us/pl/93/233/s15/a/1], (b)–(d), Dec. 31, 1973, [87 Stat. 965][/us/stat/87/965], as amended by [Pub. L. 93–368, § 7][/us/pl/93/368/s7], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–368, § 1][/us/pl/94/368/s1], July 16, 1976, [90 Stat. 997][/us/stat/90/997]; [Pub. L. 95–292, § 7][/us/pl/95/292/s7], June 13, 1978, [92 Stat. 316][/us/stat/92/316], provided that for the cost accounting periods beginning after June 30, 1975, and prior to October 1, 1978, subsec. (b) of this section will be administered as if paragraph (7) of subsec. (b) read as follows: “(7) a physician where the hospital has a teaching program approved as specified in paragraph (6), if (A) the hospital elects to receive any payment due under this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for reasonable costs of such services, and (B) all physicians in such hospital agree not to bill charges for professional services rendered in such hospital to individuals covered under the insurance program established by this title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]”, provided for studies with respect to methods of reimbursement for physicians’ services under subchapters XVIII and XIX of this chapter in hospitals which have a teaching program and a determination as to how and to what extent such funds are utilized, and provided that a final report be submitted to the Secretary of Health, Education, and Welfare, the Committee on Finance of the Senate, and the Committee on Ways and Means of the House of Representatives not later than Mar. 1, 1976.
 
  __Physical Therapy Services Requirements; Effective Date Postponement__ 
 

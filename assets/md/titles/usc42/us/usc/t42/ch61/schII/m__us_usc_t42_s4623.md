@@ -19,7 +19,7 @@
 
         (1)
 
-         In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $22,500 to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
+         In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $31,000, as adjusted by regulation, in accordance with 4633(d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title, to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than 90 days before the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
 
             (A) The amount, if any, which when added to the acquisition cost of the dwelling acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling.
 
@@ -32,10 +32,6 @@
     (b) The head of any Federal agency may, upon application by a mortgagee, insure any mortgage (including advances during construction) on a comparable replacement dwelling executed by a displaced person assisted under this section, which mortgage is eligible for insurance under any Federal law administered by such agency notwithstanding any requirements under such law relating to age, physical condition, or other personal characteristics of eligible mortgagors, and may make commitments for the insurance of such mortgage prior to the date of execution of the mortgage.
 
 ([Pub. L. 91–646, title II, § 203][/us/pl/91/646/s203], Jan. 2, 1971, [84 Stat. 1896][/us/stat/84/1896]; [Pub. L. 100–17, title IV, § 406][/us/pl/100/17/s406], Apr. 2, 1987, [101 Stat. 251][/us/stat/101/251]; [Pub. L. 112–141, div. A, title I, § 1521(b)][/us/pl/112/141/s1521/b], July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
-
- __Amendment of Subsection (a)(1)__ 
-
-    [Pub. L. 112–141, div. A, title I, § 1521(b)][/us/pl/112/141/s1521/b], (g), July 6, 2012, [126 Stat. 578][/us/stat/126/578], 579, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141], the first sentence of subsection (a)(1) of this section is amended by striking “$22,500” and inserting “$31,000, as adjusted by regulation, in accordance with 4633(d) of this title,” and by striking “one hundred and eighty days prior to” and inserting “90 days before”. See 2012 Amendment note below.
 
  __Amendments__ 
 
@@ -69,9 +65,6 @@
 [/us/stat/101/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F251
 [/us/pl/112/141/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fb
 [/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
-[/us/pl/112/141/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fb
-[/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/100/17/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406%2F1
 [/us/pl/100/17/s406/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406%2F4

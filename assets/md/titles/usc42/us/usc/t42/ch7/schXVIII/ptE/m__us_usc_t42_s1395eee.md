@@ -723,7 +723,7 @@
 
 >         “(1)  __Provider status__  __.—__ 
 
->         The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act \[[42 U.S.C. 1395ddd][/us/usc/t42/s1395ddd], 1396u–4\]—
+>         The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act \[[42 U.S.C. 1395eee][/us/usc/t42/s1395eee], 1396u–4\]—
 
 >             “(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act \[[42 U.S.C. 1395eee(a)(7)][/us/usc/t42/s1395eee/a/7], 1396u–4(a)(7)\]); and
 
@@ -910,7 +910,7 @@
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/usc/t42/s1395eee/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee%2Fe%2F1%2FB
-[/us/usc/t42/s1395ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd
+[/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/usc/t42/s1395eee/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee%2Fa%2F7
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/stat/97/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F168

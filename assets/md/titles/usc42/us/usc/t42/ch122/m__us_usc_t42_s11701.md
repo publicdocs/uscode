@@ -127,7 +127,7 @@
 
 > “This Act \[enacting this chapter and repealing [section 1621d of Title 25][/us/usc/t25/s1621d], Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
 
-    \[The note set out above is based on [section 1 of Pub.L. 100–579][/us/pl/100/579/s1] as amended generally by [Pub. L. 102–396][/us/pl/102/396]. See Codification note preceding this section.\]
+    \[The note set out above is based on [section 1 of Pub. L. 100–579][/us/pl/100/579/s1] as amended generally by [Pub. L. 102–396][/us/pl/102/396]. See Codification note preceding this section.\]
 
 ----------
 

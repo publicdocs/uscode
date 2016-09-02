@@ -257,7 +257,7 @@
 
  __Annual Report to Congress of Number of Children Placed in Foster Care Pursuant to Voluntary Placement Agreements__ 
 
-    [Pub. L. 96–272, title I, § 102(e)][/us/pl/96/272/s102/e], June 17, 1980, [94 Stat. 515][/us/stat/94/515], as amended by [Pub. L. 100–203, title IX, § 9131(a)(3)][/us/pl/100/203/s9131/a/3], Dec. 22, 1987, [101 Stat. 1330–313][/us/stat/101/1330-313], which required the Secretary of Health, Education, and Welfare \[now Health and Human Services\], to submit to Congress a full and complete annual report on the placement of children in foster care pursuant to voluntary placement agreements under this section and [section 608 of this title][/us/usc/t42/s608], terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
+    [Pub. L. 96–272, title I, § 102(e)][/us/pl/96/272/s102/e], June 17, 1980, [94 Stat. 515][/us/stat/94/515], as amended by [Pub. L. 100–203, title IX, § 9131(a)(3)][/us/pl/100/203/s9131/a/3], Dec. 22, 1987, [101 Stat. 1330–313][/us/stat/101/1330-313], which required the Secretary of Health, Education, and Welfare to submit to Congress a full and complete annual report on the placement of children in foster care pursuant to voluntary placement agreements under this section and [section 608 of this title][/us/usc/t42/s608], terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
 
 ----------
 
