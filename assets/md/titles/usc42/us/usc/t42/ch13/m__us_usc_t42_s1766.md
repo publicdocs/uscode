@@ -51,7 +51,7 @@
 
                 (ii) the organization receives compensation from amounts granted to the States under title XX of the Social Security Act ([42 U.S.C. 1397][/us/usc/t42/s1397] et seq.) (but only if the organization receives compensation under that title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less);
 
-            (C) any public or private nonprofit organization acting as a sponsoring organization for one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection (o)(2) of this section);
+            (C) any public or private nonprofit organization acting as a sponsoring organization for one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection (o)(2));
 
             (D)
 
@@ -59,15 +59,15 @@
 
                 (i) described in subparagraph (B); or
 
-                (ii) proprietary title XIX or title XX centers (as defined in subsection (o)(2) of this section);
+                (ii) proprietary title XIX or title XX centers (as defined in subsection (o)(2));
 
             (E) any public or private nonprofit organization acting as a sponsoring organization for one or more family or group day care homes; and
 
-            (F) any emergency shelter (as defined in subsection (t) of this section).
+            (F) any emergency shelter (as defined in subsection (t)).
 
         (3) __Age limit__ 
 
-            Except as provided in subsection (r) of this section, reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with disabilities).
+            Except as provided in subsection (r), reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with disabilities).
 
         (4) __Additional guidelines__ 
 
@@ -119,11 +119,11 @@
 
     (c) __Formula for computation of payments; national average payment rate__ 
 
-        (1) For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free lunches and suppers, the national average payment rate for reduced price lunches and suppers, and the national average payment rate for paid lunches and suppers shall be the same as the national average payment rates for free lunches, reduced price lunches, and paid lunches, respectively, under sections 1753 and 1759a of this title as appropriate (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
+        (1) For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free lunches and suppers, the national average payment rate for reduced price lunches and suppers, and the national average payment rate for paid lunches and suppers shall be the same as the national average payment rates for free lunches, reduced price lunches, and paid lunches, respectively, under sections 1753 and 1759a of this title as appropriate (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
 
-        (2) For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free breakfasts, the national average payment rate for reduced price breakfasts, and the national average payment rate for paid breakfasts shall be the same as the national average payment rates for free breakfasts, reduced price breakfasts, and paid breakfasts, respectively, under section 4(b) of the Child Nutrition Act of 1966 \[[42 U.S.C. 1773(b)][/us/usc/t42/s1773/b]\] (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
+        (2) For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free breakfasts, the national average payment rate for reduced price breakfasts, and the national average payment rate for paid breakfasts shall be the same as the national average payment rates for free breakfasts, reduced price breakfasts, and paid breakfasts, respectively, under section 4(b) of the Child Nutrition Act of 1966 \[[42 U.S.C. 1773(b)][/us/usc/t42/s1773/b]\] (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
 
-        (3) For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free supplements shall be 30 cents, the national average payment rate for reduced price supplements shall be one-half the rate for free supplements, and the national average payment rate for paid supplements shall be 2.75 cents (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
+        (3) For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free supplements shall be 30 cents, the national average payment rate for reduced price supplements shall be one-half the rate for free supplements, and the national average payment rate for paid supplements shall be 2.75 cents (as adjusted pursuant to [section 1759a(a) of this title][/us/usc/t42/s1759a/a]).
 
         (4) Determinations with regard to eligibility for free and reduced price meals and supplements shall be made in accordance with the income eligibility guidelines for free lunches and reduced price lunches, respectively, under [section 1758 of this title][/us/usc/t42/s1758].
 
@@ -161,7 +161,7 @@
 
                         (bb) is operating a Federal program requiring nonprofit status to participate in the program; or
 
-                        (cc) is described in subsection (a)(2)(B) of this section.
+                        (cc) is described in subsection (a)(2)(B).
 
                 (ii) __Exception for family or group day care homes__ 
 
@@ -323,7 +323,7 @@
 
                 (i) __In general__ 
 
-                    Except as provided in clause (ii), an institution or family or group day care home shall be provided a fair hearing in accordance with subsection (e)(1) of this section prior to any determination to terminate participation by the institution or family or group day care home under the program.
+                    Except as provided in clause (ii), an institution or family or group day care home shall be provided a fair hearing in accordance with subsection (e)(1) prior to any determination to terminate participation by the institution or family or group day care home under the program.
 
                 (ii) __Exception for false or fraudulent claims__ 
 
@@ -351,7 +351,7 @@
 
                     (IV) __Hearing__ 
 
-                        A State agency shall provide an institution that has been suspended from participation in the program under this clause an opportunity for a fair hearing on the suspension conducted in accordance with subsection (e)(1) of this section.
+                        A State agency shall provide an institution that has been suspended from participation in the program under this clause an opportunity for a fair hearing on the suspension conducted in accordance with subsection (e)(1).
 
             (E) __List of disqualified institutions and individuals__ 
 
@@ -413,11 +413,11 @@
 
                 (iii)  __Hearing__  __.—__ 
 
-                An institution shall be provided a fair hearing in accordance with subsection (e)(1) of this section prior to any determination to recover funds under this subparagraph.
+                An institution shall be provided a fair hearing in accordance with subsection (e)(1) prior to any determination to recover funds under this subparagraph.
 
         (2)
 
-            (A) Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c) of this section.
+            (A) Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c).
 
             (B) No reimbursement may be made to any institution under this paragraph, or to family or group day care home sponsoring organizations under paragraph (3) of this subsection, for more than two meals and one supplement per day per child, or in the case of an institution (but not in the case of a family or group day care home sponsoring organization), 2 meals and 1 supplement per day per child, for children that are maintained in a child care setting for eight or more hours per day.
 
@@ -829,11 +829,11 @@
 
                 (i) __Meals__ 
 
-                    A meal shall be reimbursed under this subsection at the rate established for free meals under subsection (c) of this section.
+                    A meal shall be reimbursed under this subsection at the rate established for free meals under subsection (c).
 
                 (ii) __Supplements__ 
 
-                    A supplement shall be reimbursed under this subsection at the rate established for a free supplement under subsection (c)(3) of this section.
+                    A supplement shall be reimbursed under this subsection at the rate established for a free supplement under subsection (c)(3).
 
             (C) __No charge__ 
 
@@ -897,11 +897,11 @@
 
         (2) __Administration__ 
 
-            Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a) of this section.
+            Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a).
 
         (3) __Licensing requirements__ 
 
-            The licensing requirements contained in subsection (a)(5) of this section shall not apply to an emergency shelter.
+            The licensing requirements contained in subsection (a)(5) shall not apply to an emergency shelter.
 
         (4) __Health and safety standards__ 
 
@@ -925,7 +925,7 @@
 
             (B) __Rate__ 
 
-                A meal or supplement eligible for reimbursement shall be reimbursed at the rate at which free meals and supplements are reimbursed under subsection (c) of this section.
+                A meal or supplement eligible for reimbursement shall be reimbursed at the rate at which free meals and supplements are reimbursed under subsection (c).
 
             (C) __No charge__ 
 
@@ -1229,7 +1229,7 @@
 
     Subsec. (a)(2)(D). [Pub. L. 104–193][/us/pl/104/193], § 708(b), added subpar. (D).
 
-    Subsec. (c)(1) to (3). [Pub. L. 104–193][/us/pl/104/193], § 708(e)(4), inserted “except as provided in subsection (f)(3) of this section,” after “For purposes of this section,”.
+    Subsec. (c)(1) to (3). [Pub. L. 104–193][/us/pl/104/193], § 708(e)(4), inserted “except as provided in subsection (f)(3),” after “For purposes of this section,”.
 
     Subsec. (d)(1). [Pub. L. 104–193][/us/pl/104/193], § 708(c), struck out “, and shall provide technical assistance, if necessary, to the institution for the purpose of completing its application” before period at end.
 

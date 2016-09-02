@@ -29,7 +29,7 @@
 
         (1) __In general__ 
 
-        Under the system described in subsection (a) of this section, each State educational agency shall—
+        Under the system described in subsection (a), each State educational agency shall—
 
             (A) require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1);  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably means subpars. (A) and (B) of par. (1) of subsec. (a). </sup></sup> 
 
@@ -61,7 +61,7 @@
 
             (B) __Additional administrative review__ 
 
-                In addition to any review required by subsection (a) of this section or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a) of this section.
+                In addition to any review required by subsection (a) or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a).
 
             (C) __Scope of review__ 
 
@@ -81,7 +81,7 @@
 
             (A) __In general__ 
 
-                Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
+                Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a), the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
 
             (B) __Amount__ 
 
@@ -187,7 +187,7 @@
 
     (d) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $10,000,000 for each of fiscal years 2011 through 2015.
+        There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) $10,000,000 for each of fiscal years 2011 through 2015.
 
     (e) __Fines for violating program requirements__ 
 

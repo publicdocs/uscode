@@ -625,7 +625,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Any communication with a household under this subsection or subsection (d) of this section shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
+            Any communication with a household under this subsection or subsection (d) shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
 
             (B)  __Electronic availability__  __.—__ 
 
@@ -843,7 +843,7 @@
 
             (C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
-            (D) documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section;
+            (D) documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A);
 
             (E) documentation has been provided to the appropriate local educational agency showing the status of the child as a migratory child (as defined in [section 6399 of title 20][/us/usc/t20/s6399]);
 

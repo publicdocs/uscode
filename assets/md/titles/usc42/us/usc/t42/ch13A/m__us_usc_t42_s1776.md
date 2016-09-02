@@ -115,7 +115,7 @@
 
         (3) __Training and technical assistance__ 
 
-            Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) of this section and section 22(b)(3) of the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1769c(b)(3)][/us/usc/t42/s1769c/b/3]\].
+            Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1769c(b)(3)][/us/usc/t42/s1769c/b/3]\].
 
     (f) __State funding requirement__ 
 
@@ -241,7 +241,7 @@
 
             (A) __In general__ 
 
-                Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) of this section and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769c][/us/usc/t42/s1769c]).
+                Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769c][/us/usc/t42/s1769c]).
 
             (B) __Exception__ 
 
@@ -259,7 +259,7 @@
 
         (1) __In general__ 
 
-            Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) of this section that describes the manner in which funds provided under this section will be used for technology and information management systems.
+            Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
 
         (2) __Requirements__ 
 

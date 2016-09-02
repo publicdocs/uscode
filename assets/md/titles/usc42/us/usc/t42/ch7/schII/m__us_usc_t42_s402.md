@@ -2575,7 +2575,7 @@
 
     Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary of Veterans Affairs pursuant to [section 10 of Pub. L. 100–527][/us/pl/100/527/s10], set out as a Department of Veterans Affairs Act note under [section 301 of Title 38][/us/usc/t38/s301], Veterans’ Benefits.
 
- __Effective date of 2015 Amendment__ 
+ __Effective Date of 2015 Amendment__ 
 
 [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 831(a)(3), Nov. 2, 2015, [129 Stat. 612][/us/stat/129/612], provided that: 
 

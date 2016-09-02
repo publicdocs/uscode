@@ -67,7 +67,7 @@
 
     (c) __Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families__ 
 
-        Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
+        Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d). Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
 
     (d) __Severe need assistance__ 
 
@@ -81,7 +81,7 @@
 
         (2) __Additional assistance__ 
 
-            A school, on the submission of appropriate documentation about the need circumstances in that school and the eligibility of the school for additional assistance, shall be entitled to receive the meal reimbursement rate specified in subsection (b)(2) of this section.
+            A school, on the submission of appropriate documentation about the need circumstances in that school and the eligibility of the school for additional assistance, shall be entitled to receive the meal reimbursement rate specified in subsection (b)(2).
 
     (e) __Nutritional requirements; service free or at reduced price; compliance assistance__ 
 

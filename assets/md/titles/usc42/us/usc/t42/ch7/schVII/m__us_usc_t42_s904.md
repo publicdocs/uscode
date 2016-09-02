@@ -63,7 +63,7 @@
 
                 (iv) medical continuing disability reviews conducted pursuant to 1382c(a)(3)(H)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title;
 
-                (v) redeterminations conducted pursuant to section 1382(c); and
+                (v) redeterminations conducted pursuant to [section 1382(c) of this title][/us/usc/t42/s1382/c]; and
 
                 (vi) work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
 
@@ -181,6 +181,7 @@
 [/us/usc/t2/s901/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fb%2F2%2FB
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
+[/us/usc/t42/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fc
 [/us/usc/t42/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs902
 [/us/usc/t5/s3132/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F7
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

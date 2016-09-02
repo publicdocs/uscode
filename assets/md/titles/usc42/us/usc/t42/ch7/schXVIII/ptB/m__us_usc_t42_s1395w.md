@@ -145,6 +145,10 @@
 
     [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 203(e), Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377], provided that the amendment made by that section is effective with respect to enrollee premiums payable for months after June 1973.
 
+ __Construction of 2015 Amendment; Conditional Application to 2017__ 
+
+    For provisions relating to construction and application of amendment by [Pub. L. 114–74][/us/pl/114/74], see section 601(d), (e) of [Pub. L. 114–74][/us/pl/114/74], set out as notes under [section 1395r of this title][/us/usc/t42/s1395r].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395v.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395w–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w)
@@ -247,5 +251,8 @@
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 [/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1377
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
 
 

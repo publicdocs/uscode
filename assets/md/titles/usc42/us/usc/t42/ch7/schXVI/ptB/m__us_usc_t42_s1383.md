@@ -835,7 +835,7 @@
 
 [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 824(b)(2), (c)(2), (e), Nov. 2, 2015, [129 Stat. 609][/us/stat/129/609], 610, provided that, effective one year after Nov. 2, 2015, subsection (e) of this section is amended:
 
-    (1) In paragraph (1)(B) by adding at the end of the following:
+    (1) In paragraph (1)(B), by adding at the end the following:
 
     “(iii)(I) The Commissioner of Social Security may require each applicant for, or recipient of, benefits under this subchapter to provide authorization by the applicant, recipient or legal guardian (or by any other person whose income or resources are material to the determination of the eligibility of the applicant or recipient for such benefits) for the Commissioner to obtain from any payroll data provider (as defined in [section 1320e–3(c)(1) of this title][/us/usc/t42/s1320e–3/c/1]) any record held by the payroll data provider with respect to the applicant or recipient (or any such other person) whenever the Commissioner determines the record is needed in connection with a determination of initial or ongoing eligibility or the amount of such benefits.
 
@@ -855,13 +855,13 @@
 
     “(V) If an applicant for, or recipient of, benefits under this subchapter (or any such other person referred to in subclause (I)) refuses to provide, or revokes, any authorization required by subclause (I), paragraph (2)(B) and paragraph (10) shall not apply to such applicant or recipient beginning with the first day of the first month in which he or she refuses or revokes such authorization.”;
 
-    (2) in paragraph (2)—
+    (2) in paragraph (2):
 
     (A) by striking “In the case of the failure” and inserting “(A) In the case of the failure”;
 
     (B) by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively; and
 
-    (C) by adding at the end of paragraph (2) the following:
+    (C) by adding at the end the following:
 
     “(B) For purposes of subparagraph (A), the Commissioner of Social Security shall find that good cause exists for the failure of, or delay by, an individual in submitting a report of an event or change in circumstances relevant to eligibility for or amount of benefits under this subchapter in any case where—
 
@@ -903,11 +903,13 @@
 
     Subsec. (e)(1)(B)(iii). [Pub. L. 114–74][/us/pl/114/74], § 824(b)(2), added cl. (iii).
 
-    Subsec. (e)(2)(A). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(ii), redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A).
+    Subsec. (e)(2)(A). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(ii), redesignated subpars. (A) to (C) of par. (2) as cls. (i) to (iii), respectively, of subpar. (A).
 
-    [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(i), which directed substituting “(A) In the case of the failure” for “In the case of the failure”, was executed by making the substitution for “In case of the failure” to reflect the probable intent of Congress.
+    [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(i), which directed substitution of “(A) In the case of the failure” for “In the case of the failure”, was executed by making the substitution for “In case of the failure” to reflect the probable intent of Congress.
 
-    Subsec. (e)(2)(B). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(iii), added subpar. (B).
+    Subsec. (e)(2)(B). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(iii), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+
+    Subsec. (e)(2)(C). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(ii), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
     Subsec. (e)(10). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(B), added par. (10).
 
@@ -1307,9 +1309,9 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by section 824 [Pub. L. 114–74][/us/pl/114/74] effective one year after Nov. 2, 2015, see [section 824(e) of Pub. L. 114–74][/us/pl/114/74/s824/e], set out as a note under [section 425 of this title][/us/usc/t42/s425].
+    Amendment by section 824(b)(2), (c)(2) of [Pub. L. 114–74][/us/pl/114/74] effective one year after Nov. 2, 2015, see [section 824(e) of Pub. L. 114–74][/us/pl/114/74/s824/e], set out as a note under [section 425 of this title][/us/usc/t42/s425].
 
-    Amendment by [section 834 of Pub. L. 114–74][/us/pl/114/74/s834] applicable with respect to determinations made on or after the date that is 3 months after Nov. 2, 2015, see [section 834(c) of Pub. L. 114–74][/us/pl/114/74/s834/c], set out as a note under [section 404 of this title][/us/usc/t42/s404].
+    Amendment by [section 834(b) of Pub. L. 114–74][/us/pl/114/74/s834/b] applicable with respect to determinations made on or after the date that is 3 months after Nov. 2, 2015, see [section 834(c) of Pub. L. 114–74][/us/pl/114/74/s834/c], set out as a note under [section 404 of this title][/us/usc/t42/s404].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -1973,6 +1975,7 @@ As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603/tXVI] of the Social Se
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/111/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142
 [/us/pl/111/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115
@@ -2214,7 +2217,7 @@ As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603/tXVI] of the Social Se
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fe
 [/us/usc/t42/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425
-[/us/pl/114/74/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834
+[/us/pl/114/74/s834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fb
 [/us/pl/114/74/s834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fc
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404
 [/us/pl/111/142/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142%2Fs3%2Fb%2F1

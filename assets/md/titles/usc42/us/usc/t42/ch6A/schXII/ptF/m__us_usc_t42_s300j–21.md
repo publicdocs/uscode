@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2015—Pars. (3)(A), (6). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+    2015—Pars. (3)(A), (6). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to references in original act which appear in text as references to [section 7801 of title 20][/us/usc/t20/s7801].
 
     2002—Pars. (3)(A), (6). [Pub. L. 107–110][/us/pl/107/110] substituted “[section 7801 of title 20][/us/usc/t20/s7801]” for “[section 8801 of title 20][/us/usc/t20/s8801]”.
 

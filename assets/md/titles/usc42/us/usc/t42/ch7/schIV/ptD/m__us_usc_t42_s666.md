@@ -577,7 +577,7 @@
 
     (f) __Uniform Interstate Family Support Act__ 
 
-        In order to satisfy [section 654(20)(A) of this title][/us/usc/t42/s654/20/A], on and after January 1, 1998, each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.
+        In order to satisfy [section 654(20)(A) of this title][/us/usc/t42/s654/20/A], each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, including any amendments officially adopted as of September 30, 2008 by the National Conference of Commissioners on Uniform State Laws.
 
     (g) __Laws voiding fraudulent transfers__ 
 
@@ -600,18 +600,6 @@
             (B) obtain a settlement in the best interests of the child support creditor.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 466, as added [Pub. L. 98–378][/us/pl/98/378], § 3(b), Aug. 16, 1984, [98 Stat. 1306][/us/stat/98/1306]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9103(a), Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973]; [Pub. L. 100–485, title I][/us/pl/100/485/tI], §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346][/us/stat/102/2344-2346], 2349, 2350; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8105(4), Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13721(b), Aug. 10, 1993, [107 Stat. 659][/us/stat/107/659]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 212(a), Oct. 31, 1994, [108 Stat. 4460][/us/stat/108/4460]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(c)(14), (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 633, 634, 637; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661][/us/stat/112/661], 671; [Pub. L. 106–169, title IV][/us/pl/106/169/tIV], § 401(f), (m), (n), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858], 1859; [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(1), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
-
- __Amendment of Subsection (f)__ 
-
-    [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(1), (3)(A), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective with respect to the grace periods provided to States (see Effective Date of 2014 Amendment note below), subsection (f) of this section is amended as follows:
-
-    (1) by striking “on and after January 1, 1998,”;
-
-    (2) by striking “and as in effect on August 22, 1996,”; and
-
-    (3) by striking “adopted as of such date” and inserting “adopted as of September 30, 2008”.
-
-    See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -959,8 +947,6 @@
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
 [/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F145
-[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
-[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
 [/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200

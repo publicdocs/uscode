@@ -391,7 +391,7 @@
 
     Subsec. (i)(3)(A)(i). [Pub. L. 114–10][/us/pl/114/10], § 402(b)(2), inserted “applicable” before “table”.
 
-    Subsec. (i)(3)(A)(ii). [Pub. L. 114–74][/us/pl/114/74], § 601(c), designated existing provisions as subcl. (I) and substituted “; plus” for period and added subcl. (II).
+    Subsec. (i)(3)(A)(ii). [Pub. L. 114–74][/us/pl/114/74], § 601(c), designated existing provisions as subcl. (I), substituted “year); plus” for “year).”, and added subcl. (II).
 
     Subsec. (i)(3)(C)(i). [Pub. L. 114–10][/us/pl/114/10], § 402(a), designated existing provisions as subcl. (I) and inserted introductory provisions and added subcl. (II).
 
@@ -725,7 +725,9 @@
 
 >     “(2) the reference to ‘a month during a year, beginning with 2016’ in paragraph (6)(B) of section 1839 of such Act ([42 U.S.C. 1395r(a)][/us/usc/t42/s1395r/a]), as added by subsection (a)(2), was a reference to ‘a month in a year, beginning with 2016 and beginning with 2017, respectively’; and
 
->     “(3) the reference to ‘2016’ in subsection (d)(1) of section 1844 of such Act ([42 U.S.C. 1395w][/us/usc/t42/s1395w]), as added by subsection (b)(2), was a reference to ‘each of 2016 and 2017’    “Any increase in premiums effected under this subsection shall be in addition to the increase effected by the amendments made by subsection (a) \[amending this section\].”
+>     “(3) the reference to ‘2016’ in subsection (d)(1) of section 1844 of such Act ([42 U.S.C. 1395w][/us/usc/t42/s1395w]), as added by subsection (b)(2), was a reference to ‘each of 2016 and 2017’
+
+>     Any increase in premiums effected under this subsection shall be in addition to the increase effected by the amendments made by subsection (a) \[amending this section\].”
 
  __No Change in Medicare’s Defined Benefit Package__ 
 

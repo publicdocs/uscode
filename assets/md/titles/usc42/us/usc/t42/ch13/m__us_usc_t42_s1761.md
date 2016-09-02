@@ -361,7 +361,7 @@
 
             (C)  __Seamless summer reimbursements__  __.—__ 
 
-            A service institution described in subsection (a)(8) of this section shall be reimbursed for meals and meal supplements in accordance with the applicable provisions under this chapter (other than subparagraphs (A) and (B) of this paragraph and paragraph (4)) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), as determined by the Secretary.
+            A service institution described in subsection (a)(8) shall be reimbursed for meals and meal supplements in accordance with the applicable provisions under this chapter (other than subparagraphs (A) and (B) of this paragraph and paragraph (4)) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), as determined by the Secretary.
 
         (2) Any service institution may only serve lunch and either breakfast or a meal supplement during each day of operation, except that any service institution that is a camp or that serves meals primarily to migrant children may serve up to 3 meals, or 2 meals and 1 supplement, during each day of operation, if (A) the service institution has the administrative capability and the food preparation and food holding capabilities (where applicable) to serve more than one meal per day, and (B) the service period of different meals does not coincide or overlap.
 

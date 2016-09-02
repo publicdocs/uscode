@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        The Secretary, from amounts received under subsection (d) of this section, shall establish a breastfeeding promotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
+        The Secretary, from amounts received under subsection (d), shall establish a breastfeeding promotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
 
     (b) __Conduct of program__ 
 
-    In carrying out the program described in subsection (a) of this section, the Secretary may—
+    In carrying out the program described in subsection (a), the Secretary may—
 
         (1) develop or assist others to develop appropriate educational materials, including public service announcements, promotional publications, and press kits for the purpose of promoting breastfeeding;
 
@@ -31,13 +31,13 @@
 
     (c) __Cooperative agreements__ 
 
-        The Secretary is authorized to enter into cooperative agreements with Federal agencies, State and local governments, and other entities to carry out the program described in subsection (a) of this section.
+        The Secretary is authorized to enter into cooperative agreements with Federal agencies, State and local governments, and other entities to carry out the program described in subsection (a).
 
     (d) __Gifts, bequests, and devises__ 
 
         (1) __In general__ 
 
-            The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing and carrying out the program described in subsection (a) of this section. Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
+            The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing and carrying out the program described in subsection (a). Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
 
         (2) __Criteria for acceptance__ 
 

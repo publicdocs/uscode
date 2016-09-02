@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-    Section effective one year after Nov. 2, 2015, see [section 824(e) of Pub. L. 114–74][/us/pl/114/74/s824/e], set out as an Effective Date of 2015 note under [section 425 of this title][/us/usc/t42/s425].
+    Section effective one year after Nov. 2, 2015, see [section 824(e) of Pub. L. 114–74][/us/pl/114/74/s824/e], set out as an Effective Date of 2015 Amendment note under [section 425 of this title][/us/usc/t42/s425].
 
  __Regulations__ 
 

@@ -127,7 +127,7 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (i), (j). [Pub. L. 114–74][/us/pl/114/74] redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of [section 425(c) of this title][/us/usc/t42/s425/c] shall be treated as entitled to such benefit for such month.”
+    2015—Subsecs. (i), (j). [Pub. L. 114–74][/us/pl/114/74] redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of [section 425(c) of this title][/us/usc/t42/s425/c] shall be treated as entitled to such benefit for such month.”
 
     2004—Subsec. (e)(1)(A)(i). [Pub. L. 108–203][/us/pl/108/203] substituted “402(f)(4)” for “402(f)(5)”.
 

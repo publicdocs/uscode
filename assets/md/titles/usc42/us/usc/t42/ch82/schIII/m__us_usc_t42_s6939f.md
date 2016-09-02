@@ -23,23 +23,41 @@
 
         (2) __Operation of facility__ 
 
-            Not later than January 1, 2013, the facility designated in paragraph (1) shall be operational and shall accept custody, for the purpose of long-term management and storage, of elemental mercury generated within the United States and delivered to such facility.
+            Not later than January 1, 2019, the facility designated in paragraph (1) shall be operational and shall accept custody, for the purpose of long-term management and storage, of elemental mercury generated within the United States and delivered to such facility.
 
     (b) __Fees__ 
 
         (1) __In general__ 
 
-        After consultation with persons who are likely to deliver elemental mercury to a designated facility for long-term management and storage under the program prescribed in subsection (a), and with other interested persons, the Secretary shall assess and collect a fee at the time of delivery for providing such management and storage, based on the pro rata cost of long-term management and storage of elemental mercury delivered to the facility. The amount of such fees—
+            (A) __Assessment and collection__ 
 
-            (A) shall be made publically  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “publicly”. </sup></sup>  available not later than October 1, 2012;
+                After consultation with persons who are likely to deliver elemental mercury to a designated facility for long-term management and storage under the program prescribed in subsection (a), and with other interested persons, the Secretary shall assess and collect a fee at the time of delivery for providing such management and storage, based on the pro rata cost of long-term management and storage of elemental mercury delivered to the facility.
 
-            (B) may be adjusted annually; and
+            (B) __Amount__ 
 
-            (C) shall be set in an amount sufficient to cover the costs described in paragraph (2).
+            The amount of the fees described in subparagraph (A)—
+
+                (i) shall be made publicly available not later than October 1, 2018;
+
+                (ii) may be adjusted annually;
+
+                (iii) shall be set in an amount sufficient to cover the costs described in paragraph (2), subject to clause (iv); and
+
+                (iv) for generators temporarily accumulating elemental mercury in a facility subject to subparagraphs (B) and (D)(iv) of subsection (g)(2) if the facility designated in subsection (a) is not operational by January 1, 2019, shall be adjusted to subtract the cost of the temporary accumulation during the period in which the facility designated under subsection (a) is not operational.
+
+            (C) __Conveyance of title and permitting__ 
+
+            If the facility designated in subsection (a) is not operational by January 1, 2020, the Secretary—
+
+                (i) shall immediately accept the conveyance of title to all elemental mercury that has accumulated in facilities in accordance with subsection (g)(2)(D), before January 1, 2020, and deliver the accumulated mercury to the facility designated under subsection (a) on the date on which the facility becomes operational;
+
+                (ii) shall pay any applicable Federal permitting costs, including the costs for permits issued under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)][/us/usc/t42/s6925/c]); and
+
+                (iii) shall store, or pay the cost of storage of, until the time at which a facility designated in subsection (a) is operational, accumulated mercury to which the Secretary has title under this subparagraph in a facility that has been issued a permit under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)][/us/usc/t42/s6925/c]).
 
         (2) __Costs__ 
 
-            The costs referred to in paragraph (1)(C) are the costs to the Department of Energy of providing such management and storage, including facility operation and maintenance, security, monitoring, reporting, personnel, administration, inspections, training, fire suppression, closure, and other costs required for compliance with applicable law. Such costs shall not include costs associated with land acquisition or permitting of a designated facility under the Solid Waste Disposal Act \[[42 U.S.C. 6901][/us/usc/t42/s6901] et seq.\] or other applicable law. Building design and building construction costs shall only be included to the extent that the Secretary finds that the management and storage of elemental mercury accepted under the program under this section cannot be accomplished without construction of a new building or buildings.
+            The costs referred to in paragraph (1)(B)(iii) are the costs to the Department of Energy of providing such management and storage, including facility operation and maintenance, security, monitoring, reporting, personnel, administration, inspections, training, fire suppression, closure, and other costs required for compliance with applicable law. Such costs shall not include costs associated with land acquisition or permitting of a designated facility under the Solid Waste Disposal Act \[[42 U.S.C. 6901][/us/usc/t42/s6901] et seq.\] or other applicable law. Building design and building construction costs shall only be included to the extent that the Secretary finds that the management and storage of elemental mercury accepted under the program under this section cannot be accomplished without construction of a new building or buildings.
 
     (c) __Report__ 
 
@@ -49,7 +67,7 @@
 
         (1) __Guidance__ 
 
-            Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States, shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protective of human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act \[[42 U.S.C. 6901][/us/usc/t42/s6901] et seq.\], including the requirements of subtitle C of that Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\], except as provided in subsection (g)(2) of this section. A designated facility in existence on or before January 1, 2013, is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act \[[42 U.S.C. 6925(e)][/us/usc/t42/s6925/e]\] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act \[[42 U.S.C. 6925(c)][/us/usc/t42/s6925/c]\]. Not later than January 1, 2015, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
+            Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States, shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protective of human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act \[[42 U.S.C. 6901][/us/usc/t42/s6901] et seq.\], including the requirements of subtitle C of that Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\], except as provided in subsection (g)(2) of this section. A designated facility is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act \[[42 U.S.C. 6925(e)][/us/usc/t42/s6925/e]\] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act \[[42 U.S.C. 6925(c)][/us/usc/t42/s6925/c]\]. Not later than January 1, 2020, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
 
         (2) __Training__ 
 
@@ -117,7 +135,23 @@
 
                 (iii) the owner or operator of the permitted facility certifies in writing to the Secretary that it will not sell, or otherwise place into commerce, the mercury.
 
-                This subparagraph shall not apply to mercury with respect to which the owner or operator of the permitted facility fails to comply with a certification provided under clause (ii) or (iii).
+            (C) Subparagraph (B) shall not apply to mercury with respect to which the owner or operator of the permitted facility fails to comply with a certification provided under clause (ii) or (iii) of that subparagraph.
+
+            (D)
+
+             A generator producing elemental mercury incidentally from the beneficiation or processing of ore or related pollution control activities may accumulate the mercury produced onsite that is destined for a facility designated by the Secretary under subsection (a) for more than 90 days without a permit issued under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)][/us/usc/t42/s6925/c]), and shall not be subject to the storage prohibition of section 3004(j) of that Act ([42 U.S.C. 6924(j)][/us/usc/t42/s6924/j]), if—
+
+                (i) the Secretary is unable to accept the mercury at a facility designated by the Secretary under subsection (a) for reasons beyond the control of the generator;
+
+                (ii) the generator certifies in writing to the Secretary that the generator will ship the mercury to a designated facility when the Secretary is able to accept the mercury;
+
+                (iii) the generator certifies in writing to the Secretary that the generator is storing only mercury the generator has produced or recovered onsite and will not sell, or otherwise place into commerce, the mercury; and
+
+                (iv) the generator has obtained an identification number under section 262.12 of title 40, Code of Federal Regulations, and complies with the requirements described in paragraphs (1) through (4) of section 262.34(a) of title 40, Code of Federal Regulations (as in effect on the date of enactment of this subparagraph).
+
+            (E) __Management standards for temporary storage.—__ 
+
+            Not later than January 1, 2017, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and State agencies in affected States, shall develop and make available guidance that establishes procedures and standards for the management and short-term storage of elemental mercury at a generator covered under subparagraph (D), including requirements to ensure appropriate use of flasks or other suitable containers. Such procedures and standards shall be protective of health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. A generator may accumulate mercury in accordance with subparagraph (D) immediately upon enactment of this subparagraph, and notwithstanding that guidance called for by this paragraph has not been developed or made available.
 
     (h) __Study__ 
 
@@ -127,11 +161,29 @@
 
         (2) includes proposals, if necessary, to mitigate any negative impact identified under paragraph (1).
 
-([Pub. L. 110–414][/us/pl/110/414], § 5, Oct. 14, 2008, [122 Stat. 4344][/us/stat/122/4344].)
+([Pub. L. 110–414][/us/pl/110/414], § 5, Oct. 14, 2008, [122 Stat. 4344][/us/stat/122/4344]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 10(c), (d), June 22, 2016, [130 Stat. 478][/us/stat/130/478], 480.)
 
  __References in Text__ 
 
     The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(2). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(1), substituted “2019” for “2013”.
+
+    Subsec. (b)(1)(A). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(2)(A)(ii), (iii), designated introductory provisions of par. (1) as subpar. (A), inserted heading, and struck out “The amount of such fees” at end. Former subpar. (A) redesignated cl. (i) of subpar. (B).
+
+    Subsec. (b)(1)(B). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(2)(A)(i), (iii), (iv), inserted heading and introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins, substituted “publicly available not later than October 1, 2018” for “publically available not later than October 1, 2012” in cl. (i) and “, subject to clause (iv); and” for period in cl. (iii), and added cl. (iv).
+
+    Subsec. (b)(1)(C). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(2)(A)(v), added subpar. (C). Former subpar. (C) redesignated cl. (iii) of subpar. (B).
+
+    Subsec. (b)(2). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(2)(B), substituted “paragraph (1)(B)(iii)” for “paragraph (1)(C)” in first sentence.
+
+    Subsec. (d)(1). [Pub. L. 114–182][/us/pl/114/182], § 10(d), struck out “in existence on or before January 1, 2013,” after “facility” in fourth sentence and substituted “January 1, 2020” for “January 1, 2015” in last sentence.
+
+    Subsec. (g)(2)(C). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(3)(A), (B), redesignated concluding provisions of subpar. (B) as (C), substituted “Subparagraph (B)” for “This subparagraph”, and inserted “of that subparagraph” before period at end.
+
+    Subsec. (g)(2)(D), (E). [Pub. L. 114–182][/us/pl/114/182], § 10(c)(3)(C), added subpars. (D) and (E).
 
  __Codification__ 
 
@@ -144,6 +196,8 @@
 ----------
 ----------
 
+[/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
+[/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
@@ -152,12 +206,24 @@
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
 [/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
+[/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
+[/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
 [/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
 [/us/stat/122/4344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4344
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F478
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 
 

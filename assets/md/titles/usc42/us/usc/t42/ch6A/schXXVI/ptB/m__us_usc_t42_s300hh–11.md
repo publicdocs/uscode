@@ -143,7 +143,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] designated first three sentences of existing provisions as subpars. (A) to (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
+    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] designated first, second, and third sentences of existing provisions as subpars. (A), (B), and (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
 
     2013—Subsec. (a)(3)(A)(i). [Pub. L. 113–5][/us/pl/113/5], § 104(1)(A), inserted “, including at-risk individuals as applicable” after “victims of a public health emergency”.
 

@@ -35,7 +35,7 @@
 
         (1)
 
-         Any person specified in subsection (a) of this section who—
+         Any person specified in subsection (a) who—
 
             (A) is found to be missing from his place of employment, whether or not such person then actually was engaged in the course of his employment, under circumstances supporting an inference that his absence is due to the belligerent action of a hostile force or person, or
 

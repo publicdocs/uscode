@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to the availability of funds made available under subsection (g) of this section, the Secretary shall make payments to State agencies for each fiscal year, in accordance with this section, to promote nutrition in food service programs under this chapter and the school breakfast program established under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.).
+        Subject to the availability of funds made available under subsection (g), the Secretary shall make payments to State agencies for each fiscal year, in accordance with this section, to promote nutrition in food service programs under this chapter and the school breakfast program established under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.).
 
     (b) __Total amount for each fiscal year__ 
 
@@ -31,7 +31,7 @@
 
         (1) __Allocation__ 
 
-        Subject to paragraph (2), from the amount of funds available under subsection (g) of this section for a fiscal year, the Secretary shall allocate to each State agency an amount equal to the greater of—
+        Subject to paragraph (2), from the amount of funds available under subsection (g) for a fiscal year, the Secretary shall allocate to each State agency an amount equal to the greater of—
 
             (A) a uniform base amount established by the Secretary; or
 
@@ -45,7 +45,7 @@
 
         (2) __Reductions__ 
 
-            The Secretary shall reduce allocations to State agencies qualifying for an allocation under paragraph (1)(B), in a manner determined by the Secretary, to the extent necessary to ensure that the total amount of funds allocated under paragraph (1) is not greater than the amount appropriated under subsection (g) of this section.
+            The Secretary shall reduce allocations to State agencies qualifying for an allocation under paragraph (1)(B), in a manner determined by the Secretary, to the extent necessary to ensure that the total amount of funds allocated under paragraph (1) is not greater than the amount appropriated under subsection (g).
 
     (d) __Use of payments__ 
 
@@ -53,19 +53,19 @@
 
         A State agency may reserve, to support dissemination and use of nutrition messages and material developed by the Secretary, up to—
 
-            (A) 5 percent of the payment received by the State for a fiscal year under subsection (c) of this section; or
+            (A) 5 percent of the payment received by the State for a fiscal year under subsection (c); or
 
             (B) in the case of a small State (as determined by the Secretary), a higher percentage (as determined by the Secretary) of the payment.
 
         (2) __Disbursement to schools and institutions__ 
 
-            Subject to paragraph (3), the State agency shall disburse any remaining amount of the payment to school food authorities and institutions participating in food service programs described in subsection (a) of this section to disseminate and use nutrition messages and material developed by the Secretary.
+            Subject to paragraph (3), the State agency shall disburse any remaining amount of the payment to school food authorities and institutions participating in food service programs described in subsection (a) to disseminate and use nutrition messages and material developed by the Secretary.
 
         (3) __Summer food service program for children__ 
 
         In addition to any amounts reserved under paragraph (1), in the case of the summer food service program for children established under [section 1761 of this title][/us/usc/t42/s1761], the State agency may—
 
-            (A) retain a portion of the funds made available under subsection (c) of this section (as determined by the Secretary); and
+            (A) retain a portion of the funds made available under subsection (c) (as determined by the Secretary); and
 
             (B) use the funds, in connection with the program, to disseminate and use nutrition messages and material developed by the Secretary.
 

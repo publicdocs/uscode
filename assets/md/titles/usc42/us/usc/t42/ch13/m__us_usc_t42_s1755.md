@@ -29,7 +29,7 @@
 
     (b) __Delivery of commodities__ 
 
-        The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section for each school year for the school lunch program in the State, not later than September 30 of the following school year.
+        The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for each school year for the school lunch program in the State, not later than September 30 of the following school year.
 
     (c) __Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods__ 
 
@@ -127,7 +127,7 @@
 
     The Child Nutrition Act of 1966, referred to in subsec. (a), is [Pub. L. 89–642][/us/pl/89/642], Oct. 11, 1966, [80 Stat. 885][/us/stat/80/885], as amended, which is classified generally to chapter 13A (§ 1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of this title][/us/usc/t42/s1771] and Tables.
 
-    Subsection (c) of this section, referred to in subsec. (b), was repealed and subsec. (e) was redesignated (c) by [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 101(a), Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144].
+    Subsection (c), referred to in subsec. (b), was repealed and subsec. (e) was redesignated (c) by [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 101(a), Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144].
 
  __Codification__ 
 

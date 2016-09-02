@@ -103,7 +103,7 @@
 
     [Pub. L. 85–477][/us/pl/85/477], § 502(a)(2), substituted “provisions of subparagraphs (3), (4), or (5)” for “provisions of subparagraphs (3) or (4)”.
 
-    Subsec. (f). [Pub. L. 85–602][/us/pl/85/602], § 201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
+    Subsec. (f). [Pub. L. 85–608][/us/pl/85/608], § 201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
 
     [Pub. L. 85–477][/us/pl/85/477], § 502(a)(3), inserted “or any work under subparagraph (5) of subsection (a) of this section” before “shall not apply”.
 
@@ -219,7 +219,7 @@ Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II][/us/pl/
 [/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
-[/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1

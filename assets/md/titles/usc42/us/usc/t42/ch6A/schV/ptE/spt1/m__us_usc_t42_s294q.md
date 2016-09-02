@@ -403,7 +403,7 @@
 
 >         “(A)  __Low-income individual__  __.—__ 
 
->         The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment \[sic\] Act of 1998 (\[former\] [29 U.S.C. 2801][/us/usc/t29/s2801]).
+>         The term ‘low-income individual’ has the meaning given that term in \[former\] section 101 of the Workforce investment \[sic\] Act of 1998 (\[former\] [29 U.S.C. 2801][/us/usc/t29/s2801]).
 
 >         “(B)  __State workforce investment board; local workforce investment board__  __.—__ 
 

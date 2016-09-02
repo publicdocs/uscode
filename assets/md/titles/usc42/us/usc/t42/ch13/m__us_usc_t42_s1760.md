@@ -233,7 +233,7 @@
 
         (2) __Buy American training__ 
 
-            Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n) of this section.
+            Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n).
 
         (3) __Procuring safe foods__ 
 

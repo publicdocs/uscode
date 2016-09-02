@@ -161,9 +161,9 @@
 
                  To the extent and at such times as is necessary for the effective implementation of clause (i) of this subparagraph—
 
-                    (I) the Inspector General of the Social Security Administration shall transmit to the Commissioner information relating to persons described in subclause (I) or (III) of clause (i);
+                    (I) the Inspector General of the Social Security Administration shall transmit to the Commissioner information relating to persons described in subclause (I) or (III) of clause (i);  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “and”. </sup></sup> 
 
-                    (II) the Secretary of Health and Human Services shall transmit to the Commissioner information relating to persons described in subclause (II) of clause (i); and
+                    (II) the Secretary of Health and Human Services shall transmit to the Commissioner information relating to persons described in subclause (II) of clause (i); and  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The “; and” probably should be a period. </sup></sup> 
 
         (6)
 
