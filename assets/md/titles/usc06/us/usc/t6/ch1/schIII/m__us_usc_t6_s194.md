@@ -221,7 +221,7 @@
 
 [Pub. L. 110–53, title XXII, § 2203][/us/pl/110/53/s2203], Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Federal Communications Commission, in consultation with the Department of Homeland Security’s Office of Emergency Communications, the Office of Management of \[sic\] Budget, and the Department of State shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on—
 
@@ -247,7 +247,7 @@
 
 >         “(5) any additional procedures and mechanisms that can be taken by the Commission to decrease the rejection rate for applications by United States private and public entities seeking licenses to use channels and frequencies above Line A.
 
->     “(b) __Updated Reports to Be Filed on the Status of Treaty of \[sic\] Negotiations.—__ 
+>     “(b)  __Updated Reports to Be Filed on the Status of Treaty of \[sic\] Negotiations__  __.—__ 
 
 >     The Federal Communications Commission, in conjunction with the Department of Homeland Security, the Office of Management of Budget, and the Department of State shall continually provide updated reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the status of treaty negotiations under subsection (a)(2) until the appropriate United States treaty has been revised with each of—
 
@@ -255,7 +255,7 @@
 
 >         “(2) Mexico.
 
->     “(c) __International Negotiations To Remedy Situation.—__ 
+>     “(c)  __International Negotiations To Remedy Situation__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of the Department of State shall report to Congress on—
 

@@ -71,11 +71,11 @@
 
 [Pub. L. 109–295, title VI, § 614][/us/pl/109/295/s614], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[see Tables for classification\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Oct. 4, 2006\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The following shall take effect on March 31, 2007:
 

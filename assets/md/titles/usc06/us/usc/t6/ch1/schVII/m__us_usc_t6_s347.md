@@ -97,7 +97,7 @@
 
 [Pub. L. 110–53, title XXIV, § 2401(b)][/us/pl/110/53/s2401/b], Aug. 3, 2007, [121 Stat. 546][/us/stat/121/546], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     During fiscal years 2007 and 2008, the Secretary of Homeland Security shall make preparations to conduct the first quadrennial homeland security review under section 707 of the Homeland Security Act of 2002 \[[6 U.S.C. 347][/us/usc/t6/s347]\], as added by subsection (a), in fiscal year 2009, including—
 
@@ -111,7 +111,7 @@
 
 >         “(E) all other preparations considered necessary by the Secretary.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary shall submit to Congress and make publicly available on the Internet website of the Department of Homeland Security a detailed resource plan specifying the estimated budget and number of staff members that will be required for preparation of the first quadrennial homeland security review.”
 

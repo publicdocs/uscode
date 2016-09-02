@@ -149,15 +149,15 @@
 
             (E) $1,100,000,000 for fiscal year 2011, except that not more than 10 percent of such funds may be used for operational costs under subsection (b)(2).
 
-        (2) __Period of availability.—__ 
+        (2)  __Period of availability__  __.—__ 
 
         Sums appropriated to carry out this section shall remain available until expended.
 
-        (3) __Waiver.—__ 
+        (3)  __Waiver__  __.—__ 
 
         The Secretary may waive the limitation on operational costs specified in subparagraphs (B) through (E) of paragraph (1) if the Secretary determines that such a waiver is required in the interest of national security, and if the Secretary provides a written justification to the appropriate congressional committees prior to any such action.
 
-        (4) __Effective date.—__ 
+        (4)  __Effective date__  __.—__ 
 
         Funds provided for fiscal year 2007 transit security grants under [Public Law 110–28][/us/pl/110/28] shall be allocated based on security assessments that are in existence as of August 3, 2007.
 

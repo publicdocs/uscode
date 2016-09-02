@@ -121,11 +121,11 @@
 
 [Pub. L. 110–53, title XXIV, § 2405(c)][/us/pl/110/53/s2405/c], Aug. 3, 2007, [121 Stat. 549][/us/stat/121/549], provided that:
 
->     “(1) __Deadline for appointment.—__ 
+>     “(1)  __Deadline for appointment__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall name an individual who meets the qualifications of section 701 of the Homeland Security Act ([6 U.S.C. 341][/us/usc/t6/s341]), as amended by subsections (a) and (b), to serve as the Under Secretary of Homeland Security for Management. The Secretary may submit the name of the individual who serves in the position of Under Secretary of Homeland Security for Management on the date of enactment of this Act together with a statement that informs the Congress that the individual meets the qualifications of such section as so amended.
 
->     “(2) __Incumbent.—__ 
+>     “(2)  __Incumbent__  __.—__ 
 
 >     The incumbent serving as Under Secretary of Homeland Security for Management on November 4, 2008, is authorized to continue serving in that position until a successor is confirmed, to ensure continuity in the management functions of the Department.”
 

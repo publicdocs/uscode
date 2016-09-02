@@ -19,7 +19,7 @@
 
         (1) The Secretary shall develop a system to detect both undeclared passengers and contraband, with a primary focus on the detection of nuclear and radiological materials entering the United States by railroad.
 
-        (2) __System requirements.—__ 
+        (2)  __System requirements__  __.—__ 
 
         In developing the system under paragraph (1), the Secretary may, in consultation with the Domestic Nuclear Detection Office, Customs and Border Protection, and the Transportation Security Administration—
 

@@ -147,7 +147,7 @@
 
 [Pub. L. 111–281, title VIII, § 825][/us/pl/111/281/s825], Oct. 15, 2010, [124 Stat. 3004][/us/stat/124/3004], provided that:
 
->     “(a) __Coordination.—__ 
+>     “(a)  __Coordination__  __.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which they are integrated and conducted by the Coast Guard:
 
@@ -157,7 +157,7 @@
 
 >         “(3) [Section 70108 of title 46][/us/usc/t46/s70108], United States Code.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Nothing in subsection (a) shall be construed to affect or diminish the Secretary’s authority or discretion—
 
@@ -167,7 +167,7 @@
 
 >         “(3) to cancel an assessment of a foreign port if the Secretary is unable to conduct 2 or more assessments concurrently.
 
->     “(c) __Multiple Assessment Report.—__ 
+>     “(c)  __Multiple Assessment Report__  __.—__ 
 
 >     The Secretary shall provide written notice to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives whenever the Secretary conducts 2 or more assessments of the same port within a 3-year period.”
 

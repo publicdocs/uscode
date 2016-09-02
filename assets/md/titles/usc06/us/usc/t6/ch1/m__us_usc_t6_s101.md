@@ -241,7 +241,7 @@
 
 > “SEC. 603. __COMPOSITION OF COMMISSION.__ 
 
->     “(a) __Members.—__ 
+>     “(a)  __Members__  __.—__ 
 
 >     The Commission shall be composed of 10 members, of whom—
 
@@ -259,33 +259,33 @@
 
 >     “(b) __Qualifications; Initial Meeting.—__ 
 
->         “(1) __Political party affiliation.—__ 
+>         “(1)  __Political party affiliation__  __.—__ 
 
 >         Not more than 5 members of the Commission shall be from the same political party.
 
->         “(2) __Nongovernmental appointees.—__ 
+>         “(2)  __Nongovernmental appointees__  __.—__ 
 
 >         An individual appointed to the Commission may not be an officer or employee of the Federal Government or any State or local government.
 
->         “(3) __Other qualifications.—__ 
+>         “(3)  __Other qualifications__  __.—__ 
 
 >         It is the sense of Congress that individuals appointed to the Commission should be prominent United States citizens, with national recognition and significant depth of experience in such professions as governmental service, law enforcement, the armed services, law, public administration, intelligence gathering, commerce (including aviation matters), and foreign affairs.
 
->         “(4) __Deadline for appointment.—__ 
+>         “(4)  __Deadline for appointment__  __.—__ 
 
 >         All members of the Commission shall be appointed on or before December 15, 2002.
 
->         “(5) __Initial meeting.—__ 
+>         “(5)  __Initial meeting__  __.—__ 
 
 >         The Commission shall meet and begin the operations of the Commission as soon as practicable.
 
->     “(c) __Quorum; Vacancies.—__ 
+>     “(c)  __Quorum; Vacancies__  __.—__ 
 
 >     After its initial meeting, the Commission shall meet upon the call of the chairman or a majority of its members. Six members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
 
 > “SEC. 604. __FUNCTIONS OF COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The functions of the Commission are to—
 
@@ -319,7 +319,7 @@
 
 >         “(3) submit to the President and Congress such reports as are required by this title containing such findings, conclusions, and recommendations as the Commission shall determine, including proposing organization, coordination, planning, management arrangements, procedures, rules, and regulations.
 
->     “(b) __Relationship to Intelligence Committees’ Inquiry.—__ 
+>     “(b)  __Relationship to Intelligence Committees’ Inquiry__  __.—__ 
 
 >     When investigating facts and circumstances relating to the intelligence community, the Commission shall—
 
@@ -339,7 +339,7 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Hearings and evidence.—__ 
+>         “(1)  __Hearings and evidence__  __.—__ 
 
 >         The Commission or, on the authority of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out this title—
 
@@ -351,7 +351,7 @@
 
 >             “(A) __Issuance.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 A subpoena may be issued under this subsection only—
 
@@ -359,59 +359,59 @@
 
 >                          “(II) by the affirmative vote of 6 members of the Commission.
 
->                 “(ii) __Signature.—__ 
+>                 “(ii)  __Signature__  __.—__ 
 
 >                 Subject to clause (i), subpoenas issued under this subsection may be issued under the signature of the chairman or any member designated by a majority of the Commission, and may be served by any person designated by the chairman or by a member designated by a majority of the Commission.
 
 >             “(B) __Enforcement.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
 
->                 “(ii) __Additional enforcement.—__ 
+>                 “(ii)  __Additional enforcement__  __.—__ 
 
 >                 In the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section, the Commission may, by majority vote, certify a statement of fact constituting such failure to the appropriate United States attorney, who may bring the matter before the grand jury for its action, under the same statutory authority and procedures as if the United States attorney had received a certification under sections 102 through 104 of the Revised Statutes of the United States ([2 U.S.C. 192][/us/usc/t2/s192] through 194).
 
->     “(b) __Contracting.—__ 
+>     “(b)  __Contracting__  __.—__ 
 
 >     The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
 
 >     “(c) __Information From Federal Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this title. Each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the chairman, the chairman of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
 
->         “(2) __Receipt, handling, storage, and dissemination.—__ 
+>         “(2)  __Receipt, handling, storage, and dissemination__  __.—__ 
 
 >         Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
 
 >     “(d) __Assistance From Federal Agencies.—__ 
 
->         “(1) __General services administration.—__ 
+>         “(1)  __General services administration__  __.—__ 
 
 >         The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services for the performance of the Commission’s functions.
 
->         “(2) __Other departments and agencies.—__ 
+>         “(2)  __Other departments and agencies__  __.—__ 
 
 >         In addition to the assistance prescribed in paragraph (1), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as they may determine advisable and as may be authorized by law.
 
->     “(e) __Gifts.—__ 
+>     “(e)  __Gifts__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(f) __Postal Services.—__ 
+>     “(f)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
 
 > “SEC. 606. __NONAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
->     “(b) __Public Meetings and Release of Public Versions of Reports.—__ 
+>     “(b)  __Public Meetings and Release of Public Versions of Reports__  __.—__ 
 
 >     The Commission shall—
 
@@ -419,7 +419,7 @@
 
 >         “(2) release public versions of the reports required under section 610(a) and (b).
 
->     “(c) __Public Hearings.—__ 
+>     “(c)  __Public Hearings__  __.—__ 
 
 >     Any public hearings of the Commission shall be conducted in a manner consistent with the protection of information provided to or developed for or by the Commission as required by any applicable statute, regulation, or Executive order.
 
@@ -427,35 +427,35 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Appointment and compensation.—__ 
+>         “(1)  __Appointment and compensation__  __.—__ 
 
 >         The chairman, in consultation with vice chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
 >         “(2) __Personnel as federal employees.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The executive director and any personnel of the Commission who are employees shall be employees under [section 2105 of title 5][/us/usc/t5/s2105], United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
->             “(B) __Members of commission.—__ 
+>             “(B)  __Members of commission__  __.—__ 
 
 >             Subparagraph (A) shall not be construed to apply to members of the Commission.
 
->     “(b) __Detailees.—__ 
+>     “(b)  __Detailees__  __.—__ 
 
 >     Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
->     “(c) __Consultant Services.—__ 
+>     “(c)  __Consultant Services__  __.—__ 
 
 >     The Commission is authorized to procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
 > “SEC. 608. __COMPENSATION AND TRAVEL EXPENSES.__ 
 
->     “(a) __Compensation.—__ 
+>     “(a)  __Compensation__  __.—__ 
 
 >     Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) \[5703\] of title 5, United States Code.
 
@@ -465,35 +465,35 @@
 
 > “SEC. 610. __REPORTS OF COMMISSION; TERMINATION.__ 
 
->     “(a) __Interim Reports.—__ 
+>     “(a)  __Interim Reports__  __.—__ 
 
 >     The Commission may submit to the President and Congress interim reports containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
 
->     “(b) __Final Report.—__ 
+>     “(b)  __Final Report__  __.—__ 
 
 >     Not later than 20 months after the date of the enactment of this Act \[Nov. 27, 2002\], the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
 
 >     “(c) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission, and all the authorities of this title, shall terminate 30 days after the date on which the final report is submitted under subsection (b).
 
->         “(2) __Administrative activities before termination.—__ 
+>         “(2)  __Administrative activities before termination__  __.—__ 
 
 >         The Commission may use the 30-day period referred to in paragraph (1) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its reports and disseminating the final report.
 
 > “SEC. 611. __FUNDING.__ 
 
->     “(a) __Transfer From the National Foreign Intelligence Program.—__ 
+>     “(a)  __Transfer From the National Foreign Intelligence Program__  __.—__ 
 
 >     Of the amounts authorized to be appropriated by this Act \[see Tables for classification\] and made available in public law 107–248 \[see Tables for classification\] (Department of Defense Appropriations Act, 2003) for the National Foreign Intelligence Program, not to exceed $3,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
->     “(b) __Additional Funding.—__ 
+>     “(b)  __Additional Funding__  __.—__ 
 
 >     In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 ([Public Law 108–11][/us/pl/108/11]; [117 Stat. 591][/us/stat/117/591]), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
->     “(c) __Duration of Availability.—__ 
+>     “(c)  __Duration of Availability__  __.—__ 
 
 >     Amounts made available to the Commission under this section shall remain available until the termination of the Commission.”
 

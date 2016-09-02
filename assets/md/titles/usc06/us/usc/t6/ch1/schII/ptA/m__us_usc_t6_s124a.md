@@ -73,11 +73,11 @@
 
 [Pub. L. 110–53, title V, § 502(b)][/us/pl/110/53/s502/b], Aug. 3, 2007, [121 Stat. 311][/us/stat/121/311], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Under Secretary for Intelligence and Analysis shall receive from the United States Secret Service homeland security information, terrorism information, weapons of mass destruction information (as these terms are defined in Section \[sic\] 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485][/us/usc/t6/s485])), or national intelligence, as defined in Section \[sic\] 3(5) of the National Security Act of 1947 ([50 U.S.C. 401a(5)][/us/usc/t50/s401a/5]) \[now [50 U.S.C. 3003(5)][/us/usc/t50/s3003/5]\], as well as suspect information obtained in criminal investigations. The United States Secret Service shall cooperate with the Under Secretary for Intelligence and Analysis with respect to activities under sections 204 and 205 of the Homeland Security Act of 2002 \[[6 U.S.C. 124a][/us/usc/t6/s124a], 124b\].
 
->     “(2) __Savings clause.—__ 
+>     “(2)  __Savings clause__  __.—__ 
 
 >     Nothing in this Act \[see Tables for classification\] shall interfere with the operation of Section \[sic\] 3056(g) of Title 18, United States Code, or with the authority of the Secretary of Homeland Security or the Director of the United States Secret Service regarding the budget of the United States Secret Service.”
 

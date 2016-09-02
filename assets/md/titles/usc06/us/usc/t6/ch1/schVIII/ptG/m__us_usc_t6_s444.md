@@ -25,7 +25,7 @@
 
         (A) The term “act of terrorism” means any act that the Secretary determines meets the requirements under subparagraph (B), as such requirements are further defined and specified by the Secretary.
 
-        (B) __Requirements.—__ 
+        (B)  __Requirements__  __.—__ 
 
         An act meets the requirements of this subparagraph if the act—
 
