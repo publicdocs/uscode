@@ -15,7 +15,7 @@
 
 # Title 33—NAVIGATION AND NAVIGABLE WATERS
 
-Current through 113-121
+Current through 113-125
 
 <table>
 
@@ -556,6 +556,16 @@ Current through 113-121
     <td> Water Infrastructure Finance and Innovation  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs3901" data-uslm-ref="/us/usc/t33/s3901">3901</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fch53" data-uslm-ref="/us/usc/t33/ch53">53.</a>  </td>
+
+    <td> Harmful Algal Bloom and Hypoxia Research and Control  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs4001" data-uslm-ref="/us/usc/t33/s4001">4001</a>  </td>
 
   </tr>
 

@@ -37,7 +37,7 @@
 
 [Pub. L. 111–11, title XII, § 12301][/us/pl/111/11/s12301], Mar. 30, 2009, [123 Stat. 1427][/us/stat/123/1427], provided that: 
 
-> “This subtitle \[subtitle C (§§ 12301–12311) of title XII of [Pub. L. 111–11][/us/pl/111/11], enacting this chapter\] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
+> “This subtitle \[subtitle C (§§ 12301–12312) of title XII of [Pub. L. 111–11][/us/pl/111/11], enacting this chapter\] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
 
 ----------
 
