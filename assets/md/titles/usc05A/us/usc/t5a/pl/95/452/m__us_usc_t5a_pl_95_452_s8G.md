@@ -187,7 +187,29 @@
 
             (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-([Pub. L. 95–452, § 8G][/us/pl/95/452/s8G], formerly § 8E, as added [Pub. L. 100–504, title I, § 104(a)][/us/pl/100/504/s104/a], Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]; amended [Pub. L. 101–73, title VII, § 702(c)][/us/pl/101/73/s702/c], Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]; renumbered § 8F and amended [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], (2)(A), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], 890; renumbered § 8G and amended [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], (4), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 104–88, title III, § 319][/us/pl/104/88/s319], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(b)(1), (2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 105–134, title IV, § 409(a)(1)][/us/pl/105/134/s409/a/1], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 105–277, div. C, title III, § 306(h)][/us/pl/105/277/s306/h], as added [Pub. L. 106–31, title I, § 105(a)(5)][/us/pl/106/31/s105/a/5], May 21, 1999, [113 Stat. 63][/us/stat/113/63]; [Pub. L. 106–422, § 1(b)(1)][/us/pl/106/422/s1/b/1], Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872]; [Pub. L. 107–252, title VIII, § 812(a)][/us/pl/107/252/s812/a], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435], §§ 603(b), 605(a), Dec. 20, 2006, [120 Stat. 3240][/us/stat/120/3240], 3242; [Pub. L. 110–409][/us/pl/110/409], §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, [122 Stat. 4302][/us/stat/122/4302], 4305, 4313; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 989B, 989D, title X, § 1081, July 21, 2010, [124 Stat. 1945][/us/stat/124/1945], 1946, 2080; [Pub. L. 111–259, title IV, § 431(a)][/us/pl/111/259/s431/a], (c), Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title IV][/us/pl/113/126], §§ 402(1), 412(1), July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], 1409.)
+([Pub. L. 95–452, § 8G][/us/pl/95/452/s8G], formerly § 8E, as added [Pub. L. 100–504, title I, § 104(a)][/us/pl/100/504/s104/a], Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]; amended [Pub. L. 101–73, title VII, § 702(c)][/us/pl/101/73/s702/c], Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]; renumbered § 8F and amended [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], (2)(A), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], 890; renumbered § 8G and amended [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], (4), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 104–88, title III, § 319][/us/pl/104/88/s319], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(b)(1), (2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 105–134, title IV, § 409(a)(1)][/us/pl/105/134/s409/a/1], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 105–277, div. C, title III, § 306(h)][/us/pl/105/277/s306/h], as added [Pub. L. 106–31, title I, § 105(a)(5)][/us/pl/106/31/s105/a/5], May 21, 1999, [113 Stat. 63][/us/stat/113/63]; [Pub. L. 106–422, § 1(b)(1)][/us/pl/106/422/s1/b/1], Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872]; [Pub. L. 107–252, title VIII, § 812(a)][/us/pl/107/252/s812/a], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435], §§ 603(b), 605(a), Dec. 20, 2006, [120 Stat. 3240][/us/stat/120/3240], 3242; [Pub. L. 110–409][/us/pl/110/409], §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, [122 Stat. 4302][/us/stat/122/4302], 4305, 4313; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 989B, 989D, title X, § 1081, July 21, 2010, [124 Stat. 1945][/us/stat/124/1945], 1946, 2080; [Pub. L. 111–259, title IV, § 431(a)][/us/pl/111/259/s431/a], (c), Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title IV][/us/pl/113/126], §§ 402(1), 412(1), July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], 1409; [Pub. L. 114–113, div. H, title IV, § 401(a)][/us/pl/114/113/s401/a], Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639].)
+
+ __Amendment of Subsections (a) and (e)__ 
+
+    [Pub. L. 114–113, div. H, title IV, § 401(a)][/us/pl/114/113/s401/a], (c), Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639], 2640, provided that, effective on the date that is 180 days after Dec. 18, 2015, this section is amended—
+
+    (1) in subsection (a)—
+
+    (A) in paragraph (2), by inserting “the Committee for Purchase From People Who Are Blind or Severely Disabled,” after “the Board for International Broadcasting,”; and
+
+    (B) in paragraph (4)—
+
+    (i) by redesignating subparagraphs (D) through (H) as subparagraphs (E) through (I), respectively; and
+
+    (ii) by inserting after subparagraph (C) the following new subparagraph:
+
+    “(D) with respect to the Committee for Purchase From People Who Are Blind or Severely Disabled, such term means the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled;”; and
+
+    (2) in subsection (e)(1)—
+
+    (A) by striking “board or commission”, the first place it appears, and inserting “board, chairman of a committee, or commission”; and
+
+    (B) by striking “board or commission”, the second place it appears, and inserting “board, committee, or commission”.
 
  __Amendment of Subsection (a)(2)__ 
 
@@ -202,6 +224,12 @@
     A prior section 8G of the Inspector General Act of 1978 was renumbered section 8J.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–113, § 401(a)(1)(A)][/us/pl/114/113/s401/a/1/A], inserted “the Committee for Purchase From People Who Are Blind or Severely Disabled,” after “the Board for International Broadcasting,”.
+
+    Subsec. (a)(4)(D) to (I). [Pub. L. 114–113, § 401(a)(1)(B)][/us/pl/114/113/s401/a/1/B], added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
+
+    Subsec. (e)(1). [Pub. L. 114–113, § 401(a)(2)][/us/pl/114/113/s401/a/2], substituted “board, chairman of a committee, or commission” for “board or commission” first time appearing and “board, committee, or commission” for “board or commission” second time appearing.
 
     2014—Subsec. (a)(2). [Pub. L. 113–126, § 412(1)][/us/pl/113/126/s412/1], struck out “the National Reconnaissance Office,” after “the National Labor Relations Board,”.
 
@@ -266,6 +294,12 @@
     Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
     Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. H, title IV, § 401(c)][/us/pl/114/113/s401/c], Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
+
+> “This section \[amending this section and enacting provisions set out as a note under this section\], and the amendments made by this section, shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -390,6 +424,12 @@
  __Effective Date__ 
 
     Section effective 180 days after Oct. 18, 1988, see [section 113 of Pub. L. 100–504][/us/pl/100/504/s113], set out as an Effective Date of 1988 Amendment note under [section 5 of Pub. L. 95–452][/us/pl/95/452/s5] in this Appendix.
+
+ __Inspector General for Committee for Purchase From People Who Are Blind or Severely Disabled__ 
+
+[Pub. L. 114–113, div. H, title IV, § 401(b)][/us/pl/114/113/s401/b], Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
+
+> “Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee.”
 
  __Amtrak Inspector General__ 
 
@@ -751,11 +791,13 @@
 
  __Inspector General of Chemical Safety and Hazard Investigation Board__ 
 
-[Pub. L. 113–235, div. F, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2438][/us/stat/128/2438], provided in part: 
+[Pub. L. 114–113, div. G, title III][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2569][/us/stat/129/2569], provided in part: 
 
 > “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the \[Chemical Safety and Hazard Investigation\] Board: Provided further, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+    [Pub. L. 113–235, div. F, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2438][/us/stat/128/2438].
 
     [Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 332][/us/stat/128/332].
 
@@ -1114,11 +1156,18 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/stat/124/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2731
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/stat/128/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1408
+[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/stat/129/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2639
+[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/stat/129/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2639
 [/us/pl/105/134/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs409%2Fa
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
 [/us/usc/t29/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs167
+[/us/pl/114/113/s401/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F1%2FA
+[/us/pl/114/113/s401/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F1%2FB
+[/us/pl/114/113/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F2
 [/us/pl/113/126/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs412%2F1
 [/us/pl/113/126/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs402%2F1
 [/us/pl/111/259/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fa
@@ -1150,6 +1199,8 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/pl/103/82/s202/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F2%2FA
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/114/113/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fc
+[/us/stat/129/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2640
 [/us/pl/113/126/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs403
 [/us/stat/128/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1408
 [/us/usc/t50/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3602
@@ -1182,6 +1233,8 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
+[/us/pl/114/113/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fb
+[/us/stat/129/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2640
 [/us/pl/114/94/s11314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11314
 [/us/stat/129/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1674
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
@@ -1212,6 +1265,8 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/stat/122/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F428
 [/us/pl/109/435/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs605%2Fc
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2569
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2438
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76

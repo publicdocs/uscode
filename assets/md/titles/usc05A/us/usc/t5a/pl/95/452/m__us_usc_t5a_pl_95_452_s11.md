@@ -43,7 +43,7 @@
 
                 (ii) section 8G.
 
-            (B) The Inspectors General of the Office of the Director of National Intelligence and the Central Intelligence Agency.
+            (B) The Inspectors General of the Intelligence Community and the Central Intelligence Agency.
 
             (C) The Controller of the Office of Federal Financial Management.
 
@@ -361,7 +361,7 @@
 
         This subsection is not intended to create any right or benefit, substantive or procedural, enforceable at law by a person against the United States, its agencies, its officers, or any person.
 
-([Pub. L. 95–452, § 11][/us/pl/95/452/s11], as added [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 95–452, § 11][/us/pl/95/452/s11], as added [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537]; [Pub. L. 114–113, div. M, title III, § 304][/us/pl/114/113/s304], Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
 
  __References in Text__ 
 
@@ -370,6 +370,10 @@
  __Prior Provisions__ 
 
     A prior section 11 of the Inspector General Act of 1978 was renumbered section 12.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(B). [Pub. L. 114–113][/us/pl/114/113] substituted “the Intelligence Community” for “the Office of the Director of National Intelligence”.
 
  __Change of Name__ 
 
@@ -470,7 +474,10 @@
 [/us/stat/122/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4305
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/pl/114/113/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304
+[/us/stat/129/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2913
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/110/409/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fc
