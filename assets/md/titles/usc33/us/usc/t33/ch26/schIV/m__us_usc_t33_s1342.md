@@ -137,13 +137,13 @@
 
         (3) __Silvicultural activities__ 
 
-            (A) __NPDES permit requirements for silvicultural activities__ 
+            (A)  __NPDES permit requirements for silvicultural activities__  __.—__ 
 
-                The Administrator shall not require a permit under this section nor directly or indirectly require any State to require a permit under this section for a discharge from runoff resulting from the conduct of the following silviculture activities conducted in accordance with standard industry practice: nursery operations, site preparation, reforestation and subsequent cultural treatment, thinning, prescribed burning, pest and fire control, harvesting operations, surface drainage, or road construction and maintenance.
+            The Administrator shall not require a permit under this section nor directly or indirectly require any State to require a permit under this section for a discharge from runoff resulting from the conduct of the following silviculture activities conducted in accordance with standard industry practice: nursery operations, site preparation, reforestation and subsequent cultural treatment, thinning, prescribed burning, pest and fire control, harvesting operations, surface drainage, or road construction and maintenance.
 
-            (B) __Other requirements__ 
+            (B)  __Other requirements__  __.—__ 
 
-                Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under [section 1344 of this title][/us/usc/t33/s1344], existing permitting requirements under [section 1342 of this title][/us/usc/t33/s1342], or from any other federal law.
+            Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under [section 1344 of this title][/us/usc/t33/s1344], existing permitting requirements under [section 1342 of this title][/us/usc/t33/s1342], or from any other federal law.
 
             (C) The authorization provided in Section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of this title for the silviculture activities listed in 1342(l)(3)(A)  <sup>\[2\]</sup>  of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(l)(3)(A)  <sup>\[2\]</sup>  of this title.
 
@@ -291,7 +291,7 @@
 
  __Amendments__ 
 
-    Subsec. (l)(3). [Pub. L. 113–79][/us/pl/113/79] added par. (3).
+    2014—Subsec. (l)(3). [Pub. L. 113–79][/us/pl/113/79] added par. (3).
 
     2008—Subsec. (r). [Pub. L. 110–288][/us/pl/110/288] added subsec. (r).
 
