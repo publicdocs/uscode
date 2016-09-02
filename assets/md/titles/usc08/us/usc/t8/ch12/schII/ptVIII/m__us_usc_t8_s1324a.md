@@ -569,15 +569,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 > “SEC. 401. __ESTABLISHMENT OF PROGRAMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security shall conduct 3 pilot programs of employment eligibility confirmation under this subtitle.
 
->     “(b) __Implementation Deadline; Termination.—__ 
+>     “(b)  __Implementation Deadline; Termination__  __.—__ 
 
 >     The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015.
 
->     “(c) __Scope of Operation of Pilot Programs.—__ 
+>     “(c)  __Scope of Operation of Pilot Programs__  __.—__ 
 
 >     The Secretary of Homeland Security shall provide for the operation—
 
@@ -587,63 +587,63 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(3) of the machine-readable-document pilot program (described in section 403(c) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(c)(2) of this division.
 
->     “(d) __References in Subtitle.—__ 
+>     “(d)  __References in Subtitle__  __.—__ 
 
 >     In this subtitle—
 
->         “(1) __Pilot program references.—__ 
+>         “(1)  __Pilot program references__  __.—__ 
 
 >         The terms ‘program’ or ‘pilot program’ refer to any of the 3 pilot programs provided for under this subtitle.
 
->         “(2) __Confirmation system.—__ 
+>         “(2)  __Confirmation system__  __.—__ 
 
 >         The term ‘confirmation system’ means the confirmation system established under section 404 of this division.
 
->         “(3) __References to section 274a.—__ 
+>         “(3)  __References to section 274a__  __.—__ 
 
 >         Any reference in this subtitle to section 274A (or a subdivision of such section) is deemed a reference to such section (or subdivision thereof) of the Immigration and Nationality Act \[[8 U.S.C. 1324a][/us/usc/t8/s1324a]\].
 
->         “(4) __I–9 or similar form.—__ 
+>         “(4) __I–9__  __or similar form__  __.—__ 
 
 >         The term ‘I–9 or similar form’ means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
 
->         “(5) __Limited application to recruiters and referrers.—__ 
+>         “(5)  __Limited application to recruiters and referrers__  __.—__ 
 
 >         Any reference to recruitment or referral (or a recruiter or referrer) in relation to employment is deemed a reference only to such recruitment or referral (or recruiter or referrer) that is subject to section 274A(a)(1)(B)(ii).
 
->         “(6) __United states citizenship.—__ 
+>         “(6)  __United states citizenship__  __.—__ 
 
 >         The term ‘United States citizenship’ includes United States nationality.
 
->         “(7) __State.—__ 
+>         “(7)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given such term in section 101(a)(36) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(36)][/us/usc/t8/s1101/a/36]\].
 
 > “SEC. 402. __VOLUNTARY ELECTION TO PARTICIPATE IN A PILOT PROGRAM.__ 
 
->     “(a) __Voluntary Election.—__ 
+>     “(a)  __Voluntary Election__  __.—__ 
 
 >     Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program.
 
 >     “(b) __Benefit of Rebuttable Presumption.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
 
->         “(2) __Construction.—__ 
+>         “(2)  __Construction__  __.—__ 
 
 >         Paragraph (1) shall not be construed as preventing a person or other entity that has an election in effect under subsection (a) from establishing an affirmative defense under section 274A(a)(3) if the person or entity complies with the requirements of section 274A(a)(1)(B) but fails to obtain confirmation under paragraph (1).
 
 >     “(c) __General Terms of Elections.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the Secretary of Homeland Security shall specify. The Secretary of Homeland Security may not impose any fee as a condition of making an election or participating in a pilot program.
 
 >         “(2) __Scope of election.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to paragraph (3), any electing person or other entity may provide that the election under subsection (a) shall apply (during the period in which the election is in effect)—
 
@@ -651,25 +651,25 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                 “(ii) to its hiring (or recruitment or referral) in one or more pilot program States or one or more places of hiring (or recruitment or referral, as the case may be) in the pilot program States.
 
->             “(B) __Application of programs in non-pilot program states.—__ 
+>             “(B)  __Application of programs in non-pilot program states__  __.—__ 
 
 >             In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program (described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively.
 
->         “(3) __Termination of elections.—__ 
+>         “(3)  __Termination of elections__  __.—__ 
 
 >         The Secretary of Homeland Security may terminate an election by a person or other entity under this section because the person or entity has substantially failed to comply with its obligations under the pilot program. A person or other entity may terminate an election in such form and manner as the Secretary of Homeland Security shall specify.
 
 >     “(d) __Consultation, Education, and Publicity.—__ 
 
->         “(1) __Consultation.—__ 
+>         “(1)  __Consultation__  __.—__ 
 
 >         The Secretary of Homeland Security shall closely consult with representatives of employers (and recruiters and referrers) in the development and implementation of the pilot programs, including the education of employers (and recruiters and referrers) about such programs.
 
->         “(2) __Publicity.—__ 
+>         “(2)  __Publicity__  __.—__ 
 
 >         The Secretary of Homeland Security shall widely publicize the election process and pilot programs, including the voluntary nature of the pilot programs and the advantages to employers (and recruiters and referrers) of making an election under this section.
 
->         “(3) __Assistance through district offices.—__ 
+>         “(3)  __Assistance through district offices__  __.—__ 
 
 >         The Secretary of Homeland Security shall designate one or more individuals in each District office of the Immigration and Naturalization Service for a Service District in which a pilot program is being implemented—
 
@@ -683,11 +683,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >             “(A) __Executive departments.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Each Department of the Federal Government shall elect to participate in a pilot program and shall comply with the terms and conditions of such an election.
 
->                 “(ii) __Election.—__ 
+>                 “(ii)  __Election__  __.—__ 
 
 >                 Subject to clause (iii), the Secretary of each such Department—
 
@@ -695,7 +695,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                          “(II) may limit the election to hiring occurring in certain States (or geographic areas) covered by the program (or programs) and in specified divisions within the Department, so long as all hiring by such divisions and in such locations is covered.
 
->                 “(iii) __Role of secretary of homeland security.—__ 
+>                 “(iii)  __Role of secretary of homeland security__  __.—__ 
 
 >                 The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that—
 
@@ -703,15 +703,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                          “(II) there is significant participation by the Federal Executive branch in each of the pilot programs.
 
->             “(B) __Legislative branch.—__ 
+>             “(B)  __Legislative branch__  __.—__ 
 
 >             Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
 
->         “(2) __Application to certain violators.—__ 
+>         “(2)  __Application to certain violators__  __.—__ 
 
 >         An order under section 274A(e)(4) or section 274B(g) of the Immigration and Nationality Act \[[8 U.S.C. 1324a(e)(4)][/us/usc/t8/s1324a/e/4], 1324b(g)\] may require the subject of the order to participate in, and comply with the terms of, a pilot program with respect to the subject’s hiring (or recruitment or referral) of individuals in a State covered by such a program.
 
->         “(3) __Consequence of failure to participate.—__ 
+>         “(3)  __Consequence of failure to participate__  __.—__ 
 
 >         If a person or other entity is required under this subsection to participate in a pilot program and fails to comply with the requirements of such program with respect to an individual—
 
@@ -721,17 +721,17 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >             Subparagraph (B) shall not apply in any prosecution under section 274A(f)(1).
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     This subtitle shall not affect the authority of the Secretary of Homeland Security under any other law (including section 274A(d)(4)) to conduct demonstration projects in relation to section 274A.
 
 > “SEC. 403. __PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.__ 
 
->     “(a) __E-Verify Program.—__ 
+>     “(a)  __E-Verify Program__  __.—__ 
 
 >     A person or other entity that elects to participate in the E-Verify Program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:
 
->         “(1) __Provision of additional information.—__ 
+>         “(1)  __Provision of additional information__  __.—__ 
 
 >         The person or entity shall obtain from the individual (and the individual shall provide) and shall record on the I–9 or similar form—
 
@@ -743,7 +743,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(2) __Presentation of documentation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The person or other entity, and the individual whose identity and employment eligibility are being confirmed, shall, subject to subparagraph (B), fulfill the requirements of section 274A(b) with the following modifications:
 
@@ -753,7 +753,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                 “(iii) The person or other entity has complied with the requirements of section 274A(b)(1) with respect to examination of a document if the document reasonably appears on its face to be genuine and it reasonably appears to pertain to the individual whose identity and work eligibility is being confirmed.
 
->             “(B) __Limitation of requirement to examine documentation.—__ 
+>             “(B)  __Limitation of requirement to examine documentation__  __.—__ 
 
 >             If the Secretary of Homeland Security finds that a pilot program would reliably determine with respect to an individual whether—
 
@@ -765,61 +765,61 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(3) __Seeking confirmation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Secretary of Homeland Security) after the date of the hiring (or recruitment or referral, as the case may be).
 
->             “(B) __Extension of time period.—__ 
+>             “(B)  __Extension of time period__  __.—__ 
 
 >             If the person or other entity in good faith attempts to make an inquiry during such 3 working days and the confirmation system has registered that not all inquiries were received during such time, the person or entity can make an inquiry in the first subsequent working day in which the confirmation system registers that it has received all inquiries. If the confirmation system cannot receive inquiries at all times during a day, the person or entity merely has to assert that the entity attempted to make the inquiry on that day for the previous sentence to apply to such an inquiry, and does not have to provide any additional proof concerning such inquiry.
 
 >         “(4) __Confirmation or nonconfirmation.—__ 
 
->             “(A) __Confirmation upon initial inquiry.—__ 
+>             “(A)  __Confirmation upon initial inquiry__  __.—__ 
 
 >             If the person or other entity receives an appropriate confirmation of an individual’s identity and work eligibility under the confirmation system within the time period specified under section 404(b) of this division, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a final confirmation of such identity and work eligibility of the individual.
 
 >             “(B) __Nonconfirmation upon initial inquiry and secondary verification.—__ 
 
->                 “(i) __Nonconfirmation.—__ 
+>                 “(i)  __Nonconfirmation__  __.—__ 
 
 >                 If the person or other entity receives a tentative nonconfirmation of an individual’s identity or work eligibility under the confirmation system within the time period specified under 404(b) of this division, the person or entity shall so inform the individual for whom the confirmation is sought.
 
->                 “(ii) __No contest.—__ 
+>                 “(ii)  __No contest__  __.—__ 
 
 >                 If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, the nonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation.
 
->                 “(iii) __Contest.—__ 
+>                 “(iii)  __Contest__  __.—__ 
 
 >                 If the individual does contest the nonconfirmation, the individual shall utilize the process for secondary verification provided under section 404(c) of this division. The nonconfirmation will remain tentative until a final confirmation or nonconfirmation is provided by the confirmation system within the time period specified in such section. In no case shall an employer terminate employment of an individual because of a failure of the individual to have identity and work eligibility confirmed under this section until a nonconfirmation becomes final. Nothing in this clause shall apply to a termination of employment for any reason other than because of such a failure.
 
->                 “(iv) __Recording of conclusion on form.—__ 
+>                 “(iv)  __Recording of conclusion on form__  __.—__ 
 
 >                 If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
 
 >             “(C) __Consequences of nonconfirmation.—__ 
 
->                 “(i) __Termination or notification of continued employment.—__ 
+>                 “(i)  __Termination or notification of continued employment__  __.—__ 
 
 >                 If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Secretary of Homeland Security of such fact through the confirmation system or in such other manner as the Secretary of Homeland Security may specify.
 
->                 “(ii) __Failure to notify.—__ 
+>                 “(ii)  __Failure to notify__  __.—__ 
 
 >                 If the person or entity fails to provide notice with respect to an individual as required under clause (i), the failure is deemed to constitute a violation of section 274A(a)(1)(B) with respect to that individual and the applicable civil monetary penalty under section 274A(e)(5) shall be (notwithstanding the amounts specified in such section) no less than $500 and no more than $1,000 for each individual with respect to whom such violation occurred.
 
->                 “(iii) __Continued employment after final nonconfirmation.—__ 
+>                 “(iii)  __Continued employment after final nonconfirmation__  __.—__ 
 
 >                 If the person or other entity continues to employ (or to recruit or refer) an individual after receiving final nonconfirmation, a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). The previous sentence shall not apply in any prosecution under section 274A(f)(1).
 
 >     “(b) __Citizen Attestation Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
 >         “(2) __Restrictions.—__ 
 
->             “(A) __State document requirement to participate in pilot program.—__ 
+>             “(A)  __State document requirement to participate in pilot program__  __.—__ 
 
 >             The Secretary of Homeland Security may not provide for the operation of the citizen attestation pilot program in a State unless each driver’s license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—
 
@@ -827,13 +827,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                 “(ii) has been determined by the Secretary of Homeland Security to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section.
 
->             “(B) __Authorization to limit employer participation.—__ 
+>             “(B)  __Authorization to limit employer participation__  __.—__ 
 
 >             The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud.
 
->         “(3) __No confirmation required for certain individuals attesting to u.__ 
+>         “(3)  __No confirmation required for certain individuals attesting to u.s. citizenship__  __.—__ 
 
->         s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
+>         In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
 
 >             “(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and
 
@@ -841,39 +841,39 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(4) __Waiver of document presentation requirement in certain cases.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a person or entity that elects, in a manner specified by the Secretary of Homeland Security consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b).
 
->             “(B) __Restriction.—__ 
+>             “(B)  __Restriction__  __.—__ 
 
 >             The Secretary of Homeland Security shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers.
 
->         “(5) __Nonreviewable determinations.—__ 
+>         “(5)  __Nonreviewable determinations__  __.—__ 
 
 >         The determinations of the Secretary of Homeland Security under paragraphs (2) and (4) are within the discretion of the Secretary of Homeland Security and are not subject to judicial or administrative review.
 
 >     “(c) __Machine-Readable-Document Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
->         “(2) __State document requirement to participate in pilot program.—__ 
+>         “(2)  __State document requirement to participate in pilot program__  __.—__ 
 
 >         The Secretary of Homeland Security may not provide for the operation of the machine-readable-document pilot program in a State unless driver’s licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number.
 
->         “(3) __Use of machine-readable documents.—__ 
+>         “(3)  __Use of machine-readable documents__  __.—__ 
 
 >         If the individual whose identity and employment eligibility must be confirmed presents to the person or entity hiring (or recruiting or referring) the individual a license or other document described in paragraph (2) that includes a machine-readable social security account number, the person or entity must make an inquiry through the confirmation system by using a machine-readable feature of such document. If the individual does not attest to United States citizenship under section 274A(b)(2), the individual’s identification or authorization number described in subsection (a)(1)(B) shall be provided as part of the inquiry.
 
->     “(d) __Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System.—__ 
+>     “(d)  __Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System__  __.—__ 
 
 >     No person or entity participating in a pilot program shall be civilly or criminally liable under any law for any action taken in good faith reliance on information provided through the confirmation system.
 
 > “SEC. 404. __EMPLOYMENT ELIGIBILITY CONFIRMATION SYSTEM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—
 
@@ -883,15 +883,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         To the extent practicable, the Secretary of Homeland Security shall seek to establish such a system using one or more nongovernmental entities.
 
->     “(b) __Initial Response.—__ 
+>     “(b)  __Initial Response__  __.—__ 
 
 >     The confirmation system shall provide confirmation or a tentative nonconfirmation of an individual’s identity and employment eligibility within 3 working days of the initial inquiry. If providing confirmation or tentative nonconfirmation, the confirmation system shall provide an appropriate code indicating such confirmation or such nonconfirmation.
 
->     “(c) __Secondary Verification Process in Case of Tentative Nonconfirmation.—__ 
+>     “(c)  __Secondary Verification Process in Case of Tentative Nonconfirmation__  __.—__ 
 
 >     In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
 
->     “(d) __Design and Operation of System.—__ 
+>     “(d)  __Design and Operation of System__  __.—__ 
 
 >     The confirmation system shall be designed and operated—
 
@@ -911,31 +911,31 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >             “(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants.
 
->     “(e) __Responsibilities of the Commissioner of Social Security.—__ 
+>     “(e)  __Responsibilities of the Commissioner of Social Security__  __.—__ 
 
 >     As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual has presented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation).
 
->     “(f) __Responsibilities of the Commissioner of the Immigration and Naturalization Service.—__ 
+>     “(f)  __Responsibilities of the Commissioner of the Immigration and Naturalization Service__  __.—__ 
 
 >     As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States.
 
->     “(g) __Updating Information.—__ 
+>     “(g)  __Updating Information__  __.—__ 
 
 >     The Commissioners of Social Security and the Immigration and Naturalization Service shall update their information in a manner that promotes the maximum accuracy and shall provide a process for the prompt correction of erroneous information, including instances in which it is brought to their attention in the secondary verification process described in subsection (c).
 
 >     “(h) __Limitation on Use of the Confirmation System and Any Related Systems.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under this subtitle.
 
->         “(2) __No national identification card.—__ 
+>         “(2)  __No national identification card__  __.—__ 
 
 >         Nothing in this subtitle shall be construed to authorize, directly or indirectly, the issuance or use of national identification cards or the establishment of a national identification card.
 
 > “SEC. 405. __REPORTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate reports on the pilot programs within 3 months after the end of the third and fourth years in which the programs are in effect. Such reports shall—
 
@@ -945,7 +945,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A.
 
->     “(b) __Report on Expansion.—__ 
+>     “(b)  __Report on Expansion__  __.—__ 
 
 >     Not later than June 1, 2004, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report—
 
@@ -973,19 +973,19 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [Pub. L. 101–238, § 5][/us/pl/101/238/s5], Dec. 18, 1989, [103 Stat. 2104][/us/stat/103/2104], provided that:
 
->     “(a) __Consultation.—__ 
+>     “(a)  __Consultation__  __.—__ 
 
 >     Before June 1, 1991, the Attorney General shall consult with State governments on any proper State initiative to improve the security of State or local documents which would satisfy the requirements of section 274A(b)(1) of the Immigration and Nationality Act ([8 U.S.C. 1324a][/us/usc/t8/s1324a]). The result of such consultations shall be reported, before September 1, 1991, to the Committees on the Judiciary of the Senate and House of Representatives of the United States.
 
->     “(b) __Assistance for State Initiatives.—__ 
+>     “(b)  __Assistance for State Initiatives__  __.—__ 
 
 >     After such consultation described in subsection (a), the Attorney General shall make grants to, and enter into contracts with (to such extent or in such amounts as are provided in an appropriation Act), the State of California and at least 2 other States with large immigrant populations to promote any State initiatives to improve the security of State or local documents which would satisfy the requirements of section 274A(b)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1324a(b)(1)][/us/usc/t8/s1324a/b/1]\].
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Attorney General $10,000,000 for fiscal year 1992 to carry out subsection (b).
 
->     “(d) __Report Required.—__ 
+>     “(d)  __Report Required__  __.—__ 
 
 >     The Attorney General shall report to the Committees on the Judiciary of the Senate and House of Representatives not later than August 1, 1993, on the security of State or local documents which would satisfy the requirements of section 274A(b)(1) of the Immigration and Nationality Act ([8 U.S.C. 1324a][/us/usc/t8/s1324a]), and any improvements in such documents that have occurred as a result of this section.”
 

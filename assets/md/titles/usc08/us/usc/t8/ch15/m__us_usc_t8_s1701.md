@@ -117,7 +117,7 @@
 
 [Pub. L. 109–367, § 2][/us/pl/109/367/s2], Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Oct. 26, 2006\], the Secretary of Homeland Security shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States, to include the following—
 
@@ -125,11 +125,11 @@
 
 >         “(2) physical infrastructure enhancements to prevent unlawful entry by aliens into the United States and facilitate access to the international land and maritime borders by United States Customs and Border Protection, such as additional checkpoints, all weather access roads, and vehicle barriers.
 
->     “(b) __Operational Control Defined.—__ 
+>     “(b)  __Operational Control Defined__  __.—__ 
 
 >     In this section, the term ‘operational control’ means the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section.”
 
@@ -137,11 +137,11 @@
 
 [Pub. L. 108–458, title V, § 5201][/us/pl/108/458/s5201], Dec. 17, 2004, [118 Stat. 3733][/us/stat/118/3733], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall submit to the President and the appropriate committees of Congress a comprehensive plan for the systematic surveillance of the southwest border of the United States by remotely piloted aircraft.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The plan submitted under subsection (a) shall include—
 
@@ -171,11 +171,11 @@
 
 >         “(7) a recommendation regarding whether to expand the pilot program along the entire southwest border.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Secretary of Homeland Security shall implement the plan submitted under subsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 

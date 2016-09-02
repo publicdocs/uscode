@@ -207,11 +207,11 @@
 
 [Pub. L. 99–603, title III, § 301(d)][/us/pl/99/603/s301/d], (e), Nov. 6, 1986, [100 Stat. 3416][/us/stat/100/3416], as amended by [Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(4), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612], provided that:
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 1101 and 1184\] apply to petitions and applications filed under sections 214(c) and 218 of the Immigration and Nationality Act \[[8 U.S.C. 1184(c)][/us/usc/t8/s1184/c], 1188\] on or after the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\] (hereinafter in this section referred to as the ‘effective date’).
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     The Attorney General, in consultation with the Secretary of Labor and the Secretary of Agriculture, shall approve all regulations to be issued implementing sections 101(a)(15)(H)(ii)(a) and 218 of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)(H)(ii)(a)][/us/usc/t8/s1101/a/15/H/ii/a], 1188\]. Notwithstanding any other provision of law, final regulations to implement such sections shall first be issued, on an interim or other basis, not later than the effective date.”
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 99–603, title IV, § 403][/us/pl/99/603/s403], Nov. 6, 1986, [100 Stat. 3441][/us/stat/100/3441], provided that:
 
->     “(a) __Presidential Reports.—__ 
+>     “(a)  __Presidential Reports__  __.—__ 
 
 >     The President shall transmit to the Committees on the Judiciary of the Senate and of the House of Representatives reports on the implementation of the temporary agricultural worker (H–2A) program, which shall include—
 
@@ -253,7 +253,7 @@
 
 >         The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
 
->     “(b) __Deadlines.—__ 
+>     “(b)  __Deadlines__  __.—__ 
 
 >     A report on the H–2A temporary worker program under subsection (a) shall be submitted not later than two years after the date of the enactment of this Act \[Nov. 6, 1986\], and every two years thereafter.”
 

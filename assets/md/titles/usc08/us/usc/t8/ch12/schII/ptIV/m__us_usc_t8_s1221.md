@@ -127,11 +127,11 @@
 
 [Pub. L. 107–173, title IV, § 402(b)][/us/pl/107/173/s402/b], May 14, 2002, [116 Stat. 559][/us/stat/116/559], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The President shall conduct a study regarding the feasibility of extending the requirements of subsections (a) and (b) of section 231 of the Immigration and Nationality Act ([8 U.S.C. 1221][/us/usc/t8/s1221]), as amended by subsection (a), to any commercial carrier transporting persons by land to or from the United States. The study shall focus on the manner in which such requirement would be implemented to enhance the national security of the United States and the efficient cross-border flow of commerce and persons.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than two years after the date of enactment of this Act \[May 14, 2002\], the President shall submit to Congress a report setting forth the findings of the study conducted under paragraph (1).”
 

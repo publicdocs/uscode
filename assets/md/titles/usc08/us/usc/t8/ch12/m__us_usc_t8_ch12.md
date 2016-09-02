@@ -1483,7 +1483,7 @@ Part II—Nationality Through Naturalization  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1431" data-uslm-ref="/us/usc/t8/s1431">1431.</a>  </td>
 
-    <td> Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired.  </td>
+    <td> Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date.  </td>
 
   </tr>
 

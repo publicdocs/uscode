@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1430.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1432.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1431)
 
-## § 1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired
+## § 1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date
 
-    (a)
+     (a) __In general__ 
 
      A child born outside of the United States automatically becomes a citizen of the United States when all of the following conditions have been fulfilled:
 
@@ -25,11 +25,19 @@
 
         (3) The child is residing in the United States in the legal and physical custody of the citizen parent pursuant to a lawful admission for permanent residence.
 
-    (b) Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
+     (b) __Adoption__ 
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 320, [66 Stat. 245][/us/stat/66/245]; [Pub. L. 95–417, § 4][/us/pl/95/417/s4], Oct. 5, 1978, [92 Stat. 917][/us/stat/92/917]; [Pub. L. 97–116, § 18(m)][/us/pl/97/116/s18/m], Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 99–653, § 14][/us/pl/99/653/s14], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525][/us/pl/100/525], §§ 8(l), 9(w), Oct. 24, 1988, [102 Stat. 2618][/us/stat/102/2618], 2621; [Pub. L. 106–395, title I, § 101(a)][/us/pl/106/395/s101/a], Oct. 30, 2000, [114 Stat. 1631][/us/stat/114/1631].)
+         Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
+
+    (c) __Name and birth date__ 
+
+         A Certificate of Citizenship or other Federal document issued or requested to be amended under this section shall reflect the child’s name and date of birth as indicated on a State court order, birth certificate, certificate of foreign birth, certificate of birth abroad, or similar State vital records document issued by the child’s State of residence in the United States after the child has been adopted or readopted in that State.
+
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 320, [66 Stat. 245][/us/stat/66/245]; [Pub. L. 95–417, § 4][/us/pl/95/417/s4], Oct. 5, 1978, [92 Stat. 917][/us/stat/92/917]; [Pub. L. 97–116, § 18(m)][/us/pl/97/116/s18/m], Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 99–653, § 14][/us/pl/99/653/s14], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525][/us/pl/100/525], §§ 8(l), 9(w), Oct. 24, 1988, [102 Stat. 2618][/us/stat/102/2618], 2621; [Pub. L. 106–395, title I, § 101(a)][/us/pl/106/395/s101/a], Oct. 30, 2000, [114 Stat. 1631][/us/stat/114/1631]; [Pub. L. 113–74, § 2][/us/pl/113/74/s2], Jan. 16, 2014, [127 Stat. 1212][/us/stat/127/1212].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–74][/us/pl/113/74] added subsec. (c).
 
     2000—[Pub. L. 106–395][/us/pl/106/395] amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -87,6 +95,9 @@
 [/us/stat/102/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2618
 [/us/pl/106/395/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2Fs101%2Fa
 [/us/stat/114/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1631
+[/us/pl/113/74/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F74%2Fs2
+[/us/stat/127/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1212
+[/us/pl/113/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F74
 [/us/pl/106/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395
 [/us/pl/100/525/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8
 [/us/pl/99/653/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs14

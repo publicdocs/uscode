@@ -1241,7 +1241,7 @@
 
 [Pub. L. 111–306, § 1(b)][/us/pl/111/306/s1/b], Dec. 14, 2010, [124 Stat. 3280][/us/stat/124/3280], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall—
 
@@ -1251,11 +1251,11 @@
 
 >     “(2) __Temporary exception.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 101(a)(15)(F)(i) of the Immigration and Nationality Act, as amended by subsection (a), during the 3-year period beginning on the date of the enactment of this Act, an alien seeking to enter the United States to pursue a course of study at a language training program that has been certified by the Secretary of Homeland Security and has not been accredited or denied accreditation by an entity described in section 101(a)(52) of such Act \[[8 U.S.C. 1101(a)(52)][/us/usc/t8/s1101/a/52]\] may be granted a nonimmigrant visa under such section 101(a)(15)(F)(i).
 
->         “(B) __Additional requirement.—__ 
+>         “(B)  __Additional requirement__  __.—__ 
 
 >         An alien may not be granted a nonimmigrant visa under subparagraph (A) if the sponsoring institution of the language training program to which the alien seeks to enroll does not—
 
@@ -1265,11 +1265,11 @@
 
 [Pub. L. 111–287, § 4][/us/pl/111/287/s4], Nov. 30, 2010, [124 Stat. 3059][/us/stat/124/3059], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[amending this section and [section 1182 of this title][/us/usc/t8/s1182]\] shall take effect on the date of the enactment of this Act \[Nov. 30, 2010\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     An alien who is described in section 101(b)(1)(G)(iii) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)(G)(iii)][/us/usc/t8/s1101/b/1/G/iii]\], as added by section 3, and attained 18 years of age on or after April 1, 2008, shall be deemed to meet the age requirement specified in subclause (III) of such section if a petition for classification of the alien as an immediate relative under section 201(b) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)][/us/usc/t8/s1151/b]) is filed not later than 2 years after the date of the enactment of this Act.”
 
@@ -1349,27 +1349,27 @@
 
 [Pub. L. 104–208, div. C, title I, § 104(b)][/us/pl/104/208/s104/b], Sept. 30, 1996, [110 Stat. 3009–556][/us/stat/110/3009-556], as amended by [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 410(c)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–104; [Pub. L. 107–173, title VI, § 601][/us/pl/107/173/s601], May 14, 2002, [116 Stat. 564][/us/stat/116/564], provided that:
 
->     “(1) __Clause a.—__ 
+>     “(1)  __Clause a__  __.—__ 
 
 >     Clause (A) of the sentence added by the amendment made by subsection (a) \[amending this section\] shall apply to documents issued on or after 18 months after the date of the enactment of this Act \[Sept. 30, 1996\].
 
->     “(2) __Clause b.—__ 
+>     “(2)  __Clause b__  __.—__ 
 
 >     Clause (B) of such sentence shall apply to cards presented on or after 6 years after the date of the enactment of this Act.”
 
 [Pub. L. 104–208, div. C, title III, § 309][/us/pl/104/208/s309], Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625], as amended by [Pub. L. 104–302, § 2(2)][/us/pl/104/302/s2/2], (3), Oct. 11, 1996, [110 Stat. 3657][/us/stat/110/3657]; [Pub. L. 105–100, title II][/us/pl/105/100], §§ 203(a)–(c), 204(d), Nov. 19, 1997, [111 Stat. 2196–2199][/us/stat/111/2196-2199], 2201; [Pub. L. 105–139, § 1(c)][/us/pl/105/139/s1/c], Dec. 2, 1997, [111 Stat. 2644][/us/stat/111/2644]; [Pub. L. 106–386, div. B, title V][/us/pl/106/386], §§ 1506(b)(3), 1510(b), Oct. 28, 2000, [114 Stat. 1527][/us/stat/114/1527], 1531; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XV, § 1505(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–327, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section and sections 303(b)(2), 306(c), 308(d)(2)(D), or 308(d)(5) of this division \[amending sections 1225, 1227, and 1251 of this title, enacting provisions set out as notes under sections 1225, 1226, 1227, and 1252 of this title, and repealing provisions set out as a note under [section 1225 of this title][/us/usc/t8/s1225]\], this subtitle \[subtitle A (§§ 301–309) of title III of div. C of [Pub. L. 104–208][/us/pl/104/208], see Tables for classification\] and the amendments made by this subtitle shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\] (in this title \[see Tables for classification\] referred to as the ‘title III–A effective date’).
 
->     “(b) __Promulgation of Regulations.—__ 
+>     “(b)  __Promulgation of Regulations__  __.—__ 
 
 >     The Attorney General shall first promulgate regulations to carry out this subtitle by not later than 30 days before the title III–A effective date.
 
 >     “(c) __Transition for Certain Aliens.—__ 
 
->         “(1) __General rule that new rules do not apply.—__ 
+>         “(1)  __General rule that new rules do not apply__  __.—__ 
 
 >         Subject to the succeeding provisions of this subsection, in the case of an alien who is in exclusion or deportation proceedings before the title III–A effective date—
 
@@ -1377,15 +1377,15 @@
 
 >             “(B) the proceedings (including judicial review thereof) shall continue to be conducted without regard to such amendments.
 
->         “(2) __Attorney general option to elect to apply new procedures.—__ 
+>         “(2)  __Attorney general option to elect to apply new procedures__  __.—__ 
 
 >         In a case described in paragraph (1) in which an evidentiary hearing under section 236 or 242 and 242B of the Immigration and Nationality Act \[[8 U.S.C. 1226][/us/usc/t8/s1226], 1252, former 1252b\] has not commenced as of the title III–A effective date, the Attorney General may elect to proceed under chapter 4 of title II of such Act \[[8 U.S.C. 1221][/us/usc/t8/s1221] et seq.\] (as amended by this subtitle). The Attorney General shall provide notice of such election to the alien involved not later than 30 days before the date any evidentiary hearing is commenced. If the Attorney General makes such election, the notice of hearing provided to the alien under section 235 or 242(a) of such Act \[[8 U.S.C. 1225][/us/usc/t8/s1225], 1252(a)\] shall be valid as if provided under section 239 of such Act \[[8 U.S.C. 1229][/us/usc/t8/s1229]\] (as amended by this subtitle) to confer jurisdiction on the immigration judge.
 
->         “(3) __Attorney general option to terminate and reinitiate proceedings.—__ 
+>         “(3)  __Attorney general option to terminate and reinitiate proceedings__  __.—__ 
 
 >         In the case described in paragraph (1), the Attorney General may elect to terminate proceedings in which there has not been a final administrative decision and to reinitiate proceedings under chapter 4 of title II \[of\] the Immigration and Nationality Act \[[8 U.S.C. 1221][/us/usc/t8/s1221] et seq.\] (as amended by this subtitle). Any determination in the terminated proceeding shall not be binding in the reinitiated proceeding.
 
->         “(4) __Transitional changes in judicial review.—__ 
+>         “(4)  __Transitional changes in judicial review__  __.—__ 
 
 >         In the case in which a final order of exclusion or deportation is entered more than 30 days after the date of the enactment of this Act \[Sept. 30, 1996\], notwithstanding any provision of section 106 of the Immigration and Nationality Act \[former [8 U.S.C. 1105a][/us/usc/t8/s1105a]\] (as in effect as of the date of the enactment of this Act) to the contrary—
 
@@ -1405,17 +1405,17 @@
 
 >         “(5) __Transitional rules with regard to suspension of deportation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraphs (B) and (C), paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act \[[8 U.S.C. 1229b(d)(1)][/us/usc/t8/s1229b/d/1], (2)\] (relating to continuous residence or physical presence) shall apply to orders to show cause (including those referred to in section 242B(a)(1) of the Immigration and Nationality Act \[former [8 U.S.C. 1252b(a)(1)][/us/usc/t8/s1252b/a/1]\], as in effect before the title III–A effective date), issued before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].
 
->             “(B) __Exception for certain orders.—__ 
+>             “(B)  __Exception for certain orders__  __.—__ 
 
 >             In any case in which the Attorney General elects to terminate and reinitiate proceedings in accordance with paragraph (3) of this subsection, paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act \[[8 U.S.C. 1229b(d)(1)][/us/usc/t8/s1229b/d/1], (2)\] shall not apply to an order to show cause issued before April 1, 1997.
 
 >             “(C) __Special rule for certain aliens granted temporary protection from deportation and for battered spouses and children.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of calculating the period of continuous physical presence under section 244(a) of the Immigration and Nationality Act \[former [8 U.S.C. 1254(a)][/us/usc/t8/s1254/a]\] (as in effect before the title III–A effective date) or section 240A of such Act \[[8 U.S.C. 1229b][/us/usc/t8/s1229b]\] (as in effect after the title III–A effective date), subparagraph (A) of this paragraph and paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act shall not apply in the case of an alien, regardless of whether the alien is in exclusion or deportation proceedings before the title III–A effective date, who has not been convicted at any time of an aggravated felony (as defined in section 101(a) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)][/us/usc/t8/s1101/a]\]) and—
 
@@ -1457,27 +1457,27 @@
 
 >                              “(bb) the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien described in subclause (I), (II), or (V).
 
->                 “(ii) __Limitation on judicial review.—__ 
+>                 “(ii)  __Limitation on judicial review__  __.—__ 
 
 >                 A determination by the Attorney General as to whether an alien satisfies the requirements of clause (i) is final and shall not be subject to review by any court. Nothing in the preceding sentence shall be construed as limiting the application of section 242(a)(2)(B) of the Immigration and Nationality Act \[[8 U.S.C. 1252(a)(2)(B)][/us/usc/t8/s1252/a/2/B]\] (as in effect after the title III–A effective date) to other eligibility determinations pertaining to discretionary relief under this Act \[probably should be “division”, see Short Title of 1996 Amendment note below\].
 
->                 “(iii) __Consideration of petitions.—__ 
+>                 “(iii)  __Consideration of petitions__  __.—__ 
 
 >                 In acting on a petition filed under subclause (VII) of clause (i) the provisions set forth in section 204(a)(1)(H) \[probably means section 204(a)(1)(H) of the Immigration and Nationality Act, which is classified to [section 1154(a)(1)(H) of this title][/us/usc/t8/s1154/a/1/H]\] shall apply.
 
->                 “(iv) __Residence with spouse or parent not required.—__ 
+>                 “(iv)  __Residence with spouse or parent not required__  __.—__ 
 
 >                 For purposes of the application of clause (i)(VII), a spouse or child shall not be required to demonstrate that he or she is residing with the spouse or parent in the United States.
 
->         “(6) __Transition for certain family unity aliens.—__ 
+>         “(6)  __Transition for certain family unity aliens__  __.—__ 
 
 >         The Attorney General may waive the application of section 212(a)(9) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(9)][/us/usc/t8/s1182/a/9]\], as inserted by section 301(b)(1) of this division, in the case of an alien who is provided benefits under the provisions of section 301 of the Immigration Act of 1990 \[[Pub. L. 101–649][/us/pl/101/649], set out as a note under [section 1255a of this title][/us/usc/t8/s1255a]\] (relating to family unity).
 
->         “(7) __Limitation on suspension of deportation.—__ 
+>         “(7)  __Limitation on suspension of deportation__  __.—__ 
 
 >         After April 1, 1997, the Attorney General may not suspend the deportation and adjust the status under section 244 of the Immigration and Nationality Act \[former [8 U.S.C. 1254][/us/usc/t8/s1254]\] (as in effect before the title III–A effective date) of any alien in any fiscal year, except in accordance with section 240A(e) of such Act \[[8 U.S.C. 1229b(e)][/us/usc/t8/s1229b/e]\]. The previous sentence shall apply regardless of when an alien applied for such suspension and adjustment.
 
->     “(d) __Transitional References.—__ 
+>     “(d)  __Transitional References__  __.—__ 
 
 >     For purposes of carrying out the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], as amended by this subtitle—
 
@@ -1485,13 +1485,13 @@
 
 >         “(2) any reference in law to an order of removal shall be deemed to include a reference to an order of exclusion and deportation or an order of deportation.
 
->     “(e) __Transition.—__ 
+>     “(e)  __Transition__  __.—__ 
 
 >     No period of time before the date of the enactment of this Act \[Sept. 30, 1996\] shall be included in the period of 1 year described in section 212(a)(6)(B)(i) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(6)(B)(i)][/us/usc/t8/s1182/a/6/B/i]\] (as amended by section 301(c) of this division).
 
 >     “(f) __Special Rule for Cancellation of Removal.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the provisions of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] (as in effect after the title III–A effective date), other than subsections (b)(1), (d)(1), and (e) of section 240A of such Act \[[8 U.S.C. 1229b(b)(1)][/us/usc/t8/s1229b/b/1], (d)(1), (e)\] (but including section 242(a)(2)(B) of such Act \[[8 U.S.C. 1252(a)(2)(B)][/us/usc/t8/s1252/a/2/B]\]), the Attorney General may, under section 240A of such Act, cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States, if the alien applies for such relief, the alien is described in subsection (c)(5)(C)(i) of this section, and—
 
@@ -1521,17 +1521,17 @@
 
 >                 “(v) establishes that removal would result in exceptional and extremely unusual hardship to the alien or to the alien’s spouse, parent, or child, who is a citizen of the United States or an alien lawfully admitted for permanent residence.
 
->         “(2) __Treatment of certain breaks in presence.—__ 
+>         “(2)  __Treatment of certain breaks in presence__  __.—__ 
 
 >         Section 240A(d)(2) \[[8 U.S.C. 1229b(d)(2)][/us/usc/t8/s1229b/d/2]\] shall apply for purposes of calculating any period of continuous physical presence under this subsection, except that the reference to subsection (b)(1) in such section shall be considered to be a reference to paragraph (1) of this section.
 
->     “(g) __Motions To Reopen Deportation or Removal Proceedings.—__ 
+>     “(g)  __Motions To Reopen Deportation or Removal Proceedings__  __.—__ 
 
 >     Notwithstanding any limitation imposed by law on motions to reopen removal or deportation proceedings (except limitations premised on an alien’s conviction of an aggravated felony (as defined in section 101(a) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)][/us/usc/t8/s1101/a]\])), any alien who has become eligible for cancellation of removal or suspension of deportation as a result of the amendments made by section 203 of the Nicaraguan Adjustment and Central American Relief Act \[[Pub. L. 105–100][/us/pl/105/100], amending this note\] may file one motion to reopen removal or deportation proceedings to apply for cancellation of removal or suspension of deportation. The Attorney General shall designate a specific time period in which all such motions to reopen are required to be filed. The period shall begin not later than 60 days after the date of the enactment of the Nicaraguan Adjustment and Central American Relief Act \[Nov. 19, 1997\] and shall extend for a period not to exceed 240 days.
 
 >     “(h) __Relief and Motions to Reopen.—__ 
 
->         “(1) __Relief.—__ 
+>         “(1)  __Relief__  __.—__ 
 
 >         An alien described in subsection (c)(5)(C)(i) who is otherwise eligible for—
 
@@ -1541,11 +1541,11 @@
 
 >             shall not be barred from applying for such relief by operation of section 241(a)(5) of the Immigration and Nationality Act \[[8 U.S.C. 1231(a)(5)][/us/usc/t8/s1231/a/5]\], as in effect after the title III–A effective date.
 
->         “(2) __Additional motion to reopen permitted.—__ 
+>         “(2)  __Additional motion to reopen permitted__  __.—__ 
 
 >         Notwithstanding any limitation imposed by law on motions to reopen removal or deportation proceedings (except limitations premised on an alien’s conviction of an aggravated felony (as defined by section 101(a) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)][/us/usc/t8/s1101/a]\])), any alien who is described in subsection (c)(5)(C)(i) and who has become eligible for cancellation of removal or suspension of deportation as a result of the enactment of paragraph (1) may file one motion to reopen removal or deportation proceedings in order to apply for cancellation of removal or suspension of deportation. The scope of any proceeding reopened on this basis shall be limited to a determination of the alien’s eligibility for cancellation of removal or suspension of deportation. The Attorney General shall designate a specific time period in which all such motions to reopen are required to be filed. The period shall begin not later than 60 days after the date of the enactment of this subsection \[Dec. 21, 2000\] and shall extend for a period not to exceed 240 days.
 
->         “(3) __Construction.—__ 
+>         “(3)  __Construction__  __.—__ 
 
 >         Nothing in this subsection shall preclude an alien from filing a motion to reopen pursuant to section 240(b)(5)(C)(ii) of the Immigration and Nationality Act \[[8 U.S.C. 1229a(b)(5)(C)(ii)][/us/usc/t8/s1229a/b/5/C/ii]\], or section 242B(c)(3)(B) of such Act \[[8 U.S.C. 1252b(c)(3)(B)][/us/usc/t8/s1252b/c/3/B]\] (as in effect before the title III–A effective date).”
 
@@ -1643,11 +1643,11 @@
 
 [Pub. L. 101–649, title I, § 161][/us/pl/101/649/s161], Nov. 29, 1990, [104 Stat. 5008][/us/stat/104/5008], as amended by [Pub. L. 102–110, § 4][/us/pl/102/110/s4], Oct. 1, 1991, [105 Stat. 557][/us/stat/105/557]; [Pub. L. 102–232, title III, § 302(e)(1)][/us/pl/102/232/s302/e/1], (2), Dec. 12, 1991, [105 Stat. 1745][/us/stat/105/1745]; [Pub. L. 103–416, title II][/us/pl/103/416], §§ 218, 219(aa), Oct. 25, 1994, [108 Stat. 4316][/us/stat/108/4316], 4319; [Pub. L. 104–208, div. C, title VI, § 671(f)][/us/pl/104/208/s671/f], Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title, this title and the amendments made by this title \[enacting [section 1186b of this title][/us/usc/t8/s1186b], amending this section, sections 1103, 1151 to 1154, 1157, 1159, 1182, 1251, 1254, 1255, and 1325 of this title, [section 3304 of Title 26][/us/usc/t26/s3304], Internal Revenue Code, and [section 1382c of Title 42][/us/usc/t42/s1382c], The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1152, 1153, 1159, 1182, 1201, and 1251 of this title, and amending provisions set out as notes under [section 1255 of this title][/us/usc/t8/s1255]\] shall take effect on October 1, 1991, and apply beginning with fiscal year 1992.
 
->     “(b) __Provisions Taking Effect Upon Enactment.—__ 
+>     “(b)  __Provisions Taking Effect Upon Enactment__  __.—__ 
 
 >     The following sections (and amendments made by such sections) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and (unless otherwise provided) apply to fiscal year 1991:
 
@@ -1691,11 +1691,11 @@
 
 >             “(B) Subparagraph (A) shall not apply more than two years after the date the priority date for issuance of a visa on the basis of such a petition has been reached.
 
->     “(d) __Admissibility Standards.—__ 
+>     “(d)  __Admissibility Standards__  __.—__ 
 
 >     When an immigrant, in possession of an unexpired immigrant visa issued before October 1, 1991, makes application for admission, the immigrant’s admissibility under paragraph (7)(A) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(7)(A)][/us/usc/t8/s1182/a/7/A]\] shall be determined under the provisions of law in effect on the date of the issuance of such visa.
 
->     “(e) __Construction.—__ 
+>     “(e)  __Construction__  __.—__ 
 
 >     Nothing in this title \[see subsec. (a) above\] shall be construed as affecting the provisions of [section 19 of Public Law 97–116][/us/pl/97/116/s19] \[[8 U.S.C. 1151][/us/usc/t8/s1151] note\], [section 2(c)(1) of Public Law 97–271][/us/pl/97/271/s2/c/1] \[[8 U.S.C. 1255][/us/usc/t8/s1255] note\], or [section 202(e) of Public Law 99–603][/us/pl/99/603/s202/e] \[[8 U.S.C. 1255a][/us/usc/t8/s1255a] note\].”
 
@@ -1839,6 +1839,12 @@
 
 > “Except as provided in subsection (k) of section 401 \[former [section 1106(k) of this title][/us/usc/t8/s1106/k]\], this Act \[this chapter\] shall take effect at 12:01 ante meridian United States Eastern Standard Time on the one hundred eightieth day immediately following the date of its enactment \[June 27, 1952\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–74, § 1][/us/pl/113/74/s1], Jan. 16, 2014, [127 Stat. 1212][/us/stat/127/1212], provided that: 
+
+> “This Act \[amending [section 1431 of this title][/us/usc/t8/s1431]\] may be cited as the ‘Accuracy for Adoptees Act’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–287, § 1][/us/pl/111/287/s1], Nov. 30, 2010, [124 Stat. 3058][/us/stat/124/3058], provided that: 
@@ -1851,11 +1857,7 @@
 
 > “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as \[the\] ‘Special Immigrant Nonminister Religious Worker Program Act’.”
 
-[Pub. L. 110–382, § 1][/us/pl/110/382/s1], Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087], provided that: 
-
-> “This Act \[amending [section 1439 of this title][/us/usc/t8/s1439] and [section 271 of Title 6][/us/usc/t6/s271], Domestic Security, and enacting provisions set out as notes under [section 271 of Title 6][/us/usc/t6/s271]\] may be cited as the ‘Military Personnel Citizenship Processing Act’.”
-
-    \[[Pub. L. 110–382, § 4][/us/pl/110/382/s4], Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], provided that [section 1 of Pub. L. 110–382][/us/pl/110/382/s1], set out as a note above, is repealed 5 years after Oct. 9, 2008.\]
+    [Pub. L. 110–382, § 1][/us/pl/110/382/s1], Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087], which provided that [Pub. L. 110–382][/us/pl/110/382] could be cited as the “Military Personnel Citizenship Processing Act”, was repealed by [Pub. L. 110–382, § 4][/us/pl/110/382/s4], Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], effective 5 years after Oct. 9, 2008.
 
 [Pub. L. 110–251, § 1][/us/pl/110/251/s1], June 26, 2008, [122 Stat. 2319][/us/stat/122/2319], provided that: 
 
@@ -2299,7 +2301,7 @@
 
 > “SEC. 602. __PROTECTION FOR AFGHAN ALLIES.__ 
 
->     “(a) __Appropriate Committees of Congress Defined.—__ 
+>     “(a)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 
@@ -2309,7 +2311,7 @@
 
 >     “(b) __Special Immigrant Status for Certain Afghans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (3), the Secretary of Homeland Security, or, notwithstanding any other provision of law, the Secretary of State in consultation with the Secretary of Homeland Security, may provide an alien described in subparagraph (A), (B), or (C) of paragraph (2) with the status of a special immigrant under section 101(a)(27) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]), if the alien—
 
@@ -2323,7 +2325,7 @@
 
 >         “(2) __Aliens described.—__ 
 
->             “(A) __Principal aliens.—__ 
+>             “(A)  __Principal aliens__  __.—__ 
 
 >             An alien is described in this subparagraph if the alien—
 
@@ -2335,7 +2337,7 @@
 
 >                 “(iv) has experienced or is experiencing an ongoing serious threat as a consequence of the alien’s employment by the United States Government.
 
->             “(B) __Spouse or child.—__ 
+>             “(B)  __Spouse or child__  __.—__ 
 
 >             An alien is described in this subparagraph if the alien—
 
@@ -2343,7 +2345,7 @@
 
 >                 “(ii) is accompanying or following to join the principal alien in the United States.
 
->             “(C) __Surviving spouse or child.—__ 
+>             “(C)  __Surviving spouse or child__  __.—__ 
 
 >             An alien is described in this subparagraph if the alien—
 
@@ -2357,23 +2359,23 @@
 
 >                          “(II) such petition would have been approved if the principal alien had survived.
 
->             “(D) __Approval by chief of mission required.—__ 
+>             “(D)  __Approval by chief of mission required__  __.—__ 
 
 >             A recommendation or evaluation required under subparagraph (A)(iii) shall be accompanied by approval from the appropriate Chief of Mission, or the designee of the appropriate Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
 
 >         “(3) __Numerical limitations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (C), the total number of principal aliens who may be provided special immigrant status under this section may not exceed 1,500 per year for each of the fiscal years 2009, 2010, 2011, 2012, and 2013.
 
->             “(B) __Exclusion from numerical limitations.—__ 
+>             “(B)  __Exclusion from numerical limitations__  __.—__ 
 
 >             Aliens provided special immigrant status under this subsection shall not be counted against any numerical limitation under sections 201(d), 202(a), or 203(b)(4) of the Immigration and Nationality Act ([8 U.S.C. 1151(d)][/us/usc/t8/s1151/d], 1152(a), and 1153(b)(4)).
 
 >             “(C) __Carry forward.—__ 
 
->                 “(i) __Fiscal years 2009 through 2013.—__ 
+>                 “(i)  __Fiscal years 2009 through 2013__  __.—__ 
 
 >                 If the numerical limitation specified in subparagraph (A) is not reached during a given fiscal year, with respect to fiscal year 2009, 2010, 2011, 2012, or 2013, the numerical limitation specified in such subparagraph for the following fiscal year shall be increased by a number equal to the difference between—
 
@@ -2381,7 +2383,7 @@
 
 >                          “(II) the number of principal aliens provided special immigrant status under this section during the given fiscal year.
 
->                 “(ii) __Fiscal year 2014.—__ 
+>                 “(ii)  __Fiscal year 2014__  __.—__ 
 
 >                 If the numerical limitation determined under clause (i) is not reached in fiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
 
@@ -2389,27 +2391,27 @@
 
 >                          “(II) the number of principal aliens provided such status under this section during fiscal year 2013.
 
->         “(4) __Prohibition on fees.—__ 
+>         “(4)  __Prohibition on fees__  __.—__ 
 
 >         The Secretary of Homeland Security or the Secretary of State may not charge an alien described in subparagraph (A), (B), or (C) of paragraph (2) any fee in connection with an application for, or issuance of, a special immigrant visa under this section.
 
->         “(5) __Assistance with passport issuance.—__ 
+>         “(5)  __Assistance with passport issuance__  __.—__ 
 
 >         The Secretary of State shall make a reasonable effort to ensure that an alien described in subparagraph (A), (B), or (C) of paragraph (2) who is issued a special immigrant visa pursuant to this subsection is provided with the appropriate series Afghan passport necessary to enter the United States.
 
->         “(6) __Protection of aliens.—__ 
+>         “(6)  __Protection of aliens__  __.—__ 
 
 >         The Secretary of State, in consultation with the heads of other appropriate Federal agencies, shall make a reasonable effort to provide an alien described in subparagraph (A), (B), or (C) of paragraph (2) who is seeking special immigrant status under this subsection protection or to immediately remove such alien from Afghanistan, if possible, if the Secretary determines, after consultation, that such alien is in imminent danger.
 
->         “(7) __Other eligibility for immigrant status.—__ 
+>         “(7)  __Other eligibility for immigrant status__  __.—__ 
 
 >         No alien shall be denied the opportunity to apply for admission under this subsection solely because such alien qualifies as an immediate relative or is eligible for any other immigrant classification.
 
->         “(8) __Resettlement support.—__ 
+>         “(8)  __Resettlement support__  __.—__ 
 
 >         A citizen or national of Afghanistan who is granted special immigrant status described in section 101(a)(27) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]) shall be eligible for resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of such Act ([8 U.S.C. 1157][/us/usc/t8/s1157]) to the same extent, and for the same periods of time, as such refugees.
 
->         “(9) __Adjustment of status.—__ 
+>         “(9)  __Adjustment of status__  __.—__ 
 
 >         Notwithstanding paragraph (2), (7), or (8) of subsection (c) of section 245 of the Immigration and Nationality Act ([8 U.S.C. 1255][/us/usc/t8/s1255]), the Secretary of Homeland Security may adjust the status of an alien described in subparagraph (A), (B), or (C) of paragraph (2) of this subsection or in section 1244(b) of the Refugee Crisis in Iraq Act of 2007 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 397][/us/stat/122/397]) \[[8 U.S.C. 1157][/us/usc/t8/s1157] note\] to that of an alien lawfully admitted for permanent residence under subsection (a) of such section 245 if the alien—
 
@@ -2429,25 +2431,25 @@
 
 >         “(10) __Report on implementation and authority to carry out administrative measures.—__ 
 
->             “(A) __Requirement for report.—__ 
+>             “(A)  __Requirement for report__  __.—__ 
 
 >             Not later than one year after the date of the enactment of this Act \[Mar. 11, 2009\], the Secretary of Homeland Security and the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report on the implementation of this subsection.
 
->             “(B) __Content of report.—__ 
+>             “(B)  __Content of report__  __.—__ 
 
 >             The report required by subparagraph (A) shall describe actions taken, and additional administrative measures that may be needed, to ensure the integrity of the program established under this subsection and the national security interests of the United States related to such program.
 
->             “(C) __Authority to carry out administrative measures.—__ 
+>             “(C)  __Authority to carry out administrative measures__  __.—__ 
 
 >             The Secretary of Homeland Security and the Secretary of State shall implement any additional administrative measures described in subparagraph (B) as they may deem necessary and appropriate to ensure the integrity of the program established under this subsection and the national security interests of the United States related to such program.
 
 >         “(11) __Annual report on use of special immigrant status.—__ 
 
->             “(A) __Requirement.—__ 
+>             “(A)  __Requirement__  __.—__ 
 
 >             Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall submit to the appropriate committees of Congress a report on the number of citizens or nationals of Afghanistan or Iraq who have applied for status as special immigrants under this subsection or section 1244 of the Refugee Crisis in Iraq Act of 2007 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 396][/us/stat/122/396]) \[[8 U.S.C. 1157][/us/usc/t8/s1157] note\].
 
->             “(B) __Content.—__ 
+>             “(B)  __Content__  __.—__ 
 
 >             Each report required by subparagraph (A) submitted in a fiscal year shall include the following information for the previous fiscal year:
 
@@ -2471,7 +2473,7 @@
 
 >         “(1) __Requirement to compile information.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 120 days after the date of the enactment of this Act \[Mar. 11, 2009\], the Administrator of the United States Agency for International Development, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, and the Secretary of the Treasury shall—
 
@@ -2479,15 +2481,15 @@
 
 >                 “(ii) request from each prime contractor or grantee that has performed work in Afghanistan since October 7, 2001, under a contract, grant, or cooperative agreement with their respective agencies that is valued in excess of $25,000, information that may be used to verify the employment of such citizens or nationals by such contractor or grantee.
 
->             “(B) __Information required.—__ 
+>             “(B)  __Information required__  __.—__ 
 
 >             To the extent data is available, the information referred to in subparagraph (A) shall include the name and dates of employment of, biometric data for, and other data that can be used to verify the employment of each citizen or national of Afghanistan who has performed work in Afghanistan since October 7, 2001, under a contract, grant, or cooperative agreement with an executive agency.
 
->         “(2) __Report on establishment of database.—__ 
+>         “(2)  __Report on establishment of database__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Administrator of the United States Agency for International Development, the Secretary of Homeland Security, the Secretary of State, and the Secretary of the Treasury, shall submit to the appropriate committees of Congress a report examining the options for establishing a unified and classified database of information related to contracts, grants, or cooperative agreements entered into by executive agencies for the performance of work in Afghanistan since October 7, 2001, including the information described and collected under paragraph (1), to be used by relevant Federal departments and agencies to adjudicate refugee, asylum, special immigrant visa, and other immigration claims and applications.
 
->         “(3) __Report on noncompliance.—__ 
+>         “(3)  __Report on noncompliance__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate committees of Congress a report that describes—
 
@@ -2495,11 +2497,11 @@
 
 >             “(B) the reasons that such contractor or grantee provided for failing to provide such information.
 
->         “(4) __Executive agency defined.—__ 
+>         “(4)  __Executive agency defined__  __.—__ 
 
 >         In this subsection, the term ‘executive agency’ has the meaning given that term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section may be construed to affect the authority of the Secretary of Homeland Security under section 1059 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [8 U.S.C. 1101][/us/usc/t8/s1101] note).”
 
@@ -2507,17 +2509,17 @@
 
 [Pub. L. 110–242, § 2][/us/pl/110/242/s2], June 3, 2008, [122 Stat. 1567][/us/stat/122/1567], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security or the Secretary of State may convert an approved petition for special immigrant status under section 1059 of the National Defense Authorization Act for Fiscal Year 2006 \[[Pub. L. 109–163][/us/pl/109/163]\] ([8 U.S.C. 1101][/us/usc/t8/s1101] note) with respect to which a visa under such section 1059 is not immediately available to an approved petition for special immigrant status under section 1244 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]) \[[8 U.S.C. 1157][/us/usc/t8/s1157] note\] notwithstanding any requirement of subsection (a) or (b) of such section 1244 but subject to the numerical limitations applicable under subsection (c) of such section 1244, as amended by this Act.
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     The authority under subsection (a) shall be available only with respect to petitions filed before October 1, 2008.”
 
 [Pub. L. 109–163, div. A, title X, § 1059][/us/pl/109/163/s1059], Jan. 6, 2006, [119 Stat. 3443][/us/stat/119/3443], as amended by [Pub. L. 110–28, title III, § 3812][/us/pl/110/28/s3812], May 25, 2007, [121 Stat. 151][/us/stat/121/151]; [Pub. L. 110–36, § 1][/us/pl/110/36/s1], June 15, 2007, [121 Stat. 227][/us/stat/121/227]; [Pub. L. 110–161, div. J, title VI, § 699J][/us/pl/110/161/s699J], Dec. 26, 2007, [121 Stat. 2373][/us/stat/121/2373]; [Pub. L. 112–227, § 1(a)][/us/pl/112/227/s1/a], Dec. 28, 2012, [126 Stat. 1608][/us/stat/126/1608], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.), subject to subsection (c)(1), the Secretary of Homeland Security may provide an alien described in subsection (b) with the status of a special immigrant under section 101(a)(27) of such Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]), if the alien—
 
@@ -2527,7 +2529,7 @@
 
 >     “(b) __Aliens Described.—__ 
 
->         “(1) __Principal aliens.—__ 
+>         “(1)  __Principal aliens__  __.—__ 
 
 >         An alien is described in this subsection if the alien—
 
@@ -2539,13 +2541,13 @@
 
 >             “(D) before filing the petition described in subsection (a)(1), cleared a background check and screening, as determined by the Chief of Mission or a general or flag officer in the chain of command of the United States Armed Forces unit that was supported by the alien.
 
->         “(2) __Spouses and children.—__ 
+>         “(2)  __Spouses and children__  __.—__ 
 
 >         An alien is described in this subsection if the alien is the spouse or child of a principal alien described in paragraph (1), and is following or accompanying to join the principal alien.
 
 >     “(c) __Numerical Limitations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total number of principal aliens who may be provided special immigrant status under this section—
 
@@ -2553,15 +2555,15 @@
 
 >             “(B) during any other fiscal year shall not exceed 50.
 
->         “(2) __Aliens exempt from employment-based numerical limitations.—__ 
+>         “(2)  __Aliens exempt from employment-based numerical limitations__  __.—__ 
 
 >         For purposes of the application of sections 201 through 203 of the Immigration and Nationality Act ([8 U.S.C. 1151–115][/us/usc/t8/s1151–115]3) in any fiscal year, aliens eligible to be provided status under this section shall be treated as special immigrants described in section 101(a)(27) of such Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]) who are not described in subparagraph (A), (B), (C), or (K) of such section and shall not be counted against the numerical limitations under sections 201(d), 202(a), and 203(b)(4) of the Immigration and Nationality Act ([8 U.S.C. 1151(d)][/us/usc/t8/s1151/d], 1152(a), and 1153(b)(4)).
 
->         “(3) __Carry forward.—__ 
+>         “(3)  __Carry forward__  __.—__ 
 
 >         If the numerical limitation described in paragraph (1) is not reached during a given fiscal year, the numerical limitation for the following fiscal year shall be increased by a number equal to the difference between the number of visas authorized for the given fiscal year and the number of aliens provided special immigrant status during the given fiscal year.
 
->     “(d) __Adjustment of Status.—__ 
+>     “(d)  __Adjustment of Status__  __.—__ 
 
 >     Notwithstanding paragraphs (2), (7) and (8) of section 245(c) of the Immigration and Nationality Act ([8 U.S.C. 1255(c)][/us/usc/t8/s1255/c]), the Secretary of Homeland Security may adjust the status of an alien to that of a lawful permanent resident under section 245(a) of such Act if the alien—
 
@@ -2571,7 +2573,7 @@
 
 >     “(e) __Naturalization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A period of absence from the United States described in paragraph (2)—
 
@@ -2579,7 +2581,7 @@
 
 >             “(B) shall be treated as a period of residence and physical presence in the United States for purposes of satisfying the requirements for naturalization under such title.
 
->         “(2) __Period of absence described.—__ 
+>         “(2)  __Period of absence described__  __.—__ 
 
 >         A period of absence described in this paragraph is a period of absence from the United States due to a person’s employment by the Chief of Mission or United States Armed Forces, under contract with the Chief of Mission or United States Armed Forces, or by a firm or corporation under contract with the Chief of Mission or United States Armed Forces, if—
 
@@ -2587,7 +2589,7 @@
 
 >             “(B) the person spent at least a portion of the time outside the United States working directly with the Chief of Mission or United States Armed Forces as a translator, interpreter, or in a security-related position in an executive or managerial capacity.
 
->     “(f) __Application of Immigration and Nationality Act Provisions.—__ 
+>     “(f)  __Application of Immigration and Nationality Act Provisions__  __.—__ 
 
 >     The definitions in subsections (a) and (b) of section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101]) shall apply in the administration of this section.”
 
@@ -2603,7 +2605,7 @@
 
 [Pub. L. 106–386, div. B, title V, § 1502][/us/pl/106/386/s1502], Oct. 28, 2000, [114 Stat. 1518][/us/stat/114/1518], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -2613,7 +2615,7 @@
 
 >         “(3) there are several groups of battered immigrant women and children who do not have access to the immigration protections of the Violence Against Women Act of 1994 which means that their abusers are virtually immune from prosecution because their victims can be deported as a result of action by their abusers and the Immigration and Naturalization Service cannot offer them protection no matter how compelling their case under existing law.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[see Short Title of 2000 Amendments note above\] are—
 
@@ -2627,7 +2629,7 @@
 
 >     “(a) __Findings and Purpose.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         Congress makes the following findings:
 
@@ -2671,11 +2673,11 @@
 
 [Pub. L. 104–208, div. C, title V, § 593][/us/pl/104/208/s593], Sept. 30, 1996, [110 Stat. 3009–688][/us/stat/110/3009-688], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each agency of the Federal Government or a State or political subdivision that administers a program affected by the provisions of this title \[see Effective Date of 1996 Amendment note above\], shall, directly or through the States, provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this title.
 
->     “(b) __Failure To Give Notice.—__ 
+>     “(b)  __Failure To Give Notice__  __.—__ 
 
 >     Nothing in this section shall be construed to require or authorize continuation of eligibility if the notice under this section is not provided.”
 
@@ -2689,11 +2691,11 @@
 
 [Pub. L. 104–208, div. C, title VI, § 648][/us/pl/104/208/s648], Sept. 30, 1996, [110 Stat. 3009–711][/us/stat/110/3009-711], provided that:
 
->     “(a) __Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this division \[see Tables for classification\] should be American-made.
 
->     “(b) __Notice to Recipients of Grants.—__ 
+>     “(b)  __Notice to Recipients of Grants__  __.—__ 
 
 >     In providing grants under this division, the Attorney General, to the greatest extent practicable, shall provide to each recipient of a grant a notice describing the statement made in subsection (a) by the Congress.”
 
@@ -2701,7 +2703,7 @@
 
 [Pub. L. 103–322, title XIII, § 130006][/us/pl/103/322/s130006], Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028], provided that:
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the Immigration and Naturalization Service to increase the resources for the Border Patrol, the Inspections Program, and the Deportation Branch to apprehend illegal aliens who attempt clandestine entry into the United States or entry into the United States with fraudulent documents or who remain in the country after their nonimmigrant visas expire—
 
@@ -2713,7 +2715,7 @@
 
 >         “(4) $58,000,000 for fiscal year 1998.    “Of the sums authorized in this section, all necessary funds shall, subject to the availability of appropriations, be allocated to increase the number of agent positions (and necessary support personnel positions) in the Border Patrol by not less than 1,000 full-time equivalent positions in each of fiscal years 1995, 1996, 1997, and 1998 beyond the number funded as of October 1, 1994.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     By September 30, 1996 and September 30, 1998, the Attorney General shall report to the Congress on the programs described in this section. The report shall include an evaluation of the programs, an outcome-based measurement of performance, and an analysis of the cost effectiveness of the additional resources provided under this Act \[see Tables for classification\].”
 
@@ -2759,7 +2761,7 @@
 
 [Pub. L. 101–649, title I, § 141][/us/pl/101/649/s141], Nov. 29, 1990, [104 Stat. 5001][/us/stat/104/5001], as amended by [Pub. L. 102–232, title III, § 302(c)(1)][/us/pl/102/232/s302/c/1], Dec. 12, 1991, [105 Stat. 1744][/us/stat/105/1744], provided that:
 
->     “(a) __Establishment and Composition of Commission.—__ 
+>     “(a)  __Establishment and Composition of Commission__  __.—__ 
 
 >         (1)
 
@@ -2779,7 +2781,7 @@
 
 >         “(3) Members shall be appointed to serve for the life of the Commission, except that the term of the member described in paragraph (1)(A) shall expire at noon on January 20, 1993, and the President shall appoint an individual to serve for the remaining life of the Commission.
 
->     “(b) __Functions of Commission.—__ 
+>     “(b)  __Functions of Commission__  __.—__ 
 
 >     The Commission shall—
 
@@ -2795,7 +2797,7 @@
 
 >     “(c) __Considerations.—__ 
 
->         “(1) __Particular considerations.—__ 
+>         “(1)  __Particular considerations__  __.—__ 
 
 >         In particular, the Commission shall consider the following:
 
@@ -2813,7 +2815,7 @@
 
 >             “(G) The impact of the numerical limitations on the admission of nonimmigrants under section 214(g) of the Immigration and Nationality Act \[[8 U.S.C. 1184(g)][/us/usc/t8/s1184/g]\].
 
->         “(2) __Diversity program.—__ 
+>         “(2)  __Diversity program__  __.—__ 
 
 >         The Commission shall analyze the information maintained under section 203(c)(3) of the Immigration and Nationality Act \[[8 U.S.C. 1153(c)(3)][/us/usc/t8/s1153/c/3]\] and shall report to Congress in its report under subsection (b)(2) on—
 
@@ -2823,33 +2825,33 @@
 
 >             The Commission shall include in the report an assessment of the effect of the requirement of paragraph (2) of section 203(c) of the Immigration and Nationality Act on the diversity, educational, and skill level of aliens admitted.
 
->     “(d) __Compensation of Members.—__ 
+>     “(d)  __Compensation of Members__  __.—__ 
 
 >         (1) Each member of the Commission who is not an officer or employee of the Federal Government is entitled to receive, subject to such amounts as are provided in advance in appropriations Acts, pay at the daily equivalent of the minimum annual rate of basic pay in effect for grade GS–18 of the General Schedule. Each member of the Commission who is such an officer or employee shall serve without additional pay.
 
 >         “(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence.
 
->     “(e) __Meetings, Staff, and Authority of Commission.—__ 
+>     “(e)  __Meetings, Staff, and Authority of Commission__  __.—__ 
 
 >     The provisions of subsections (e) through (g) of section 304 of the Immigration Reform and Control Act of 1986 \[[Pub. L. 99–603][/us/pl/99/603], set out as a note under [section 1160 of this title][/us/usc/t8/s1160]\] shall apply to the Commission in the same manner as they apply to the Commission established under such section, except that paragraph (2) of subsection (e) thereof shall not apply.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >         (1) There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
 
 >         “(2) Notwithstanding any other provision of this section, the authority to make payments, or to enter into contracts, under this section shall be effective only to such extent, or in such amounts, as are provided in advance in appropriations Acts.
 
->     “(g) __Termination Date.—__ 
+>     “(g)  __Termination Date__  __.—__ 
 
 >     The Commission shall terminate on the date on which a final report is required to be transmitted under subsection (b)(2)(B), except that the Commission may continue to function until January 1, 1998, for the purpose of concluding its activities, including providing testimony to standing committees of Congress concerning its final report under this section and disseminating that report.
 
->     “(h) __Congressional Response.—__ 
+>     “(h)  __Congressional Response__  __.—__ 
 
 >         (1) No later than 90 days after the date of receipt of each report transmitted under subsection (b)(2), the Committees on the Judiciary of the House of Representatives and of the Senate shall initiate hearings to consider the findings and recommendations of the report.
 
 >         “(2) No later than 180 days after the date of receipt of such a report, each such Committee shall report to its respective House its oversight findings and any legislation it deems appropriate.
 
->     “(i) __Presidential Report.—__ 
+>     “(i)  __Presidential Report__  __.—__ 
 
 >     The President shall conduct a review and evaluation and provide for the transmittal of reports to the Congress in the same manner as the Commission is required to conduct a review and evaluation and to transmit reports under subsection (b).”
 
@@ -2859,11 +2861,11 @@
 
 [Pub. L. 101–649, title I, § 152][/us/pl/101/649/s152], Nov. 29, 1990, [104 Stat. 5005][/us/stat/104/5005], as amended by [Pub. L. 102–232, title III, § 302(d)(1)][/us/pl/102/232/s302/d/1], Dec. 12, 1991, [105 Stat. 1744][/us/stat/105/1744], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (c), an alien described in subsection (b) shall be treated as a special immigrant described in section 101(a)(27)(D) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(27)(D)][/us/usc/t8/s1101/a/27/D]\].
 
->     “(b) __Aliens Covered.—__ 
+>     “(b)  __Aliens Covered__  __.—__ 
 
 >     An alien is described in this subsection if—
 
@@ -2879,11 +2881,11 @@
 
 >         “(3) the principal officer in Hong Kong, in the officer’s discretion, has recommended the granting of special immigrant status to such alien in exceptional circumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status.
 
->     “(c) __Expiration.—__ 
+>     “(c)  __Expiration__  __.—__ 
 
 >     Subsection (a) shall only apply to aliens who file an application for special immigrant status under this section by not later than January 1, 2002.
 
->     “(d) __Limited Waiver of Numerical Limitations.—__ 
+>     “(d)  __Limited Waiver of Numerical Limitations__  __.—__ 
 
 >     The first 500 visas made available to aliens as special immigrants under this section shall not be counted against any numerical limitation established under section 201 or 202 of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151] or 1152\].”
 
@@ -2915,7 +2917,7 @@
 
 [Pub. L. 101–649, title II, § 222][/us/pl/101/649/s222], Nov. 29, 1990, [104 Stat. 5028][/us/stat/104/5028], as amended by [Pub. L. 102–232, title III, § 303(b)(3)][/us/pl/102/232/s303/b/3], Dec. 12, 1991, [105 Stat. 1748][/us/stat/105/1748], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Attorney General shall provide for nonimmigrant status in the case of an alien who—
 
@@ -2925,7 +2927,7 @@
 
 >         or who is the spouse or minor child of such an alien if accompanying or following to join the alien.
 
->     “(b) __Numerical Limitation.—__ 
+>     “(b)  __Numerical Limitation__  __.—__ 
 
 >     The number of aliens who may be admitted as (or otherwise be provided the status of) a nonimmigrant under this section at any time may not exceed 100.”
 
@@ -2933,7 +2935,7 @@
 
 [Pub. L. 101–649, title II, § 223][/us/pl/101/649/s223], Nov. 29, 1990, [104 Stat. 5028][/us/stat/104/5028], as amended by [Pub. L. 102–232, title III, § 303(b)(4)][/us/pl/102/232/s303/b/4], Dec. 12, 1991, [105 Stat. 1748][/us/stat/105/1748], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Attorney General shall provide for nonimmigrant status in the case of an alien who—
 
@@ -2943,7 +2945,7 @@
 
 >         or who is the spouse or minor child of such an alien if accompanying or following to join the alien.
 
->     “(b) __Numerical Limitation.—__ 
+>     “(b)  __Numerical Limitation__  __.—__ 
 
 >     The number of aliens who may be admitted as (or otherwise be provided the status of) a nonimmigrant under this section in any fiscal year may not exceed 50.”
 
@@ -3035,7 +3037,7 @@
 
 [Pub. L. 99–603, title I, § 111][/us/pl/99/603/s111], Nov. 6, 1986, [100 Stat. 3381][/us/stat/100/3381], provided that:
 
->     “(a) __Two Essential Elements.—__ 
+>     “(a)  __Two Essential Elements__  __.—__ 
 
 >     It is the sense of Congress that two essential elements of the program of immigration control established by this Act \[see Short Title of 1986 Amendments note above\] are—
 
@@ -3043,7 +3045,7 @@
 
 >         “(2) an increase in examinations and other service activities of the Immigration and Naturalization Service and other appropriate Federal agencies in order to ensure prompt and efficient adjudication of petitions and applications provided for under the Immigration and Nationality Act \[this chapter\].
 
->     “(b) __Increased Authorization of Appropriations for INS and EOIR.—__ 
+>     “(b)  __Increased Authorization of Appropriations for INS and EOIR__  __.—__ 
 
 >     In addition to any other amounts authorized to be appropriated, in order to carry out this Act there are authorized to be appropriated to the Department of Justice—
 
@@ -3053,11 +3055,11 @@
 
 >         Of the amounts authorized to be appropriated under paragraph (1) sufficient funds shall be available to provide for an increase in the border patrol personnel of the Immigration and Naturalization Service so that the average level of such personnel in each of fiscal years 1987 and 1988 is at least 50 percent higher than such level for fiscal year 1986.
 
->     “(c) __Use of Funds for Improved Services.—__ 
+>     “(c)  __Use of Funds for Improved Services__  __.—__ 
 
 >     Of the funds appropriated to the Department of Justice for the Immigration and Naturalization Service, the Attorney General shall provide for improved immigration and naturalization services and for enhanced community outreach and in-service training of personnel of the Service. Such enhanced community outreach may include the establishment of appropriate local community taskforces to improve the working relationship between the Service and local community groups and organizations (including employers and organizations representing minorities).
 
->     “(d) __Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—__ 
+>     “(d)  __Supplemental Authorization of Appropriations for Wage and Hour Enforcement__  __.—__ 
 
 >     There are authorized to be appropriated, in addition to such sums as may be available for such purposes, such sums as may be necessary to the Department of Labor for enforcement activities of the Wage and Hour Division and the Office of Federal Contract Compliance Programs within the Employment Standards Administration of the Department in order to deter the employment of unauthorized aliens and remove the economic incentive for employers to exploit and use such aliens.”
 
@@ -4162,6 +4164,9 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F281
 [/us/usc/t8/s1106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1106%2Fk
+[/us/pl/113/74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F74%2Fs1
+[/us/stat/127/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1212
+[/us/usc/t8/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1431
 [/us/pl/111/287/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F287%2Fs1
 [/us/stat/124/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3058
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
@@ -4169,12 +4174,9 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/122/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4193
 [/us/pl/110/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs1
 [/us/stat/122/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4087
-[/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
-[/us/usc/t6/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs271
-[/us/usc/t6/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs271
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/pl/110/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs4
 [/us/stat/122/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4089
-[/us/pl/110/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs1
 [/us/pl/110/251/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F251%2Fs1
 [/us/stat/122/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2319
 [/us/pl/110/53/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs711%2Fa

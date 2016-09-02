@@ -45,7 +45,7 @@
 
             (A)
 
-                (i) __Immediate relatives.—__ 
+                (i)  __Immediate relatives__  __.—__ 
 
                 For purposes of this subsection, the term “immediate relatives” means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States and was not legally separated from the citizen at the time of the citizen’s death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen’s death but only if the spouse files a petition under [section 1154(a)(1)(A)(ii) of this title][/us/usc/t8/s1154/a/1/A/ii] within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of [section 1154(a)(1)(A) of this title][/us/usc/t8/s1154/a/1/A] remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
 
@@ -189,17 +189,17 @@
 
 [Pub. L. 111–83, title V, § 568(c)(2)][/us/pl/111/83/s568/c/2], Oct. 28, 2009, [123 Stat. 2186][/us/stat/123/2186], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to all applications and petitions relating to immediate relative status under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]) pending on or after the date of the enactment of this Act \[Oct. 28, 2009\].
 
 >     “(B) __Transition cases.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration and Nationality Act ([8 U.S.C. 1154(a)(1)(A)(ii)][/us/usc/t8/s1154/a/1/A/ii]) not later than the date that is 2 years after the date of the enactment of this Act.
 
->         “(ii) __Aliens described.—__ 
+>         “(ii)  __Aliens described__  __.—__ 
 
 >         An alien is described in this clause if—
 
@@ -269,41 +269,41 @@
 
 >     “(a) __Treatment as Immediate Relatives.—__ 
 
->         “(1) __Spouses.—__ 
+>         “(1)  __Spouses__  __.—__ 
 
 >         Notwithstanding the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]), in the case of an alien who was the spouse of a citizen of the United States at the time of the citizen’s death and was not legally separated from the citizen at the time of the citizen’s death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien (and each child of the alien) shall be considered, for purposes of section 201(b) of such Act, to remain an immediate relative after the date of the citizen’s death, but only if the alien files a petition under section 204(a)(1)(A)(ii) of such Act \[[8 U.S.C. 1154(a)(1)(A)(ii)][/us/usc/t8/s1154/a/1/A/ii]\] within 2 years after such date and only until the date the alien remarries. For purposes of such section 204(a)(1)(A)(ii), an alien granted relief under the preceding sentence shall be considered an alien spouse described in the second sentence of section 201(b)(2)(A)(i) of such Act.
 
 >         “(2) __Children.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of an alien who was the child of a citizen of the United States at the time of the citizen’s death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)][/us/usc/t8/s1151/b]), to remain an immediate relative after the date of the citizen’s death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
->             “(B) __Petitions.—__ 
+>             “(B)  __Petitions__  __.—__ 
 
 >             An alien described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]). For purposes of such Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act ([8 U.S.C. 1154(a)(1)(A)][/us/usc/t8/s1154/a/1/A]).
 
 >         “(3) __Parents.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of an alien who was the parent of a citizen of the United States at the time of the citizen’s death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)][/us/usc/t8/s1151/b]), to remain an immediate relative after the date of the citizen’s death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
->             “(B) __Petitions.—__ 
+>             “(B)  __Petitions__  __.—__ 
 
 >             An alien described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]). For purposes of such Act, such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act ([8 U.S.C. 1154(a)(1)(A)][/us/usc/t8/s1154/a/1/A]).
 
->             “(C) __Exception.—__ 
+>             “(C)  __Exception__  __.—__ 
 
 >             Notwithstanding section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]), for purposes of this paragraph, a citizen described in subparagraph (A) does not have to be 21 years of age for a parent to benefit under this paragraph.
 
 >     “(b) __Applications for Adjustment of Status by Surviving Spouses, Children, and Parents.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding subsections (a) and (c) of section 245 of the Immigration and Nationality Act ([8 U.S.C. 1255][/us/usc/t8/s1255]), any alien who was the spouse, child, or parent of an alien described in paragraph (2), and who applied for adjustment of status prior to the death described in paragraph (2)(B), may have such application adjudicated as if such death had not occurred.
 
->         “(2) __Alien described.—__ 
+>         “(2)  __Alien described__  __.—__ 
 
 >         An alien is described in this paragraph if the alien—
 
@@ -317,19 +317,19 @@
 
 >         “(1) __Treatment as immediate relatives.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A spouse or child of an alien described in paragraph (3) who is included in a petition for classification as a family-sponsored immigrant under section 203(a)(2) of the Immigration and Nationality Act ([8 U.S.C. 1153(a)(2)][/us/usc/t8/s1153/a/2]) that was filed by such alien, shall be considered (if the spouse or child has not been admitted or approved for lawful permanent residence by such date) a valid petitioner for immediate relative status under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]). Such spouse or child shall be eligible for deferred action, advance parole, and work authorization.
 
->             “(B) __Petitions.—__ 
+>             “(B)  __Petitions__  __.—__ 
 
 >             An alien spouse or child described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]). For purposes of such Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act ([8 U.S.C. 1154(a)(1)(A)][/us/usc/t8/s1154/a/1/A]).
 
->         “(2) __Self-petitions.—__ 
+>         “(2)  __Self-petitions__  __.—__ 
 
 >         Any spouse or child of an alien described in paragraph (3) who is not a beneficiary of a petition for classification as a family-sponsored immigrant may file a petition for such classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]) with the Secretary of Homeland Security, but only if the spouse or child files a petition within 2 years after such date. Such spouse or child shall be eligible for deferred action, advance parole, and work authorization.
 
->         “(3) __Alien described.—__ 
+>         “(3)  __Alien described__  __.—__ 
 
 >         An alien is described in this paragraph if the alien—
 
@@ -341,11 +341,11 @@
 
 >     “(d) __Parents of Lawful Permanent Resident Aliens.—__ 
 
->         “(1) __Self-petitions.—__ 
+>         “(1)  __Self-petitions__  __.—__ 
 
 >         Any parent of an alien described in paragraph (2) may file a petition for classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]), but only if the parent files a petition within 2 years after such date. For purposes of such Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], such petition shall be considered a petition filed under section 204(a)(1)(A) of such Act ([8 U.S.C. 1154(a)(1)(A)][/us/usc/t8/s1154/a/1/A]). Such parent shall be eligible for deferred action, advance parole, and work authorization.
 
->         “(2) __Alien described.—__ 
+>         “(2)  __Alien described__  __.—__ 
 
 >         An alien is described in this paragraph if the alien—
 
@@ -355,7 +355,7 @@
 
 >             “(C) was granted posthumous citizenship under section 329A of the Immigration and Nationality Act ([8 U.S.C. 1440–1][/us/usc/t8/s1440–1]).
 
->     “(e) __Waiver of Ground for Inadmissibility.—__ 
+>     “(e)  __Waiver of Ground for Inadmissibility__  __.—__ 
 
 >     In determining the admissibility of any alien accorded an immigration benefit under this section for purposes of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], the ground for inadmissibility specified in section 212(a)(4) of such Act ([8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4]) shall not apply.”
 

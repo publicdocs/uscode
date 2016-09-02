@@ -27,11 +27,11 @@
 
 [Pub. L. 109–472, § 6][/us/pl/109/472/s6], Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph under the heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 ([Public Law 108–447][/us/pl/108/447]) \[this section\]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     In carrying out subsection (a) and the provision of law described in such subsection, the Secretary shall meet the following requirements:
 

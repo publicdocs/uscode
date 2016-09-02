@@ -49,7 +49,7 @@
 
 [Pub. L. 109–13, div. B, title III, § 302][/us/pl/109/13/s302], May 11, 2005, [119 Stat. 316][/us/stat/119/316], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this division \[May 11, 2005\], the Under Secretary of Homeland Security for Science and Technology, in consultation with the Under Secretary of Homeland Security for Border and Transportation Security, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, and the Secretary of Defense, shall develop a pilot program to utilize, or increase the utilization of, ground surveillance technologies to enhance the border security of the United States. In developing the program, the Under Secretary shall—
 
@@ -61,7 +61,7 @@
 
 >     “(b) __Additional Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The pilot program shall include the utilization of a variety of ground surveillance technologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
 
@@ -71,7 +71,7 @@
 
 >             “(C) liability, safety, and privacy concerns relating to the utilization of such technologies for border security.
 
->         “(2) __Technologies.—__ 
+>         “(2)  __Technologies__  __.—__ 
 
 >         The ground surveillance technologies utilized in the pilot program shall include the following:
 
@@ -81,11 +81,11 @@
 
 >             “(C) Motion detection technology.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Under Secretary of Homeland Security for Border and Transportation Security shall implement the pilot program developed under this section.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
 
@@ -99,7 +99,7 @@
 
 > “SEC. 5102. __PROGRAM REQUIREMENTS.__ 
 
->     “(a) __Required Features.—__ 
+>     “(a)  __Required Features__  __.—__ 
 
 >     The Secretary of Homeland Security shall design the pilot program under this subtitle to have the following features:
 
@@ -121,7 +121,7 @@
 
 >         “(5) Capability to expand the program upon a determination by the Secretary that expansion would be an appropriate and cost-effective means of improving border security.
 
->     “(b) __Coordination With Other Agencies.—__ 
+>     “(b)  __Coordination With Other Agencies__  __.—__ 
 
 >     The Secretary of Homeland Security shall ensure that the operation of the pilot program under this subtitle—
 
@@ -131,21 +131,21 @@
 
 > “SEC. 5103. __ADMINISTRATIVE PROVISIONS.__ 
 
->     “(a) __Procurement of Advanced Technology.—__ 
+>     “(a)  __Procurement of Advanced Technology__  __.—__ 
 
 >     The Secretary of Homeland Security may enter into contracts for the procurement or use of such advanced technologies as the Secretary determines appropriate for the pilot program under this subtitle.
 
->     “(b) __Program Partnerships.—__ 
+>     “(b)  __Program Partnerships__  __.—__ 
 
 >     In carrying out the pilot program under this subtitle, the Secretary of Homeland Security may provide for the establishment of cooperative arrangements for participation in the pilot program by such participants as law enforcement and border security agencies referred to in section 5102(b), institutions of higher education, and private sector entities.
 
 > “SEC. 5104. __REPORT.__ 
 
->     “(a) __Requirement for Report.—__ 
+>     “(a)  __Requirement for Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall submit to Congress a report on the pilot program under this subtitle.
 
->     “(b) __Content.—__ 
+>     “(b)  __Content__  __.—__ 
 
 >     The report under subsection (a) shall include the following matters:
 

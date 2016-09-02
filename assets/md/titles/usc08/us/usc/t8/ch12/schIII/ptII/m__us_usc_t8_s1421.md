@@ -135,43 +135,43 @@
 
 >     “(a) __Effective Date.—__ 
 
->         “(1) __No new court petitions after effective date.—__ 
+>         “(1)  __No new court petitions after effective date__  __.—__ 
 
 >         No court shall have jurisdiction, under section 310(a) of the Immigration and Nationality Act \[[8 U.S.C. 1421(a)][/us/usc/t8/s1421/a]\], to naturalize a person unless a petition for naturalization with respect to that person has been filed with the court before October 1, 1991.
 
 >         “(2) __Treatment of current court petitions.—__ 
 
->             “(A) __Continuation of current rules.—__ 
+>             “(A)  __Continuation of current rules__  __.—__ 
 
 >             Except as provided in subparagraph (B), any petition for naturalization which may be pending in a court on October 1, 1991, shall be heard and determined in accordance with the requirements of law in effect when the petition was filed.
 
->             “(B) __Permitting withdrawal and consideration of application under new rules.—__ 
+>             “(B)  __Permitting withdrawal and consideration of application under new rules__  __.—__ 
 
 >             In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner’s application for naturalization considered under the amendments made by this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and [section 1429 of Title 18][/us/usc/t18/s1429], Crimes and Criminal Procedure, and repealing [section 1459 of this title][/us/usc/t8/s1459]\], but only if the petition is withdrawn not later than 3 months after the effective date.
 
->         “(3) __General effective date.—__ 
+>         “(3)  __General effective date__  __.—__ 
 
 >         Except as otherwise provided in this section, the amendments made by this title are effective as of the date of the enactment of this Act \[Nov. 29, 1990\].
 
->     “(b) __Interim, Final Regulations.—__ 
+>     “(b)  __Interim, Final Regulations__  __.—__ 
 
 >     The Attorney General shall prescribe regulations (on an interim, final basis or otherwise) to implement the amendments made by this title on a timely basis.
 
->     “(c) __Continuing Duties.—__ 
+>     “(c)  __Continuing Duties__  __.—__ 
 
 >     The amendments to section 339 of the Immigration and Nationality Act \[[8 U.S.C. 1450][/us/usc/t8/s1450]\] (relating to functions and duties of clerks) shall not apply to functions and duties respecting petitions filed before October 1, 1991.
 
->     “(d) __General Savings Provisions.—__ 
+>     “(d)  __General Savings Provisions__  __.—__ 
 
 >         (1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and [section 1429 of Title 18][/us/usc/t18/s1429], Crimes and Criminal Procedure, repealing [section 1459 of this title][/us/usc/t8/s1459], and enacting provisions set out as a note under [section 1440 of this title][/us/usc/t8/s1440]\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
 
 >         “(2) As to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters, the provisions of law repealed by this title are, unless otherwise specifically provided, hereby continued in force and effect.
 
->     “(e) __Treatment of Service in Armed Forces of Foreign Country.—__ 
+>     “(e)  __Treatment of Service in Armed Forces of Foreign Country__  __.—__ 
 
 >     The amendments made by section 404 \[amending [section 1426 of this title][/us/usc/t8/s1426]\] (relating to treatment of service in armed forces of a foreign country) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to exemptions from training or service obtained before, on, or after such date.
 
->     “(f) __Filipino War Veterans.—__ 
+>     “(f)  __Filipino War Veterans__  __.—__ 
 
 >     Section 405 \[enacting provisions formerly set out as a note under [section 1440 of this title][/us/usc/t8/s1440]\] (relating to naturalization of natives of the Philippines through active-duty service under United States command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
 

@@ -151,7 +151,7 @@
 
 > “SEC. 1242. __PROCESSING MECHANISMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State, in consultation with the Secretary of Homeland Security, shall establish or use existing refugee processing mechanisms in Iraq and in countries, where appropriate, in the region in which—
 
@@ -159,11 +159,11 @@
 
 >         “(2) aliens described in section 1244(b) may apply and interview for admission to United States as special immigrants.
 
->     “(b) __Suspension.—__ 
+>     “(b)  __Suspension__  __.—__ 
 
 >     If such is determined necessary, the Secretary of State, in consultation with the Secretary of Homeland Security, may suspend in-country processing under subsection (a) for a period not to exceed 90 days. Such suspension may be extended by the Secretary of State upon notification to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate. The Secretary of State shall submit to such committees a report outlining the basis of any such suspension and any extensions thereof.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of State, in consultation with the Secretary of Homeland Security, shall submit to the committees specified in subsection (b) a report that—
 
@@ -175,7 +175,7 @@
 
 > “SEC. 1243. __UNITED STATES REFUGEE PROGRAM PROCESSING PRIORITIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Refugees of special humanitarian concern eligible for Priority 2 processing under the refugee resettlement priority system who may apply directly to the United States Admission Program shall include—
 
@@ -193,29 +193,29 @@
 
 >         “(4) Iraqis who are members of a religious or minority community, have been identified by the Secretary of State, or the designee of the Secretary, as a persecuted group, and have close family members (as described in section 201(b)(2)(A)(i) or 203(a) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i] and 1153(a))) in the United States.
 
->     “(b) __Identification of Other Persecuted Groups.—__ 
+>     “(b)  __Identification of Other Persecuted Groups__  __.—__ 
 
 >     The Secretary of State, or the designee of the Secretary, is authorized to identify other Priority 2 groups of Iraqis, including vulnerable populations.
 
->     “(c) __Ineligible Organizations and Entities.—__ 
+>     “(c)  __Ineligible Organizations and Entities__  __.—__ 
 
 >     Organizations and entities described in subsection (a)(2) shall not include any that appear on the Department of the Treasury’s list of Specially Designated Nationals or any entity specifically excluded by the Secretary of Homeland Security, after consultation with the Secretary of State and the heads of relevant elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]).
 
->     “(d) __Applicability of Other Requirements.—__ 
+>     “(d)  __Applicability of Other Requirements__  __.—__ 
 
 >     Aliens under this section who qualify for Priority 2 processing under the refugee resettlement priority system shall satisfy the requirements of section 207 of the Immigration and Nationality Act ([8 U.S.C. 1157][/us/usc/t8/s1157]) for admission to the United States.
 
->     “(e) __Numerical Limitations.—__ 
+>     “(e)  __Numerical Limitations__  __.—__ 
 
 >     In determining the number of Iraqi refugees who should be resettled in the United States under paragraphs (2), (3), and (4) of subsection (a) and subsection (b) of section 207 of the Immigration and Nationality Act ([8 U.S.C. 1157][/us/usc/t8/s1157]), the President shall consult with the heads of nongovernmental organizations that have a presence in Iraq or experience in assessing the problems faced by Iraqi refugees.
 
->     “(f) __Eligibility for Admission as Refugee.—__ 
+>     “(f)  __Eligibility for Admission as Refugee__  __.—__ 
 
 >     No alien shall be denied the opportunity to apply for admission under this section solely because such alien qualifies as an immediate relative or is eligible for any other immigrant classification.
 
 > “SEC. 1244. __SPECIAL IMMIGRANT STATUS FOR CERTAIN IRAQIS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (c), the Secretary of Homeland Security, or, notwithstanding any other provision of law, the Secretary of State in consultation with the Secretary of Homeland Security, may provide an alien described in subsection (b) with the status of a special immigrant under section 101(a)(27) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]), if the alien—
 
@@ -229,7 +229,7 @@
 
 >     “(b) __Aliens Described.—__ 
 
->         “(1) __Principal aliens.—__ 
+>         “(1)  __Principal aliens__  __.—__ 
 
 >         An alien is described in this subsection if the alien—
 
@@ -241,7 +241,7 @@
 
 >             “(D) has experienced or is experiencing an ongoing serious threat as a consequence of the alien’s employment by the United States Government.
 
->         “(2) __Spouses and children.—__ 
+>         “(2)  __Spouses and children__  __.—__ 
 
 >         An alien is described in this subsection if the alien—
 
@@ -249,7 +249,7 @@
 
 >             “(B) is accompanying or following to join the principal alien in the United States.
 
->         “(3) __Treatment of surviving spouse or child.—__ 
+>         “(3)  __Treatment of surviving spouse or child__  __.—__ 
 
 >         An alien is described in subsection (b) if the alien—
 
@@ -263,23 +263,23 @@
 
 >                 “(ii) such petition would have been approved if the principal alien had survived.
 
->         “(4) __Approval by chief of mission required.—__ 
+>         “(4)  __Approval by chief of mission required__  __.—__ 
 
 >         A recommendation or evaluation required under paragraph (1)(C) shall be accompanied by approval from the Chief of Mission, or the designee of the Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
 
 >     “(c) __Numerical Limitations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total number of principal aliens who may be provided special immigrant status under this section may not exceed 5,000 per year for fiscal years 2008 through 2012.
 
->         “(2) __Exclusion from numerical limitations.—__ 
+>         “(2)  __Exclusion from numerical limitations__  __.—__ 
 
 >         Aliens provided special immigrant status under this section shall not be counted against any numerical limitation under sections 201(d), 202(a), or 203(b)(4) of the Immigration and Nationality Act ([8 U.S.C. 1151(d)][/us/usc/t8/s1151/d], 1152(a), and 1153(b)(4)).
 
 >         “(3) __Carry forward.—__ 
 
->             “(A) __Fiscal years 2008 through 2011.—__ 
+>             “(A)  __Fiscal years 2008 through 2011__  __.—__ 
 
 >             If the numerical limitation specified in paragraph (1) is not reached during a given fiscal year referred to in such paragraph (with respect to fiscal years 2008 through 2011), the numerical limitation specified in such paragraph for the following fiscal year shall be increased by a number equal to the difference between—
 
@@ -287,7 +287,7 @@
 
 >                 “(ii) the number of principal aliens provided special immigrant status under this section during the given fiscal year.
 
->             “(B) __Fiscal years 2012 and 2013.—__ 
+>             “(B)  __Fiscal years 2012 and 2013__  __.—__ 
 
 >             If the numerical limitation specified in paragraph (1) is not reached in fiscal year 2012, the total number of principal aliens who may be provided special immigrant status under this section for fiscal year 2013 shall be equal to the difference between—
 
@@ -297,7 +297,7 @@
 
 >             “(C) __Fiscal year 2014.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clauses (ii) and (iii), the total number of principal aliens who may be provided special immigrant status under this section during the first 3 months of fiscal year 2014 shall be the sum of—
 
@@ -305,45 +305,45 @@
 
 >                          “(II) 2,000.
 
->                 “(ii) __Employment period.—__ 
+>                 “(ii)  __Employment period__  __.—__ 
 
 >                 The 1-year period during which the principal alien is required to have been employed by or on behalf of the United States Government in Iraq under subsection (b)(1)(B) shall begin on or after March 20, 2003, and end on or before September 30, 2013.
 
->                 “(iii) __Application deadline.—__ 
+>                 “(iii)  __Application deadline__  __.—__ 
 
 >                 The principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(4) not later than December 31, 2013.
 
->     “(d) __Visa and Passport Issuance and Fees.—__ 
+>     “(d)  __Visa and Passport Issuance and Fees__  __.—__ 
 
 >     Neither the Secretary of State nor the Secretary of Homeland Security may charge an alien described in subsection (b) any fee in connection with an application for, or issuance of, a special immigrant visa. The Secretary of State shall make a reasonable effort to ensure that aliens described in this section who are issued special immigrant visas are provided with the appropriate series Iraqi passport necessary to enter the United States.
 
->     “(e) __Protection of Aliens.—__ 
+>     “(e)  __Protection of Aliens__  __.—__ 
 
 >     The Secretary of State, in consultation with the heads of other relevant Federal agencies, shall make a reasonable effort to provide an alien described in this section who is applying for a special immigrant visa with protection or the immediate removal from Iraq, if possible, of such alien if the Secretary determines after consultation that such alien is in imminent danger.
 
->     “(f) __Eligibility for Admission Under Other Classification.—__ 
+>     “(f)  __Eligibility for Admission Under Other Classification__  __.—__ 
 
 >     No alien shall be denied the opportunity to apply for admission under this section solely because such alien qualifies as an immediate relative or is eligible for any other immigrant classification.
 
->     “(g) __Resettlement Support.—__ 
+>     “(g)  __Resettlement Support__  __.—__ 
 
 >     Iraqi aliens granted special immigrant status described in section 101(a)(27) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)][/us/usc/t8/s1101/a/27]) shall be eligible for resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of such Act ([8 U.S.C. 1157][/us/usc/t8/s1157]) to the same extent, and for the same periods of time, as such refugees.
 
->     “(h) __Rule of Construction.—__ 
+>     “(h)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section may be construed to affect the authority of the Secretary of Homeland Security under section 1059 of the National Defense Authorization Act for Fiscal Year 2006 \[[Pub. L. 109–163][/us/pl/109/163], [8 U.S.C. 1101][/us/usc/t8/s1101] note\].
 
 > “SEC. 1245. __SENIOR COORDINATOR FOR IRAQI REFUGEES AND INTERNALLY DISPLACED PERSONS.__ 
 
->     “(a) __Designation in Iraq.—__ 
+>     “(a)  __Designation in Iraq__  __.—__ 
 
 >     The Secretary of State shall designate in the embassy of the United States in Baghdad, Iraq, a Senior Coordinator for Iraqi Refugees and Internally Displaced Persons (referred to in this section as the ‘Senior Coordinator’).
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The Senior Coordinator shall be responsible for the oversight of processing for the resettlement in the United States of refugees of special humanitarian concern, special immigrant visa programs in Iraq, and the development and implementation of other appropriate policies and programs concerning Iraqi refugees and internally displaced persons. The Senior Coordinator shall have the authority to refer persons to the United States refugee resettlement program.
 
->     “(c) __Designation of Additional Senior Coordinators.—__ 
+>     “(c)  __Designation of Additional Senior Coordinators__  __.—__ 
 
 >     The Secretary of State shall designate in the embassies of the United States in Cairo, Egypt, Amman, Jordan, Damascus, Syria, and Beirut, Lebanon, a Senior Coordinator to oversee resettlement in the United States of refugees of special humanitarian concern in those countries to ensure their applications to the United States refugee resettlement program are processed in an orderly manner and without delay.
 
@@ -365,7 +365,7 @@
 
 > “SEC. 1248. __REPORTS.__ 
 
->     “(a) __Secretary of Homeland Security.—__ 
+>     “(a)  __Secretary of Homeland Security__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
 
@@ -377,7 +377,7 @@
 
 >         “(4) the projections of the Secretary, per country and per month, for the number of refugee interviews that will be conducted in fiscal year 2008 and fiscal year 2009.
 
->     “(b) __President.—__ 
+>     “(b)  __President__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and annually thereafter through 2013, the President shall submit to Congress an unclassified report, with a classified annex if necessary, which includes—
 
@@ -393,7 +393,7 @@
 
 >     “(c) __Report on Iraqi Citizens and Nationals Employed by the United States Government or Federal Contractors in Iraq.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Treasury, and the Secretary of Homeland Security shall—
 
@@ -401,19 +401,19 @@
 
 >             “(B) request from each prime contractor or grantee that has performed work in Iraq since March 20, 2003, under a contract, grant, or cooperative agreement with their respective agencies that is valued in excess of $100,000 information that can be used to verify the employment of Iraqi nationals by such contractor or grantee.
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         To the extent data is available, the information referred to in paragraph (1) shall include the name and dates of employment of, biometric data for, and other data that can be used to verify the employment of each Iraqi citizen or national who has performed work in Iraq since March 20, 2003, under a contract, grant, or cooperative agreement with an executive agency.
 
->         “(3) __Executive agency defined.—__ 
+>         “(3)  __Executive agency defined__  __.—__ 
 
 >         In this subsection, the term ‘executive agency’ has the meaning given the term in section 4(1) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(1)][/us/usc/t41/s403/1]) \[now [41 U.S.C. 133][/us/usc/t41/s133]\].
 
->     “(d) __Report on Establishment of Database.—__ 
+>     “(d)  __Report on Establishment of Database__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in consultation with the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Treasury, and the Secretary of Homeland Security, shall submit to Congress a report examining the options for establishing a unified, classified database of information related to contracts, grants, or cooperative agreements entered into by executive agencies for the performance of work in Iraq since March 20, 2003, including the information described and collected under subsection (c), to be used by relevant Federal departments and agencies to adjudicate refugee, asylum, special immigrant visa, and other immigration claims and applications.
 
->     “(e) __Noncompliance Report.—__ 
+>     “(e)  __Noncompliance Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the President shall submit a report to Congress that describes—
 
@@ -437,11 +437,11 @@
 
 > “SEC. 2. __AMERICAN VIETNAM WAR POW/MIA ASYLUM PROGRAM.__ 
 
->     “(a) __Asylum for Eligible Aliens.—__ 
+>     “(a)  __Asylum for Eligible Aliens__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     Refugee status shall be granted under subsection (a) to—
 
@@ -455,13 +455,13 @@
 
 >         “(2) any parent, spouse, or child of an alien described in paragraph (1).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
 >         “(1) __American vietnam war pow/mia.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the term ‘American Vietnam War POW/MIA’ means an individual—
 
@@ -469,11 +469,11 @@
 
 >                 “(ii) who is an employee (as defined in [section 5561(2) of title 5][/us/usc/t5/s5561/2], United States Code) in a missing status (as defined in section 5561(5) of such title) as a result of the Vietnam War.
 
->             “(B) __Exclusion.—__ 
+>             “(B)  __Exclusion__  __.—__ 
 
 >             Such term does not include an individual with respect to whom it is officially determined under [section 552(c) of title 37][/us/usc/t37/s552/c], United States Code, that such individual is officially absent from such individual’s post of duty without authority.
 
->         “(2) __Missing status.—__ 
+>         “(2)  __Missing status__  __.—__ 
 
 >         The term ‘missing status’, with respect to the Vietnam War, means the status of an individual as a result of the Vietnam War if immediately before that status began the individual—
 
@@ -481,17 +481,17 @@
 
 >             “(B) was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
->         “(3) __Vietnam war.—__ 
+>         “(3)  __Vietnam war__  __.—__ 
 
 >         The term ‘Vietnam War’ means the conflict in Southeast Asia during the period that began on February 28, 1961, and ended on May 7, 1975.
 
 > “SEC. 3. __AMERICAN KOREAN WAR POW/MIA ASYLUM PROGRAM.__ 
 
->     “(a) __Asylum for Eligible Aliens.—__ 
+>     “(a)  __Asylum for Eligible Aliens__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     Refugee status shall be granted under subsection (a) to—
 
@@ -505,13 +505,13 @@
 
 >         “(2) any parent, spouse, or child of an alien described in paragraph (1).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
 >         “(1) __American korean war pow/mia.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the term ‘American Korean War POW/MIA’ means an individual—
 
@@ -519,15 +519,15 @@
 
 >                 “(ii) who is an employee (as defined in [section 5561(2) of title 5][/us/usc/t5/s5561/2], United States Code) in a missing status (as defined in section 5561(5) of such title) as a result of the Korean War.
 
->             “(B) __Exclusion.—__ 
+>             “(B)  __Exclusion__  __.—__ 
 
 >             Such term does not include an individual with respect to whom it is officially determined under [section 552(c) of title 37][/us/usc/t37/s552/c], United States Code, that such individual is officially absent from such individual’s post of duty without authority.
 
->         “(2) __Korean war.—__ 
+>         “(2)  __Korean war__  __.—__ 
 
 >         The term ‘Korean War’ means the conflict on the Korean peninsula during the period that began on June 27, 1950, and ended January 31, 1955.
 
->         “(3) __Missing status.—__ 
+>         “(3)  __Missing status__  __.—__ 
 
 >         The term ‘missing status’, with respect to the Korean War, means the status of an individual as a result of the Korean War if immediately before that status began the individual—
 
@@ -537,13 +537,13 @@
 
 > “SEC. 3A. __AMERICAN PERSIAN GULF WAR POW/MIA ASYLUM PROGRAM.__ 
 
->     “(a) __Asylum for Eligible Aliens.—__ 
+>     “(a)  __Asylum for Eligible Aliens__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
 >     “(b) __Eligibility.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), an alien described in this subsection is—
 
@@ -557,17 +557,17 @@
 
 >             “(B) any parent, spouse, or child of an alien described in subparagraph (A).
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         An alien described in this subsection does not include a terrorist, a persecutor, a person who has been convicted of a serious criminal offense, or a person who presents a danger to the security of the United States, as set forth in clauses (i) through (v) of section 208(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1158(b)(2)(A)][/us/usc/t8/s1158/b/2/A]).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
 >         “(1) __American persian gulf war pow/mia.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the term ‘American Persian Gulf War POW/MIA’ means an individual—
 
@@ -575,11 +575,11 @@
 
 >                 “(ii) who is an employee (as defined in [section 5561(2) of title 5][/us/usc/t5/s5561/2], United States Code) in a missing status (as defined in section 5561(5) of such title) as a result of the Persian Gulf War, or any successor conflict, operation, or action.
 
->             “(B) __Exclusion.—__ 
+>             “(B)  __Exclusion__  __.—__ 
 
 >             Such term does not include an individual with respect to whom it is officially determined under [section 552(c) of title 37][/us/usc/t37/s552/c], United States Code, that such individual is officially absent from such individual’s post of duty without authority.
 
->         “(2) __Missing status.—__ 
+>         “(2)  __Missing status__  __.—__ 
 
 >         The term ‘missing status’, with respect to the Persian Gulf War, or any successor conflict, operation, or action, means the status of an individual as a result of the Persian Gulf War, or such conflict, operation, or action, if immediately before that status began the individual—
 
@@ -587,7 +587,7 @@
 
 >             “(B) was performing service in the Greater Middle East Region in direct support of military operations in Kuwait or Iraq.
 
->         “(3) __Persian gulf war.—__ 
+>         “(3)  __Persian gulf war__  __.—__ 
 
 >         The term ‘Persian Gulf War’ means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.”
 
@@ -625,11 +625,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 254\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–432, provided that:
 
->     “(a) __Establishment of Task Force.—__ 
+>     “(a)  __Establishment of Task Force__  __.—__ 
 
 >     The Secretary of State, in consultation with the Attorney General and other appropriate Federal agencies, shall establish a task force with the goal of determining eligibility guidelines for women seeking refugee status overseas due to gender-related persecution.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State shall prepare and submit to the Congress a report outlining the guidelines determined by the task force under subsection (a).”
 
@@ -637,7 +637,7 @@
 
 [Pub. L. 101–167, title V, § 599D][/us/pl/101/167/s599D], Nov. 21, 1989, [103 Stat. 1261][/us/stat/103/1261], as amended by [Pub. L. 101–513, title V, § 598(a)][/us/pl/101/513/s598/a], Nov. 5, 1990, [104 Stat. 2063][/us/stat/104/2063]; [Pub. L. 102–391, title V, § 582(a)(1)][/us/pl/102/391/s582/a/1], (b)(1), (c), Oct. 6, 1992, [106 Stat. 1686][/us/stat/106/1686]; [Pub. L. 102–511, title IX, § 905(a)][/us/pl/102/511/s905/a], (b)(1), (c), Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 103–236, title V, § 512(1)][/us/pl/103/236/s512/1], Apr. 30, 1994, [108 Stat. 466][/us/stat/108/466]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 575(1)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 104–319, title I, § 101(1)][/us/pl/104/319/s101/1], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865]; [Pub. L. 105–118, title V, § 574(1)][/us/pl/105/118/s574/1], Nov. 26, 1997, [111 Stat. 2432][/us/stat/111/2432]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 705(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 214(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–240; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 212(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–27; [Pub. L. 107–116, title II, § 213(1)][/us/pl/107/116/s213/1], Jan. 10, 2002, [115 Stat. 2200][/us/stat/115/2200]; [Pub. L. 108–7, div. G, title II, § 213(1)][/us/pl/108/7/s213/1], Feb. 20, 2003, [117 Stat. 324][/us/stat/117/324]; [Pub. L. 108–199, div. E, title II, § 213(1)][/us/pl/108/199/s213/1], Jan. 23, 2004, [118 Stat. 253][/us/stat/118/253]; [Pub. L. 108–447, div. F, title II, § 213(1)][/us/pl/108/447/s213/1], Dec. 8, 2004, [118 Stat. 3139][/us/stat/118/3139]; [Pub. L. 109–102, title V, § 534(m)(1)][/us/pl/109/102/s534/m/1], Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 109–289, div. B, title II, § 20412(b)(1)][/us/pl/109/289/s20412/b/1], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25]; [Pub. L. 110–161, div. J, title VI, § 634(k)(1)][/us/pl/110/161/s634/k/1], Dec. 26, 2007, [121 Stat. 2329][/us/stat/121/2329]; [Pub. L. 111–8, div. H, title VII, § 7034(g)(1)][/us/pl/111/8/s7034/g/1], Mar. 11, 2009, [123 Stat. 878][/us/stat/123/878]; [Pub. L. 111–117, div. F, title VII, § 7034(f)(1)][/us/pl/111/117/s7034/f/1], Dec. 16, 2009, [123 Stat. 3361][/us/stat/123/3361]; [Pub. L. 112–10, div. B, title XI, § 2121(m)(1)][/us/pl/112/10/s2121/m/1], Apr. 15, 2011, [125 Stat. 186][/us/stat/125/186]; [Pub. L. 112–74, div. I, title VII, § 7034(r)(1)][/us/pl/112/74/s7034/r/1], Dec. 23, 2011, [125 Stat. 1218][/us/stat/125/1218]; [Pub. L. 113–6, div. F, title VII, § 1706(h)(1)][/us/pl/113/6/s1706/h/1], Mar. 26, 2013, [127 Stat. 430][/us/stat/127/430], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of an alien who is within a category of aliens established under subsection (b), the alien may establish, for purposes of admission as a refugee under section 207 of the Immigration and Nationality Act \[[8 U.S.C. 1157][/us/usc/t8/s1157]\], that the alien has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion by asserting such a fear and asserting a credible basis for concern about the possibility of such persecution.
 
@@ -663,11 +663,11 @@
 
 >         “(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[[8 U.S.C. 1157(a)(3)][/us/usc/t8/s1157/a/3]\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, and 2013 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
->     “(c) __Written Reasons for Denials of Refugee Status.—__ 
+>     “(c)  __Written Reasons for Denials of Refugee Status__  __.—__ 
 
 >     Each decision to deny an application for refugee status of an alien who is within a category established under this section shall be in writing and shall state, to the maximum extent feasible, the reason for the denial.
 
->     “(d) __Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—__ 
+>     “(d)  __Permitting Certain Aliens Within Categories to Reapply for Refugee Status__  __.—__ 
 
 >     Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of the enactment of this Act \[Nov. 21, 1989\]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section.
 
@@ -704,6 +704,8 @@
  __Presidential Determination Concerning Admission and Adjustment of Status of Refugees__ 
 
     Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+    Presidential Determination No. 2014–01, Oct. 2, 2013, 78 F.R. 62415.
 
     Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.
 

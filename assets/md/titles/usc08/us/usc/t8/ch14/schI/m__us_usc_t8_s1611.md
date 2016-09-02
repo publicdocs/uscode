@@ -105,29 +105,29 @@
 
 [Pub. L. 105–33, title IV, § 4723][/us/pl/105/33/s4723], Aug. 5, 1997, [111 Stat. 515][/us/stat/111/515], provided that:
 
->     “(a) __Total Amount Available for Allotment.—__ 
+>     “(a)  __Total Amount Available for Allotment__  __.—__ 
 
 >     There are available for allotments under this section for each of the 4 consecutive fiscal years (beginning with fiscal year 1998) $25,000,000 for payments to certain States under this section.
 
 >     “(b) __State Allotment Amount.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall compute an allotment for each fiscal year beginning with fiscal year 1998 and ending with fiscal year 2001 for each of the 12 States with the highest number of undocumented aliens. The amount of such allotment for each such State for a fiscal year shall bear the same ratio to the total amount available for allotments under subsection (a) for the fiscal year as the ratio of the number of undocumented aliens in the State in the fiscal year bears to the total of such numbers for all such States for such fiscal year. The amount of allotment to a State provided under this paragraph for a fiscal year that is not paid out under subsection (c) shall be available for payment during the subsequent fiscal year.
 
->         “(2) __Determination.—__ 
+>         “(2)  __Determination__  __.—__ 
 
 >         For purposes of paragraph (1), the number of undocumented aliens in a State under this section shall be determined based on estimates of the resident illegal alien population residing in each State prepared by the Statistics Division of the Immigration and Naturalization Service as of October 1992 (or as of such later date if such date is at least 1 year before the beginning of the fiscal year involved).
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     From the allotments made under subsection (b), the Secretary shall pay to each State amounts the State demonstrates were paid by the State (or by a political subdivision of the State) for emergency health services furnished to undocumented aliens.
 
->     “(d) __State Defined.—__ 
+>     “(d)  __State Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘State’ includes the District of Columbia.
 
->     “(e) __State Entitlement.—__ 
+>     “(e)  __State Entitlement__  __.—__ 
 
 >     This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment to States of amounts provided under this section.”
 

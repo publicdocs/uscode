@@ -109,13 +109,13 @@
 
 [Pub. L. 101–649, title I, § 104(c)][/us/pl/101/649/s104/c], (d), Nov. 29, 1990, [104 Stat. 4985][/us/stat/104/4985], as amended by [Pub. L. 104–208, div. C, title VI, § 604(b)(2)][/us/pl/104/208/s604/b/2], Sept. 30, 1996, [110 Stat. 3009–694][/us/stat/110/3009-694], provided that:
 
->     “(c) __Waiver of Numerical Limitation for Certain Current Asylees.—__ 
+>     “(c)  __Waiver of Numerical Limitation for Certain Current Asylees__  __.—__ 
 
 >     The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act \[[8 U.S.C. 1159(b)][/us/usc/t8/s1159/b]\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
 
 >     “(d) __Adjustment of Certain Former Asylees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the provisions of section 209(b) of the Immigration and Nationality Act \[[8 U.S.C. 1159(b)][/us/usc/t8/s1159/b]\] shall also apply to an alien—
 
@@ -125,7 +125,7 @@
 
 >             “(C) who was (or would be) qualified for adjustment of status under section 209(b) of the Immigration and Nationality Act as of the date of the enactment of this Act but for paragraphs (2) and (3) thereof and but for any numerical limitation under such section.
 
->         “(2) __Application of per country limitations.—__ 
+>         “(2)  __Application of per country limitations__  __.—__ 
 
 >         The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[[8 U.S.C. 1152(a)][/us/usc/t8/s1152/a]\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
 

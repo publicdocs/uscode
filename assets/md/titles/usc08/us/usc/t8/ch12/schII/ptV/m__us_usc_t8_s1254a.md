@@ -367,17 +367,17 @@
 
 >     “(a) __Designation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         El Salvador is hereby designated under section 244(b) of the Immigration and Nationality Act \[[8 U.S.C. 1254a(b)][/us/usc/t8/s1254a/b]\], subject to the provisions of this section.
 
->         “(2) __Period of designation.—__ 
+>         “(2)  __Period of designation__  __.—__ 
 
 >         Such designation shall take effect on the date of the enactment of this section \[Nov. 29, 1990\] and shall remain in effect until the end of the 18-month period beginning January 1, 1991.
 
 >     “(b) __Aliens Eligible.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In applying section 244 of the Immigration and Nationality Act \[[8 U.S.C. 1254a][/us/usc/t8/s1254a]\] pursuant to the designation under this section, subject to section 244(c)(3) of such Act, an alien who is a national of El Salvador meets the requirements of section 244(c)(1) of such Act only if—
 
@@ -387,35 +387,35 @@
 
 >             “(C) in a manner which the Attorney General shall establish, the alien registers for temporary protected status under this section during the registration period beginning January 1, 1991, and ending October 31, 1991.
 
->         “(2) __Registration fee.—__ 
+>         “(2)  __Registration fee__  __.—__ 
 
 >         The Attorney General shall require payment of a reasonable fee as a condition of registering an alien under paragraph (1)(C) (including providing an alien with an ‘employment authorized’ endorsement or other appropriate work permit under this section). The amount of the fee shall be sufficient to cover the costs of administration of this section. Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], United States Code, all such registration fees collected shall be credited to the appropriation to be used in carrying out this section.
 
 >     “(c) __Application of Certain Provisions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in this subsection, the provisions of section 244 of the Immigration and Nationality Act \[[8 U.S.C. 1254a][/us/usc/t8/s1254a]\] (including subsection (h) thereof) shall apply to El Salvador (and aliens provided temporary protected status) under this section in the same manner as they apply to a foreign state designated (and aliens provided temporary protected status) under such section.
 
->         “(2) __Provisions not applicable.—__ 
+>         “(2)  __Provisions not applicable__  __.—__ 
 
 >         Subsections (b)(1), (b)(2), (b)(3), (c)(1), (c)(4), (d)(3), and (i) of such section 244 shall not apply under this section.
 
->         “(3) __6-month period of registration and work authorization.—__ 
+>         “(3) __6-__  __month period of registration and work authorization__  __.—__ 
 
 >         Notwithstanding section 244(a)(2) of the Immigration and Nationality Act, the work authorization provided under this section shall be effective for periods of 6 months. In applying section 244(c)(3)(C) of such Act under this section, ‘semiannually, at the end of each 6-month period’ shall be substituted for ‘annually, at the end of each 12-month period’ and, notwithstanding section 244(d)(2) of such Act, the period of validity of documentation under this section shall be 6 months.
 
->         “(4) __Reentry permitted after departure for emergency circumstances.—__ 
+>         “(4)  __Reentry permitted after departure for emergency circumstances__  __.—__ 
 
 >         In applying section 244(f)(3) of the Immigration and Nationality Act under this section, the Attorney General shall provide for advance parole in the case of an alien provided special temporary protected status under this section if the alien establishes to the satisfaction of the Attorney General that emergency and extenuating circumstances beyond the control of the alien requires the alien to depart for a brief, temporary trip abroad.
 
 >     “(d) __Enforcement of Requirement to Depart at Time of Termination of Designation.—__ 
 
->         “(1) __Show cause order at time of final registration.—__ 
+>         “(1)  __Show cause order at time of final registration__  __.—__ 
 
 >         At the registration occurring under this section closest to the date of termination of the designation of El Salvador under subsection (a), the Immigration and Naturalization Service shall serve on the alien granted temporary protected status an order to show cause that establishes a date for deportation proceedings which is after the date of such termination of designation. If El Salvador is subsequently designated under section 244(b) of the Immigration and Nationality Act \[[8 U.S.C. 1254a][/us/usc/t8/s1254a]\], the Service shall cancel such orders.
 
->         “(2) __Sanction for failure to appear.—__ 
+>         “(2)  __Sanction for failure to appear__  __.—__ 
 
 >         If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[[8 U.S.C. 1229a(b)(5)][/us/usc/t8/s1229a/b/5]\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section.”
 

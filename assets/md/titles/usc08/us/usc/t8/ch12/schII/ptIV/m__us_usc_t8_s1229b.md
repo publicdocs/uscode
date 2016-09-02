@@ -279,11 +279,11 @@
 
 [Pub. L. 109–162, title VIII, § 813(b)][/us/pl/109/162/s813/b], Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Homeland Security, the Attorney General, and the Secretary of State shall continue to have discretion to consent to an alien’s reapplication for admission after a previous order of removal, deportation, or exclusion.
 
->     “(2) __Sense of congress.—__ 
+>     “(2)  __Sense of congress__  __.—__ 
 
 >     It is the sense of Congress that the officials described in paragraph (1) should particularly consider exercising this authority in cases under the Violence Against Women Act of 1994 \[[Pub. L. 103–322, title IV][/us/pl/103/322], see Tables for classification\], cases involving nonimmigrants described in subparagraph (T) or (U) of section 101(a)(15) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]), and relief under section 240A(b)(2) \[[8 U.S.C. 1229b(b)(2)][/us/usc/t8/s1229b/b/2]\] or 244(a)(3) \[[8 U.S.C. 1254(a)(3)][/us/usc/t8/s1254/a/3]\] of such Act (as in effect on March 31, 1997) pursuant to regulations under section 212.2 of title 8, Code of Federal Regulations.”
 

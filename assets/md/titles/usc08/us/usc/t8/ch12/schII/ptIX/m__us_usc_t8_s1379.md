@@ -59,11 +59,11 @@
 
 [Pub. L. 107–56, title IV, § 405][/us/pl/107/56/s405], Oct. 26, 2001, [115 Stat. 345][/us/stat/115/345], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General, in consultation with the appropriate heads of other Federal agencies, including the Secretary of State, Secretary of the Treasury, and the Secretary of Transportation, shall report to Congress on the feasibility of enhancing the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation and other identification systems in order to better identify a person who holds a foreign passport or a visa and may be wanted in connection with a criminal investigation in the United States or abroad, before the issuance of a visa to that person or the entry or exit from the United States by that person.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated not less than $2,000,000 to carry out this section.”
 

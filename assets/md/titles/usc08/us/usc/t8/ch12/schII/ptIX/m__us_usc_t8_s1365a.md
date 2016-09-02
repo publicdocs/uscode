@@ -159,7 +159,7 @@
 
 >     “(a) __Sense of Congress Regarding the Need To Expedite Implementation of Integrated Entry and Exit Data System.—__ 
 
->         “(1) __Sense of congress.—__ 
+>         “(1)  __Sense of congress__  __.—__ 
 
 >         In light of the terrorist attacks perpetrated against the United States on September 11, 2001, it is the sense of the Congress that—
 
@@ -167,11 +167,11 @@
 
 >             “(B) the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security, should immediately begin establishing the Integrated Entry and Exit Data System Task Force, as described in section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000 ([Public Law 106–215][/us/pl/106/215]) \[set out as a note below\].
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated such sums as may be necessary to fully implement the system described in paragraph (1)(A).
 
->     “(b) __Development of the System.—__ 
+>     “(b)  __Development of the System__  __.—__ 
 
 >     In the development of the integrated entry and exit data system under section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1365a][/us/usc/t8/s1365a]), the Attorney General and the Secretary of State shall particularly focus on—
 
@@ -179,7 +179,7 @@
 
 >         “(2) the development of tamper-resistant documents readable at ports of entry.
 
->     “(c) __Interface With Law Enforcement Databases.—__ 
+>     “(c)  __Interface With Law Enforcement Databases__  __.—__ 
 
 >     The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States.”
 
@@ -187,17 +187,17 @@
 
 [Pub. L. 106–215, § 3][/us/pl/106/215/s3], June 15, 2000, [114 Stat. 339][/us/stat/114/339], as amended by [Pub. L. 107–56, title IV, § 415][/us/pl/107/56/s415], Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[June 15, 2000\], the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security\[,\] shall establish a task force to carry out the duties described in subsection (c) (in this section referred to as the ‘Task Force’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Chairperson; appointment of members.—__ 
+>         “(1)  __Chairperson; appointment of members__  __.—__ 
 
 >         The Task Force shall be composed of the Attorney General and 16 other members appointed in accordance with paragraph (2). The Attorney General shall be the chairperson and shall appoint the other members.
 
->         “(2) __Appointment requirements.—__ 
+>         “(2)  __Appointment requirements__  __.—__ 
 
 >         In appointing the other members of the Task Force, the Attorney General shall include—
 
@@ -221,21 +221,21 @@
 
 >             “(B) private sector representatives of affected industries and groups.
 
->         “(3) __Terms.—__ 
+>         “(3)  __Terms__  __.—__ 
 
 >         Each member shall be appointed for the life of the Task Force. Any vacancy shall be filled by the Attorney General.
 
 >         “(4) __Compensation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each member of the Task Force shall serve without compensation, and members who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
->             “(B) __Travel expenses.—__ 
+>             “(B)  __Travel expenses__  __.—__ 
 
 >             The members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the Task Force.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The Task Force shall evaluate the following:
 
@@ -257,47 +257,47 @@
 
 >     “(d) __Staff and Support Services.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Task Force to perform its duties. The employment and termination of an executive director shall be subject to confirmation by a majority of the members of the Task Force.
 
->         “(2) __Compensation.—__ 
+>         “(2)  __Compensation__  __.—__ 
 
 >         The executive director shall be compensated at a rate not to exceed the rate payable for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code. The Attorney General may fix the compensation of other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for such personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
->         “(3) __Detail of government employees.—__ 
+>         “(3)  __Detail of government employees__  __.—__ 
 
 >         Any Federal Government employee, with the approval of the head of the appropriate Federal agency, may be detailed to the Task Force without reimbursement, and such detail shall be without interruption or loss of civil service status, benefits, or privilege.
 
->         “(4) __Procurement of temporary and intermittent services.—__ 
+>         “(4)  __Procurement of temporary and intermittent services__  __.—__ 
 
 >         The Attorney General may procure temporary and intermittent services for the Task Force under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
->         “(5) __Administrative support services.—__ 
+>         “(5)  __Administrative support services__  __.—__ 
 
 >         Upon the request of the Attorney General, the Administrator of General Services shall provide to the Task Force, on a reimbursable basis, the administrative support services necessary for the Task Force to carry out its responsibilities under this section.
 
->     “(e) __Hearings and Sessions.—__ 
+>     “(e)  __Hearings and Sessions__  __.—__ 
 
 >     The Task Force may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Task Force considers appropriate.
 
->     “(f) __Obtaining Official Data.—__ 
+>     “(f)  __Obtaining Official Data__  __.—__ 
 
 >     The Task Force may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Attorney General, the head of that department or agency shall furnish that information to the Task Force.
 
 >     “(g) __Reports.—__ 
 
->         “(1) __Deadline.—__ 
+>         “(1)  __Deadline__  __.—__ 
 
 >         Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Each report shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
 
->         “(2) __Delegation.—__ 
+>         “(2)  __Delegation__  __.—__ 
 
 >         The Attorney General may delegate to the Commissioner, Immigration and Naturalization Service, the responsibility for preparing and transmitting any such report.
 
 >     “(h) __Legislative Recommendations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall make such legislative recommendations as the Attorney General deems appropriate—
 
@@ -305,15 +305,15 @@
 
 >             “(B) to obtain authorization for the appropriation of funds, the expenditure of receipts, or the reprogramming of existing funds to implement such recommendations.
 
->         “(2) __Delegation.—__ 
+>         “(2)  __Delegation__  __.—__ 
 
 >         The Attorney General may delegate to the Commissioner, Immigration and Naturalization Service, the responsibility for preparing and transmitting any such legislative recommendations.
 
->     “(i) __Termination.—__ 
+>     “(i)  __Termination__  __.—__ 
 
 >     The Task Force shall terminate on a date designated by the Attorney General as the date on which the work of the Task Force has been completed.
 
->     “(j) __Authorization of Appropriations.—__ 
+>     “(j)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2003.”
 

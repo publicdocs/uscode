@@ -523,7 +523,7 @@
 
 > “SEC. 2. __ADJUSTMENT OF STATUS FOR CERTAIN HAITIAN ORPHANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security may adjust the status of an alien to that of an alien lawfully admitted for permanent residence if the alien—
 
@@ -535,19 +535,19 @@
 
 >         “(4) files an application for an adjustment of status under this section not later than 3 years after the date of the enactment of this Act \[Dec. 9, 2010\].
 
->     “(b) __Numerical Limitation.—__ 
+>     “(b)  __Numerical Limitation__  __.—__ 
 
 >     The number of aliens who are granted the status of an alien lawfully admitted for permanent residence under this section shall not exceed 1400.
 
->     “(c) __Grounds of Inadmissibility.—__ 
+>     “(c)  __Grounds of Inadmissibility__  __.—__ 
 
 >     Section 212(a)(7)(A) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(7)(A)][/us/usc/t8/s1182/a/7/A]) shall not apply to an alien seeking an adjustment of status under this section.
 
->     “(d) __Visa Availability.—__ 
+>     “(d)  __Visa Availability__  __.—__ 
 
 >     The Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.) for any alien granted the status of having been lawfully admitted for permanent residence under this section.
 
->     “(e) __Aliens Deemed To Meet Definition of Child.—__ 
+>     “(e)  __Aliens Deemed To Meet Definition of Child__  __.—__ 
 
 >     An unmarried alien described in subsection (a) who is under the age of 18 years shall be deemed to satisfy the requirements applicable to adopted children under section 101(b)(1) of the Immigration and Nationality Act ([8 U.S.C. 1101(b)(1)][/us/usc/t8/s1101/b/1]) if—
 
@@ -555,7 +555,7 @@
 
 >         “(2) a citizen of the United States adopted the alien prior to, on, or after the date of the decision granting such adjustment of status.
 
->     “(f) __No Immigration Benefits for Birth Parents.—__ 
+>     “(f)  __No Immigration Benefits for Birth Parents__  __.—__ 
 
 >     No birth parent of an alien who obtains adjustment of status under this section shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this section or the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.).
 
@@ -591,7 +591,7 @@
 
 >             “(B) is otherwise admissible to the United States for permanent residence, except that, in determining such admissibility, the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (6)(A), (7)(A), (9)(B)\] shall not apply.
 
->         “(2) __Inapplicability of certain provisions.—__ 
+>         “(2)  __Inapplicability of certain provisions__  __.—__ 
 
 >         In the case of an alien described in subsection (b) or (d) who is applying for adjustment of status under this section—
 
@@ -635,17 +635,17 @@
 
 >         The Attorney General shall provide by regulation for an alien who is subject to a final order of deportation or removal or exclusion to seek a stay of such order based on the filing of an application under subsection (a).
 
->         “(2) __During certain proceedings.—__ 
+>         “(2)  __During certain proceedings__  __.—__ 
 
 >         Notwithstanding any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], the Attorney General shall not order any alien to be removed from the United States, if the alien is in exclusion, deportation, or removal proceedings under any provision of such Act and has applied for adjustment of status under subsection (a), except where the Attorney General has made a final determination to deny the application.
 
->         “(3) __Work authorization.—__ 
+>         “(3)  __Work authorization__  __.—__ 
 
 >         The Attorney General may authorize an alien who has applied for adjustment of status under subsection (a) to engage in employment in the United States during the pendency of such application and may provide the alien with an ‘employment authorized’ endorsement or other appropriate document signifying authorization of employment, except that if such application is pending for a period exceeding 180 days, and has not been denied, the Attorney General shall authorize such employment.
 
 >     “(d) __Adjustment of Status for Spouses and Children.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The status of an alien shall be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence, if—
 
@@ -663,11 +663,11 @@
 
 >             “(D) the alien is otherwise admissible to the United States for permanent residence, except that, in determining such admissibility, the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (6)(A), (7)(A), (9)(B)\] shall not apply.
 
->         “(2) __Proof of continuous presence.—__ 
+>         “(2)  __Proof of continuous presence__  __.—__ 
 
 >         For purposes of establishing the period of continuous physical presence referred to in paragraph (1)(B), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence, or absences, from the United States for any period or periods amounting in the aggregate to not more than 180 days.
 
->     “(e) __Availability of Administrative Review.—__ 
+>     “(e)  __Availability of Administrative Review__  __.—__ 
 
 >     The Attorney General shall provide to applicants for adjustment of status under subsection (a) the same right to, and procedures for, administrative review as are provided to—
 
@@ -675,11 +675,11 @@
 
 >         “(2) aliens subject to removal proceedings under section 240 of such Act \[[8 U.S.C. 1229a][/us/usc/t8/s1229a]\].
 
->     “(f) __Limitation on Judicial Review.—__ 
+>     “(f)  __Limitation on Judicial Review__  __.—__ 
 
 >     A determination by the Attorney General as to whether the status of any alien should be adjusted under this section is final and shall not be subject to review by any court.
 
->     “(g) __No Offset in Number of Visas Available.—__ 
+>     “(g)  __No Offset in Number of Visas Available__  __.—__ 
 
 >     When an alien is granted the status of having been lawfully admitted for permanent resident pursuant to this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
@@ -687,7 +687,7 @@
 
 >     Except as otherwise specifically provided in this title \[section 101(h) \[title IX\] of [Pub. L. 105–277][/us/pl/105/277], enacting sections 1377 and 1378 of this title and provisions set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\], the definitions contained in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section. Nothing contained in this title shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.
 
->     “(i) __Adjustment of Status Has No Effect On Eligibility For Welfare and Public Benefits.—__ 
+>     “(i)  __Adjustment of Status Has No Effect On Eligibility For Welfare and Public Benefits__  __.—__ 
 
 >     No alien whose status has been adjusted in accordance with this section and who was not a qualified alien on the date of enactment of this Act \[Oct. 21, 1998\] may, solely on the basis of such adjusted status, be considered to be a qualified alien under section 431(b) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([8 U.S.C. 1641(b)][/us/usc/t8/s1641/b]), as amended by section 5302 of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 598][/us/stat/111/598]), for purposes of determining the alien’s eligibility for supplemental security income benefits under title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) or medical assistance under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
@@ -713,7 +713,7 @@
 
 >     “(a) __Adjustment of Status.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The status of any alien described in subsection (b) shall be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence, if the alien—
 
@@ -721,7 +721,7 @@
 
 >             “(B) is otherwise admissible to the United States for permanent residence, except in determining such admissibility the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (6)(A), (7)(A), (9)(B)\] shall not apply.
 
->         “(2) __Rules in applying certain provisions.—__ 
+>         “(2)  __Rules in applying certain provisions__  __.—__ 
 
 >         In the case of an alien described in subsection (b) or (d) who is applying for adjustment of status under this section—
 
@@ -731,17 +731,17 @@
 
 >             In granting waivers under subparagraph (B), the Attorney General shall use standards used in granting consent under subparagraphs (A)(iii) and (C)(ii) of such section 212(a)(9).
 
->         “(3) __Relationship of application to certain orders.—__ 
+>         “(3)  __Relationship of application to certain orders__  __.—__ 
 
 >         An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition of submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate such order. If the Attorney General grants the application, the Attorney General shall cancel the order. If the Attorney General renders a final administrative decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.
 
 >     “(b) __Aliens Eligible for Adjustment of Status.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The benefits provided by subsection (a) shall apply to any alien who is a national of Nicaragua or Cuba and who has been physically present in the United States for a continuous period, beginning not later than December 1, 1995, and ending not earlier than the date the application for adjustment under such subsection is filed, except an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence, or absences, from the United States for any periods in the aggregate not exceeding 180 days.
 
->         “(2) __Proof of commencement of continuous presence.—__ 
+>         “(2)  __Proof of commencement of continuous presence__  __.—__ 
 
 >         For purposes of establishing that the period of continuous physical presence referred to in paragraph (1) commenced not later than December 1, 1995, an alien—
 
@@ -767,21 +767,21 @@
 
 >     “(c) __Stay of Removal; Work Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall provide by regulation for an alien subject to a final order of deportation or removal to seek a stay of such order based on the filing of an application under subsection (a).
 
->         “(2) __During certain proceedings.—__ 
+>         “(2)  __During certain proceedings__  __.—__ 
 
 >         Notwithstanding any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], the Attorney General shall not order any alien to be removed from the United States, if the alien is in exclusion, deportation, or removal proceedings under any provision of such Act and has applied for adjustment of status under subsection (a), except where the Attorney General has rendered a final administrative determination to deny the application.
 
->         “(3) __Work authorization.—__ 
+>         “(3)  __Work authorization__  __.—__ 
 
 >         The Attorney General may authorize an alien who has applied for adjustment of status under subsection (a) to engage in employment in the United States during the pendency of such application and may provide the alien with an ‘employment authorized’ endorsement or other appropriate document signifying authorization of employment, except that if such application is pending for a period exceeding 180 days, and has not been denied, the Attorney General shall authorize such employment.
 
 >     “(d) __Adjustment of Status for Spouses and Children.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The status of an alien shall be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence, if—
 
@@ -801,7 +801,7 @@
 
 >             “(E) applies for such adjustment before April 1, 2000, or, in the case of an alien who qualifies under subparagraph (B)(ii), applies for such adjustment during the 18-month period beginning on the date of enactment of the Violence Against Women and Department of Justice Reauthorization Act of 2005 \[Jan. 5, 2006\].
 
->         “(2) __Proof of continuous presence.—__ 
+>         “(2)  __Proof of continuous presence__  __.—__ 
 
 >         For purposes of establishing the period of continuous physical presence referred to in paragraph (1)(B), an alien—
 
@@ -809,11 +809,11 @@
 
 >             “(B) shall not be considered to have failed to maintain continuous physical presence by reason of an absence, or absences, from the United States for any period in the aggregate not exceeding 180 days.
 
->         “(3) __Procedure.—__ 
+>         “(3)  __Procedure__  __.—__ 
 
 >         In acting on an application under this section with respect to a spouse or child who has been battered or subjected to extreme cruelty, the Attorney General shall apply section 204(a)(1)(J) \[[8 U.S.C. 1154(a)(1)(J)][/us/usc/t8/s1154/a/1/J]\].
 
->     “(e) __Availability of Administrative Review.—__ 
+>     “(e)  __Availability of Administrative Review__  __.—__ 
 
 >     The Attorney General shall provide to applicants for adjustment of status under subsection (a) the same right to, and procedures for, administrative review as are provided to—
 
@@ -821,15 +821,15 @@
 
 >         “(2) aliens subject to removal proceedings under section 240 of such Act \[[8 U.S.C. 1229a][/us/usc/t8/s1229a]\].
 
->     “(f) __Limitation on Judicial Review.—__ 
+>     “(f)  __Limitation on Judicial Review__  __.—__ 
 
 >     A determination by the Attorney General as to whether the status of any alien should be adjusted under this section is final and shall not be subject to review by any court.
 
->     “(g) __No Offset in Number of Visas Available.—__ 
+>     “(g)  __No Offset in Number of Visas Available__  __.—__ 
 
 >     When an alien is granted the status of having been lawfully admitted for permanent residence pursuant to this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
->     “(h) __Application of Immigration and Nationality Act Provisions.—__ 
+>     “(h)  __Application of Immigration and Nationality Act Provisions__  __.—__ 
 
 >     Except as otherwise specifically provided in this section, the definitions contained in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section. Nothing contained in this section shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.”
 
@@ -843,7 +843,7 @@
 
 [Pub. L. 104–208, div. C, title VI, § 646][/us/pl/104/208/s646], Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall adjust the status of an alien described in subsection (b) to that of an alien lawfully admitted for permanent residence if the alien—
 
@@ -855,7 +855,7 @@
 
 >         “(4) pays a fee (determined by the Attorney General) for the processing of such application.
 
->     “(b) __Aliens Eligible for Adjustment of Status.—__ 
+>     “(b)  __Aliens Eligible for Adjustment of Status__  __.—__ 
 
 >     The benefits provided in subsection (a) shall only apply to an alien who—
 
@@ -863,15 +863,15 @@
 
 >         “(2) was inspected and granted parole into the United States during the period beginning on November 1, 1989, and ending on December 31, 1991, after being denied refugee status.
 
->     “(c) __Waiver of Certain Grounds for Inadmissibility.—__ 
+>     “(c)  __Waiver of Certain Grounds for Inadmissibility__  __.—__ 
 
 >     The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (7)(A)\] shall not apply to adjustment of status under this section and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) and subparagraphs (A), (B), (C), or (E) of paragraph (3)) with respect to such an adjustment for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
->     “(d) __Date of Approval.—__ 
+>     “(d)  __Date of Approval__  __.—__ 
 
 >     Upon the approval of such an application for adjustment of status, the Attorney General shall create a record of the alien’s admission as an alien lawfully admitted for permanent residence as of the date of the alien’s inspection and parole described in subsection (b)(2).
 
->     “(e) __No Offset in Number of Visas Available.—__ 
+>     “(e)  __No Offset in Number of Visas Available__  __.—__ 
 
 >     When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].”
 
@@ -891,7 +891,7 @@
 
 > “SEC. 2. __ADJUSTMENT TO LAWFUL PERMANENT RESIDENT STATUS OF CERTAIN NATIONALS OF THE PEOPLE’S REPUBLIC OF CHINA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (c)(1), whenever an alien described in subsection (b) applies for adjustment of status under section 245 of the Immigration and Nationality Act \[[8 U.S.C. 1255][/us/usc/t8/s1255]\] during the application period (as defined in subsection (e)) the following rules shall apply with respect to such adjustment:
 
@@ -911,7 +911,7 @@
 
 >         “(5) Section 245(c) of such Act \[[8 U.S.C. 1255(c)][/us/usc/t8/s1255/c]\] shall not apply.
 
->     “(b) __Aliens Covered.—__ 
+>     “(b)  __Aliens Covered__  __.—__ 
 
 >     For purposes of this section, an alien described in this subsection is an alien who—
 
@@ -923,21 +923,21 @@
 
 >     “(c) __Condition; Dissemination of Information.—__ 
 
->         “(1) __Not applicable if safe return permitted.—__ 
+>         “(1)  __Not applicable if safe return permitted__  __.—__ 
 
 >         Subsection (a) shall not apply to any alien if the President has determined and certified to Congress, before the first day of the application period, that conditions in the People’s Republic of China permit aliens described in subsection (b)(1) to return to that foreign state in safety.
 
->         “(2) __Dissemination of information.—__ 
+>         “(2)  __Dissemination of information__  __.—__ 
 
 >         If the President has not made the certification described in paragraph (1) by the first day of the application period, the Attorney General shall, subject to the availability of appropriations, immediately broadly disseminate to aliens described in subsection (b)(1) information respecting the benefits available under this section. To the extent practicable, the Attorney General shall provide notice of these benefits to the last known mailing address of each such alien.
 
 >     “(d) __Offset in Per Country Numerical Level.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The numerical level under section 202(a)(2) of the Immigration and Nationality Act \[[8 U.S.C. 1152(a)(2)][/us/usc/t8/s1152/a/2]\] applicable to natives of the People’s Republic of China in each applicable fiscal year (as defined in paragraph (3)) shall be reduced by 1,000.
 
->         “(2) __Allotment if section 202(e) applies.—__ 
+>         “(2)  __Allotment if section 202__  __(e)__  __applies__  __.—__ 
 
 >         If section 202(e) of the Immigration and Nationality Act is applied to the People’s Republic of China in an applicable fiscal year, in applying such section—
 
@@ -947,7 +947,7 @@
 
 >         “(3) __Applicable fiscal year.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In this subsection, the term ‘applicable fiscal year’ means each fiscal year during the period—
 
@@ -955,11 +955,11 @@
 
 >                 “(ii) ending with the first fiscal year by the end of which the cumulative number of aliens counted for all fiscal years under subparagraph (B) equals or exceeds the total number of aliens whose status has been adjusted under section 245 of the Immigration and Nationality Act \[[8 U.S.C. 1255][/us/usc/t8/s1255]\] pursuant to subsection (a).
 
->             “(B) __Number counted each year.—__ 
+>             “(B)  __Number counted each year__  __.—__ 
 
 >             The number counted under this subparagraph for a fiscal year (beginning during or after the application period) is 1,000, plus the number (if any) by which (i) the immigration level under section 202(a)(2) of the Immigration and Nationality Act for the People’s Republic of China in the fiscal year (as reduced under this subsection), exceeds (ii) the number of aliens who were chargeable to such level in the year.
 
->     “(e) __Application Period Defined.—__ 
+>     “(e)  __Application Period Defined__  __.—__ 
 
 >     In this section, the term ‘application period’ means the 12-month period beginning July 1, 1993.”
 
@@ -967,7 +967,7 @@
 
 [Pub. L. 101–238, § 2][/us/pl/101/238/s2], Dec. 18, 1989, [103 Stat. 2099][/us/stat/103/2099], as amended by [Pub. L. 101–649, title I, § 162(f)(1)][/us/pl/101/649/s162/f/1], Nov. 29, 1990, [104 Stat. 5011][/us/stat/104/5011]; [Pub. L. 102–232, title III][/us/pl/102/232], §§ 302(e)(10), 307(l)(10), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746], 1757, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151], 1152\] shall not apply to the adjustment of status under section 245 of such Act \[[8 U.S.C. 1255][/us/usc/t8/s1255]\] of an immigrant, and the immigrant’s accompanying spouse and children—
 
@@ -979,15 +979,15 @@
 
 >         The Attorney General shall promulgate regulations to carry out this subsection by not later than 90 days after the date of the enactment of this Act.
 
->     “(b) __Transition.—__ 
+>     “(b)  __Transition__  __.—__ 
 
 >     For purposes of adjustment of status under section 245 of the Immigration and Nationality Act \[[8 U.S.C. 1255][/us/usc/t8/s1255]\] in the case of an alien who, as of September 1, 1989, is present in the United States in the status of a nonimmigrant under section 101(a)(15)(H)(i) of such Act \[[8 U.S.C. 1101(a)(15)(H)(i)][/us/usc/t8/s1101/a/15/H/i]\] to perform services as a registered nurse, who, as of September 1, 1989, is present in the United States and had been admitted to the United States in the status of nonimmigrant under section 101(a)(15)(H)(i) of such Act to perform services as a registered nurse but has failed to maintain that status due to the expiration of the time limitation with respect to such status, or who is the spouse or child of such an alien, unauthorized employment performed before the date of the enactment of the Immigration Act of 1990 \[Nov. 29, 1990\] shall not be taken into account in applying section 245(c)(2) of the Immigration and Nationality Act and such an alien shall be considered as having continued to maintain lawful status throughout his or her stay in the United States as a nonimmigrant until the end of the 120-day period beginning on the date the Attorney General promulgates regulations carrying out the amendments made by section 162(f)(1) of the Immigration Act of 1990 \[[Pub. L. 101–649][/us/pl/101/649], amending this note\].
 
->     “(c) __Application of Immigration and Nationality Act Provisions.—__ 
+>     “(c)  __Application of Immigration and Nationality Act Provisions__  __.—__ 
 
 >     The definitions contained in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.
 
->     “(d) __Application Period.—__ 
+>     “(d)  __Application Period__  __.—__ 
 
 >     The alien, and accompanying spouse and children, must apply for such adjustment within the 5-year period beginning on the date the Attorney General promulgates regulations required under subsection (a).”
 
@@ -1019,19 +1019,19 @@
 
 >         “(3) was paroled into the United States from a displaced person camp administered by the United Nations High Commissioner for Refugees in Thailand.
 
->     “(c) __Waiver of Certain Grounds for Inadmissibility.—__ 
+>     “(c)  __Waiver of Certain Grounds for Inadmissibility__  __.—__ 
 
 >     The provisions of paragraphs (4), (5), and (7)(A) and (9) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (7)(A), (9)\] shall not be applicable to any alien seeking admission to the United States under this subsection, and nothwithstanding \[sic\] any other provision of law, the Secretary of Homeland Security may waive 212(a)(1); 212(a)(6)(B), (C), and (F); 212(a)(8)(A); 212(a)(10)(B) and (D) with respect to such an alien in order to prevent extreme hardship to the alien or the alien’s spouse, parent, son or daughter, who is a citizen of the United States or an alien lawfully admitted for permanent residence. Any such waiver by the Secretary of Homeland Security shall be in writing and shall be granted only on an individual basis following an investigation.
 
->     “(d) __Date of Approval.—__ 
+>     “(d)  __Date of Approval__  __.—__ 
 
 >     Upon the approval of such an application for adjustment of status, the Secretary of Homeland Security shall create a record of the alien’s admission as a lawful permanent resident as of the date of the alien’s inspection and parole described in subsection (b)(1), (b)(2) and (b)(3).
 
->     “(e) __No Offset in Number of Visas Available.—__ 
+>     “(e)  __No Offset in Number of Visas Available__  __.—__ 
 
 >     When an alien is granted the status of having been lawfully admitted for permanent residence under this section the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
->     “(f) __Adjudication of Applications.—__ 
+>     “(f)  __Adjudication of Applications__  __.—__ 
 
 >     The Secretary of Homeland Security shall—
 
@@ -1047,7 +1047,7 @@
 
 [Pub. L. 101–167, title V, § 599E][/us/pl/101/167/s599E], Nov. 21, 1989, [103 Stat. 1263][/us/stat/103/1263], as amended by [Pub. L. 101–513, title V, § 598(b)][/us/pl/101/513/s598/b], Nov. 5, 1990, [104 Stat. 2063][/us/stat/104/2063]; [Pub. L. 101–649, title VI, § 603(a)(22)][/us/pl/101/649/s603/a/22], Nov. 29, 1990, [104 Stat. 5084][/us/stat/104/5084]; [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l)(9), Dec. 12, 1991, [105 Stat. 1757][/us/stat/105/1757]; [Pub. L. 102–391, title V, § 582(a)(2)][/us/pl/102/391/s582/a/2], (b)(2), Oct. 6, 1992, [106 Stat. 1686][/us/stat/106/1686]; [Pub. L. 102–511, title IX, § 905(b)(2)][/us/pl/102/511/s905/b/2], Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 103–236, title V, § 512(2)][/us/pl/103/236/s512/2], Apr. 30, 1994, [108 Stat. 466][/us/stat/108/466]; [Pub. L. 103–416, title II, § 219(bb)][/us/pl/103/416/s219/bb], Oct. 25, 1994, [108 Stat. 4319][/us/stat/108/4319]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 575(2)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 104–319, title I, § 101(2)][/us/pl/104/319/s101/2], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865]; [Pub. L. 105–118, title V, § 574(2)][/us/pl/105/118/s574/2], Nov. 26, 1997, [111 Stat. 2432][/us/stat/111/2432]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 705(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 214(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–240; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 212(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–27; [Pub. L. 107–116, title II, § 213(2)][/us/pl/107/116/s213/2], Jan. 10, 2002, [115 Stat. 2200][/us/stat/115/2200]; [Pub. L. 108–7, div. G, title II, § 213(2)][/us/pl/108/7/s213/2], Feb. 20, 2003, [117 Stat. 324][/us/stat/117/324]; [Pub. L. 108–199, div. E, title II, § 213(2)][/us/pl/108/199/s213/2], Jan. 23, 2004, [118 Stat. 253][/us/stat/118/253]; [Pub. L. 108–447, div. F, title II, § 213(2)][/us/pl/108/447/s213/2], Dec. 8, 2004, [118 Stat. 3140][/us/stat/118/3140]; [Pub. L. 109–102, title V, § 534(m)(2)][/us/pl/109/102/s534/m/2], Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 109–289, div. B, title II, § 20412(b)(2)][/us/pl/109/289/s20412/b/2], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25]; [Pub. L. 110–161, div. J, title VI, § 634(k)(2)][/us/pl/110/161/s634/k/2], Dec. 26, 2007, [121 Stat. 2329][/us/stat/121/2329]; [Pub. L. 111–8, div. H, title VII, § 7034(g)(2)][/us/pl/111/8/s7034/g/2], Mar. 11, 2009, [123 Stat. 878][/us/stat/123/878]; [Pub. L. 111–117, div. F, title VII, § 7034(f)(2)][/us/pl/111/117/s7034/f/2], Dec. 16, 2009, [123 Stat. 3361][/us/stat/123/3361]; [Pub. L. 112–10, div. B, title XI, § 2121(m)(2)][/us/pl/112/10/s2121/m/2], Apr. 15, 2011, [125 Stat. 186][/us/stat/125/186]; [Pub. L. 112–74, div. I, title VII, § 7034(r)(2)][/us/pl/112/74/s7034/r/2], Dec. 23, 2011, [125 Stat. 1218][/us/stat/125/1218]; [Pub. L. 113–6, div. F, title VII, § 1706(h)(2)][/us/pl/113/6/s1706/h/2], Mar. 26, 2013, [127 Stat. 430][/us/stat/127/430], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall adjust the status of an alien described in subsection (b) to that of an alien lawfully admitted for permanent residence if the alien—
 
@@ -1059,7 +1059,7 @@
 
 >         “(4) pays a fee (determined by the Attorney General) for the processing of such application.
 
->     “(b) __Aliens Eligible for Adjustment of Status.—__ 
+>     “(b)  __Aliens Eligible for Adjustment of Status__  __.—__ 
 
 >     The benefits provided in subsection (a) shall only apply to an alien who—
 
@@ -1067,15 +1067,15 @@
 
 >         “(2) was inspected and granted parole into the United States during the period beginning on August 15, 1988, and ending on September 30, 2013, after being denied refugee status.
 
->     “(c) __Waiver of Certain Grounds for Inadmissibility.—__ 
+>     “(c)  __Waiver of Certain Grounds for Inadmissibility__  __.—__ 
 
 >     The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(4)][/us/usc/t8/s1182/a/4], (5), (7)(A)\] shall not apply to adjustment of status under this section and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an adjustment for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
->     “(d) __Date of Approval.—__ 
+>     “(d)  __Date of Approval__  __.—__ 
 
 >     Upon the approval of such an application for adjustment of status, the Attorney General shall create a record of the alien’s admission as a lawful permanent resident as of the date of the alien’s inspection and parole described in subsection (b)(2).
 
->     “(e) __No Offset in Number of Visas Available.—__ 
+>     “(e)  __No Offset in Number of Visas Available__  __.—__ 
 
 >     When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].”
 
@@ -1097,11 +1097,11 @@
 
 [Pub. L. 104–208, div. C, title VI, § 606][/us/pl/104/208/s606], Sept. 30, 1996, [110 Stat. 3009–695][/us/stat/110/3009-695] provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     [Public Law 89–732][/us/pl/89/732] \[set out below\] is repealed effective only upon a determination by the President under section 203(c)(3) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 \[[22 U.S.C. 6063(c)][/us/usc/t22/s6063/c]\] ([Public Law 104–114][/us/pl/104/114]) that a democratically elected government in Cuba is in power.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Subsection (a) shall not apply to aliens for whom an application for adjustment of status is pending on such effective date.”
 

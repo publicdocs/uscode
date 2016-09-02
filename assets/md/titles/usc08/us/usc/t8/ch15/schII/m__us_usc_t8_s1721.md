@@ -81,7 +81,7 @@
 
 [Pub. L. 109–13, div. B, title III, § 303][/us/pl/109/13/s303], May 11, 2005, [119 Stat. 317][/us/stat/119/317], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this division \[May 11, 2005\], the Secretary of Homeland Security, acting through the Under Secretary of Homeland Security for Border and Transportation Security, in consultation with the Under Secretary of Homeland Security for Science and Technology, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, the Assistant Secretary of Commerce for Communications and Information, and other appropriate Federal, State, local, and tribal agencies, shall develop and implement a plan—
 
@@ -89,7 +89,7 @@
 
 >         “(2) to enhance information sharing among the departments and agencies of the Federal Government, State and local government agencies, and Indian tribal agencies on such matters.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after implementing the plan under subsection (a), the Secretary shall submit a copy of the plan and a report on the plan, including any recommendations the Secretary finds appropriate, to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary.”
 

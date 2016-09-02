@@ -253,11 +253,11 @@
 
 [Pub. L. 107–56, title IV, § 416(a)][/us/pl/107/56/s416/a], (b), Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
 
->     “(a) __Full Implementation and Expansion of Foreign Student Visa Monitoring Program Required.—__ 
+>     “(a)  __Full Implementation and Expansion of Foreign Student Visa Monitoring Program Required__  __.—__ 
 
 >     The Attorney General, in consultation with the Secretary of State, shall fully implement and expand the program established by section 641(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1372(a)][/us/usc/t8/s1372/a]).
 
->     “(b) __Integration With Port of Entry Information.—__ 
+>     “(b)  __Integration With Port of Entry Information__  __.—__ 
 
 >     For each alien with respect to whom information is collected under section 641 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1372][/us/usc/t8/s1372]), the Attorney General, in consultation with the Secretary of State, shall include information on the date of entry and port of entry.”
 

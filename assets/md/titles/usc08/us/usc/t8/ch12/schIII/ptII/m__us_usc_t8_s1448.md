@@ -75,21 +75,21 @@
 
 [Pub. L. 104–208, div. C, title VI, § 647][/us/pl/104/208/s647], Sept. 30, 1996, [110 Stat. 3009–710][/us/stat/110/3009-710], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall make available funds under this section, in each of fiscal years 1997 through 2001, to the Commissioner of Immigration and Naturalization or to other public or private nonprofit entities to support demonstration projects under this section at 10 sites throughout the United States. Each such project shall be designed to provide for the administration of the oath of allegiance under section 337(a) of the Immigration and Nationality Act \[[8 U.S.C. 1448(a)][/us/usc/t8/s1448/a]\] on a business day around Independence Day to approximately 500 people whose application for naturalization has been approved. Each project shall provide for appropriate outreach and ceremonial and celebratory activities.
 
->     “(b) __Selection of Sites.—__ 
+>     “(b)  __Selection of Sites__  __.—__ 
 
 >     The Attorney General shall, in the Attorney General’s discretion, select diverse locations for sites on the basis of the number of naturalization applicants living in proximity to each site and the degree of local community participation and support in the project to be held at the site. Not more than 2 sites may be located in the same State. The Attorney General shall consider changing the sites selected from year to year.
 
 >     “(c) __Amounts Available; Use of Funds.—__ 
 
->         “(1) __Amount.—__ 
+>         “(1)  __Amount__  __.—__ 
 
 >         The amount made available under this section with respect to any single site for a year shall not exceed $5,000.
 
->         “(2) __Use.—__ 
+>         “(2)  __Use__  __.—__ 
 
 >         Funds made available under this section may be used only to cover expenses incurred in carrying out oath administration ceremonies at the demonstration sites under subsection (a), including expenses for—
 
@@ -99,11 +99,11 @@
 
 >             “(C) costs of printing appropriate brochures and other information about the ceremonies.
 
->         “(3) __Availability of funds.—__ 
+>         “(3)  __Availability of funds__  __.—__ 
 
 >         Funds that are otherwise available to the Immigration and Naturalization Service to carry out naturalization activities shall be available, to the extent provided in appropriation Acts, to carry out this section.
 
->     “(d) __Application.—__ 
+>     “(d)  __Application__  __.—__ 
 
 >     In the case of an entity other than the Immigration and Naturalization Service seeking to conduct a demonstration project under this section, no amounts may be made available to the entity under this section unless an appropriate application has been made to, and approved by, the Attorney General, in a form and manner specified by the Attorney General.”
 

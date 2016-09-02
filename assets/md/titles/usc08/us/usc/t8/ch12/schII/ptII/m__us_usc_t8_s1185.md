@@ -101,25 +101,25 @@
 
 > “SEC. 2. __ASIA-PACIFIC ECONOMIC COOPERATION BUSINESS TRAVEL CARDS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the 7-year period ending on September 30, 2018, the Secretary of Homeland Security, in coordination with the Secretary of State, is authorized to issue Asia-Pacific Economic Cooperation Business Travel Cards (referred to in this section as ‘ABT Cards’) to any eligible person, including business leaders and United States Government officials who are actively engaged in Asia-Pacific Economic Cooperation business. An individual may not receive an ABT Card under this section unless the individual has been approved and is in good standing in an international trusted traveler program of the Department of Homeland Security.
 
->     “(b) __Integration With Existing Travel Programs.—__ 
+>     “(b)  __Integration With Existing Travel Programs__  __.—__ 
 
 >     The Secretary of Homeland Security may integrate application procedures for, and issuance, suspension, and revocation of, ABT Cards with other appropriate international trusted traveler programs of the Department of Homeland Security.
 
->     “(c) __Cooperation With Private Entities.—__ 
+>     “(c)  __Cooperation With Private Entities__  __.—__ 
 
 >     In carrying out this section, the Secretary of Homeland Security may consult with appropriate private sector entities.
 
->     “(d) __Rulemaking.—__ 
+>     “(d)  __Rulemaking__  __.—__ 
 
 >     The Secretary of Homeland Security, in coordination with the Secretary of State, may prescribe such regulations as may be necessary to carry out this section, including regulations regarding conditions of or limitations on eligibility for an ABT Card.
 
->     “(e) __Fee.—__ 
+>     “(e)  __Fee__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Homeland Security may—
 
@@ -127,15 +127,15 @@
 
 >             “(B) adjust such fee to the extent the Secretary determines to be necessary to comply with paragraph (2).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Secretary of Homeland Security shall ensure that the total amount of the fees collected under paragraph (1) during any fiscal year is sufficient to offset the direct and indirect costs associated with carrying out this section during such fiscal year, including the costs associated with establishing the program.
 
->         “(3) __Account for collections.—__ 
+>         “(3)  __Account for collections__  __.—__ 
 
 >         There is established in the Treasury of the United States an ‘APEC Business Travel Card Account’ into which the fees collected under paragraph (1) shall be deposited as offsetting receipts.
 
->         “(4) __Use of funds.—__ 
+>         “(4)  __Use of funds__  __.—__ 
 
 >         Amounts deposited into the APEC Business Travel Card Account—
 
@@ -143,7 +143,7 @@
 
 >             “(B) shall remain available until expended.
 
->     “(f) __Termination of Program.—__ 
+>     “(f)  __Termination of Program__  __.—__ 
 
 >     The Secretary of Homeland Security, in coordination with the Secretary of State, may terminate activities under this section if the Secretary of Homeland Security determines such action to be in the interest of the United States.”
 
@@ -159,7 +159,7 @@
 
 [Pub. L. 108–458, title VII, § 7209][/us/pl/108/458/s7209], Dec. 17, 2004, [118 Stat. 3823][/us/stat/118/3823], as amended by [Pub. L. 109–295, title V, § 546][/us/pl/109/295/s546], Oct. 4, 2006, [120 Stat. 1386][/us/stat/120/1386]; [Pub. L. 110–53, title VII, § 723][/us/pl/110/53/s723], Aug. 3, 2007, [121 Stat. 349][/us/stat/121/349]; [Pub. L. 110–161, div. E, title V, § 545][/us/pl/110/161/s545], Dec. 26, 2007, [121 Stat. 2080][/us/stat/121/2080], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -195,7 +195,7 @@
 
 >                 “(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver’s license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver’s license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
->             “(C) __Report.—__ 
+>             “(C)  __Report__  __.—__ 
 
 >             Not later than 180 days after the initiation of the pilot program described in subparagraph (B)(viii), the Secretary of Homeland Security and the Secretary of State shall submit to the appropriate congressional committees a report which includes—
 
@@ -209,11 +209,11 @@
 
 >                 “(v) a recommendation for the type of machine-readable technology that should be used in enhanced driver’s licenses, based on individual privacy considerations and the costs and feasibility of incorporating any new technology into existing driver’s licenses.
 
->         “(2) __Requirement to produce documentation.—__ 
+>         “(2)  __Requirement to produce documentation__  __.—__ 
 
 >         The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of such Act \[[8 U.S.C. 1182(d)(4)(B)][/us/usc/t8/s1182/d/4/B]\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
 
->     “(c) __Technical and Conforming Amendments.—__ 
+>     “(c)  __Technical and Conforming Amendments__  __.—__ 
 
 >     After the complete implementation of the plan described in subsection (b)—
 
@@ -229,7 +229,7 @@
 
 >             “(C) in the case of humanitarian or national interest reasons in individual cases.
 
->     “(d) __Transit Without Visa Program.—__ 
+>     “(d)  __Transit Without Visa Program__  __.—__ 
 
 >     The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[[8 U.S.C. 1182(d)(4)(C)][/us/usc/t8/s1182/d/4/C]\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
 

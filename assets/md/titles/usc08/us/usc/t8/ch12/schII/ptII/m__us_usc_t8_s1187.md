@@ -887,7 +887,7 @@
 
 [Pub. L. 107–56, title IV, § 417(a)][/us/pl/107/56/s417/a], (b), Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355], provided that:
 
->     “(a) __Audits.—__ 
+>     “(a)  __Audits__  __.—__ 
 
 >     The Secretary of State shall, each fiscal year until September 30, 2007—
 
@@ -897,7 +897,7 @@
 
 >         “(3) ascertain that countries designated under the visa waiver program have established a program to develop tamper-resistant passports.
 
->     “(b) __Periodic Reports.—__ 
+>     “(b)  __Periodic Reports__  __.—__ 
 
 >     Beginning one year after the date of enactment of this Act \[Oct. 26, 2001\], and every year thereafter until 2007, the Secretary of State shall submit a report to Congress setting forth the findings of the most recent audit conducted under subsection (a)(1).”
 
@@ -923,11 +923,11 @@
 
 [Pub. L. 99–603, title IV, § 405][/us/pl/99/603/s405], Nov. 6, 1986, [100 Stat. 3442][/us/stat/100/3442], provided that:
 
->     “(a) __Monitoring and Report on the Pilot Program.—__ 
+>     “(a)  __Monitoring and Report on the Pilot Program__  __.—__ 
 
 >     The Attorney General and the Secretary of State shall jointly monitor the pilot program established under section 217 of the Immigration and Nationality Act \[[8 U.S.C. 1187][/us/usc/t8/s1187]\] and shall report to the Congress not later than two years after the beginning of the program.
 
->     “(b) __Details in Report.—__ 
+>     “(b)  __Details in Report__  __.—__ 
 
 >     The report shall include—
 

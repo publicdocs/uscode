@@ -335,11 +335,11 @@
 
 [Pub. L. 103–322, title XIII, § 130007][/us/pl/103/322/s130007], Sept. 13, 1994, [108 Stat. 2029][/us/stat/108/2029], as amended by [Pub. L. 104–208, div. C, title III, § 308(g)(5)(F)][/us/pl/104/208/s308/g/5/F], (10)(F), title VI, § 671(a)(6), Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–625, 3009–721, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to the availability of appropriations, the Attorney General may expand the program authorized by section\[s\] 238(a)(3) and 239(d) of the Immigration and Nationality Act \[[8 U.S.C. 1228(a)(3)][/us/usc/t8/s1228/a/3], 1229(d)\] to ensure that such aliens are immediately deportable upon their release from incarceration.
 
->     “(b) __Detention and Removal of Criminal Aliens.—__ 
+>     “(b)  __Detention and Removal of Criminal Aliens__  __.—__ 
 
 >     Subject to the availability of appropriations, the Attorney General may—
 
@@ -347,11 +347,11 @@
 
 >         “(2) provide for the detention and removal of such aliens.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     By September 30, 1996, and September 30, 1998 the Attorney General shall report to the Congress on the programs referred to in subsections (a) and (b). The report shall include an evaluation of the programs, an outcome-based measurement of performance, and an analysis of the cost effectiveness of the additional resources provided under this Act \[see Tables for classification\].
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section—
 

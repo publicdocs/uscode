@@ -89,11 +89,11 @@
 
 [Pub. L. 104–208, div. C, title V, § 502][/us/pl/104/208/s502], Sept. 30, 1996, [110 Stat. 3009–671][/us/stat/110/3009-671], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Pursuant to guidelines prescribed by the Attorney General not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], all States may conduct pilot programs within their State to determine the viability, advisability, and cost-effectiveness of the State’s denying driver’s licenses to aliens who are not lawfully present in the United States. Under a pilot program a State may deny a driver’s license to aliens who are not lawfully present in the United States. Such program shall be conducted in cooperation with relevant State and local authorities.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act, the Attorney General shall submit a report to the Judiciary Committees of the House of Representatives and of the Senate on the results of the pilot programs conducted under subsection (a).”
 

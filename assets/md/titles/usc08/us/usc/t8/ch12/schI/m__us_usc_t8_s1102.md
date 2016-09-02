@@ -55,11 +55,11 @@
 
 [Pub. L. 101–246, title IV, § 407][/us/pl/101/246/s407], Feb. 16, 1990, [104 Stat. 67][/us/stat/104/67], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall use his authority, including the authorities contained in section 6 of the United Nations Headquarters Agreement Act ([Public Law 80–357][/us/pl/80/357]) \[[Aug. 4, 1947, ch. 482][/us/act/1947-08-04/ch482], set out as a note under [22 U.S.C. 287][/us/usc/t22/s287]\], to deny any individual’s admission to the United States as a representative to the United Nations if the President determines that such individual has been found to have been engaged in espionage activities directed against the United States or its allies and may pose a threat to United States national security interests.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The President may waive the provisions of subsection (a) if the President determines, and so notifies the Congress, that such a waiver is in the national security interests of the United States.”
 

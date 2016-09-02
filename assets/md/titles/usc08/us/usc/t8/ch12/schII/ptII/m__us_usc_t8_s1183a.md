@@ -227,11 +227,11 @@
 
 [Pub. L. 104–208, div. C, title V, § 551(c)][/us/pl/104/208/s551/c], Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending sections 1631 and 1632 of this title, and repealing provisions set out as a note under this section\] shall apply to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days (and not later than 90 days) after the date the Attorney General formulates the form for such affidavits under paragraph (2).
 
->     “(2) __Promulgation of form.—__ 
+>     “(2)  __Promulgation of form__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a).”
 
@@ -245,15 +245,15 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 232\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–425, as amended by [Pub. L. 107–228, div. A, title II, § 211(b)][/us/pl/107/228/s211/b], Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365], provided that:
 
->     “(a) __Authority To Charge Fee.—__ 
+>     “(a)  __Authority To Charge Fee__  __.—__ 
 
 >     The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act ([8 U.S.C. 1183a][/us/usc/t8/s1183a]) to ensure that such affidavit is properly completed before it is forwarded to a consular post for adjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Any fee established under subsection (a) shall be charged only once to a sponsor or joint sponsors who file essentially duplicative affidavits of support in connection with separate immigrant visa applications from the spouse and children of any petitioner required by the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] to petition separately for such persons.
 
->     “(c) __Treatment of Fees.—__ 
+>     “(c)  __Treatment of Fees__  __.—__ 
 
 >     Fees collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing consular services. Such fees shall remain available for obligation until expended.”
 
@@ -267,7 +267,7 @@
 
 >         “(2) Suit on any such bonds may be brought under the terms and conditions set forth in section 213A of the Immigration and Nationality Act \[[8 U.S.C. 1183a][/us/usc/t8/s1183a]\].
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall issue regulations for establishing the pilot programs, including—
 
@@ -281,19 +281,19 @@
 
 >         “(2) criteria for setting the amount of the bond to assure that the bond is in an amount that is not less than the cost of providing benefits under the programs described in subsection (a)(1) for the alien and the alien’s dependents for 6 months.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
->     “(d) __Annual Reporting Requirement.—__ 
+>     “(d)  __Annual Reporting Requirement__  __.—__ 
 
 >     Beginning 9 months after the date of implementation of the pilot program, the Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and the Senate a report on the effectiveness of the program. The Attorney General shall submit a final evaluation of the program not later than 1 year after termination.
 
->     “(e) __Sunset.—__ 
+>     “(e)  __Sunset__  __.—__ 
 
 >     The pilot program under this section shall terminate after 3 years of operation.
 
->     “(f) __Bonds in Addition to Sponsorship and Deeming Requirements.—__ 
+>     “(f)  __Bonds in Addition to Sponsorship and Deeming Requirements__  __.—__ 
 
 >     \[Amended [section 1183 of this title][/us/usc/t8/s1183].\]”
 

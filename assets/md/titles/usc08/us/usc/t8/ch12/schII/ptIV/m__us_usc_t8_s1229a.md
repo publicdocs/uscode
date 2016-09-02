@@ -321,7 +321,7 @@
 
 >     “(A)
 
->         (i) __In general.—__ 
+>         (i)  __In general__  __.—__ 
 
 >         Notwithstanding any limitation imposed by law on motions to reopen or rescind deportation proceedings under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208][/us/pl/104/208]\] ([8 U.S.C. 1101][/us/usc/t8/s1101] note))—
 
@@ -335,11 +335,11 @@
 
 >             “(II) any such limitation shall not apply so as to prevent the filing of one motion to reopen described in section 240(c)(7)(C)(iv) of the Immigration and Nationality Act ([8 U.S.C. 1229a(c)(7)][/us/usc/t8/s1229a/c/7]).
 
->         “(ii) __Prima facie case.—__ 
+>         “(ii)  __Prima facie case__  __.—__ 
 
 >         The filing of a motion to reopen under this subparagraph shall only stay the removal of a qualified alien (as defined in section 431(c)(1)(B) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([8 U.S.C. 1641(c)(1)(B)][/us/usc/t8/s1641/c/1/B])\[)\] pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
 
->     “(B) __Applicability.—__ 
+>     “(B)  __Applicability__  __.—__ 
 
 >     Subparagraph (A) shall apply to motions filed by aliens who are physically present in the United States and who—
 

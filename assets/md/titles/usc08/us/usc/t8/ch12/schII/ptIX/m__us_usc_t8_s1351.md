@@ -49,35 +49,35 @@
 
 [Pub. L. 113–42, § 2][/us/pl/113/42/s2], Oct. 4, 2013, [127 Stat. 552][/us/stat/127/552], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of State, not later than January 1, 2014, shall increase the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note) by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
 
->     “(b) __Deposit of Amounts.—__ 
+>     “(b)  __Deposit of Amounts__  __.—__ 
 
 >     Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note), the additional amount collected pursuant \[to\] the fee increase authorized under subsection (a) shall be deposited in the general fund of the Treasury.
 
->     “(c) __Sunset Provision.—__ 
+>     “(c)  __Sunset Provision__  __.—__ 
 
 >     The fee increase authorized under subsection (a) shall terminate on the date that is 2 years after the first date on which such increased fee is collected.”
 
 [Pub. L. 110–457, title II, § 239][/us/pl/110/457/s239], Dec. 23, 2008, [122 Stat. 5085][/us/stat/122/5085], provided that:
 
->     “(a) __Increase in Fee.—__ 
+>     “(a)  __Increase in Fee__  __.—__ 
 
 >     Notwithstanding any other provision of law, not later than October 1, 2009, the Secretary of State shall increase by $1 the fee or surcharge assessed under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
 
->     “(b) __Deposit of Amounts.—__ 
+>     “(b)  __Deposit of Amounts__  __.—__ 
 
 >     Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note), the additional amount collected pursuant \[to\] the fee increase under subsection (a) shall be deposited in the Treasury.
 
->     “(c) __Duration of Increase.—__ 
+>     “(c)  __Duration of Increase__  __.—__ 
 
 >     The fee increase authorized under subsection (a) shall terminate on the date that is 3 years after the first date on which such increased fee is collected.”
 
 [Pub. L. 110–293, title V, § 501][/us/pl/110/293/s501], July 30, 2008, [122 Stat. 2968][/us/stat/122/2968], provided that:
 
->     “(a) __Fee Increase.—__ 
+>     “(a)  __Fee Increase__  __.—__ 
 
 >     Notwithstanding any other provision of law—
 
@@ -85,7 +85,7 @@
 
 >         “(2) not later than October 1, 2013, the Secretary shall increase the fee or surcharge described in paragraph (1) by an additional $1.
 
->     “(b) __Deposit of Amounts.—__ 
+>     “(b)  __Deposit of Amounts__  __.—__ 
 
 >     Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note), fees collected under the authority of subsection (a) shall be deposited in the Treasury.”
 

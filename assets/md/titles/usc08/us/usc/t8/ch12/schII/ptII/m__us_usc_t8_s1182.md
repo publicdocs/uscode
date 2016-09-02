@@ -2359,11 +2359,11 @@
 
 [Pub. L. 108–447, div. J, title IV, § 430][/us/pl/108/447/s430], Dec. 8, 2004, [118 Stat. 3361][/us/stat/118/3361], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle B (§§ 421–430) of title IV of div. J of [Pub. L. 108–447][/us/pl/108/447], enacting [section 1381 of this title][/us/usc/t8/s1381], amending this section, sections 1184, and 1356 of this title, [section 2916a of Title 29][/us/usc/t29/s2916a], Labor, and [section 1869c of Title 42][/us/usc/t42/s1869c], The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1101 and 1184 of this title\] and the amendments made by this subtitle shall take effect 90 days after the date of enactment of this Act \[Dec. 8, 2004\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by sections 422(b), 426(a), and 427 \[amending sections 1184 and 1356 of this title\] shall take effect upon the date of enactment of this Act \[Dec. 8, 2004\].”
 
@@ -2395,7 +2395,7 @@
 
 [Pub. L. 107–56, title IV, § 411(c)][/us/pl/107/56/s411/c], Oct. 26, 2001, [115 Stat. 348][/us/stat/115/348], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 1158, 1189, and 1227 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2001\] and shall apply to—
 
@@ -2409,17 +2409,17 @@
 
 >             “(ii) seeking admission to the United States on or after such date.
 
->     “(2) __Special rule for aliens in exclusion or deportation proceedings.—__ 
+>     “(2)  __Special rule for aliens in exclusion or deportation proceedings__  __.—__ 
 
 >     Notwithstanding any other provision of law, sections 212(a)(3)(B) and 237(a)(4)(B) of the Immigration and Nationality Act, as amended by this Act \[[8 U.S.C. 1182(a)(3)(B)][/us/usc/t8/s1182/a/3/B], 1227(a)(4)(B)\], shall apply to all aliens in exclusion or deportation proceedings on or after the date of the enactment of this Act \[Oct. 26, 2001\] (except for proceedings in which there has been a final administrative decision before such date) as if such proceedings were removal proceedings.
 
->     “(3) __Special rule for section 219 organizations and organizations designated under section 212(a)(3)(B)(vi)(II).—__ 
+>     “(3)  __Special rule for section 219 organizations and organizations designated under section__  __212(a)(3)(B)(vi)(II).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding paragraphs (1) and (2), no alien shall be considered inadmissible under section 212(a)(3) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)][/us/usc/t8/s1182/a/3]), or deportable under section 237(a)(4)(B) of such Act ([8 U.S.C. 1227(a)(4)(B)][/us/usc/t8/s1227/a/4/B]), by reason of the amendments made by subsection (a) \[amending this section\], on the ground that the alien engaged in a terrorist activity described in subclause (IV)(bb), (V)(bb), or (VI)(cc) of section 212(a)(3)(B)(iv) of such Act (as so amended) with respect to a group at any time when the group was not a terrorist organization designated by the Secretary of State under section 219 of such Act ([8 U.S.C. 1189][/us/usc/t8/s1189]) or otherwise designated under section 212(a)(3)(B)(vi)(II) of such Act (as so amended).
 
->         “(B) __Statutory construction.—__ 
+>         “(B)  __Statutory construction__  __.—__ 
 
 >         Subparagraph (A) shall not be construed to prevent an alien from being considered inadmissible or deportable for having engaged in a terrorist activity—
 
@@ -2427,7 +2427,7 @@
 
 >             “(ii) described in subclause (IV)(cc), (V)(cc), or (VI)(dd) of section 212(a)(3)(B)(iv) of such Act (as so amended) with respect to a terrorist organization described in section 212(a)(3)(B)(vi)(III) of such Act (as so amended).
 
->     “(4) __Exception.—__ 
+>     “(4)  __Exception__  __.—__ 
 
 >     The Secretary of State, in consultation with the Attorney General, may determine that the amendments made by this section shall not apply with respect to actions by an alien taken outside the United States before the date of the enactment of this Act \[Oct. 26, 2001\] upon the recommendation of a consular officer who has concluded that there is not reasonable ground to believe that the alien knew or reasonably should have known that the actions would further a terrorist activity.”
 
@@ -2723,11 +2723,11 @@
 
 > “SEC. 2. __RELIEF FOR CERTAIN MEMBERS OF THE AFRICAN NATIONAL CONGRESS REGARDING ADMISSIBILITY.__ 
 
->     “(a) __Exemption Authority.—__ 
+>     “(a)  __Exemption Authority__  __.—__ 
 
 >     The Secretary of State, after consultation with the Attorney General and the Secretary of Homeland Security, or the Secretary of Homeland Security, after consultation with the Secretary of State and the Attorney General, may determine, in such Secretary’s sole and unreviewable discretion, that paragraphs (2)(A)(i)(I), (2)(B), and (3)(B) (other than clause (i)(II)) of section 212(a) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)][/us/usc/t8/s1182/a]) shall not apply to an alien with respect to activities undertaken in association with the African National Congress in opposition to apartheid rule in South Africa.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that the Secretary of State and the Secretary of Homeland Security should immediately exercise in appropriate instances the authority in subsection (a) to exempt the anti-apartheid activities of aliens who are current or former officials of the Government of the Republic of South Africa.
 
@@ -2803,13 +2803,13 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 104–302, § 1][/us/pl/104/302/s1], Oct. 11, 1996, [110 Stat. 3656][/us/stat/110/3656], provided that:
 
->     “(a) __Aliens Who Previously Entered the United States Pursuant to an H–1A Visa.—__ 
+>     “(a)  __Aliens Who Previously Entered the United States Pursuant to an__  __H–1A Visa.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the authorized period of stay in the United States of any nonimmigrant described in paragraph (2) is hereby extended through September 30, 1997.
 
->         “(2) __Nonimmigrant described.—__ 
+>         “(2)  __Nonimmigrant described__  __.—__ 
 
 >         A nonimmigrant described in this paragraph is a nonimmigrant—
 
@@ -2819,19 +2819,19 @@ Similar provisions were contained in the following prior acts:
 
 >             “(C) whose period of authorized stay has expired or would expire before September 30, 1997 but for the provisions of this section.
 
->         “(3) __Limitations.—__ 
+>         “(3)  __Limitations__  __.—__ 
 
 >         Nothing in this section may be construed to extend the validity of any visa issued to a nonimmigrant described in section 101(a)(15)(H)(i)(a) of the Immigration and Nationality Act or to authorize the re-entry of any person outside the United States on the date of the enactment of this Act.
 
->     “(b) __Change of Employment.—__ 
+>     “(b)  __Change of Employment__  __.—__ 
 
 >     A nonimmigrant whose authorized period of stay is extended by operation of this section shall not be eligible to change employers in accordance with section 214.2(h)(2)(i)(D) of title 8, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act, the Attorney General shall issue regulations to carry out the provisions of this section.
 
->     “(d) __Interim Treatment.—__ 
+>     “(d)  __Interim Treatment__  __.—__ 
 
 >     A nonimmigrant whose authorized period of stay is extended by operation of this section, and the spouse and child of such nonimmigrant, shall be considered as having continued to maintain lawful status as a nonimmigrant through September 30, 1997.”
 
@@ -2893,11 +2893,11 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 102–138, title I, § 128][/us/pl/102/138/s128], Oct. 28, 1991, [105 Stat. 660][/us/stat/105/660], as amended by [Pub. L. 104–208, div. C, title III, § 308(d)(3)(C)][/us/pl/104/208/s308/d/3/C], Sept. 30, 1996, [110 Stat. 3009–617][/us/stat/110/3009-617], provided that:
 
->     “(a) __Visas.—__ 
+>     “(a)  __Visas__  __.—__ 
 
 >     The Secretary of State may not include in the Automated Visa Lookout System, or in any other system or list which maintains information about the inadmissibility of aliens under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], the name of any alien who is not inadmissible from the United States under the Immigration and Nationality Act, subject to the provisions of this section.
 
->     “(b) __Correction of Lists.—__ 
+>     “(b)  __Correction of Lists__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Oct. 28, 1991\], the Secretary of State shall—
 
@@ -2911,7 +2911,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(2) Not later than 1 year after the date of enactment of this Act \[Oct. 28, 1991\], the Secretary of State shall report to the appropriate congressional committees on the progress made toward completing the correction of lists as set forth in subsection (b).
 
->     “(d) __Application.—__ 
+>     “(d)  __Application__  __.—__ 
 
 >     This section refers to the Immigration and Nationality Act as in effect on and after June 1, 1991.
 
@@ -2923,7 +2923,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(3) Nothing in this section may be construed as creating new authority or expanding any existing authority for any activity not otherwise authorized by law.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     As used in this section the term ‘appropriate congressional committees’ means the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate.”
 
@@ -2933,7 +2933,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “\[(a) Repealed. [Pub. L. 103–416, title II, § 219(ff)][/us/pl/103/416/s219/ff], Oct. 25, 1994, [108 Stat. 4319][/us/stat/108/4319].\]
 
->     “(b) __Notice in Labor Certifications.—__ 
+>     “(b)  __Notice in Labor Certifications__  __.—__ 
 
 >     The Secretary of Labor shall provide, in the labor certification process under section 212(a)(5)(A) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)(5)(A)][/us/usc/t8/s1182/a/5/A]\], that—
 
@@ -2989,7 +2989,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 99–93, title I, § 132][/us/pl/99/93/s132], Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that:
 
->     “(a) __Reporting Systems.—__ 
+>     “(a)  __Reporting Systems__  __.—__ 
 
 >     In order to ensure that foreign narcotics traffickers are denied visas to enter the United States, as required by section 212(a)(23) of the Immigration and Naturalization Act (\[former\] 22 \[8\] U.S.C. 1182(a)(23))—
 
@@ -2997,7 +2997,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(2) the National Drug Enforcement Policy Board shall agree on uniform guidelines which would permit the sharing of information on foreign drug traffickers.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Aug. 16, 1985\], the Chairman of the National Drug Enforcement Policy Board shall submit a report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the steps taken to implement this section.”
 

@@ -183,7 +183,7 @@
 
 [Pub. L. 104–208, div. C, title I, § 102(a)][/us/pl/104/208/s102/a]–(c), Sept. 30, 1996, [110 Stat. 3009–554][/us/stat/110/3009-554], 3009–555, as amended by [Pub. L. 109–13, div. B, title I, § 102][/us/pl/109/13/s102], May 11, 2005, [119 Stat. 306][/us/stat/119/306]; [Pub. L. 109–367, § 3][/us/pl/109/367/s3], Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638]; [Pub. L. 110–161, div. E, title V, § 564(a)][/us/pl/110/161/s564/a], Dec. 26, 2007, [121 Stat. 2090][/us/stat/121/2090], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Homeland Security shall take such actions as may be necessary to install additional physical barriers and roads (including the removal of obstacles to detection of illegal entrants) in the vicinity of the United States border to deter illegal crossings in areas of high illegal entry into the United States.
 
@@ -191,11 +191,11 @@
 
 >         “(1) __Additional fencing along southwest border.—__ 
 
->             “(A) __Reinforced fencing.—__ 
+>             “(A)  __Reinforced fencing__  __.—__ 
 
 >             In carrying out subsection (a), the Secretary of Homeland Security shall construct reinforced fencing along not less than 700 miles of the southwest border where fencing would be most practical and effective and provide for the installation of additional physical barriers, roads, lighting, cameras, and sensors to gain operational control of the southwest border.
 
->             “(B) __Priority areas.—__ 
+>             “(B)  __Priority areas__  __.—__ 
 
 >             In carrying out this section \[amending this section\], the Secretary of Homeland Security shall—
 
@@ -205,11 +205,11 @@
 
 >             “(C) __Consultation.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
 
->                 “(ii) __Savings provision.—__ 
+>                 “(ii)  __Savings provision__  __.—__ 
 
 >                 Nothing in this subparagraph may be construed to—
 
@@ -217,39 +217,39 @@
 
 >                          “(II) affect the eminent domain laws of the United States or of any State.
 
->             “(D) __Limitation on requirements.—__ 
+>             “(D)  __Limitation on requirements__  __.—__ 
 
 >             Notwithstanding subparagraph (A), nothing in this paragraph shall require the Secretary of Homeland Security to install fencing, physical barriers, roads, lighting, cameras, and sensors in a particular location along an international border of the United States, if the Secretary determines that the use or placement of such resources is not the most appropriate means to achieve and maintain operational control over the international border at such location.
 
->         “(2) __Prompt acquisition of necessary easements.—__ 
+>         “(2)  __Prompt acquisition of necessary easements__  __.—__ 
 
 >         The Attorney General, acting under the authority conferred in section 103(b) of the Immigration and Nationality Act \[[8 U.S.C. 1103(b)][/us/usc/t8/s1103/b]\] (as inserted by subsection (d)), shall promptly acquire such easements as may be necessary to carry out this subsection and shall commence construction of fences immediately following such acquisition (or conclusion of portions thereof).
 
->         “(3) __Safety features.—__ 
+>         “(3)  __Safety features__  __.—__ 
 
 >         The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety features into the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
 
->         “(4) __Authorization of appropriations.—__ 
+>         “(4)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 >     “(c) __Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary of Homeland Security shall have the authority to waive all legal requirements such Secretary, in such Secretary’s sole discretion, determines necessary to ensure expeditious construction of the barriers and roads under this section \[amending this section\]. Any such decision by the Secretary shall be effective upon being published in the Federal Register.
 
 >         “(2) __Federal court review.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
 
->             “(B) __Time for filing of complaint.—__ 
+>             “(B)  __Time for filing of complaint__  __.—__ 
 
 >             Any cause or claim brought pursuant to subparagraph (A) shall be filed not later than 60 days after the date of the action or decision made by the Secretary of Homeland Security. A claim shall be barred unless it is filed within the time specified.
 
->             “(C) __Ability to seek appellate review.—__ 
+>             “(C)  __Ability to seek appellate review__  __.—__ 
 
 >             An interlocutory or final judgment, decree, or order of the district court may be reviewed only upon petition for a writ of certiorari to the Supreme Court of the United States.”
 
@@ -263,11 +263,11 @@
 
 [Pub. L. 104–208, div. C, title I, § 106(a)][/us/pl/104/208/s106/a], (b), Sept. 30, 1996, [110 Stat. 3009–556][/us/stat/110/3009-556], provided that:
 
->     “(a) __Review of Hiring Standards.—__ 
+>     “(a)  __Review of Hiring Standards__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure that they are consistent with relevant standards of professionalism.
 
->     “(b) __Certification.—__ 
+>     “(b)  __Certification__  __.—__ 
 
 >     At the conclusion of each of fiscal years 1997, 1998, 1999, 2000, and 2001, the Attorney General shall certify in writing to the Committees on the Judiciary of the House of Representatives and of the Senate that all personnel hired by the Commissioner of Immigration and Naturalization for such fiscal year were hired pursuant to the appropriate standards, as revised under subsection (a).”
 
@@ -275,15 +275,15 @@
 
 [Pub. L. 104–208, div. C, title I, § 107][/us/pl/104/208/s107], Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557], provided that:
 
->     “(a) __Evaluation of Strategy.—__ 
+>     “(a)  __Evaluation of Strategy__  __.—__ 
 
 >     The Comptroller General of the United States shall track, monitor, and evaluate the Attorney General’s strategy to deter illegal entry in the United States to determine the efficacy of such strategy.
 
->     “(b) __Cooperation.—__ 
+>     “(b)  __Cooperation__  __.—__ 
 
 >     The Attorney General, the Secretary of State, and the Secretary of Defense shall cooperate with the Comptroller General of the United States in carrying out subsection (a).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Sept. 30, 1996\], and every year thereafter for the succeeding 5 years, the Comptroller General of the United States shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the results of the activities undertaken under subsection (a) during the previous year. Each such report shall include an analysis of the degree to which the Attorney General’s strategy has been effective in reducing illegal entry. Each such report shall include a collection and systematic analysis of data, including workload indicators, related to activities to deter illegal entry and recommendations to improve and increase border security at the border and ports of entry.”
 
@@ -291,7 +291,7 @@
 
 [Pub. L. 104–208, div. C, title III, § 371(c)][/us/pl/104/208/s371/c], Sept. 30, 1996, [110 Stat. 3009–645][/us/stat/110/3009-645], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     There shall be four levels of pay for immigration judges, under the Immigration Judge Schedule (designated as IJ–1, 2, 3, and 4, respectively), and each such judge shall be paid at one of those levels, in accordance with the provisions of this subsection.
 
@@ -375,7 +375,7 @@
 
 >         “(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
 
->     “(4) __Transition.—__ 
+>     “(4)  __Transition__  __.—__ 
 
 >     Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date.”
 

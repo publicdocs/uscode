@@ -137,19 +137,19 @@
 
 [Pub. L. 107–228, div. A, title II, § 233][/us/pl/107/228/s233], Sept. 30, 2002, [116 Stat. 1373][/us/stat/116/1373], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It shall be the policy of the Department \[of State\] to process each visa application from an alien classified as an immediate relative or as a K–1 nonimmigrant within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the petitioner is a relative other than an immediate relative, it should be the policy of the Department to process such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Immediate relative.—__ 
+>         “(1)  __Immediate relative__  __.—__ 
 
 >         The term ‘immediate relative’ has the meaning given the term in section 201(b)(2)(A)(i) of the Immigration and Nationality Act ([8 U.S.C. 1151(b)(2)(A)(i)][/us/usc/t8/s1151/b/2/A/i]).
 
->         “(2) __K–1 nonimmigrant.—__ 
+>         “(2) __K–1__  __nonimmigrant__  __.—__ 
 
 >         The term ‘K–1 nonimmigrant’ means a nonimmigrant alien described in section 101(a)(15)(K)(i) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(K)(i)][/us/usc/t8/s1101/a/15/K/i]).”
 
@@ -157,21 +157,21 @@
 
 [Pub. L. 107–56, title IV, § 418][/us/pl/107/56/s418], Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary of State shall review how consular officers issue visas to determine if consular shopping is a problem.
 
->     “(b) __Actions to be Taken.—__ 
+>     “(b)  __Actions to be Taken__  __.—__ 
 
 >     If the Secretary of State determines under subsection (a) that consular shopping is a problem, the Secretary shall take steps to address the problem and shall submit a report to Congress describing what action was taken.”
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 237\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–430, provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It shall be the policy of the Department of State to process immigrant visa applications of immediate relatives of United States citizens and nonimmigrant K–1 visa applications of fiances of United States citizens within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the sponsor of such applicant is a relative other than an immediate relative, it should be the policy of the Department of State to process such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State’s most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
 
@@ -181,7 +181,7 @@
 
 >     “(a) __Extending Period of Validity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the limitation on the period of validity of an immigrant visa under section 221(c) of the Immigration and Nationality Act \[[8 U.S.C. 1201(c)][/us/usc/t8/s1201/c]\] shall not apply in the case of an immigrant visa issued, on or after the date of the enactment of this Act \[Nov. 29, 1990\] and before September 1, 2001, to an alien described in subsection (b), but only if—
 
@@ -189,15 +189,15 @@
 
 >             “(B) before the date the alien seeks to be admitted to the United States for lawful permanent residence, the alien notifies the appropriate consular officer of the alien’s intention to seek such admission and provides such officer with such information as the officer determines to be necessary to verify that the alien remains eligible for admission to the United States as an immigrant.
 
->         “(2) __Limitation on extension.—__ 
+>         “(2)  __Limitation on extension__  __.—__ 
 
 >         In no case shall the period of validity of a visa be extended under paragraph (1) beyond January 1, 2002.
 
->         “(3) __Treatment under numerical limitations.—__ 
+>         “(3)  __Treatment under numerical limitations__  __.—__ 
 
 >         In applying the numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151], 1152\] in the case of aliens for whose visas the period of validity is extended under this section, such limitations shall only apply at the time of original issuance of the visas and not at the time of admission of such aliens.
 
->     “(b) __Aliens Covered.—__ 
+>     “(b)  __Aliens Covered__  __.—__ 
 
 >     An alien is described in this subsection if the alien—
 
@@ -213,11 +213,11 @@
 
 >     “(c) __Treatment of Certain Employees in Hong Kong.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In applying the proviso of section 7 of the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3508][/us/usc/t50/s3508]\], in the case of an alien described in paragraph (2), the Director may charge the entry of the alien against the numerical limitation for any fiscal year (beginning with fiscal year 1991 and ending with fiscal year 1996) notwithstanding that the alien’s entry is not made to the United States in that fiscal year so long as such entry is made before the end of fiscal year 1997.
 
->         “(2) __Aliens covered.—__ 
+>         “(2)  __Aliens covered__  __.—__ 
 
 >         An alien is described in this paragraph if the alien—
 
@@ -227,7 +227,7 @@
 
 >         “\[(3) Repealed. [Pub. L. 102–232, title III, § 302(d)(4)(C)][/us/pl/102/232/s302/d/4/C], Dec. 12, 1991, [105 Stat. 1745][/us/stat/105/1745].\]
 
->     “(d) __Treatment of Children.—__ 
+>     “(d)  __Treatment of Children__  __.—__ 
 
 >     In this section, the term ‘child’ has the meaning given such term in section 101(b)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)][/us/usc/t8/s1101/b/1]\] and also includes (for purposes of this section and the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] as it applies to this section) an alien who was the child (as so defined) of the alien as of the date of the issuance of an immigrant visa to the alien described in subsection (b)(1) or, in the case described in subsection (c), as of the date of charging of the entry of the alien under the proviso under section 7 of the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3508][/us/usc/t50/s3508]\].”
 
@@ -237,15 +237,15 @@
 
 [Pub. L. 100–204, title IX, § 903][/us/pl/100/204/s903], Dec. 22, 1987, [101 Stat. 1401][/us/stat/101/1401], as amended by [Pub. L. 104–208, div. C, title III, § 308(g)(7)(C)(iii)][/us/pl/104/208/s308/g/7/C/iii], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], provided that:
 
->     “(a) __Processing of Certain Cuban Political Prisoners as Refugees.—__ 
+>     “(a)  __Processing of Certain Cuban Political Prisoners as Refugees__  __.—__ 
 
 >     In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
 
->     “(b) __Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—__ 
+>     “(b)  __Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries__  __.—__ 
 
 >     Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[[8 U.S.C. 1182(f)][/us/usc/t8/s1182/f], 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis as immigrant visa applications by nationals of other countries.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -259,15 +259,15 @@
 
 > “Sec. 702.
 
->      (a) __Processing of Certain Cuban Political Prisoners as Refugees.—__ 
+>      (a)  __Processing of Certain Cuban Political Prisoners as Refugees__  __.—__ 
 
 >     In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of enactment of this Act \[Dec. 22, 1987\], consular officer\[s\] of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
 
->     “(b) __Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—__ 
+>     “(b)  __Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries__  __.—__ 
 
 >     Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[[8 U.S.C. 1182(f)][/us/usc/t8/s1182/f], 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis as immigrant visa applications by nationals of other countries.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

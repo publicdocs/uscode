@@ -99,17 +99,17 @@
 
 Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/pl/104/208] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall become effective on the title III–A effective date \[see [section 309 of Pub. L. 104–208][/us/pl/104/208/s309], set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\].
 
->     “(2) __Notification regarding custody.—__ 
+>     “(2)  __Notification regarding custody__  __.—__ 
 
 >     If the Attorney General, not later than 10 days after the date of the enactment of this Act \[Sept. 30, 1996\], notifies in writing the Committees on the Judiciary of the House of Representatives and the Senate that there is insufficient detention space and Immigration and Naturalization Service personnel available to carry out section 236(c) of the Immigration and Nationality Act \[[8 U.S.C. 1226(c)][/us/usc/t8/s1226/c]\], as amended by subsection (a), or the amendments made by [section 440(c) of Public Law 104–132][/us/pl/104/132/s440/c] \[amending [section 1252 of this title][/us/usc/t8/s1252]\], the provisions in paragraph (3) shall be in effect for a 1-year period beginning on the date of such notification, instead of such section or such amendments. \[The Attorney General so notified the committees on Oct. 9, 1996.\] The Attorney General may extend such 1-year period for an additional year if the Attorney General provides the same notice not later than 10 days before the end of the first 1-year period. After the end of such 1-year or 2-year periods, the provisions of such section 236(c) shall apply to individuals released after such periods.
 
 >     “(3) __Transition period custody rules.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         During the period in which this paragraph is in effect pursuant to paragraph (2), the Attorney General shall take into custody any alien who—
 
@@ -123,7 +123,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 >             when the alien is released, without regard to whether the alien is released on parole, supervised release, or probation, and without regard to whether the alien may be arrested or imprisoned again for the same offense.
 
->         “(B) __Release.—__ 
+>         “(B)  __Release__  __.—__ 
 
 >         The Attorney General may release the alien only if the alien is an alien described in subparagraph (A)(ii) or (A)(iii) and—
 
@@ -151,7 +151,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 > “SECTION 1. __PROGRAM OF IDENTIFICATION OF CERTAIN DEPORTABLE ALIENS AWAITING ARRAIGNMENT.__ 
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
 
@@ -159,7 +159,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 >         “(2) Aliens described in paragraph (2) or (4) of section 237(a) of the Immigration and Nationality Act \[[8 U.S.C. 1227(a)(2)][/us/usc/t8/s1227/a/2], (4)\] (as redesignated by section 305(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
->     “(b) __Description of Program.—__ 
+>     “(b)  __Description of Program__  __.—__ 
 
 >     The program authorized by subsection (a) shall include—
 
@@ -177,7 +177,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 >     “(c) __Selection of Facilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall select for participation in the program each incarceration facility that satisfies the following requirements:
 
@@ -195,7 +195,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 >             “(D) The facility incarcerates or processes individuals prior to their arraignment on criminal charges.
 
->         “(2) __Number of qualifying subdivisions.—__ 
+>         “(2)  __Number of qualifying subdivisions__  __.—__ 
 
 >         For any fiscal year, the total number of local political subdivisions determined under clauses (i) and (ii) of paragraph (1)(C) to meet the standard in such clauses shall be the following:
 
@@ -209,11 +209,11 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 >             “(E) For fiscal year 2003 and subsequent fiscal years, 100, or such other number of political subdivisions as may be specified in appropriations Acts.
 
->         “(3) __Facilities in interior states.—__ 
+>         “(3)  __Facilities in interior states__  __.—__ 
 
 >         For any fiscal year, of the local political subdivisions determined under clauses (i) and (ii) of paragraph (1)(C) to meet the standard in such clauses, not less than 20 percent shall be in States that are not contiguous to a land border.
 
->         “(4) __Treatment of certain facilities.—__ 
+>         “(4)  __Treatment of certain facilities__  __.—__ 
 
 >         All of the incarceration facilities within the county of Orange, California, and the county of Ventura, California, that are owned by the government of a local political subdivision, and satisfy the requirements of paragraph (1)(D), shall be selected for participation in the program.
 
@@ -229,11 +229,11 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
 [Pub. L. 103–322, title XIII, § 130002][/us/pl/103/322/s130002], Sept. 13, 1994, [108 Stat. 2023][/us/stat/108/2023], as amended by [Pub. L. 104–132, title IV, § 432][/us/pl/104/132/s432], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(5)(B), 326, 327, Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–630, provided that:
 
->     “(a) __Operation and Purpose.—__ 
+>     “(a)  __Operation and Purpose__  __.—__ 
 
 >     The Commissioner of Immigration and Naturalization shall, under the authority of section 236(d) of the Immigration and Nationality Act \[[8 U.S.C. 1226(d)][/us/usc/t8/s1226/d]\] operate a criminal alien identification system. The criminal alien identification system shall be used to assist Federal, State, and local law enforcement agencies in identifying and locating aliens who may be subject to removal by reason of their conviction of aggravated felonies, subject to prosecution under section 275 of such Act \[[8 U.S.C. 1325][/us/usc/t8/s1325]\], not lawfully present in the United States, or otherwise removable. Such system shall include providing for recording of fingerprint records of aliens who have been previously arrested and removed into appropriate automated fingerprint identification systems.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section—
 

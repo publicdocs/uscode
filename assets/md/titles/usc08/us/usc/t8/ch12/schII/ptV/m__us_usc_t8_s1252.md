@@ -363,11 +363,11 @@
 
 [Pub. L. 104–208, div. C, title III, § 306(c)][/us/pl/104/208/s306/c], Sept. 30, 1996, [110 Stat. 3009–612][/us/stat/110/3009-612], as amended by [Pub. L. 104–302, § 2(1)][/us/pl/104/302/s2/1], Oct. 11, 1996, [110 Stat. 3657][/us/stat/110/3657], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and [section 1231 of this title][/us/usc/t8/s1231] and repealing [section 1105a of this title][/us/usc/t8/s1105a]\] shall apply as provided under section 309 \[[8 U.S.C. 1101][/us/usc/t8/s1101] note\], except that subsection (g) of section 242 of the Immigration and Nationality Act \[[8 U.S.C. 1252(g)][/us/usc/t8/s1252/g]\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     Paragraph (1) shall not be considered to invalidate or to require the reconsideration of any judgment or order entered under section 106 of the Immigration and Nationality Act \[former [8 U.S.C. 1105a][/us/usc/t8/s1105a]\], as amended by [section 440 of Public Law 104–132][/us/pl/104/132/s440].”
 
@@ -419,15 +419,15 @@
 
 >         “(C) The Comptroller General shall submit to Congress, within 3 months after the date of the Attorney General’s certification under subparagraph (B), a report on the adequacy of such system.
 
->     “(2) __Certain limits on discretionary relief; sanctions for frivolous behavior.—__ 
+>     “(2)  __Certain limits on discretionary relief; sanctions for frivolous behavior__  __.—__ 
 
 >     Subsections (d), (e)(2), and (e)(3) of section 242B of the Immigration and Nationality Act (as inserted by the amendment made by subsection (a)) shall be effective on the date of the enactment of this Act \[Nov. 29, 1990\].
 
->     “(3) __Limits on discretionary relief for failure to appear in asylum hearing.—__ 
+>     “(3)  __Limits on discretionary relief for failure to appear in asylum hearing__  __.—__ 
 
 >     Subsection (e)(4) of section 242B of the Immigration and Nationality Act (as inserted by the amendment made by subsection (a)) shall be effective on February 1, 1991.
 
->     “(4) __Consolidation of relief in judicial review.—__ 
+>     “(4)  __Consolidation of relief in judicial review__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 1105a of this title][/us/usc/t8/s1105a]\] shall apply to final orders of deportation entered on or after January 1, 1991.”
 
@@ -481,11 +481,11 @@
 
 [Pub. L. 103–322, title XIII, § 130008][/us/pl/103/322/s130008], Sept. 13, 1994, [108 Stat. 2029][/us/stat/108/2029], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b) and notwithstanding any other provision of law, the Attorney General, in the discretion of the Attorney General, may accept, hold, administer, and utilize gifts of property and services (which may not include cash assistance) from State and local governments for the purpose of assisting the Immigration and Naturalization Service in the transportation of deportable aliens who are arrested for misdemeanor or felony crimes under State or Federal law and who are either unlawfully within the United States or willing to submit to voluntary departure under safeguards. Any property acquired pursuant to this section shall be acquired in the name of the United States.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     The Attorney General shall terminate or rescind the exercise of the authority under subsection (a) if the Attorney General determines that the exercise of such authority has resulted in discrimination by law enforcement officials on the basis of race, color, or national origin.”
 

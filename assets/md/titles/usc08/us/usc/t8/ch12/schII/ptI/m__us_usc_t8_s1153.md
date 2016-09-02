@@ -527,11 +527,11 @@
 
 [Pub. L. 108–156, § 5][/us/pl/108/156/s5], Dec. 3, 2003, [117 Stat. 1945][/us/stat/117/1945], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 3, 2003\], the Government Accountability Office shall report to Congress on the immigrant investor program created under section 203(b)(5) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)][/us/usc/t8/s1153/b/5]).
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report described in subsection (a) shall include information regarding—
 
@@ -551,31 +551,31 @@
 
 [Pub. L. 106–313, title I, § 106(d)][/us/pl/106/313/s106/d], Oct. 17, 2000, [114 Stat. 1254][/us/stat/114/1254], as amended by [Pub. L. 109–13, div. B, title V, § 502][/us/pl/109/13/s502], May 11, 2005, [119 Stat. 322][/us/stat/119/322], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, the number of employment-based visas (as defined in paragraph (3)) made available for a fiscal year (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[[8 U.S.C. 1153(b)][/us/usc/t8/s1153/b]\] and any such visa that is made available due to the difference between the number of employment-based visas that were made available in fiscal year 2001, 2002, 2003, or 2004 and the number of such visas that were actually used in such fiscal year shall be available only to employment-based immigrants (and their family members accompanying or following to join under section 203(d) of such Act ([8 U.S.C. 1153(d)][/us/usc/t8/s1153/d])) whose immigrant worker petitions were approved based on schedule A, as defined in section 656.5 of title 20, Code of Federal Regulations, as promulgated by the Secretary of Labor.
 
 >     “(2) __Number available.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the number described in this paragraph is the difference between the number of employment-based visas that were made available in fiscal years 1999 through 2004 and the number of such visas that were actually used in such fiscal years.
 
 >         “(B)
 
->             (i) __Reduction.—__ 
+>             (i)  __Reduction__  __.—__ 
 
 >             The number described in subparagraph (A) shall be reduced, for each fiscal year after fiscal year 2001, by the cumulative number of immigrant visas actually used under paragraph (1) for previous fiscal years.
 
->             “(ii) __Maximum.—__ 
+>             “(ii)  __Maximum__  __.—__ 
 
 >             The total number of visas made available under paragraph (1) from unused visas from the fiscal years 2001 through 2004 may not exceed 50,000.
 
->         “(C) __Construction.—__ 
+>         “(C)  __Construction__  __.—__ 
 
 >         Nothing in this paragraph shall be construed as affecting the application of section 201(c)(3)(C) of the Immigration and Nationality Act ([8 U.S.C. 1151(c)(3)(C)][/us/usc/t8/s1151/c/3/C]).
 
->     “(3) __Employment-based visas defined.—__ 
+>     “(3)  __Employment-based visas defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘employment-based visa’ means an immigrant visa which is issued pursuant to the numerical limitation under section 203(b) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)][/us/usc/t8/s1153/b]).”
 
@@ -603,7 +603,7 @@
 
 [Pub. L. 104–208, div. C, title VI, § 637][/us/pl/104/208/s637], Sept. 30, 1996, [110 Stat. 3009–704][/us/stat/110/3009-704], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General, in consultation with the Secretary of State, shall include among the aliens selected for diversity immigrant visas for fiscal year 1997 pursuant to section 203(c) of the Immigration and Nationality Act \[[8 U.S.C. 1153(c)][/us/usc/t8/s1153/c]\] any alien who, on or before September 30, 1995—
 
@@ -615,11 +615,11 @@
 
 >         “(4) did not become an alien lawfully admitted for permanent residence during fiscal year 1995.
 
->     “(b) __Priority.—__ 
+>     “(b)  __Priority__  __.—__ 
 
 >     The aliens selected under subsection (a) shall be considered to have been selected for diversity immigrant visas for fiscal year 1997 prior to any alien selected under any other provision of law.
 
->     “(c) __Reduction of Immigrant Visa Number.—__ 
+>     “(c)  __Reduction of Immigrant Visa Number__  __.—__ 
 
 >     For purposes of applying the numerical limitations in sections 201 and 203(c) of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151], 1153(c)\], aliens selected under subsection (a) who are granted an immigrant visa shall be treated as aliens granted a visa under section 203(c) of such Act.”
 
@@ -663,19 +663,19 @@
 
 > “SEC. 4. __CLASSIFICATION OF INDEPENDENT STATES SCIENTISTS AS HAVING EXCEPTIONAL ABILITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall designate a class of eligible independent states and Baltic scientists, based on their level of expertise, as aliens who possess ‘exceptional ability in the sciences’, for purposes of section 203(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(2)(A)][/us/usc/t8/s1153/b/2/A]), whether or not such scientists possess advanced degrees. A scientist is not eligible for designation under this subsection if the scientist has previously been granted the status of an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(20)][/us/usc/t8/s1101/a/20]).
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Attorney General shall prescribe regulations to carry out subsection (a).
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     Not more than 950 eligible independent states and Baltic scientists (excluding spouses and children if accompanying or following to join) within the class designated under subsection (a) may be allotted visas under section 203(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(2)(A)][/us/usc/t8/s1153/b/2/A]).
 
->     “(d) __Duration of Authority.—__ 
+>     “(d)  __Duration of Authority__  __.—__ 
 
 >     The authority under subsection (a) shall be in effect during the following periods:
 
@@ -729,11 +729,11 @@
 
 >     “(a) __Additional Visa Numbers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In addition to any immigrant visas otherwise available, immigrant visa numbers shall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year.
 
->         “(2) __Offset.—__ 
+>         “(2)  __Offset__  __.—__ 
 
 >         The number computed under this paragraph for a fiscal year is the number (if any) by which—
 
@@ -741,11 +741,11 @@
 
 >             “(B) 239,000.
 
->     “(b) __Order.—__ 
+>     “(b)  __Order__  __.—__ 
 
 >     Visa numbers under this section shall be made available in the order in which a petition, in behalf of each such immigrant for classification under section 203(a)(2) of the Immigration and Nationality Act \[[8 U.S.C. 1153(a)(2)][/us/usc/t8/s1153/a/2]\], is filed with the Attorney General under section 204 of such Act \[[8 U.S.C. 1154][/us/usc/t8/s1154]\].
 
->     “(c) __Legalized Alien Defined.—__ 
+>     “(c)  __Legalized Alien Defined__  __.—__ 
 
 >     In this section, the term ‘legalized alien’ means an alien lawfully admitted for permanent residence who was provided—
 
@@ -755,7 +755,7 @@
 
 >         “(3) permanent residence status under section 202 of the Immigration Reform and Control Act of 1986 \[[Pub. L. 99–603][/us/pl/99/603], set out as a note under [section 1255a of this title][/us/usc/t8/s1255a]\].
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     The definitions in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section.”
 
@@ -765,15 +765,15 @@
 
 >     “(a) __Additional Visa Numbers.—__ 
 
->         “(1) __Treatment of principals.—__ 
+>         “(1)  __Treatment of principals__  __.—__ 
 
 >         In the case of any alien described in paragraph (3) (or paragraph (2) as the spouse or child of such an alien) with respect to whom a classification petition has been filed and approved under subsection (b), there shall be made available, in addition to the immigrant visas otherwise available in each of fiscal years 1991 through 1993 and without regard to section 202(a) of the Immigration and Nationality Act \[[8 U.S.C. 1152(a)][/us/usc/t8/s1152/a]\], up to 12,000 additional immigrant visas. If the full number of such visas are not made available in fiscal year 1991 or 1992, the shortfall shall be added to the number of such visas to be made available under this section in the succeeding fiscal year.
 
->         “(2) __Derivative relatives.—__ 
+>         “(2)  __Derivative relatives__  __.—__ 
 
 >         A spouse or child (as defined in section 101(b)(1)(A), (B), (C), (D), or (E) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)(A)][/us/usc/t8/s1101/b/1/A], (B), (C), (D), (E)\]) shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under this section, be entitled to the same status, and the same order of consideration, provided under this section, if accompanying, or following to join, the alien’s spouse or parent.
 
->         “(3) __Employees of certain united states businesses operating in hong kong.—__ 
+>         “(3)  __Employees of certain united states businesses operating in hong kong__  __.—__ 
 
 >         An alien is described in this paragraph if the alien—
 
@@ -781,35 +781,35 @@
 
 >             “(B) has an offer of employment from such business entity in the United States as an officer or supervisor or in a capacity that is managerial, executive, or involves specialized knowledge, which offer (i) is effective from the time of filing the petition for classification under this section through and including the time of entry into the United States and (ii) provides for salary and benefits comparable to the salary and benefits provided to others with similar responsibilities and experience within the same company.
 
->     “(b) __Petitions.—__ 
+>     “(b)  __Petitions__  __.—__ 
 
 >     Any employer desiring and intending to employ within the United States an alien described in subsection (a)(3) may file a petition with the Attorney General for such classification. No visa may be issued under subsection (a)(1) until such a petition has been approved.
 
->     “(c) __Allocation.—__ 
+>     “(c)  __Allocation__  __.—__ 
 
 >     Visa numbers made available under subsection (a) shall be made available in the order which petitions under subsection (b) are filed with the Attorney General.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Executive capacity.—__ 
+>         “(1)  __Executive capacity__  __.—__ 
 
 >         The term ‘executive capacity’ has the meaning given such term in section 101(a)(44)(B) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(44)(B)][/us/usc/t8/s1101/a/44/B]\], as added by section 123 of this Act.
 
->         “(2) __Managerial capacity.—__ 
+>         “(2)  __Managerial capacity__  __.—__ 
 
 >         The term ‘managerial capacity’ has the meaning given such term in section 101(a)(44)(A) of the Immigration and Nationality Act, as added by section 123 of this Act.
 
->         “(3) __Officer.—__ 
+>         “(3)  __Officer__  __.—__ 
 
 >         The term ‘officer’ means, with respect to a business entity, the chairman or vice-chairman of the board of directors of the entity, the chairman or vice-chairman of the executive committee of the board of directors, the president, any vice-president, any assistant vice-president, any senior trust officer, the secretary, any assistant secretary, the treasurer, any assistant treasurer, any trust officer or associate trust officer, the controller, any assistant controller, or any other officer of the entity customarily performing functions similar to those performed by any of the above officers.
 
->         “(4) __Specialized knowledge.—__ 
+>         “(4)  __Specialized knowledge__  __.—__ 
 
 >         The term ‘specialized knowledge’ has the meaning given such term in section 214(c)(2)(B) of the Immigration and Nationality Act \[[8 U.S.C. 1184(c)(2)(B)][/us/usc/t8/s1184/c/2/B]\], as amended by section 206(b)(2) of this Act.
 
->         “(5) __Supervisor.—__ 
+>         “(5)  __Supervisor__  __.—__ 
 
 >         The term ‘supervisor’ means any individual having authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to adjust their grievances, or effectively recommend such action, if in connection with the foregoing the exercise of such authority is not merely of a routine or clerical nature, but requires the use of independent judgment.”
 
@@ -819,25 +819,25 @@
 
 [Pub. L. 103–416, title II, § 217(b)][/us/pl/103/416/s217/b], Oct. 25, 1994, [108 Stat. 4315][/us/stat/108/4315], provided that:
 
->     “(1) __Eligibility.—__ 
+>     “(1)  __Eligibility__  __.—__ 
 
 >     For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a) \[amending [section 132 of Pub. L. 101–649][/us/pl/101/649/s132], set out below\], applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act \[[8 U.S.C. 1153(c)][/us/usc/t8/s1153/c]\] shall be considered applications for visas made available for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990 \[[section 132 of Pub. L. 101–649][/us/pl/101/649/s132]\]. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region’s share of visas issued in the diversity transition program during fiscal years 1992 and 1993.
 
->     “(2) __Notification.—__ 
+>     “(2)  __Notification__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Oct. 25, 1994\], notification of the extension of the diversity transition program for fiscal year 1995 and the provision of visa numbers shall be made to each eligible applicant under paragraph (1).
 
->     “(3) __Requirements.—__ 
+>     “(3)  __Requirements__  __.—__ 
 
 >     Notwithstanding any other provision of law, for the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a), the requirement of section 132(b)(2) of the Immigration Act of 1990 shall not apply to applicants under such extension and the requirement of section 203(c)(2) of the Immigration and Nationality Act shall apply to such applicants.”
 
 [Pub. L. 101–649, title I, § 132][/us/pl/101/649/s132], Nov. 29, 1990, [104 Stat. 5000][/us/stat/104/5000], as amended by [Pub. L. 102–232, title III, § 302(b)(6)][/us/pl/102/232/s302/b/6], Dec. 12, 1991, [105 Stat. 1743][/us/stat/105/1743]; [Pub. L. 103–416, title II, § 217(a)][/us/pl/103/416/s217/a], Oct. 25, 1994, [108 Stat. 4315][/us/stat/108/4315], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding the numerical limitations in sections 201 and 202 of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151], 1152\], there shall be made available to qualified immigrants described in subsection (b) (or in subsection (d) as the spouse or child of such an alien) 40,000 immigrant visas in each of fiscal years 1992, 1993, and 1994 and in fiscal year 1995 a number of immigrant visas equal to the number of such visas provided (but not made available) under this section in previous fiscal years. If the full number of such visas are not made available in fiscal year 1992 or 1993, the shortfall shall be added to the number of such visas to be made available under this section in the succeeding fiscal year.
 
->     “(b) __Qualified Alien Described.—__ 
+>     “(b)  __Qualified Alien Described__  __.—__ 
 
 >     An alien described in this subsection is an alien who—
 
@@ -847,19 +847,19 @@
 
 >         “(3) except as provided in subsection (c), is admissible as an immigrant.
 
->     “(c) __Distribution of Visa Numbers.—__ 
+>     “(c)  __Distribution of Visa Numbers__  __.—__ 
 
 >     The Secretary of State shall provide for making immigrant visas provided under subsection (a) available strictly in a random order among those who qualify during the application period for each fiscal year established by the Secretary of State, except that at least 40 percent of the number of such visas in each fiscal year shall be made available to natives of the foreign state the natives of which received the greatest number of visas issued under section 314 of the Immigration Reform and Control Act \[of 1986\] (or to aliens described in subsection (d) who are the spouses or children of such natives) and except that if more than one application is submitted for any fiscal year (beginning with fiscal year 1993) with respect to any alien all such applications submitted with respect to the alien and fiscal year shall be voided. If the minimum number of such visas are not made available in fiscal year 1992, 1993, or 1994 to such natives, the shortfall shall be added to the number of such visas to be made available under this section to such natives in the succeeding fiscal year. In applying this section, natives of Northern Ireland shall be deemed to be natives of Ireland.
 
->     “(d) __Derivative Status for Spouses and Children.—__ 
+>     “(d)  __Derivative Status for Spouses and Children__  __.—__ 
 
 >     A spouse or child (as defined in section 101(b)(1)(A), (B), (C), (D), or (E) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)(A)][/us/usc/t8/s1101/b/1/A], (B), (C), (D), (E)\]) shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under this section, be entitled to the same status, and the same order of consideration, provided under this section, if accompanying, or following to join, his spouse or parent.
 
->     “(e) __Waivers of Grounds of Exclusion.—__ 
+>     “(e)  __Waivers of Grounds of Exclusion__  __.—__ 
 
 >     In determining the admissibility of an alien provided a visa number under this section, the Attorney General shall waive the ground of exclusion specified in paragraph (6)(C) of section 212(a) of the Immigration and Nationality Act \[[8 U.S.C. 1182(a)][/us/usc/t8/s1182/a]\], unless the Attorney General finds that such a waiver is not in the national interest. In addition, the provisions of section 212(e) of such Act shall not apply so as to prevent an individual’s application for a visa or admission under this section.
 
->     “(f) __Application Fee.—__ 
+>     “(f)  __Application Fee__  __.—__ 
 
 >     The Secretary of State shall require payment of a reasonable fee for the filing of an application under this section in order to cover the costs of processing applications under this section.”
 
@@ -879,11 +879,11 @@
 
 [Pub. L. 101–649, title I, § 155][/us/pl/101/649/s155], Nov. 29, 1990, [104 Stat. 5007][/us/stat/104/5007], as amended by [Pub. L. 102–232, title III, § 302(d)(5)][/us/pl/102/232/s302/d/5], Dec. 12, 1991, [105 Stat. 1745][/us/stat/105/1745], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the issuance of immigrant visas to certain Lebanese immigrants described in subsection (b) in fiscal years 1991 and 1992 and notwithstanding section 203(c) (or section 203(e), in the case of fiscal year 1992) of the Immigration and Nationality Act \[[8 U.S.C. 1153(c)][/us/usc/t8/s1153/c], (e)\] (to the extent inconsistent with this section), the Secretary of State shall provide that immigrant visas which would otherwise be made available in the fiscal year shall be made available as early as possible in the fiscal year.
 
->     “(b) __Lebanese Immigrants Covered.—__ 
+>     “(b)  __Lebanese Immigrants Covered__  __.—__ 
 
 >     Lebanese immigrants described in this subsection are aliens who—
 

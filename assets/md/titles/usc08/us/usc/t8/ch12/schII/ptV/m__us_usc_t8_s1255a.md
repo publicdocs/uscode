@@ -635,7 +635,7 @@
 
 [Pub. L. 101–649, title III, § 301][/us/pl/101/649/s301], Nov. 29, 1990, [104 Stat. 5029][/us/stat/104/5029], as amended by [Pub. L. 101–649, title VI, § 603(a)(23)][/us/pl/101/649/s603/a/23], Nov. 29, 1990, [104 Stat. 5084][/us/stat/104/5084]; [Pub. L. 103–416, title II, § 206(a)][/us/pl/103/416/s206/a], Oct. 25, 1994, [108 Stat. 4311][/us/stat/108/4311]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619] to 3009–622, 3009–624, 3009–652, provided that:
 
->     “(a) __Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—__ 
+>     “(a)  __Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants__  __.—__ 
 
 >     The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
 
@@ -643,7 +643,7 @@
 
 >         “(2) shall be granted authorization to engage in employment in the United States and be provided an ‘employment authorized’ endorsement or other appropriate work permit.
 
->     “(b) __Eligible Immigrant and Legalized Alien Defined.—__ 
+>     “(b)  __Eligible Immigrant and Legalized Alien Defined__  __.—__ 
 
 >     In this section:
 
@@ -659,15 +659,15 @@
 
 >             “(C) permanent residence status under section 202 of the Immigration Reform and Control Act of 1986 \[[Pub. L. 99–603][/us/pl/99/603], set out below\].
 
->     “(c) __Application of Definitions.—__ 
+>     “(c)  __Application of Definitions__  __.—__ 
 
 >     Except as otherwise specifically provided in this section, the definitions contained in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section.
 
->     “(d) __Temporary Disqualification From Certain Public Welfare Assistance.—__ 
+>     “(d)  __Temporary Disqualification From Certain Public Welfare Assistance__  __.—__ 
 
 >     Aliens provided the benefits of this section by virtue of their relation to a legalized alien described in subsection (b)(2)(A) or (b)(2)(B) shall be ineligible for public welfare assistance in the same manner and for the same period as the legalized alien is ineligible for such assistance under section 245A(h) or 210(f), respectively, of the Immigration and Nationality Act \[[8 U.S.C. 1255a(h)][/us/usc/t8/s1255a/h], 1160(f)\].
 
->     “(e) __Exception for Certain Aliens.—__ 
+>     “(e)  __Exception for Certain Aliens__  __.—__ 
 
 >     An alien is not eligible for the benefits of this section if the Attorney General finds that—
 
@@ -683,11 +683,11 @@
 
 >             “(B) a felony offense that by its nature involves a substantial risk that physical force against another individual may be used in the course of committing the offense.
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to obtain benefits under this section.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on October 1, 1991; except that the delay in effectiveness of this section shall not be construed as reflecting a Congressional belief that the existing family fairness program should be modified in any way before such date.”
 
@@ -713,7 +713,7 @@
 
 [Pub. L. 100–204, title IX, § 902][/us/pl/100/204/s902], Dec. 22, 1987, [101 Stat. 1400][/us/stat/101/1400], provided that:
 
->     “(a) __Adjustment of Status.—__ 
+>     “(a)  __Adjustment of Status__  __.—__ 
 
 >     The status of any alien who is a national of a foreign country the nationals of which were provided (or allowed to continue in) ‘extended voluntary departure’ by the Attorney General on the basis of a nationality group determination at any time during the 5-year period ending on November 1, 1987, shall be adjusted by the Attorney General to that of an alien lawfully admitted for temporary residence if the alien—
 
@@ -729,7 +729,7 @@
 
 >         The Attorney General shall provide for the acceptance and processing of applications under this subsection by not later than 90 days after the date of the enactment of this Act.
 
->     “(b) __Status and Adjustment of Status.—__ 
+>     “(b)  __Status and Adjustment of Status__  __.—__ 
 
 >     The provisions of subsections (b), (c)(6), (d), (f), (g), (h), and (i) of section 245A of the Immigration and Nationality Act ([8 U.S.C. 1255a][/us/usc/t8/s1255a]) shall apply to aliens provided temporary residence under subsection (a) in the same manner as they apply to aliens provided lawful temporary residence status under section 245A(a) of such Act.”
 
@@ -761,11 +761,11 @@
 
 [Pub. L. 99–603, title IV, § 404][/us/pl/99/603/s404], Nov. 6, 1986, [100 Stat. 3442][/us/stat/100/3442], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall transmit to Congress two reports on the legalization program established under section 245A of the Immigration and Nationality Act \[[8 U.S.C. 1255a][/us/usc/t8/s1255a]\].
 
->     “(b) __Initial Report Describing Legalized Aliens.—__ 
+>     “(b)  __Initial Report Describing Legalized Aliens__  __.—__ 
 
 >     The first report, which shall be transmitted not later than 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
 
@@ -775,7 +775,7 @@
 
 >         “(3) a general profile and characteristics.
 
->     “(c) __Second Report on Impact of Legalization Program.—__ 
+>     “(c)  __Second Report on Impact of Legalization Program__  __.—__ 
 
 >     The second report, which shall be transmitted not later than three years after the date of transmittal of the first report, shall include a description of—
 

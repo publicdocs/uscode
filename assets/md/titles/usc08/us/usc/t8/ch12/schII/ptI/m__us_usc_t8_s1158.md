@@ -279,11 +279,11 @@
 
 [Pub. L. 110–340, § 2(d)][/us/pl/110/340/s2/d], Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], provided that:
 
->     “(1) __Issuance of regulations.—__ 
+>     “(1)  __Issuance of regulations__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Oct. 3, 2008\], the Attorney General and the Secretary of Homeland Security shall promulgate final regulations establishing that, for purposes of sections 241(b)(3)(B)(iii) and 208(b)(2)(A)(iii) of the Immigration and Nationality Act ([8 U.S.C. 1231(b)(3)(B)(iii)][/us/usc/t8/s1231/b/3/B/iii]; [8 U.S.C. 1158(b)(2)(A)(iii)][/us/usc/t8/s1158/b/2/A/iii]), an alien who is deportable under section 237(a)(4)(F) of such Act ([8 U.S.C. 1227(a)(4)(F)][/us/usc/t8/s1227/a/4/F]) or inadmissible under section 212(a)(3)(G) of such Act ([8 U.S.C. 1182(a)(3)(G)][/us/usc/t8/s1182/a/3/G]) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
 
->     “(2) __Authority to waive certain regulatory requirements.—__ 
+>     “(2)  __Authority to waive certain regulatory requirements__  __.—__ 
 
 >     The requirements of chapter 5 of title 5, United States Code (commonly referred to as the ‘Administrative Procedure Act’), chapter 35 of title 44, United States Code (commonly referred to as the ‘Paperwork Reduction Act’), or any other law relating to rulemaking, information collection, or publication in the Federal Register, shall not apply to any action to implement paragraph (1) to the extent the Attorney General or the Secretary Homeland of \[sic\] Security determines that compliance with any such requirement would impede the expeditious implementation of such paragraph.”
 
@@ -295,15 +295,15 @@
 
 [Pub. L. 103–322, title XIII, § 130005][/us/pl/103/322/s130005], Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028], as amended by [Pub. L. 104–208, div. C, title III, § 308(e)(1)(P)][/us/pl/104/208/s308/e/1/P], (17), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620], 3009–621, provided:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General may provide for the expeditious adjudication of asylum claims and the expeditious removal of asylum applicants whose applications have been finally denied, unless the applicant remains in an otherwise valid nonimmigrant status.
 
->     “(b) __Employment Authorization.—__ 
+>     “(b)  __Employment Authorization__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section—
 

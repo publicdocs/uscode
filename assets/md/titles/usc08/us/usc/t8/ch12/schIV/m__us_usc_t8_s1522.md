@@ -537,11 +537,11 @@
 
 [Pub. L. 99–605, § 7][/us/pl/99/605/s7], Nov. 6, 1986, [100 Stat. 3453][/us/stat/100/3453], provided that:
 
->     “(a) __Maintaining Funding Level.—__ 
+>     “(a)  __Maintaining Funding Level__  __.—__ 
 
 >     Subject to the availability of appropriations, the Director of the Office of Refugee Resettlement shall not reduce the maximum average Federal contribution level per refugee in the matching grant program and shall not increase the percentage grantee matching requirement under that program below the level, or above the percentage, in effect under the program for grants in fiscal year 1985.
 
->     “(b) __Matching Grant Program.—__ 
+>     “(b)  __Matching Grant Program__  __.—__ 
 
 >     The ‘matching grant program’ referred to in subsection (a) is the voluntary agency program which is known as the matching grant program and is funded under section 412(c) of the Immigration and Nationality Act \[[8 U.S.C. 1522(c)][/us/usc/t8/s1522/c]\].”
 

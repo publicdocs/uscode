@@ -493,33 +493,33 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2242, Oct. 21, 1998, [112 Stat. 2681–822][/us/stat/112/2681-822], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It shall be the policy of the United States not to expel, extradite, or otherwise effect the involuntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
->     “(c) __Exclusion of Certain Aliens.—__ 
+>     “(c)  __Exclusion of Certain Aliens__  __.—__ 
 
 >     To the maximum extent consistent with the obligations of the United States under the Convention, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention, the regulations described in subsection (b) shall exclude from the protection of such regulations aliens described in section 241(b)(3)(B) of the Immigration and Nationality Act ([8 U.S.C. 1231(b)(3)(B)][/us/usc/t8/s1231/b/3/B]).
 
->     “(d) __Review and Construction.—__ 
+>     “(d)  __Review and Construction__  __.—__ 
 
 >     Notwithstanding any other provision of law, and except as provided in the regulations described in subsection (b), no court shall have jurisdiction to review the regulations adopted to implement this section, and nothing in this section shall be construed as providing any court jurisdiction to consider or review claims raised under the Convention or this section, or any other determination made with respect to the application of the policy set forth in subsection (a), except as part of the review of a final order of removal pursuant to section 242 of the Immigration and Nationality Act ([8 U.S.C. 1252][/us/usc/t8/s1252]).
 
->     “(e) __Authority To Detain.—__ 
+>     “(e)  __Authority To Detain__  __.—__ 
 
 >     Nothing in this section shall be construed as limiting the authority of the Attorney General to detain any person under any provision of law, including, but not limited to, any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
 >     “(f) __Definitions.—__ 
 
->         “(1) __Convention defined.—__ 
+>         “(1)  __Convention defined__  __.—__ 
 
 >         In this section, the term ‘Convention’ means the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, done at New York on December 10, 1984.
 
->         “(2) __Same terms as in the convention.—__ 
+>         “(2)  __Same terms as in the convention__  __.—__ 
 
 >         Except as otherwise provided, the terms used in this section have the meanings given those terms in the Convention, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.”
 
@@ -531,15 +531,15 @@
 
 [Pub. L. 104–208, div. C, title III, § 387][/us/pl/104/208/s387], Sept. 30, 1996, [110 Stat. 3009–655][/us/stat/110/3009-655], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as a detention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 30 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, together with the Secretary of Defense, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate, and the Committees on Armed Services of the House of Representatives and of the Senate, on the feasibility of using military bases closed under a base closure law as detention centers by the Immigration and Naturalization Service.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘base closure law’ means each of the following:
 

@@ -187,11 +187,11 @@
 
 [Pub. L. 104–208, div. C, title VI, § 632(b)][/us/pl/104/208/s632/b], Sept. 30, 1996, [110 Stat. 3009–701][/us/stat/110/3009-701], provided that:
 
->     “(1) __Visas.—__ 
+>     “(1)  __Visas__  __.—__ 
 
 >     Section 222(g)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1202(g)(1)][/us/usc/t8/s1202/g/1]\], as added by subsection (a), shall apply to a visa issued before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].
 
->     “(2) __Aliens seeking readmission.—__ 
+>     “(2)  __Aliens seeking readmission__  __.—__ 
 
 >     Section 222(g)(2) of the Immigration and Nationality Act, as added by subsection (a), shall apply to any alien applying for readmission to the United States after the date of the enactment of this Act, except an alien applying for readmission on the basis on a visa that—
 

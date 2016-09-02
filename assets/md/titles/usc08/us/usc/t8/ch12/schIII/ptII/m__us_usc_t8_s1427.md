@@ -135,11 +135,11 @@
 
 [Pub. L. 104–293, title III, § 305][/us/pl/104/293/s305], Oct. 11, 1996, [110 Stat. 3465][/us/stat/110/3465], as amended by [Pub. L. 106–120, title III, § 307][/us/pl/106/120/s307], Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     With the approval of the Director of Central Intelligence, the Attorney General, and the Commissioner of Immigration and Naturalization, an applicant described in subsection (b) and otherwise eligible for naturalization may be naturalized without regard to the residence and physical presence requirements of section 316(a) of the Immigration and Nationality Act \[[8 U.S.C. 1427(a)][/us/usc/t8/s1427/a]\], or to the prohibitions of section 313 of such Act \[[8 U.S.C. 1424][/us/usc/t8/s1424]\], and no residence within a particular State or district of the Immigration and Naturalization Service in the United States shall be required.
 
->     “(b) __Eligible Applicant.—__ 
+>     “(b)  __Eligible Applicant__  __.—__ 
 
 >     An applicant eligible for naturalization under this section is the spouse or child of a deceased alien whose death resulted from the intentional and unauthorized disclosure of classified information regarding the alien’s participation in the conduct of United States intelligence activities and who—
 
@@ -147,11 +147,11 @@
 
 >         “(2) is not described in clauses (i) through (iv) of section 241(b)(3)(B) of such Act \[[8 U.S.C. 1231(b)(3)(B)][/us/usc/t8/s1231/b/3/B]\].
 
->     “(c) __Administration of Oath.—__ 
+>     “(c)  __Administration of Oath__  __.—__ 
 
 >     An applicant for naturalization under this section may be administered the oath of allegiance under section 337(a) of the Immigration and Nationality Act \[[8 U.S.C. 1448(a)][/us/usc/t8/s1448/a]\] by the Attorney General or any district court of the United States, without regard to the residence of the applicant. Proceedings under this subsection shall be conducted in a manner consistent with the protection of intelligence sources, methods, and activities.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

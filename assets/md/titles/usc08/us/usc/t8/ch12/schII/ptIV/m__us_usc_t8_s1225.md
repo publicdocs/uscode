@@ -253,7 +253,7 @@
 
 [Pub. L. 104–208, div. C, title III, § 302(b)][/us/pl/104/208/s302/b], Sept. 30, 1996, [110 Stat. 3009–584][/us/stat/110/3009-584], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1225(b)(1)][/us/usc/t8/s1225/b/1]\], as amended by subsection (a). The study shall examine—
 
@@ -267,7 +267,7 @@
 
 >         “(E) the cooperation of other countries and air carriers in accepting and returning aliens removed under such procedures.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
 

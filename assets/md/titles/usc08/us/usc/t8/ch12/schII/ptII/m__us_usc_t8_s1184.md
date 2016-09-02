@@ -1101,11 +1101,11 @@
 
 [Pub. L. 109–13, div. B, title IV, § 402(b)][/us/pl/109/13/s402/b], May 11, 2005, [119 Stat. 318][/us/stat/119/318], as amended by [Pub. L. 109–364, div. A, title X, § 1074(b)][/us/pl/109/364/s1074/b], Oct. 17, 2006, [120 Stat. 2403][/us/stat/120/2403], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment in subsection (a) \[amending this section\] shall take effect as if enacted on October 1, 2004.
 
->     “(2) __Implementation.—__ 
+>     “(2)  __Implementation__  __.—__ 
 
 >     Not later than 14 days after the date of the enactment of this Act \[May 11, 2005\], the Secretary of Homeland Security shall begin accepting and processing petitions filed on behalf of aliens described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]\], in a manner consistent with this section \[amending this section\] and the amendments made by this section. Notwithstanding section 214(g)(9)(B) of such Act \[[8 U.S.C. 1184(g)(9)(B)][/us/usc/t8/s1184/g/9/B]\], as added by subsection (a), the Secretary of Homeland Security shall allocate additional numbers for fiscal year 2005 based on statistical estimates and projections derived from Department of State data.”
 
@@ -1241,11 +1241,11 @@
 
 > “SEC. 416. __ESTABLISHMENT OF TASK FORCE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Dec. 8, 2004\], there shall be established an L Visa Interagency Task Force that consists of representatives from the Department of Homeland Security, the Department of Justice, and the Department of State. The Secretaries of each Department and each relevant bureau of the Department of Homeland Security shall appoint designees to the L Visa Interagency Task Force. The L Visa Interagency Task Force shall consult with other agencies deemed appropriate.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 6 months after the submission of the report by the Inspector General of the Department of Homeland Security in accordance with section 6 \[probably means section 415 of div. J. of [Pub. L. 108–447][/us/pl/108/447]\], the L Visa Interagency Task Force shall report to the Committees on the Judiciary of the House of Representatives and the Senate on the efforts to implement the recommendations set forth by the Inspector General’s report. The L Visa Interagency Task Force shall note specific areas of agreement and disagreement, and make recommendations to Congress on the findings of the Task Force, including any suggestions for legislation. The Task Force shall also review other additional issues as may be raised by the Inspector General’s report or by the Task Force’s own deliberations regarding the policies and purposes of the visa program relative to national goals and transnational commerce.”
 
@@ -1259,13 +1259,13 @@
 
 [Pub. L. 106–313, title I, § 102(b)][/us/pl/106/313/s102/b], Oct. 17, 2000, [114 Stat. 1251][/us/stat/114/1251], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >         (A) Notwithstanding section 214(g)(1)(A)(ii) of the Immigration and Nationality Act ([8 U.S.C. 1184(g)(1)(A)(ii)][/us/usc/t8/s1184/g/1/A/ii]), the total number of aliens who may be issued visas or otherwise provided nonimmigrant status under section 101(a)(15)(H)(i)(b) of such Act \[[8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]\] in fiscal year 1999 is increased by a number equal to the number of aliens who are issued such a visa or provided such status during the period beginning on the date on which the limitation in such section 214(g)(1)(A)(ii) is reached and ending on September 30, 1999.
 
 >         “(B) In the case of any alien on behalf of whom a petition for status under section 101(a)(15)(H)(i)(b) is filed before September 1, 2000, and is subsequently approved, that alien shall be counted toward the numerical ceiling for fiscal year 2000 notwithstanding the date of the approval of the petition. Notwithstanding section 214(g)(1)(A)(iii) of the Immigration and Nationality Act, the total number of aliens who may be issued visas or otherwise provided nonimmigrant status under section 101(a)(15)(H)(i)(b) of such Act in fiscal year 2000 is increased by a number equal to the number of aliens who may be issued visas or otherwise provided nonimmigrant status who filed a petition during the period beginning on the date on which the limitation in such section 214(g)(1)(A)(iii) is reached and ending on August 31, 2000.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall take effect as if included in the enactment of section 411 of the American Competitiveness and Workforce Improvement Act of 1998 (as contained in title IV of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999; [Public Law 105–277][/us/pl/105/277]) \[see Effective Date of 1998 Amendment note above\].”
 
@@ -1285,7 +1285,7 @@
 
 [Pub. L. 106–313, title I, § 106(a)][/us/pl/106/313/s106/a], (b), Oct. 17, 2000, [114 Stat. 1253][/us/stat/114/1253], 1254, as amended by [Pub. L. 107–273, div. C, title I, § 11030A][/us/pl/107/273/s11030A], Nov. 2, 2002, [116 Stat. 1836][/us/stat/116/1836], provided that:
 
->     “(a) __Exemption From Limitation.—__ 
+>     “(a)  __Exemption From Limitation__  __.—__ 
 
 >     The limitation contained in section 214(g)(4) of the Immigration and Nationality Act ([8 U.S.C. 1184(g)(4)][/us/usc/t8/s1184/g/4]) with respect to the duration of authorized stay shall not apply to any nonimmigrant alien previously issued a visa or otherwise provided nonimmigrant status under section 101(a)(15)(H)(i)(b) of such Act ([8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]), if 365 days or more have elapsed since the filing of any of the following:
 
@@ -1293,7 +1293,7 @@
 
 >         “(2) A petition described in section 204(b) of such Act ([3 U.S.C. 1154(b)][/us/usc/t3/s1154/b]) \[[8 U.S.C. 1154(b)][/us/usc/t8/s1154/b]\] to accord the alien a status under section 203(b) of such Act.
 
->     “(b) __Extension of H–1B Worker Status.—__ 
+>     “(b)  __Extension of H–__  __1__  __B Worker Status__  __.—__ 
 
 >     The Attorney General shall extend the stay of an alien who qualifies for an exemption under subsection (a) in one-year increments until such time as a final decision is made—
 
@@ -1313,31 +1313,31 @@
 
 [Pub. L. 105–277, div. C, title IV, § 416][/us/pl/105/277/s416], Oct. 21, 1998, [112 Stat. 2681–655][/us/stat/112/2681-655], as amended by [Pub. L. 109–13, div. B, title IV, § 406][/us/pl/109/13/s406], May 11, 2005, [119 Stat. 320][/us/stat/119/320], provided that:
 
->     “(a) __Ensuring Accurate Count.—__ 
+>     “(a)  __Ensuring Accurate Count__  __.—__ 
 
 >     The Secretary of Homeland Security shall take such steps as are necessary to maintain an accurate count of the number of aliens subject to the numerical limitations of section 214(g)(1) of the Immigration and Nationality Act ([8 U.S.C. 1184(g)(1)][/us/usc/t8/s1184/g/1]) who are issued visas or otherwise provided nonimmigrant status.
 
->     “(b) __Revision of Petition Forms.—__ 
+>     “(b)  __Revision of Petition Forms__  __.—__ 
 
 >     The Secretary of Homeland Security shall take such steps as are necessary to revise the forms used for petitions for visas or nonimmigrant status under clause (i)(b) or (ii)(b) of section 101(a)(15)(H) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)][/us/usc/t8/s1101/a/15/H]) so as to ensure that the forms provide the Secretary of Homeland Security with sufficient information to permit the Secretary of Homeland Security accurately to count the number of aliens subject to the numerical limitations of section 214(g)(1) of such Act ([8 U.S.C. 1184(g)(1)][/us/usc/t8/s1184/g/1]) who are issued visas or otherwise provided nonimmigrant status.
 
 >     “(c) __Provision of Information.—__ 
 
->         “(1) __Quarterly notification.—__ 
+>         “(1)  __Quarterly notification__  __.—__ 
 
 >         Beginning not later than 60 days after the first day of fiscal year 1999, the Secretary of Homeland Security shall notify, on a quarterly basis, the Committees on the Judiciary of the United States House of Representatives and the Senate of the numbers of aliens who were issued visas or otherwise provided nonimmigrant status under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]\] during the preceding 3-month period.
 
->         “(2) __Annual submission.—__ 
+>         “(2)  __Annual submission__  __.—__ 
 
 >         Beginning with fiscal year 2000, the Secretary of Homeland Security shall submit on an annual basis, to the Committees on the Judiciary of the United States House of Representatives and the Senate, information on the countries of origin and occupations of, educational levels attained by, and compensation paid to, aliens who were issued visas or otherwise provided nonimmigrant status under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]\] during the previous fiscal year. With respect to the first submission under this paragraph, the information shall relate solely to aliens provided nonimmigrant status after the date that is 60 days after the date on which final regulations are issued to carry out section 412(a) \[amending [section 1182 of this title][/us/usc/t8/s1182]\].
 
->         “(3) __Specification of number of petitions filed by certain employers.—__ 
+>         “(3)  __Specification of number of petitions filed by certain employers__  __.—__ 
 
 >         Each notification under paragraph (1), and each submission under paragraph (2), shall include the number of aliens who were issued visas or otherwise provided nonimmigrant status pursuant to petitions filed by institutions or organizations described in section 212(p)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1182(p)(1)][/us/usc/t8/s1182/p/1]\] (as added by [section 415 of this title][/us/usc/t8/s415]).
 
 >     “(d) __Provision of Information.—__ 
 
->         “(1) __Semiannual notification.—__ 
+>         “(1)  __Semiannual notification__  __.—__ 
 
 >         Beginning not later than March 1, 2006, the Secretary of Homeland Security and the Secretary of State shall notify, on a semiannual basis, the Committees on the Judiciary of the House of Representatives and the Senate of the number of aliens who during the preceding 1-year period—
 
@@ -1345,7 +1345,7 @@
 
 >             “(B) had such a visa or such status be revoked or otherwise terminated.
 
->         “(2) __Annual submission.—__ 
+>         “(2)  __Annual submission__  __.—__ 
 
 >         Beginning in fiscal year 2007, the Secretary of Homeland Security and the Secretary of State shall submit, on an annual basis, to the Committees on the Judiciary of the House of Representatives and the Senate—
 
@@ -1355,7 +1355,7 @@
 
 >             “(C) the number of aliens who were provided nonimmigrant status under such section during both such fiscal year and the preceding fiscal year.
 
->         “(3) __Information maintained by state.—__ 
+>         “(3)  __Information maintained by state__  __.—__ 
 
 >         If the Secretary of Homeland Security determines that information maintained by the Secretary of State is required to make a submission described in paragraph (1) or (2), the Secretary of State shall provide such information to the Secretary of Homeland Security upon request.”
 
@@ -1403,7 +1403,7 @@
 
 [Pub. L. 101–649, title II, § 221][/us/pl/101/649/s221], Nov. 29, 1990, [104 Stat. 5027][/us/stat/104/5027], as amended by [Pub. L. 102–232, title III, § 303(b)(1)][/us/pl/102/232/s303/b/1], (2), Dec. 12, 1991, [105 Stat. 1748][/us/stat/105/1748]; [Pub. L. 103–416, title II, § 215(a)][/us/pl/103/416/s215/a], Oct. 25, 1994, [108 Stat. 4315][/us/stat/108/4315], provided that:
 
->     “(a) __5-Year Provision.—__ 
+>     “(a) __5-__  __Year Provision__  __.—__ 
 
 >     With respect to work authorization for aliens admitted as nonimmigrant students described in subparagraph (F) of section 101(a)(15) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]\] during the 5-year period beginning October 1, 1991, the Attorney General shall grant such an alien work authorization to be employed off-campus if—
 
@@ -1415,7 +1415,7 @@
 
 >         If the Secretary of Labor determines that an employer has provided an attestation under paragraph (2) that is materially false or has failed to pay wages in accordance with the attestation, after notice and opportunity for a hearing, the employer shall be disqualified from employing an alien student under this subsection.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than April 1, 1996, the Commissioner of Immigration and Naturalization and the Secretary of Labor shall prepare and submit to the Congress a report on—
 

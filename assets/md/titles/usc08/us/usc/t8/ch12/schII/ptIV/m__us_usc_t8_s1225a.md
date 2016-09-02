@@ -17,15 +17,15 @@
 
     (a) __Establishment of preinspection stations__ 
 
-        (1) __New stations.—__ 
+        (1)  __New stations__  __.—__ 
 
         Subject to paragraph (5), not later than October 31, 1998, the Attorney General, in consultation with the Secretary of State, shall establish and maintain preinspection stations in at least 5 of the foreign airports that are among the 10 foreign airports which the Attorney General identifies as serving as last points of departure for the greatest numbers of inadmissible alien passengers who arrive from abroad by air at ports of entry within the United States. Such preinspection stations shall be in addition to any preinspection stations established prior to September 30, 1996.
 
-        (2) __Report.—__ 
+        (2)  __Report__  __.—__ 
 
         Not later than October 31, 1998, the Attorney General shall report to the Committees on the Judiciary of the House of Representatives and of the Senate on the implementation of paragraph (1).
 
-        (3) __Data collection.—__ 
+        (3)  __Data collection__  __.—__ 
 
         Not later than November 1, 1997, and each subsequent November 1, the Attorney General shall compile data identifying—
 
@@ -37,7 +37,7 @@
 
         (4) Subject to paragraph (5), not later than January 1, 2008, the Secretary of Homeland Security, in consultation with the Secretary of State, shall establish preinspection stations in at least 25 additional foreign airports, which the Secretary of Homeland Security, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively facilitate the travel of admissible aliens and reduce the number of inadmissible aliens, especially aliens who are potential terrorists, who arrive from abroad by air at points of entry within the United States. Such preinspection stations shall be in addition to those established before September 30, 1996, or pursuant to paragraph (1).
 
-        (5) __Conditions.—__ 
+        (5)  __Conditions__  __.—__ 
 
         Prior to the establishment of a preinspection station, the Attorney General, in consultation with the Secretary of State, shall ensure that—
 
@@ -71,7 +71,7 @@
 
 [Pub. L. 108–458, title VII, § 7210(a)][/us/pl/108/458/s7210/a], (b), Dec. 17, 2004, [118 Stat. 3824][/us/stat/118/3824], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -79,7 +79,7 @@
 
 >         “(2) The further away from the borders of the United States that screening occurs, the more security benefits the United States will gain.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
