@@ -41,6 +41,10 @@
 
 ([Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2104, as added [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1930][/us/stat/129/1930].)
 
+ __Prior Provisions__ 
+
+    A prior [section 2104 of Pub. L. 89–10][/us/pl/89/10/s2104] was classified to [section 3004 of this title][/us/usc/t20/s3004], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
+
  __Effective Date__ 
 
     Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
@@ -57,6 +61,10 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
 [/us/stat/129/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1930
+[/us/pl/89/10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2104
+[/us/usc/t20/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3004
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

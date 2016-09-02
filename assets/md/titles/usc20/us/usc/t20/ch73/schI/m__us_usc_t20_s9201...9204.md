@@ -37,10 +37,6 @@
 
     [Pub. L. 105–220, title II][/us/pl/105/220/tII], § 201, Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that title II of [Pub. L. 105–220][/us/pl/105/220] could be cited as the “Adult Education and Family Literacy Act”, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
- __Ex. Ord. No. 13445. Strengthening Adult Education__ 
-
-    Ex. Ord. No. 13445, Sept. 27, 2007, 72 F.R. 56165, was transferred to a note set out under [section 3271 of Title 29][/us/usc/t29/s3271], Labor.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t20/ch73/schI/m__us_usc_t20_ch73_schI.md) | [Next](./../../../../..//us/usc/t20/ch73/schI/ptA/m__us_usc_t20_ch73_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201...9204)
@@ -86,6 +82,5 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
-[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 
 

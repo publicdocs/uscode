@@ -77,7 +77,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 1603 of Pub. L. 89–10][/us/pl/89/10/s1603] was classified to [section 6513 of this title][/us/usc/t20/s6513], prior to repeal by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1501(a)(1), Dec. 10, 2015, [129 Stat. 1905][/us/stat/129/1905].
+    A prior [section 1603 of Pub. L. 89–10][/us/pl/89/10/s1603] was classified to [section 6513 of this title][/us/usc/t20/s6513], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior [section 1603 of Pub. L. 89–10][/us/pl/89/10/s1603] was classified to [section 6513 of this title][/us/usc/t20/s6513], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -117,8 +117,7 @@
 [/us/stat/129/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1906
 [/us/pl/89/10/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1603
 [/us/usc/t20/s6513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6513
-[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
-[/us/stat/129/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1905
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/89/10/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1603
 [/us/usc/t20/s6513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6513
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

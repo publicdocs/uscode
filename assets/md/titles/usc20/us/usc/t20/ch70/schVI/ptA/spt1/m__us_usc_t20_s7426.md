@@ -115,7 +115,7 @@
 
         (2) __Final report__ 
 
-            Not later than 5 years after December 10, 2015, the Secretary of Education shall submit a report to the Committee on Education and the Workforce and the Committee on Resources of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Indian Affairs of the Senate on the results of the implementation of the demonstration projects authorized under this section. Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section.
+            Not later than 5 years after December 10, 2015, the Secretary of Education shall submit a report to the Committee on Education and the Workforce and the Committee on Resources of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Indian Affairs of the Senate on the results of the implementation of the demonstration projects authorized under this section.
 
     (p) __Definitions__ 
 
@@ -143,7 +143,7 @@
 
     Subsec. (o)(1). [Pub. L. 114–95][/us/pl/114/95], § 6002(h)(2)(A), substituted “December 10, 2015” for “January 8, 2002”.
 
-    Subsec. (o)(2). [Pub. L. 114–95][/us/pl/114/95], § 6002(h)(2)(B), substituted “December 10, 2015” for “January 8, 2002”.
+    Subsec. (o)(2). [Pub. L. 114–95][/us/pl/114/95], § 6002(h)(2)(B), substituted “December 10, 2015” for “January 8, 2002” and struck out last sentence which read as follows: “Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section.”
 
  __Change of Name__ 
 

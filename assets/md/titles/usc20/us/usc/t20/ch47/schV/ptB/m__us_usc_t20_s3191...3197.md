@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519]. See section 7111 et seq. of this title.
+    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
 
     Section 3191, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5121, as added [Pub. L. 100–297, title I][/us/pl/100/297/tI], § 1001, Apr. 28, 1988, [102 Stat. 254][/us/stat/102/254]; amended [Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3302, Nov. 18, 1988, [102 Stat. 4247][/us/stat/102/4247]; [Pub. L. 101–226][/us/pl/101/226], § 4, Dec. 12, 1989, [103 Stat. 1929][/us/stat/103/1929], related to use of allotments by States.
 

@@ -37,7 +37,7 @@
 
     (10) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands.
 
-    (11) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 1 by the Governor or by State law.
+    (11) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  by the Governor or by State law.
 
     (12) The term “State educational agency” has the meaning given that term under [section 7801 of this title][/us/usc/t20/s7801].
 

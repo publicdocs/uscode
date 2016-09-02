@@ -163,7 +163,7 @@
 
                  used to provide homeless children and youths with services not ordinarily provided to other students under this part, including providing—
 
-                    (I) funding for the liaison designated pursuant to section 11432(g)(1)(J)(ii) of such title; and
+                    (I) funding for the liaison designated pursuant to [section 11432(g)(1)(J)(ii) of title 42][/us/usc/t42/s11432/g/1/J/ii]; and
 
                     (II) transportation pursuant to section 11432(g)(1)(J)(iii) of such title.
 
@@ -233,6 +233,7 @@
 [/us/usc/t20/s6321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6321%2Fc
 [/us/usc/t20/s6312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6312
 [/us/usc/t42/s11433/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11433%2Fb%2F1
+[/us/usc/t42/s11432/g/1/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11432%2Fg%2F1%2FJ%2Fii
 [/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
 [/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
 [/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI

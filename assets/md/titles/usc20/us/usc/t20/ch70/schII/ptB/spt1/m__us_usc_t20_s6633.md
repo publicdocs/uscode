@@ -59,9 +59,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 6633, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2133, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1633][/us/stat/115/1633], related to subgrant applications, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6633 and 6634 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    Prior section 6634, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2134, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1633][/us/stat/115/1633], related to use of funds, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Section 6633, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2133, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1633][/us/stat/115/1633], related to subgrant applications.
+
+    Section 6634, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2134, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1633][/us/stat/115/1633], related to use of funds.
 
  __Effective Date__ 
 
@@ -78,16 +80,14 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
 [/us/stat/129/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1935
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1633
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1633
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

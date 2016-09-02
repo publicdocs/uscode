@@ -23,7 +23,9 @@
 
     A prior section 6844, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3134, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3646][/us/stat/108/3646], related to local uses of funds, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior [section 3123 of Pub. L. 89–10][/us/pl/89/10/s3123] was classified to [section 6833 of this title][/us/usc/t20/s6833], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior [section 3123 of Pub. L. 89–10][/us/pl/89/10/s3123] was renumbered section 3122 and is classified to [section 6843 of this title][/us/usc/t20/s6843].
+
+    Another prior [section 3123 of Pub. L. 89–10][/us/pl/89/10/s3123] was classified to [section 6833 of this title][/us/usc/t20/s6833], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
  __Amendments__ 
 
@@ -49,6 +51,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3646
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3123
+[/us/usc/t20/s6843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6843
 [/us/pl/89/10/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3123
 [/us/usc/t20/s6833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6833
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

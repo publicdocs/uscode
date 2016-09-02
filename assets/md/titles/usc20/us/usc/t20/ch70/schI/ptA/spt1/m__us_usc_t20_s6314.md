@@ -145,7 +145,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1008(1), added subsec. (a) and struck out former subsec. (a) which consisted of pars. (1) to (4) relating to general use of funds, nonidentification of students, exemption from statutory and regulatory requirements, and professional development.
+    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1008(1), added subsec. (a) and struck out former subsec. (a) which consisted of pars. (1) to (4) relating to general use of funds for schoolwide programs, nonidentification of students, exemption from statutory and regulatory requirements, and professional development.
 
     Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 1008(2), added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) relating to components of a schoolwide program and development of plan.
 

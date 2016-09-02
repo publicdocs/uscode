@@ -21,9 +21,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 6691, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2321, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1660][/us/stat/115/1660], authorized appropriations for subpart 1 of part C of former subchapter II of this chapter, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913].
+    A prior section 6691, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2321, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1660][/us/stat/115/1660], authorized appropriations for subpart 1 of part C of former subchapter II of this chapter, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    A prior [section 2301 of Pub. L. 89–10][/us/pl/89/10/s2301] was classified to [section 6671 of this title][/us/usc/t20/s6671], prior to repeal by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].
+    A prior [section 2301 of Pub. L. 89–10][/us/pl/89/10/s2301] was classified to [section 6671 of this title][/us/usc/t20/s6671], prior to repeal by [Pub. L. 112–239][/us/pl/112/239].
 
     Another prior [section 2301 of Pub. L. 89–10][/us/pl/89/10/s2301] was classified to [section 6671 of this title][/us/usc/t20/s6671], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -44,12 +44,11 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1660
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2301
 [/us/usc/t20/s6671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6671
-[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
-[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/89/10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2301
 [/us/usc/t20/s6671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6671
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

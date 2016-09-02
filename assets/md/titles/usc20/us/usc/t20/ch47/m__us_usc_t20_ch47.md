@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    The Elementary and Secondary Education Act of 1965 ([Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended generally by [Pub. L. 100–297, title I][/us/pl/100/297/tI], § 1001, Apr. 28, 1988, [102 Stat. 140][/us/stat/102/140], and as further amended), which was classified to this chapter (§ 2701 et seq.), was amended generally by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519], and transferred to chapter 70 (§ 6301 et seq.) of this title, and further substantially amended by [Pub. L. 107–110][/us/pl/107/110], Jan. 8, 2002, [115 Stat. 1425][/us/stat/115/1425].
+    The Elementary and Secondary Education Act of 1965 ([Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended generally by [Pub. L. 100–297, title I][/us/pl/100/297/tI], § 1001, Apr. 28, 1988, [102 Stat. 140][/us/stat/102/140], and as further amended), which was classified to this chapter (§ 2701 et seq.), was amended generally by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519], and transferred to chapter 70 (§ 6301 et seq.) of this title, and further substantially amended by [Pub. L. 107–110][/us/pl/107/110], Jan. 8, 2002, [115 Stat. 1425][/us/stat/115/1425], and subsequent Acts.
 
 ----------
 

@@ -17,7 +17,7 @@
 
     (a) __Payments__ 
 
-        Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of [section 7703(a)(1) of this title][/us/usc/t20/s7703/a/1]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+        Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
 
     (b) __Payment amount__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -92,7 +92,6 @@
 ----------
 ----------
 
-[/us/usc/t20/s7703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7703%2Fa%2F1
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s7713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7713
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

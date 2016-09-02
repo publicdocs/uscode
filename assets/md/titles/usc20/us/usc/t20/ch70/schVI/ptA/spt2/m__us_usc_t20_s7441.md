@@ -31,7 +31,7 @@
 
     (b) __Eligible entities__ 
 
-        In this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, a Tribal College or University (as defined in [section 1059c(b) of this title][/us/usc/t20/s1059c/b], or a consortium of such entities.
+        In this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, a Tribal College or University (as defined in [section 1059c(b) of this title][/us/usc/t20/s1059c/b]), or a consortium of such entities.
 
     (c) __Grants authorized__ 
 
@@ -125,7 +125,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 6121 of Pub. L. 89–10][/us/pl/89/10/s6121] was renumbered section 5121 and is classified to [section 7305 of this title][/us/usc/t20/s7305].
+    A prior [section 6121 of Pub. L. 89–10][/us/pl/89/10/s6121] was renumbered section 5101 and is classified to [section 7305 of this title][/us/usc/t20/s7305].
 
  __Amendments__ 
 
@@ -135,7 +135,7 @@
 
     Subsec. (a)(2)(B). [Pub. L. 114–95][/us/pl/114/95], § 6002(k)(2)(B), substituted “Indian children and youth” for “American Indian and Alaska Native children”.
 
-    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 6002(k)(3), substituted “a Tribal College or University (as defined in [section 1059c(b) of this title][/us/usc/t20/s1059c/b]” for “Indian institution (including an Indian institution of higher education)”.
+    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 6002(k)(3), substituted “a Tribal College or University (as defined in [section 1059c(b) of this title][/us/usc/t20/s1059c/b])” for “Indian institution (including an Indian institution of higher education)”.
 
     Subsec. (c). [Pub. L. 114–95][/us/pl/114/95], § 6002(k)(4), added subsec. (c) and struck out former subsec. (c) which related to grants authorized, consisting of pars. (1) and (2).
 

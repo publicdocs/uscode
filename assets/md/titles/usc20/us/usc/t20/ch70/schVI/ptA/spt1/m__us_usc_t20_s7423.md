@@ -85,7 +85,7 @@
 
     (e) __Ratable reductions__ 
 
-        If the sums appropriated for any fiscal year under [section 7492(a) of this title][/us/usc/t20/s7492/a] are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) of this section and for the Secretary of the Interior under subsection (d) of this section, each of those amounts shall be ratably reduced.
+        If the sums appropriated for any fiscal year under 7492(a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) of this section and for the Secretary of the Interior under subsection (d) of this section, each of those amounts shall be ratably reduced.
 
 ([Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6113, formerly title VII, § 7113, as added [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 701, Jan. 8, 2002, [115 Stat. 1908][/us/stat/115/1908], renumbered title VI, § 6113, and amended [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], §§ 6001(a), (b)(1), (3), § 6002(e), Dec. 10, 2015, [129 Stat. 2046][/us/stat/129/2046], 2049.)
 
@@ -113,9 +113,9 @@
 
     Subsec. (d)(1)(A)(i). [Pub. L. 114–95][/us/pl/114/95], § 6002(e)(2)(B), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs”.
 
-    Subsec. (d)(2). [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(3)(C), made technical amendment to references in original act which appear in text as references to sections 7424, 7428, and 7429 of this title.
+    Subsec. (d)(2). [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(3)(C), made technical amendment to references in original act which appear in text as references to sections 7424, 7424(c)(4), 7428(c), and 7429 of this title.
 
-    Subsec. (e). [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(3)(D), made technical amendment to reference in original act which appears in text as reference to [section 7492(a) of this title][/us/usc/t20/s7492/a].
+    Subsec. (e). [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(3)(D), substituted “7492(a) of this title” for “[section 7492(a) of this title][/us/usc/t20/s7492/a]”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -136,7 +136,6 @@
 [/us/usc/t20/s7424/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7424%2Fc%2F4
 [/us/usc/t20/s7428/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7428%2Fc
 [/us/usc/t20/s7429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7429
-[/us/usc/t20/s7492/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7492%2Fa
 [/us/pl/89/10/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtVI
 [/us/pl/107/110/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVII
 [/us/stat/115/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1908

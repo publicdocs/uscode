@@ -39,7 +39,7 @@
 
 [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 703, Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947], provided that: 
 
-> “Funds appropriated for parts A, B, and C of title IX of the Elementary and Secondary Education Act of 1965 \[former [20 U.S.C. 7801][/us/usc/t20/s7801] et seq., 7901 et seq., 7931 et seq.\] (as in effect on the day before the date of enactment of this Act \[Jan. 8, 2002\]) shall be available for use under parts A, B, and C, respectively, of title VII of such Act \[former [20 U.S.C. 7401][/us/usc/t20/s7401] et seq., 7511 et seq., 7541 et seq.\], as added by this section \[section 701\].”
+> “Funds appropriated for parts A, B, and C of title IX of the Elementary and Secondary Education Act of 1965 \[former [20 U.S.C. 7801][/us/usc/t20/s7801] et seq., 7901 et seq., 7931 et seq.\] (as in effect on the day before the date of enactment of this Act \[Jan. 8, 2002\]) shall be available for use under parts A, B, and C, respectively, of title VII \[now VI\] of such Act \[[20 U.S.C. 7401][/us/usc/t20/s7401] et seq., 7511 et seq., 7541 et seq.\], as added by this section \[section 701\].”
 
  __Executive Order No. 13096__ 
 
@@ -75,7 +75,7 @@
 
     (a) Establishment. There is hereby established the White House Initiative on American Indian and Alaska Native Education (Initiative). The Secretary of Education and the Secretary of the Interior will co-chair the Initiative. The Secretary of Education shall appoint an Executive Director who shall be responsible for overseeing implementation of the Initiative. This individual shall be a senior-level, Department of Education official who shall serve as the Secretary of Education’s senior policy advisor on Federal policies affecting AI/AN education.
 
-    The Executive Director shall work closely with the BIE Director and shall provide periodic reports to the Secretaries of Education and the Interior regarding progress achieved under the Initiative. The Executive Director shall coordinate frequent consultations with tribal officials and shall provide staff support for the National Advisory Council on Indian Education (NACIE), authorized by section 7141 \[now section 6141\] of the Elementary and Secondary Education Act of 1965 (ESEA) ([20 U.S.C. 7471][/us/usc/t20/s7471]).
+    The Executive Director shall work closely with the BIE Director and shall provide periodic reports to the Secretaries of Education and the Interior regarding progress achieved under the Initiative. The Executive Director shall coordinate frequent consultations with tribal officials and shall provide staff support for the National Advisory Council on Indian Education (NACIE), authorized by section 7141 \[now 6141\] of the Elementary and Secondary Education Act of 1965 (ESEA) ([20 U.S.C. 7471][/us/usc/t20/s7471]).
 
     (b) Mission and Functions. (1) The Initiative shall help expand educational opportunities and improve educational outcomes for all AI/AN students, including opportunities to learn their Native languages, cultures, and histories and receive complete and competitive educations that prepare them for college, careers, and productive and satisfying lives, by:
 

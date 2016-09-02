@@ -29,11 +29,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 7221j, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4311, formerly title V, § 5211, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1799][/us/stat/115/1799]; renumbered title IV, § 4311, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], authorized appropriations for fiscal year 2002 and the 5 succeeding fiscal years, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4301(5), Dec. 10, 2015, [129 Stat. 2013][/us/stat/129/2013], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7221j, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4311, formerly title V, § 5211, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1799][/us/stat/115/1799]; renumbered title IV, § 4311, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], authorized appropriations for fiscal year 2002 and the 5 succeeding fiscal years, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4301(5), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 2013, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     A prior [section 4311 of Pub. L. 89–10][/us/pl/89/10/s4311] was classified to [section 3091 of this title][/us/usc/t20/s3091], prior to general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
-    Prior sections 7223 to 7223j and 7225 to 7225g were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(B), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7223 to 7223j and 7225 to 7225g were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(B), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7223, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5221, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1800][/us/stat/115/1800], stated purpose of subpart 2 of part B of former subchapter V of this chapter, related to credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation.
 
@@ -92,14 +92,14 @@
 [/us/stat/115/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1799
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2013
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/s4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4311
 [/us/usc/t20/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3091
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1800

@@ -39,7 +39,7 @@
 
                 (i) data on in-service professional development, including a comparison of courses taken in the core academic areas of reading, mathematics, and science with courses in noncore academic areas, including technology courses; and
 
-                (ii) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act ([20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C].  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be another closing parenthesis. </sup></sup>  in each State and, where feasible, in each local educational agency and school;
+                (ii) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>  in each State and, where feasible, in each local educational agency and school;
 
             (G) instruction, the conditions of the education workplace, and the supply of, and demand for, teachers;
 
@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(F)(ii). [Pub. L. 114–95][/us/pl/114/95] substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act ([20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C].” for “teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]))”.
+    2015—Subsec. (a)(1)(F)(ii). [Pub. L. 114–95][/us/pl/114/95] substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C].” for “teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]))”.
 
  __Effective Date of 2015 Amendment__ 
 

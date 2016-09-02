@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–95][/us/pl/114/95] amended section generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to Secretarial approval and peer review, respectively.
+    2015—[Pub. L. 114–95][/us/pl/114/95] amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to Secretarial approval and peer review, respectively.
 
  __Effective Date of 2015 Amendment__ 
 

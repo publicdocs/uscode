@@ -37,7 +37,7 @@
 
              that—
 
-                (i) for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of subchapter VII (as such subpart was in effect on the day before December 10, 2015) that exceeded $40,000; or
+                (i) for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of title VII  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (as such subpart was in effect on the day before December 10, 2015) that exceeded $40,000; or
 
                 (ii) for any fiscal year following fiscal year 2017, received a grant in the previous fiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
 
@@ -65,7 +65,7 @@
 
  __References in Text__ 
 
-    Subpart 1 of part A of subchapter VII (as such subpart was in effect on the day before December 10, 2015), referred to in subsec. (c)(1)(B)(i), means subpart 1 (§ 7421 et seq.) of part A of subchapter VII of this chapter prior to amendment and redesignation as subpart 1 of part A of subchapter VI of this chapter by [Pub. L. 114–95][/us/pl/114/95].
+    Subpart 1 of part A of title VII (as such subpart was in effect on the day before December 10, 2015), referred to in subsec. (c)(1)(B)(i), means subpart 1 of part A of title VII of [Pub. L. 89–10][/us/pl/89/10], which was classified generally to subpart 1 (§ 7421 et seq.) of part A of subchapter VII of this chapter prior to being redesignated as subpart 1 of part A of title VI of [Pub. L. 89–10][/us/pl/89/10] and amended by [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], §§ 6001(a), 6002(c)–(j), Dec. 10, 2015, [129 Stat. 2046–2049][/us/stat/129/2046-2049], 2052–2054, and transferred to subpart 1 (§ 7421 et seq.) of part A of subchapter VI of this chapter.
 
  __Effective Date__ 
 
@@ -81,7 +81,10 @@
 [/us/pl/89/10/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtVIII
 [/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
 [/us/stat/129/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2116
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/114/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVI
+[/us/stat/129/2046-2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2046-2049
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

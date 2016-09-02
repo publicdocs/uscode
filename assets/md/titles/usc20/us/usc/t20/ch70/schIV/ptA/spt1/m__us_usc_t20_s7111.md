@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 

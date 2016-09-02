@@ -209,7 +209,7 @@
 
  __Prior Provisions__ 
 
-    Prior sections 6491 to 6494, 6511 to 6518, 6531 to 6537, 6551 to 6553, 6555, and 6561 to 6561i were repealed by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1501(a)(1), Dec. 10, 2015, [129 Stat. 1905][/us/stat/129/1905], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6491 to 6494, 6511 to 6518, 6531 to 6537, 6551 to 6553, 6555, and 6561 to 6561i were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title I, § 1501(a)(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1905, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6491, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1501, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1592][/us/stat/115/1592]; amended [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 404(d)(4), Nov. 5, 2002, [116 Stat. 1986][/us/stat/116/1986], related to evaluations. See [section 7981 of this title][/us/usc/t20/s7981].
 
@@ -220,6 +220,8 @@
     Section 6492, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1502, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1597][/us/stat/115/1597], related to demonstrations of innovative practices.
 
     Another prior section 6492, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1502, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3604][/us/stat/108/3604], related to demonstrations of innovative practices, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+    A prior [section 1502 of Pub. L. 89–10][/us/pl/89/10/s1502] was classified to [section 2912 of this title][/us/usc/t20/s2912], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
     Section 6493, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1503, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1597][/us/stat/115/1597], related to assessment evaluation.
 
@@ -271,7 +273,7 @@
 
     Section 6553, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1803, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], authorized appropriations.
 
-    Section 6555, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1811, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], described national activities relating to dropout prevention.
+    Section 6555, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1811, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], authorized national activities relating to dropout prevention.
 
     Section 6561, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1821, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1612][/us/stat/115/1612], defined terms in subpart 2 of former part H of this subchapter.
 
@@ -309,8 +311,8 @@
 [/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
 [/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
 [/us/stat/129/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1906
-[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
-[/us/stat/129/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1905
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
 [/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1592
@@ -338,6 +340,10 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3604
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1502
+[/us/usc/t20/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2912
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
 [/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1597

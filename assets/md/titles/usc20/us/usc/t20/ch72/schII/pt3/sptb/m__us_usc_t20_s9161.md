@@ -15,7 +15,7 @@
 
 ## § 9161. Services for Native Americans
 
-    From amounts reserved under [section 9131(a)(1)(A) of this title][/us/usc/t20/s9131/a/1/A] for any fiscal year the Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7517 of this title][/us/usc/t20/s7517]))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Second closing parenthesis probably should not appear. </sup></sup>  to enable such tribes and organizations to carry out the activities described in [section 9141 of this title][/us/usc/t20/s9141].
+    From amounts reserved under [section 9131(a)(1)(A) of this title][/us/usc/t20/s9131/a/1/A] for any fiscal year the Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7517 of this title][/us/usc/t20/s7517]) to enable such tribes and organizations to carry out the activities described in [section 9141 of this title][/us/usc/t20/s9141].
 
 ([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 261, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–302; amended [Pub. L. 105–128][/us/pl/105/128], § 6, Dec. 1, 1997, [111 Stat. 2549][/us/stat/111/2549]; [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 702(d), Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(aaa)(3), Dec. 10, 2015, [129 Stat. 2184][/us/stat/129/2184].)
 
@@ -25,7 +25,7 @@
 
     2002—[Pub. L. 107–110][/us/pl/107/110] substituted “7517” for “7912”.
 
-    1997—[Pub. L. 105–128][/us/pl/105/128] substituted “Native Americans” for “Indian tribes” in section catchline and in text substituted “to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7912 of this title][/us/usc/t20/s7912]) to enable such tribes and organizations” for “to organizations primarily serving and representing Indian tribes to enable such organizations”.
+    1997—[Pub. L. 105–128][/us/pl/105/128] substituted “Native Americans” for “Indian tribes” in section catchline and in text substituted “to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7912 of this title][/us/usc/t20/s7912] to enable such tribes and organizations” for “to organizations primarily serving and representing Indian tribes to enable such organizations”.
 
  __Effective Date of 2015 Amendment__ 
 

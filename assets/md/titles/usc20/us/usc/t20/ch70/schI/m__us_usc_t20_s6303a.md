@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Department of Education Appropriations Act, 2016, and also as part of the Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016, and the Consolidated Appropriations Act, 2016, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+    Section was enacted as part of the Department of Education Appropriations Act, 2016, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016, and the Consolidated Appropriations Act, 2016, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
  __Similar Provisions__ 
 

@@ -137,7 +137,7 @@
 
         (3) Teacher advancement initiatives for special education teachers that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 
-        (4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining special education teachers who meet the qualifications described in section 1412(a)(14)(C).
+        (4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C].
 
         (5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 \[[20 U.S.C. 1021][/us/usc/t20/s1021] et seq.\].
 
@@ -179,6 +179,8 @@
 
     The Higher Education Act of 1965, referred to in subsec. (b)(5), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
+    [Section 6613(c)(18) of this title][/us/usc/t20/s6613/c/18] (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means [section 6613(c)(18) of this title][/us/usc/t20/s6613/c/18] prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913]. [Section 2002 of Pub. L. 114–95][/us/pl/114/95/s2002] enacted a new [section 6613 of this title][/us/usc/t20/s6613].
+
     [Public Law 95–134][/us/pl/95/134], referred to in subsec. (e), is [Pub. L. 95–134][/us/pl/95/134], Oct. 15, 1977, [91 Stat. 1159][/us/stat/91/1159], as amended. Provisions relating to consolidation of grants to the outlying areas are contained in [section 501 of Pub. L. 95–134][/us/pl/95/134/s501] which is classified to [section 1469a of Title 48][/us/usc/t48/s1469a], Territories and Insular Possessions.
 
  __Prior Provisions__ 
@@ -197,7 +199,7 @@
 
     Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(B)(i), substituted “certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree”.
 
-    Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C)” for “highly qualified special education teachers”.
+    Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “highly qualified special education teachers”.
 
     Subsec. (b)(10). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(8)(B), inserted “(as such section was in effect on the day before December 10, 2015)” after “of this title”.
 
@@ -218,6 +220,7 @@
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1453
 [/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021
 [/us/usc/t20/s6613/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6613%2Fc%2F18
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
@@ -230,6 +233,12 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/usc/t20/s6613/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6613%2Fc%2F18
+[/us/usc/t20/s6613/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6613%2Fc%2F18
+[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
+[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs2002
+[/us/usc/t20/s6613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6613
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
@@ -263,6 +272,7 @@
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

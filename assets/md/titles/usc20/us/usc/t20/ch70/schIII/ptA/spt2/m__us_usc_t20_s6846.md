@@ -23,6 +23,8 @@
 
     A prior section 6846, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3136, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3648][/us/stat/108/3648], related to national challenge grants for technology in education, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
+    A prior [section 3125 of Pub. L. 89–10][/us/pl/89/10/s3125] was renumbered section 3124 and is classified to [section 6845 of this title][/us/usc/t20/s6845].
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t20/ch70/schIII/ptA/spt2/m__us_usc_t20_s6845.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schIII/ptA/spt2/m__us_usc_t20_s6847.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6846)
@@ -39,5 +41,7 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3648
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3125
+[/us/usc/t20/s6845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6845
 
 

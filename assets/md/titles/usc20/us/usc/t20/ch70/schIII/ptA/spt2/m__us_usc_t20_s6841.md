@@ -61,7 +61,7 @@
 
 [Pub. L. 100–297, title VI][/us/pl/100/297/tVI], § 6213, Apr. 28, 1988, [102 Stat. 429][/us/stat/102/429], as amended by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1042(a), Dec. 21, 1995, [109 Stat. 715][/us/stat/109/715], provided that: 
 
-> “The Secretary shall collect data for program management and accountability purposes regarding—
+> “The Secretary \[of Education\] shall collect data for program management and accountability purposes regarding—
 
 >     “(1) a national assessment of the educational needs of children and other persons with limited English proficiency and of the extent to which such needs are being met from Federal, State, and local efforts;
 

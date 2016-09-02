@@ -21,7 +21,7 @@
 
     A prior [section 3141 of Pub. L. 89–10][/us/pl/89/10/s3141] was classified to [section 6861 of this title][/us/usc/t20/s6861], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 6891 to 6894 were repealed by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6891 to 6894 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title III, § 3001(3), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1953, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6891, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3201, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1706][/us/stat/115/1706], provided that former part B of this subchapter could be cited as the “Improving Language Instruction Educational Programs For Academic Achievement Act”.
 
@@ -53,7 +53,7 @@
 
     Section 6900, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3210, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3661][/us/stat/108/3661], related to other assistance.
 
-    Prior sections 6911 to 6918 were repealed by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6911 to 6918 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title III, § 3001(3), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1953, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6911, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3211, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1707][/us/stat/115/1707], related to financial assistance for language instruction educational programs.
 
@@ -75,11 +75,17 @@
 
     Section 6921, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3301, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3663][/us/stat/108/3663], related to Ready-to-Learn television.
 
+    A prior [section 3301 of Pub. L. 89–10][/us/pl/89/10/s3301] was renumbered section 3201 and is classified to [section 7011 of this title][/us/usc/t20/s7011].
+
     Section 6922, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3302, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3663][/us/stat/108/3663], related to educational programming.
 
     Section 6923, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3303, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3664][/us/stat/108/3664], set forth duties of Secretary.
 
+    A prior [section 3303 of Pub. L. 89–10][/us/pl/89/10/s3303] was renumbered section 3202 and is classified to [section 7011 of this title][/us/usc/t20/s7011].
+
     Section 6924, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3304, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3665][/us/stat/108/3665], related to applications.
+
+    A prior [section 3304 of Pub. L. 89–10][/us/pl/89/10/s3304] was renumbered section 3203 and is classified to [section 7011 of this title][/us/usc/t20/s7011].
 
     Section 6925, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3305, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3665][/us/stat/108/3665], related to reports and evaluation of program activities.
 
@@ -89,7 +95,7 @@
 
     Section 6928, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3308, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3666][/us/stat/108/3666], authorized appropriations.
 
-    Prior sections 6931 to 6935 and 6951 were repealed by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6931 to 6935 and 6951 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title III, § 3001(3), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1953, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6931, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3221, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1717][/us/stat/115/1717], related to authority of the Secretary.
 
@@ -111,7 +117,7 @@
 
     Section 6953, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3403, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3666][/us/stat/108/3666], authorized appropriations.
 
-    Prior sections 6961 to 6968 were repealed by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6961 to 6968 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title III, § 3001(3), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1953, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6961, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3241, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1723][/us/stat/115/1723], related to purpose of former subpart 4 of part B of this subchapter.
 
@@ -149,7 +155,7 @@
 
     Section 6979, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3509, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3671][/us/stat/108/3671], authorized appropriations.
 
-    Prior sections 6981 to 6983 were repealed by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6981 to 6983 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title III, § 3001(3), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1953, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6981,[Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3251, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1728][/us/stat/115/1728], related to professional release time.
 
@@ -194,8 +200,8 @@
 [/us/pl/89/10/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3141
 [/us/usc/t20/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6861
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1706
@@ -243,8 +249,8 @@
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3661
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1707
@@ -273,15 +279,21 @@
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3663
+[/us/pl/89/10/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3301
+[/us/usc/t20/s7011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7011
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3663
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3664
+[/us/pl/89/10/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3303
+[/us/usc/t20/s7011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7011
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3665
+[/us/pl/89/10/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3304
+[/us/usc/t20/s7011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7011
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3665
@@ -294,8 +306,8 @@
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3666
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1717
@@ -327,8 +339,8 @@
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3666
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1723
@@ -381,8 +393,8 @@
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3671
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
 [/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1728

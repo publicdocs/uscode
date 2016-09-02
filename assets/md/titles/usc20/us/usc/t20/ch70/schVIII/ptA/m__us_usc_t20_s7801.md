@@ -135,7 +135,7 @@
 
         (A) is transferable to the institutions of higher education in the partnership; and
 
-        (B) applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.).
+        (B) applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.) \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
     (16) __Early childhood education program__ 
 
@@ -437,7 +437,7 @@
 
     (34) __Native American and Native American language__ 
 
-        The terms “Native American” and “Native American language” have the same meaning given those terms in [section 2902 of title 25][/us/usc/t25/s2902]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        The terms “Native American” and “Native American language” have the same meaning given those terms in [section 2902 of title 25][/us/usc/t25/s2902].
 
     (35) __Other staff__ 
 
@@ -613,15 +613,15 @@
 
     The Higher Education Act of 1965, referred to in par. (15)(B), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
-    [Section 2902 of title 25][/us/usc/t25/s2902], referred to in par. (34), was in the original “section 103 of the Native American Languages Act of 1990”, which was translated as meaning section 103 of the Native American Languages Act, [Pub. L. 101–477][/us/pl/101/477], to reflect the probable intent of Congress.
-
  __Prior Provisions__ 
 
     A prior section 7801, [Pub. L. 89–10, title IX][/us/pl/89/10/tIX], § 9101, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3773][/us/stat/108/3773], set forth findings regarding Indian education, prior to the general amendment of former subchapter IX of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
  __Amendments__ 
 
-    2015—Pars. (3) to (6). [Pub. L. 114–95][/us/pl/114/95], § 8002(1), (2), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “beginning teacher”.
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 8002(19), struck out undesignated par. following par. (47) which defined “State”.
+
+    Pars. (3) to (6). [Pub. L. 114–95][/us/pl/114/95], § 8002(1), (2), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “beginning teacher”.
 
     Pars. (7), (8). [Pub. L. 114–95][/us/pl/114/95], § 8002(2), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
@@ -701,7 +701,7 @@
 
     Par. (47). [Pub. L. 114–95][/us/pl/114/95], § 8002(18), added par. (47).
 
-    Par. (48). [Pub. L. 114–95][/us/pl/114/95], § 8002(19), added par. (48) and struck out former undesignated par. which defined “State”.
+    Par. (48). [Pub. L. 114–95][/us/pl/114/95], § 8002(19), added par. (48).
 
     Par. (49). [Pub. L. 114–95][/us/pl/114/95], § 8002(2), redesignated par. (41) as (49).
 
@@ -725,7 +725,7 @@
 
 >     “(c)
 
->      Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law ([section 1111(h)(6)(A) of Public Law 107–110][/us/pl/107/110/s1111/h/6/A] \[probably means [section 1111(h)(6)(A) of Pub. L. 89–10][/us/pl/89/10/s1111/h/6/A], as added by [Pub. L. 107–110][/us/pl/107/110]; former [20 U.S.C. 6311(h)(6)(A)][/us/usc/t20/s6311/h/6/A]\]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
+>      Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law ([section 1111(h)(6)(A) of Public Law 107–110][/us/pl/107/110/s1111/h/6/A] \[probably meant [section 1111(h)(6)(A) of Pub. L. 89–10][/us/pl/89/10/s1111/h/6/A], as added by [Pub. L. 107–110][/us/pl/107/110]; former [20 U.S.C. 6311(h)(6)(A)][/us/usc/t20/s6311/h/6/A]\]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
 
 >         “(1) Students with disabilities.
 
@@ -749,6 +749,7 @@
 [/us/usc/t20/s7842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7842
 [/us/usc/t20/s7842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7842
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t20/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1003
 [/us/usc/t20/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6303
 [/us/usc/t20/s9543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9543
@@ -779,12 +780,11 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/usc/t25/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2902
-[/us/pl/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F477
 [/us/pl/89/10/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIX
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3773
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95

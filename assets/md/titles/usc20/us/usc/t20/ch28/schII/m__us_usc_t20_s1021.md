@@ -93,13 +93,13 @@
 
             (xiii) An entity operating a program that provides alternative routes to State certification of teachers.
 
-    “(7) __Essential components of reading instruction.—__ 
+    (7) __Essential components of reading instruction__ 
 
-        The term “essential components of reading instruction”’ has the meaning given the term in [section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on December 10, 2015. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        The term “essential components of reading instruction” has the meaning given the term in [section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on the day before December 10, 2015.
 
-    “(8) __Exemplary teacher.—__ 
+    (8) __Exemplary teacher__ 
 
-        The term “exemplary teacher” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015.1
+        The term “exemplary teacher” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015.
 
     (9) __High-need early childhood education program__ 
 
@@ -379,9 +379,9 @@
 
  __References in Text__ 
 
-    [Section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on the day before December 10, 2015, referred to in par. (7), was in the original “section 1208 of the Elementary and Secondary Education Act of 1965 as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 1208 of Pub. L. 89–10][/us/pl/89/10/s1208] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 6368 of this title][/us/usc/t20/s6368] was omitted from the Code in the general amendment of part B of title I of [Pub. L. 89–10][/us/pl/89/10] by [section 1201 of Pub. L. 114–95][/us/pl/114/95/s1201], effective Dec. 10, 2015.
+    [Section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on the day before December 10, 2015, referred to in par. (7), means [section 6368 of this title][/us/usc/t20/s6368] prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1201, Dec. 10, 2015, [129 Stat. 1879][/us/stat/129/1879].
 
-    [Section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015, referred to in par. (8), was in the original “section 9101 of the Elementary and Secondary Education Act of 1965 as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101] was renumbered section 8101 and amended by sections 8001(a)(1), (b)(2), (3) and 8002 of [Pub. L. 114–95][/us/pl/114/95], effective Dec. 10, 2015.
+    [Section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015, referred to in par. (8), means [section 7801 of this title][/us/usc/t20/s7801] prior to amendment by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], §§ 8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, [129 Stat. 2088][/us/stat/129/2088], 2089.
 
     The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
@@ -469,16 +469,13 @@
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2161
 [/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
-[/us/pl/89/10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1208
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/114/95/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs1201
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1879
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
-[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
+[/us/stat/129/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2088
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751

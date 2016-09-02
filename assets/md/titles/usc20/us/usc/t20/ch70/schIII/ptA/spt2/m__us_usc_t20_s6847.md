@@ -23,6 +23,8 @@
 
     A prior section 6847, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3137, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3649][/us/stat/108/3649], related to Federal administration of programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
+    A prior [section 3126 of Pub. L. 89–10][/us/pl/89/10/s3126] was renumbered section 3125 and is classified to [section 6846 of this title][/us/usc/t20/s6846].
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t20/ch70/schIII/ptA/spt2/m__us_usc_t20_s6846.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schIII/ptA/spt2/m__us_usc_t20_s6848.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6847)
@@ -39,5 +41,7 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3649
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3126
+[/us/usc/t20/s6846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6846
 
 

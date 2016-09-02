@@ -159,11 +159,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 7131, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4121, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1751][/us/stat/115/1751], related to Federal activities, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(a)(5)(B), Dec. 10, 2015, [129 Stat. 1966][/us/stat/129/1966], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7131 to 7140 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(a)(5)(B), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1966, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    Another prior section 7131, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4121, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3686][/us/stat/108/3686], related to Federal activities, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    Section 7131, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4121, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1751][/us/stat/115/1751], related to Federal activities.
 
-    Prior sections 7132 to 7140 were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(a)(5)(B), Dec. 10, 2015, [129 Stat. 1966][/us/stat/129/1966], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7131, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4121, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3686][/us/stat/108/3686], related to Federal activities, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Section 7132, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4122, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1752][/us/stat/115/1752], related to impact evaluation.
 
@@ -216,17 +216,15 @@
 [/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
 [/us/usc/t20/s6777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6777
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/107/110/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIV
 [/us/stat/115/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1751
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1966
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3686
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1966
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/107/110/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIV
 [/us/stat/115/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1752

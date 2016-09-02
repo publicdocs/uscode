@@ -105,9 +105,9 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–95][/us/pl/114/95], § 7001(d)(2), made technical amendments to references in original act which appear in text as references to [section 7703 of this title][/us/usc/t20/s7703] wherever appearing.
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 7001(d)(2), made technical amendments to references in original act which appear in text as references to [section 7703 of this title][/us/usc/t20/s7703].
 
-    Subsec. (e)(9). [Pub. L. 114–95][/us/pl/114/95], § 7005, substituted “Education” for “Affairs” in two places.
+    Subsec. (e)(9). [Pub. L. 114–95][/us/pl/114/95], § 7005, substituted “Indian Education” for “Indian Affairs” in two places.
 
  __Effective Date of 2015 Amendment__ 
 

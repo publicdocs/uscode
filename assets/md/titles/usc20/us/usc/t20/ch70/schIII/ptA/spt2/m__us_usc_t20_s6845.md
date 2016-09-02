@@ -29,6 +29,8 @@
 
     A prior section 6845, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3135, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3647][/us/stat/108/3647], related to local applications for technology education assistance, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
+    A prior [section 3124 of Pub. L. 89–10][/us/pl/89/10/s3124] was renumbered section 3123 and is classified to [section 6844 of this title][/us/usc/t20/s6844].
+
  __Amendments__ 
 
     2015—Pars. (1), (2). [Pub. L. 114–95][/us/pl/114/95], § 3003(k), substituted “English learners” for “limited English proficient children”.
@@ -53,6 +55,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3647
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3124
+[/us/usc/t20/s6844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6844
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

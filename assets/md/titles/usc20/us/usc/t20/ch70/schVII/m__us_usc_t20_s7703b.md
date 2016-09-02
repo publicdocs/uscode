@@ -139,7 +139,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments__ 
 
@@ -157,7 +157,7 @@
 
 >     “(b)  __Elements__  __.—__ 
 
->     The report required by subsection (a), and each updated report required by subsection (c), shall include the following:
+>     The report required by subsection (a), and each updated report required by \[former\] subsection (c), shall include the following:
 
 >         “(1)
 
@@ -207,7 +207,7 @@
 
 >         “(1) The term ‘base closure law’ has the meaning given that term in [section 101 of title 10][/us/usc/t10/s101], United States Code.
 
->         “(2) The term ‘local educational agency’ has the meaning given that term in section 8013(9) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(9)][/us/usc/t20/s7713/9]).
+>         “(2) The term ‘local educational agency’ has the meaning given that term in section 8013(9) \[now 7013(9)\] of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(9)][/us/usc/t20/s7713/9]).
 
 >         “(3)
 

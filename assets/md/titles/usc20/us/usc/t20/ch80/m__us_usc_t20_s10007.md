@@ -49,7 +49,7 @@
 
         (1)
 
-            (A) have significantly closed the achievement gaps between groups of students described in [section 6311(b)(2) of this title][/us/usc/t20/s6311/b/2]; or
+            (A) have significantly closed the achievement gaps between groups of students described in section 6311(b)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title; or
 
             (B) have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section;
 
@@ -69,7 +69,7 @@
 
  __References in Text__ 
 
-    [Section 6311 of this title][/us/usc/t20/s6311], referred to in subsec. (b)(1)(A), was amended generally by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1005, Dec. 10, 2015, [129 Stat. 1820][/us/stat/129/1820].
+    [Section 6311 of this title][/us/usc/t20/s6311], referred to in subsec. (b)(1)(A), was amended generally by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1005, Dec. 10, 2015, [129 Stat. 1820][/us/stat/129/1820], and, as so amended, subsec. (b)(2) does not describe achievement gaps.
 
  __Amendments__ 
 
@@ -101,7 +101,6 @@
 ----------
 
 [/us/usc/t20/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10001%2Fc
-[/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
 [/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F284
 [/us/pl/111/117/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtIII

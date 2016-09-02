@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2015—Par. (2) to (4). [Pub. L. 114–95][/us/pl/114/95], § 4401(3), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
+    2015—Pars. (2) to (4). [Pub. L. 114–95][/us/pl/114/95], § 4401(3), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) propose to carry out new magnet school programs, or significantly revise existing magnet school programs; and
 

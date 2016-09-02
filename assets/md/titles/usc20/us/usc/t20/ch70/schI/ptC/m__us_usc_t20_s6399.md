@@ -67,7 +67,7 @@
 
     2015—Par. (1)(B). [Pub. L. 114–95][/us/pl/114/95], § 1301(h)(1), struck out “nonprofit” before “private agency”.
 
-    Pars. (2) to (5). [Pub. L. 114–95][/us/pl/114/95], § 1301(h)(2), added pars. (2) to (5) and struck out former par. (2). Text of par. (2) read as follows: “The term ‘migratory child’ means a child who is, or whose parent or spouse is, a migratory agricultural worker, including a migratory dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or accompany such parent or spouse, in order to obtain, temporary or seasonal employment in agricultural or fishing work—
+    Pars. (2) to (5). [Pub. L. 114–95][/us/pl/114/95], § 1301(h)(2), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘migratory child’ means a child who is, or whose parent or spouse is, a migratory agricultural worker, including a migratory dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or accompany such parent or spouse, in order to obtain, temporary or seasonal employment in agricultural or fishing work—
 
     “(A) has moved from one school district to another;
 

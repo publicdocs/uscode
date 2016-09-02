@@ -57,7 +57,7 @@
 
             (A) __Matching funds__ 
 
-                Each eligible entity receiving a grant under this subpart for activities described in section 7274 shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
+                Each eligible entity receiving a grant under this subpart for activities described in [section 7274 of this title][/us/usc/t20/s7274] shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
 
             (B) __Private sources__ 
 
@@ -109,9 +109,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 7273, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5561, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1856][/us/stat/115/1856], related to purposes, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7273 to 7273e were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    Prior sections 7273a to 7273e were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Section 7273, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5561, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1856][/us/stat/115/1856], related to purposes.
 
     Section 7273a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5562, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1857][/us/stat/115/1857], authorized grants.
 
@@ -141,19 +141,18 @@
 [/us/usc/t20/s7274/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7274%2Fh
 [/us/usc/t20/s7275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7275
 [/us/usc/t20/s7275/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7275%2Fa%2F4%2FC
+[/us/usc/t20/s7274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7274
 [/us/usc/t20/s7275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7275
 [/us/usc/t20/s7274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7274
 [/us/usc/t20/s7275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7275
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2024
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1856
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1857

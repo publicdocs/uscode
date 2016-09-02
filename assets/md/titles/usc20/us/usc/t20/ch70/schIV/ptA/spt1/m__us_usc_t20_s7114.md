@@ -121,6 +121,8 @@
 
     Another prior section 7114, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4114, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3679][/us/stat/108/3679], related to governor’s programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
+    A prior [section 4104 of Pub. L. 89–10][/us/pl/89/10/s4104] was classified to [section 3064 of this title][/us/usc/t20/s3064], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
+
  __Effective Date__ 
 
     Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
@@ -153,6 +155,10 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3679
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4104
+[/us/usc/t20/s3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3064
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

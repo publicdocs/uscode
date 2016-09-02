@@ -51,7 +51,7 @@
 
             (C)
 
-             to carry out activities authorized under subpart 4—
+             to carry out activities authorized under subpart 4—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(C) carry out activities authorized under subpart 4 using—”. </sup></sup> 
 
                 (i) 28 percent of such remainder for each of fiscal years 2017 and 2018; and
 
@@ -61,15 +61,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 7251, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5451, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1824][/us/stat/115/1824], related to inexpensive book distribution program for reading motivation, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7251, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5451, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1824][/us/stat/115/1824], related to inexpensive book distribution program for reading motivation, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     A prior [section 4601 of Pub. L. 89–10][/us/pl/89/10/s4601] was classified to [section 3151 of this title][/us/usc/t20/s3151], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
-    Prior sections 7253 to 7253e, 7255 to 7255f, 7257 to 7257d, and 7259 to 7259c were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7253 to 7253e, 7255 to 7255f, 7257 to 7257d, and 7259 to 7259c were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7253, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5461, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1826][/us/stat/115/1826], provided that subpart 6 of part D of former subchapter V of this chapter could be cited as the “Jacob K. Javits Gifted and Talented Students Education Act of 2001”.
 
-    Section 7253a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5462, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1826][/us/stat/115/1826], provided purpose of subpart.
+    Section 7253a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5462, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1826][/us/stat/115/1826], provided purpose of former subpart.
 
     Section 7253b, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5463, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1826][/us/stat/115/1826], related to rule of construction.
 
@@ -81,7 +81,7 @@
 
     Section 7255, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5471, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1829][/us/stat/115/1829], provided that subpart 7 of part D of former subchapter V of this chapter could be cited as the “Star Schools Act”.
 
-    Section 7255a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5472, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1829][/us/stat/115/1829], provided purposes of subpart.
+    Section 7255a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5472, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1829][/us/stat/115/1829], provided purposes of former subpart.
 
     Section 7255b, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5473, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1830][/us/stat/115/1830], authorized grant program.
 
@@ -128,14 +128,14 @@
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1824
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4601
 [/us/usc/t20/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3151
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1826

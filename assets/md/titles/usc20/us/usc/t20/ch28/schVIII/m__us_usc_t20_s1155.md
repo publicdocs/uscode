@@ -213,7 +213,7 @@
 
     Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-    The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(b) \[title II\], Apr. 26, 1996, [110 Stat. 1321–77][/us/stat/110/1321-77], 1321–107, as amended, which amended sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under [section 6322 of this title][/us/usc/t20/s6322]. For complete classification of this Act to the Code, see Tables.
+    The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(b) \[title II\], Apr. 26, 1996, [110 Stat. 1321–77][/us/stat/110/1321-77], 1321–107, as amended, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former [section 6322 of this title][/us/usc/t20/s6322]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 

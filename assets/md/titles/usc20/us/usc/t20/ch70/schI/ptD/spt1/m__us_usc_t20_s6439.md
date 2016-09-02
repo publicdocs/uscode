@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–95][/us/pl/114/95] in section catchline substituted “Technical assistance” for “Evaluation; technical assistance; annual model program” and in text substituted “for a fiscal year” for “for a fiscal year—”, struck out par. (2) designation before “to provide”, and struck out former par. (1) which read as follows: “to develop a uniform model to evaluate the effectiveness of programs assisted under this subpart; and”.
+    2015—[Pub. L. 114–95][/us/pl/114/95], in section catchline, substituted “Technical assistance” for “Evaluation; technical assistance; annual model program” and, in text, substituted “for a fiscal year” for “for a fiscal year—”, struck out par. (2) designation before “to provide”, and struck out par. (1) which read as follows: “to develop a uniform model to evaluate the effectiveness of programs assisted under this subpart; and”.
 
  __Effective Date of 2015 Amendment__ 
 

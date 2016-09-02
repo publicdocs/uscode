@@ -43,13 +43,13 @@
 
             (D) providing professional development with resources provided under this part, and, to the extent practicable, from other sources, to teachers, principals, other school leaders, paraprofessionals, and, if appropriate, specialized instructional support personnel, and other school personnel who work with eligible children in programs under this section or in the regular education program;
 
-            (E) implementing strategies to increase the involvement of parents of eligible children in accordance with [section 6318 of this title][/us/usc/t20/s6318]; and
+            (E) implementing strategies to increase the involvement of parents of eligible children in accordance with [section 6318 of this title][/us/usc/t20/s6318]; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
 
             (F) if appropriate and applicable, coordinating and integrating Federal, State, and local services and programs, such as programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start programs, adult education programs, career and technical education programs, and comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title][/us/usc/t20/s6311/d]; and
 
             (G)
 
-             provide  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “providing”. </sup></sup>  to the local educational agency assurances that the school will—
+             provide  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “providing”. </sup></sup>  to the local educational agency assurances that the school will—
 
                 (i) help provide an accelerated, high-quality curriculum;
 

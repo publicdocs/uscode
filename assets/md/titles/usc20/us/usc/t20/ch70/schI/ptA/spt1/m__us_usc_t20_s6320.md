@@ -191,7 +191,7 @@
 
     A prior section 6320, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1119, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3555][/us/stat/108/3555], related to professional development, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior [section 1117 of Pub. L. 89–10][/us/pl/89/10/s1117] was classified to [section 6317 of this title][/us/usc/t20/s6317], prior to repeal by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1000(1), Dec. 10, 2015, [129 Stat. 1814][/us/stat/129/1814].
+    A prior [section 1117 of Pub. L. 89–10][/us/pl/89/10/s1117] was classified to [section 6317 of this title][/us/usc/t20/s6317], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior [section 1117 of Pub. L. 89–10][/us/pl/89/10/s1117] was classified to [section 6318 of this title][/us/usc/t20/s6318] prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -213,7 +213,7 @@
 
     Subsec. (b)(2) to (4). [Pub. L. 114–95][/us/pl/114/95], § 1011(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 114–95][/us/pl/114/95], § 1011(2)(B), (D), redesignated par. (4) as (5), inserted “meaningful” before “consultation” in first sentence, inserted second sentence, and substituted “such consultation has, or attempts at such consultation have, taken place” for “such consultation has taken place” in third sentence. Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 114–95][/us/pl/114/95], § 1011(2)(B), (D), redesignated par. (4) as (5), inserted “meaningful” before “consultation” in first sentence, inserted second sentence, and substituted “such consultation has, or attempts at such consultation have, taken place” for “such consultation has taken place” in last sentence. Former par. (5) redesignated (6).
 
     Subsec. (b)(6). [Pub. L. 114–95][/us/pl/114/95], § 1011(2)(B), redesignated par. (5) as (6).
 
@@ -254,8 +254,7 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1117
 [/us/usc/t20/s6317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6317
-[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
-[/us/stat/129/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1814
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/89/10/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1117
 [/us/usc/t20/s6318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6318
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

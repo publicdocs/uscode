@@ -31,9 +31,13 @@
 
     (c) __New or significantly expanding charter schools__ 
 
-        For purposes of implementing the hold harmless protections in sections 6332(c) and 6337(g)(3) of this title for a newly opened or significantly expanded charter school under this part, a State educational agency shall calculate a hold-harmless base for the prior year that, as applicable, reflects the new or significantly expanded enrollment of the charter school.
+        For purposes of implementing the hold harmless protections in sections 6332(c) and 6337(g)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for a newly opened or significantly expanded charter school under this part, a State educational agency shall calculate a hold-harmless base for the prior year that, as applicable, reflects the new or significantly expanded enrollment of the charter school.
 
 ([Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4306, formerly title V, § 5206, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1797][/us/stat/115/1797]; renumbered title IV, § 4306, and amended [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], §§ 4001(b)(2)(A), (B), (D)(iii), 4301(2), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], 2011.)
+
+ __References in Text__ 
+
+    [Section 6337(g)(3) of this title][/us/usc/t20/s6337/g/3], referred to in subsec. (c), was redesignated [section 6337(f)(3) of this title][/us/usc/t20/s6337/f/3] by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1017(7), Dec. 10, 2015, [129 Stat. 1879][/us/stat/129/1879].
 
  __Amendments__ 
 
@@ -55,6 +59,10 @@
 [/us/stat/115/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1797
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/usc/t20/s6337/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6337%2Fg%2F3
+[/us/usc/t20/s6337/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6337%2Ff%2F3
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1879
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

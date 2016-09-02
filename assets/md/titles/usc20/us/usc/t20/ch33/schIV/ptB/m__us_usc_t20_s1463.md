@@ -103,7 +103,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95], which directed amendment of subsec. (b)(2) by “by striking and inserting” par. (2), was executed by adding par. (2) and by striking former par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title][/us/usc/t20/s6311/b/2/B];”.
+    2015—Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95], which directed amendment of subsec. (b)(2) by “striking and inserting the following:” followed by the text of a new par. (2), was executed by subtituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title][/us/usc/t20/s6311/b/2/B];”.
 
  __Effective Date of 2015 Amendment__ 
 

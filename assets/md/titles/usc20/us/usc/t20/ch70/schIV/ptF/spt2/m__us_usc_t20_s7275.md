@@ -125,9 +125,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 7275, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5571, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1861][/us/stat/115/1861], related to grants to combat the impact of experiencing or witnessing domestic violence on elementary and secondary school children, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7275, 7277 to 7277e, and 7279 to 7279e were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    Prior sections 7277 to 7277e and 7279 to 7279e were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Section 7275, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5571, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1861][/us/stat/115/1861], related to grants to combat the impact of experiencing or witnessing domestic violence on elementary and secondary school children.
 
     Section 7277, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5581, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1863][/us/stat/115/1863], authorized grant program.
 
@@ -174,13 +174,11 @@
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2029
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1861
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1863

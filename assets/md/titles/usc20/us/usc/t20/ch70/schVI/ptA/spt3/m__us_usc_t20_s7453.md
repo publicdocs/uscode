@@ -173,7 +173,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7453, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6133, formerly title VII, § 7133, as added [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 701, Jan. 8, 2002, [115 Stat. 1924][/us/stat/115/1924]; renumbered title VI, § 6133, [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6001(a), (b)(1), Dec. 10, 2015, [129 Stat. 2046][/us/stat/129/2046], related to fellowships for Indian students, prior to repeal by [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6002(n)(1), Dec. 10, 2015, [129 Stat. 2057][/us/stat/129/2057], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.)
+    A prior section 7453, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6133, formerly title VII, § 7133, as added [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 701, Jan. 8, 2002, [115 Stat. 1924][/us/stat/115/1924]; renumbered title VI, § 6133, [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6001(a), (b)(1), Dec. 10, 2015, [129 Stat. 2046][/us/stat/129/2046], related to fellowships for Indian students, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title VI, § 6002(n)(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Another prior section 7453, [Pub. L. 89–10, title VII][/us/pl/89/10/tVII], § 7133, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3730][/us/stat/108/3730], related to academic excellence awards, prior to the general amendment of former subchapter VII of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -206,8 +206,8 @@
 [/us/stat/115/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1924
 [/us/pl/114/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVI
 [/us/stat/129/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2046
-[/us/pl/114/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVI
-[/us/stat/129/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2057
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtVII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3730

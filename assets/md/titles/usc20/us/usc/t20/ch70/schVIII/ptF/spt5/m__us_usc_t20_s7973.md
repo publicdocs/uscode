@@ -107,7 +107,7 @@
 
     Subsec. (c)(2)(A). [Pub. L. 114–95][/us/pl/114/95], § 4001(a)(1)(B)(ii), substituted “education programs” for “development (Head Start) services”.
 
-    Subsec. (e)(3)(C). [Pub. L. 114–95][/us/pl/114/95], § 4001(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “such other matters as justice may require.”
+    Subsec. (e)(3)(C). [Pub. L. 114–95][/us/pl/114/95], § 4001(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which was missing an opening parenthesis before the subpar. designation and read as follows: “such other matters as justice may require.”
 
  __Effective Date of 2015 Amendment__ 
 

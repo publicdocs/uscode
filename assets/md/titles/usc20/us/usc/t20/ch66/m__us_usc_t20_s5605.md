@@ -91,9 +91,13 @@
 
     (c) __Program priorities__ 
 
-        The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in [section 5604(a)(2) of this title][/us/usc/t20/s5604/a/2], [section 5604(a)(3) of this title][/us/usc/t20/s5604/a/3], and [section 5604(a)(4) of this title][/us/usc/t20/s5604/a/4], not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for [section 5604(a)(5) of this title][/us/usc/t20/s5604/a/5], [section 5604(a)(6) of this title][/us/usc/t20/s5604/a/6], and [section 5604(a)(7) of this title][/us/usc/t20/s5604/a/7] conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
+        The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, section 5604(a)(3)  <sup>\[1\]</sup>  of this title, and section 5604(a)(4)  <sup>\[1\]</sup>  of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5)  <sup>\[1\]</sup>  of this title, section 5604(a)(6)  <sup>\[1\]</sup>  of this title, and section 5604(a)(7)  <sup>\[1\]</sup>  of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
 ([Pub. L. 102–259][/us/pl/102/259], § 7, Mar. 19, 1992, [106 Stat. 81][/us/stat/106/81]; [Pub. L. 105–156][/us/pl/105/156], §§ 5, 9(b), Feb. 11, 1998, [112 Stat. 9][/us/stat/112/9], 12; [Pub. L. 111–90][/us/pl/111/90], § 6, Nov. 3, 2009, [123 Stat. 2977][/us/stat/123/2977].)
+
+ __References in Text__ 
+
+    References to subsec. (a)(2) to (7) of [section 5604 of this title][/us/usc/t20/s5604] in subsec. (c) were in the original references to subsec. (a)(2) to (7) of [section 6 of Pub. L. 102–259][/us/pl/102/259/s6] but probably should have been references to subsec. (a)(2) to (7) of this section, which is [section 7 of Pub. L. 102–259][/us/pl/102/259/s7]. [Section 5604 of this title][/us/usc/t20/s5604] does not contain subsecs., and subsec. (a)(2) to (7) of this section relates to various programs and activities to be carried out by the Foundation.
 
  __Amendments__ 
 
@@ -118,18 +122,16 @@
 [/us/usc/t20/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604
 [/us/usc/t20/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604
 [/us/usc/t20/s5604/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2F7
-[/us/usc/t20/s5604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F2
-[/us/usc/t20/s5604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F3
-[/us/usc/t20/s5604/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F4
-[/us/usc/t20/s5604/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F5
-[/us/usc/t20/s5604/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F6
-[/us/usc/t20/s5604/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F7
 [/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F81
 [/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F9
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2977
+[/us/usc/t20/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604
+[/us/pl/102/259/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs6
+[/us/pl/102/259/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs7
+[/us/usc/t20/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156

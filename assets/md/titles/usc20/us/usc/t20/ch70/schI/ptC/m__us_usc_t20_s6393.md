@@ -127,7 +127,7 @@
 
     Subsec. (c). [Pub. L. 114–95][/us/pl/114/95], § 1301(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 114–95][/us/pl/114/95], § 1301(b)(1), (3), redesignated subsec. (c) as (d), in par. (1) inserted subpar. headings after subpar. (A) and (B) designations, in par. (1), subpar. (B) substituted “purposes” for “purpose”, and in par. (2) inserted subpar. headings after subpar. (A) and (B) designations. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 114–95][/us/pl/114/95], § 1301(b)(1), (3), redesignated subsec. (c) as (d), in par. (1) inserted subpar. headings after subpar. (A) and (B) designations, in par. (1), subpar. (B), substituted “purposes” for “purpose”, and in par. (2) inserted subpar. headings after subpar. (A) and (B) designations. Former subsec. (d) redesignated (e).
 
     Subsec. (e). [Pub. L. 114–95][/us/pl/114/95], § 1301(b)(1), (4), redesignated subsec. (d) as (e) and in par. (3)(B) substituted “the academic achievement of children” for “the welfare or educational attainment of children”. Former subsec. (e) redesignated (f).
 

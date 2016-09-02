@@ -49,9 +49,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 7934, [Pub. L. 89–10, title IX][/us/pl/89/10/tIX], § 9304, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3806][/us/stat/108/3806], related to Alaska Native educational planning, curriculum development, and teacher training and recruitment programs, prior to the general amendment of former subchapter IX of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    Prior sections 7934 to 7938 were omitted in the general amendment of former subchapter IX of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Sections 7935 to 7938 were omitted in the general amendment of former subchapter IX of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    Section 7934, [Pub. L. 89–10, title IX][/us/pl/89/10/tIX], § 9304, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3806][/us/stat/108/3806], related to Alaska Native educational planning, curriculum development, and teacher training and recruitment programs.
 
     Section 7935, [Pub. L. 89–10, title IX][/us/pl/89/10/tIX], § 9305, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3807][/us/stat/108/3807], related to Alaska Native home based education for preschool children.
 
@@ -78,11 +78,10 @@
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIX
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3806
-[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIX
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3807

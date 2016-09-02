@@ -181,7 +181,7 @@
 
     A prior section 6318, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1117, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3548][/us/stat/108/3548], related to State assistance for school support and improvement, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior [section 1116 of Pub. L. 89–10][/us/pl/89/10/s1116] was classified to [section 6316 of this title][/us/usc/t20/s6316], prior to repeal by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1000(1), Dec. 10, 2015, [129 Stat. 1814][/us/stat/129/1814].
+    A prior [section 1116 of Pub. L. 89–10][/us/pl/89/10/s1116] was classified to [section 6316 of this title][/us/usc/t20/s6316], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior [section 1116 of Pub. L. 89–10][/us/pl/89/10/s1116] was classified to [section 6317 of this title][/us/usc/t20/s6317], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -266,8 +266,7 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1116
 [/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
-[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
-[/us/stat/129/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1814
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/89/10/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1116
 [/us/usc/t20/s6317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6317
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

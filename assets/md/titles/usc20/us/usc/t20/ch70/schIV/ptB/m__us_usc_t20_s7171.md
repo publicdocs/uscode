@@ -87,7 +87,7 @@
 
  __References in Text__ 
 
-    This part (as this part was in effect on the day before the effective date of this part under the Every Student Succeeds Act), referred to in subsec. (b)(2)(A), means this part as in effect before it was amended generally by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4201(a), Dec. 10, 2015, [129 Stat. 1982][/us/stat/129/1982].
+    This part (as this part was in effect on the day before the effective date of this part under the Every Student Succeeds Act), referred to in subsec. (b)(2)(A), means this part as in effect before it was amended generally by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4201(a), Dec. 10, 2015, [129 Stat. 1982][/us/stat/129/1982]. For effective date of [Pub. L. 114–95][/us/pl/114/95], see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Amendments__ 
 
@@ -112,6 +112,9 @@
 [/us/stat/129/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1982
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1982
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

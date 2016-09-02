@@ -127,11 +127,11 @@
 
             (C) __Secretarial report__ 
 
-            The Secretary shall review the reports submitted under subparagraph (A) and shall provide a comprehensive annual report to Congress on the activities conducted under this section (excluding subsection (k)).
+                The Secretary shall review the reports submitted under subparagraph (A) and shall provide a comprehensive annual report to Congress on the activities conducted under this section (excluding subsection (k)).
 
-                (i) __No full faith and credit for grantee obligation__ 
+    (i) __No full faith and credit for grantee obligation__ 
 
-                    No financial obligation of an eligible entity entered into pursuant to this section (such as an obligation under a guarantee, bond, note, evidence of debt, or loan) shall be an obligation of, or guaranteed in any respect by, the United States. The full faith and credit of the United States is not pledged to the payment of funds that may be required to be paid under any obligation made by an eligible entity pursuant to any provision of this section.
+        No financial obligation of an eligible entity entered into pursuant to this section (such as an obligation under a guarantee, bond, note, evidence of debt, or loan) shall be an obligation of, or guaranteed in any respect by, the United States. The full faith and credit of the United States is not pledged to the payment of funds that may be required to be paid under any obligation made by an eligible entity pursuant to any provision of this section.
 
     (j) __Recovery of funds__ 
 
@@ -243,7 +243,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7221c, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4304, formerly title V, § 5204, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1792][/us/stat/115/1792]; renumbered title IV, § 4304, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], related to administration, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4301(1), Dec. 10, 2015, [129 Stat. 1993][/us/stat/129/1993], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7221c, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4304, formerly title V, § 5204, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1792][/us/stat/115/1792]; renumbered title IV, § 4304, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], related to administration, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4301(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     A prior [section 4304 of Pub. L. 89–10][/us/pl/89/10/s4304] was renumbered section 8574, and is classified to [section 7974 of this title][/us/usc/t20/s7974].
 
@@ -273,8 +273,8 @@
 [/us/stat/115/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1792
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1993
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4304
 [/us/usc/t20/s7974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7974
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

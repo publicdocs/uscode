@@ -105,7 +105,7 @@
 
  __References in Text__ 
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of this title][/us/usc/t20/s1070g–2].
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to “highly qualified”, as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of this title][/us/usc/t20/s1070g–2].
 
 ----------
 
@@ -118,7 +118,6 @@
 [/us/usc/t20/s7801/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F23
 [/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4022
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s9214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9214%2Fa%2F2
 [/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932

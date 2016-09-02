@@ -59,7 +59,7 @@
 
 [Pub. L. 103–382][/us/pl/103/382], § 3(a)(1), Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518], provided that:
 
->     “(A) Title I \[amending generally [Pub. L. 89–10][/us/pl/89/10] (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
+>     “(A) Title I \[amending generally [Pub. L. 89–10][/us/pl/89/10] (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII \[now VII\] (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
 
 >     “(B) Title VIII of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by title I of this Act, shall take effect on the date of the enactment of this Act \[Oct. 20, 1994\].”
 

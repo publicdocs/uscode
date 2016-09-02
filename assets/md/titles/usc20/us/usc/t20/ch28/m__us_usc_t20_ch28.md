@@ -3681,15 +3681,7 @@ SUBCHAPTER VIII—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1151" data-uslm-ref="/us/usc/t20/s1151">1151.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1152" data-uslm-ref="/us/usc/t20/s1152">1152.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1151" data-uslm-ref="/us/usc/t20/s1151">1151</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1152" data-uslm-ref="/us/usc/t20/s1152">1152.</a>  </td>
 
     <td> Repealed.  </td>
 

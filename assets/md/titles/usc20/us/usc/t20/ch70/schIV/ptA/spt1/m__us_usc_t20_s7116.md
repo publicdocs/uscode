@@ -115,6 +115,8 @@
 
     Another prior section 7116, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4116, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3682][/us/stat/108/3682]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 314\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–47, related to local drug and violence prevention programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
+    A prior [section 4106 of Pub. L. 89–10][/us/pl/89/10/s4106] was classified to [section 3066 of this title][/us/usc/t20/s3066], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
+
  __Effective Date__ 
 
     Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
@@ -156,6 +158,10 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4106
+[/us/usc/t20/s3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3066
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

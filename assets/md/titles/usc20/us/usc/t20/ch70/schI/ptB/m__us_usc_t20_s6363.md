@@ -67,7 +67,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6363, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1203, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1543][/us/stat/115/1543]; amended [Pub. L. 110–154][/us/pl/110/154], § 1(c)(3), Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(i)(1), July 22, 2014, [128 Stat. 1708][/us/stat/128/1708], related to applications for grants, prior to the general amendment of this part by [Pub. L. 114–95][/us/pl/114/95].
+    A prior section 6363, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1203, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1543][/us/stat/115/1543]; amended [Pub. L. 110–154][/us/pl/110/154], § 1(c)(3), Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(i)(1), July 22, 2014, [128 Stat. 1708][/us/stat/128/1708], related to applications for State formula grants, prior to the general amendment of this part by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior section 6363, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1203, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3579][/us/stat/108/3579]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 204(b)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–409; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVI, § 1604(f), (g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 

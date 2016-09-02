@@ -43,7 +43,7 @@
 
                 (i) ensure that programs assisted under this subpart will be carried out in accordance with the State plan described in this subsection; and
 
-                (ii) ensure that the State agencies receiving subgrants under this subpart comply with all applicable statutory and regulatory requirements; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+                (ii) ensure that the State agencies receiving subgrants under this subpart comply with all applicable statutory and regulatory requirements; and
 
             (E)
 
@@ -153,7 +153,7 @@
 
     Subsec. (c)(1). [Pub. L. 114–95][/us/pl/114/95], § 1401(3)(B)(i), inserted “and, to the extent practicable, provide for such assessment upon entry into a correctional facility” after “to be served under this subpart”.
 
-    Subsec. (c)(6). [Pub. L. 114–95][/us/pl/114/95], § 1401(3)(B)(ii), substituted “will use” for “will carry out the evaluation requirements of [section 7941 of this title][/us/usc/t20/s7941] and how”, inserted “under [section 7941 of this title][/us/usc/t20/s7941]” after “most recent evaluation”, and struck out “will be used” before “to plan and improve the program”.
+    Subsec. (c)(6). [Pub. L. 114–95][/us/pl/114/95], § 1401(3)(B)(ii), substituted “will use” for “will carry out the evaluation requirements of [section 7941 of this title][/us/usc/t20/s7941] and how”, inserted “under [section 7981 of this title][/us/usc/t20/s7981]” after “most recent evaluation”, and struck out “will be used” before “to plan and improve the program”.
 
     Subsec. (c)(7). [Pub. L. 114–95][/us/pl/114/95], § 1401(3)(B)(iii), made technical amendment to reference in original act which appears in text as reference to [section 7901 of this title][/us/usc/t20/s7901].
 
@@ -212,7 +212,7 @@
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7941
-[/us/usc/t20/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7941
+[/us/usc/t20/s7981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7981
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7901
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95

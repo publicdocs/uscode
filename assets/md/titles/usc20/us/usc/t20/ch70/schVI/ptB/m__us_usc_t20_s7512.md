@@ -107,7 +107,7 @@
 
     The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of [Pub. L. 99–498][/us/pl/99/498], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600], which is classified generally to chapter 56 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title][/us/usc/t20/s4401] and Tables.
 
-    The Workforce Innovation and Opportunity Act, referred to in par. (13)(H), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in par. (13)(H), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Older Americans Act of 1965, referred to in par. (13)(I), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42][/us/usc/t42/s3001] and Tables.
 
@@ -117,7 +117,7 @@
 
     A prior [section 6202 of Pub. L. 89–10][/us/pl/89/10/s6202] was renumbered section 5202 and is classified to [section 7341a of this title][/us/usc/t20/s7341a].
 
-    Another prior [section 6202 of Pub. L. 89–10][/us/pl/89/10/s6202] was classified to [section 7332 of this title][/us/usc/t20/s7332], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    Another prior [section 6202 of Pub. L. 89–10][/us/pl/89/10/s6202] was classified to [section 7332 of this title][/us/usc/t20/s7332], prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Another prior [section 6202 of Pub. L. 89–10][/us/pl/89/10/s6202] was classified to [section 3272 of this title][/us/usc/t20/s3272], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
@@ -188,10 +188,6 @@
  __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
-
- __Definitions__ 
-
-    For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by [section 2 of Pub. L. 111–256][/us/pl/111/256/s2], see [section 2(k) of Pub. L. 111–256][/us/pl/111/256/s2/k], set out as a note under [section 1400 of this title][/us/usc/t20/s1400].
 
 ----------
 
@@ -288,8 +284,5 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2
-[/us/pl/111/256/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fk
-[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 
 

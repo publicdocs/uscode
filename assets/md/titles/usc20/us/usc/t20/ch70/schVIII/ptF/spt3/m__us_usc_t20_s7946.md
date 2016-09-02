@@ -91,7 +91,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(3). [Pub. L. 114–95][/us/pl/114/95], § 2001(a)(1), added par. (3) and struck out undesignated par. following par. (2) which read as follows: “ate law that makes a limitation of liability inapplicable if the civil action was brought by an officer of a State or local government pursuant to State or local law.”
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 2001(a)(1), struck out undesignated par. following par. (2) which read as follows: “ate law that makes a limitation of liability inapplicable if the civil action was brought by an officer of a State or local government pursuant to State or local law.”
+
+    Subsec. (b)(3). [Pub. L. 114–95][/us/pl/114/95], § 2001(a)(1), added par. (3).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -112,6 +114,7 @@
 [/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
 [/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
 [/us/usc/t20/s6736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6736
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95

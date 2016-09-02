@@ -43,7 +43,7 @@
 
             (B) be subject to rigorous peer-review.
 
-    (b) __Administration of evaluations under title I of the Elementary and Secondary Education Act of 1965__ 
+    (b) __Administration of evaluations under the Elementary and Secondary Education Act of 1965__ 
 
         The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under [section 9561(b) of this title][/us/usc/t20/s9561/b], shall administer all operations and contracts associated with evaluations authorized by section 8601 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7981][/us/usc/t20/s7981]\] and administered by the Department as of November 5, 2002.
 

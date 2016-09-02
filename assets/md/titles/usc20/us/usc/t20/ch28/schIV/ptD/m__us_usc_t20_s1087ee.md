@@ -95,7 +95,7 @@
 
     (b) __Reimbursement for cancellation__ 
 
-        The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under [section 1087hh of this title][/us/usc/t20/s1087hh]. None of the funds appropriated pursuant to [section 1087aa(b) of this title][/us/usc/t20/s1087aa/b] shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
+        The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under [section 1087hh of this title][/us/usc/t20/s1087hh]. None of the funds appropriated pursuant to section 1087aa(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 
     (c) __Special rules__ 
 
@@ -111,7 +111,7 @@
 
             (B) in a subsequent year fails to meet the requirements of such subsection,
 
-            may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “in such”. </sup></sup>  subsequent years.
+            may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “in such”. </sup></sup>  subsequent years.
 
 ([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 465, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 405(a), Oct. 17, 1986, [100 Stat. 1451][/us/stat/100/1451]; amended [Pub. L. 100–50][/us/pl/100/50], § 13(j), June 3, 1987, [101 Stat. 349][/us/stat/101/349]; [Pub. L. 100–369][/us/pl/100/369], § 7(c), July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(e), Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151]; [Pub. L. 101–647, title XXI][/us/pl/101/647/tXXI], § 2101(a), (b), Nov. 29, 1990, [104 Stat. 4856][/us/stat/104/4856]; [Pub. L. 102–119][/us/pl/102/119], § 26(h), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 465(a)–(c), July 23, 1992, [106 Stat. 582][/us/stat/106/582], 583; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(c)(3), Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208][/us/pl/103/208], § 2(f)(12)–(14), (k)(7), Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471], 2486; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(e)(3), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 465, Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(c)(1), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 465, Aug. 14, 2008, [122 Stat. 3267][/us/stat/122/3267]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 405(5), July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
 
@@ -126,6 +126,8 @@
     The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], as amended, which is classified principally to chapter 66 (§ 4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42][/us/usc/t42/s4950] and Tables.
 
     The National and Community Service Act of 1990, referred to in subsec. (a)(6), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§ 12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42][/us/usc/t42/s12501] and Tables.
+
+    [Section 1087aa of this title][/us/usc/t20/s1087aa], referred to in subsec. (b), was amended by [Pub. L. 114–105][/us/pl/114/105], § 2(a)(1)(B), Dec. 18, 2015, [129 Stat. 2219][/us/stat/129/2219], which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
  __Codification__ 
 
@@ -255,7 +257,6 @@
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
 [/us/usc/t42/s12601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12601
 [/us/usc/t20/s1087hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087hh
-[/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
 [/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1451
@@ -300,6 +301,9 @@
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
+[/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa
+[/us/pl/114/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F105
+[/us/stat/129/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2219
 [/us/pl/103/208/s2/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Ff%2F14
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

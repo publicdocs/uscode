@@ -61,7 +61,7 @@
 
         (3) __Previously filed forms__ 
 
-            An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section was in effect on December 10, 2015, shall remain valid for such Indian student.
+            An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section was in effect on the day before December 10, 2015, shall remain valid for such Indian student.
 
     (e) __Monitoring and evaluation review__ 
 

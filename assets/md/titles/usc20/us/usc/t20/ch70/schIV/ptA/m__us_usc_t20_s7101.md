@@ -61,7 +61,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7101, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4001, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1734][/us/stat/115/1734], provided that this part could be cited as the “Safe and Drug-Free Schools and Communities Act”, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4002, Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7101, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4001, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1734][/us/stat/115/1734], provided that this part could be cited as the “Safe and Drug-Free Schools and Communities Act”, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Another prior section 7101, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4001, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3672][/us/stat/108/3672], set forth short title of subchapter as the “Safe and Drug-Free Schools and Communities Act of 1994”, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -87,8 +87,8 @@
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/107/110/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIV
 [/us/stat/115/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1734
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3672

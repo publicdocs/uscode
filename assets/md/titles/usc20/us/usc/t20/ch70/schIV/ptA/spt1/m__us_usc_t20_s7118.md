@@ -123,11 +123,9 @@
 
             (ii) ensuring that all service and community partners are aligned with the academic expectations of a community school in order to improve student success; and
 
-            (iii)
+            (iii) strengthening relationships between schools and communities; or
 
-             strengthening relationships between schools and communities; or
-
-                (I) pay for success initiatives aligned with the purposes of this section.
+        (I) pay for success initiatives aligned with the purposes of this section.
 
 ([Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4108, as added [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4101, Dec. 10, 2015, [129 Stat. 1978][/us/stat/129/1978].)
 
@@ -139,7 +137,7 @@
 
     A prior section 7118, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4118, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3685][/us/stat/108/3685], related to programs for Native Hawaiians, and was omitted in the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior [section 4108 of Pub. L. 89–10][/us/pl/89/10/s4108] was classified to [section 3068 of this title][/us/usc/t20/s3068], prior to general amendment of [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382][/us/pl/103/382].
+    A prior [section 4108 of Pub. L. 89–10][/us/pl/89/10/s4108] was classified to [section 3068 of this title][/us/usc/t20/s3068], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
  __Effective Date__ 
 

@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(9), made technical amendment to reference in original act which appears in text as reference to [section 7424 of this title][/us/usc/t20/s7424].
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 6001(b)(9), made technical amendment to reference in original act which appears in text as reference to [section 7424 of this title][/us/usc/t20/s7424].
 
  __Effective Date of 2015 Amendment__ 
 

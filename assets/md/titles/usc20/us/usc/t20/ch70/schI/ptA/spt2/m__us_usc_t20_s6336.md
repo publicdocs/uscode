@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6336, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1125A, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3575][/us/stat/108/3575], related to education finance incentive program, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6337 of this title][/us/usc/t20/s6337].
+    A prior section 6336, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1125A, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3575][/us/stat/108/3575], related to education finance incentive program, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
  __Amendments__ 
 
@@ -50,7 +50,6 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3575
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/usc/t20/s6337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6337
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

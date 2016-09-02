@@ -133,13 +133,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 7261, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5501, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1841][/us/stat/115/1841], provided that subpart 10 of part D of former subchapter V of this chapter could be cited as the “Carol M. White Physical Education Program”, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7261 to 7261f were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+    Section 7261, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5501, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1841][/us/stat/115/1841], provided that subpart 10 of part D of former subchapter V of this chapter could be cited as the “Carol M. White Physical Education Program”.
 
     Another prior section 7261, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5301, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3701][/us/stat/108/3701], provided that part C of former subchapter V of this chapter could be cited as the “School Dropout Assistance Act”, prior to the general amendment of former subchapter V of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 7261a to 7261f were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
-
-    Section 7261a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5502, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1841][/us/stat/115/1841], provided purpose of subpart.
+    Section 7261a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5502, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1841][/us/stat/115/1841], provided purpose of former subpart.
 
     Section 7261b, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5503, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1841][/us/stat/115/1841], authorized program.
 
@@ -153,7 +153,7 @@
 
     A prior section 7262, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5302, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3701][/us/stat/108/3701], which set forth purpose of the School Dropout Assistance Act, was omitted in the general amendment of former subchapter V of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 7263 to 7263b were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7263 to 7263b were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7263, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5511, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1843][/us/stat/115/1843], related to purpose and program authorization.
 
@@ -165,7 +165,7 @@
 
     A prior section 7264, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5404 \[5304\], as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3703][/us/stat/108/3703], which related to application for school dropout assistance, was omitted in the general amendment of former subchapter V of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 7265 to 7265e were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7265 to 7265e were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7265, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5521, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1845][/us/stat/115/1845], provided that subpart 12 of part D of former subchapter V of this chapter could be cited as the “Alaska Native and Native Hawaiian Education Through Cultural and Historical Organizations Act”.
 
@@ -183,7 +183,7 @@
 
     A prior section 7266, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5306, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3706][/us/stat/108/3706], which related to distribution of assistance and limitation on costs, was omitted in the general amendment of former subchapter V of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 7267 to 7267f were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7267 to 7267f were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7267, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5531, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1848][/us/stat/115/1848], provided that subpart 13 of part D of former subchapter V of this chapter could be cited as the “Excellence in Economic Education Act of 2001”.
 
@@ -203,7 +203,7 @@
 
     A prior section 7268, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5308, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3706][/us/stat/108/3706], which authorized appropriations for school dropout assistance, was omitted in the general amendment of former subchapter V of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Prior sections 7269 and 7269a were repealed by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7269 and 7269a were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4001(b)(1)(C), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7269, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 5541, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1851][/us/stat/115/1851], authorized grants for the integration of schools and mental health systems.
 
@@ -233,17 +233,15 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1841
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3701
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1841
@@ -266,8 +264,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3701
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1843
@@ -285,8 +283,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3703
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1845
@@ -319,8 +317,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3706
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1848
@@ -350,8 +348,8 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3706
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtV
 [/us/stat/115/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1851

@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95] which directed technical amendment of [section 6002(a) of Pub. L. 110–69][/us/pl/110/69/s6002/a] to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801], was executed to this section to reflect the probable intent of Congress and the renumbering of [section 6002 of Pub. L. 110–69][/us/pl/110/69/s6002] as this section.
+    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95] made amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801]. Amendment was executed to this section, which is [section 6001 of Pub. L. 110–69][/us/pl/110/69/s6001], notwithstanding directory language directing amendment of [section 6002(a) of Pub. L. 110–69][/us/pl/110/69/s6002/a], to reflect the probable intent of Congress and the renumbering of [section 6002 of Pub. L. 110–69][/us/pl/110/69/s6002] as this section. [Pub. L. 110–69][/us/pl/110/69] does not contain a section 6002.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -72,9 +72,11 @@
 [/us/usc/t20/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9801
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
-[/us/pl/110/69/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6002%2Fa
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/110/69/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6001
+[/us/pl/110/69/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6002%2Fa
 [/us/pl/110/69/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6002
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

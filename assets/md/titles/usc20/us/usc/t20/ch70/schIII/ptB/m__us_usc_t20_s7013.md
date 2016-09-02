@@ -63,50 +63,6 @@
 
     Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
- __Research Relating to Bilingual Education__ 
-
-[Pub. L. 100–297, title VI][/us/pl/100/297/tVI], § 6211, Apr. 28, 1988, [102 Stat. 429][/us/stat/102/429], provided that:
-
->     “(a)  __Research and Development__  __.—__ 
-
->     The Secretary shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals.
-
->     “(b)  __Authorized Activities__  __.—__ 
-
->     Research activities authorized to be assisted under this section shall include—
-
->         “(1) studies to determine and evaluate effective models for bilingual education programs;
-
->         “(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English;
-
->         “(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 \[former [20 U.S.C. 3281][/us/usc/t20/s3281] et seq.\] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates);
-
->         “(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program;
-
->         “(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network);
-
->         “(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English;
-
->         “(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
-
->         “(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
-
->         “(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this \[such\] title; and
-
->         “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English.
-
->     “(c)  __Consultation and Delegation of Authority__  __.—__ 
-
->     In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
-
->     “(d)  __Publication of Proposals__  __.—__ 
-
->     The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title.
-
->     “(e)  __Limitation of Authority__  __.—__ 
-
->     Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s7012.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s7014.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7013)
@@ -135,8 +91,5 @@
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/100/297/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtVI
-[/us/stat/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F429
-[/us/usc/t20/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3281
 
 

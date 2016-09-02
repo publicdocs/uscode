@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    Par. (2)(B). [Pub. L. 114–95][/us/pl/114/95] substituted “[section 7801 of this title][/us/usc/t20/s7801]), system of vocational education, or other school system;” for “7801 of this title), system of vocational education, or other school system;”.
+    2015—Par. (2)(B). [Pub. L. 114–95][/us/pl/114/95] substituted “[section 7801 of this title][/us/usc/t20/s7801]), system of vocational education, or other school system;” for “7801 of this title), system of vocational education, or other school system;”.
 
     2002—Par. (2)(B). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
 

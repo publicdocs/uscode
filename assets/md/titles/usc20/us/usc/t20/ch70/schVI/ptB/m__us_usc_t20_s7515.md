@@ -177,7 +177,7 @@
 
     “(iv) counseling and guidance for Native Hawaiian secondary students who have the potential to receive scholarships; and
 
-    “(v) faculty development activities designed to promote the matriculation of Native Hawaiian students;”
+    “(v) faculty development activities designed to promote the matriculation of Native Hawaiian students;”.
 
     Subsec. (a)(4). [Pub. L. 114–95][/us/pl/114/95], § 6003(c)(1)(C), struck out par. (4). Text read as follows:
 

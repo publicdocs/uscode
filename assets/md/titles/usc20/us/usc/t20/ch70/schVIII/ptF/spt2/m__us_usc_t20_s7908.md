@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–95][/us/pl/114/95], § 8025, added subsecs. (a) to (c) and struck out former subsecs. (a) to (d) which related to policy regarding access to student recruiting information, notification of requirements of this section, exception for private secondary school that maintains a religious objection to service in the Armed Forces, and special rule regarding Connecticut State law, respectively.
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 8025, added subsecs. (a) to (c) and struck out former subsecs. (a) to (d) which related to policy regarding access to student recruiting information, notification of requirements of this section, exception for a private secondary school that maintains a religious objection to service in the Armed Forces, and special rule regarding Connecticut State law, respectively.
 
  __Effective Date of 2015 Amendment__ 
 

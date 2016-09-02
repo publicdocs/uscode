@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6661, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2201, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1642][/us/stat/115/1642], set forth purpose of part B of former subchapter II of this chapter and defined terms, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913].
+    A prior section 6661, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2201, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1642][/us/stat/115/1642], set forth purpose of part B of former subchapter II of this chapter and defined terms, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Another prior section 6661, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2251, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 101(a)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–391, set forth purposes of former part relating to reading and literacy grants, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -79,8 +79,8 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1642
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337

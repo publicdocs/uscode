@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1401(11)(A), designated existing provisions as subsec. (a) and inserted heading.
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 1401(11)(A), designated existing provisions as subsec. (a) and inserted subsec. heading.
 
     Subsec. (a)(2). [Pub. L. 114–95][/us/pl/114/95], § 1401(11)(B), struck out “, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members” after “at-risk children and youth”.
 

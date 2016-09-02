@@ -71,7 +71,7 @@
 
         (2) programs and activities under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)][/us/usc/t42/s9836/d/2]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-        (3) activities under the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3101][/us/usc/t29/s3101] et seq.\] (including activities under section 121(e) of such Act \[[29 U.S.C. 3151(e)][/us/usc/t29/s3151/e]\]));  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second closing parenthesis probably should not appear. </sup></sup>  and
+        (3) activities under the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3101][/us/usc/t29/s3101] et seq.\] (including activities under section 121(e) of such Act \[[29 U.S.C. 3151(e)][/us/usc/t29/s3151/e]\]));  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The second closing parenthesis probably should not appear. </sup></sup>  and
 
         (4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
 

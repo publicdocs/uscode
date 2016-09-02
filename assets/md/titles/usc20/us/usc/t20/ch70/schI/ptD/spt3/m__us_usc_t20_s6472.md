@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2015—Par. (2). [Pub. L. 114–95][/us/pl/114/95] inserted “dependency adjudication, or delinquency adjudication,” after “failure,” inserted “or child welfare system” after “juvenile justice system”, and substituted “is an English learner” for “has limited English proficiency”.
+    2015—Par. (2). [Pub. L. 114–95][/us/pl/114/95] inserted “dependency adjudication, or delinquency adjudication,” after “failure,”, inserted “or child welfare system” after “juvenile justice system”, and substituted “is an English learner” for “has limited English proficiency”.
 
  __Effective Date of 2015 Amendment__ 
 

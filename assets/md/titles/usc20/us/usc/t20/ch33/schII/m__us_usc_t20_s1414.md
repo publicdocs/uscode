@@ -581,7 +581,7 @@
 
  __References in Text__ 
 
-    [Section 6368(3) of this title][/us/usc/t20/s6368/3], as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), was in the original “section 1208(3) of the Elementary and Secondary Education Act of 1965, as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 1208(3) of Pub. L. 89–10][/us/pl/89/10/s1208/3] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 6368 of this title][/us/usc/t20/s6368] was omitted from the Code in the general amendment of part B of title I of [Pub. L. 89–10][/us/pl/89/10] by [section 1201 of Pub. L. 114–95][/us/pl/114/95/s1201], effective Dec. 10, 2015.
+    [Section 6368(3) of this title][/us/usc/t20/s6368/3], as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means [section 6368(3) of this title][/us/usc/t20/s6368/3] prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1201, Dec. 10, 2015, [129 Stat. 1879][/us/stat/129/1879].
 
  __Prior Provisions__ 
 
@@ -630,11 +630,9 @@
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2182
 [/us/usc/t20/s6368/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368%2F3
-[/us/pl/89/10/s1208/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1208%2F3
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
-[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/114/95/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs1201
+[/us/usc/t20/s6368/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368%2F3
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1879
 [/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F81

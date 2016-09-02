@@ -113,7 +113,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6321, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1120, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3557][/us/stat/108/3557], related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6320 of this title][/us/usc/t20/s6320].
+    A prior section 6321, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1120, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3557][/us/stat/108/3557], related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 1118 of Pub. L. 89–10][/us/pl/89/10/s1118] was renumbered section 1116 and is classified to [section 6318 of this title][/us/usc/t20/s6318].
 
@@ -123,7 +123,7 @@
 
     2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1012(1), made technical amendment to reference in original act which appears in text as reference to [section 7901 of this title][/us/usc/t20/s7901].
 
-    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 1012(2), added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) relating to general use of funds only to supplement and not to supplant non-Federal funds and special rule not requiring a local educational agency to provide services through a particular instructional method or in a particular instructional setting.
+    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 1012(2), added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) relating to general use of funds only to supplement and not to supplant non-Federal funds and special rule that no local educational agency be required to provide services through a particular instructional method or in a particular instructional setting.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -146,7 +146,6 @@
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3557
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/usc/t20/s6320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6320
 [/us/pl/89/10/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1118
 [/us/usc/t20/s6318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6318
 [/us/pl/89/10/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1118

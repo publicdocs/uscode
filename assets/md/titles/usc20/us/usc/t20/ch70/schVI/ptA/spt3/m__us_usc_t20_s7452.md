@@ -121,11 +121,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 7452, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6132, formerly title VII, § 7132, as added [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 701, Jan. 8, 2002, [115 Stat. 1924][/us/stat/115/1924]; renumbered title VI, § 6132, [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6001(a), (b)(1), Dec. 10, 2015, [129 Stat. 2046][/us/stat/129/2046], related to in-service training for teachers of Indian children, prior to repeal by [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6002(n)(1), Dec. 10, 2015, [129 Stat. 2057][/us/stat/129/2057], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7452, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6132, formerly title VII, § 7132, as added [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 701, Jan. 8, 2002, [115 Stat. 1924][/us/stat/115/1924]; renumbered title VI, § 6132, [Pub. L. 114–95, title VI][/us/pl/114/95/tVI], § 6001(a), (b)(1), Dec. 10, 2015, [129 Stat. 2046][/us/stat/129/2046], related to in-service training for teachers of Indian children, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title VI, § 6002(n)(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Another prior section 7452, [Pub. L. 89–10, title VII][/us/pl/89/10/tVII], § 7132, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3729][/us/stat/108/3729], related to research activities, prior to the general amendment of former subchapter VII of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 6132 of Pub. L. 89–10][/us/pl/89/10/s6132] was classified to [section 7311a of this title][/us/usc/t20/s7311a], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–95][/us/pl/114/95], § 6001(p), amended section generally. Prior to amendment, section related to grants to Indian tribes for education administrative planning and development.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -152,14 +156,15 @@
 [/us/stat/115/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1924
 [/us/pl/114/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVI
 [/us/stat/129/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2046
-[/us/pl/114/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVI
-[/us/stat/129/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2057
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtVII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3729
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s6132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs6132
 [/us/usc/t20/s7311a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7311a
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

@@ -285,13 +285,13 @@
 
     Section 2202(b) of this Act (as in effect on the day before January 8, 2002), referred to in subsec. (b)(1)(A)(i), is [section 2202(b) of Pub. L. 89–10][/us/pl/89/10/s2202/b], as added by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3621][/us/stat/108/3621], which was classified to [section 6642(b) of this title][/us/usc/t20/s6642/b] prior to the general amendment of this subchapter by [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1620][/us/stat/115/1620].
 
-    Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (b)(1)(A)(ii), is section 1(a)(1) \[title III, § 306\] of [Pub. L. 106–554][/us/pl/106/554], Nov. 29, 1999, [113 Stat. 2763][/us/stat/113/2763], 2763A–41, which is not classified to the Code.
+    Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (b)(1)(A)(ii), is section 1(a)(1) \[title III, § 306\] of [Pub. L. 106–554][/us/pl/106/554], Nov. 29, 1999, [114 Stat. 2763][/us/stat/114/2763], 2763A–41, which is not classified to the Code.
 
  __Prior Provisions__ 
 
-    A prior section 6611, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2111, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1621][/us/stat/115/1621], related to allotments to States, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913].
+    A prior section 6611, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2111, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1621][/us/stat/115/1621], related to allotments to States, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-    A prior [section 2101 of Pub. L. 89–10][/us/pl/89/10/s2101] was classified to [section 6601 of this title][/us/usc/t20/s6601], prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913].
+    A prior [section 2101 of Pub. L. 89–10][/us/pl/89/10/s2101] was classified to [section 6601 of this title][/us/usc/t20/s6601], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior [section 2101 of Pub. L. 89–10][/us/pl/89/10/s2101] was classified to [section 6621 of this title][/us/usc/t20/s6621], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -328,16 +328,15 @@
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1620
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/stat/113/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F2763
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1621
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2101
 [/us/usc/t20/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6601
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/89/10/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2101
 [/us/usc/t20/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6621
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

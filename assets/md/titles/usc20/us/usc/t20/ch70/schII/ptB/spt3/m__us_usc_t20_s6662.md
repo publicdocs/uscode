@@ -111,7 +111,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 6662, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2202, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1644][/us/stat/115/1644], related to grants for mathematics and science partnerships, prior to repeal by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913].
+    A prior section 6662, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2202, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1644][/us/stat/115/1644], related to grants for mathematics and science partnerships, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+    A prior [section 2202 of Pub. L. 89–10][/us/pl/89/10/s2202] was classified to [section 6642 of this title][/us/usc/t20/s6642], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+    Another prior [section 2202 of Pub. L. 89–10][/us/pl/89/10/s2202] was classified to [section 3012 of this title][/us/usc/t20/s3012], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
  __Effective Date__ 
 
@@ -151,7 +155,7 @@
 
 >     “The Secretary may award grants to the National History Day Program for the purpose of continuing and expanding its activities to promote the study of history and improve instruction.”
 
-    \[[Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(j), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168], which directed substitution of “to carry out section 2232 of the Elementary and Secondary Education Act of 1965” for “to carry out part D of title V of the Elementary and Secondary Education Act of 1965”, was executed by making the substitution for “to carry out part D of title V of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7241][/us/usc/t20/s7241] et seq.)” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(j), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168], which directed amendment of [section 2(d) of Pub. L. 108–474][/us/pl/108/474/s2/d], set out above, by substituting “to carry out section 2232 of the Elementary and Secondary Education Act of 1965” for “to carry out part D of title V of the Elementary and Secondary Education Act of 1965”, was executed by making the substitution for “to carry out part D of title V of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7241][/us/usc/t20/s7241] et seq.)” to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -167,8 +171,15 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1644
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
+[/us/pl/89/10/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2202
+[/us/usc/t20/s6642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6642
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2202
+[/us/usc/t20/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3012
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F474
@@ -178,6 +189,7 @@
 [/us/usc/t20/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6662
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2168
+[/us/pl/108/474/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F474%2Fs2%2Fd
 [/us/usc/t20/s7241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7241
 
 

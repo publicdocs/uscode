@@ -163,11 +163,11 @@
 
         (3) __Reporting__ 
 
-        Each eligible entity that receives a grant under this subpart for activities described in this section shall annually collect and report to the Secretary data on the performance indicators described in paragraph (2) for use by the Secretary in making a determination concerning continuation funding and grant extension under [section 7273(b) of this title][/us/usc/t20/s7273/b] for each eligible entity.
+            Each eligible entity that receives a grant under this subpart for activities described in this section shall annually collect and report to the Secretary data on the performance indicators described in paragraph (2) for use by the Secretary in making a determination concerning continuation funding and grant extension under [section 7273(b) of this title][/us/usc/t20/s7273/b] for each eligible entity.
 
-            (i) __Evaluation__ 
+    (i) __Evaluation__ 
 
-                The Secretary shall reserve not more than 5 percent of the funds made available under [section 7251(b)(2)(A) of this title][/us/usc/t20/s7251/b/2/A] to provide technical assistance and evaluate the implementation and impact of the activities funded under this section, in accordance with [section 7981 of this title][/us/usc/t20/s7981].
+        The Secretary shall reserve not more than 5 percent of the funds made available under [section 7251(b)(2)(A) of this title][/us/usc/t20/s7251/b/2/A] to provide technical assistance and evaluate the implementation and impact of the activities funded under this section, in accordance with [section 7981 of this title][/us/usc/t20/s7981].
 
 ([Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4624, as added [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4601, Dec. 10, 2015, [129 Stat. 2026][/us/stat/129/2026].)
 

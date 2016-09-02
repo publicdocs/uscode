@@ -105,11 +105,11 @@
 
  __Prior Provisions__ 
 
-    Prior sections 7301 to 7301b were repealed by [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(b)(1), Dec. 10, 2015, [129 Stat. 2040][/us/stat/129/2040], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7301 to 7301b were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title V, § 5001(b)(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7301, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6111, formerly title VI, § 6111, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1873][/us/stat/115/1873]; renumbered title V, § 6111, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], related to grants for State assessments and related activities.
 
-    Another prior section 7301, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6001, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3707][/us/stat/108/3707], set forth findings and purpose, prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 7301, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6001, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3707][/us/stat/108/3707], set forth findings and purpose, prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Section 7301a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6112, formerly title VI, § 6112, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1874][/us/stat/115/1874]; renumbered title V, § 6112, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], related to grants for enhanced assessment instruments.
 
@@ -138,8 +138,8 @@
 [/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2037
-[/us/pl/114/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtV
-[/us/stat/129/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2040
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVI
 [/us/stat/115/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1873

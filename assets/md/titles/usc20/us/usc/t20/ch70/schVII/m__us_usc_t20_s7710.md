@@ -67,7 +67,7 @@
 
     2015—[Pub. L. 114–95][/us/pl/114/95], § 7001(a)(1), repealed [Pub. L. 112–239][/us/pl/112/239], § 563(c)(4). See 2013 Amendment notes below.
 
-    Subsec. (c)(1). [Pub. L. 114–95][/us/pl/114/95], § 7010(1)(A), made technical amendment to reference in original act which appears in heading as reference to [section 7703(a)(1) of this title][/us/usc/t20/s7703/a/1].
+    Subsec. (c)(1). [Pub. L. 114–95][/us/pl/114/95], § 7010(1)(A), made technical amendment to reference in original act which appears in heading as reference to section 7703(a)(1).
 
     Subsec. (c)(1)(A), (B). [Pub. L. 114–95][/us/pl/114/95], § 7001(d)(3), made technical amendment to reference in original act which appears in text as reference to [section 7703(a)(1) of this title][/us/usc/t20/s7703/a/1].
 
@@ -77,7 +77,7 @@
 
     Subsec. (d)(2). [Pub. L. 114–95][/us/pl/114/95], § 7010(2), made technical amendment to reference in original act which appears in text as reference to [section 7714 of this title][/us/usc/t20/s7714].
 
-    2013—[Pub. L. 112–239][/us/pl/112/239], § 563(c)(4), which directed repeal of the amendments by [Pub. L. 112–239][/us/pl/112/239], § 563(b)(1), on the day after the 5-year period that began on Jan. 3, 2013, was itself repealed by [Pub. L. 114–95][/us/pl/114/95], § 7001(a)(1).
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 563(c)(4), which directed repeal of the amendment by [Pub. L. 112–239][/us/pl/112/239], § 563(b)(3)(B), on the day after the 5-year period that began on Jan. 3, 2013, was itself repealed by [Pub. L. 114–95][/us/pl/114/95], § 7001(a)(1).
 
     Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239], § 563(b)(3)(A), substituted “paragraph (2)” for “paragraph (3) of this subsection” in subpars. (A) and (B).
 
@@ -121,7 +121,6 @@
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
-[/us/usc/t20/s7703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7703%2Fa%2F1
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7703%2Fa%2F1
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95

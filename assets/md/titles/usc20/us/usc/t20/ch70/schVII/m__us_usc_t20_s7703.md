@@ -543,7 +543,7 @@
 
     Subsec. (a)(5)(A). [Pub. L. 114–95][/us/pl/114/95], § 7004(1), substituted “or under lease of off-base property under subchapter IV of chapter 169 of title 10, to be children described under paragraph (1)(B), if the property described is—” for “to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.” and added cls. (i) and (ii).
 
-    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 7001(d)(10), made technical amendment to references in original act which appear in text as references to [section 7714(b) of this title][/us/usc/t20/s7714/b] wherever appearing.
+    Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 7001(d)(10), made technical amendment to references in original act which appear in text as references to [section 7714(b) of this title][/us/usc/t20/s7714/b] in pars. (1)(A), (2)(A)(i), and (3)(A).
 
     Subsec. (b)(1)(E) to (G). [Pub. L. 114–95][/us/pl/114/95], § 7004(2)(A), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which provided special rule for determining comparable local contribution rate.
 

@@ -47,7 +47,7 @@
 
         (2) __Definition of eligible entity__ 
 
-            For purposes of this subsection, the term ‘eligible entity’ means a charter management organization.
+            For purposes of this subsection, the term “eligible entity” means a charter management organization.
 
         (3) __Application requirements__ 
 
@@ -133,7 +133,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7221d, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4305, formerly title V, § 5205, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1795][/us/stat/115/1795]; renumbered title IV, § 4305, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], related to national activities, prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4301(1), Dec. 10, 2015, [129 Stat. 1993][/us/stat/129/1993], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    A prior section 7221d, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4305, formerly title V, § 5205, as added [Pub. L. 107–110, title V][/us/pl/107/110/tV], § 501, Jan. 8, 2002, [115 Stat. 1795][/us/stat/115/1795]; renumbered title IV, § 4305, [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967], related to national activities, prior to repeal by [Pub. L. 114–95][/us/pl/114/95], § 5, title IV, § 4301(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
  __Effective Date__ 
 
@@ -163,8 +163,8 @@
 [/us/stat/115/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1795
 [/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
 [/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
-[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
-[/us/stat/129/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1993
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

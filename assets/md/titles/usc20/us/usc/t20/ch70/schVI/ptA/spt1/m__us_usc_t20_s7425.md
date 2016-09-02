@@ -87,7 +87,7 @@
 
     2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(5)(A)(i), made technical amendment to reference in original act which appears in text of introductory provisions as reference to [section 7421 of this title][/us/usc/t20/s7421].
 
-    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 6002(g)(1)(A), inserted “solely for the services and activities described in such application” before semicolon.
+    Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 6002(g)(1)(A), inserted “solely for the services and activities described in such application” before semicolon.
 
     [Pub. L. 114–95][/us/pl/114/95], § 6001(b)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to [section 7424(a) of this title][/us/usc/t20/s7424/a].
 

@@ -27,7 +27,7 @@
 
     The Task Force shall—
 
-        (1) examine principal data required for programs under the Adult Education Act, the Carl D. Perkins Vocational and Applied Technology Education Act, the Job Training Partnership Act, the Rehabilitation Act of 1973, and the Wagner-Peyser Act \[[29 U.S.C. 49][/us/usc/t29/s49] et seq.\];
+        (1) examine principal data required for programs under the Adult Education Act, the Carl D. Perkins Vocational and Applied Technology Education Act, the Job Training Partnership Act, the Rehabilitation Act of 1973 \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\], and the Wagner-Peyser Act \[[29 U.S.C. 49][/us/usc/t29/s49] et seq.\];
 
         (2) examine possible common objectives, definitions, measures, and standards for such programs; and
 
@@ -76,6 +76,7 @@
 ----------
 ----------
 
+[/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
 [/us/stat/104/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F758

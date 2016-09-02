@@ -113,8 +113,6 @@
 
     The Americans with Disabilities Act of 1990, referred to in par. (2)(G), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
-    The Family Educational Rights and Privacy Act of 1974, referred to in par. (2)(G), is [section 513 of Pub. L. 93–380][/us/pl/93/380/s513], title V, Aug. 21, 1974, [88 Stat. 571][/us/stat/88/571], which enacted [section 1232g of this title][/us/usc/t20/s1232g] and provisions set out as notes under sections 1221 and 1232g of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1221 of this title][/us/usc/t20/s1221] and Tables.
-
     The Individuals with Disabilities Education Act, referred to in par. (2)(G), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
  __Amendments__ 
@@ -125,7 +123,7 @@
 
     Par. (2). [Pub. L. 114–95][/us/pl/114/95], § 4301(4)(B), redesignated par. (1) as (2). Former par. (2) redesignated (5).
 
-    Par. (2)(G). [Pub. L. 114–95][/us/pl/114/95], § 4301(4)(D)(i), substituted “, the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.), [section 1232g of this title][/us/usc/t20/s1232g] (commonly referred to as the “Family Educational Rights and Privacy Act of 1974”), and part B” for “, and part B”.
+    Par. (2)(G). [Pub. L. 114–95][/us/pl/114/95], § 4301(4)(D)(i), substituted “, the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.), [section 1232g of this title][/us/usc/t20/s1232g] (commonly referred to as the ‘Family Educational Rights and Privacy Act of 1974’), and part B” for “, and part B”.
 
     Par. (2)(H). [Pub. L. 114–95][/us/pl/114/95], § 4301(4)(D)(ii), added subpar. (H) and struck out former subpar. (H) which read as follows: “is a school to which parents choose to send their children, and that admits students on the basis of a lottery, if more students apply for admission than can be accommodated;”.
 
@@ -180,10 +178,6 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/380/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs513
-[/us/stat/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F571
-[/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400

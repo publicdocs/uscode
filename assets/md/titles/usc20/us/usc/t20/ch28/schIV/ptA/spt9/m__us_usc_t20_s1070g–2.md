@@ -105,7 +105,7 @@
 
  __References in Text__ 
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1)(E), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(1) of Pub. L. 114–95][/us/pl/114/95/s9214/a/1], set out as a Use of the Term “Highly Qualified” in Other Laws note below.
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1)(E), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. A reference in this section to the term “highly qualified” as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. See [section 9214(a)(1) of Pub. L. 114–95][/us/pl/114/95/s9214/a/1], set out as a Use of the Term “Highly Qualified” in Other Laws note below.
 
  __Amendments__ 
 

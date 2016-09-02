@@ -49,15 +49,15 @@
 
     Amendment by [Pub. L. 96–374][/us/pl/96/374] effective Oct. 1, 1980, see [section 1393(a) of Pub. L. 96–374][/us/pl/96/374/s1393/a], set out as a note under [section 1001 of this title][/us/usc/t20/s1001].
 
- __Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions__ 
-
-    Applicability of contingent extension provisions to any program of financial assistance for educational purposes for Indochinese refugee children, see [section 327 of Pub. L. 94–482][/us/pl/94/482/s327], set out as a note under [section 1225 of this title][/us/usc/t20/s1225].
-
  __Additional Extensions Not Permitted__ 
 
 [Pub. L. 114–105][/us/pl/114/105], § 2(c), Dec. 18, 2015, [129 Stat. 2220][/us/stat/129/2220], provided that: 
 
 > “Section 422 of the General Education Provisions Act ([20 U.S.C. 1226a][/us/usc/t20/s1226a]) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 ([20 U.S.C. 1087aa(b)][/us/usc/t20/s1087aa/b]), as amended by subsection (a)(1) of this section, beyond September 30, 2017, on the basis of the extension under such subsection.”
+
+ __Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions__ 
+
+    Applicability of contingent extension provisions to any program of financial assistance for educational purposes for Indochinese refugee children, see [section 327 of Pub. L. 94–482][/us/pl/94/482/s327], set out as a note under [section 1225 of this title][/us/usc/t20/s1225].
 
  __Limitation on Extension of Programs__ 
 
@@ -88,12 +88,12 @@
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/96/374/s1393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/94/482/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs327
-[/us/usc/t20/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1225
 [/us/pl/114/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F105
 [/us/stat/129/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2220
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
 [/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
+[/us/pl/94/482/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs327
+[/us/usc/t20/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1225
 [/us/pl/94/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F328
 [/us/stat/90/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F727
 [/us/usc/t42/s2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756

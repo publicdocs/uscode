@@ -391,7 +391,7 @@
 
 >     “(1)  __Effective date__  __.—__ 
 
->     With respect to applications submitted under section 8002 \[now section 7002\] of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7702][/us/usc/t20/s7702]\], as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\], for fiscal year 2010, title VIII \[now title VII\] of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\] (including the amendments made by subsection (b)(1) \[amending this section\]), as in effect on such date, and subsection (b)(1) shall take effect with respect to such applications, notwithstanding section 8005(d) \[now section 7005(d)\] of such Act \[[20 U.S.C. 7705(d)][/us/usc/t20/s7705/d]\], as in effect on such date.
+>     With respect to applications submitted under section 8002 \[now 7002\] of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7702][/us/usc/t20/s7702]\], as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\], for fiscal year 2010, title VIII \[now VII\] of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\] (including the amendments made by subsection (b)(1) \[amending this section\]), as in effect on such date, and subsection (b)(1) shall take effect with respect to such applications, notwithstanding section 8005(d) \[now 7005(d)\] of such Act \[[20 U.S.C. 7705(d)][/us/usc/t20/s7705/d]\], as in effect on such date.
 
 >     “(2)  __Implementation__  __.—__ 
 
@@ -407,7 +407,7 @@
 
  __Consolidations__ 
 
-    [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 309, Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400], allowed a local educational agency formed by the consolidation of 2 or more former school districts to elect to have the Secretary determine its eligibility for fiscal year 2006 and any succeeding fiscal year on the basis of 1 or more of such former districts, prior to repeal by [Pub. L. 114–95, title VII][/us/pl/114/95/tVII], § 7001(b), Dec. 10, 2015, [129 Stat. 2074][/us/stat/129/2074].
+    [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 309, Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400], allowed a local educational agency formed by the consolidation of 2 or more former school districts to elect to have the Secretary of Education determine its eligibility for fiscal year 2006 and any succeeding fiscal year on the basis of 1 or more of such former districts, prior to repeal by [Pub. L. 114–95, title VII][/us/pl/114/95/tVII], § 7001(b), Dec. 10, 2015, [129 Stat. 2074][/us/stat/129/2074].
 
 ----------
 

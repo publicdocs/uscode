@@ -125,17 +125,17 @@
 
     Another prior [section 5103 of Pub. L. 89–10][/us/pl/89/10/s5103] was classified to [section 3173 of this title][/us/usc/t20/s3173], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
-    Prior sections 7311 to 7311b, 7315 to 7315c, 7321 to 7321e, and 7325 to 7325c were repealed by [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(b)(1), Dec. 10, 2015, [129 Stat. 2040][/us/stat/129/2040], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 7311 to 7311b, 7315 to 7315c, 7321 to 7321e, and 7325 to 7325c were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title V, § 5001(b)(1), Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 7311, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6131, formerly title VI, § 6131, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1878][/us/stat/115/1878]; renumbered title V, § 6131, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], provided that former subpart 3 of this part could be cited as the “State and Local Flexibility Demonstration Act”.
 
-    Another prior section 7311, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6101, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3708][/us/stat/108/3708], related to allotment to States, prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 7311, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6101, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3708][/us/stat/108/3708], related to allotment to States, prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Section 7311a, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6132, formerly title VI, § 6132, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1878][/us/stat/115/1878]; renumbered title V, § 6132, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], stated the purpose of former subpart 3 of this part.
 
     Section 7311b, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6133, formerly title VI, § 6133, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1878][/us/stat/115/1878]; renumbered title V, § 6133, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], provided that any State that is one local educational agency would be considered a State educational agency and not a local educational agency.
 
-    A prior section 7312, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6102, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3708][/us/stat/108/3708], which related to allocation to local educational agencies, was omitted in the general amendment of former subchapter VI by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 7312, [Pub. L. 89–10, title VI][/us/pl/89/10/tVI], § 6102, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3708][/us/stat/108/3708], which related to allocation to local educational agencies, was omitted in the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
     Section 7315, [Pub. L. 89–10, title V][/us/pl/89/10/tV], § 6141, formerly title VI, § 6141, as added [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 601, Jan. 8, 2002, [115 Stat. 1879][/us/stat/115/1879]; renumbered title V, § 6141, [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(a), Dec. 10, 2015, [129 Stat. 2039][/us/stat/129/2039], related to State flexibility.
 
@@ -232,8 +232,8 @@
 [/us/usc/t20/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3173
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/114/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtV
-[/us/stat/129/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2040
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtV
 [/us/pl/107/110/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVI
 [/us/stat/115/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1878

@@ -237,7 +237,9 @@
 
  __Amendments__ 
 
-    2015—Pars. (9) to (11), (16), and (21). [Pub. L. 114–95][/us/pl/114/95] made technical amendments to references in original act which appear in text as references to [section 7801 of this title][/us/usc/t20/s7801].
+    2015—Pars. (9) to (11), (16). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(1)(A)–(D), made technical amendments to references in original act which appear in text as references to [section 7801 of this title][/us/usc/t20/s7801].
+
+    Par. (20). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(1)(E), which directed technical amendment in par. (21) to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801], was executed by making the amendment in par. (20), to reflect the probable intent of Congress. The reference did not appear in par. (21).
 
     2008—[Pub. L. 110–315][/us/pl/110/315], § 103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
 
@@ -425,6 +427,8 @@
 [/us/stat/87/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F59
 [/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2085
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

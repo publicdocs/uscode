@@ -35,7 +35,7 @@
 
     2010—Par. (1). [Pub. L. 111–340][/us/pl/111/340] inserted “includes museums that have tangible and digital collections and” after “Such term”.
 
-    2003—Par. (1). [Pub. L. 108–81][/us/pl/108/81], § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”(4) Section 274(d) ([20 U.S.C. 9173(d)][/us/usc/t20/s9173/d]) is amended by striking “represent Native Hawaiians (as defined in [section 7517 of this title][/us/usc/t20/s7517]),” and inserting “represent Native Hawaiians (as defined in [section 7517 of this title][/us/usc/t20/s7517]),”.
+    2003—Par. (1). [Pub. L. 108–81][/us/pl/108/81], § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”
 
 ----------
 
@@ -55,8 +55,5 @@
 [/us/usc/t20/s9173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173
 [/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
-[/us/usc/t20/s9173/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173%2Fd
-[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
-[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 
 

@@ -29,6 +29,8 @@
 
     A prior [section 4112 of Pub. L. 89–10][/us/pl/89/10/s4112] was classified to [section 7112 of this title][/us/usc/t20/s7112], prior to the general amendment of this subpart by [Pub. L. 114–95][/us/pl/114/95].
 
+    Another prior [section 4112 of Pub. L. 89–10][/us/pl/89/10/s4112] was classified to [section 7112 of this title][/us/usc/t20/s7112], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
  __Effective Date__ 
 
     Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
@@ -47,6 +49,9 @@
 [/us/pl/89/10/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4112
 [/us/usc/t20/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7112
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/89/10/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4112
+[/us/usc/t20/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7112
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 

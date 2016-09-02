@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–95][/us/pl/114/95] amended section generally. Prior to amendment, text related to purposes of this part to assist States: (1) to support high-quality and comprehensive educational programs for migratory children; (2) to ensure that migratory children who move among the States are not penalized in any manner by disparities among the States; (3) to ensure that migratory children are provided with appropriate educational services; (4) to ensure that migratory children receive full and appropriate opportunities to meet challenging State standards; (5) to design programs to help migratory children overcome educational disruption and other factors that inhibit their ability to do well in school; and (6) to ensure that migratory children benefit from State and local systemic reforms.
+    2015—[Pub. L. 114–95][/us/pl/114/95] amended section generally. Prior to amendment, section related to purposes of this part to assist States: (1) to support high-quality and comprehensive educational programs for migratory children; (2) to ensure that migratory children who move among the States are not penalized in any manner by disparities among the States; (3) to ensure that migratory children are provided with appropriate educational services; (4) to ensure that migratory children receive full and appropriate opportunities to meet challenging State standards; (5) to design programs to help migratory children overcome educational disruption and other factors that inhibit their ability to do well in school; and (6) to ensure that migratory children benefit from State and local systemic reforms.
 
  __Effective Date of 2015 Amendment__ 
 

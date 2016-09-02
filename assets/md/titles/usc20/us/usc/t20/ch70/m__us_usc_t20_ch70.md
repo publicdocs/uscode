@@ -675,7 +675,7 @@ SUBCHAPTER II—PREPARING, TRAINING, AND RECRUITING HIGH-QUALITY TEACHERS, PRINC
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6603" data-uslm-ref="/us/usc/t20/s6603">6603.</a>  </td>
 
-    <td> Authorizations of appropriations.  </td>
+    <td> Authorization of appropriations.  </td>
 
   </tr>
 
@@ -2187,7 +2187,7 @@ subpart 3—national activities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7454" data-uslm-ref="/us/usc/t20/s7454">7454</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7456" data-uslm-ref="/us/usc/t20/s7456">7456.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 

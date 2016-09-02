@@ -19,7 +19,7 @@
 
         (1)
 
-         From the amount appropriated pursuant to [section 1087aa(b) of this title][/us/usc/t20/s1087aa/b] for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
+         From the amount appropriated pursuant to section 1087aa(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
 
             (A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
 
@@ -83,7 +83,7 @@
 
     (b) __Allocation of excess based on share of excess eligible amounts__ 
 
-        (1) From the remainder of the amount appropriated pursuant to [section 1087aa(b) of this title][/us/usc/t20/s1087aa/b] after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+        (1) From the remainder of the amount appropriated pursuant to section 1087aa(b) 1 of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
         (2)
 
@@ -91,7 +91,7 @@
 
             (A)
 
-                (i) that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to [section 1087aa(b) of this title][/us/usc/t20/s1087aa/b] for the fiscal year; exceeds
+                (i) that institution’s eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) 1 of this title for the fiscal year; exceeds
 
             (B) the amount required to be allocated to that institution under subsection (a) of this section,
 
@@ -317,6 +317,10 @@
 
 ([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 462, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 405(a), Oct. 17, 1986, [100 Stat. 1440][/us/stat/100/1440]; amended [Pub. L. 100–50][/us/pl/100/50], § 13(a)–(d), June 3, 1987, [101 Stat. 348][/us/stat/101/348]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 462, July 23, 1992, [106 Stat. 576][/us/stat/106/576]; [Pub. L. 103–208][/us/pl/103/208], § 2(f)(1)–(4), Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470], 2471; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 462(a)(1), (2), (b)–(e), Oct. 7, 1998, [112 Stat. 1720–1723][/us/stat/112/1720-1723]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 462, Aug. 14, 2008, [122 Stat. 3266][/us/stat/122/3266]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 405(1), July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
 
+ __References in Text__ 
+
+    [Section 1087aa of this title][/us/usc/t20/s1087aa], referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by [Pub. L. 114–105][/us/pl/114/105], § 2(a)(1)(B), Dec. 18, 2015, [129 Stat. 2219][/us/stat/129/2219], which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
+
  __Prior Provisions__ 
 
     A prior section 1087bb, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 462, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 137(b), June 23, 1972, [86 Stat. 273][/us/stat/86/273]; amended [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 448(a), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1443][/us/stat/94/1443], 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
@@ -512,9 +516,6 @@
 ----------
 ----------
 
-[/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
-[/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
-[/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
 [/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1440
@@ -530,6 +531,9 @@
 [/us/stat/122/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3266
 [/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1947
+[/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa
+[/us/pl/114/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F105
+[/us/stat/129/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2219
 [/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F273

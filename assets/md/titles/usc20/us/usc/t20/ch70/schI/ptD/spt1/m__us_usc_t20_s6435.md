@@ -49,7 +49,7 @@
 
                 (iii) afford such children and youth an opportunity to meet challenging State academic standards; and
 
-            (C) shall be carried out in a manner consistent with [section 6321 of this title][/us/usc/t20/s6321] and part F of this subchapter (as applied to programs and projects under this part).
+            (C) shall be carried out in a manner consistent with [section 6321 of this title][/us/usc/t20/s6321] and part F (as applied to programs and projects under this part).
 
     (b) __Supplement, not supplant__ 
 
@@ -73,7 +73,7 @@
 
     Subsec. (a)(2)(B)(iii). [Pub. L. 114–95][/us/pl/114/95], § 1401(4)(A)(ii)(II)(cc), substituted “challenging State academic standards” for “challenging State academic achievement standards” and inserted “and” after semicolon at end.
 
-    Subsec. (a)(2)(C). [Pub. L. 114–95][/us/pl/114/95], § 1401(4)(A)(ii)(III), substituted “[section 6321 of this title][/us/usc/t20/s6321] and part F” for “[section 6321 of this title][/us/usc/t20/s6321] and part I” and period for “; and” at end.
+    Subsec. (a)(2)(C). [Pub. L. 114–95][/us/pl/114/95], § 1401(4)(A)(ii)(III), made technical amendment to reference in original act which appears in text as reference to [section 6321 of this title][/us/usc/t20/s6321] and substituted “part F” for “part I” and period for “; and” at end.
 
     Subsec. (a)(2)(D). [Pub. L. 114–95][/us/pl/114/95], § 1401(4)(A)(ii)(IV), struck out subpar. (D) which read as follows: “may include the costs of meeting the evaluation requirements of [section 7941 of this title][/us/usc/t20/s7941].”
 
@@ -109,7 +109,6 @@
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
-[/us/usc/t20/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6321
 [/us/usc/t20/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6321
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7941

@@ -49,17 +49,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 6675, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2305, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1654][/us/stat/115/1654], related to participation by States in the Troops-to-Teachers Program, prior to repeal by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].
+    Prior sections 6675 to 6677 were repealed by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].
+
+    Section 6675, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2305, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1654][/us/stat/115/1654], related to participation by States in the Troops-to-Teachers Program.
 
     Another prior section 6675, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2305, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3635][/us/stat/108/3635], related to technical assistance, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior section 6676, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2306, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1654][/us/stat/115/1654], related to support of innovative preretirement teacher certification programs, prior to repeal by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].
+    Section 6676, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2306, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1654][/us/stat/115/1654], related to support of innovative preretirement teacher certification programs.
 
     Another prior section 6676, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2306, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3635][/us/stat/108/3635], related to matching funds from private sources, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior section 6677, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2307, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1655][/us/stat/115/1655]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(9), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], required a report not later than Mar. 31, 2006, on the effectiveness of the Troops-to-Teachers Program, prior to repeal by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].
+    Section 6677, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2307, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1655][/us/stat/115/1655]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(9), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], required a report not later than Mar. 31, 2006, on the effectiveness of the Troops-to-Teachers Program.
 
-    Prior sections 6681 to 6684 were repealed by [Pub. L. 114–95, title II][/us/pl/114/95/tII], § 2002, Dec. 10, 2015, [129 Stat. 1913][/us/stat/129/1913], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+    Prior sections 6681 to 6684 were repealed by [Pub. L. 114–95][/us/pl/114/95], § 5, title II, § 2002, Dec. 10, 2015, [129 Stat. 1806][/us/stat/129/1806], 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
     Section 6681, [Pub. L. 89–10, title II][/us/pl/89/10/tII], § 2311, as added [Pub. L. 107–110, title II][/us/pl/107/110/tII], § 201, Jan. 8, 2002, [115 Stat. 1655][/us/stat/115/1655], set forth purposes of division B of subpart 1 of part C of former subchapter II of this chapter.
 
@@ -84,11 +86,11 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
 [/us/stat/129/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1952
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
+[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1654
-[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
-[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3635
@@ -96,8 +98,6 @@
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1654
-[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
-[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3635
@@ -107,10 +107,8 @@
 [/us/stat/115/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1655
 [/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
-[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
-[/us/pl/114/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtII
-[/us/stat/129/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1913
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/stat/129/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1806
 [/us/pl/89/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtII
 [/us/pl/107/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtII
 [/us/stat/115/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1655

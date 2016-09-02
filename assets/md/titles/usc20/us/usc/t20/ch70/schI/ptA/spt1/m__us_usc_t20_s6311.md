@@ -23,7 +23,7 @@
 
             (A) developed by the State educational agency with timely and meaningful consultation with the Governor, members of the State legislature and State board of education (if the State has a State board of education), local educational agencies (including those located in rural areas), representatives of Indian tribes located in the State, teachers, principals, other school leaders, charter school leaders (if the State has charter schools), specialized instructional support personnel, paraprofessionals, administrators, other staff, and parents; and
 
-            (B) is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.), the Rehabilitation Act of 1973 ([20 U.S.C. 701][/us/usc/t20/s701] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([29 U.S.C. 701][/us/usc/t29/s701] et seq.),”. </sup></sup>  the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101][/us/usc/t29/s3101] et seq.), the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.), the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858]  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  et seq.), the Education Sciences Reform Act of 2002 ([20 U.S.C. 9501][/us/usc/t20/s9501] et seq.), the Education Technical Assistance Act of 2002 ([20 U.S.C. 9601][/us/usc/t20/s9601] et. seq.), the National Assessment of Educational Progress Authorization Act ([20 U.S.C. 9621][/us/usc/t20/s9621] et seq.), the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11301][/us/usc/t42/s11301] et seq.), and the Adult Education and Family Literacy Act ([29 U.S.C. 3271][/us/usc/t29/s3271] et seq.).
+            (B) is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.), the Rehabilitation Act of 1973 ([20 U.S.C. 701][/us/usc/t20/s701] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([29 U.S.C. 701][/us/usc/t29/s701] et seq.),”. </sup></sup>  the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101][/us/usc/t29/s3101] et seq.), the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.), the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.), <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “9857 et seq.),”. </sup></sup>  the Education Sciences Reform Act of 2002 ([20 U.S.C. 9501][/us/usc/t20/s9501] et seq.), the Education  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Educational”. </sup></sup>  Technical Assistance Act of 2002 ([20 U.S.C. 9601][/us/usc/t20/s9601] et. seq.), the National Assessment of Educational Progress Authorization Act ([20 U.S.C. 9621][/us/usc/t20/s9621] et seq.), the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11301][/us/usc/t42/s11301] et seq.), and the Adult Education and Family Literacy Act ([29 U.S.C. 3271][/us/usc/t29/s3271] et seq.).
 
         (2) __Limitation__ 
 
@@ -205,7 +205,7 @@
 
                     (IV) are designated in the individualized education program developed under section 614(d)(3) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)(3)][/us/usc/t20/s1414/d/3]) for each such student as the academic achievement standards that will be used for the student; and
 
-                    (V) are aligned to ensure that a student who meets the alternate academic achievement standards is on track to pursue postsecondary education or employment, consistent with the purposes of [Public Law 93–112][/us/pl/93/112], as in effect on July 22, 2014.
+                    (V) are aligned to ensure that a student who meets the alternate academic achievement standards is on track to pursue postsecondary education or employment, consistent with the purposes of [Public Law 93–112][/us/pl/93/112] \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\], as in effect on July 22, 2014.
 
                 (ii) __Prohibition on any other alternate or modified academic achievement standards__ 
 
@@ -333,7 +333,7 @@
 
                 (i) such student takes the end-of-course assessment the State typically administers to meet the requirements of subparagraph (B)(v)(I)(bb) in mathematics;
 
-                (ii) such student’s achievement on such end-of-course assessment is used for purposes of subsection (c)(4)(B)(i), in lieu of such student’s achievement on the mathematics assessment required under subparagraph (B)(v)(I)(aa), and such student is counted as participating in the assessment for purposes of subsection (c)(4)(B)(vi);  <sup>\[3\]</sup>  <sup><sup> 3 So in original. No subsec. (c)(4)(B)(vi) has been enacted. </sup></sup>  and
+                (ii) such student’s achievement on such end-of-course assessment is used for purposes of subsection (c)(4)(B)(i), in lieu of such student’s achievement on the mathematics assessment required under subparagraph (B)(v)(I)(aa), and such student is counted as participating in the assessment for purposes of subsection (c)(4)(B)(vi);  <sup>\[4\]</sup>  <sup><sup> 4 So in original. No subsec. (c)(4)(B)(vi) has been enacted. </sup></sup>  and
 
                 (iii)
 
@@ -385,7 +385,7 @@
 
                     (I) __Responsibility under IDEA__ 
 
-                        Subject to the authority and requirements for the individualized education program team for a child with a disability under section 614(d)(1)(A)(i)(VI)(bb) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)(1)(A)(i)(VI)(bb)][/us/usc/t20/s1414/d/1/A/i/VI/bb]), such team, consistent with the guidelines established by the State and required under section 612(a)(16)(C) of such Act ([20 U.S.C. 1412(c)(16)(C)][/us/usc/t20/s1412/c/16/C])  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “([20 U.S.C. 1412(a)(16)(C)][/us/usc/t20/s1412/a/16/C])”. </sup></sup>  and clause (i)(II) of this subparagraph, shall determine when a child with a significant cognitive disability shall participate in an alternate assessment aligned with the alternate academic achievement standards.
+                        Subject to the authority and requirements for the individualized education program team for a child with a disability under section 614(d)(1)(A)(i)(VI)(bb) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)(1)(A)(i)(VI)(bb)][/us/usc/t20/s1414/d/1/A/i/VI/bb]), such team, consistent with the guidelines established by the State and required under section 612(a)(16)(C) of such Act ([20 U.S.C. 1412(c)(16)(C)][/us/usc/t20/s1412/c/16/C])  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “([20 U.S.C. 1412(a)(16)(C)][/us/usc/t20/s1412/a/16/C])”. </sup></sup>  and clause (i)(II) of this subparagraph, shall determine when a child with a significant cognitive disability shall participate in an alternate assessment aligned with the alternate academic achievement standards.
 
                     (II) __Prohibition on local cap__ 
 
@@ -677,23 +677,23 @@
 
                     (II) For purposes of subclause (I), the State may include measures of—
 
-                    (III)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Designations (III) to (VIII) probably should be (aa) to (ff), respectively. </sup></sup>  student engagement;
+                    (III)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Designations (III) to (VIII) probably should be (aa) to (ff), respectively. </sup></sup>  student engagement;
 
-                    (IV) 5 educator engagement;
+                    (IV) 6 educator engagement;
 
-                    (V) 5 student access to and completion of advanced coursework;
+                    (V) 6 student access to and completion of advanced coursework;
 
-                    (VI) 5 postsecondary readiness;
+                    (VI) 6 postsecondary readiness;
 
-                    (VII) 5 school climate and safety; and
+                    (VII) 6 school climate and safety; and
 
-                    (VIII) 5 any other indicator the State chooses that meets the requirements of this clause.
+                    (VIII) 6 any other indicator the State chooses that meets the requirements of this clause.
 
             (C) __Annual meaningful differentiation__ 
 
             Establish a system of meaningfully differentiating, on an annual basis, all public schools in the State, which shall—
 
-                (i) be based on all indicators in the State’s accountability system under subparagraph (B), for all students and for each of subgroup of students, consistent with the requirements of such subparagraph;
+                (i) be based on all indicators in the State’s accountability system under subparagraph (B), for all students and for each of  <sup>\[7\]</sup>  <sup><sup> 7 So in original. The word “of” probably should not appear. </sup></sup>  subgroup of students, consistent with the requirements of such subparagraph;
 
                 (ii)
 
@@ -1121,7 +1121,7 @@
 
                     (VI) the exit criteria established by the State as required under clause (i) of subsection (d)(3)(A), including the length of years established under clause (i)(II) of such subsection.
 
-                (ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in [section 101(a)(4) of title 10][/us/usc/t10/s101/a/4]) on active duty (as defined in section 101(d)(5) <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “101(d)(1)”. </sup></sup>  of such title), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
+                (ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in [section 101(a)(4) of title 10][/us/usc/t10/s101/a/4]) on active duty (as defined in section 101(d)(5) <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “101(d)(1)”. </sup></sup>  of such title), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
 
                 (iii)
 
@@ -1370,6 +1370,7 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1414/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F3
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t20/s1401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2F3
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1414/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FA

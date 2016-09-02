@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 1401(1)(A), inserted “, tribal,” after “youth in local”.
+    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 1401(1)(A), inserted “, tribal,” after “youth in local” and substituted “challenging State academic standards” for “challenging State academic content standards and challenging State student academic achievement standards”.
 
     Subsec. (a)(3). [Pub. L. 114–95][/us/pl/114/95], § 1401(1)(B), inserted “and the involvement of their families and communities” after “to ensure their continued education”.
 

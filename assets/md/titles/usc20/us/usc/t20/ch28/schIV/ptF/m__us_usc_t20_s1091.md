@@ -127,7 +127,7 @@
 
             (A) aligns with the skill needs of industries in the economy of the State or regional economy involved;
 
-            (B) prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; [50 Stat. 664][/us/stat/50/664], chapter 663; [29 U.S.C. 50][/us/usc/t29/s50] et seq.) (referred to individually in this chapter as an “apprenticeship”, except in section 171); 1
+            (B) prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; [50 Stat. 664][/us/stat/50/664], chapter 663; [29 U.S.C. 50][/us/usc/t29/s50] et seq.) (referred to individually in this chapter and part C of subchapter I of chapter 34 of title 42 as an “apprenticeship”, except in section 171); 1
 
             (C) includes counseling to support an individual in achieving the individual’s education and career goals;
 
@@ -461,9 +461,9 @@
 
     [Section 1078–1 of this title][/us/usc/t20/s1078–1], referred to in subsec. (b)(2), was repealed by [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4047(b)–(d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 418, Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691].
 
-    The National Apprenticeship Act, referred to in subsec. (d)(2)(B), is [act Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], [50 Stat. 664][/us/stat/50/664], which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29][/us/usc/t29/s50] and Tables.
+    Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (d)(2)(B), is [act Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], [50 Stat. 664][/us/stat/50/664], which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29][/us/usc/t29/s50] and Tables.
 
-    Section 171, referred to in subsec. (d)(2)(B), may mean section 171 of either the National Apprenticeship Act or the Higher Education Act of 1965. However, neither the National Apprenticeship Act or the Higher Education Act of 1965 contains a section 171.
+    Section 171, referred to in subsec. (d)(2)(B), may have been intended as a reference to section 171 of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], which is classified to [section 3226 of Title 29][/us/usc/t29/s3226], Labor. Neither the National Apprenticeship Act nor the Higher Education Act of 1965 contains a section 171.
 
     Subsection (h) of this section, referred to in subsec. (i), was redesignated subsec. (g) of this section by [Pub. L. 103–208][/us/pl/103/208], § 2(h)(25), Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477].
 
@@ -475,7 +475,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] amended par. (2) generally. Prior to amendment, par. (2) related to eligible career pathway programs for students who are not high school graduates.
+    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of “eligible career pathway program”.
 
     2014—Subsec. (d). [Pub. L. 113–235][/us/pl/113/235] amended subsec. (d) generally. Prior to amendment, text read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
 
@@ -854,6 +854,8 @@
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2477
 [/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV

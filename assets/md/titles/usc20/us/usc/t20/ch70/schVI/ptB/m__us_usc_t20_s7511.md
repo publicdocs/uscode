@@ -27,9 +27,9 @@
 
     A prior [section 6201 of Pub. L. 89–10][/us/pl/89/10/s6201] was renumbered section 5201 and is classified to [section 7341 of this title][/us/usc/t20/s7341].
 
-    Another prior [section 6201 of Pub. L. 89–10][/us/pl/89/10/s6201] was classified to [section 7331 of this title][/us/usc/t20/s7331], prior to the general amendment by [Pub. L. 107–110][/us/pl/107/110].
+    Another prior [section 6201 of Pub. L. 89–10][/us/pl/89/10/s6201] was classified to [section 7331 of this title][/us/usc/t20/s7331], prior to the general amendment of former subchapter VI of this chapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    Another prior [section 6201 of Pub. L. 89–10][/us/pl/89/10/s6201] was classified to [section 3271 of this title][/us/usc/t20/s3271], prior to the general amendment by [Pub. L. 103–382][/us/pl/103/382].
+    Another prior [section 6201 of Pub. L. 89–10][/us/pl/89/10/s6201] was classified to [section 3271 of this title][/us/usc/t20/s3271], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
 ----------
 
@@ -56,6 +56,7 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs6201
 [/us/usc/t20/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3271
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 
 

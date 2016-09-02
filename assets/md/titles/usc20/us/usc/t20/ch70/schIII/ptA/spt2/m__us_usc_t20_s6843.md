@@ -47,7 +47,7 @@
 
     A prior section 6843, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3133, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3646][/us/stat/108/3646], related to State applications for technology education assistance, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
-    A prior [section 3122 of Pub. L. 89–10][/us/pl/89/10/s3122] was classified to [section 6842 of this title][/us/usc/t20/s6842], prior to repeal by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(2)(A), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953].
+    A prior [section 3122 of Pub. L. 89–10][/us/pl/89/10/s3122] was classified to [section 6842 of this title][/us/usc/t20/s6842], prior to repeal by [Pub. L. 114–95][/us/pl/114/95].
 
     Another prior [section 3122 of Pub. L. 89–10][/us/pl/89/10/s3122] was classified to [section 6832 of this title][/us/usc/t20/s6832], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -97,8 +97,7 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3122
 [/us/usc/t20/s6842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6842
-[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
-[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/89/10/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3122
 [/us/usc/t20/s6832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6832
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

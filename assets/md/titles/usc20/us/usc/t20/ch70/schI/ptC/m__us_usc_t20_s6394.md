@@ -57,7 +57,7 @@
 
             (B) to coordinate such programs and projects with similar programs and projects within the State and in other States, as well as with other Federal programs that can benefit migratory children and their families;
 
-        (2) such programs and projects will be carried out in a manner consistent with the objectives of [section 6314 of this title][/us/usc/t20/s6314], subsections (b) and (d) of [section 6315 of this title][/us/usc/t20/s6315], subsections (b) and (c) of [section 6321 of this title][/us/usc/t20/s6321], and part F of this subchapter;
+        (2) such programs and projects will be carried out in a manner consistent with the objectives of [section 6314 of this title][/us/usc/t20/s6314], subsections (b) and (d) of [section 6315 of this title][/us/usc/t20/s6315], subsections (b) and (c) of [section 6321 of this title][/us/usc/t20/s6321], and part F;
 
         (3)
 

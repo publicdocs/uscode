@@ -49,7 +49,7 @@
 
 >     “(d)  __Impact Aid__  __.—__ 
 
->     With respect to title VII of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7401][/us/usc/t20/s7401] et seq.\], as amended by this Act, the amendments made by this Act shall take effect with respect to appropriations for use under such title beginning fiscal year 2017, except as otherwise provided in such amendments.
+>     With respect to title VII of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\], as amended by this Act, the amendments made by this Act shall take effect with respect to appropriations for use under such title beginning fiscal year 2017, except as otherwise provided in such amendments.
 
 >     “(e) __Title I of the Elementary and Secondary Education Act of 1965.—__ 
 
@@ -81,7 +81,7 @@
 
 >                 “(i) as in need of improvement, corrective action, or restructuring under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311][/us/usc/t20/s6311] et seq.), as in effect on the day before the date of enactment of this Act; or
 
->                 “(ii) as a priority or focus school under a waiver granted by the Secretary of Education under section 9401 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7861][/us/usc/t20/s7861]), as in effect on the day before the date of enactment of this Act.”
+>                 “(ii) as a priority or focus school under a waiver granted by the Secretary of Education under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7861][/us/usc/t20/s7861]), as in effect on the day before the date of enactment of this Act.”
 
  __Effective Date__ 
 
@@ -101,7 +101,7 @@
 
 >     “(d)  __Impact Aid__  __.—__ 
 
->     With respect to title VIII (Impact Aid) \[probably means title VIII of [Pub. L. 89–10][/us/pl/89/10], [20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
+>     With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of [Pub. L. 89–10][/us/pl/89/10], [20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
 
  __Short Title of 2015 Amendment__ 
 
@@ -305,7 +305,7 @@
 
 >         “(2)  __Waivers__  __.—__ 
 
->         A waiver shall be subject to paragraph (1) if the waiver was granted by the Secretary of Education to a State or consortium of local educational agencies under the program first introduced in a letter to chief State school officers dated September 23, 2011, and authorized under section 9401 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7861][/us/usc/t20/s7861]), as in effect on the day before the date of enactment of this Act.”
+>         A waiver shall be subject to paragraph (1) if the waiver was granted by the Secretary of Education to a State or consortium of local educational agencies under the program first introduced in a letter to chief State school officers dated September 23, 2011, and authorized under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7861][/us/usc/t20/s7861]), as in effect on the day before the date of enactment of this Act.”
 
 [Pub. L. 107–110][/us/pl/107/110], § 4, Jan. 8, 2002, [115 Stat. 1426][/us/stat/115/1426], provided that:
 
@@ -429,7 +429,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/usc/t20/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7401
+[/us/usc/t20/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7701
 [/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
